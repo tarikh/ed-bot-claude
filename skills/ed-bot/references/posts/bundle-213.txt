@@ -1,0 +1,336 @@
+===== BEGIN ED BOT ESSAY 3962 =====
+---
+title: Watch That Next Step (CEO Problems)
+url: https://edbatista.com/2017/08/watch-that-next-step-ceo-problems.html
+slug: watch-that-next-step-ceo-problems
+published: 2017-08-21T05:00:00
+updated: 2026-07-31T17:21:50
+source_body: wordpress-html
+---
+
+Most of my coaching clients are CEOs, and while almost all of them have previous leadership experience, for some of them it's their first time at the very top of an org chart. As they've grown into more senior roles over the course of their career, they've come to expect that things will be different at the next level up--but they can still be surprised by how different the role of CEO can be from other leadership positions. Even my clients who've had experience as a #2--as COO, for example--often discover that leadership at the next level brings unexpected challenges.
+
+What should first-time CEOs anticipate? And how can they be better prepared for the demands they're likely to face? Three dynamics that show up repeatedly in my practice are More Scrutiny, Less Feedback, and Very Little Empathy:
+
+1. More Scrutiny
+
+It’s not surprising that being a CEO results in more scrutiny—most leaders are used to operating under a spotlight that’s become more intense as they’ve grown more senior. But what can be surprising is that the spotlight blazing on a CEO almost never turns off. Leaders expect to be observed and assessed during key performances—giving a big speech, or running a critical meeting. But CEOs find that nearly every single interaction is now a key performance, and the people on the other side of the exchange will be carefully scrutinizing all aspects of their communication, from word choice to facial expressions.
+
+This has less to do with the individual who holds the job, and more to do with the symbolic function that the job serves in business culture. Even as organizations have grown flatter and concepts such as “servant leadership” have gained currency, the role of CEO continues to loom large in the collective imagination. This can be particularly surprising to first-time CEOs who feel that their own behavior hasn’t changed, but the behavior of those around them has. It’s important for CEOs to bear in mind that people aren’t merely responding to them as an individual—they’re responding as much, if not more, to the role.
+
+The heightened scrutiny CEOs encounter is also a function of several psychological dynamics. When we encounter someone we perceive as higher status or more socially distant from us, we’re more likely to experience a threat response, commonly called a "fight, flight, or freeze" response. [1] In these situations our brains and body react just as if we’re facing a literal threat to our physical safety. We feel a heightened sense of vigilance and scan the environment seeking clues to help us determine the degree of danger. We also tend to be distressed whenever we don’t fully understand another person’s behavior, so we rapidly construct a narrative to explain it. [2] Our brains are essentially making a bet that having some sort of explanation, even one based on the scantiest of evidence, is preferable to having no explanation at all. As a result, most of the people a CEO encounters will be constantly assessing them, seeking to determine whether or not they pose a threat and trying to make sense of their behavior.
+
+There are several consequences of this process that CEOs need to be mindful of and can take steps to address. First, recognize that every interaction, formal and informal, is likely to feel significant to the other party and that they will invest it with meaning. Successfully navigating an endless series of such interactions requires being attuned to others’ perceptions and responding in a way that is both authentic and sustainable--a difficult balance to maintain. Adopting a patently insincere persona is no solution, but some degree of self-monitoring is necessary, both to connect effectively with others and to manage the expenditure of energy that such connection requires. [3]
+
+CEOs should anticipate that many of the people they encounter will be more likely to feel intimidated, anxious and even distressed in their presence. This isn’t necessarily counterproductive—most leaders will experience situations when the ability to evoke such feelings is a useful skill. But it’s never desirable to do so inadvertently, and CEOs need to realize there’s often a large gap between the intentions behind their actions and the impact on others. Insuring alignment between intentions and impact requires an increased sensitivity to others’ emotional responses and the ability to finely regulate one’s own behavior.
+
+Also, expect that people will seize on scraps of information about the CEO’s preferences and will immediately create an explanatory narrative to dispel any uncertainties regarding the CEO’s behavior. This can easily result in gross distortions and misunderstandings that would be comical if they didn’t have such serious consequences. It’s incumbent on CEOs to be aware of the resulting potential for miscommunication and the likelihood that subtleties and nuances will often be lost in translation. [4] This isn’t to say that CEOs should always be clear and explicit—there is often strategic value in ambiguity—but any vagueness in communication should be intentional, not accidental.
+
+Finally, because CEOs are the objects of constant scrutiny they need to construct some sheltered spaces--both literal and psychological--in which they can interact, reflect, and simply be themselves without being under the spotlight. [5] It’s worth noting how difficult this can be in a culture of open offices and visible calendars. While the transparency supported by these conditions has its advantages, it can also have significant drawbacks for leaders. Claiming a personal office or making one’s calendar inaccessible may feel too counter-cultural, particularly if the organization prides itself on its openness, but CEOs should anticipate a need for increased privacy at times, and it may be necessary to create some alternative options within the culture to meet this need.
+
+2. Less Feedback
+
+After earning my MBA I was hired to head up a new organization, and the best advice I got came from a member of my board of directors: “Don’t expect the board to be responsible for your development. We’re not your managers.” My board was supportive, but the nature of the relationship was fundamentally different than that which I’d had with leaders in the past when I’d been a #2, and the biggest change was the absence of feedback.
+
+This isn’t to say that CEOs receive no feedback at all from board members or investors, but it’s shaped by the nature of the relationship. These stakeholders may care more about the success of the venture—appropriately so—than they do about the success of the individual CEO, so their feedback has to be viewed through that lens. And there are simply fewer opportunities to deliver such feedback, so it’s often provided in rushed conversations with little context.
+
+CEOs do receive a significant amount of indirect feedback from external sources—there are many sources of data that serve as indicators of their performance. Effectiveness in raising capital, closing large customers, and hiring top candidates for senior roles are some of the metrics my clients use to assess how they’re doing as leaders. But a CEO will rarely get any direct feedback on their performance from these sources, particularly when things go badly. Investors who take a pass, customers who choose a competitor, and candidates who decline an offer are great sources of developmental feedback for a CEO in theory, but there are minimal incentives for them to actually deliver such feedback in practice.
+
+This leaves employees, and here CEOs face the dilemma of how to encourage people to speak candidly to someone who has the power to fire them. CEOs can look to hire strong execs who are willing to be direct, but even the most forthright individuals will be highly influenced by the environment, so it’s essential to bui
+
+ld a feedback-rich culture. [6] The most effective, yet often most daunting, step in this process for a CEO is simply to ask their exec team for feedback. Sometimes these conversations are best had one-on-one, but in those settings the power differential will often limit the other person’s candor. If a CEO wants to hear the feedback that will likely be most useful for their continued development, they have to establish a culture among the exec team that will allow them to have this conversation as a group.
+
+This is very difficult to accomplish, and I’m not suggesting otherwise. Companies frequently respond to this difficulty by undertaking a 360-degree review for the CEO and holding confidential interviews with the members of the exec team. This process generates candid feedback for the CEO, but it's also fraught with problems. [7] Such reviews often serve to absolve the exec team of responsibility for the problems they face and treat the CEO as if he or she could act unilaterally to solve them, which is rarely the case. I no longer conduct 360 reviews for my clients and instead focus on working with them to develop the interpersonal skills and cultural environment necessary to have more candid conversations, both one-on-one and with their entire team. (My colleague Dan Oestreich has some excellent advice on how to make 360 reviews for leaders more effective.) [8]
+
+3. Very Little Empathy
+
+Nobody cares about a CEO’s problems. That’s not entirely true, but it’s often how it feels. Board members and investors want to be helpful, but even when these relationships are relatively open and trusting, CEOs are understandably reluctant to share personal challenges too candidly, creating a barrier to real empathy. Friends and family members care deeply, but they may lack the expertise to be truly helpful thought partners—and at times they can get tired of listening before the CEO is ready to stop talking about work.
+
+Execs and employees are well-informed about the business and usually happy to talk at great length with their CEO. But people are generally unreceptive to hearing about the difficulties faced by those in positions of power over them because it's so hard to empathize up. [9] So although CEOs need to establish more open dialogues with execs and employees to obtain candid feedback, as discussed above, they also need to be cautious about expressing personal frustrations in these conversations. Yielding to this temptation can create a sense of interpersonal distance, as the employee may feel obligated to agree with the CEO’s grievances without truly empathizing with them, and what had been an increasingly frank relationship becomes a ritual performance. I’m not suggesting that leaders should fake a stoic or cheerful attitude, but expectations of empathy from employees must be tempered.
+
+Yet empathy is a deeply human need, and no leader is immune. Of great relevance here is the work of Brené Brown, a professor at the University of Houston whose research is focused on the topics of shame, empathy, and vulnerability. [10] We often experience some form of shame at work as a result of setbacks and mistakes, ranging from mild embarrassment to much deeper, more difficult feelings, and CEOs are no exception. Empathy from others is critically important in allowing us to work through these emotions and move ahead productively—Brown describes empathy as the antidote to shame.
+
+The essential factor that triggers empathy is an expression of vulnerability. Leaders wrestle with feelings of vulnerability constantly, but they’ve been conditioned to hide these feelings for fear of being perceived as weak. There is justification for this response—as Stanford professors Jeff Pfeffer and Bob Sutton have noted, "When leaders talk and act as if they are in control…changes are attributed to the leaders. The leaders believe they actually helped shape these changes, which gives them added confidence to…talk and act even more persuasively. Confidence thus becomes self-fulfilling, setting in motion behaviors that in fact make things better, whereby the leaders’ confidence is justified." [11]
+
+So what’s the solution? First, CEOs need to develop the difficult skill of expressing vulnerability strategically. If this sounds paradoxical, it’s because we misunderstand the nature of vulnerability. We assume that it’s an all-or-nothing proposition, or we associate it with extreme forms of emotional expression, such as uncontrollable tears. In actuality, vulnerability is highly relative and can be expressed through a vast range of well-regulated behaviors. For example, with a board member or an investor it may be sufficient for a CEO to simply express a degree of uncertainty in a slightly more emotionally expressive tone; there’s no need (nor would it be helpful) to share every single doubt or their deepest anxieties.
+
+CEOs also have to cultivate a set of relationships that are free from the inherent conflicts described above. They need people in their lives who care about their personal success and fulfillment without being attached to any particular outcome--and note that board members, investors, family and employees may all have diverging interests in this regard. One way I describe this to clients is to construct a "coaching team"--a network of people whose interests are aligned with theirs, who are readily accessible when needed, and who are capable of having a coaching conversation (as opposed to simply dispensing advice). I can certainly play a role as a member of that team, but other relationships will likely be needed. In some cases these are more formal arrangements--a group of fellow CEOs that meets regularly, for example—but that’s not necessary. The key is recognizing that past sources of support and empathy are likely to be insufficient and a more proactive approach is now required.
+
+Footnotes
+
+[1] David Rock on Neuroscience, Leadership and the SCARF Model
+
+[2] Seeing What's Not There (The Importance of Missing Data)
+
+[3] Self-Monitoring
+
+[4] The Blue Problem (Communication and Power)
+
+[5] Happy Workaholics Need Boundaries, Not Balance
+
+[6] Building a Feedback-Rich Culture
+
+[7] The Problem with Anonymous Feedback
+
+[8] Comment on the post above (Dan Oestreich)
+
+[9] The Difficulty of Empathizing Up
+
+[10] Brené Brown, Vulnerability, Empathy and Leadership
+
+[11] Pfeffer and Sutton on Leadership
+
+Photo by bjoern5jahre.
+
+
+===== END ED BOT ESSAY 3962 =====
+===== BEGIN ED BOT ESSAY 3963 =====
+---
+title: Culture, Compensation and Negotiation
+url: https://edbatista.com/2017/08/list-price-vs-haggling-culture-compensation-and-negotiation.html
+slug: list-price-vs-haggling-culture-compensation-and-negotiation
+published: 2017-08-14T05:00:00
+updated: 2025-10-09T11:10:14
+source_body: wordpress-html
+---
+
+A constant theme in the lives of my coaching clients is the difficulty of conducting transactions when stakes are high and value is difficult to ascertain. This frequently comes up in the context of compensation negotiations. Most of my clients are leaders of growing companies who are almost always hiring one or more senior execs--sometimes in order to fill a new role, and at other times to upgrade a position with someone more capable. And occasionally I work with people navigating a transition who find themselves on the other side of this process.
+
+The figures involved in senior-level compensation packages may be large and complex, but ultimately they're still just prices, and when we're involved in a negotiation it's essential to give some thought to the psychology of pricing. Prices are always laden with meaning, and compensation figures carry the additional burden of putting a value not only on our labor, but also, in a sense, on ourselves, which inevitably involves subjective assessments of our own worth and that of the value we create. Complicating matters further is a cultural divide that I've come to think of as list-price vs. haggling.
+
+In a list-price culture, there's a high degree of transparency and very little flexibility. An opening offer may not be take-it-or-leave it, but there's relatively little gamesmanship in the process. There may be some room for negotiation on the margins, but the basic requirements necessary to close a deal are clear and straightforward, and it's reasonably obvious when the two parties are sufficiently close to reach agreement and when they're not.
+
+In a haggling culture, the opposite is true. There's very little transparency and a great deal of flexibility. Opening offers are never take-it-or-leave-it, and gamesmanship abounds. Everything is up for negotiation, and the basic requirements necessary to close a deal are uncertain and highly dynamic. It's rarely apparent whether the two parties are sufficiently close to reach agreement, because their currently stated positions may bear little relation to their actual willingness to reach a deal.
+
+Our identification with one culture or the other derives from many potential sources--our nationality, community, family of origin, formative experiences, and professional training, to name just a few. We may also change sides in different contexts--we don't necessarily always employ the same approach. But in my experience most people have a basic tendency toward one culture or the other that asserts itself in compensation negotiations, largely because of the strong emotions that these experiences typically evoke.
+
+In some situations, the setting itself determines the culture of the transaction--for example, in the United States it's expected that used car purchases will involve some back-and-forth, and even list-price people who resist haggling will be unlikely to accept the initial figure proposed by the seller. But compensation negotiations for senior execs can be much harder to decode. When a leader is contemplating how to craft an offer for a candidate, and when a candidate is determining how to respond, it's typically the first transaction between these two parties, and they may know very little about the other's transactional culture. And when the two cultures collide it can make an already-difficult process even more challenging.
+
+The fundamental issue is the different way each culture communicates meaning through prices. In a list-price culture, the opening offer is an information-rich signal, and it will be closely aligned with the leader's assessment of the candidate's value. In a haggling culture, the opening offer is much less meaningful and may say very little about the candidate's value to the organization; that information will be conveyed slowly and strategically over the course of the negotiations.
+
+So what can we do? First, it's essential to understand our own cultural tendency. While we may be more flexible in certain situations, in compensation negotiations it's likely that we revert to one or the other. We also need to learn as much as possible about the other party's tendency, which will inevitably involve drawing conclusions based on incomplete information. The key here is to insure that we're neither exaggerating on the basis of stereotypes nor ignoring potential signs that may be meaningful clues. Before we act on the basis of these conclusions, it's important to clearly understand where they're coming from--we need to analyze the data we've observed, our interpretation of that data, and the theories and beliefs that underpin our interpretations.
+
+We then have to make a provisional assessment of whether we're dealing with someone who shares our cultural tendency, and this will inform our opening move and initial responses. The first few interactions in the course of the negotiation will tell us a great deal about the accuracy of this assessment, so it's critical to be looking closely for any information that might support or challenge our view. In short order we'll learn whether the other party shares our cultural tendency, and if they do, the situation is simplified tremendously.
+
+But if they don't, then we need to more clearly understand the implications of conducting a negotiation across this cultural divide and the potential surprises that await us. When a list-price leader meets a haggling candidate, the leader may be surprised by a seemingly outrageous counter-offer, and the candidate may be surprised by the leader's rigid inflexibility. And when a haggling leader meets a list-price candidate, the leader may be surprised by the candidate's apparent lack of responsiveness, and the candidate may be surprised by the insultingly low opening offer. With this heightened awareness, we can better identify and manage the emotions that inevitably come up in response to these unexpected developments--our own and those of the other party--making it much more likely that we'll reach a successful outcome, either by closing a mutually satisfactory deal or by accurately concluding that a deal isn't possible.
+
+For Further Reading
+
+Negotiating with Your Own Side
+
+When Offers Fall Apart
+
+The Value of a Good Fight
+
+Resources for Managing Up
+
+Photos: Prices by Skidflints. Handshake by OXLAEY.com.
+
+
+===== END ED BOT ESSAY 3963 =====
+===== BEGIN ED BOT ESSAY 3964 =====
+---
+title: "Work Hard or Work Smart?" Is the Wrong Question
+url: https://edbatista.com/2017/06/work-hard-or-work-smart-is-the-wrong-question.html
+slug: work-hard-or-work-smart-is-the-wrong-question
+published: 2017-06-23T10:20:30
+updated: 2025-11-20T18:11:35
+source_body: wordpress-html
+---
+
+The perennial "Work hard or work smart?" debate has been playing out again, and it's one with substantial implications for my coaching clients, most of whom are technology company CEOs, and my MBA students at Stanford, most of whom came to business school to make a significant professional leap. [1]
+
+But while this debate addresses critically important issues, we're not resolving it successfully, at least in part because we're posing the wrong question as a premise. Rather than ask whether we should "work hard" or "work smart," we should instead be asking: What is the nature of this particular system? What is the relationship between effort and results? And where am I on that curve? Because the answers to these questions will tell us much more about how to proceed.
+
+In a system characterized by increasing returns, additional effort yields ever-greater results, while in a system characterized by diminishing returns, additional effort yields less and less. This is a truism, of course--nothing could be more obvious. The key is recognizing that some systems are fundamentally one or the other, while others change their nature, often depending on the timeframe under consideration.
+
+In general--and to be clear, I'm being extremely reductive here--systems characterized by increasing returns are primarily symbolic, cognitive or inorganic, while those characterized by diminishing returns are primarily tangible, biological or organic. And an essential factor to bear in mind when assessing the nature of any system is that human beings are always both. As the late anthropologist and philosopher Ernest Becker once wrote, "the essence of man is really his paradoxical nature, the fact that he is half animal and half symbolic." We are tangible and symbolic, biological and cognitive, organic and inorganic.
+
+So how do we resolve this paradox? Do we focus on human beings as biological organisms or as symbolic analysts? Here the issue of timeframe is critical, particularly with regard to the importance of sleep, a biological imperative that's dismissed as a luxury in some competitive cultures and yet is closely associated with superior performance in fields ranging from athletics to leadership. [2] From this perspective, any given day is a system characterized by diminishing returns, and when work interferes with our ability to be well-rested, it's time to stop working. I'm not suggesting that we should work all-out and then stop abruptly--research suggests that we're most productive when we alternate between periods of intense focus and regular breaks. [3]
+
+Nor am I suggesting that we should cease work at the first sign of fatigue, but at a given point each day our effectiveness will begin to decline, so on a daily basis we need to know when we've reached that inflection point in our productivity and be prepared to Hit the Brakes because we're no longer working efficiently. As Intel CEO Andy Grove once wrote, "My day always ends when I'm tired, not when I'm done... A manager's work is never done." [4] At the same time, we can take advantage of this dynamic by planning to do our most daunting or challenging work at the very start of the day, when we're best able to focus and direct our attention.
+
+When we consider longer periods of time, the picture changes, and a substantial body of research has documented the relationship between high performance and hard work. In one of the most influential papers in the field, Florida State University psychologist Anders Ericsson and his colleagues stress the importance of persistent effort in top performance:
+
+Individual differences, even among elite performers, are closely related to assessed amounts of deliberate practice. Many characteristics once believed to reflect innate talent are actually the result of intense practice extended for a minimum of 10 years. [5]
+
+So long periods of time--such as a career, for example--are systems characterized by increasing returns, and achieving excellence in our chosen field will require dedicating ourselves to "intense practice." Hard work won't guarantee results--chance always plays a role in human affairs, much to our chagrin [6]--but such work is almost always a necessary precondition to success. And note that in such a system we must be prepared to work inefficiently at first, an inevitable consequence of our lack of expertise, but we become more effective as we gain experience. So if our goal is to maximize results over the course of our career, we need to be prepared to Hit the Gas in order to power through the inefficient early stages and achieve the rewards that lie beyond the inflection point.
+
+But this still leaves three sets of important questions unaddressed:
+
+1) What about everything else in addition to work and sleep? Where do other activities fit?
+
+Boundaries > Balance
+
+"Balance" is an unhelpful metaphor when it comes to determining how to live our lives, both because it suggests a tenuous state that's difficult to attain (and easy to lose) and because high-achieving people often don't want to live a "balanced" life, particularly if they love their work. It's much more useful to think about boundaries. As I've written before,
+
+Years ago my colleague Michael Gilbert suggested that we substitute "boundaries" for "balance": while balance requires an unsteady equilibrium among the various demands on our time and energy, boundaries offer a sustainable means of keeping things in their proper place. Gilbert drew upon his training as a biologist in his definition of healthy boundaries: "Just as functional membranes (letting the right things through and keeping the wrong things out) facilitate the healthy interaction of the cells of our bodies, so do functional personal boundaries facilitate the healthy interaction of the various parts of our lives. Bad boundaries lead to either being overwhelmed or withdrawal. Good boundaries lead to wholeness and synergy." [7]
+
+While we need temporal boundaries to protect time for activities outside of work and physical boundaries that enable us to get away from our workplaces, the most difficult boundaries to establish are cognitive: We need to manage our attention to insure that we're not thinking about work all the time. [8] There's no simple way to accomplish this, but the best place to start is through meditation or other mindfulness practices. [9]
+
+2) What about time periods in between a day and a career? How do we approach a given week, month or year?
+
+Stress / Rest / Stress (Repeat)
+
+In any given day, and over the course of a career, and within every intermediate span of time in between, we will go through alternating periods of increasing and diminishing returns. So in actuality, every human system looks like this:
+
+But we need not be passive witnesses to this process--we can take an active role in managing ourselves to take advantage of these dynamics by attuning ourselves to the inflection points that make the transition from one period to the next and responding accordingly. This Stress / Rest / Stress cycle is critical to maximizing our performance. As coach and human performance expert Brad Stulberg has written,
+
+The world’s best performers--in domains as varied as sport, art, and business --follow a common pathway to continual growth. They take on challenges and make themselves uncomfortable (stress) and then follow those challenges with recovery and reflection (rest). Then they rinse and repeat, with a slightly greater challenge. [10]
+
+Interestingly, note the parallel with Mihaly Csikszentmihalyi's concept of a state of flow, that optimal psychological condition in which we're so immersed in the task at hand that we may even lose track of time. [11] Just as we maintain the ability to enter a flow state by alternating between enhancing our skills and tackling bigger challenges, we work most effectively by alternating between ongoing periods of stress and rest.
+
+3) What about other people? How do we create organizations in which groups can achieve excellence together?
+
+Accountability + Empathy
+
+In 2007 I wrote about the Managerial Style Grid, a framework developed by Jane Mouton and Robert Blake in the 1960s, and here's an illustration I used in that post [12]:
+
+In my work over the past decade I've come to see this dynamic in even simpler terms: When we're in a leadership role or a position of authority, we're faced with the task of both holding people accountable and empathizing with their difficulties (some of which we've caused), and how the members of a given group respond to this challenge defines that group's culture. The leader is in a unique position to influence the culture, through the behaviors they model, acknowledge, ignore, reward and punish, but ultimately every member of the group has some responsibility for the culture that emerges. Here's a version of the Mouton-Blake grid that reflects these ideas:
+
+So how do we get to Paradise? Obviously there's no simple solution--but there is one easy way to guarantee failure, and that's making the assumption that either we can hold people accountable or we can empathize with them. In part, this stems from the mistaken idea that empathy is the same thing as agreement. As I've written before,
+
+[W]e act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [13]
+
+Once we've overcome that conceptual obstacle, to put any solutions into practice we must have the difficult conversations that are necessary to both support a culture of accountability while also conveying empathy and care. As is so often the case, the key is increasing our comfort with discomfort. [14] For some of us, this involves being more effective at holding people accountable: setting high standards, rewarding excellence, calling out inadequate performance. And for others this involves being more effective at expressing empathy: sensing and acknowledging distress and vulnerability, offering comfort, taking steps to provide relief.
+
+This is a companion piece to the following:
+
+- Accountability and Empathy (Are Not Mutually Exclusive) (2019)
+
+- Hard Problems in Soft Cultures (2022)
+
+Footnotes
+
+[1] The Gospel of Hard Work, According to Silicon Valley (Nitasha Tiku, Wired, 2017)
+
+[2] For more on the impact of sleep on performance, see the following:
+
+- Sleep Is More Important Than Food (Tony Schwartz, Harvard Business Review, 2011)
+
+- You Can't Do Your Job if You Don't Sleep (Tony Schwartz, Harvard Business Review, 2012)
+
+- Building Better Athletes with More Sleep (Mark McClusky, The Atlantic, 2014)
+
+- Relax, Turn Off Your Phone, and Go To Sleep (Larry Rosen, Harvard Business Review, 2014)
+
+- Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes, Harvard Business Review, 2016)
+
+- There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm, Harvard Business Review, 2016)
+
+- Senior Leaders Get More Sleep Than Anyone Else (Rasmus Hougaard & Jacqueline Carter, Harvard Business Review, 2018)
+
+[3] A Formula for Perfect Productivity: Work for 52 Minutes, Break for 17 (Derek Thompson, The Atlantic, 2014)
+
+[4] High Output Management, page 47 (Andy Grove, 1983/1995)
+
+[5] The Role of Deliberate Practice in the Acquisition of Expert Performance, (Anders Ericsson, Ralf Krampe, and Clemens Tesch-Romer, Psychological Review, 1993)
+
+[6] Significance Junkies
+
+[7] Happy Workaholics Need Boundaries, Not Balance
+
+[8] The Art of Self-Coaching: Attention
+
+[9] Don't Just Do Something, Stand There! (Mindfulness for Busy People)
+
+[10] The Growth Equation: Stress + Rest = Growth (Brad Stulberg, Thrive Global, 2017. Brad is the co-author, with Steve Magness, of Peak Performance, a book I highly recommend.)
+
+[11] Spiral Learning and Flow States
+
+[12] Conflict Modes and Managerial Styles
+
+[13] The Difficulty of Empathizing Up
+
+[14] Comfort with Discomfort
+
+Photo by Thomas Quinet.
+
+
+===== END ED BOT ESSAY 3964 =====
+===== BEGIN ED BOT ESSAY 3965 =====
+---
+title: The Art of Self-Coaching: Attention
+url: https://edbatista.com/2017/05/the-art-of-self-coaching-attention-stanfordbiz-class-of-2016-reunion.html
+slug: the-art-of-self-coaching-attention-stanfordbiz-class-of-2016-reunion
+published: 2017-05-15T05:00:00
+updated: 2026-10-27T11:25:23
+source_body: wordpress-html
+---
+
+I recently held a workshop at the Stanford GSB one-year reunion for the Class of 2016, drawing on material from my course, The Art of Self-Coaching. I focused on the topic of Attention, which is the theme of a new class session that I added to the course this past year. My slides are above, and a condensed summary of my remarks is below (covering the entire workshop would have doubled the length of this post.) Thanks to the Class of 2016 for inviting me to speak—it was a pleasure.
+
+Introduction
+
+The topic of Attention is deeply interwoven with the process of self-coaching, and it’s foundational to my course at Stanford. Following the session on Attention, the next three classes address topics that draw upon this foundation in a number of ways:
+
+- Emotion: As I’ve noted before, emotions are attention magnets. A core function served by emotions is to interrupt conscious thought, capture our attention, and orient us toward some development in our environment or ourselves that may be an opportunity or a threat.
+
+- Happiness: One of the most important findings from positive psychology is that what we pay attention to can have a demonstrable impact on our level of happiness and fulfillment.
+
+- Resilience: Directing our attention toward a desired object of focus (or away from undesirable distractions) is hard enough in ordinary circumstances, but it’s even more difficult when under stress or facing adversity.
+
+A fundamental premise of this workshop, my course, and my coaching practice is that your attention is your most precious resource. What we pay attention to matters, and this is particularly true for leaders. We have an impact through the directed focus of our attention. We often conflate attention with time, but it’s very easy to spend substantial amounts of time with other people or engaged in a task and yet fail to have a meaningful impact because of a lack of focused attention.
+
+Your effectiveness as a leader will increasingly be contingent upon your ability to choose where to focus your attention, as well as what (and who) to ignore. This is a fundamental leadership skill that gets more difficult under stress, and it will only get harder as you become more senior, not only because you’ll have more freedom to determine what’s important, but also because more people will be clamoring for your attention. People will want you to attend their meeting, they’ll want you to vet their idea, they’ll want your feedback—all because the leader’s attention matters. Bear in mind that they will not care about the difficulty you will experience in making these choices or the cost to you of depleting your attention—and not because they are uncaring people, but because it is profoundly difficult to empathize up. So the only person who can manage this process is you.
+
+System 1 and System 2
+
+This is a way of “thinking about how we think,” a conceptual model of how the brain operates, first developed by psychologists Keith Stanovich and Richard West, and later popularized by Nobel-winner Daniel Kahneman. It’s important to note that these “systems” refer to different modes of operating and mental processing, not to literal brain structures. (We often employ mechanical or computational models to describe the brain, assigning functions to specific neural structures, and while those metaphors have value as teaching tools, they also have their limitations. We do not fully understand how the brain works, and many of our early conceptual frameworks have proven wrong.)
+
+With that caveat, it’s evident that the brain has different modes of operating that we employ for various purposes. System 1 is fast and automatic, characterized by little or no effort, and with no sense of voluntary control. At nearly all times we experience a steady stream of thoughts and feelings generated by our System 1 in response to environmental stimuli or arising spontaneously. Because it is outside of our voluntary control, we can perceive System 1 as distinct from or even external to our personal identity. These automatic thoughts and feelings clearly emanate from an aspect of our inner selves, and yet their source remains inaccessible to conscious thought and examination.
+
+In contrast, System 2 is slow and even laborious, characterized by effortful concentration and a sense of agency and deliberate choice. Rather than operating on an ongoing basis, System 2 processing is triggered by a combination of environmental stimuli and our System 1 responses. Because it is more fully within our conscious control, we associate System 2 with our personal identity and sense of self. When we say to ourselves, “I’m thinking,” we’re referring to our System 2.
+
+An iceberg, with the majority of its mass invisible below the surface, is an appropriate metaphor for these two systems. Most of our mental processing is comprised of System 1 activity, occurring automatically and beyond the realm of consciousness. Our System 1 is constantly registering sensory signals and absorbing information, assessing and judging, setting goals, making decisions, and spurring us to action. Conscious, effortful thought—what we generally understand as “thinking”—is merely the tip of the iceberg.
+
+Here’s an illustration: When we see the equations “2 x 2” or “4 x 4,” we’re automatically aware that the answers are 4 and 16. When we see the equation “16 x 16,” some people are automatically aware that the answer is 256, but not everyone. And when we see the equation “256 x 256,” only a very small number of people are automatically aware that the answer is 65,536, but almost all of us have to pause and think. What we experience in that progression is the shift from System 1 thinking—fast, effortless, and involuntary—to System 2 thinking—slow, effortful, and voluntary.
+
+When considering System 1 and System 2, we may well ask: Who’s in charge? Because of our conscious identification with System 2, we’d like to believe that it’s in charge, but that not necessarily the case. Think about the many people who suffer from a fear of flying. They know, intellectually, that the risk of dying in a car is far greater than the risk of dying in a plane, and yet this cognitive awareness is insufficient to overcome their fear. As Kahneman notes, the relationship between the two systems is complex and dynamic. Most of the time System 2 is merely an “acquiescent monitor,” attending to the endless stream of thoughts and feelings from System 1 but taking no action in response to them. But at times System 2 becomes “actively resistant” and takes charge, such as when we’re confronted by a task System 1 is incapable of addressing, such as calculating the sum of 256 x 256, or when we realize that our fear of flying is irrational, and we need to get on the plane in spite of it. And at still other times System 2 is “an endorser, not an enforcer,” and it adopts thoughts and feelings from System 1 with gusto, such as when we’re in the midst of a passionate debate—or a hostile fight—and we marry logical argument with emotional appeals.
+
+Attention Budgets, Ego Depletion and the Law of Least Effort
+
+So why does all this matter? What are the implications of these concepts for our daily lives? First, it’s important to recognize that System 2 processing, which we require to address complex tasks, is a form of attention, and both our capacity for System 2 processing and our ability to consciously direct that processing power are finite. We operate with what Kahneman calls an “attention budget,” and, he writes, “If you try to go beyond your budget, you will fail.” For example, people are being killed and injured in record numbers because drivers can’t stay off their phones while behind the wheel. This epidemic of distracted driving is an example of people exceeding their attention budget, with tragic consequences. EMTs, pilots, combat soldiers, and even some financial traders operate in environments that are potential “attention black holes,” and they receive intensive training that helps them stay within their attention budget in order to remain focused on the things that matter most. This applies both in the moment and over the course of the day. Like a distracted driver, we can exceed our attention budget in any given moment, become overwhelmed, and lose our ability to focus. But we also deplete our ability to direct our attention over the course of each day, so that by the end of the workday and late at night, we’ve typically exceeded our attention budget for that period of time and often find it difficult to make good decisions about where to direct our attention.
+
+This latter dynamic is also related to a concept known as “ego depletion.” Early psychological research on the subject suggested that varying levels of glucose in the bloodstream had an impact on our capacity for attention management, including decision-making and effortful concentration. This conclusion has not been supported by more recent studies, indicating that it’s a much more complex process than originally conceived. But while the underlying neurological mechanisms are still being explored, we do know that that sustained efforts at self-control—including consciously directing our attention—consume substantial amounts of our finite System 2 processing, which we typically experience as unpleasant. In general this is a good thing, because it prevents us from wasting such a powerful and limited resource on unimportant tasks. But as a consequence we sometimes have to overcome a certain amount of reluctance in order to truly focus our attention, and our ability to maintain this effort diminishes over time, along with our capacity to resist distraction.
+
+Finally, Kahneman notes, we operate according to a “law of least effort”: We’re cognitively lazy, and we habitually seek mental shortcuts. A more charitable way to put it is that we’re efficient or economical, and System 2 processing is inherently inefficient and expensive. System 1 is capable of operating in parallel, generating vast numbers of thoughts and feelings simultaneously. In contrast, System 2 can truly focus on just one object at a time, which allows it to address highly detailed and complex issues, but which also makes it quite slow. As a result, we tend to conserve System 2 resources and rely on System 1 whenever possible, and, again, this is generally to our advantage, because we’re more likely to have this processing power available when we truly need it. But a consequence is that we’re prone to cognitive biases and systematic errors in our thinking. One example is the power of first impressions. We typically assess people on a number of dimensions, such as the degree to which we feel close to them or whether they’re a potential threat, within seconds of meeting, a System 1 process. This is highly efficient, allowing us to interact safely with large numbers of strangers we’ve never met before while consuming relatively little System 2 processing power. But it’s also error-prone, and the stereotypes that contribute to our first impressions can also be the source of pernicious prejudices.
+
+Plugging Leaks
+
+So what can we do? How can we stay within our limited attention budget, combat ego depletion, and resist the law of least effort? How can we better manage our attention? One way is to plug leaks: To recognize that our attention—our most precious resource—is constantly leaking away and being spent on unproductive activities that serve other people’s interests but not ours. And one of the best places to start plugging leaks is your phone. Consider all the possible ways that your phone is capable of interrupting you: alerts, badges, banners, sounds. Take a moment and actually list them out—call it an Interruption Inventory. And ask yourself:
+
+- Which ones did I choose?
+
+- Which ones were chosen for me?
+
+- How useful or necessary are they?
+
+Now identify all the people who can seize your attention via your phone and the means by which they do so: email, text, apps, voice. Again, take a moment and list them out—call it a Hierarchy of Disruption. And ask yourself:
+
+- Why do they have this power?
+
+- What do they do with it?
+
+- How have I given them this power and enabled this process?
+
+Consider these two lists and ask yourself:
+
+- How might I use these tools differently?
+
+- What could I make less prominent?
+
+- What could I ignore entirely?
+
+As useful as our phones can be, it’s essential to realize that on the other side of the screen are tens of thousands of people spending billions of dollars with one goal in mind: To capture your attention. You are not the user—you’re the product.
+
+Conclusion
+
+Your attention is your most precious resource--and it's hard to direct and easy to waste. We can't rely on mere willpower to insure that we're making effective use of our attention. Environmental factors--including tools and devices designed to capture our attention--and mental training (such as meditation or other mindfulness practices) are key.
+
+The effort required to focus your attention on what's most important will only get harder as you become more senior. Everyone wants the leader's attention, because attention is such a powerful force, and what the leader pays attention to has an impact throughout the organization. People will want you in their meeting, they'll want you to vet their idea, and they'll want your feedback--all potential objects of your attention. But they won't care about the cost to you, not out of maliciousness, but simply because it's so difficult to empathize up. As a consequence, you're the only person who will be in a position to insure that you're focusing your attention on what's truly important, and not just urgent. So start treating your attention like a resource now.
+
+Photo by Seth Anderson.
+
+
+===== END ED BOT ESSAY 3965 =====

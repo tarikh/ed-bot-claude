@@ -1,0 +1,533 @@
+===== BEGIN ED BOT ESSAY 4107 =====
+---
+title: Mark McGuinness on Managing Creative People
+url: https://edbatista.com/2021/04/mark-mcguinness-on-managing-creative-people.html
+slug: mark-mcguinness-on-managing-creative-people
+published: 2021-04-27T10:25:28
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+Mark McGuinness is a coach and poet based in the U.K. whose practice includes a focus on working with fellow creative people. I've appreciated Mark's work for many years, and when several of my clients unexpectedly found themselves responsible for managing creative teams, I asked him to share some advice for leaders in that position:
+
+Creatives typically have very high levels of intrinsic motivation for their work--they really love to work, and live to do great work. This causes creative teams to hold themselves to high standards, and it's important for a leader to bear this in mind.
+
+In a corporate setting one of the leader's most important tasks is to channel creatives' enthusiasm so that it will be most valuable to the company, ensuring the work is on-brief, on-brand and on-message, as well as artistically excellent. The best creatives are the ones who can square this circle by coming up with original and commercially relevant work, and they relish this challenge.
+
+So when I'm working with leaders of creative teams, I encourage them to adopt a coaching style as much as possible, drawing on Daniel Goleman's six basic leadership styles. [see below] This allows the leader to draw out creatives' ideas and enthusiasm and afford them an appropriate degree of autonomy, while also monitoring progress in a supportive way.
+
+Mark expands upon this advice in How to Motivate Creative People (Including Yourself), and he recommends these additional resources:
+
+- Herding Tigers: Be the Leader That Creative People Need (Todd Henry, 2016): "A really good book about leading creative teams, addressed to senior creatives who are making the transition to team leader. I interviewed Todd about the book when it came out."
+
+- Tantrums and Talent: How to Get the Best From Creative People (Winston Fletcher, 1999): "A readable book on the subject, although I don't entirely agree with the chapter on 'the creative personality.' Valuable quotes from experienced leaders, and practical advice on things like briefing and feedback."
+
+- The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever (Michael Bungay Stanier, 2016): "I often buy this for clients to help them become better coaches at work, and I also interviewed Michael."
+
+ 
+
+For Further Reading
+
+Coaching and Feedback Tools for Leaders: A compilation of my work on these subjects from the past decade. In this context I recommend How Great Coaches Ask, Listen and Empathize. By using coaching methods and techniques, leaders can offer useful guidance whether or not they have creative talent or experience with the creative process.
+
+Leadership That Gets Results (Daniel Goleman, Harvard Business Review, 2000). In this classic HBR piece, Goleman discusses six different leadership styles and their impact on morale and motivation:
+
+Coaching leaders help employees identify their unique strengths and weaknesses and tie them to their personal and career aspirations. They encourage employees to establish long-term development goals and help them conceptualize a plan for attaining them. They make agreements with their employees about their role and responsibilities in enacting development plans, and they give plentiful instruction and feedback. Coaching leaders excel at delegating; they give employees challenging assignments, even if that means the tasks won’t be accomplished quickly. In other words, these leaders are willing to put up with short-term failure if it furthers long-term learning.
+
+Of the six styles, our research found that the coaching style is used least often. Many leaders told us they don’t have the time in this high-pressure economy for the slow and tedious work of teaching people and helping them grow. But after a first session, it takes little or no extra time. Leaders who ignore this style are passing up a powerful tool: its impact on climate and performance are markedly positive.
+
+ 
+
+Photo by Global Stomping.
+
+
+===== END ED BOT ESSAY 4107 =====
+===== BEGIN ED BOT ESSAY 4108 =====
+---
+title: The Judicious Imposition of Structure
+url: https://edbatista.com/2021/04/the-judicious-imposition-of-structure.html
+slug: the-judicious-imposition-of-structure
+published: 2021-04-26T17:10:52
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+A CEO asked me about the most common mistakes made by my clients, most of whom are also CEOs. I had to consider how my clients would answer that question, and I think the overarching theme would be: They waited too long. They waited too long to establish sufficient structure in the culture's routines. [1]
+
+Overview
+
+Most of my clients are leading their company through a period of rapid growth and dynamic change, and a common theme in our work together is what I think of as "the judicious imposition of structure." As an organization scales and its operations grow more complex, it requires an increasing degree of structure to coordinate activities and achieve goals across ever-larger numbers of employees and customers, locations and time zones, products and services.
+
+The structure that meets the needs of the founders will be insufficient for the first employees, the structure that meets the needs of a small team will be insufficient for a larger one, and so on. When an organization outgrows its structure, inefficiencies are created. It's unclear who's responsible for what, or how certain tasks are accomplished or decisions get made, resulting in overlap, confusion and conflict.
+
+But the converse is equally true: The structure that meets the needs of a large organization will be excessive for a smaller one. What allows a mature organization to operate at scale will feel like stifling bureaucracy to an early-stage company still subject to radical change. When too much structure is imposed too soon, gaps emerge. Innovation is sacrificed in the name of expediency, and opportunities are lost.
+
+It's essential for a leader to anticipate the organization's evolving needs and impose new types and degrees of structure as necessary, and the right timing is crucial. It's problematic to be too early or too late, but in my experience leaders typically delay imposing structure until it's obvious that they've fallen behind and need to catch up. In part this is because founders are like pirates, as Reid Hoffman has noted, who "lack formal processes, and are willing to question and even break rules." [2] These characteristics have enabled them to nimbly outflank established incumbents, but they can also contribute to a preference for informality even when it no longer serves them.
+
+As a result, much of my work with clients in this realm involves examining inefficiencies, considering where and how more structure might yield greater clarity, and running experiments to test these hypotheses. These efforts are pursued on multiple levels: organizational (involving formal roles and assignments), interpersonal (involving group norms and working relationships), and individual (involving the leader's environment and working life). The three topics below are by no means a comprehensive list, but they provide opportunities to explore "the judicious imposition of structure" at each level, and all of them show up repeatedly in my practice: The Executive Team, Meeting Hygiene & One-on-Ones, and The Leader's Calendar.
+
+ 
+
+Part 1: The Executive Team
+
+When a company is founded, calling a group of people the "executive team" (or some similar designation) is superfluous and even counter-productive. Early-stage employees are attracted by the prospect of working directly for a founder, and founders want to be as close as possible to the work those early-stage employees are doing. An intermediate layer of management between the CEO and other employees at this stage serves no purpose except to reward status-seekers.
+
+Further, it can be risky for an early-stage employee to be "over-titled," claiming a C-level or VP position by virtue of the fact that they report to the CEO when they lack the experience and capabilities usually associated with such titles. It's possible that at a later stage the CEO will need to award one of these titles to land a senior candidate who does have the requisite experience and capabilities. If an early-stage employee has a more ambiguous title, it's possible to level them while still retaining them, but when a title is taken away it's rare to retain the person from whom it was taken. [3]
+
+Even after the first layers of management have become necessary, it's often still the case that key employees have information that leaders require in order to make decisions, and the systems necessary to provide that information in the employees' absence haven't yet been created or are technically infeasible. For all of these reasons it's common for early-stage CEOs to defer establishing a clearly-defined executive team with a fixed membership--and yet in my experience a number of factors eventually make it necessary.
+
+The effort required to provide truly thoughtful one-on-one management to employees leads most CEOs to decrease their number of direct reports over time. In part this is because as an organization grows and the people reporting to the CEO become more senior, the CEO provides less direction and more coaching and other forms of support, which can be more time-intensive, not less. Senior leaders are hard to replace, so the CEO needs to remain abreast of (and actively influence) their commitment to the role, which requires a close understanding of each individual's sources of motivation and fulfillment. The formalization of an executive team helps the CEO focus their managerial attention on a smaller number of people and have a greater impact in the process.
+
+But this form of structure benefits the members of the team not only through their relationships with the CEO, but also through the establishment of a coherent group identity and their relationships with each other. The informal assembly of senior employees that predates a formal executive team lacks an identity--it probably doesn't even have a name--and its membership is fluid and heterogeneous. This renders it more flexible, but it also inhibits the development of psychological safety. Note that a safe environment doesn't mean people are "nice" or indirect--it means that people feel free to speak their minds and that vigorous disagreements can take place without undue distress. [4]
+
+The formal structure of a clearly-defined executive team can enhance psychological safety in several ways. Even when the team includes a range of titles (e.g. C-levels, SVPs/EVPs, VPs), membership confers a shared status, and repeated interactions among members render team discussions more predictable, factors that make interpersonal conflict less likely and easier to manage when it occurs. [5] And the "mere exposure effect" causes people to feel a greater sense of affinity for each other with regular contact. [6] Note that none of this implies that formal executive teams are more harmonious than informal leadership groups--they may well be more fractious, because the members feel safer and thus more comfortable openly disagreeing with each others. [7]
+
+To obtain the benefits of this structure, the CEO usually has to level one more more direct reports or exclude employees who were previously members of the informal leadership body. This has predictable effects on those individuals--as I've noted before, there's an "intense desire on the part of everyone just outside that circle to be included." [8] As a result, the establishment of a smaller executive team is often accompanied by another form of structure: a larger management body with a defined membership that ensures that those who have been excluded still feel included in some way.
+
+This need not be a cynical exercise in organizational theater, although it can certainly become one. While the formal executive team is typically more efficient than the informal group that preceded it, that efficiency can come at a cost, such as blind spots or groupthink. [9] A larger management body provides a venue for information-sharing that affords the executive team more visibility into activities outside their immediate purview as long as the group's norms promote active participation and dissent--which depends on yet another type of structure, an organization's meeting hygiene.
+
+ 
+
+Part 2: Meeting Hygiene & One-on-Ones
+
+In the very first stages of a new venture's formation, the idea of a "meeting" is comical. Given the small number of people involved, the ease with which information is shared, and the vast number of existential threats there's no need for a gathering in which people discuss work rather than do work. Everyone's too busy doing things to stop working and meet. This period ends sooner than many founders realize (or would prefer), and meetings eventually become necessary forums for information-sharing, decision-making, and other purposes.
+
+In the absence of a shared agreement regarding how to meet most effectively, organizations simply conduct meetings in accordance with the norms that have emerged as features of the culture. [10]. But as an organization grows it becomes increasingly important to have clearly articulated and commonly understood answers to such questions as:
+
+- What's the agenda and who sets it (and how long in advance should it be distributed?)
+
+- Who's attending (and who's not)?
+
+- How timely are we (and what's considered late)?
+
+- How prepared should we be? How do we communicate with each other most effectively?
+
+- And when will we meet again?
+
+But note that these forms of structure at the group level can be easy to identify and very difficult to implement. As I've written before, 
+
+You've probably worked as a group to identify some "ground rules" to improve the quality of your meetings...but despite these efforts, your meetings haven't really improved. One reason why is the difference between "rules"--which are what we intend to do, or what we're supposed to do, and "norms," which are what we actually do... Rules on their own are often fairly weak, while norms are much more powerful--and often exert significant influence in the absence of any formal rules, for better and for worse. [11]
+
+A particularly important type of meeting is the one-on-one between a CEO and a direct report. Early in an organization's development it may seem unnecessary to hold regularly scheduled one-on-ones, and in some settings this attitude persists well into maturity. Intel CEO Andy Grove noted that managers from other companies usually declared the practice unnecessary, telling him, "Oh no, I don't need scheduled meetings with my supervisor [or subordinate]; I see him [sic] several times a day..." However, Grove continued, "there is an enormous difference between a casual encounter by a supervisor and subordinate, or even a meeting to resolve a specific problem, and a one-on-one." [12]
+
+But even though the practice of managerial one-on-ones is now widely endorsed, it's not uncommon for leaders to defer formalizing them for the same reason cited by Grove's contemporaries--they talk to their employees regularly. And yet in the absence of this structure, a host of inefficiencies emerge: Immediate tactical concerns predominate in sporadic, informal interactions while more complex, more personal, or longer-term issues come up rarely, until a crisis makes such a discussion unavoidable. Time and effort are wasted as both parties determine when and how to meet, a problem compounded when the absence of a more meaningful agenda leads one or both parties to reschedule or prioritize other tasks.
+
+Good meeting hygiene at the one-on-one level addresses these issues, while also answering the questions above--and it's generally easier to get two people to revamp their norms provided the leader acts consistently. It's also more feasible to suggest a set of best practices to provide structure for one-on-ones than for group meetings. The diverse nature of groups and their varying requirements leads me to be skeptical of blanket prescriptions, but for one-on-ones I look to Grove's High Output Management. Written in 1983, it remains unsurpassed as a guide to effective one-on-ones, although I've updated the gendered language of that era to make Grove's otherwise outstanding advice more inclusive:
+
+How often should you have one-on-ones? Or put another way, how do you decide how often somebody needs such a meeting. The answer is in the job- or task-relevant maturity of each of your subordinates. In other words, how much experience does a given subordinate have with the specific task at hand? This is not the same as the experience they have in general or how old they are...
+
+How long should a one-on-one meeting last? There really is no answer to this, but the subordinate should feel that there is enough time to broach and get into thorny issues... I feel that a one-on-one should last an hour at a minimum. Anything less, in my experience, tends to make the subordinate confine themselves to simple things that can be handled quickly...
+
+What should be covered in a one-on-one?... The most important criterion governing matters to be talked about is that they be issues that preoccupy and nag the subordinate...
+
+What is the role of the supervisor in a one-on-one? They should facilitate the subordinate's expression of what's going on and what's bothering them. The supervisor is there to learn and to coach... How is this done? By applying Grove's Principle of Dialectic Management, "Ask one more question!" When the supervisor thinks the subordinate has said all they want to say about a subject, [the supervisor] should ask another question...
+
+A key point about a one-on-one: It should be regarded as the subordinate's meeting, with its agenda and tone set by them... So the [subordinate] should be asked to prepare an outline, which is very important because it forces them to think through in advance all of the issues and points they plan to raise. [13, emphasis mine]
+
+Just as with the formalization of the executive team, more structured one-on-ones enhance psychological safety through predictability, repeated interaction, and a boost to the status of the subordinate, which create more room for vulnerability and emotional intimacy. These topics were of keen interest to Grove, the tough-minded engineer known for his rigorous management style:
+
+The supervisor should also encourage the discussion of heart-to-heart issues during one-on-ones, because this is the perfect forum for getting at subtle and deep work-related problems affecting their subordinate. Does some frustration or obstacle gnaw at them? Do they have doubts about where they are going? [14]
+
+And a leader's ability to implement any of these ideas at the group level or in one-on-ones rests on a commitment to employ their calendar as a tool to set and maintain priorities and focus their attention accordingly.
+
+ 
+
+Part 3: The Leader's Calendar
+
+As noted above, founders and other early-stage leaders often have an aversion to formal processes and rules--this inclination may have led them to launch or join a new venture in the first place. In my experience this translates into prioritizing responsiveness and flexibility over predictability and routine, as well as an opportunistic approach to calendar management. And up to a certain point this serves not only the leader's personal preferences, but also the overall needs of the organization. Envisioned products and services, prospective markets and customers, and the business model that animates the entire enterprise are all highly speculative and subject to change. The early-stage leader has to respond rapidly to new information, which often involves sudden changes in priorities, and in this context a dynamic calendar is a survival tool.
+
+But the organization's needs change with continued growth and increasing complexity, and the leader's utilization of their time--and, more importantly, their attention--must evolve accordingly. As I've written before,
+
+In the first few months (and sometimes years) after launching the company...every task and issue seems important, there aren't many other people to delegate to, and it seems perilous to ignore things. Existential threats abound, and [the leader feels] responsible for addressing almost every possible claim on their attention if the business is to survive... [Later] it becomes easier to identify the tasks and issues that truly merit their attention, there are teammates in place to handle work that can be delegated, and it's now perilous not to ignore things. [15]
+
+And note that ignore doesn't mean deprioritize or defer, another concept I've discussed previously:
+
+After we prioritize, we act as though everything merits our time and attention, and we’ll get to the less-important items "later." But later never really arrives. The list remains without end. Our time and attention are finite resources, and once we reach a certain level of responsibility in our professional lives, we can never fulfill all the demands we face no matter how long and hard we work...
+
+The key is recognizing that prioritization is necessary but insufficient. The critical next step is triage. Medical staff in a crisis must decide who requires immediate assistance, who can wait, who doesn’t need help at all, and who’s past saving. Triage for the rest of us entails not just focusing on the items that are most important and deferring those that are less important until "later," but actively ignoring the vast number of items whose importance falls below a certain threshold. [16]
+
+Note my emphasis here on the leader's attention, which eventually becomes the scarce resource--far scarcer than capital--and which I distinguish from time. A leader can spend a great deal of time on something to minimal effect when when they're distracted, but when their attention is focused it can take very little time to have an impact. [17] And because the leader's focused attention is so valuable, other people are eager to claim it. They want access to the leader because they know the leader's attention has the potential to help them achieve their goals. They want the leader in the meeting because that makes it a more consequential event. They want the leader's feedback on their ideas and performance in order to validate both. And they're rarely concerned with the cost to the leader. Very few people will stop to ask whether their personal priorities truly merit the leader's attention, in part because we habitually fail to "empathize up." [18]
+
+In addition to the increasing complexity of the business, many leaders experience a parallel increase in demands for their attention in their personal lives. A romantic relationship becomes more serious, or a serious relationship leads to marriage. Children are born, become toddlers, enter school, and go off to college. Parents age and require more care and support. And leaders themselves grow older and realize they need to attend more closely to their own health and well-being.
+
+For all these reasons, I find that leaders ultimately benefit when they begin to (judiciously) impose structure on their calendar. What does this entail in practice?
+
+- Distinguish between importance and urgency. They're not the same. Tasks and issues are often urgent because they're important to someone else, but the leader who treats their attention as a resource is careful not to allow other people's priorities to set their agenda. [19]
+
+- Dedicate time for "important-but-not-urgent" activities. This includes one-on-ones with direct reports, regularly occurring blocks of "open space" [20] for strategic thinking [21], and self-care practices such as sleep, exercise [22], and mindfulness [23].
+
+- Establish and maintain necessary boundaries. The leaders I've known are usually "happy workaholics," and they're not seeking "life/work balance." But using their calendar to set boundaries--and honoring those commitments--enables them to allocate the right amount of time across competing demands. [24]
+
+- Get help--because a leader can't do this alone. Early-stage leaders are often reluctant to hire support staff, but an executive assistant [25] or Chief of Staff [26] can be a tremendous source of leverage by helping the leader direct their attention toward their most important priorities and away from distractions.
+
+To be clear, there's no "time management hack" here that will magically resolve a busy leader's challenges. But the leader who can impose an increasing degree of structure on their calendar will find themselves better able to focus on their most important tasks and less anxious about ignoring everything else, which makes it immensely easier to step away from work when necessary. Successful leadership at scale obviously requires hard work, but it's less about the leader's individual output and more about their interpersonal influence--their ability to show up in every interaction as a persuasive and compelling presence. Leaders at scale are always under a spotlight, which can be exhausting. [27] A structured calendar allows the leader to replenish themselves on a regular basis, whether it's a brief break between video calls, an evening with family free from distractions, or a lengthy trip to clear their minds and dream big dreams. And those aren't indulgences, they're investments. [28]
+
+ 
+
+Footnotes
+
+[1] Don't Wait
+
+[2] Uber Needs to Transition from "Pirate" to "Navy" (Reid Hoffman, LinkedIn, 2017)
+
+- For further thoughts on Hoffman's metaphor, see Pirates in the Navy.
+
+Part 1: The Executive Team
+
+[3] The Fine Art of Levelling
+
+[4] For more on psychological safety, see the work of Harvard Business School professor Amy Edmondson:
+
+- Make Your Employees Feel Psychologically Safe (Martha Lagace interviewing Amy Edmondson, Harvard Business School Working Knowledge, 2018)
+
+-
+How Fearless Organizations Succeed (strategy+business, 2018, excerpted from Edmondson's book below)
+
+-
+The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation and Growth (2018)
+
+-
+Building a psychologically safe workplace [11:26 video] (TEDxHGSE, 2014)
+
+[5] How Leaders Create Safety and Danger
+
+[6] Exposure effects in the classroom: The development of affinity among students (Richard Moreland and Scott Beach, Journal of Experimental Social Psychology, 1992)
+
+[7] How Management Teams Can Have a Good Fight (Kathleen Eisenhardt, Jean Kahwajy and L.J. Bourgeois III, Harvard Business Review, 1997):
+
+Without conflict, groups lose their effectiveness. Managers often become withdrawn and only superficially harmonious. Indeed, we found that the alternative to conflict is usually not agreement but apathy and disengagement. Teams unable to foster substantive conflict ultimately achieve, on average, lower performance. Among the companies that we observed, low-conflict teams tended to forget to consider key issues or were simply unaware of important aspects of their strategic situation. They missed opportunities to question falsely limiting assumptions or to generate significantly different alternatives. Not surprisingly, their actions were often easy for competitors to anticipate.
+
+[8] Role Clarity and Role Confusion
+
+[9] Much of the original work on groupthink by psychologist Irving Janis in the 1970s has been rejected for being insufficiently predictive, but the overall concept clearly remains valid even as we seek to better understand its mechanism. For more, see So Right It's Wrong: Groupthink and the Ubiquitous Nature of Polarized Group Decision-Making (Robert Baron, Advances in Experimental Social Psychology, 2005):
+
+Janis’s probing and insightful analysis of historical decision making was correct about the symptoms of groupthink and their relationship to such outcomes as the suppression of dissent, polarization of attitude, and poor decision quality and yet wrong about the antecedent conditions he specified. I contend that not only are these conditions not necessary to provoke the symptoms of groupthink but that they often will not even amplify such symptoms given the high likelihood that such symptoms will develop in the complete absence of intense cohesion, crisis, group insulation, and so on. [page 228]
+
+Part 2: Meeting Hygiene & One-on-Ones
+
+[10] Joel Peterson on Organizational Culture:
+
+I asked him about culture, and he said, "We don't have any culture in our business." Well, you have a culture. When you've decided you don't have a culture, you've got one. The question is: Do you want to influence it or not?
+
+[11] Rules Aren't Norms (On Better Meeting Hygiene)
+
+[12] High Output Management, page 73 (Andy Grove, 1983)
+
+[13] Ibid, pages 73-76
+
+[14] Ibid, page 77
+
+Part 3: The Leader's Calendar
+
+[15] Early-Stage Survival and Later-Stage Success
+
+[16] The Most Productive People Know Who to Ignore
+
+[17] The Art of Self-Coaching: Attention (Stanford GSB Class of 2016 Reunion)
+
+[18] The Difficulty of Empathizing Up
+
+[19] Importance vs. Urgency
+
+[20] Open Space, Deep Work, and Self-Care
+
+[21] How to Think (More on Open Space and Deep Work)
+
+[22] Get Moving! (Exercise for Busy People)
+
+[23] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[24] Happy Workaholics Need Boundaries, Not Balance
+
+[25] Three Stages of Executive Assistance
+
+[26] Hail to the Chief (of Staff)
+
+[27] Watch That Next Step (CEO Problems)
+
+[28] Investments, Not Indulgences
+
+ 
+
+Photo via PxHere.
+
+
+===== END ED BOT ESSAY 4108 =====
+===== BEGIN ED BOT ESSAY 4109 =====
+---
+title: Should You Apologize? (It Depends)
+url: https://edbatista.com/2022/03/should-you-apologize-it-depends.html
+slug: should-you-apologize-it-depends
+published: 2022-03-28T11:13:47
+updated: 2025-09-24T11:58:04
+source_body: wordpress-html
+---
+
+Mike Ditka is not sorry. [1]
+
+Most of my clients are CEOs, and most of the rest are senior leaders with a similar profile that puts them in the public eye. They give interviews and speak at conferences. A number have a large social media presence. And when something goes wrong or attracts adverse attention at their company, they're often responsible for addressing the issue, which means that they may be expected to offer an apology.
+
+If you're in the same position, there are many circumstances in which the ability to make a compelling apology will serve you and your organization well, and an inability to apologize effectively will magnify and escalate otherwise avoidable problems. Psychologist Karina Schumann notes the benefits of apologizing and the nature of meaningful apologies:
+
+Research on conflict management suggests that an apology is one of the most powerful tools that transgressors can use to resolve an offense...especially high-quality apologies that are comprehensive (i.e., include many apology elements, such as an acceptance of responsibility and offer of repair) and non-defensive (i.e., do not include self-protective strategies, such as justifications or victim blaming). [2]
+
+This is consistent with an observation from my practice, where conflicts are often truly resolved only after the higher-status person expresses vulnerability in some form. [3] Effective apologies typically convey a degree of vulnerability, which in most circumstances evokes an empathic response, which is the key to forgiveness.
+
+But is apologizing always helpful? Absolutely not, and work by political scientist Richard Hanania should give you pause before you issue a pro forma apology:
+
+There are reasons to believe that apologizing makes public figures appear weak and risk averse, which may make them less attractive as people and lead members of the public to want to punish them... Overall, the evidence suggests that when a prominent figure apologizes for a controversial statement, the public is either unaffected or becomes more likely to desire that the individual be punished. [4]
+
+Further, a study by ethicist and corporate governance expert Daryl Koehn and professor of management Maria Goranova on the impact of "corporate apologies" on the share prices of public companies revealed not only that such statements generally have a negligible effect, but also that investors actually react negatively to more emotional apologies. The authors conclude that, "What in theory might seem likely to restore trust may in practice damage the firm’s standing in the eyes of shareholders." [5]
+
+I'm not suggesting that you adopt the philosophy of 19th-century English educator and theologian Benjamin Jowett, who praised the advice of a friend: "Never retract. Never explain. Never apologise. Get it done and let them howl." [6] This approach may have a visceral appeal, but it clearly has its limitations. Psychologist Schumann has found that one of the main reasons people resist apologizing is because it threatens their self-image, a challenge that's compounded for people with low self-esteem. [7] This aligns with work by legal scholar Brent White, who notes that the ability to apologize is a sign of high self-esteem and emotional maturity:
+
+Individuals with high inner-directed self-esteem can more easily acknowledge their flaws because they believe fundamentally that they are reasonable and decent people. When such people apologize, they are merely admitting, in their minds, that they made a mistake, which does not threaten their identity. [8]
+
+If you find yourself automatically resisting every opportunity to apologize, a la Dr. Jowett, you run the risk of allowing feelings to prevent you from choosing the right course of action. But while emotions should inform our behavior, they shouldn't dictate behavior, and a theme in my work with leaders is the importance of emotion regulation and the means by which we can be more effective at managing our feelings. [9] Also, note that additional research cited by Schumann found that people "overestimate the aversiveness of apologizing, anticipating that it will feel more humiliating and stressful to apologize than it actually feels." [10]
+
+But you may well face the opposite problem and feel pressure to apologize for any perceived transgression, no matter how trivial. The penitent leader has become a familiar figure in contemporary culture, and as Keuhn and Goranova note, "Since the late 1990s, the number of apologies being offered by CEOs of large companies has exploded." [11] This raises the problem highlighted by Hanania and echoed by Keuhn and Goranova: Some apologies not only fail to evoke the intended response, but are actually counter-productive. Here, too, emotion regulation has an important role to play--if you always feel compelled to apologize, yet again, your feelings may well lead you down the wrong path.
+
+There's no simple solution to determining whether an apology is merited or will serve you well, of course, but a concept that comes up frequently in my practice may help you navigate these situations more easily: Empathy is not agreement. As I've written before,
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [12]
+
+I'm reminded of a relevant example from corporate history: Intel's Pentium launch in 1994. [13] The Pentium microprocessor contained an obscure design flaw that Intel had determined posed no risk to end users. But eventually the company responded to public outcry and pressure from partners such as IBM, offering to replace all of the defective chips and writing off $475 million in replacement parts and junked material ($900 million in 2022 dollars). CEO Andy Grove never agreed with users' concerns--he remained convinced that the design flaw was utterly trivial--but he empathized with consumers who had come to feel that "Intel Inside" was a sign of quality and that the company's actions were inconsistent with that brand promise. Even when announcing that Intel would replace all Pentium chips, Grove didn't apologize for the design flaw, but for appearing "arrogant and uncaring." [14] Intel's share price was essentially flat in 1994, but the following year it began a staggering 5-year bull run (before returning to earth in the first dot-com crash), making it clear that Grove struck the right balance, neither alienating consumers and investors, nor allowing himself to be perceived as weak.
+
+ 
+
+Footnotes
+
+[1] The Legend of Mike Ditka's Bird (NFL Films)
+
+"And you know what? If I had to do it over again, I'd do it over again. Screw 'em." ~Mike Ditka, 2015
+
+[2] The Psychology of Offering an Apology: Understanding the Barriers to Apologizing and How to Overcome Them (Karina Schumann, Association for Psychological Science, 2018)
+
+[3] Resolving a Protracted Conflict
+
+[4] Does Apologizing Work? An Empirical Test of the Conventional Wisdom (Richard Hanania, Behavioral Public Policy, 2015). Thanks to Ethan Mollick for the reference to this paper.
+
+[5] Do Investors See Value in Ethically Sound CEO Apologies? Investigating Stock Market Reaction to CEO Apologies (Daryl Koehn and Maria Goranova, Journal of Business Ethics, 2018)
+
+[6] "Never retract, never explain, never apologise." (Garson O'Toole, LinguistList, 2010). Jowett's friend was probably politician and educator James Kay-Shuttleworth. This saying is often attributed to people such as suffragist Nellie McClung, politician Agnes Macphail, Winston Churchill, or Gertrude Stein, but it seems likely that it originated with Jowett and Kay-Shuttleworth (who predate these others) in some form.
+
+[7] Schumann, 2018.
+
+[8] Saving Face: The Benefits of Not Saying I'm Sorry (Brent White, Law and Contemporary Problems, 2009)
+
+[9] For more on emotion regulation, see the following:
+
+- The Tyranny of Feelings
+
+- Attitude and Behavior
+
+- You Make Me Feel... (On Language and Responsibility)
+
+- Antonio Damasio on Emotion and Reason
+
+[10] Schumann, 2018.
+
+[11] Keuhn and Goranova, 2018.
+
+[12] The Difficulty of Empathizing Up
+
+[13] Only the Paranoid Survive: How to Exploit the Crisis Points that Challenge Every Company, pages 12-19 (Andy Grove, 1999)
+
+[14] Intel Surrenders Over Flawed Pentium Chip (Associated Press, Deseret News, December 20, 1994): "Since the uproar over the defects in its showcase product first surfaced a month ago, the company had required that owners show why they needed a replacement. This infuriated many customers, made Intel the butt of jokes and raised basic questions about Intel's sensitivity to the market. 'To some people, this seemed arrogant and uncaring. We apologize for that,' Andrew Grove, Intel's president and chief executive officer, said in a conference call with industry analysts. 'What we view as an extremely minor technical problem has taken on a life of its own,' Grove said. Intel has placed the chance of hitting the flaw as one in 27,000 years. 'We were motivated by a belief that replacement is simply unnecessary for most people. We still feel that way, but we are changing our policy because we want there to be no doubt that we stand behind this product.'"
+
+
+===== END ED BOT ESSAY 4109 =====
+===== BEGIN ED BOT ESSAY 4110 =====
+---
+title: Power Struggles Among Nice People
+url: https://edbatista.com/2022/03/power-struggles-among-nice-people.html
+slug: power-struggles-among-nice-people
+published: 2022-03-21T14:16:41
+updated: 2025-10-05T17:18:51
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs of growing companies, most of the rest are C-level executives in similar settings, and a number of others are leaders in investment or professional services firms. In order to be effective in these roles they must be able to influence others, wield authority, and maintain status. At the same time my clients are conscientious people who care about the well-being of their employees and colleagues, aspire to make a positive difference in the world, and are striving to do their best.
+
+As a result of these factors, a theme in my practice is what I describe as "power struggles among nice people." And yet a challenge is that many of us imagine that people who engage in power struggles aren't very nice, and that nice people shouldn't struggle for power. This leaves us with a stark choice: Be an asshole and win, or be a decent person and lose--but it doesn't have to be that way.
+
+1. The Ubiquity of Power Struggles
+
+We often think of a power struggle as a rancorous, zero-sum battle between bitter enemies, but that's just one version, and it's relatively rare. Far more common are the everyday efforts noted above: influencing others, wielding authority, maintaining status. Consider how often we engage in these activities every single day, and how infrequently we employ formal decision-making frameworks or conflict-resolution tools in the process. From this perspective we can define a power struggle in much less charged terms: any situation in which the parties must assert themselves to overcome resistance and achieve their preferred outcome.
+
+There are no cartoon villains and few outsized expressions of force in these everyday power struggles. As I've noted before, force and power are not the same thing--force is "strength or energy as an attribute of action," while power as "the ability to produce an effect." [1] Most power struggles are rather mundane affairs, and in this sense we might think of them as the "dark matter" of organizational life--they affect almost everything but escape observation unless we're paying close attention. [2]
+
+Why are power struggles so common? There's certainly a connection with our origins as a species. Primates rely on social structures to obtain resources and to defeat or evade threats, and humans possess the singular advantage of being able to cooperate in larger groups than our evolutionary rivals. [3] This has allowed us to dominate the planet, but as a consequence we face much greater competition from within the group, and we've had to develop a complex set of social skills to assert our preferences while minimizing intra-group conflict. [4] A similar pattern of constant, non-violent power struggles can be observed in the chimpanzee, which, notably, is the only other species of great ape whose social groups include multiple males that co-exist in a shifting dominance hierarchy. [5]
+
+But we may wonder why humans continue to rely on informal displays of power to accomplish these goals. Why don't we utilize the other decision-making frameworks and conflict-resolution tools that we've developed more frequently? Because power struggles are often more effective than those alternatives.
+
+2. The Desirability of Power Struggles
+
+When defined as "zero-sum battles between bitter rivals," power struggles are obviously undesirable. Such efforts waste time and resources, cause needless division, and serve as distractions from more productive activities. But when we recognize a broader definition, it becomes apparent that power struggles are more efficient or less costly than the alternatives, which generally fall into one of three categories: voting, consensus, and hierarchy.
+
+Voting is possible only under a highly specific set of circumstances: Decision-making authority can be fairly apportioned by vote, whether by person, ownership share, or some other method. All parties agree that a decision must be made at a certain point in time, after which further efforts to influence the outcome will be counter-productive. And the most powerful parties can be trusted to abide by the outcome when a vote doesn't go their way. We can easily see why voting is used so rarely in organizational life--although it's worth noting that votes are preceded by campaigns to win support in which expressions of power may figure heavily.
+
+Consensus also comes with necessary preconditions: All parties must reach agreement in order to move forward, and even the least powerful figure has the authority to withhold approval. Complicating matters is the contemporary preference for the appearance of egalitarianism, which often results in a half-hearted attempt at obtaining consensus that inevitably stalls, at which point the most powerful party pulls rank and dispenses with the charade, resulting in a full-blown power struggle. But even in an authentic attempt to reach consensus, the discussions and debates that comprise the process are themselves a type of power struggle.
+
+While there are companies, industries, and even parts of the world where hierarchy remains a primary means of decision-making and conflict resolution, that's not the case in my clients' organizations. To a large extent this is the result of two related trends in management over the past century: the increasing importance of the "knowledge worker" [6] and the move away from centralized command-and-control structures. [7] My clients and almost all of their employees and colleagues are knowledge workers of one sort or another, and in this context the leader who merely issues directives will eventually pay a price. Knowledge workers put a high value on latitude and autonomy, and they have a low tolerance for being repeatedly overruled.
+
+But while leaders might refrain from relying explicitly on hierarchy to avoid alienating their employees, this isn't to suggest that hierarchy is absent or irrelevant. Hierarchical distinctions are a constant presence even in the flattest organizations [8], and parties engaged in a power struggle may exploit any such advantages in their efforts to prevail. But the subtle use of a hierarchical distinction while conducting a power struggle is very different than a dictatorial command. In these settings, most directives imposed via hierarchy can be viewed as the outcomes of failed power struggles, in which the leader had hoped to avoid "giving an order." [9]
+
+So we see that alternative means of decision-making and conflict-resolution come with constraints that render them impractical in many circumstances, and that even when such means are employed the process typically involves a series of power struggles. Given these conditions, we might imagine that anyone who aspires to succeed as a leader would be ready to engage in power struggles on a regular basis--and yet that's not always the case. Many leaders in my practice report feeling surprised when power struggles occur, resentful of the obligation to participate in them, and depleted by the demands of the process. Why is this? What prevents these leaders from being better prepared for and more effective at engaging in this fundamental feature of organizational life?
+
+3. The Problem with Nice People
+
+As noted above, my clients can be characterized as "high-achieving nice people," and in my experience many nice people are uncomfortable with displays of power and put a premium on maintaining interpersonal harmony, which puts them at a disadvantage when they're obligated to assert themselves and overcome resistance in order to obtain a desired outcome. Further, if they continue to emphasize personal achievement over cultivating power and influence, they eventually limit their professional success.
+
+To understand why, we turn to the work of the eminent 20th-century psychologist David McClelland, one of the leading scholars on human motivation, who theorized that people are driven primarily by three distinct needs [10]:
+
+- The need for achievement, or "doing something better for its own sake, or to show [that one] is more capable of doing something." [11]
+
+- The need for power, or concern "about having 'impact, control, or influence over another person, group, or the world at large.'" [12]
+
+- The need for affiliation, "or the need to be with people" and a concern with "establishing, maintaining, or restoring a positive affective relationship with another person or persons." [13]
+
+McClelland also studied people's capacity for "activity inhibition," or impulse control, and his research showed that the most successful senior leaders display 1) a relatively high need for power, 2) a relatively low need for affiliation, and 3) a high degree of impulse control, a distinctive pattern that he called "leadership motive syndrome." McClelland found that people who possessed this combination of traits were most likely to obtain senior leadership positions, ultimately outpacing those who merely had a high need for achievement. [14]
+
+The latter group's focus on improved performance and desire for personal feedback helped them succeed at the outset of their careers, but limited their effectiveness at scale when results must be obtained not merely through individual effort but through the ability to lead others, and when feedback cycles are long and unpredictable. [15] In addition, McClelland noted that people with a high need for affiliation often have shortcomings as leaders as they strive to avoid conflict and prioritize warm relationships. [16]
+
+These conclusions pose some significant challenges for "nice high-achievers":
+
+- Nice people underestimate the importance of power and influence in long-term success at senior levels.
+
+- They overestimate the importance of personal achievement and being liked.
+
+- A consequent reluctance to engage in everyday power struggles prevents them from learning how to display power and exert influence effectively.
+
+But a deeper understanding of this research makes clear that "nice people" aren't doomed to underachieve--and even possess several key advantages.
+
+4. The Opportunity for Nice People
+
+Let's highlight the relative dimension of McClelland's "leadership motive syndrome." It's not the case that effective senior leaders must possess the greatest possible need for power, or that a high need for affiliation is an inherent barrier to a senior role. The point is simply that their need for power must be relatively higher than their need for affiliation--in other words, senior leaders can't allow a desire to be liked or a preference for harmony to prevent them from displaying power or exerting influence when necessary.
+
+Further, note the importance of impulse control in the most effective senior leaders. An alternative pattern of traits identified by McClelland was 1) a high need for power, 2) a low need for affiliation, and 3) a low degree of impulse control, which he called "conquistador syndrome." [17] Leaders who exhibit this pattern may enjoy some success, but their self-aggrandizing displays of power limit their effectiveness at senior levels, as McClelland and his colleague David Burnham concluded in a summary of their research:
+
+The top manager of a company must possess a high need for power--that is, a concern for influencing people. However, this need must be disciplined and controlled so that it is directed toward the benefit of the institution as a whole and not toward the manager's personal aggrandizement... We discovered one more fact in studying the better managers... They were more mature. Mature people can be most simply described as less egotistic. Somehow their positive self-image is not at stake in their jobs. They are less defensive, more willing to seek advice from experts, and have a longer-range view. [18]
+
+Put differently, the most successful senior leaders have a substantial capacity for emotion regulation. [19] They don't allow fleeting feelings to translate into counter-productive behavior. As McClelland noted, people with a high need for power think about "carrying out a number of impulsive aggressive acts...but they did not in fact do them more often" than people with a low need for power. [20] And nice people typically share that capacity for emotion regulation (even if it's often put to use in efforts to generate warmth and evoke positive feelings in others.)
+
+Finally, observations from my practice suggest that nice people are likely to rank high on two dimensions of "emotional style" identified by neuroscientist Richard Davidson that are relevant here: 1) context-sensitivity, or the ability to grasp what will be perceived as appropriate in a given situation and tailor one's behavior accordingly, and 2) social intuition, or the ability to assess others' mental and emotional states on the basis of body language, tone of voice, and similar data. [21]
+
+In sum, while nice people may have to overcome some self-imposed obstacles in order to engage in everyday power struggles, they're also likely to possess several characteristics that will enable them to be more effective in the process. So if you identify with this description--if you're a "nice high-achiever"--where do you go from here?
+
+5. Putting It Into Practice
+
+A note on social identity, including, but not limited to, gender and orientation, race and ethnicity, education and class background: I'm keenly aware that in many settings the behaviors that convey power and influence are historically associated with people who already hold power and influence. I realize that if you don't match that description in your organizational context you may well face additional obstacles when your efforts to exert power and influence run counter to the expectations imposed upon you as a result of your social identity. That said, I'm equally aware that merely conforming to those expectations is a likely path to frustration and underachievement. When we're not in a position to change the surrounding culture, one of the key steps is determining how to conform just enough to that culture to avoid being rejected by it while also ensuring that the culture doesn't dictate our behavior to our disadvantage--which is a challenge I've addressed with many "nice high-achievers" in my practice over the years. [22]
+
+Our needs for achievement, power and affiliation are informed by a range of sources, from our family environments as children to our education and professional training to the culture at large. But if we determine that our current needs are resulting in behaviors that make it more difficult to achieve our goals, we can change our approach with a degree of self-awareness, deliberate effort, and practice over time. (McClelland noted the efficacy of management training workshops in helping leaders modify their styles and deliver improved results. [23])
+
+It's also evident to me from my years as a coach and experiential educator that we can (and must) distinguish between our personal preferences and what is being asked of us in a given situation, and that effective leaders consistently get out of their comfort zone to experiment with new behaviors, even (and especially) when such efforts feel awkward or inauthentic. If you identify as a "nice high-achiever," I suspect that being more assertive to overcome resistance and obtain your desired outcome will feel uncomfortable--and I'm absolutely certain that you needn't allow such feelings to stand in your way. I'm hopeful that this reading provides a useful starting point in that process--and it's just a starting point. What's next?
+
+Consider your beliefs about power and influence and how they affect your approach to everyday power struggles:
+
+- Self-Awareness, Empowerment and Choice [PDF] (Patricia Day Williams, Chapter 7.10 in Reading Book for Human Relations Training, edited by Alfred Cooke, Michael Brazzel, Argentine Saunders Craig and Barbara Greig, 1999)
+
+- Interpersonal Power
+
+- Corn Mazes and Mental Models
+
+Learn more about the means by which power and influence are displayed and the behaviors that convey power and influence:
+
+- Force Isn't Power
+
+- Weather Systems (Power, Charisma and Leadership)
+
+- The Value of a Good Fight
+
+- Power Play (Jeffrey Pfeffer, Harvard Business Review, 2010)
+
+- Power: Why Some People Have It and Others Don't (Jeffrey Pfeffer, 2010)
+
+- Political Skill at Work: How to Influence, Motivate and Win Support (Gerald Ferris, Sherry Davidson and Pamela Perrewé, 2005 / 2nd edition, 2020)
+
+- Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+- The Language of Persuasion (Robert Cialdini, Harvard Business Review, 2008)
+
+- Influence: The Psychology of Persuasion (Robert Cialdini, 1984 / 3rd edition, 2021)
+
+- Why It Pays to Be a Jerk (Jerry Useem, The Atlantic, 2015)
+
+Actively experiment with alternative approaches, especially any that feel uncomfortable or inauthentic:
+
+- Attitude and Behavior
+
+- Conscious Competence In Practice
+
+- Why Change Is Hard
+
+- Comfort with Discomfort
+
+- Leadership and Authenticity
+
+- The Tyranny of Feelings
+
+Get regular feedback and integrate it into your ongoing efforts:
+
+- Make Getting Feedback Less Stressful
+
+- Learning How to Learn
+
+Dedicated to Jeffrey Pfeffer.
+
+I didn't take Jeff's class "Paths to Power" when I was an MBA student at Stanford, but I discovered his work on power as a coach and it deeply informed not only my work with clients, but also my teaching when I later joined the Stanford faculty and became a junior colleague to Jeff. It's my understanding that I'm the only faculty member who ever taught Interpersonal Dynamics (aka "Touchy Feely") and included Jeff's work on my syllabus, in part because I believe the course's T-groups are one of the best settings in which we can learn about power.
+
+Footnotes
+
+[1] Force Isn't Power
+
+[2] What Is Dark Matter? (Nola Taylor Redd, Space.com, 2019)
+
+[3] Neocortex size as a constraint on group size in primates (Robin Dunbar, Journal of Human Evolution, 1992)
+
+[4] Social: Why Our Brains Are Wired to Connect, page 32 (Matthew Lieberman, 2013)
+
+[5] Chimpanzee Politics: Power and Sex Among Apes pages 104-105 (Franz de Waal, 2007). My understanding of De Waal's work suggests that while chimpanzee power struggles can turn violent and occasionally prove fatal, the vast majority involve dominance displays and the re-shuffling of hierarchical relationships rather than the elimination of rivals.
+
+[6] The Effective Executive: The Definitive Guide to Getting the Right Things Done (Peter Drucker, 1966): "Today...the large knowledge organization is the central reality. Modern society is a society of large organized institutions. In every one of them...the center of gravity has shifted to the knowledge worker... The knowledge worker cannot be supervised closely or in detail. He can only be helped." (pages 3-4)
+
+[7] Beyond Theory Y (John Morse and Jay Lorsch, Harvard Business Review, 1970): "With highly uncertain tasks that require more extensive problem solving...organizations that are less formalized and emphasize self-control and member participation in decision making are more effective."
+
+[8] Organizational Preferences and Their Consequences (Deborah Gruenfeld and Larissa Tiedens, Chapter 33 in the Handbook of Social Psychology, 2010): "The production of hierarchy is a central and omnipresent component of organizing."
+
+[9] Leaders sometimes express a desire to operate in a more hierarchical environment where they could just "issue orders, like in the military." But I once asked a Navy SEAL officer how often he had given an order overriding a subordinate's dissent. "Twice," he said, "in thirteen years." Here, too, I'm reminded of a comment from Frans de Waal's research on chimpanzees, cited above, in which he notes that high-ranking members of a group seldom show their teeth in aggressive displays, presumably because they don't need to. (page 21)
+
+[10] For an extensive discussion of each of these needs, see Human Motivation, Chapters 7-9 (David McClelland, 1987). Having developed his "motivational needs theory" around these three drives in the 1960s and '70s, later in his career McClelland suggested that a fourth such drive is the "avoidance motive," characterized by a fear of failure and a need to minimize anxiety and reduce distress (and discussed in Human Motivation, Chapter 10.) However, while McClelland's research on leadership identifies a relationship among the first three needs, he doesn't integrate the avoidance motive in the same way, nor is it included in most discussions of his theory, so I've omitted it here as well.
+
+[11] Ibid, page 229.
+
+[12] Ibid, page 271. (McClelland cites a definition made by his colleague and former student David Winter: The Power Motive, 1973.)
+
+[13] Ibid, page 347. (McClelland cites a definition made by his longtime collaborator John Atkinson with Roger Heyns and Joseph Veroff: The effect of experimental arousal of the affiliation motive on thematic apperception, The Journal of Abnormal and Social Psychology, 1954.)
+
+[14] Ibid, page 313:
+
+"By way of contrast, those with high n Achievement peaked in their careers [earlier]. The nonlinear trend is significant. The explanation seems to lie in the fact that individuals high in n Achievement are used to doing things by themselves and for themselves... They are able to advance in the company as long as their job involves the individual contributions they make. However, at higher levels the focus on the job shifts to influencing others. The greater success of those with the leadership motive syndrome at this level can be explained on the grounds that they are interested in influencing others (the high n Power score), they are not unduly concerned about whether they are liked or not (the low n Affiliation score), and they are self controlled (the high Activity Inhibition score)."
+
+[15] Ibid, page 254.
+
+[16] Ibid, pages 354-355.
+
+[17] Ibid, page 312.
+
+[18] Power Is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, originally written 1976, revised 1995, republished 2003.)
+
+[19] The Tyranny of Feelings
+
+[20] Human Motivation, page 281.
+
+[21] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[22] Conform to the Culture Just Enough
+
+[23] "Power Is the Great Motivator" (McClelland and Burnham)
+
+Photo by KAZ Vorpal.
+
+
+===== END ED BOT ESSAY 4110 =====

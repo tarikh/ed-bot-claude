@@ -1,0 +1,377 @@
+===== BEGIN ED BOT ESSAY 3698 =====
+---
+title: High-Performance Communication
+url: https://edbatista.com/2012/01/high-performance-communication-2.html
+slug: high-performance-communication-2
+published: 2012-01-14T23:34:08
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+I'm doing a workshop on High-Performance Communication with the executive committee of the MIT/Stanford Venture Lab, a great organization that supports entrepreneurs and startups. To help the committee members prepare for our session, I've compiled the following series of extracts from my writing over the past few years. Many thanks to the social psychologists, neuroscientists, business thinkers and fellow coaches cited below whose work has informed my own. And thanks to VLAB--I'm looking forward to working with you!
+
+Photo by Alexander Lyubavin.
+
+Printer-Friendly Version (PDF, 274 KB), requires Adobe Reader
+Contents
+
+1) Excellence
+
+2) Safety, Trust, Intimacy
+
+3) Happiness
+
+4) The SCARF Model
+
+5) Soft Startups
+
+6) Talking About Feelings
+
+7) Powerful Questions
+
+8) The Problem with Positive Feedback
+
+9) Taking Risks
+
+1) Excellence
+
+Most of my clients and students are seeking to be more effective and fulfilled as professionals, and a resource to which I've referred people for years is Peter Drucker's Managing Oneself, primarily because of his perspective on excellence:
+
+One should waste as little effort as possible on improving areas of low competence. It takes far more energy and work to improve from incompetence to mediocrity than it takes to improve from first-rate performance to excellence. And yet most people--especially most teachers and most organizations--concentrate on making incompetent performers into mediocre ones.  Energy, resources, and time should go instead into making a competent person into a star performer.
+
+So we need to ask ourselves: What are my strengths? Where can I improve from first-rate performance to excellence? Where should I be focusing my energy, resources and time? Just as important, where am I wasting effort trying to improve from incompetence to mediocrity?
+
+2) Safety, Trust, Intimacy
+
+Every group serves as an implicit learning laboratory in which we come to come to understand how our interactions with others support (or undermine) our efforts to achieve our goals.But some groups are more effective than others at helping the members learn, increase their awareness and adapt their behavior as needed, and the group’s levels of safety, trust and intimacy are key factors in determining its effectiveness in this regard.
+
+Every group's experience is rooted in a set of initial conditions: How and why were we assembled? What will our first meeting be like? What will we discuss there? These initial conditions form the foundation for all subsequent layers of the group dynamic.
+
+The foundational qualities that define a group are the levels of safety, trust and intimacy: Safety =  A belief that we won't get hurt. Trust = We mean what we say and we say what we mean. Intimacy = A willingness to make the private public.
+
+When safety, trust and intimacy are established, they support the actions that lead to greater success as a group: experimentation, risk-taking and a willingness to be vulnerable.
+
+When we feel able to experiment, take risks and make ourselves vulnerable, our ability to learn, to increase our self-awareness (and our awareness of others) and to change our behavior in order to achieve our goals more effectively increases dramatically.
+
+The process of building one layer upon another occurs in a unique context—so in addition to asking whether learning and change are taking place, we also need to assess how the group's context supports (or inhibits) the development of the underlying layers in the group experience.
+
+So we need to ask...
+
+- How will the group's initial conditions support or inhibit the establishment of safety, trust and intimacy?
+
+- At each step of the group's subsequent development, are we increasing or decreasing the levels of these qualities?
+
+- What factors in the group experience support the development of these qualities?  And what factors inhibit these qualities?
+
+ A final point regarding feedback: While excessive delicacy and indirectness inhibit learning, the degree of candor in a group must be calibrated to the group’s current levels of safety, trust and intimacy. Feedback attuned to these qualities can increase their presence in the group by stretching the group’s capacity for direct discussion. But feedback that fails to take these qualities into account can actually lead to less safety, trust and intimacy than before and undermine the group’s ability to learn and change.
+
+3) Happiness
+
+A premise of mine is that organizational success starts with leaders who feel a personal sense of happiness and fulfillment. Not all successful organizations are led by happy people, and not all unsuccessful organizations are led by unhappy people (although I suspect the correlation is higher in the latter case), but I believe that, all else being equal, happy people make better leaders, and happy leaders build better organizations. Research shows that we have a substantial degree of control over our levels of happiness and fulfillment, and we exercise that control most effectively through small-scale, consistent intentional activities, not through large-scale changes in our life circumstances.
+
+Sonja Lyubomirsky is a social psychologist whose research on happiness highlights some surprising findings:
+
+1) Our happiness is affected by a genetic set point inherited from our parents and similar to other genetically-influenced predispositions, such as weight. So those of us with low happiness set points will have to work harder to achieve and maintain happiness, while those of us with high set points will find it easier to be happy under similar conditions.
+
+2) Large-scale life circumstances, such as income and marital status, can have a smaller impact on our happiness than we expect them to, and that impact usually wears off sooner than we expect, a process known as "hedonic adaptation."
+
+3) In contrast, small-scale intentional activities often have a larger impact on our happiness than we expect them to--we might call "happiness strategies." This is the core of Lyubomirsky's research: We can't alter our genetic set points, and changes in life circumstances are often difficult to engineer and have less impact than we expect, but we can increase and sustain our happiness through intentional activities that we can pursue on a daily basis. Lyubomirsky describes twelve "evidence-based happiness-increasing strategies whose practice is supported by scientific research," which include several that involve interpersonal communication:
+
+- Expressing Gratitude: Counting your blessings for what you have (either to a close other or privately, through contemplation or a journal) or conveying your gratitude and appreciation to one or more individuals whom you've never properly thanked.
+
+- Practicing Acts of Kindness: Doing good things for others, whether friends or strangers, either directly or anonymously, either spontaneously or planned.
+
+- Nurturing Social Relationships: Picking a relationship in need of strengthening and investing time and energy in healing, cultivating, affirming and enjoying it.
+
+- Learning to Forgive: Keeping a journal or writing a letter in which you work on letting go of anger and resentment toward one or more individuals who have hurt or wronged you.
+
+This section revised May 2021.
+
+4) The SCARF Model
+
+David Rock is an executive coach who for many years has been exploring the field of neuroscience and its implications for management, coaching, and organizational life, and his SCARF Model provides a framework for understanding how our brains respond to perceived threats and rewards.  Rock writes:
+
+Two themes are emerging from social neuroscience. Firstly, that much of our motivation driving social behavior is governed by an overarching organizing principle of minimizing threat and maximizing reward (Gordon, 2000). Secondly, that several domains of social experience draw upon the same brain networks to maximize reward and minimize threat as the brain networks used for primary survival needs (Lieberman and Eisenberger, 2008). In other words, social needs are treated in much the same way in the brain as the need for food and water...
+
+The SCARF model involves five domains of human social experience: Status, Certainty, Autonomy, Relatedness and Fairness.
+
+Status is about relative importance to others. Certainty concerns being able to predict the future. Autonomy provides a sense of control over events. Relatedness is a sense of safety with others, of friend rather than foe. And fairness is a perception of fair exchanges between people.
+
+These five domains activate either the 'primary reward' or 'primary threat' circuitry (and associated networks) of the brain. For example, a perceived threat to one's status activates similar brain networks to a threat to one's life. In the same way, a perceived increase in fairness activates the same reward circuitry as receiving a monetary reward.
+
+As this graphic illustrates, threat responses are usually much more powerful than reward responses, and thus we move away from threats more quickly and more vigorously than we move toward rewards. So it's not enough to give equal emphasis to rewards in our leadership, management and communication practices--our brains' disproportionate response to perceived social threats implies that we need to put a much greater weight on efforts intended to generate a reward response, and take great pains to avoid triggering a threat response.
+
+5) Soft Startups
+
+How do you initiate a difficult conversation? Going in with guns blazing rarely results in a successful outcome. Social psychologist John Gottman coined the term "soft startup" to describe the process of initiating a tough discussion gently and compassionately:
+
+1) Start with something positive that conveys your intent to reach a successful resolution--but note that this doesn't mean inventing something nice to say. If you're struggling for words, simply saying that you want to have this conversation because you care about the other person and your shared goals can be helpful.
+
+2) Use statements beginning with "I" that express your perspective and feelings, rather than statements beginning with "you" that focus on the other person. (And don't assume that your perspective is the only possible truth.)
+
+3) Don't make assumptions about the other person's perspective. They may not even be aware that there's a problem, or it may not be their fault--and they may be happy to help solve it if they're approached in the right way.
+
+4) Be direct. State your request clearly, firmly and politely--while being sure to also acknowledge any concessions that are granted.
+
+This is just the beginning of the process, of course, and you'll need a number of additional skills in your communication repertoire to succeed.  But Gottman's research shows that a soft startup is a crucial step in resolving disagreements successfully.
+
+6) Talking About Feelings
+
+Photo by malias.
+
+We know that talking about our feelings--a process neuroscientists call affect labeling--has a powerful impact on our ability to manage difficult emotions and, in turn, on our relationships...but why? What happens when we do?
+
+Stephanie West Allen has written about "the neuroscience research showing that labeling your feelings can quiet your brain and increase impulse control," most notably a groundbreaking article by Matthew Lieberman, Naomi Eisenberger et al, Putting Feelings into Words (PDF):
+
+Putting feelings into words has long been thought to be one of the best ways to manage negative emotional experiences. Talk therapies have been formally practiced for more than a century and, although varying in structure and content, are commonly based on the assumption that talking about one's feelings and problems is an effective method for minimizing the impact of negative emotional events on current experience...
+
+Recent neuroimaging research has begun to offer insight into a possible neurocognitive mechanism by which putting feelings into words may alleviate negative emotional responses...  [T]hese results suggest that putting feelings into words may activate [brain regions associated with emotional processing], which in turn may dampen the response of the amygdala [a brain region associated with negative emotion], thus helping to alleviate emotional distress...
+
+In summary, this study provides the first unambiguous evidence that affect labeling...produces diminished responses to negative emotional images in the amygdala and other limbic regions...
+
+These findings begin to shed light on how putting negative feelings into words can help regulate negative experience, a process that may ultimately contribute to better mental and physical health.
+
+7) Powerful Questions
+
+Photo by Erik Charlton.
+
+What kinds of questions do you usually ask?  We're often drawn to yes/no questions--they're simple and direct. But when simplicity and directness aren't our only goals, yes/no questions can be problematic. They surface a minimum of new information because they don't invite the other person into a dialogue and they constrain the boundaries of the conversation.
+
+When we do move beyond yes/no questions, we tend ask why? questions, such as "Why did you do that?" or "Why did you do it that way?" But why? questions can be heard as "What the hell were you thinking?" and provoke defensiveness.
+
+Scott Ginsberg has developed a list of 62 useful questions, along with a one-line explanation of why they work, and and here are the 20 I find most powerful:
+
+1) How are you creating…?
+Proves that someone has a choice.
+
+2) How could you have…?
+Focused on past performance improvement.
+
+3) How do you feel…?
+Feelings are good.
+
+4) How do you plan to…?
+Future oriented, process oriented, action oriented.
+
+5) How do you want…?
+Visualizes ideal conditions.
+
+6) How does this relate to…?
+Keeps someone on point, uncovers connections between things.
+
+7) How else could this be…?
+Encourages open, option-oriented and leverage-based thinking.
+
+8) How might you…?
+All about potential and possibility.
+
+9) How much time…?
+Identifies patterns of energy investment.
+
+10) How often do you…?
+Gets an idea of someone’s frequency.
+
+11) How well do you…?
+Uncovers abilities.
+
+12) How will you know when/if…?
+Predicts outcomes of ideal situations.
+
+13) If you could change…?
+Visualizes improvement.
+
+14) If you stopped…?
+Cause-effect question.
+
+15) Is anybody going to…?
+Deciding if something even matters.
+
+16) What are you doing that…?
+Assesses present actions.
+
+17) What are you willing to…?
+Explores limits.
+
+18) What can you do right now…?
+Focuses on immediate action being taken.
+
+19) What did you learn…?
+Because people don’t care what you know; only what you learned.
+
+20) What else can you…?
+Because there’s always options.
+
+Notice the structure of these questions. They're almost all how? or what? questions, which encourage the other person to take a moment and look inside before answering. They can certainly be challenging--"What can you do right now?" is hardly a softball--but they're also non-judgmental, which minimizes any defensiveness. Just as important, they're not leading--they don't suggest that there's a "right" answer--which encourages the other person to answer thoughtfully and honestly, rather than framing an answer to please you.
+
+8) The Problem with Positive Feedback
+
+Photo by Aaron Matthews.
+
+Positive feedback frequently fails to have the desired impact and can even make many of us feel uncomfortable. But isn't praise supposed to make us feel good?  What's going on, and what can we do about it?
+
+When we have bad news to deliver, we often try to soften the blow by beginning and ending with something positive, a practice that I distinguish from the "soft startup" principle discussed above. Soft startups begin with a positive statement that conveys our intent to reach a successful resolution and helps avoid triggering a threat response in the other person. In contrast, "sandwiching" critical feedback between superficial praise eventually causes people to hear anything positive as a hollow preamble to the real message. Rather than feeling genuinely appreciated, they're waiting for the other shoe to drop. So while I do advise beginning difficult conversations with a soft startup, those comments must be authentic and relevant to the issue at hand.
+
+Like any currency, positive feedback can become devalued or can be perceived as counterfeit. Richard Farson and Ralph Keyes have noted that praise can be a "'dissatisfier.' Like a salary, it is less likely to motivate when it's given out than demotivate when it's expected but withheld." So the solution isn't to withhold praise--when it's expected (or even just hoped for), it's absence can be a powerful corrosive. Rather, we need to insure that the positive feedback we do deliver is consistently perceived as meaningful, authentic and heartfelt.
+
+Finally, we need to take some responsibility as feedback recipients. We often resist the validation that comes with positive feedback precisely because we want it so badly. The depth of that desire makes us incredibly vulnerable--so much so that we're willing to avoid any validation in order to insure that we're never embarrassed by our hunger for it or--even worse--by falling prey to inauthentic validation from manipulators or phonies. When we say we want candid feedback, we typically expect that it's going to be hard to hear criticism--and it can be--but it can be even harder to hear (and truly acknowledge) real praise. If we blindly react to praise with (in Peter Vajda's words) "skepticism, dis-belief, arm's-length appreciation,and/or embarrassment," that's going to make the giver feel awkward, if not resentful, and it's going to keep us from developing a stronger relationship. As always in interpersonal communication, it's a two-way street. 
+
+9) Taking Risks
+
+Phil Stutz is a psychiatrist based in Hollywood who has mentored and collaborated with therapist Barry Michels, and in a recent interview Stutz discussed the pair's innovative approach to helping their clients overcome obstacles by embracing risk:
+
+The risk you take has a feedback effect on the unconscious. The unconscious will give you ideas and it wants you to act on them. The more courage you have when you act, the more ideas it will give you.
+
+In my own experience, when I've quelled my fears and pushed myself to take meaningful risks, the reward has been a renewed sense of passion, a clearer sense of purpose, and a deeper connection with life. This concept evokes for me the feeling of standing at a cliff's edge, anticipating the thrill to come if I take the leap, but held back by fear--of a crash landing, of unanticipated difficulties, of the shame that would accompany failure. But Stutz's framing encourages me to see that my fear--and my courage--can be self-reinforcing through their influence on my unconscious, and that taking a bold leap can be a powerful way of breaking fear's grip and unleashing my courage.
+
+Photo by Justin Ornellas.
+
+
+===== END ED BOT ESSAY 3698 =====
+===== BEGIN ED BOT ESSAY 3699 =====
+---
+title: Comfort Struggle
+url: https://edbatista.com/2012/01/comfort-struggle.html
+slug: comfort-struggle
+published: 2012-01-14T11:34:37
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+I recently bought these smiley-face stickers, which are produced by a company called Teacher Created Resources, and this message on the back of the package caught my attention:
+
+Imagine the great things you can do with these fantastic stickers!
+
+Reward Success!
+
+Encourage Progress!
+
+Notice Accomplishment!
+
+Restore Confidence!
+
+Compliment Effort!
+
+Decorate Completion!
+
+Recognize Good Conduct!
+
+Observe Exellence!
+
+Honor Attempt!
+
+Comfort Struggle!
+
+While it's slightly exhausting to read--so many! exclamation points!--I also find it inspiring. I'm reminded of the many wonderful teachers I've had, and I recall with gratitude the many ways in which they expressed not only their commitment to my learning but also their investment in me as a person. I hope I have a similar impact on my own clients and students, and while I trust in my abilities as a coach, I'm also prompted to wonder how I could do an even better job. It's important to me to go the extra mile, just like a teacher who might pay for these stickers out of their own pocket to augment their limited classroom supplies.
+
+Finally, I see a clear parallel between the impact of a smiley face sticker on a child and the many small ways in which we can convey our support and caring to each other as adults. Research shows that activities such as expressing gratitude or practicing acts of kindness have a surprisingly large impact on our happiness. This research reinforces what I see in my work as a coach every day--the little things really do matter, and it's important to look for and step into opportunities to encourage progress, restore confidence, comfort struggle.
+
+
+===== END ED BOT ESSAY 3699 =====
+===== BEGIN ED BOT ESSAY 3700 =====
+---
+title: The Meaning of Mindset
+url: https://edbatista.com/2012/01/the-meaning-of-mindset.html
+slug: the-meaning-of-mindset
+published: 2012-01-11T18:18:20
+updated: 2025-10-02T23:08:52
+source_body: wordpress-html
+---
+
+Recent work on setbacks and mindset [1] as well mental models [2] triggered some further reflection on just what we mean by mindset. The definitions below aren't mutually exclusive--each one simply provides another way of looking at and making effective use of the central concept:
+
+1. Thoughts and Perceptions
+
+First, mindset refers to the overarching idea that what we think--and particularly what we think about ourselves--influences how we perceive the world around us and how we experience that world. Our thoughts and perceptions--and the resulting emotions--shape our reality.  A perfect example of this is the placebo effect: Research has shown that "A particular mind-set or belief about one's body or health may lead to improvements in disease symptoms as well as changes in appetite, brain chemicals and even vision." [3]
+
+2. Cognitive Biases
+
+A second definition of mindset is the process of understanding cognitive biases and principles of neuroscience in order to leverage them and turn them to our advantage, rather than be buffeted about by them. For example, awareness of the cognitive bias known as the "fundamental attribution error"--ascribing causality to personal characteristics when causality actually lies with the situation--and its impact on our mindset can allow us to cope more effectively with setbacks. A host of other heuristics can also lead us astray, such as availability bias--"the tendency to judge the likelihood of an event by the ease with which relevant examples come to mind"--and affective errors--"the tendency to make decisions based on what we wish were true." [4]  Recent research on neuroscience and brain function provides additional insights into why we act the way we do, and one of the best examples is David Rock's SCARF model, which "captures the common factors that can activate a reward or threat response in social situations." [5]
+
+3. Mental Models
+
+On a more personal level, another definition of mindset is an awareness of our existing mental models, beliefs and assumptions, many of which are the result of past learning experiences and which may not have been re-examined or updated in the interim. Such awareness allows us to see how these concepts influence our actions and, if we choose, to update them to reflect our current circumstances and subsequent learning. In turn, this process allows us to make different choices based on more recent information and better suited to current circumstances. In recent months I've revisited the impact of my self-image as a public speaker: "I had trapped myself in my own mental model: believing I was a poor speaker led me to avoid speaking opportunities, which prevented me from ever improving. Today I still get nervous before a speech or presentation, but I view that response simply as a manifestation of my desire to do well, not as damning evidence of my ineffectiveness." [6]
+
+4. Growth vs. Fixed
+
+Finally, a very specific and highly useful definition of mindset is the idea at the heart of the work of Stanford psychologist Carol Dweck, who sees a pivotal distinction between a "growth" mindset and a "fixed" mindset. As Dweck has noted,
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort. They're wrong.
+
+In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment. [7]
+
+Again, these definitions obviously overlap--my goal here isn't to distinguish them as separate concepts but rather to get sufficient clarity on the threads and themes woven into the concept of mindset in order to make use of all of them more effectively.
+
+Footnotes
+
+[1] Setbacks, Mindset, and the Fundamental Attribution Error
+
+[2] Corn Mazes and Mental Models
+
+[3] Why Placebos Work Wonders (Shirley Wang, The Wall Street Journal, January 10, 2012)
+
+[4] When Heuristics Go Bad
+
+[5] Neuroscience, Leadership, and David Rock's SCARF Model
+
+[6] Stagefright and Public Speaking
+
+[7] What Is Mindset (Carol Dweck, 2012)
+
+Updated March 2021.
+
+Photo by Alessandro Valli.
+
+
+===== END ED BOT ESSAY 3700 =====
+===== BEGIN ED BOT ESSAY 3701 =====
+---
+title: Setbacks, Mindset, and the Fundamental Attribution Error
+url: https://edbatista.com/2012/01/setbacks-mindset-attribution-error.html
+slug: setbacks-mindset-attribution-error
+published: 2012-01-10T16:14:28
+updated: 2025-10-08T20:36:29
+source_body: wordpress-html
+---
+
+Thinking about some recent personal and professional setbacks--those of clients and students as well as some of my own--has led me to reflect on the intersection of two topics that often come up in my practice: mindset and the fundamental attribution error.
+
+By "mindset" I'm referring to the power exerted by our beliefs, assumptions and mental models. [1] What we think--and particularly what we think about ourselves--has a tremendous influence on our lived experience. Fer example, recent research on the placebo effect has shown that "a particular mind-set or belief about one's body or health may lead to improvements in disease symptoms as well as changes in appetite, brain chemicals and even vision." Of particular importance is the ability of positive expectations and conditioning to create an openness to change. [2]
+
+The concept of a "fixed mindset" and a "growth mindset" is at the heart of the work of Stanford psychologist Carol Dweck:
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success--without effort. They're wrong.
+
+In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work--brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment. [3]
+
+Having a fixed mindset rather than a growth mindset can have a profound impact on how we cope with setbacks and mistakes. People with a fixed mindset see setbacks and mistakes as the result of personal failings, character flaws, and an inherent lack of talent. People with a growth mindset see the same experiences as learning opportunities and challenges that will stimulate growth.
+
+But while I believe firmly in this research and can attest to the power of mindset both in my own life and in the lives of my clients and students, I'm not suggesting that the biggest challenges we face can be resolved merely by adopting a "positive attitude," or that our mindsets are at fault when we struggle.
+
+This is where the second concept I've been reflecting on comes in: the "fundamental attribution error" is a common cognitive bias originally named by Stanford psychologist Lee Ross. It was taught to me in business school by the outstanding Roberto Fernandez as "ascribing causality to personal characteristics when causality actually lies with the situation."
+
+As I've written before, "We see it at work most clearly with high-profile, archetypal leaders--presidents, CEOs, coaches, quarterbacks--who are hailed as geniuses when their organizations accomplish their goals and derided as bums when their organizations stumble." [4] But it appears in daily life as well. While we bear at least some responsibility for most of our failures, it's inaccurate to put the blame solely on our shoulders while ignoring the context in which a given failure occurs.
+
+The intersection of mindset and the fundamental attribution error is critical when it comes to how we deal with setbacks. The same cognitive bias that leads us to ignore our good fortune and take more credit than we should when we succeed also leads us to ignore those situational factors that contribute to our failures. Our ignorance of the fundamental attribution error (or our reluctance to apply it to our own lives) can cause us to see setbacks as solely our responsibility, feeding into a negative mindset and making it more difficult to recover.
+
+There is a slippery slope here that could be exploited by the unscrupulous or irresponsible, and by no means am I suggesting that we avoid holding ourselves accountable. But research by psychologist Jason Moser on learning from mistakes suggests that those who learn best from mistakes spend a substantially higher amount of time and energy focusing on and reviewing what they did wrong in order to learn from it. [5] They don't shirk responsibility--just the opposite.
+
+The judicious application of the fundamental attribution error can give us a fuller, more accurate perspective on our setbacks, which can have a meaningful impact on our mindset. If we can clearly distinguish between those factors that are truly our responsibility and within our control to change, and any situational factors--or even just bad luck--that we have no control over, we'll be able to focus our energies where they'll be most useful and to maintain a mindset that will support recovery, learning and growth.
+
+Footnotes
+
+[1] Corn Mazes and Mental Models
+
+[2] Why Placebos Work Wonders (Shirley Wang, The Wall Street Journal, January 10, 2012)
+
+[3] What Is Mindset (Carol Dweck, 2012)
+
+[4] The Fundamental Attribution Error & the No Asshole Rule
+
+[5] Mind Your Errors: Evidence for a Neural Mechanism Linking Growth Mind-Set to Adaptive Posterror Adjustments (Jason Moser, et al, Psychological Science, 2011)
+
+ 
+
+Photo by dfinnecy.
+
+
+===== END ED BOT ESSAY 3701 =====

@@ -1,0 +1,150 @@
+===== BEGIN ED BOT ESSAY 3225 =====
+---
+title: Do It Yourself
+url: https://edbatista.com/2005/06/do_it_yourself.html
+slug: do_it_yourself
+published: 2005-06-08T08:00:00
+updated: 2005-06-08T08:00:00
+source_body: wordpress-html
+---
+
+When I was a kid, "Do It Yourself" referred to 1) punk and indie rock bands that pressed their own records (yes, actual vinyl) and toured the country in second-hand vans, sacrificing the advantages of being on a major label for the satisfaction of having total control over their music, and 2) homeowners who took hammer in hand and wreaked havoc, er, tackled home-improvement projects without the benefit of professional guidance, sacrificing a perfect finish for the satisfaction of doing it their way.  People everywhere have caught the DIY bug, and in the spirit of the 21st century, you don't have to make sacrifices to have it your way these days--in some cases you don't actually have to do it yourself at all.  Going by some recent posts I've seen, it's a veritable epidemic:
+
+- Virginia Postrel discusses Neil Gershenfeld's new book Fab, on low-cost, easy-to-use fabrication technologies (although she's sensibly skeptical about taking DIY too far, and notes the economic benefits of specialization); Eric von Hippel's Democratizing Innovation, on user-driven innovations in products and services; and O'Reilly's just-launched MAKE magazine, which claims that "all of us can learn to become makers, just as we might learn to cook or use woodworking tools."
+
+- But you don't even have to get your hands dirty--you can just tell someone to DIMY (Do It My Way): Grant McCracken jumps off from the same Postrel post to an ongoing column at Trendwatching.com on the rise of the "Customer-Made": "corporations creating goods, services and experiences in close cooperation with consumers, tapping into their intellectual capital, and in exchange giving them a direct say in what actually gets produced..." McCracken uses this as an opportunity to blow the doors off Trendwatching's, uh, trendy attempt to ride the coattails of C.K. Prahalad's The Future of Competition, which apparently tackled the same subject first and in greater intellectual depth, but called it "Co-Creation."  (I think Grant makes an excellent point, but Trendwatching still provides a very extensive and useful list of real-world examples of the practice.)
+
+- But you don't even have to be operating in the real world--you can now DIY online: Marnie Webb recently referred me to Greasemonkey, "a Firefox extension which lets you add bits of [code called "user scripts"] to any web page to change its behavior," a process aptly described as "remixing the web."  There's an astonishingly large library of user scripts that cover a wide range of functions.  This stuff isn't really ready for prime-time use by non-techies--I was dying to put a delete button on my Gmail page until I read that the script might cause my account to temporarily lock down.  But it could be huge if it were a little safer and easier to user, and sites are going to have to start taking user-driven personalization into account.
+
+diy do it yourself virginia postrel greasemonkey
+
+
+===== END ED BOT ESSAY 3225 =====
+===== BEGIN ED BOT ESSAY 3226 =====
+---
+title: A Lab Rat In My Own Experiment
+url: https://edbatista.com/2005/06/a_lab_rat_in_my.html
+slug: a_lab_rat_in_my
+published: 2005-06-07T06:00:00
+updated: 2005-06-07T06:00:00
+source_body: wordpress-html
+---
+
+I recently summarized Seth Goldstein's epic series of essays on  the tantalizing prospects of applications and business models powered by user-generated metadata.  Well, just a few days earlier I also posted elsewhere, about Audioscrobbler, which is...wait for it...an (actual) application and (potential) business model powered by user-generated metadata.  Took me a few days to make the connection, but I finally got there.
+
+In their own words, Audioscrobbler...
+
+...builds a profile of your musical taste using a plugin for your media player (Winamp, iTunes, XMMS etc..). Plugins send the name of every song you play to the Audioscrobbler server, which updates your musical profile with the new song. Every person with a plugin has their own page on this site which shows their listening statistics. The system automatically matches you to people with a similar music taste, and generates personalised recommendations.
+
+I kept iTunes running on shuffle for a week to build up a profile and see what happens.  Here's a look at my Top Artists at 1,011 songs.  So let's apply Goldstein's aaaaanalytical framework to Audioscrobbler:
+
+- Automata: Spontaneously generated metadata in sufficiently useful amounts?  Check.  (Although as my friend Hunter pointed out, can you trust it?  Part of the exhibitionistic motivation in sharing this info is demonstrating how cool you are by virtue of your impeccable taste in music--but judging by actual sales, there's a lot of bad taste out there.  Just what are you getting when you're looking not at actual, unmediated behavior but at what people want you to see?  The system's also vulnerable to more aggressive gaming: At this writing, eight of the top ten songs across Audioscrobbler's entire network are by System of A Down.  I like Nu Metal as much as the next person (read: not that much), but this strikes me as somewhat, ah, corrupted market data.)
+
+- Algorithm: Means by which individuals and their content can be aggregated, classified and rated?  Means by which that output can be fed back into the development of new content?  Well, semi-check.  Audioscrobbler provides much of the former now, although the system's a work in progress, and they clearly intend to provide the latter at some point in the future, although I don't think that's happening just yet.
+
+- API: Interface through which individuals generating content can identify and communicate with each other?  Check.  Here's my Audioscrobbler network of 50 Musical Neighbors.  Small world story: Josh Benton, neighbor #8, is a journalist in Dallas whose personal website is one of the first blogs I ever read regularly.  Never met or talked to the guy, although I commented on his site a few times.  Haven't even thought about him in a few years, and here he shows up in my Audioscrobbler backyard.  Interesting.  Interface through which they can communicate with any secondary content-generators?  Not yet, but it wouldn't be hard, especially since all your individual data is available as a feed under a Creative Commons license.
+
+- Alchemy: Can value be added, i.e. can you commercialize the data?  Big check, contingent on a satisfactory resolution to the corruption problem noted above.  I think it would be incredibly valuable to bands, labels, promoters, magazines--anyone in the musical supply chain--to be able to crunch this data...if it's actually a reliable indicator of people's listening and purchasing behavior.
+
+- Arbitrage: Can they buy low and sell high?  Big check, again, contingent on its reliability.  You can't buy much lower than having it given to you for free.
+
+Cool stuff, and even if Audioscrobbler fails to take off, I'm convinced that this framework is the right way to assess applications like this.
+
+audioscrobbler metadata social media
+
+
+===== END ED BOT ESSAY 3226 =====
+===== BEGIN ED BOT ESSAY 3227 =====
+---
+title: Jaffe Juice
+url: https://edbatista.com/2005/06/jaffe_juice.html
+slug: jaffe_juice
+published: 2005-06-05T16:39:41
+updated: 2005-06-05T16:39:41
+source_body: wordpress-html
+---
+
+Just discovered Jaffe Juice, the blog of "new marketer" Joseph Jaffe.  Gloves-off commentary on the current state of marketing, both new media and otherwise.  Here's his take on the Carl's Jr. Paris Hilton ad:
+
+What we have here, is 1000% unabashed borrowed interest at least 2x over - not only in Paris Hilton, but she herself is leaning on her trademark "that's hot" line.
+
+What saddens me here is that this is nothing more than the "go daddy" efforts rehashed and repurposed. When no one is prepared to take a risk anymore, the biggest risk taken is to drink from the swill of cheap laughs, old ideas and appealing to the lowest common denominator.
+
+Legitimate marketers and their agents are most likely staring at this campaign and its "perceived success" in terms of buzz, visibility etc., wondering what to do next; where to go from here; possibly thinking about how base and worthless their profession has become. Or perhaps they're ramming their heads against a brick wall cursing the fact they didn't go there first, in which case I hope it hurts REAL bad.
+
+There may be tie-in to the word "hot", but then what? Does this make me care more about Carl's? Not a bit. Do I feel like a chicken burger? A little, just not sure I want it from Carls. Do I feel compelled to find out where my nearest Carls is? Not really. This is the danger associated with borrowed interest. The question is to what extent consumers are participating purely for PH or to find out more about the product. We all know the answer to this.
+
+If Carl's Jr is out to the corner the market for teen boys, so be it, but I suspect they'll need a little more traffic than that.
+
+Good stuff--read the whole thing--and there's plenty more where that came from.  Bonus link to a howlingly funny remix of the ad overdubbed with Richard Dreyfus' voiceover from Apple's "Here's To The Crazy Ones" spot.  Hat tip for the link to Jaffe to Rick Bruner at Executive Summary--nice to see he hasn't packed it in entirely.
+
+marketing
+
+
+===== END ED BOT ESSAY 3227 =====
+===== BEGIN ED BOT ESSAY 3228 =====
+---
+title: Think Blink: Malcolm Gladwell's Lessons for Web Design, Part 3
+url: https://edbatista.com/2005/06/think_blink_mal.html
+slug: think_blink_mal
+published: 2005-06-04T12:40:00
+updated: 2005-06-04T12:40:00
+source_body: wordpress-html
+---
+
+(Part 1, Part 2)
+
+This is the third and final post in a series on what Malcolm Gladwell's Blink can tell us about how people behave online and, by extension, how websites could be better designed to reflect and take advantage of that behavior.  Having explained the process of "thin-slicing" and demonstrated the efficacy of snap judgments, Gladwell goes on to discuss their limitations, particularly when applied to marketing efforts that incorporate customer feedback.  I'm hardly an expert in user testing, but I think Gladwell's cautionary message is highly relevant to how such feedback is obtained and applied in the web design process.
+
+Introspection Destroys Insight
+
+We often seek to understand users' behavior by asking them to explain what they're doing and why.  The underlying assumption is that people can accurately describe their first impressions and their preferences.  But Gladwell thinks this approach is entirely wrong:
+
+...[W]hile people are very willing and very good at volunteering information explaining their actions, those explanations, particularly when it comes to the kinds of spontaneous opinions and decisions that arise out of the unconscious, aren't necessarily correct.  In fact, it sometimes seems as if they are just plucked out of thin air.  [p. 155]
+
+...[W]hat happens is that we come up with a plausible-sounding reason for why we might like or dislike something, and then we adjust our true preference to be in line with that plausible-sounding reason.  [p. 181]
+
+The implications are pretty clear: Don't believe everything you hear in a user interview or from a focus group.  Gladwell thinks focus groups can actually be counterproductive: In an interview with the San Francisco Chronicle's Paul Wilner he said, "[Focus groups] have a conservative bias, and they are a tax on revolutionary ideas, which I think is foolish in this day and age."
+
+But Gladwell began Blink by extolling the virtues of first impressions--what's going on?  Is he contradicting himself?  No, but he's being careful to explain the circumstances when first impressions can be misleading, and it's important to understand when and why that happens so that we don't rely on them inappropriately.
+
+This Is Only A Test
+
+Philosopher Alford Korzybski said, "A map is not the territory it represents but if correct, it has a similar structure to the territory, which accounts for its usefulness"  The same reasoning applies to any user testing scenarios: A test is not the actual experience it's intended to mimic, so be careful about drawing conclusions from user testing data.  Gladwell attributes the disastrous launch of New Coke to the fact that Coke badly misinterpreted their test data.  Pepsi outperformed original Coke in "sip tests," but actual consumers don't just drink a sip of soda, they drink an entire can.  New Coke's test results were better, but it tanked in the real world.
+
+The obvious lesson to be learned here is that even when a test seems identical to actual experience, it's not.  There will always be underlying differences, and even if they're as subtle as the difference between taking a few sips of soda and drinking a whole can, they could be sufficient to render test data completely useless.  Proceed with caution.
+
+Expertise Matters
+
+Gladwell writes at length about expert food tasters and their unusual ability to articulate the qualities of various foods along many different dimensions.  From this he concludes that there are profound differences between what experts and non-experts can tell us about their impressions:
+
+Our unconscious reactions come out of a locked room, and we can't look inside that room.  But with experience we become expert at using our behavior and our training to interpret--and decode--what lies behind our snap judgments and first impressions. ... Whenever we have something we are good at--something we care about--that experience and passion fundamentally change the nature of our first impressions.  This does not mean that when we are outside our areas of passion and expertise, our reactions are invariably wrong.  It just means that they are shallow.  They are hard to explain and easily disrupted.  They aren't grounded in real understanding.  [pp. 183-84]
+
+This resonates with another theme of Korzybski's philosophy: In Piero Scaruffi's synopsis, "We have fewer words and concepts than experiences."  Experts overcome this limitation by expanding their vocabulary and by fine-tuning their perceptive apparatus.  They're better able to understand their impressions and better able to articulate them than the rest of us.
+
+The implication for any user feedback is that it's essential to understand just who's providing the feedback.  Are they an experienced online user or a newbie?  Are they familiar with sites like this, or with this particular site?  Are they familiar with this particular organization?  And the identity of test users needs to be closely mapped to the identity of the organization's current and desired users.
+
+The Package IS The Product
+
+Gladwell cites marketing pioneer Louis Cheskin and his concept of "sensation transference":
+
+Cheskin was convinced that when people give an assessment of something they might buy in a supermarket or a department store, without realizing it, they transfer sensations or impressions they have about the packaging of the product to the product itself.  To put it another way, Chesking believed that most of us don't make a distinction--on an unconscious level--between the package and the product.  The product is the package and the product combined. [p. 160]
+
+Gladwell amply demonstrates the effect on this concept on physical goods.  Ice cream tastes better if it comes in a cylindrical container instead of a rectangular one.  Brandy tastes better if it comes in a decanter instead of a wine bottle.  Margarine tastes better if it's colored yellow instead of white.  Signifiers affect our senses, altering our impressions of the product itself.
+
+But what are the effects on an experience good, like a website?  To the extent that we can distinguish between the "product" (i.e. the information and content delivered by a site, and, by extension, the organization itself) and the "packaging" (i.e. the site's graphic design, look-and-feel, and navigational scheme, and the organization's branding), users' perceptions of the latter will have a tremendous impact on the former.  Put more simply, design matters.  That's hardly a revolutionary idea, but I'm struck by how many organizations, particularly nonprofits, ignore the importance of good design and assume that compelling content will carry the day.
+
+The implication for user feedback is that it's important to be aware of the complicated relationship between "product" and "packaging."  What's being tested, the former or the latter?   How would different "packaging" affect users' perceptions of the "product"?
+
+A Challenge
+
+Gladwell closes Blink by essentially challenging us to remake our world to take better advantage of first impressions:
+
+Too often we are resigned to what happens in the blink of an eye.  It doesn't seem like we have much control over whatever bubbles to the surface from our unconscious.  But we do, and if we can control the environment in which rapid cognition takes place, then we can control rapid cognition. [pp. 252-53, Emphasis mine]
+
+Web designers can and should rise to this challenge by recognizing the fundamental importance of users' first impressions and by helping users "thin-slice" to make better, faster decisions.  And given the degree to which we can control our online environment--in stark contrast to the battlefields, emergency rooms, and other real-world scenarios discussed in Blink--there are countless low-risk opportunities to put these principles into practice online.
+
+(Part 1, Part 2)
+
+
+===== END ED BOT ESSAY 3228 =====

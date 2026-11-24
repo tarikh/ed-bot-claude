@@ -1,0 +1,300 @@
+===== BEGIN ED BOT ESSAY 3638 =====
+---
+title: Academic Journals Have an Offer You Can't Refuse
+url: https://edbatista.com/2010/03/journals.html
+slug: journals
+published: 2010-03-28T14:23:38
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+(Academic journal publishers?)
+
+The other day I referenced a post by Bob Sutton that was inspired by a recent study in the Journal of Experimental Social Psychology by Nathaniel Fast of USC and Lara Tiedens of the Stanford Graduate School of Business.  (Full disclosure: I know Lara and support courses that she teaches at the GSB, although we haven't worked together directly.  I was also a student of hers in a previous century.)
+
+I wanted to check out the study for myself, so I found the Journal's website and tried to locate the article.  I expected it to be locked away behind a paywall, but I assumed I'd at least find an excerpt.  But I couldn't.  I'm hardly a professional researcher, but I'm a reasonably proficient user, and I couldn't even find a link.
+
+I often run into problems like this with academic journal sites, and even when I successfully navigate their poor design and confusing search architecture, the article I want is almost always prohibitively expensive.  But I was so irritated yesterday that I kept up the search and finally found not just a link but the entire text of the study: Blame contagion: The automatic transmission of self-serving attributions.
+
+Success!  And yet it's merely the exception that proves the rule.  That study was published in the Journal's January 2010 issue, which happens to be the only issue of the 60 published in the last decade that is freely available online.  Why?  I don't know--and can't find out on their website.  How long will it be available?  I don't know--and can't find out on their website.
+
+So what if I wanted to read a article from another issue?  For example, I'd love to read Fooled by first impressions? Reexamining the diagnostic value of appearance-based inferences, which was just published this month--and I can, for just $31.50.
+
+That's pretty pricey, but it's reasonable to assume that brand-new content is going to be more expensive.  What if I wanted to read an article from, say, ten years ago?  I'm sure I'd find it rewarding to read The Consequences of Communicating Social Stereotypes, published in November 2000--and I can, for the same low price of $31.50.
+
+Well, perhaps the article prices are so high in order to encourage subscriptions--although perhaps not, because in order to get all six issues of the Journal delivered to my (literal) mailbox, I'd have to pay $191.00.  (Good news for students--you pay just $146.00!)  And does a subscription to the print edition include online access?  I don't know--and can't find out on their website.
+
+Good grief.
+
+I don't mean to single out this particular journal or its publisher--these figures and policies are typical in my experience.  But with competitive pressures transforming the business models of every other publisher, how is it that academic journals are able to stay afloat with this pricing structure?  What keeps this racket going?
+
+My best guess is that these journals have no incentive to cultivate a market of individual readers like me via lower prices because they already hold the institutional market hostage.  Academics seeking tenure must publish their research in a small number of established journals in order to gain the recognition of their peers, so the journal publishers enjoy oligopoly control over content.  And university libraries and other institutional clients must subscribe to these same journals in order to meet the needs of faculty and other researchers, so the publishers can command outrageously high prices for institutional subscriptions--over $1,000.00, in the case of the journal cited above!
+
+And of course, journal subscriptions are just one small line item among all the other costs passed on to the biggest "consumers" of academia, who typically pay for a aggregated "bundle" of services from the institution: parents and students paying tuition; federal, state and local governments making appropriations; donors giving gifts.  (Thanks to the Delta Project for their data on post-secondary education revenue sources.)
+
+I'm a realist, and if I'm right about the incentives described above, I don't expect this system to change anytime soon.  But it's still a shame that so much useful knowledge is so difficult to access.
+
+Postscript: My wife Amy, a recovering corporate attorney-turned-legal reference librarian, is a professional researcher, and she writes, "But you're married to a librarian!  You could have asked for help, you know.  But I agree that the UI sucks for most online journals."  And while I'm always grateful for Amy's expert guidance (as well as help from the great reference staff at the GSB's Jackson Library), my hope is that someday it'll be easier (and cheaper!) for lay readers like me to access and make use of academic research.
+
+Photo of The Sopranos © HBO and TimeWarner.
+
+
+===== END ED BOT ESSAY 3638 =====
+===== BEGIN ED BOT ESSAY 3639 =====
+---
+title: Derek Sivers on Leadership Lessons from Dancing Guy
+url: https://edbatista.com/2010/03/dancing-guy.html
+slug: dancing-guy
+published: 2010-03-27T13:02:12
+updated: 2025-10-05T20:38:21
+source_body: wordpress-html
+---
+
+Derek Sivers extracts some leadership lessons from the Dancing Guy at Sasquatch. That's right, this guy:
+
+Sivers writes:
+
+A leader needs the guts to stand alone and look ridiculous. But what he's doing is so simple, it's almost instructional. This is key. You must be easy to follow!
+
+Now comes the first follower with a crucial role: he publicly shows everyone how to follow. Notice the leader embraces him as an equal, so it's not about the leader anymore - it's about them, plural. Notice he's calling to his friends to join in. It takes guts to be a first follower! You stand out and brave ridicule, yourself. Being a first follower is an under-appreciated form of leadership. The first follower transforms a lone nut into a leader. If the leader is the flint, the first follower is the spark that makes the fire.
+
+And what proves Sivers' point about the importance of standing alone even further is that Dancing Guy was dancing for quite a long time before he finally sparked a movement: Other videos show him dancing for at least 20 minutes before the video above was shot.
+
+It's noteworthy that the guy Sivers dubs the "First Follower" technically wasn't first. Those other videos show a dozen people interacting with Dancing Guy before First Follower comes on the scene. Most of those others seem self-conscious, including one man who's egged on by his friends shooting the video to actually mock Dancing Guy--not that Dancing Guy cared.
+
+What distinguished First Follower wasn't that he was first in line, but that he shared Dancing Guy's passion, his unself-conscious playfulness. He wasn't first, but he was the first to stick around, and that's what made the difference. As Sivers concludes:
+
+If you are a version of the shirtless dancing guy, all alone, remember the importance of nurturing your first few followers as equals, making everything clearly about the movement, not you.
+
+Be public. Be easy to follow!
+
+But the biggest lesson here - did you catch it?
+
+Leadership is over-glorified.
+
+Yes it started with the shirtless guy, and he'll get all the credit, but you saw what really happened:
+
+It was the first follower that transformed a lone nut into a leader.
+
+There is no movement without the first follower.
+
+We're told we all need to be leaders, but that would be really ineffective.
+
+The best way to make a movement, if you really care, is to courageously follow and show others how to follow.
+
+When you find a lone nut doing something great, have the guts to be the first person to stand up and join in.
+
+Sivers echoed aspects of this theme in a talk he gave at SXSW: "The biggest secret of promotion is that it's all about them--it's not about you."
+
+
+===== END ED BOT ESSAY 3639 =====
+===== BEGIN ED BOT ESSAY 3640 =====
+---
+title: Chief Culture Officer
+url: https://edbatista.com/2010/03/cco.html
+slug: cco
+published: 2010-03-26T11:41:26
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+For the past few months I've wanted to recommend Grant McCracken's Chief Culture Officer, a terrific book that came out last December, although I had to wait until I began writing again a few weeks ago.  (Full disclosure: I consider Grant a friendly colleague, and his publisher sent me a review copy of the book.)  In a feat of imagination, Grant has willed into being an entirely new profession--the CCO--and is now tackling the daunting task of telling the business world how to fill a void it didn't even know existed.
+
+So just what is a CCO?  I'll let Grant describe it in his own words (I've added headings for clarity):
+
+The Professional CCO
+
+[pp 14-15] In [many] cases, someone can act as a CCO not because he has studied contemporary culture but because he comes from that culture.  He knows it in his bones.
+
+The problem with this approach is the "best by" date stamped on knowledge.  Our community carries on without us.  In the early days, we can update our knowledge without much effort, but eventually our knowledge wears out.  We have lost our "seal" with culture.
+
+The other problem is that we must finally transcend the community from which we come... Eventually every CCO has to know about the whole of culture, and not just the part of it he or she knows from personal experience.
+
+This is, finally, an issue of professionalism, of systemizing our knowledge, of getting organized, of going beyond our own preferences and comfort zone.  Unofficial CCOs may rely on particular knowledge, on "hunches."  They may feel things "in the gut," as if culture were a probiotic enterprise, after all.  But the professional CCO has a breadth and depth of knowledge.  The CCO has to know the whole of the waterfront, not just his or her favorite patch or point of origin...
+
+Standards, knowledge, continual learning, the ability to process massive bodies of data and possibility, the ability to spot the crucial development in a perfect storm of possibilities--this, and not intuition, is the work of the CCO.
+
+The CCO and the Consumer
+
+[p 30] [The role of the CCO is] to dolly back far enough to see the consumer in her life, in her culture.
+
+Actually, CCOs move in two directions.  The go inward toward the consumer more than anyone else in the C-suite.  They come to know what these lives feel like.  But CCOs also move outward to capture the bigger picture.  Dolly up.  Dolly back.
+
+The CCO and "Homeyness"
+
+[p 46] It is topics like homeyness that separate the CCOs who are moved by genuine curiosity about their culture from those who are merely in it for the really stylish eyewear.  There is nothing in homeyness that will make you look hipper to your friends.  There is nothing here you can drop into conversation at a party.  There is no knowledge here that really works as social capital.  No, the CCO wants to know about homeyness because it is part of American culture, and that's his job.
+
+The CCO, Marketing and Smart Culture
+
+[pp 92-93] The world of marketing is changing at light speed.  And this is another reason to hire a CCO.  If the corporation is now going to talk to consumers, instead of shout, or lie, it needs to know how to start and sustain the conversation... It needs to proceed with a new order of intelligence.  As Steven Johnson says in Everything Bad is Good for You, "For decades we've worked under the assumption that mass culture follows a steadily declining path toward lowest-common-denominator standards, presumably because the 'masses' want dumb, simple pleasures and big media companies want to give the masses what they want.  But in fact, the exact opposite is happening: the culture is getting more intellectually demanding, not less."  To live in this culture, to profit in this new marketplace, a CCO is called for.
+
+This may require a complete replacement of the marketing team.  In the meantime, it will require the presence of the CCO, someone who knows the culture well enough to engage with it, to talk about it, to contribute to it.
+
+The CCO and Profitability
+
+[p 107] There are two ways the CCO pursues profit.  The first is in the workaday business of making the C-suite's decisions better informed of the opportunities and the risks that come from culture.  The second is by acting like an internal entrepreneur, an innovation agent inside the corporation.
+
+The CCO and Corporate Respiration
+
+[p 119] Things are more complicated now.  Now the corporation is not just an economic actor, it is also a social and a cultural one... Instead of the interest-seeking automaton, the corporation looks more organic, like something living and breathing.  A key part of its respiration now is the movement of culture in and culture out.  Only a CCO in the C-suite and only a very smart person serving as CCO can manage this respiration.
+
+Paying particular attention to A) Grant's reference to Steven Johnson's Everything Bad is Good for You (another great book) and the idea that our culture is actually getting smarter all the time, and B) the concept of "corporate respiration," the process by which corporations absorb and (in turn) influence the culture at large, I'm reminded of the first three theses of the Cluetrain Manifesto (surely no accident on Grant's part):
+
+- Markets are conversations.
+
+- Markets consist of human beings, not demographic sectors.
+
+- Conversations among human beings sound human. They are conducted
+
+in a human voice.
+
+Grant's convincing case that a CCO is now a necessary function ultimately derives much of its power from the fact that the world now looks a lot like the Cluetrain visionaries said it would.  Old-school marketing wasn't a conversation, it was a broadcast, or, at best, a one-way feedback loop informed by the findings of focus groups and (gag) "cool-hunters."  That system never really worked well--e.g. John Wanamaker's "Half the money I spend on advertising is wasted; the trouble is I don't know which half."--and its shortcomings explain why we now need a new profession to augment the position formerly occupied by the CMO.  Marketers know how to broadcast to demographic sectors, but they don't necessarily know how to hold a conversation with other human beings (in their professional capacity, that is--I certainly know plenty of marketers who are a joy to talk with 🙂
+
+This highlights one shortcoming of Chief Cultural Officer: any newfangled CCO will face a huge challenge in navigating the complex relationship with their conventional marketing colleagues, and I wish Grant had explored that topic further.  In a section entitled "Playing Well with Others: The Rest of the C-Suite," Grant rightly emphasizes how important it will be for CCOs to never "play the cool card" or be "hipper than thou," and to collaborate with their colleagues by making themselves useful.  But I suspect that while this will be easier said than done, this is actually where CCOs will need to focus a great deal of energy to be most effective.  Even companies that buy into the concept of a CCO will likely continue to maintain a separate marketing function under the direction of a CMO or the equivalent, and the CCO's ability to help the organization make best use of those resources will depend on the strength of the collaborative relationships they build with their marketing peers.
+
+As Grant continues to proselytize on behalf of this fledgling profession, I suspect he'll use lessons learned from the field to fill in this gap.  And this quibble aside, I do highly recommend the book--it's a thoughtful read from a skillful writer and provocative thinker.
+
+(FYI, two other concepts by Grant have had a big influence on me: the Swift Self, and the Elements of Reinvention.)
+
+
+===== END ED BOT ESSAY 3640 =====
+===== BEGIN ED BOT ESSAY 3641 =====
+---
+title: Neuroscience, Leadership and David Rock's SCARF Model
+url: https://edbatista.com/2010/03/scarf.html
+slug: scarf
+published: 2010-03-25T13:38:00
+updated: 2025-10-05T12:38:52
+source_body: wordpress-html
+---
+
+For some years David Rock has been exploring the field of neuroscience and its implications for management, coaching, and organizational life. [1] Much of Rock's thinking is distilled in "Managing with the Brain in Mind" [2] and "SCARF: A brain-based model for collaborating with and influencing others." [3] The SCARF model referenced in both pieces refers to Rock's framework for understanding the five primary social dimensions within which our brains respond to perceived threats and rewards. From Rock's "SCARF..." paper:
+
+Two themes are emerging from social neuroscience. Firstly, that much of our motivation driving social behavior is governed by an overarching organizing principle of minimizing threat and maximizing reward (Gordon, 2000). Secondly, that several domains of social experience draw upon the same brain networks to maximize reward and minimize threat as the brain networks used for primary survival needs (Lieberman and Eisenberger, 2008). In other words, social needs are treated in much the same way in the brain as the need for food and water.
+
+The SCARF model summarizes these two themes within a framework that captures the common factors that can activate a reward or threat response in social situations. This model can be applied (and tested) in any situation where people collaborate in groups, including all types of workplaces, educational environments, family settings and general social events.
+
+The SCARF model involves five domains of human social experience: Status, Certainty, Autonomy, Relatedness and Fairness.
+
+Status is about relative importance to others. Certainty concerns being able to predict the future. Autonomy provides a sense of control over events. Relatedness is a sense of safety with others, of friend rather than foe. And fairness is a perception of fair exchanges between people.
+
+These five domains activate either the "primary reward" or "primary threat" circuitry (and associated networks) of the brain. For example, a perceived threat to one's status activates similar brain networks to a threat to one's life. In the same way, a perceived increase in fairness activates the same reward circuitry as receiving a monetary reward. [4]
+
+The illustration below reflects the disproportionate power of a threat response to drive us away relative to a reward response's ability to draw us in, a well-documented psychological principle [5]:
+
+Status
+
+Status is "about relative importance, 'pecking order' and seniority," Rock writes in "SCARF..." He cites the work of epidemiologist Michael Marmot, whose research suggests that status is "the most significant determinant of human longevity and health, even when controlling for education and income." [6]
+
+Two key aspects of our brain's perception of status are: how easily a threat response can be triggered by such conventional workplace practices as performance reviews and feedback conversations, as well as the fact that threat and reward responses related to changes in status can be triggered "even when the stakes are meaningless," as Rock writes in "Managing with the Brain in Mind." These dynamics imply not only that extreme care must be taken to conduct reviews and provide feedback in ways designed to boost, rather than threaten, the recipient's status, but also that attention must be paid to the small, commonplace ways in which interpersonal status is heightened and diminished.
+
+Certainty
+
+The importance of certainty can be seen as a result of the brain's effort to conserve energy, which derives from the limited capacity of the prefrontal cortex, the seat of executive function.  As I've written in a previous discussion of Rock's work, "we resist mental effort around decision-making and impulse control because we're preserving resources in case we need them more urgently in the next moment," and the same dynamic contributes to our resistance to uncertainty. [7] When we're acting with sufficient certainty, our brain senses patterns, successfully predicts next steps, and operates much more efficiently. But when we lack certainty and can't predict what will happen next, "the brain must use dramatically more resources, involving the more energy-intensive prefrontal cortex, to process moment-to-moment experience," as Rock writes in "SCARF..." [8]
+
+That said, it's useful to distinguish mild uncertainty from excessive uncertainty. The former triggers a mild threat response, generating just enough adrenalin and dopamine "to spark curiosity and energize people to solve problems, Rock writes in "Managing..." However, he continues, "when perceived uncertainty gets out of hand, people panic and make bad decisions."
+
+Autonomy
+
+Our perception of our ability to exert control over our environment has a substantial effect on our response to stress factors in our life. When we feel more autonomous, we're much more resistant to stress--and when we feel less autonomous, we can perceive the same set of circumstances as much more stressful.
+
+Two aspects of autonomy worth particular notice: First, autonomy and certainty are intertwined--more autonomy yields a greater sense of certainty about the future. Also, similar to status, "even a subtle perception of autonomy can help," Rock writes in "SCARF...", which suggests that even where autonomy is substantially limited by organizational constraints meaningful perceptions of autonomy can be generated by small gestures.
+
+Relatedness
+
+"In the brain," Rock writes in "Managing...", "the ability to feel trust and empathy about others is shaped by whether they are perceived to be part of the same social group... When [a] new person is perceived as different, the information travels along neural pathways that are associated with uncomfortable feelings (different from the neural pathways triggered by people who are perceived as similar to oneself.)... Once people begin to make a stronger social connection, their brains begin to secrete a hormone called oxytocin in one another's presence. This chemical, which has been linked with affection, maternal behavior, sexual arousal and generosity, disarms the threat response and further activates the neural networks that permit us to perceive someone as 'just like us.'"
+
+So in an interpersonal setting it's important to interact in ways that will surface points of similarity, strengthen social connections and increase a sense of relatedness. From a neuroscientific perspective, this process generates oxytocin, allows our brains to classify the other person as "friend" rather than "foe," and contributes to feelings of trust and empathy. This begs the question of how to address dimensions of diversity. I'm not suggesting that such differences be ignored, but Rock's theory (and my own experience with a wide range of clients and students) implies that differences are more effectively addressed after a sense of relatedness has been established.
+
+Fairness
+
+"The perception that an event has been unfair," Rock writes in "Managing...", "generates a strong response in the [brain], stirring hostility and undermining trust... In organizations, the perception of unfairness creates an environment in which trust and collaboration cannot flourish." Rock notes in his "SCARF..." paper that "unfair exchanges generate a strong threat response [that] sometimes includes activation of the insular, a part of the brain involved in intense emotions such as disgust... People who perceive others as unfair don't feel empathy for their pain, and in some instances, will feel rewarded when unfair others are punished." [9]
+
+And as with status, perceptions of fairness are relative. I'm reminded of a recent experience with some colleagues in which I acted in a manner that I felt was fair and justified, while several others had the opposite perception. At the time I was surprised not only by the difference in our perceptions, but also by the difficulty we experienced in resolving the issue under discussion. In hindsight it's easy to see that the relative nature of fairness implied that there was no absolute truth to be discovered, and the logical arguments of either side were bound to be fruitless. It was only after we stopped trying to convince the other side of our rightness and simply accepted our relative perceptions that we made any progress toward resolving our differences.
+
+Conclusions
+
+The implications of the SCARF model (and the neurological processes it describes) for the workplace are made clear in "Managing with the Brain in Mind":
+
+Although a job is often regarded as a purely economic transaction, in which people exchange their labor for financial compensation, the brain experiences the workplace first and foremost as a social system...
+
+Leaders who understand this dynamic can more effectively engage their employees' best talents, support collaborative teams, and create an environment that fosters productive change. Indeed, the ability to intentionally address the social brain in the service of optimal performance will be a distinguishing leadership capability in the years ahead...
+
+The impact of this neural dynamic is often visible in organizations. For example, when leaders trigger a threat response, employees' brains become much less efficient. But when leaders make people feel good about themselves, clearly communicate their expectations, give employees latitude to make decisions, support people's efforts to build good relationships, and treat the whole organization fairly, it prompts a reward response. Others in the organization become more effective, more open to ideas and more creative. They notice the kind of information that passes them by when fear or resentment makes it difficult to focus their attention. They are less susceptible to burnout because they are able to manage their stress. They feel intrinsically rewarded...
+
+If you are a leader, every action you take and every decision you make either supports or undermines the perceived levels of status, certainty, autonomy, relatedness and fairness in your enterprise. In fact, this is why leading is so difficult.
+
+More specifically, Rock writes in "SCARF...":
+
+Knowing the drivers that can cause a threat response enables people to design interactions to minimize threats. For example, knowing that a lack of autonomy activates a genuine threat response, a leader or educator may consciously avoid micromanaging their employees or students. Secondly, knowing about the drivers that can activate a reward response enables people to motivate others more effectively by tapping into internal rewards, thereby reducing the reliance on external rewards such as money.
+
+Looming in the background are several key factors Rock mentioned in his talk last year [10]: First, as made clear in the graphic above, threat responses are usually much more powerful than reward responses, and thus we move away from threats more quickly and more vigorously than we move toward rewards. So it's not enough to give equal emphasis to rewards in our leadership and management practices--our brains' disproportionate response to perceived social threats implies that we need to put a much greater weight on efforts intended to generate a reward response, and take great pains to avoid triggering a threat response. I'm reminded of psychologist John Gottman's research indicating that the ratio of positive to negative interactions in good relationships during times of conflict is 5:1. [11]
+
+Also, our typical reaction to the strong negative emotions generated by a threat response is to suppress them, particularly in the workplace. But this response has many undesirable consequences, from reducing our own memory function to raising the blood pressure of people around us. So the cost of a threat response isn't borne solely by the person experiencing it, but by anyone who interacts with them or depends on their effectiveness. It's a shared social experience, and this highlights the importance of group dynamics, perhaps most significantly the extent to which it's safe (or unsafe) in a given group to express negative or difficult emotions.
+
+Finally, we have very little time--approximately 1/3 of a second--after the perception of a potential threat before a neurological threat response is triggered. So on an individual basis, it's essential to cultivate our ability to recognize the conditions that might trigger a threat response and proactively reappraise the situation. And at the group or interpersonal level, it's important to be aware of the speed and ease with which a threat response can be triggered in someone else, to understand how such a response is likely to undermine effective communication, and to take steps that support the other person's reappraisal of the situation without creating defensiveness.
+
+Footnotes
+
+[1] David Rock
+
+- I first encountered Rock when he gave a talk in the Bay Area in 2009 on neuroscience, coaching and leadership, and I continue to find inspiration in his work today.
+
+[2] Managing with the Brain in Mind (David Rock, strategy+business, August 2009)
+
+[3] SCARF: A brain-based model for collaborating with and influencing others (David Rock, NeuroLeadership Journal, 2008)
+
+[4] Ibid, page 1.
+
+[5] Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen Vohs, Review of General Psychology, 2001)
+
+[6] "SCARF...", page 3.
+
+[7] David Rock on Neuroscience, Coaching and Leadership
+
+[8] "SCARF...", page 4.
+
+[9] Ibid, page 6.
+
+[10] David Rock on Neuroscience, Coaching and Leadership
+
+[11] The Magic Relationship Ratio, According to Science (Kyle Benson, The Gottman Institute, 2017)
+
+For Further Reading
+
+The SCARF Model and related concepts continue to inform my own work:
+
+- How Leaders Create Safety (and Danger)
+
+- The Importance of Slowing Down
+
+- The Trap of Competition
+
+- Make Getting Feedback Less Stressful (Harvard Business Review, 2014)
+
+- Safety, Trust, Intimacy
+
+David Rock has expanded upon the topics discussed here in the following books:
+
+- Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long (2009/2020)
+
+- Coaching with the Brain in Mind: Foundations for Practice (with Linda Page, 2009)
+
+On the topic of organizational safety I highly recommend the work of Harvard Business School professor Amy Edmondson, who has heavily influenced my perspective since I originally wrote this post. Edmondson's ideas are consistent with Rock's work and my comments here, but she explores the specific topic of safety in even greater depth:
+
+- Make Your Employees Feel Psychologically Safe (Martha Lagace interviewing Amy Edmondson, Harvard Business School Working Knowledge, 2018)
+
+- How Fearless Organizations Succeed (strategy+business, 2018; excerpted from Edmondson's book below)
+
+- The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation and Growth (2018)
+
+- Building a psychologically safe workplace [11:26 video] (TEDxHGSE, 2014)
+
+- Managing the risk of learning: Psychological safety in work teams (2002)
+
+Revised July 2020.
+
+Photo by Andrew Vargas.
+
+
+===== END ED BOT ESSAY 3641 =====

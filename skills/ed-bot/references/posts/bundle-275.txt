@@ -1,0 +1,448 @@
+===== BEGIN ED BOT ESSAY 4211 =====
+---
+title: Snark, Not Sarcasm (On Leader Communication)
+url: https://edbatista.com/2024/07/snark-not-sarcasm-on-leader-communication.html
+slug: snark-not-sarcasm-on-leader-communication
+published: 2024-07-18T17:18:21
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+An occasional theme in my work with leaders on communication is the verbal or written comment that was intended by the leader to be witty but instead falls flat, creates distance, or even leaves people feeling offended or hurt. One reason for this gap between intent and impact [1] is that the leader was perceived as going beyond what we might call snark and crossing a line into sarcasm.
+
+Many definitions use these terms almost interchangeably, but we can distinguish between them to illustrate a subtle yet important point when you're communicating as a leader. Both snark and sarcasm are forms of irony that involve delivering a message employing language that usually means the opposite. This creates a moment of dissonance as people figure out what you really mean.
+
+With snark that dissonance resolves in a moment of shared humor. The seeming incongruity of your message poses a riddle, and you're inviting others to join you and get in on the joke by solving it. But sarcasm is sharper, and it cuts deeper. There is no shared resolution, or if there is it comes at someone else's expense. The incongruity of the message is evident, and others are not invited to get in on the joke--they are the joke.
+
+This is a subjective distinction that's contingent on the context, among other factors. A comment that evokes knowing laughter in one setting will yield stony silence in another. This is a function of the culture and its norms, a topic I've addressed before by comparing organizational life to three common settings:
+
+Many of the situations we encounter in contemporary professional life take one of three cultural forms: A classroom, a church, or a cocktail party... So some meetings are like a classroom, others are like church, and still others are like a cocktail party. And some companies are like a classroom, others are like church, and still others are like a cocktail party... The problem, however, is that schools, places of worship, and celebratory gatherings identify themselves very clearly through obvious signifiers. We know where we are, we readily grasp the norms, and we act accordingly. But meetings and companies are much harder to interpret... So the signs and signals are opaque and confusing, and it's easy to misread them. [2]
+
+Many cocktail parties run on snark, and it's welcome in some classrooms, but it's rarely tolerated in church. So a first step is to assess the setting, although our ability to "read the room" can vary widely. Neuroscientist Richard Davidson calls this "context-sensitivity," and people who score low on this dimension "are oblivious to the implicit rules that govern social interactions" and fail to appreciate that "a behavior that would be perfectly acceptable in one context [is] offensive in another." [3] But this capability is by no means fixed, and if you find yourself repeatedly misjudging the setting, Davidson recommends meditation and other approaches to mindfulness to heighten context-sensitivity. [4]
+
+Another key factor is your relationship with the other parties, which is particularly salient for leaders, given what social psychologist Adam Galinsky calls the "power amplification effect." A leader's comments often have a greater impact than the leader intended, and ambiguous comments by a leader--such as ironic humor--tend to be interpreted negatively by others. [5] Here it's important to assess the extent to which others perceive you as a distant or intimidating authority figure. Note that you may not be the best judge of that perception, so it can be useful to solicit feedback, even--and especially--if you have any concerns about what you might hear. [6]
+
+Also, note that while sarcasm tends to be cutting and cold, snark can be warm, even inviting. It's still ironic, but it can be delivered with a knowing twinkle in the eye that encourages others to join you in the fun, a point made (in a snarky way) by author Robert Dimmick: "If sarcasm is the ability to insult idiots without them realizing it, snark is the ability to insult others who will realize it and will A) appreciate the effort made and/or B) respond in kind." [7]
+
+The timely use of humor is an essential leadership tool, particularly in helping people maintain hope and optimism in the face of adversity. In such circumstances ironic humor can be risky, as people under stress are less effective at processing nuanced information, and alternatives may be safer. [8] But rather than banishing irony from your repertoire, I think it's far preferable to learn to use it skillfully, as you would any sharp implement.
+
+ 
+
+Footnotes
+
+[1] Intent vs. Impact (When Communication Goes Awry)
+
+[2] Classrooms, Churches, Cocktail Parties (On Norms)
+
+[3] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel and Live--and How You Can Change Them (Richard Davidson and Sharon Begley). Davidson's "Dimensions of Emotional Style" model includes an assessment that can be completed to approximate the results he sees in the lab.
+
+[4] Ibid, Chapter 11, which includes a number of tips for adjusting your "emotional style" to enable you to better achieve your goals, largely focused on meditation. Also see Don't Just Do Something, Sit There! (Mindfulness for Busy People).
+
+[5] When You're in Charge, Your Whisper May Feel Like a Shout (Adam Galinsky, The New York Times, 2015). Discussed further in The Blue Problem (Power and Communication).
+
+[6] For more on soliciting feedback, see the following:
+
+- Make Getting Feedback Less Stressful
+
+- Why Some Feedback Hurts (and What To Do About It)
+
+- The Problem with Anonymous Feedback
+
+[7] Snark vs. Sarcasm (Robert Dimmick, The Etiquetteer, 2018)
+
+[8] Joe Montana & John Candy (Leadership & Group Mood)
+
+ 
+
+Photo by Rich Bowen.
+
+
+===== END ED BOT ESSAY 4211 =====
+===== BEGIN ED BOT ESSAY 4212 =====
+---
+title: Risky Business (When Commerce and Compliance Clash)
+url: https://edbatista.com/2024/07/risky-business.html
+slug: risky-business
+published: 2024-07-06T12:27:21
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+My clients are senior leaders whose businesses invariably face a wide range of risks. Some of them must deal with literal threats to life and limb in medicine, pharmaceuticals, construction, manufacturing, or other industries. All of them have to consider the risk of financial losses, technical failures, legal action, or damage to their reputation should things go wrong.
+
+Risks are mitigated by various forms of compliance. Companies in the industries listed above must comply with various methods and procedures to ensure the safe provision of their goods and services. And businesses in every sector protect themselves against unacceptable risk not only by complying with legal and regulatory obligations but also by following recommended best practices.
+
+We take on risk for the promise of a reward, and even as these businesses seek to maintain compliance they do so in pursuit of commerce. I often work with leaders whose companies are taking a novel approach in their field, which usually means that the commercial potential is large but is by no means guaranteed, while the risks they run are uncertain and hard to predict.
+
+In these businesses there's often a tension between the recommended or required compliance and the prospective commercial opportunity. There isn't necessarily a zero-sum relationship between the two, but in any given situation there may be competing priorities, and so a balance must be found. If a company can't provide its goods and services safely and profitably, it won't be around for long.
+
+Many roles in a company are either compliance-oriented or commerce-oriented. This doesn't imply that the people primarily responsible for compliance don't care about profits, or that the people primarily responsible for commerce don't care about safety or quality. But many professionals are educated and trained in disciplines that emphasize one side or the other, and at scale companies are typically organized along functional lines that foster sub-cultures which do the same.
+
+In good times this state of affairs offers an important advantage. Individual employees and their respective functions have distinct incentives that are aligned but not identical, creating a system of checks and balances. This ensures that the demands of compliance and commerce are met with neither side predominating.
+
+But such harmony can be difficult to maintain, particularly in the face of competition, financial pressures, customer churn, outside scrutiny, or legal threats, among many other factors. In these circumstances executives who've previously operated as allies may find themselves at odds, advocating for more stringent compliance or a more vigorous approach to commerce.
+
+And even in good times some leaders must understand and advocate for both sides rather than championing one over the other. This is particularly true for the CEOs who make up the majority of my practice, but a leader at any level of an organization may be called upon to do the same. So if you're a leader who's caught up in such a dispute or who feels stuck in the middle of one, what can you do?
+
+Question Assumptions and Labels
+
+When the commerce vs. compliance divide turns rancorous, among the first casualties are charitable interpretations of the other side's behavior. People leap to conclusions about what's happening and why, and in the process often label their counterparts in ways that reinforce the schism. David Bradford, one of my mentors at Stanford, has noted that professional conflicts tend to escalate in stages:
+
+1. Annoyance at having to adjust our style to accommodate the other person's.
+
+2. Feeling alienated from the other person as our annoyance builds over time.
+
+3. Making unfounded assumptions about the underlying cause of the difference.
+
+4. Viewing the other person as "the problem" (or worse) that's preventing us from working effectively. [1]
+
+David was making an observation about differences in what he called "work style," but this framework is equally applicable to conflicts that result from goals and incentives. The key is recognizing when we've begun to label our counterparts as "the problem" and working backwards to understand what assumptions we've made about their motives and intentions.
+
+Typically we have only a partial understanding of their perspective. Sometimes this is a function of limited access to information or insufficient time to explore the data that is available. But as the great psychologist and communication theorist Paul Watzlawick has noted, "It is gratuitous to assume not only that the other has the same amount of information as oneself, but that the other must draw the same conclusions from this information." [2]
+
+So while improved information-sharing can help, there's often a more fundamental gap in worldviews with regard to risk. People in commercial and compliance roles are trained, acculturated, and incentivized to view risk differently. It's necessary to recognize that all parties are not only acting in accordance with their respective incentives and goals, but also see the situation through a very different lens.
+
+Bridge the Emotional Gap
+
+Once we've stopped labeling our counterparts as "the problem" and begun questioning the assumptions we've made about their motives and intentions, we may still find ourselves viewing them from across a divide. We know more about what they're thinking and why, but we find their conclusions unreasonable.
+
+Such a gap between people in commerce and compliance roles is often heightened by the emotions that are readily evoked in stressful circumstances: Anxiety and fear that we won't achieve our goals. Frustration and anger directed toward any perceived obstacles. Such feelings, while unpleasant, can be useful: negative emotions serve an essential function by warning us of potential threats or the loss of potential opportunities. But emotions are very noisy signals, in part because we're predisposed to overreact to our concerns. This is a reliable feature of human psychology described by physician and evolutionary psychiatrist Randolph Nesse as "the smoke detector principle":
+
+Most of the responses that cause human suffering are unnecessary in the individual instance but still perfectly normal because they have low costs but protect against huge possible losses. They are like false alarms from smoke detectors. The occasional wail when you burn the toast is worth it to ensure that you are warned early about every real fire. [3]
+
+Yet in a commerce vs. compliance dispute it's likely that both sides believe that their perception of risk is accurate and the negative emotions they feel as a result are justified. And as many of us have learned the hard way, it's unhelpful to tell someone who's upset that they "shouldn't" be upset. The key here is empathy, and as I've noted before empathy isn't agreement:
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing [i.e. feeling sorry for them], we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [4]
+
+In practice this means withholding our judgments about the other person's thoughts and feelings, and actively expressing our understanding in a way that registers with them. The idea isn't to feign agreement, but to lower the emotional temperature and help everyone be more dispassionate in assessing risk--because ultimately a decision must be made about how to proceed.
+
+Decide How to Decide
+
+A common problem in professional disputes is that people jump immediately into advocating for their point of view on an issue without first agreeing on a decision-making process. Management thinker Jurgen Appelo has identified "7 Levels of Delegation" to help groups determine how a given decision will be made:
+
+1. TELL: Leader decides, no discussion.
+
+2. SELL: Leader decides and convinces.
+
+3. CONSULT: Leader seeks input and decides.
+
+4. AGREE: Leader and group decide together.
+
+5. ADVISE: Leader suggests and others decide.
+
+6. INQUIRE: Others decide and inform leader.
+
+7. DELEGATE: Others decide with no further discussion. [5]
+
+(Here's an illustration.)
+
+There are several factors to consider in a commerce vs. compliance dispute: Who has information about the nature of the risks involved? What role should they play in the decision-making process? How will we ensure that this information is explored thoroughly and efficiently? And perhaps most importantly, what are the sources of power and authority in this situation?
+
+I emphasize that last point because in many settings the person with the ability to unilaterally make a decision is in a commerce role or a compliance role, or their training and experience derives from one side rather than the other. In such cases it's essential that they correct for potential biases and are perceived as even-handed, without allowing the process to become bogged down.
+
+Invest in Cross-Cultural Relationships
+
+Once a given dispute has been resolved, continued work over time will help ensure that subsequent disagreements are less heated and resolved more easily. A key in this effort is ensuring that people in commerce and compliance roles don't merely retreat to their respective sub-cultures, but actively maintain cross-cultural relationships with their counterparts.
+
+This need not entail de-emphasizing these sub-cultures or pretending they don't exist. It's a natural human tendency to form cultural sub-groups within a larger population, and this can have beneficial effects, as former Kaiser Permanente CEO George Halvorson has written:
+
+Humans are social creatures; we fall readily into group loyalties. We instinctively divide the world into "us" and "them" and treat others very differently according to which category they’re in... In the 1970s the social psychologist Henri Tajfel gave us the concept of social identity--the understanding that an individual’s identity is powerfully shaped by group allegiances... Researchers since have shown that when people in a work setting have a strong sense of being an us, morale and productivity rise...
+
+Many workplaces default to a version of kinship based on function. A group’s shared identity reflects a common characteristic of its members--everyone’s an engineer, or everyone’s a radiologist. Doing similar work under the same conditions is enough to make an "us." But it doesn’t provide much impetus for the group to align its energies and take bold action. [6]
+
+Commerce and compliance sub-cultures within an organization typically form an "us," what Halvorson calls "a version of kinship based on function." But there also needs to be what I've called "a greater us," a larger organizational identity that encompasses both of these sub-cultures (and any others as well). [7] This can take on symbolic forms in logos and corporate swag, but it also occurs via interpersonal experiences.
+
+So whether you're in a commerce role or a compliance role--but especially if you're a senior leader tasked with overseeing both functions--look for opportunities to bring members of these tribes together so they will recognize each other as fellow inhabitants of the same village. The goal isn't simply to establish connections, but in so doing to amass a store of social capital that will contribute to greater empathy and trust the next time there's a disagreement over risk.
+
+ 
+
+Footnotes
+
+[1] Work Style Differences
+
+[2] Pragmatics of Human Communication: A Study of Interactional Patterns, Pathologies and Paradoxes, page 95 (Paul Watzlawick, Janet Beavin Bavelas, and Don Jackson, 1967)
+
+[3] Good Reasons for Bad Feelings: Insights from the Frontier of Evolutionary Psychiatry, pages 40-41 (Randolph Nesse, 2020). For more on this concept, see The Smoke Detector Principle (Why We Overreact).
+
+[4] The Difficulty of Empathizing Up
+
+[5] The 7 Levels of Delegation (Jurgen Appelo, 2015). For more on this concept, see Leadership, Decision-Making and Emotion Management.
+
+[6] Getting to "Us" (George Halvorson, Harvard Business Review, 2014). For more on social identity theory: Experiments in Intergroup Discrimination (Henri Tajfel, Scientific American, 1970) and Social Identity Theory (Gazi Islam, Encyclopedia of Critical Psychology, 2014)
+
+[7] Startup Leadership: A Greater Us
+
+ 
+
+Photo by Rhys Asplundh.
+
+
+===== END ED BOT ESSAY 4212 =====
+===== BEGIN ED BOT ESSAY 4213 =====
+---
+title: Transcendence in Everyday Life
+url: https://edbatista.com/2024/06/transcendence-in-everyday-life.html
+slug: transcendence-in-everyday-life
+published: 2024-06-28T07:39:33
+updated: 2025-10-03T21:37:13
+source_body: wordpress-html
+---
+
+The term "transcendence" can evoke some sort of inaccessible mysticism, but it also has a very straightforward meaning: a state in which we look beyond our present concerns, heighten our awareness of the outside world, and feel a greater sense of connection as a result. This definition of transcendence is highly relevant to my work with coaching clients, and to understand why we first need to discuss how people respond to goals and achievements.
+
+While I strive to help clients accomplish ambitious professional goals, it's important to bear in mind that evolution has solved for the adaptation and survival of the species, not for our fulfillment as individuals. As a consequence, the fulfillment we enjoy upon achieving even our most significant goals is invariably fleeting, a process known as "hedonic adaptation." [1] We acclimate so readily to improvements in our life circumstances that we soon take them for granted, and they lose their potency as sources of fulfillment.
+
+This isn't to say that the aspirations we imagine will be sources of fulfillment once achieved are meaningless illusions. They may matter a great deal, and some of them will have a profound impact on the material condition of our lives. But goal pursuit is not the result of a purely rational calculus. We pursue ambitious goals because we want to feel the flush of success, and we want to overcome our fears and anxieties, and we want these emotional states to last.
+
+So it can be something of a cruel joke to accomplish an ambitious goal and realize that the human mind doesn't work this way. We do feel successful--but it's never as comprehensive or sustained as we thought it would be. We do feel at peace--but our fears and anxieties come creeping back with shocking speed. So what can we do about this state of affairs? There are no permanent solutions, but there are steps we can take to ease our discontent, and one of the most effective is what we might call "everyday transcendence."
+
+A useful description of this concept can be found in the work of Martin Seligman and Christopher Peterson, two of the most prominent figures in the positive psychology movement. In the early 2000s they convened a diverse group of thinkers to document and categorize "the strengths of character that make the good life possible," and the result was the monumental volume Character Strengths and Virtues: A Handbook and Classification. [2]
+
+The book identifies six universal virtues, i.e. "the core characteristics valued by moral philosophers and religious thinkers: wisdom, courage, humanity, justice, temperance, and transcendence," as well as 24 character strengths, "the psychological ingredients--processes or mechanisms--that define the virtues. Said another way, they are distinguishable routes to displaying one or another of the virtues." [3]
+
+The virtue of transcendence encompasses five of these character strengths, all of which, Seligman and Peterson note, involve a form of connection:
+
+The common theme running through these strengths of transcendence is that each allows individuals to forge a connection to the larger universe and thereby provide meaning to our lives... The prototype of this strength category is spirituality, variously defined but always referring to a belief in and commitment to the transcendent (non-material) aspects of life--whether they be called universal, ideal, sacred, or divine... Appreciation of beauty is a strength that connects someone directly to excellence. Gratitude connects someone directly to goodness. Hope connects someone directly to the dreamed-of future. Humor--admittedly the most controversially placed entry--connects someone directly to troubles and contradictions in a way that produces not terror or anger but pleasure. [4]
+
+The sense of connection fostered through these activities will not switch off our drive to succeed or our attachment to ambitious goals--nor would we want it to. But the cultivation of "transcendence in everyday life" can help us maintain perspective. Drawing on the work of philosopher Simone Weil, theologian Eric Springsted has observed that human beings are subject to a distorting illusion: "It appears to us as if we were at the center of the world. We thus appear as terrifically important, and what else is of value can be ranked by its proximity to us." [5]
+
+As I've written before, "We can readily grasp why evolution has selected for the center of the world illusion--viewing ourselves from this perspective, we typically put our subjective needs and desires above those of others, making our own biological success more likely." [6] But this only heightens our discontent not only when our achievements inevitably lose their savor, but also when we fall short of our aspirations, as all ambitious people must.
+
+And this is precisely where transcendence can serve an eminently practical purpose. The connections we experience through spirituality, appreciation of beauty, gratitude, hope, and humor remind us that we are not the center of the world and that every other human being is facing challenges of their own, including many that make ours seem trivial. We may find support in unexpected places, perhaps in the mere knowledge that we're not alone. We may even take a step further and see ourselves as part of a larger whole and find comfort in community, or humanity, or the universe itself.
+
+Spirituality: "Having coherent beliefs about the higher purpose and meaning of the universe; knowing where one fits within the larger scheme; having beliefs about the meaning of life that shape conduct and provide comfort." [7]
+
+In the day-to-day trenches of adult life, there is actually no such thing as atheism. There is no such thing as not worshiping. Everybody worships. The only choice we get is what to worship. And a compelling reason for maybe choosing some sort of God or spiritual-type thing to worship--be it J.C. or Allah, be it Yahweh or the Wiccan mother-goddess or the Four Noble Truths or some infrangible set of ethical principles--is that pretty much anything else you worship will eat you alive.
+
+~David Foster Wallace [8]
+
+Appreciation of Beauty: "Noticing and appreciating beauty, excellence, and/or skilled performance in various domains of life, from nature to art to mathematics to science to everyday experience." [9]
+
+A bee
+
+staggers out
+
+of the peony.
+
+~Matsuo Bashō [10]
+
+Gratitude: "Being aware of and thankful for the good things that happen; taking time to express thanks. [11]
+
+I'm alive.
+☐
+
+I'm not in pain.
+☐
+
+I can think clearly.
+☐
+
+I can see, hear, and walk.
+☐
+
+I'm warm and well-nourished.
+☐
+
+I'm protected from the elements.
+☐
+
+I was born to parents who loved me.
+☐
+
+I've built a loving relationship with a partner.
+☐
+
+I feel known and cared for by a number of people.
+☐
+
+I derive a sense of meaning and purpose from my work.
+☐
+
+~Gratitude Checklist [12]
+
+Hope: "Expecting the best in the future and working to achieve it; believing that a good future is something that can be brought about." [13]
+
+While I certainly wasn’t in denial about the difficulties I might have to face, I knew that I had the capacity to face them. In short, I never lost hope, and not because I told myself a fairy tale that everything would be fine, but because I believed that no matter what happened I could cope with it. We sometimes confuse hope with unfounded optimism, but that's just a form of magical thinking, a sandcastle waiting for the tide to turn. True hope is more robust, rooted not in a wish that things will go our way, but in a confidence that we'll adapt even when they don't.
+
+~On Pain and Hope [14]
+
+Humor: "Liking to laugh and tease; bringing smiles to other people; seeing the light side; making (not necessarily telling) jokes." [15]
+
+~Ilana Glazer and Abbi Jacobsen [16]
+
+Footnotes
+
+[1] For more on hedonic adaptation:
+
+- The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does (Sonja Lyubomirsky, 2014): "Human beings have the remarkable capacity to grow habituated or inured to most life changes... What is particularly fascinating about this phenomenon, however, is that it is most pronounced with respect to positive experiences. Indeed, it turns out that we are prone to take for granted pretty much everything positive that happens to us." [pages 18-19]
+
+- The Laws of Emotion, pages 353-354 (Nico Frijda, American Psychologist, 1988): "One must, I think, posit a law of hedonic asymmetry, the law of asymmetrical adaptation to pleasure or pain: Pleasure is always contingent upon change and disappears with continuous satisfaction. Pain may persist under persisting adverse conditions... The law of hedonic asymmetry is a stern and bitter law. It seems almost a necessary one, considering its roots, which, theoretically, are so obvious. Emotions exist for the sake of signaling states of the world that have to be responded to or that no longer need response and action. Once the 'no more action needed' signal has sounded, the signaling system can be switched off; there is no further need for it. That the net quality of life, by consequence, tends to be negative is an unfortunate result. It shows the human mind to have been made not for happiness, but for instantiating the blind biological laws of survival."
+
+- We Won't Be Happy WHEN. We Could Be Happy NOW.
+
+- Pain, Suffering and Hedonic Adaptation
+
+- Stop Trying to Be "Good Enough" by "Getting Better"
+
+[2] Character Strengths and Virtues: A Handbook and Classification, page 4 (Christopher Peterson and Martin Seligman, 2004). For more on Peterson and Seligman's work and its application, see the VIA Survey of Character Strengths.
+
+[3] Ibid, page 13.
+
+[4] Ibid, page 519.
+
+[5] "Will and Order: The Moral Self in Augustine's De Libero Arbitrio," page 92 (Eric O. Springsted, Augustinian Studies, Volume 29, Issue 2, 1998). This essay is also available as a chapter in Springsted's The Act of Faith: Christian Faith and the Moral Self (2015).
+
+[6] We're Not the Center of the World (But We Think We Are)
+
+[7] Character Strengths and Virtues, page 30.
+
+[8] This Is Water (David Foster Wallace, 2005)
+
+[9] Character Strengths and Virtues, page 30.
+
+[10] Bashō was a Japanese poet and essayist in the 17th century, recognized during his lifetime as one of the greatest masters of haiku. I highly recommend his Narrow Road to the Interior, a book I discussed in my June 2022 newsletter. Here's a sample of his work.
+
+[11] Character Strengths and Virtues, page 30.
+
+[12] Gratitude Checklist
+
+[13] Character Strengths and Virtues, page 30.
+
+[14] On Pain and Hope
+
+[15] Character Strengths and Virtues, page 30.
+
+[16] Broad City, Episode 1 (written and created by Ilana Glazer and Abbi Jacobsen, 2009)
+
+Photo by Chaval Brasil.
+
+
+===== END ED BOT ESSAY 4213 =====
+===== BEGIN ED BOT ESSAY 4214 =====
+---
+title: The Problem with Hot-Swapping (On Exec Transitions)
+url: https://edbatista.com/2024/06/hot-swapping-exec-transitions.html
+slug: hot-swapping-exec-transitions
+published: 2024-06-14T08:29:23
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+A CEO attempting to hot-swap an exec.*
+
+A theme in my practice is the CEO who's concluded that one of their executives is under-performing and must be managed out. Sometimes the CEO holds out hope that the transition will be perfectly seamless, with no disruption to operations, no awkwardness, no mess. A client once called this "hot-swapping," referring to technical components that can be replaced without powering down the system. What would this look like in practice?
+
+- The CEO conclusively determines that the incumbent exec is under-performing and incapable of improvement. There's no question that they need to be replaced.
+
+- In the absence of an obvious successor, the CEO runs a confidential search. News of the search never leaks to the incumbent, and prospective candidates aren't dissuaded by the secrecy.
+
+- After a successor is identified and closed, the news is broken to the incumbent. They take it with grace and accept the severance package, with no threats of legal action or negative publicity.
+
+- The successor is introduced to the team, who welcome their new colleague and eagerly assist in the onboarding process.
+
+- The team wishes the departing exec well, who reciprocates. All loose ends are tied up, and the departing exec has left clear and thorough documentation for their successor.
+
+It's not that things never turn out this way, but it's rare. There are multiple points where this neat and tidy plan can go awry. There's not just one problem with hot-swapping--there are many. So if you're a leader in this position, what challenges are you facing, and what might you do about them?
+
+Making the Decision
+
+You know the incumbent exec is under-performing, but you may not know the extent to which their performance is a function of situational factors that would hamper anyone in the role rather than personal shortcomings. If the incumbent hasn't been provided with sufficient critical feedback, you may not know whether they're capable of improvement. And if you leap to conclusions prematurely, you'll not only squander potential talent, you'll also miss opportunities to advance your own growth and development as a leader.
+
+As CEO it's your obligation to replace under-performing execs when necessary, and yet you don't want to create a climate of fear on your team. You also don't want to cycle through multiple execs because you keep setting them up for failure in an untenable position. So consider...
+
+- Are there structural or contextual factors beyond the incumbent's control that you might address?
+
+- Have you provided them with sufficient critical feedback on the factors that are within their control?
+
+- If so, how have they responded? Are they open to learning? Or are they defensive?
+
+Run a Search? Or Break the News?
+
+If you decide to proceed with a transition, unless you have a successor at the ready you face an important choice. One option is to run a confidential search and break the news to the incumbent later in the process. This poses several risks: If the incumbent learns about the search second-hand, they may feel betrayed, and the relationship will be damaged, making an amicable transition more difficult. To maintain confidentiality you'll need to limit exposure to the team, which will prevent them from providing input and may deter some prospective candidates. And you won't get the benefit of any insights from the incumbent, who may be in a position to tell you why they struggled.
+
+In some circumstances you may feel obligated to identify a successor before breaking the news. You may lack faith in the incumbent's ability to handle the news. You may worry that they'll become a source of disruption once informed. Or you may have concluded that their poor judgment renders their insights less useful. But an alternative to the above is to inform the incumbent that you'll be replacing them and then reach agreement on a transition plan. This isn't always preferable before you have a successor lined up. But in my experience CEOs over-estimate the risks of this option and under-estimate the risks of a hot-swap. The key is recognizing that there's no risk-free path. So consider...
+
+- You don't owe an under-performing exec a permanent role, special treatment, or a debate. But how might you treat them with honesty, fairness, and dignity?
+
+- If you're concerned about a break in continuity, what's behind your fear of the empty chair?
+
+Breaking the News...Again
+
+However you proceed, at some point various stakeholders will need to be informed about the transition. This includes your other employees, such as the departing exec's direct reports, their colleagues on the executive team, and potentially the entire company. It may also include Board members, customers, and other external partners. The key element is the explanatory narrative, the rationale for the transition that helps these parties make sense of what's happening and why. Here hot-swapping poses a dilemma, because an exec who's been summarily terminated is unlikely to be a willing partner in this process. Even if they're induced to play along, the transparency of the charade is usually evident, which breeds cynicism and mistrust.
+
+It isn't always preferable to hear from the departing exec. In cases of malfeasance, toxic behavior, or gross incompetence it may be preferable or even necessary to simply announce their departure. But barring such factors, it's likely that all parties will benefit from some form of joint participation. The departing exec is afforded an opportunity to say their goodbyes, minimize the loss of face, and leave with dignity. Other stakeholders gain clarity and reassurance, which increases their trust in your ability to manage difficult situations.
+
+While the participation of the departing exec can be advantageous, I'm not suggesting that you obtain it by misleading people. Explanatory narratives rarely include "the whole truth," yet they must be truthful to be plausible. In an effort to help the departing exec save face you need not pretend that their tenure was an unqualified success or that anyone else is at fault for their shortcomings. So consider...
+
+- What factors will influence your ability to create a plausible, truthful shared narrative?
+
+- What information should be shared as a part of that narrative, and what should not?
+
+- If you haven't yet chosen a successor, what role, if any, do you want other employees to play in the hiring process?
+
+The Transition
+
+Once you've identified a successor, you now have to implement the actual transition. Some parameters will have been fixed in the process of making the decision and breaking the news, while others remain open. Here, too, attempting a hot-swap can be counter-productive in multiple ways. You can leave the under-performing exec in the role for too long, or they may quit abruptly before you're prepared to make a change. If you've managed the process effectively, you still retain a great deal of flexibility at this point--and if you haven't, you may be locked into a suboptimal course of action.
+
+The transition shouldn't be too lengthy. The departing exec will rapidly lose power and influence, and it will be difficult for them to remain motivated to give best effort. Organizations reliably solve for optionality, which often leads to excessive transition periods. This is one of the primary rationales for hot-swapping in the first place--CEOs often over-estimate the risk of a gap in continuity, and under-estimate the risk of leaving an under-performing exec in place.
+
+In the circumstances noted above--malfeasance, toxic behavior, gross incompetence--the transition will be brief. Even if a severance package is contractually obligated (or advised by counsel), there's no need to retain the outgoing exec's services. But in most cases there are benefits to a longer, more orderly process. The departing exec has time to wrap things up, and the incoming exec is able to do the same as they conclude their previous role. The team can prepare to help onboard the incoming exec and will be better positioned to do so with sufficient notice and clarity on the narrative. So consider...
+
+- How will this transition--the departure and the arrival--affect your executive team?
+
+- What does the incoming exec need to know about the existing culture?
+
+- How might you benefit from their fresh perspective?
+
+This is Hard. What Helps?
+
+If you're tempted to hot-swap an exec and you're anything like my clients, it's not because you're callous, but because you're human. The process I've outlined here necessarily entails having an ongoing series of difficult, awkward, even fraught conversations. In some cases you may be understandably obligated to prioritize other efforts. If your company's in the midst of a crisis, you simply may not have the time to invest in managing an under-performer, and you're justified in taking the most expedient route.
+
+But even when that's not the case, you may still be reluctant to lean in because those conversations will be hard work, and you may feel that you lack the skills to conduct them effectively. While I obviously recommend working with a coach, here are some relevant resources to help you manage, offer feedback, communicate, and hire and fire more effectively:
+
+Management
+
+- Mind the Gap (On Leading Senior Executives)
+
+- Why Executives Derail (and What You Can Do About It)
+
+- How to Have Better One-on-Ones
+
+Feedback
+
+- How to Deliver Critical Feedback
+
+- Building a Feedback-Rich Culture
+
+- Why Some Feedback Hurts (and What to Do About It)
+
+Communication
+
+- Take a Walk (Making Tough Conversations Easier)
+
+- Learning to Yield (Navigating Tough Conversations)
+
+- Setting the Table (Difficult Conversations)
+
+Hiring
+
+- Fear of the Empty Chair, Part 2 (On Hiring)
+
+- Surfacing Defensiveness (Three Questions for Candidates)
+
+- Daniel Kahneman on Conducting Better Interviews
+
+Firing
+
+- Fear of the Empty Chair, Part 1 (On Terminations)
+
+- Merciful Exits (On Under-Performing Executives)
+
+- On Firing a Senior Team Member
+
+ 
+
+* If you don't get the reference from the movie still above, see this clip from Steven Spielberg's classic 1981 film, Raiders of the Lost Ark.
+
+
+===== END ED BOT ESSAY 4214 =====

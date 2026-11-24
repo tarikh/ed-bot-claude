@@ -1,0 +1,458 @@
+===== BEGIN ED BOT ESSAY 3974 =====
+---
+title: Talking About Feelings
+url: https://edbatista.com/2018/07/talking-about-feelings.html
+slug: talking-about-feelings
+published: 2018-07-01T18:13:06
+updated: 2025-10-08T21:39:26
+source_body: wordpress-html
+---
+
+My work as a coach often involves encouraging clients and students to talk about their feelings--a process known to psychologists as affect labeling--in order to manage difficult emotions more effectively. Experience tells us that this is a useful practice, but why? How does talking about feelings make them easier to manage?
+
+Recent neuroscience research, including a substantial body of work by Matthew Lieberman of UCLA [1], has helped us to better understand the processes in the brain that contribute to this effect. [2] Some of the earliest research on this topic was conducted by Lieberman, Naomi Eisenberger, and several other colleagues [3]:
+
+Putting feelings into words has long been thought to be one of the best ways to manage negative emotional experiences. Talk therapies have been formally practiced for more than a century and, although varying in structure and content, are commonly based on the assumption that talking about one's feelings and problems is an effective method for minimizing the impact of negative emotional events on current experience. More recently, psychologists have discovered that merely putting pen to paper to express one’s emotional ailments has benefits for mental and physical health. Although conventional wisdom and scientific evidence indicate that putting one’s feelings into words can attenuate negative emotional experiences, the mechanisms by which these benefits arise remain largely unknown.
+
+Recent neuroimaging research has begun to offer insight into a possible neurocognitive mechanism by which putting feelings into words may alleviate negative emotional responses. A number of studies of affect labeling have demonstrated that linguistic processing of the emotional aspects of an emotional image produces less amygdala activity than perceptual processing of the emotional aspects of the same image. [The amygdala is a region of the brain associated with emotion processing that plays a role in helping us interpret and respond to perceived threats, among other tasks.] Additionally, these studies have demonstrated greater activity during linguistic processing than during non-linguistic processing of emotion in [the] right ventrolateral prefrontal cortex (RVLPFC), a region associated with the symbolic processing of emotional information and with top-down inhibitory processes. Finally, the magnitude of RVLPFC activity during affect labeling has been inversely correlated with the magnitude of amygdala activity during affect labeling in these studies. Together, these results suggest that putting feelings into words may activate RVLPFC, which in turn may dampen the response of the amygdala, thus helping to alleviate emotional distress... [page 421]
+
+The results of this study provide the first clear demonstration that affect labeling disrupts the affective responses in the limbic system that would otherwise occur in the presence of negative emotional images...
+
+These data thus suggest that one route by which putting feelings into words may regulate negative affect is by increasing activity in RVLPFC, which in turn dampens activity in the amygdala by way of intermediate connections through [the medial prefrontal cortex]... [page 426]
+
+In summary, this study provides the first unambiguous evidence that affect labeling, compared with other ways of encoding, produces diminished responses to negative emotional images in the amygdala and other limbic regions...
+
+These findings begin to shed light on how putting negative feelings into words can help regulate negative experience, a process that may ultimately contribute to better mental and physical health. [page 427]
+
+While the specific neural mechanisms involved remain unclear, it's noteworthy that this research highlights the connection between the prefrontal cortex, the region of the brain most closely associated with logical reasoning, and regions of the brain involved in processing emotion. Although this may seem counterintuitive, given our popular conception of reason and emotion as opposing influences on our behavior, it's entirely consistent with decades of research by neuroscientists such as Antonio Damasio [4] and Richard Davidson [5], whose work emphasizes the complex and intertwined relationship between these modes of mental processing.
+
+Lieberman also explored these neural mechanisms in work that he conducted independently [6]:
+
+[T]here is a great deal of evidence to suggest that the process of sharing one's worry, of putting bad feelings into words, can diminish one's emotional distress at least under certain circumstances. This chapter examines the neurocognitive mechanisms of disruption effects, the process by which putting feelings into words can disrupt the feelings being verbalized... [page 188]
+
+RVLPFC activity is associated with reduced activity in limbic regions, such as the amygdala and [dorsal anterior cingulate cortex], and [symbolic processing of affect] is associated both with increased RVLPFC activity and decreased limbic activity. [page 199]
+
+Given that [symbolic processing of affect] appears to regulate limbic responses...this would provide a mechanism by which putting feelings into words would have benefits for regulating emotional distress and for mental health more generally. [page 200]
+
+Numerous philosophers and psychologists have noted over the years that thinking about affect has the capacity to alter and even dampen the affect that is being thought about. This has been used to good effect in various forms of therapy, from formal psychotherapies to informal social support networks in which people talk about their feelings with friends. The reason that putting feelings into words helps has remained elusive and somewhat mystical. The work presented here describes a neurocognitive process focused on RVLPFC that provides the beginnings of an answer. Putting feelings into words activates a region of the brain that is capable of inhibiting various aspects of immediate experience, including affective distress. [page 203]
+
+Lieberman later summarized this research in his insightful book Social: Why Our Brains Are Wired to Connect [7]:
+
+It turns out that putting our feelings into words or simply being able to label them can regulate our emotions and promote our mental and physical well-being...
+
+Preschoolers who can describe their feelings have fewer emotional outbursts, get better grades, and are more popular with their peers. High school students who write about their math anxiety right before taking a math test actually do better on the test. In my lab we ask adults to perform a simple task, called affect labeling, during which people choose a word to best describe the emotional aspect of a picture. For instance, a picture of an angry face might be shown, and the participant would have to choose whether the word angry or scared describes the target's emotion. We have found that labeling the affective aspect of a disturbing image reduces the distress a person feels while looking at the image...
+
+When people label an emotional picture or their own emotional response to a picture, it activates the RVLPFC and reduces activity in the amygdala... It is still unclear what exactly the RVLPFC does to stimulate self-control. The debate typically focuses on whether this and similar regions are directly inhibiting responses in other brain regions, like the amygdala, or are helping to strengthen the nonimpulsive alternative so it can compete effectively with the impulsive response. [pages 219-221]
+
+So while we can't explain the underlying mechanisms with absolute certainty, a highly plausible theory has emerged over the past decade that allows us to explain why talking about distressing feelings mitigates the counterproductive impact of those emotions. How can we make more effective use of these ideas?
+
+Practice
+
+Many of us lack experience talking about our feelings, particularly in a professional setting, and just thinking about it can trigger a sense of anxiety and unease. This response is understandable--being called "emotional" is typically a criticism in business, and yet it can be unclear what would cause that label to be applied to us. But in our efforts to avoid this outcome, we may over-correct and never disclose our feelings at work--which prevents us from leveraging the neural processes discussed above, making our negative emotions even more difficult to manage.
+
+Psychologist Daniel Wegner quoted educator John Dewey on the importance of routinizing desired behaviors: "Habits must intervene between wish and execution in the case of bodily acts, [but] we still cherish the illusion that they can be dispensed with in the case of mental and moral acts." [8, emphasis added] The key here is recognizing that talking about emotions is a bodily act, not just a mental one. By definition emotions aren't purely cognitive processes--we often become aware of our emotions when we suddenly feel our heart pounding or a pit in our stomach. And just like any other embodied experience that involves multiple physiological systems, like driving a car or public speaking, we must make it a habit in order to grow accustomed to the challenge. But the good news is that practice inevitably increases our comfort with discomfort and reduces our self-consciousness as we grow more competent.
+
+Expand Our Vocabularies
+
+A consequence of our inexperience with discussing emotions--and a contributing factor that holds us back--is a limited emotional language. Even when we're ready to talk more fully about our feelings, if we lack the precise word to convey our emotion to another person in such a way that it has the intended impact, we're likely to struggle. A simple solution is to expand our emotional vocabulary.
+
+This one-page document lists eight primary emotional states--angry, averse, caring, embarrassed, excited, fearful, happy, inadequate, and sad--and 52 synonyms. Psychologists differ on the nature and number of primary emotions--Paul Ekman defined the six basic emotions as anger, disgust, fear, happiness, sadness, and surprise, while the late Sylvan Tompkins believed there are eight: anguish, disgust, fear, joy, interest, rage, shame, and surprise. [9] I've adapted this list from one originally developed by David Bradford, Mary Ann Huckabay and Carole Robin at Stanford, and I find that it works well for my clients and students.
+
+Create a Supportive Culture
+
+As Lieberman's work indicates, and as ample empirical evidence makes clear, merely reflecting on our feelings also allows us to regulate them over time. But the process of internal reflection appears to work less efficiently than openly discussing our feelings, and in many circumstances it's simply not possible to pause the interaction in order for us to take time to reflect. If we want to manage difficult feelings as effectively as possible, we need to talk about them with others--including those people who may be the cause of our emotions.
+
+And yet even if we're willing to have this conversation with a rich vocabulary at the ready, our ability to do so will be significantly influenced by the surrounding culture. Note that every relationship and group has its own culture--a set of norms, often tacit and unspoken, that determine what behaviors or statements are acceptable and what will result in embarrassment or threat.
+
+If we want to make full use of the neural processes described above, we have to create a safe, trusting and intimate culture in which talking about feelings is accepted as normal. I fully recognize that this may involve taking some risks in order to move the culture in the desired direction, and I'm not suggesting that we do so heedlessly. But what gives me hope is that the bold act of talking about our feelings is what tends to create a safer, more trusting, and more emotionally intimate culture in the first place.
+
+Footnotes
+
+[1] Matthew Lieberman's faculty page at UCLA
+
+[2] Twitter Study Confirms the Power of "Affect Labeling" (Christian Jarrett, BPS Research Digest, 2019)
+
+[3] "Putting Feelings Into Words" (Matthew Lieberman, Naomi Eisenberger, Molly Crockett, Sabrina Tom, Jennifer Pfeifer, and Baldwin Way, Psychological Science, 2007)
+
+[4] Antonio Damasio on Emotion and Reason
+
+[5] The Emotional Life of Your Brain (Richard Davidson and Sharon Begley, 2012)
+
+[6] "Why Symbolic Processing of Affect Can Disrupt Negative Affect: Social Cognitive and Affective Neuroscience Investigations," Chapter 13 in Social Neuroscience: Toward Understanding the Underpinnings of the Social Mind (Alexander Todorov, Susan Fiske, and Deborah Prentice, editors, 2011)
+
+[7] Social: Why Our Brains Are Wired to Connect (Matthew Lieberman, 2013) I highly recommend Social as a lucid and thought-provoking guide to recent neuroscience research on a wide range of issues beyond the topic of this post. When I taught Interpersonal Dynamics (aka Touchy Feely) at Stanford, I included chapters from Social on my syllabus for the first and last classes in the course.
+
+[8] White Bears and Other Unwanted Thoughts, page 14 (Daniel Wegner, 1989)
+
+[9] For more on primary emotions, see The Emotional Brain, Chapter 5 (Joseph LeDoux, 1998)
+
+For Further Reading
+
+Comfort with Discomfort
+
+Conscious Competence in Practice
+
+Vocabulary of Emotions
+
+Self-Coaching Is SOCIAL
+
+Risk Management (The Importance of Speaking Up)
+
+Safety, Trust, Intimacy
+
+Taking the Leap (Dealing with Risk and Uncertainty
+
+ 
+
+Thank you to Stephanie West Allen for helping me grasp the implications of current neuroscience research for my work as a coach, and for referring me to the work of Matthew Lieberman, Naomi Eisenberger, and their colleagues at UCLA.
+
+Photo by Gideon.
+
+
+===== END ED BOT ESSAY 3974 =====
+===== BEGIN ED BOT ESSAY 3975 =====
+---
+title: Leadership and Authenticity
+url: https://edbatista.com/2018/06/leadership-and-authenticity.html
+slug: leadership-and-authenticity
+published: 2018-06-25T05:00:00
+updated: 2025-10-09T09:27:24
+source_body: wordpress-html
+---
+
+Photo by Zoltán Vörös
+
+While the expression of an authentic self is necessary for great leadership, the concept of authenticity is often misunderstood, not least by leaders themselves. They often assume that authenticity is an innate quality--that a person is either authentic or not. In fact, authenticity is a quality that others must attribute to you. No leader can look into a mirror and say, "I am authentic." A person cannot be authentic on his or her own. Authenticity is largely defined by what other people see in you and, as such, can to a great extent be controlled by you. If authenticity were purely an innate quality, there would be little you could do to manage it and, therefore, little you could do to make yourself more effective as a leader.
+
+Rob Goffee and Gareth Jones, "Managing Authenticity," Harvard Business Review [1]
+
+The topic of authenticity comes up frequently in my coaching practice. In some cases this is a function of rapid and intensive change in a leader's role or in their company's evolution that compels the leader to step into new responsibilities or try out new behaviors. But even in times of relative stability leaders must fulfill many different functions in organizational life, a process that often pushes them well beyond their comfort zones. As I've written previously,
+
+A consistent theme in my work with [leaders] is addressing the stress or discomfort they feel when fulfilling certain aspects of their role. For some this occurs in formal settings before an audience... For others it happens in more spontaneous interactions... Whatever the context, at one time or another most leaders have the sense of being observed and assessed on the basis of their ability to fulfill a wide range of expectations, which can trigger uncomfortable emotions ranging from mild self-consciousness to a deeper sense of inadequacy. [2]
+
+Leaders also face the challenge of engaging with diverse groups of stakeholders who have different (and sometimes conflicting) needs. Senior executives, middle managers, front-line employees, clients and customers, and investors and board members all impose different obligations on a leader, who must context-shift fluidly and repeatedly as they move from one interaction to the next over the course of their day.
+
+And in the midst of this demanding work, leaders must handle significant amounts of confidential information with discretion and tact while maintaining others' trust. Even Ray Dalio, the founder of Bridgewater, a hedge fund known for the "radical transparency" of its culture, acknowledges that leaders must keep some information private:
+
+Radical transparency isn't the same as total transparency... We do keep some things confidential, such as private health matters or deeply personal problems, sensitive details about intellectual property or security issues, the timing of a major trade, and at least for the short term, matters that are likely to be distorted, sensationalized and harmfully misunderstood if leaked to the press. [3]
+
+So leaders are constantly 1) acting outside their comfort zones, 2) striving to meet the divergent needs of various groups, and 3) deciding what information should be disclosed and what should be withheld. Under these conditions it's no surprise that a leader may struggle to understand what it means to "be authentic." This challenge can be further compounded by our definition of the "authentic self" and the means by which we encounter it.
+
+Is The Authentic Self Discovered?
+
+Photo by Pål-Kristian Hamre
+
+A popular view of the authentic self is that it's an identity at the core of our personalities, something we're born with and must discover through a process of excavation. We may find this view appealing for a number of reasons. If our authentic self is already fully formed within us, then conscious efforts to modify it are fruitless, and we need not feel obligated to undertake the hard work of change. [4]
+
+This definition of the authentic self also allows us to avoid discomfort with a clean conscience. As I've noted before, "We equate authenticity with comfort, and so if something makes us feel uncomfortable or self-conscious, then it is de facto inauthentic, which means we need not persist at it (or are relieved of our responsibility to try)." [5] London Business School professor Herminia Ibarra describes a similar dynamic: "Because going against our natural inclinations can make us feel like impostors, we tend to latch on to authenticity as an excuse for sticking with what's comfortable." [6]
+
+Finally, in some circumstances we all tend toward a "fixed mindset," a mental model about ourselves that views our skills and abilities as inborn. [7] A disadvantage of this perspective is that we view mistakes as character flaws, and as a result we take fewer risks and seek approval rather than pursue challenges. But a fixed mindset also can also allow us to evade responsibility when we encounter setbacks or failures, and viewing our authentic self as innate can have a similar effect. ("That's just who I am.")
+
+But while research indicates that aspects of our personalities are inherited (although the mechanism by which this occurs is much more complex than commonly understood [8]), it's clear that experiential factors ranging from major life circumstances to small-scale daily activities also play a major role, suggesting that the nature of our authentic self is similarly dynamic and subject to our influence. [9]
+
+Or Is The Authentic Self Created?
+
+Photo by Gemma Stiles
+
+An alternative is to view our authentic self as something that we actively create, forging it out of a combination of ongoing life experiences in the context of any inherited preferences and aversions. The perspective of Rob Goffee and Gareth Jones, noted above, as well as that of my colleague Scott Bristol has made this idea an ongoing theme in my work:
+
+What precisely do we mean by "authentic self"? Further, how do we come to know this authentic self? If we mean a sort of "elemental identity at the core of our personalities," you might say we have to discover our authentic self; it's revealed to our consciousness over time. But I don't actually subscribe to this notion. I think authenticity is a dynamic and subjective state of being that we phase into and out of, not a static feature of our internal landscape.
+
+We're more or less authentic at any given moment, and it's in those experiences that we feel authentic that we are our authentic selves. Of course, the dynamic and subjective nature of this state means not only that it's changing all the time, but also that our perspective on it is changing all the time. How we define authenticity at one point in time may not be how we defined it in the past, or how we'll define it in the future. So rather than discover our authentic selves, I believe we create our authentic selves.
+
+We do so by trying out new behaviors and seeing how they fit with our self-concept, how they affect our relationships with others, and how they support our goals. Most new behaviors feel inauthentic at first--I can't do this; it's not ME! And if that feeling persists over time, we end the experiment and move on. But my experience as a coach has made it clear just how often that feeling does not persist, and how capable we are of integrating the new behavior into our repertoire, expanding what it means to be authentic as we do so. (My experience as a coach--and as a coaching client--has also highlighted the many obstacles we face in this process, from embarrassment to impatience.) [10]
+
+The idea that our authentic self is created, not fixed, can render us more resilient and adaptable in the face of change. But this perspective on authenticity requires us to repeatedly undergo experiences that cause discomfort and stress, and a helpful framework in this context is the Conscious Competence model. [11] In summary, when we first engage in new activities we're Unconsciously Incompetent--we don't even know what mistakes we're making. Feedback renders us Consciously Incompetent--we're still error-prone, but at least we're aware. If we can persist through the discomfort that this stage inevitably evokes, we become Consciously Competent--we're succeeding, but only with a great deal of mental effort. If we invest sufficient time and energy in repeated practice our skills develop, allowing us to finally achieve Unconscious Competence--success comes more readily with less deliberation.
+
+Photo by Tsuyoshi Uda
+
+Bearing this model in mind can make it much easier to view our authentic self as something we create. When we're tackling new tasks or trying out new behaviors that cause discomfort or require fatiguing conscious thought, rather than interpret those feelings as signs of "inauthenticity" we can view them merely as evidence of inexperience. Note that this approach doesn't require us to persist indefinitely with everything that feels like a struggle--we may conclude that certain tasks or behaviors simply can't be added to our repertoire, or that the effort required is too great or the reward too meager. But we shouldn't be dissuaded from the attempt by fears that we're acting "inauthentically." Herminia Ibarra offers similar encouragement:
+
+By viewing ourselves as works in progress and evolving our professional identities through trial and error, we can develop a personal style that feels right to us and suits our organizations’ changing needs. That takes courage, because learning, by definition, starts with unnatural and often superficial behaviors that can make us feel calculating instead of genuine and spontaneous. But the only way to avoid being pigeonholed and ultimately become better leaders is to do the things that a rigidly authentic sense of self would keep us from doing. [12]
+
+When we subscribe to the idea that the authentic self is inborn and must be discovered, and when we associate authenticity with comfort and ease, we allow this "rigid authenticity" to hold us back. But when we entertain the possibility that the authentic self is created, and when we accept discomfort as the inevitable cost of growth, we open up new ranges of possibility and potential.
+
+Thanks to Scott Bristol, whose teaching had a significant effect on my understanding of the nature and origin of our authentic self.
+
+Footnotes
+
+[1] Managing Authenticity: The Paradox of Great Leadership (Rob Goffee and Gareth Jones, Harvard Business Review, 2005)
+
+[2] Leadership as a Performing Art
+
+[3] Principles: Life and Work, page 331 (Ray Dalio, 2017)
+
+[4] Why Change Is Hard
+
+[5] Leadership as a Performing Art
+
+[6] The Authenticity Paradox (Herminia Ibarra, Harvard Business Review, 2015)
+
+[7] Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives (Maria Popova, Brainpickings, 2014)
+
+[8] Do Genes Influence Personality? (Michael Kraus, Psychology Today, 2013)
+
+[9] Understanding "The Pie Chart in The How of Happiness
+
+[10] Self-Monitoring and Authenticity
+
+[11] Conscious Competence in Practice
+
+[12] The Authenticity Paradox (Herminia Ibarra, Harvard Business Review, 2015)
+
+For Further Reading
+
+Self-Monitoring
+
+Attitude, Behavior, Cognitive Dissonance, and Authenticity
+
+Rob Goffee and Gareth Jones explore topics related to those discussed in "Managing Authenticity" in this earlier article and subsequent book:
+
+- Why Should Anyone Be Led By You? (Harvard Business Review, 2000)
+
+- Why Should Anyone Be Led By You? (2006, 2nd edition 2015)
+
+
+===== END ED BOT ESSAY 3975 =====
+===== BEGIN ED BOT ESSAY 3976 =====
+---
+title: How I Read Stoicism
+url: https://edbatista.com/2018/06/how-i-read-stoicism.html
+slug: how-i-read-stoicism
+published: 2018-06-16T15:30:22
+updated: 2025-10-08T21:43:16
+source_body: wordpress-html
+---
+
+One of the most rewarding aspects of teaching The Art of Self-Coaching at Stanford is introducing some of my MBA students to Stoicism in our class on Unhappiness. To be sure, some of my students are well-versed in the classics, but for others it's a new discovery. Given that this same session also explores Buddhist thought via the work of Pema Chödrön as well as Viktor Frankl's philosophy of Logotherapy, I cover Stoicism through "What Would Seneca Do?," a chapter from Oliver Burkeman's outstanding book, The Antidote: Happiness for People Who Can't Stand Positive Thinking. [1]
+
+Burkeman provides a lucid and concise discussion of Stoicism's basic ideas, and in addition to Seneca he references Zeno, Epictetus, and Marcus Aurelius. My students who find Stoicism appealing often go on to read Seneca's letters or the Meditations of Aurelius, which have both consoled and challenged me many times over the years. But these works can pose some difficulties for the contemporary reader, and I find it helpful to bear a few guidelines in mind.
+
+1. Stoicism isn't "stoicism."
+
+A challenge we face today is the risk of conflating Stoicism, the philosophical school of thought, with "stoicism," our present-day interpretation of the term. The latter can connote a passive approach to the world, indifference to outcomes, and a lack of ambition, qualities which my students understandably find alien and unappealing. But the lives of the Stoics weren't characterized by these attitudes, and it's useful to know something about their personal histories.
+
+Zeno, a wealthy merchant, was honored with a pillar in his native Cyprus for his efforts to rebuild public baths, and he was commemorated with a tomb in Athens that acknowledged the influence of his teachings. Aurelius spent several decades devoting himself to imperial administrative and financial affairs, and in his final years led military expeditions against Germanic tribes, dying in camp in present-day Vienna. After being exiled by Claudius, Seneca carefully engineered his return to Rome, where he amassed a vast fortune while advising Nero. These were dynamic men whose dedication to Stoic principles in no way dampened their desire to have a meaningful impact on the world around them.
+
+2. Emotion regulation isn't suppression.
+
+One of the most powerful themes in Stoicism is the importance of keeping our emotions in check:
+
+Our inner thoughts are open to the gods' eyes: they should see a man not disposed to any complaint and free of self-pity. [Aurelius, Meditations, XI.13]
+
+When you are high in indignation and perhaps losing patience, remember that human life is a mere fragment of time and shortly we are all in our graves. [Aurelius, Meditations, XI.18]
+
+The man who is not puffed up in good times does not collapse either when they change. His fortitude is already tested, and he maintains a mind unconquered in the face of either condition. [Seneca, Consolation to Helvia]
+
+This emphasis on emotion regulation can easily be misunderstood as emotion suppression, and it's essential to distinguish between the two. Efforts to completely suppress and extinguish an emotional response are typically unsuccessful and can even be counterproductive, exacerbating the undesired feeling and heightening our focus on its causes. Further, a lack of emotional awareness can erode the quality of our thinking. Recent work by neuroscientists such as Antonio Damasio [2] and Richard Davidson [3] has allowed us to more fully understand the positive role that emotions play in the process of logical reasoning and the complex relationships that interconnect the regions of the brain that process emotion and cognition.
+
+But Damasio fully acknowledges "that uncontrolled or misdirected emotion can be a major source of irrational behavior [and] seemingly normal reason can be disturbed by subtle biases rooted in emotion." The key is cultivating the subtle skill of what I'll call emotional effectiveness--we must be able to sense, comprehend, articulate and express our feelings in ways that help us accomplish our goals. This certainly entails the ability to regulate our emotions, but not to such an extent that we're seeking to suppress them--as the passage above from Damasio concludes, "Reduction in emotion may constitute an equally important source of irrational behavior." [4, emphasis original]
+
+3. The Stoics were human beings just like us.
+
+Reading the Stoics can inadvertently create the impression that as individuals they had overcome and mastered the challenges they're writing about. But it's necessary to remember that for all their accomplishments they were ordinary human beings, subject to the same feelings and frailties as the rest of us. For example, this passage in the Meditations could be read as stern guidance from a man who feels no pain himself:
+
+Epictetus used to say that when you kiss your child you should say to yourself, "Tomorrow you may be dead." But these are ominous words! "No," he replies, "nothing is ominous which points to a natural process. Otherwise it would be ominous to speak of the corn being reaped. [XI.34]
+
+But we see it in a new light when we consider that Aurelius was a father who had already lost four children by his early 30s, and, as the Oxford classicist R.B. Rutherford has noted, Aurelius "was writing for himself, and seems to have had no thought of making his reflections available to a wider audience in his own lifetime or thereafter... At the end of the day, the emperor would record a few reflections and admonish himself to observe certain precepts and ethical rules which he might have neglected." [5]. From this perspective, Aurelius isn't a super-human figure who's conquered grief, but an all-too-human one who, decades later, continues to feel sadness and loss and is striving to manage these difficult emotions.
+
+Similarly, there's a school of thought that views Seneca as a duplicitous schemer who preached virtue while practicing vice, enjoying Nero's support and patronage as the emperor grew increasingly murderous and tyrannical. Seneca's life does merit close scrutiny, and it would be naive to assume that his personal conduct perfectly mirrored the noble sentiments expressed in his writing. But it seems equally simplistic to call him, as the critic Robert Hughes did, "a hypocrite almost without equal in the ancient world." [6]
+
+A more sympathetic view of Seneca is suggested by historian James Romm, who finds it likely that Seneca exerted a positive influence on Nero for a number of years before the younger man eventually bristled at and rejected his tutor's guidance. [7] Seneca later made a concerted effort to retire from public life, at one point offering Nero half of his considerable fortune in order to allow him to leave imperial service--the offer was refused, and as Seneca writes in De Beneficiis, "It makes no difference whether you refuse to give to a king, or refuse to accept gifts from him; he takes both, equally, as a rejection." [8] Romm also notes the striking contrast between Seneca's published essays and letters, in which he rarely makes direct references to imperial figures, and his (largely unproduced) plays, which were essentially allegories about the wanton cruelty of the emperor and the corruption of his family.
+
+Seneca is clearly a complex figure, but rather than brand him a hypocrite and reject the counsel of his writings, I find myself taking a more nuanced view. I don't absolve Seneca of his complicity in Nero's reign, but, knowing that he felt trapped in the service of an emperor who would ultimately order his suicide, I see his work, like the Meditations, as a series of uncertain efforts to reassure and convince himself, rather than as confident assertions from a man who's claimed the moral high ground.
+
+Stoicism as a whole challenges us to rise above our frustrations and fears in order to become better versions of ourselves. The awesome difficulty of this task can be demoralizing if we assume that the Stoics themselves accomplished it with ease and are preaching at us from on high (or, worse, failed in the attempt and are lying to us.) Instead, I choose to read the work of the Stoics as testimonials from fellow sufferers who are sharing their struggles, not recounting their triumphs.
+
+Do not give up in disgust or impatience if you do not find action on the right principles consolidated into a habit in all that you do. No: if you have taken a fall, come back again." [Aurelius, Meditations, V.9]
+
+These are the words of a man who knows disgust, who knows impatience, who has fallen.
+
+Your mind will take on the character of your most frequent thoughts: souls are dyed by thoughts... For example: where life can be lived, so can a good life; but life can be lived in a palace, therefore a good life can be lived in a palace." [Aurelius, Meditations, V.16]
+
+These are the concerns of a man wrestling with his own worthiness, wondering if he can surmount his (literal) palace or if its luxury will prevent him from achieving the good life.
+
+It is not that we have a short space of time, but that we waste much of it. Life is long enough, and it has been given in sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested. But when it is squandered in luxury and carelessness, when it is devoted to no good end, forced at last by the ultimate necessity we perceive that it has passed away before we were aware that it was passing. [Seneca, On the Shortness of Life]
+
+These are not the boasts of a man who's certain that he's lived his life well, but the anxious musings of a 53-year-old who's worried that he has not, and who's hoping that he'll be granted sufficient time and freedom to change course.
+
+We all face these dilemmas, and the Stoics aren't telling us to follow in their footsteps--they're walking alongside us.
+
+Footnotes
+
+[1] The Antidote: Happiness for People Who Can't Stand Positive Thinking (Oliver Burkeman, 2013)
+
+[2] Antonio Damasio on Emotion and Reason
+
+[3] The Emotional Life of Your Brain (Richard Davidson and Sharon Begley, 2012)
+
+[4] Descartes' Error: Emotion, Reason and the Human Brain, pp 52-53 (Antonio Damasio, 2005)
+
+[5] The Meditations of Marcus Aurelius, pages ix-x (1998)
+
+[6] An Idea as Much as a City, (Michiko Kakutani, The New York Times, 2011 [reviewing Rome: A Cultural, Visual, and Personal History, Robert Hughes, 2011])
+
+[7] Dying Every Day: Seneca at the Court of Nero (James Romm, 2014)
+
+[8] Dying Every Day: Seneca at the Court of Nero, page 128
+
+For Further Reading
+
+Meditations, Marcus Aurelius
+
+It's important to find a translation that feels right for you--I like these three:
+
+Oxford University Press (1998)
+
+This reissue of A.S.L. Farquharson's 1944 translation includes an outstanding introduction by R.B. Rutherford.
+
+Penguin Classics (2006)
+
+This recent translation by Martin Hammond has a more contemporary feel and is extensively annotated.
+
+Dover Thrift (1997)
+
+This classic 1862 translation by George Long lacks any extras, but it's a slender, inexpensive volume that's also freely available online.
+
+Dialogues and Letters, Seneca
+
+Letters from a Stoic, Seneca
+
+These two volumes overlap extensively, but there's sufficient distinction that they're both worth having.
+
+Dying Every Day: Seneca at the Court of Nero, James Romm
+
+Enchiridion, Epictetus
+
+Discourses and Selected Writings, Epictetus
+
+On the Shortness of Life
+
+Seneca on the Importance of Rest and Relaxation
+
+Marcus Aurelius, 3,000 Years, and the Present Moment
+
+Photo by Bradley Weber.
+
+
+===== END ED BOT ESSAY 3976 =====
+===== BEGIN ED BOT ESSAY 3977 =====
+---
+title: Leadership as Professional Practice
+url: https://edbatista.com/2018/06/leadership-as-professional-practice.html
+slug: leadership-as-professional-practice
+published: 2018-06-14T15:27:27
+updated: 2025-10-09T09:33:27
+source_body: wordpress-html
+---
+
+In the Enchiridion (or handbook) of Epictetus [1], the Stoic philosopher offers guidance to those of us with high aspirations:
+
+In every act observe the things which come first, and those which follow it... A man wishes to conquer at the Olympic games, I also wish indeed, for it is a fine thing. But observe both the things which come first, and the things which follow... You must do everything according to rule, eat according to strict orders, abstain from delicacies, exercise yourself as you are bid at appointed times, in heat, in cold, you must not drink cold water, nor wine as you choose... And sometimes you will strain the hand, put the ankle out of joint, swallow much dust, sometimes be flogged, and after all this be defeated. When you have considered all this, if you still choose, go to the contest.
+
+If you do not, you will behave like children, who at one time play at wrestlers, another time as flute players, again as gladiators, then as trumpeters, then as tragic actors. So you will also be at one time an athlete, at another a gladiator, then a rhetorician, then a philosopher, but with your whole soul you will be nothing at all. But like an ape you imitate everything that you see, and one thing after another pleases you. For you have not undertaken anything with consideration, nor have you surveyed it well, but carelessly and with cold desire. [2]
+
+Epictetus is warning us that ambition and skill are insufficient. Merely wanting to win and having some talent aren't enough. Instead, we must "observe the things which come first" and dedicate ourselves to the preparation that is the necessary precondition for success. We must persist through adversity, pain, boredom and failure. It's fine for children to try on different identities as a form of experimentation; they don't need to train in order to play. (The intensive training and specialization that increasingly characterize youth sports are actually contributing to an increase in injuries. [3]) But adults who aspire to excellence will only get so far without a disciplined approach. In short, we must commit to a practice.
+
+A theme in my coaching with leaders is the recognition that the skills and abilities that helped them achieve their current levels of success will not be sufficient to enable them to accomplish their next set of goals. This can take many different forms: The founder recruits experienced executives and realizes that now she's managing people who know much more about their functional areas than she does. The CEO doubles the size of the company, adding a new layer to the org chart, and discovers that leading leaders poses an unexpected set of challenges. The CTO builds out his team and finds that he adds more value by facilitating productive conversations than through his technical expertise.
+
+All of these people have a desire to lead and are relatively effective leaders, or they wouldn't have reached these roles to begin with. But a common thread running through these situations is the increasing complexity and difficulty of leadership at scale among senior people; merely wanting to lead and possessing a natural set of skills are insufficient. What's being asked of my clients is to take their performance as leaders to the next level, and what's required is to approach leadership as a professional practice.
+
+The author Steven Pressfield discusses what it means to be a professional in The War of Art:
+
+The word amateur comes from the Latin root meaning "to love." The conventional interpretation is that the amateur pursues his calling out of love, while the pro does it for money. Not the way I see it. In my view, the amateur does not love the game enough. If he did, he would not pursue it as a sideline, distinct from his "real" vocation. The professional loves it so much he dedicates his life to it. He commits full-time. [4]
+
+This is the work my clients face--committing full-time to improving as a professional leader. What does this look like in more concrete terms? Pressfield explores this theme more fully in his later book Turning Pro, the source of the passages quoted below:
+
+The difference between an amateur and a professional is in their habits. An amateur has amateur habits. A professional has professional habits. We can never free ourselves from habits. The human being is a creature of habit. But we can replace bad habits with good ones. [5]
+
+A first step here is simply noticing the habits we do have, both bad and good. Habits are often automatic and even unconscious responses to a set of environmental cues and triggers. We have to step out of our immediate experience on a regular basis to expand our awareness of the environments we're operating in and the habitual responses they trigger. For a leader this can certainly take the form of journaling and reflection [6], but it should also include conversations with others who are in a position to offer both coaching and feedback. [7]
+
+When we turn pro, everything becomes simple. Our aim centers on the ordering of our days in such a way that we overcome the fears that have paralyzed us in the past. We now structure our hours not to flee from fear, but to confront it and overcome it. We plan our activities in order to accomplish an aim. And we bring our will to bear so that we stick to this resolution. This changes our days completely. It changes what time we get up, and it changes what time we go to bed. It changes what we do and what we don't do. It changes the activities we engage in and with what attitude we engage in them. It changes what we read and what we eat. It changes the shape of our bodies. [8]
+
+It's no accident that I discuss mindfulness, exercise, and sleep with most of my clients. [9,10,11] These practices not only contribute directly to a leader's effectiveness by supporting better prioritization, emotion management, and decision-making, but they also entail a new perspective on "the ordering of our days." Even when a leader agrees in principle that self-care is an investment, not an indulgence, they still need to take control of their calendar in order to follow through on these commitments. [12] And show me your calendar, and I'll show you what you value. [13]
+
+The pro mindset is a discipline that we use to overcome resistance. To defeat the self-sabotaging habits of procrastination, self-doubt, susceptibility to distraction, perfectionism, and shallowness, we enlist the self-strengthening habits of order, regularity, discipline, and a constant striving after excellence. [14]
+
+We all have our "self-sabotaging habits," so it's essential to understand how routine practices influence our state of mind and either exacerbate our demons or help us overcome them. This is particularly important for leaders given the contagious effect of their emotions on others, for better and for worse. One of the most significant requirements of a leadership role is the ability to inspire confidence and calm in others, even--and especially--when the leader is wrestling with doubt and anxiety. I'm not suggesting that leaders should be deceptive or strive to appear invulnerable at all times, but leadership is a performance, and sometimes that obligates a leader to manage their emotions and regulate their behavior accordingly. [15] Investing in a consistent set of "self-strengthening" habits is key.
+
+A practice implies engagement in a ritual. A practice may be defined as the dedicated, daily exercise of commitment, will, and focused intention aimed, on one level, at the achievement of mastery in a field but, on a loftier level, intended to produce a communion with a power greater than ourselves. [16]
+
+Leaders operate under intense scrutiny--in every interaction their behavior is being carefully assessed and interpreted. [17] As a consequence leadership is a constant process, not an occasional one, and leaders must be capable of dedicating themselves to this "daily exercise of commitment, will, and focused intention." This is depleting--and yet another reason why self-care is so important.
+
+Pressfield's reference to "communion with a power greater than ourselves" is also relevant, and it need not be limited to the spiritual realm. A powerful motivator for many of my clients is the sense of communion they enjoy with the people they lead at particular moments in the organization's life. These experiences--both successes and failures--are characterized by strong collective emotions, and what's required of a leader at such moments is the ability to be vulnerable in just the right way at just the right time. [18] And the mastery of these interpersonal skills requires a commitment to leadership as a professional practice.
+
+A practice has a space.
+
+A practice has a time.
+
+A practice has an intention.
+
+We come to a practice as warriors.
+
+We come to a practice in humility.
+
+We come to a practice as students. [19]
+
+The precise nature and definition of these qualities in each leader's professional practice will differ, but they apply to everyone. Every leader requires dedicated space and time to pursue their craft, which often involves creating the right environment for meaningful thinking. Every leader, at some point in their career, must summon their warrior energy and have a good fight. Every leader, at many points in their career, must humble themselves and acknowledge their incompetence. And every leader must be a committed student--of leadership and of themselves--in order to grow.
+
+And sometimes you will strain the hand, put the ankle out of joint, swallow much dust, sometimes be flogged, and after all this be defeated. When you have considered all this, if you still choose, go to the contest.
+
+Footnotes
+
+[1] Who Is Epictetus? (Daily Stoic)
+
+[2] Enchiridion, page XXIX (Epictetus, translation by George Long, 2004)
+
+[3] When Is It Too Early for Single-Sport Specialization? (Brian Feeley, Julie Agel and Robert LaPrade, The American Journal of Sports Medicine, 2015)
+
+[4] The War of Art: Break Through Your Blocks and Win Your Inner Creative Battles, pages 62-63 (Steven Pressfield, 2002, 2012 edition)
+
+[5] Turning Pro: Tap Your Inner Power and Create Your Life's Work, page 20 (Steven Pressfield, 2012)
+
+[6] The Value of Journal Writing
+
+[7] Self-Coaching Is SOCIAL
+
+[8] Turning Pro, page 72 (Pressfield, 2012)
+
+[9] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[10] Get Moving! (Exercise for Busy People)
+
+[11] A compilation of readings on sleep
+
+[12] Investments, Not Indulgences
+
+[13] Show Me Your Calendar, and I'll Show You What You Value
+
+[14] Turning Pro, page 103 (Pressfield, 2012)
+
+[15] Leadership as a Performing Art
+
+[16] Turning Pro, page 108 (Pressfield, 2012)
+
+[17] Watch That Next Step (CEO Problems)
+
+[18] Brené Brown, Vulnerability, Empathy and Leadership
+
+[19] Turning Pro, pages 109-114 (Pressfield, 2012)
+
+For Further Reading
+
+How to Think (More on Open Space and Deep Work)
+
+The Value of a Good Fight
+
+Conscious Competence in Practice
+
+Learning How to Learn
+
+Photo of Boxer at Rest by Carole Raddato.
+
+To learn more about this magnificent work of art: The Boxer: An Ancient Masterpiece and The Boxer.
+
+Thanks to Richard Winters for introducing me to the work of Steven Pressfield.
+
+
+===== END ED BOT ESSAY 3977 =====

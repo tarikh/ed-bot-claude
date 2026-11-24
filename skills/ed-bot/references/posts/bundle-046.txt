@@ -1,0 +1,118 @@
+===== BEGIN ED BOT ESSAY 3262 =====
+---
+title: AttentionTrust
+url: https://edbatista.com/2005/07/attentiontrust-2.html
+slug: attentiontrust-2
+published: 2005-07-28T17:21:38
+updated: 2005-07-28T17:21:38
+source_body: wordpress-html
+---
+
+As noted in my last few posts, Seth Goldstein, Steve Gillmor and a number of other folks have launched AttentionTrust, a tremendously important work-in-progress whose goal is to "promote the basic rights of attention owners," i.e. all of us.  Yesterday Seth posted what you might call an Attention Manifesto:
+
+Attention is the substance of focus.  It registers your interests by indicating choice for certain things and choice against other things. As Steve reminds, the establishment of value in the attention economy is a dual register of what one pays attention to and what one chooses to ignore (or unsubscribe, turn off or tune out).
+
+The reason attention is becoming more important now is that the Internet has enabled the recording and sharing of these choices in real-time. The massively parallel synthesis of meta data streams has concentrated enormous influence in people and their sites.  Some consumers are proactive in gaining full control over their influence, but the majority are passive users of free services and offers (that actively capture and sell their intentions)...
+
+Our attention data is ours, each of us individually.  In the wake of the behavior of credit card companies, credit unions and data brokers, it is vital that we recognize our right, and our responsibility, to govern ourselves relative to the use of our private information... Our attention establishes intention; and our intention establishes economic value.  Once one recognizes the value of one's attention, it is shocking to see how cheaply most people offer theirs to companies looking for their business.
+
+But it's not just (or even primarily) about realizing economic value or preventing exploitation--it's also about preserving and improving our quality of life.  As noted in my last post, we're all struggling to stretch our finite amount of attention to keep up with the ever-increasing numbers of people and things demanding a share of it.  This is a particularly acute problem online.  The web has dramatically expanded the range of interesting things we could be paying attention to, just as it's dramatically expanded the range of things we're not interested in that have nevertheless found a way to steal a few precious moments of our attention.
+
+To avoid drowning in an ocean of irrelevancy, we must become aware of the value of our attention, and we must spend it wisely, in accord with our own desires, not merely the desires of those entities who have managed to find (or buy) their way onto our screens or into our inboxes.  I think the establishment of AttentionTrust is a significant step in that direction.
+
+attentiontrust attention
+
+
+===== END ED BOT ESSAY 3262 =====
+===== BEGIN ED BOT ESSAY 3263 =====
+---
+title: Attention Management
+url: https://edbatista.com/2005/07/attention_manag.html
+slug: attention_manag
+published: 2005-07-28T16:52:40
+updated: 2005-07-28T16:52:40
+source_body: wordpress-html
+---
+
+David Coleman posted at Corante yesterday on Too Much Collaboration, describing the toll that interconnectedness (and the attendant interruptions) can take on our productivity, especially when it comes to creative tasks.  Coleman describes the problem as "attention management," and the obvious dilemma is that we have only a finite amount of attention to pay to the ever-increasing demands on out time.  One of his proposed solutions is create the equivalent of more attention via virtual cloning:
+
+That is to augment a person's ability to "attend" to content and events... I believe that you will need to multiply your bandwith and attention by multiplying your self. Some type of virtual agent that not only knows where you are, what you are doing and what  collaboration programs or devices you have, but it also has a subset of your personality and is assigned to deal with specific types of tasks demanding your attention.
+
+Coleman also cites companies like Veritas that have implemented "email-free Fridays."  But whether the solution is an avatar that automates the handling of low-level requests, or policies that revise cultural norms about when and how quickly we can reach each other, all these changes involve putting a higher value on our attention, and raising the threshold of urgency for anything or anyone that's seeking to claim a share of it.
+
+I've been paying closer, uh, attention to this issue as the result of some discussions with the folks working on AttentionTrust (more on that shortly), and I'm convinced that they're on to something tremendously important.
+
+corante attentiontrust attention
+
+
+===== END ED BOT ESSAY 3263 =====
+===== BEGIN ED BOT ESSAY 3264 =====
+---
+title: Outfoxed
+url: https://edbatista.com/2005/07/outfoxed.html
+slug: outfoxed
+published: 2005-07-25T21:26:45
+updated: 2005-07-25T21:26:45
+source_body: wordpress-html
+---
+
+Outfoxed is a Firefox extension that allows you to rate websites (thumbs up, thumbs down, or dangerous), share your ratings, and rely upon the ratings of those you know or trust.  Check out my Outfoxed page: it shows that I've accepted Stan (the author of Outfoxed, a grad student in Germany) and the Outfoxed home page as "informers," i.e. people whose site recommendations I'm interested in, and it shows a list of my "reports," i.e. sites that I've issued a rating on (which at this point is simply the list of Firefox bookmarks that I allowed Outfox to import when I installed it.  (It's somewhat similar to Delicious and Stumbleupon, but Stan does a better job than I could of explaining why Outfoxed is better.)
+
+Applications like Outfoxed that run on social metadata, i.e. information about our preferences and habits that we share with others--Audioscrobbler is another example I wrote about recently--are going to have an enormous effect on the way not only on how we use the web, but also on how we connect with other people and how we make ourselves known to them.
+
+Today in some circles it's seen as odd if you're not actively blogging, because that's simply how you engage the community--you present your ideas, comment and expand upon others' ideas, all on a platform that's discoverable, searchable, archivable and linkable.  You make yourself known and you participate in a community through your posts and comments--your data.
+
+What if your social metadata could have a similar impact?  What if it could be used to make yourself known and visible to a larger community?  OTOH, metadata's not as rich as data--voting thumbs up or thumbs down on a site is a shallow substitute for a lengthier blog post explaining that vote.  But OTOH, metadata's much richer than data, because there's so much of it and more is piling up every second you're online--the challenge is finding the appropriate mechanisms to capture, measure and analyze that metadata in order to extract meaning (and value) from it.
+
+Thanks to Steve Gillmor and Seth Goldstein of AttentionTrust for the tip.
+
+outfoxed metadata social metadata
+
+
+===== END ED BOT ESSAY 3264 =====
+===== BEGIN ED BOT ESSAY 3265 =====
+---
+title: Three Questions with Randal Pinkett
+url: https://edbatista.com/2005/07/three_questions_3.html
+slug: three_questions_3
+published: 2005-07-21T16:39:39
+updated: 2005-07-21T16:39:39
+source_body: wordpress-html
+---
+
+Dr. Randal Pinkett stands out in a crowd. Literally--he must be 6' 6" or something--but also figuratively; he's the President and CEO of a company he founded, BCT Partners, he holds five academic degrees from places like Oxford and MIT, and while he could probably name his price if he were working in the private sector, he's chosen to work primarily with nonprofits and other public institutions, helping them with management, technology and policy issues.
+
+And for such a big shot, he's a really nice guy, too. So it was great to hear from him on just how you wind up with that many diplomas, technology in the social services, the Ars Portalis project, and track and field...
+
+1) You probably have more advanced degrees than anyone I've met in the nonprofit technology field (or any other field, for that matter.) What kept drawing you back to grad school, and how has that experience affected your professional endeavors?
+
+I indeed have a number of advanced degrees. To be specific, I have five advanced degrees: Bachelor of Science from Rutgers University in Electrical Engineering; Master of Science in Computer Science from the University of Oxford, England, as a Rhodes Scholar; and a Master of Science in Electrical Engineering, MBA and Ph.D. from MIT.
+
+The truth of the matter is that I never intended, nor necessarily desired to obtain five degrees. Although I must say that each degree has been an asset to my career, and the five degrees continue to be a great conversation piece! I graduated from Rutgers and traveled to Oxford not only to experience life overseas as a Rhodes Scholar, but also to pursue a D.Phil. (the British equivalent of the Ph.D.). Halfway through my second year at Oxford it was clear that my professional goals would be better served by pursuing a Ph.D. in the United States, so I completed that year, which earned me a Masters degree. After contacting MIT (where I had already been accepted as a senior at Rutgers) to discuss these plans, I was informed that despite the fact that I held a masters degree, I would have to complete additional, requisite coursework at MIT in order to take the Ph.D. qualifying examination. This basically meant that I would have to complete a second masters degree. Fortunately, MIT also offered a program, the Leaders for Manufacturing Program (LFM), that would allow me to earn an MBA, in addition to a masters in electrical engineering, without losing any time.
+
+So, I enrolled in the LFM program and earned two masters degrees in just two years. I subsequently enrolled in the Ph.D. Program at the MIT Media Laboratory, which I completed in three years, and the rest is history! Suffice it to say that my graduate work laid the perfect foundation for becoming an entrepreneur. The combination of business and technology expertise that I obtained, as well as the subject matter expertise in information technology, organizational development, community technology and community development, set the stage for establishing BCT Partners.
+
+2) Your company occupies an unusual niche: Although I think of you as a technologist, your company's services also encompass housing, community development, and education, and it appears that you're planning to expand into social services and economic development as well. Having spent much of my early career in social services, I tend to think of that field as somewhat techno-phobic. Are these fields actually embracing technology today?
+
+BCT Partners is a management, technology and policy consulting firm that works with government agencies, nonprofit organizations, corporations and foundations. We specialize in the following industries/sectors: housing and community development, economic development, human services, nonprofit and community technology and education. These fields have indeed been historically slow to embrace technology. However, over the past decade we have witnessed an increasing level of awareness and appreciation amongst practitioners for the value of technology toward achieving better outcomes in these arenas. Nowadays, it is not uncommon to hear community leaders making reference to wireless networks and PDAs and sector-specific software applications in reference to their work. So, while there is still more work to do, these fields have come a very long way.
+
+3) During the dot-com bubble, the nonprofit technology field saw the rise and fall of a number of ambitious projects that ultimately had a short shelf-life. You were involved with the Ars Portalis project, which "tackled a range of practical challenges and opportunities facing community networks." What value did experimental projects like Ars Portalis ultimately contribute, and should the nonprofit sector continue to invest in such efforts?
+
+The Ars Portalis project was organized by the Center for Civic Networking under a contract from the U.S. Department of Commerce's Technology Opportunities Program (TOP; formerly TIIAP). "Ars Portalis" literally translated means "the arts of the city gates". The project was named in recognition of the fact that in the age of the Internet, our "boundaries are electronic [and] the art of community networking is evolving into a practice that uses the Internet creatively to help communities better define themselves, as the city gates of old had done" (Community Technology Review, Summer/Fall 2001). One of the central themes of the project was to ask leading practitioners to compete in a cluster of small, short-term studies to sharpen understanding of key sustainability issues facing community networks.
+
+My project involved analyzing data from interviews with residents of a recently renovated‹and resident owned‹affordable housing development in Roxbury, MA, on their use of a prototype community networking software application called the "Creating Community Connections (C3)" system. The C3 system incorporated a suite of modules that could be useful in a variety of settings relevant to many community-based organizations such as CTCs and community networks.
+
+To my knowledge, the Department of Commerce never released the findings from the projects, which certainly diminished their potential value (my project did make for what I thought was a valuable Ph.D. thesis!). However, I do believe there was value in the overall project, and that the civil and public sectors should invest in similar projects. These kinds of efforts encourage the very experimentation and risk taking that can ultimately lead to more innovative and sustainable approaches. There is an ongoing need to invest wisely R&D. This is perhaps an even greater imperative as it relates to investing in R&D that can lead to innovation and sustainability.
+
+Bonus Personal Question: You were an NCAA Academic All-American in Track and Field for Rutgers. Although I ran track at a much less exalted level, the experience shaped me in a very deep way. What's your best memory of athletic competition?
+
+As an undergraduate at Rutgers University, I served as captain of the men's track and field team. I competed as a high jumper, long jumper and, on certain occasions when they absolutely needed a fourth person for the 4x100 relay, a sprinter. My best memory of athletic competition was actually in high school. I attended Hightstown High School in the Hightstown-East Windsor area of New Jersey. At the county track and field championships, I was in a heated battle in the long jump competition with my crosstown arch-rival, Steve Flythe, from neighboring West Windsor-Plainsboro High School in West Windsor, New Jersey. It rained all day, which made for miserable jumping conditions. Nonetheless, throughout the qualifying round and the final round I was ahead of Steve and in first place. Going into the last round of jumps it appeared that I was certain to win. However, on Steve's last jump he surprisingly moved into first! This left me with just one final jump to beat him, move back into first, and win the championship.
+
+To help me focus, my coach decided to stand to the side of the long jump pit at about the distance I would need to jump in order to win. I took off my rain gear, walked onto field, and ran down the wet runway. With all of what I had left, I leaped off the wooden long jump board and landed in the pit at approximately where my coach was standing. In fact, it was so close that neither I nor my coach could tell if it was enough. I looked at him with uncertainty. He looked at me with uncertainty. Then we both looked at the long jump official for the exact distance. It seemed like it took foreverto measure the distance with the measuring tape. When the official announced my distance, it was 3/4 of an inch better than Steve and I won! That is definitely one of my best memories of track competition.
+
+Steve's mom and my mom both attend the same church nowadays. I saw her last year at the church's annual summer cookout and she told me that she and Steve are still hurting from that loss. Notwithstanding my activities on the track and on the field, I also have a number of great memories stemming from the camaraderie, friendship, fellowship and teamwork I experienced while competing with the other members of the men's and women's team at Rutgers. Many of my former teammates are still, to this day, among my lifelong friends.
+
+randal pinkett bct partners ars portalis
+
+
+===== END ED BOT ESSAY 3265 =====

@@ -1,0 +1,154 @@
+===== BEGIN ED BOT ESSAY 3658 =====
+---
+title: 13 Miles in San Francisco
+url: https://edbatista.com/2010/05/san-francisco-2.html
+slug: san-francisco-2
+published: 2010-05-01T22:54:01
+updated: 2025-09-24T11:59:39
+source_body: wordpress-html
+---
+
+Today was an astoundingly beautiful day in San Francisco, and I spent a portion of it on one of my favorite rides around the City, a route that winds for just over 13 miles through Golden Gate Park, the Panhandle, the Wiggle, the Duboce Bikeway (above), Market Street, the Embarcadero, Fort Mason, Crissy Field, and the Presidio before returning to the Richmond.
+
+I've ridden through the Duboce Bikeway literally thousands of times--I worked in downtown SF for a total of 8 years, and I commuted by bike for most of that time--but not once have I ever stopped to take a photo of the mural there, even though it happens to be my favorite piece of public art evah.
+
+But for some reason today I stopped and snapped the pic above. And looking at it now I want to ride out to Ocean Beach immediately.
+
+
+===== END ED BOT ESSAY 3658 =====
+===== BEGIN ED BOT ESSAY 3659 =====
+---
+title: Pierluigi Pugliese on Agile Coaching
+url: https://edbatista.com/2010/04/agile-coaching-2.html
+slug: agile-coaching-2
+published: 2010-04-29T04:00:00
+updated: 2025-09-24T11:59:39
+source_body: wordpress-html
+---
+
+Pierluigi Pugliese is an "agile coach and software consultant" based in Germany. I'm familiar with agile software development, a method based on the principles first articulated in 2001 in the Agile Manifesto, and "agile coaching" would seem to be a logical extension of these principles:
+
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+
+Business people and developers must work together daily throughout the project.
+
+Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+Working software is the primary measure of progress.
+
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+Continuous attention to technical excellence and good design enhances agility.
+
+Simplicity--the art of maximizing the amount of work not done--is essential.
+
+The best architectures, requirements, and designs emerge from self-organizing teams.
+
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+I see many parallels with coaching embedded in this language, and I love that Pugliese has not only made these parallels explicit but also established a coaching practice focused on supporting teams of agile developers--what a perfect fit.
+
+On April 9 Pugliese gave a presentation on a Solution Focused Approach to Agile Coaching at Agile Central Europe, a gathering of developers in Kraków. I encourage you to review his entire presentation posted at SlideShare, but I've taken the liberty of reproducing the slides that I found most meaningful below. (Note that each slide below links to the original presentation posted on SlideShare.)
+
+This slide reminds me of my post on mentoring, training and coaching--and the fundamental differences that distinguish these disciplines, despite their many similarities:
+
+The description below of "Solution Focused Coaching" resonates deeply with me--every bullet in Pugliese's list is a hallmark of my own approach to coaching:
+
+I fully agree with Pugliese's reluctance to ask "Why?", for the very reasons articulated in the slide below. I'd add that "Why?" questions tend to trigger defensiveness--"Why? I'll tell you why!"--and that "How?" questions are much more effective at helping coaching clients better understand themselves. (I'm indebted to Scott Ginsberg for his invaluable list of useful questions.)
+
+The "Miracles" slide below describes a coaching technique that's new to me, and I find it compelling. I look forward to an opportunity to try it out:
+
+Many thanks to Pierluigi Pugliese for an insightful and thought-provoking overview of his approach to coaching.
+
+
+===== END ED BOT ESSAY 3659 =====
+===== BEGIN ED BOT ESSAY 3660 =====
+---
+title: Attitude, Behavior, Cognitive Dissonance and Authenticity
+url: https://edbatista.com/2010/04/attitude.html
+slug: attitude
+published: 2010-04-27T04:00:00
+updated: 2025-09-24T11:59:39
+source_body: wordpress-html
+---
+
+This post has been extensively revised and updated--here's the current version:
+
+Attitude and Behavior
+
+I recently had this Twitter exchange with Tom Peters:
+
+I refer to that quote from St. Ignatius quite often because I believe it illustrates an important truth about human behavior.  We assume that our attitude causes our behavior, and that we act as we do because we think or feel a certain way:
+
+But rather than being a one-way causal relationship, it's really a two-way street.  Attitude can certainly inform and shape our behavior, but it's a cyclical process, and behavior can also inform and shape our attitude:
+
+This process is rooted in the dynamics of cognitive dissonance--when our attitude and our behavior are inconsistent, we experience discomfort and even distress, and we modify either our attitude or our behavior to reduce the inconsistency.  But as St. Ingnatius and Tom Peters remind us, we don't have to let our original attitude govern our behavior.  We can choose to act differently, and this new behavior can in turn modify our attitude.  "Perform the acts of faith, and faith will come."
+
+These concepts are deeply embedded in the work of Sonia Lyubomirsky and other "happiness researchers," but psychologists and neuroscientists have long observed them at work in other settings as well.  As UC Berkeley neuroscientist Vincent van Veen and his colleagues Marie Krug, Jonathan Schooler and Cameron Carter wrote in "Neural activity predicts attitude change in cognitive dissonance," a 2009 paper in the journal Nature Neuroscience:
+
+It has consistently been found that [study] participants [who are behaving in ways that are in conflict with their attitudes] change their attitudes to be more consistent with the counter-attitudinal behavior.  Dissonance has been shown to be a negative emotional state accompanied by autonomic arousal; it has been shown that people change their attitudes and restore consonance to specifically reduce the negative affect.
+
+(Researchers like van Veen are beginning to explore the neuroscientific basis for this process. Another forthcoming paper from Harvard Business School professor Amy J.C. Cuddy entitled "Power Posing: Brief Nonverbal Displays Affect Neuroendocrine Levels and Risk Tolerance" apparently explores similar territory, although I've only read the abstract.)
+
+It's noteworthy that choice and free will are essential to the process of altering attitude through behavior.  The passage above continues:
+
+When participants in control groups are able to attribute their counter-attitudinal behavior to payment or coercion, or when the counter-attitudinal behavior has no real-world consequences, conflict between behavior and prior attitudes is reduced, and participants experience less cognitive dissonance and do not change their attitudes.
+
+Some futher thoughts on authenticity in light of Peters' original advice to "fake a good mood": While intentionally counter-attitudinal behavior may have the desired effect on our attitude, beyond a certain point it may also have negative consequences if others experience us as insincere or manipulative, and it's clearly important to be aware of the line that distinguishes "intentional" from "phony."  In addition, there are many good reasons to express our negative feelings and to build safety and trust through candor.  I'm not in the least suggesting that we should repress or hide negative feelings reflexively.
+
+That said, in my experience as a coach, particularly with people who may be experimenting with more intentional behaviors for the first time, we can get hung up on concerns about authenticity and use that as an excuse to justify our choices, no matter how ineffective or unfulfilling they might be.  ("I'm just being honest!" we say, or "I have to be myself.")  But as the dynamic described above illustrates, authenticity is more complex than is commonly understood.
+
+In Managing Authenticity (from the December 2005 issue of the Harvard Business Review), Rob Goffee and Gareth Jones make the case that authenticity actually requires intentional behavior and, rather than being an innate quality we possess (or lack) on our own, grows out of our relationships with others and our desire to be more effective in those relationships.  Goffee and Jones focus on leaders' effectiveness, but their work is relevant to all our relationships and interpersonal interactions:
+
+[W]hile the expression of an authentic self is necessary for great leadership, the concept of authenticity is often misunderstood, not least by leaders themselves. They often assume that authenticity is an innate quality--that a person is either authentic or not. In fact, authenticity is a quality that others must attribute to you. No leader can look into a mirror and say, "I am authentic." A person cannot be authentic on his or her own. Authenticity is largely defined by what other people see in you and, as such, can to a great extent be controlled by you. If authenticity were purely an innate quality, there would be little you could do to manage it and, therefore, little you could do to make yourself more effective as a leader...
+
+Let us be absolutely clear: Authenticity is not the product of pure manipulation. It accurately reflects aspects of the leader’s inner self, so it can't be an act. But great leaders seem to know which personality traits they should reveal to whom and when. They are like chameleons, capable of adapting to the demands of the situations they face and the people they lead, yet they do not lose their identities in the process. [My emphasis]
+
+Viewing our initial attitude as "authentic" and using that to rationalize any subsequent behavior makes no sense when we see how readily our attitude can be modified by choosing different behavior.  By the same logic, behavior chosen for the express purpose of modifying our attitude isn't automatically "inauthentic."  Looking through Goffee and Jones' framework, we see authenticity as a quality that we cultivate through lived experience and that we (and those around us) sense subjectively, not the result of a behavioral algorithm that disappears when we act intentionally.
+
+I recognize that these complexities can make it difficult to know what's "right" in a given situation (which, of course, is why we have executive coaches.)  But my larger point is that we have much more power than we typically realize to choose behavior that will affect our attitude, and that we can be more effective and feel more fulfilled as a result.
+
+
+===== END ED BOT ESSAY 3660 =====
+===== BEGIN ED BOT ESSAY 3661 =====
+---
+title: Jonathan Bolden on Putting Stakes in the Ground
+url: https://edbatista.com/2010/04/stakes.html
+slug: stakes
+published: 2010-04-26T04:00:00
+updated: 2025-09-24T11:59:39
+source_body: wordpress-html
+---
+
+Jonathan Bolden is a Stanford MBA who was among our first class of Leadership Fellows in 2007. I've kept up with him via social media, and today a tweet of his led me to a blog post from last December. Jonathan has turned his passion for coffee roasting into a small business--a "micro-micro enterprise," in his words--but even at that scale he's had to think about values, culture and service:
+
+Even in a micro-micro enterprise, you must put stakes in the ground.
+
+It is through these stakes that values are declared.
+
+It is on these stakes that a house/a culture is built.
+
+It is by the support of these stakes that customers are served and a brand is established.
+
+That strikes me as not only an astute analysis of the relationship that exists among values, culture and service, but also a call to action to ask myself...
+
+What stakes have I put in the ground?
+
+What values have I declared through these stakes?
+
+What culture have I built upon them?
+
+And what level of service and what personal brand do they support?
+
+ 
+
+Photo by Liber.
+
+
+===== END ED BOT ESSAY 3661 =====

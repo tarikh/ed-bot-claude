@@ -1,0 +1,134 @@
+===== BEGIN ED BOT ESSAY 3826 =====
+---
+title: Startup Communication at Flixster
+url: https://edbatista.com/2014/04/startup-communication-at-flixster.html
+slug: startup-communication-at-flixster
+published: 2014-04-24T22:04:52
+updated: 2025-09-24T11:59:31
+source_body: wordpress-html
+---
+
+Today I volunteered to facilitate the third workshop in an ongoing series on Startup Communication aimed at helping co-founders 1) communicate more effectively with each other, 2) establish group norms in the company that support better communication and 3) model better communication with their employees.
+
+Twenty co-founders from 10 ventures participated, and I felt privileged and grateful to be involved. It's always a privilege to invite people to have more meaningful, intimate conversations with each other and to have them accept the offer--and I certainly walked away feeling a lot of gratitude for the opportunity to work with this particular group (and simply to do what I do as a coach and experiential educator.)
+
+The event was organized by Joe Greenstein and Hannah Knapp, two people who mean a lot to me, and it was especially fun to see them work together as a team in this setting. Thank you to Joe and Hannah and everyone else who was there.
+
+
+===== END ED BOT ESSAY 3826 =====
+===== BEGIN ED BOT ESSAY 3827 =====
+---
+title: Riding the Wave (Conscious Competence)
+url: https://edbatista.com/2014/04/riding-the-wave-conscious-competence.html
+slug: riding-the-wave-conscious-competence
+published: 2014-04-07T02:12:09
+updated: 2025-10-21T09:04:03
+source_body: wordpress-html
+---
+
+What happens when we learn new skills that take us out of our comfort zone? When we're striving to be authentic, is it OK when we act with intention and forethought?
+
+The Conscious Competence model, developed by Martin Broadwell in the late 1960s, offers a useful framework to address these questions.
+
+In most areas where we face a challenge, we start out in Unconscious Incompetence (quadrant #1 above): We're screwing up, and we don't even know it. In the context of my work with coaching clients and MBA students, this usually involves difficulties in working relationships and interpersonal situations. We believe our behavior is having the desired effect on others, but it's not--and we don't even realize it.
+
+But these mistakes accumulate, and their consequences heighten our awareness, and we find ourselves in Conscious Incompetence (quadrant #2): We know we're screwing up, and we may even know what we need to do differently, but we haven't yet figured out how to do it. Here's where we need to paddle like hell and catch that wave--and this is where we often fall short. We know we need to adopt some new behaviors to be more effective in these relationships and situations, but our heightened awareness becomes self-consciousness, and we find ourselves paralyzed by awkwardness or by a fear of inauthenticity.
+
+As for the awkwardness, one of the most common themes in my work with coaching clients and MBA students is increasing our comfort with discomfort. We need to expand our capacity to tolerate discomfort to ensure that when we experience it we can manage the resulting emotions and avoid any reflexive responses that might be counterproductive. One of the ways we can pursue this goal is by retraining our response to awkwardness and other forms of discomfort; rather than allowing ourselves to be governed by our aversion to these feelings, we can simply note them, reframe the situation as a learning opportunity, and continue experimenting with new behaviors even in the face of these feelings.
+
+As for the inauthenticity, Scott Bristol, a Lecturer at Stanford with whom I've worked closely over the years, offers this perspective: If we view authenticity as something to be discovered, as an innate state of being that precedes our consciousness, then we experience the feelings of awkwardness that inevitably accompany new behaviors as signs of inauthenticity. But if instead we view authenticity as something to be created, as a state of being that evolves over time through our conscious intervention, then we're free to be both awkward and authentic; the two aren't mutually exclusive.
+
+All of this is easy to write about and very difficult to put into practice--and yet persistent effort can change our relationship to these feelings and to any new behaviors we're attempting that give rise to them. The University of Washington psychologist John Gottman has discussed the concept of meta-emotion--the feelings and thoughts we have about our own emotions (and he notes that parents who have a less negative response to emotion appear to raise children who are better able to manage and express their own emotions.) My experience as a coach suggests that we can influence our meta-emotional state over time; by repeatedly exposing ourselves to emotions such as awkwardness and embarrassment, we feel less negatively about them, and we can change how we respond to them. We become more comfortable with discomfort.
+
+When this happens we're able to cross over into Conscious Competence (quadrant #3) and begin the process of refining any new behaviors and determining which ones we'll integrate into our permanent repertoire. We're acting intentionally with increasingly positive effect, and with continued practice these newly adopted behaviors become second nature, and we slip into Unconscious Competence (quadrant #4).
+
+Our trajectory from this point forward depends on our circumstances. Occasionally our expanded behavioral repertoire is sufficient to allow us to continue on, highly competent and blissfully unaware. We devote little active thought to our interactions in certain relationships and situations, and yet we continue to meet with success. But the dynamic nature of most interpersonal experiences means that we usually wind up back where we started, in quadrant #1, unconsciously incompetent and unaware that our current behavior isn't meeting our goals. And the cycle begins again.
+
+Photo by Tsuyoshi Uda.
+
+
+===== END ED BOT ESSAY 3827 =====
+===== BEGIN ED BOT ESSAY 3828 =====
+---
+title: Coaching Your Employees (HBR Webinar Video and Summary)
+url: https://edbatista.com/2014/04/coaching-your-employees-hbr-webinar-video-and-summary.html
+slug: coaching-your-employees-hbr-webinar-video-and-summary
+published: 2014-04-06T14:05:45
+updated: 2025-09-24T11:59:31
+source_body: wordpress-html
+---
+
+A few weeks ago I conducted a 1-hour webinar for HBR on Coaching Your Employees, and an archived video of my talk is now available. HBR has also produced a well-written 7-page summary of my comments [PDF, 480KB], and you can view my slides separately.
+
+Thanks again to Angelia Herrin for inviting me to participate, to Lisa McMullen for her tremendous help and support, and to all their colleagues at HBR and Citrix/GoToWebinar who made it happen.
+
+Two further notes of appreciation: First, my slides conclude with a section on Resources, linking to the authors I mentioned in my talk; if you're interested in the topics noted below, these works are a great place to start:
+
+- Post-heroic leadership: Power Up by David Bradford and Allan Cohen
+
+- Leadership roles: Scrum Master as Team Coach by Pierluigi Pugliese
+
+- Fixed and growth mindsets: Mindset by Carol Dweck
+
+- A coaching mindset: The Coaching Manager by James Hunt and Joseph Weintraub
+
+- Inquiry and coaching traps: Helping by Edgar Schein
+
+- More on inquiry: Humble Inquiry by Edgar Schein
+
+- The role of emotion: Descartes' Error by Antonio Damasio
+
+- Emotion in organizations: Building the Emotional Intelligence of Groups by Vanessa Druskatt and Steven Wolff
+
+I'd also like to thank Mary Ann Huckabay, Carole Robin, and my colleagues on the Stanford GSB coaching staff, with whom I've worked closely since 2007 in the school's Leadership Fellows program and the former Leadership Coaching course. All of these people have had an immense impact on my approach to coaching, and I'm deeply grateful for their influence.
+
+
+===== END ED BOT ESSAY 3828 =====
+===== BEGIN ED BOT ESSAY 3829 =====
+---
+title: Spiral Learning and Flow States
+url: https://edbatista.com/2015/03/spiral-learning-and-flow-states.html
+slug: spiral-learning-and-flow-states
+published: 2015-03-26T05:00:00
+updated: 2025-10-12T15:41:42
+source_body: wordpress-html
+---
+
+As learners we're sometimes disheartened by a perceived lack of progress, particularly when we're trying to master a complex and challenging discipline. At our worst, we can feel that haven't made any progress at all--that we've actually regressed and somehow returned to our starting point.
+
+The problem may simply be a matter of perspective. We're trained to envision progress on a two-dimensional graph that tracks a variable over time--and when things are going well the line moves steadily upward and to the right. But I've come to view learning as a spiral process. Our journey as learners takes us along a three-dimensional coil, and we travel both on a cyclical path that returns to its starting point and along a linear axis.
+
+This model reflects my own development as a coach and a teacher. When I launched my private practice in 2006 and when I joined Stanford's staff in 2007 I often felt like I was out of my comfort zone, running up against the limits of my abilities. In time those sensations passed, and I came to feel a sense of competence and even mastery.
+
+But those comforting feelings also passed, and once again I felt out of my depth, struggling, challenged. What happened? Why had I regressed? In truth I hadn't regressed, but I had returned to my starting point on the cyclical path. I had completed one loop around the coil, starting at a point where I was being pushed and stretched to my limits, proceeding through a zone where I felt more capable and comfortable, and then returning to that state of struggle and discomfort.
+
+If I were to map this path on a two-dimensional graph, it might look disheartening--but that perspective would leave out some critically important data--because the coil is three-dimensional, and as I traveled around the cyclical path, I was also traveling up along the coil's linear axis. So I wasn't actually at the same spot at all--I had moved up a level, working with my clients and students on more complex and difficult issues, stepping into situations where the stakes were higher, and where more would be asked of me as a coach and a teacher.
+
+This process continues today: I jump into something new, and I feel stretched and challenged; then I grow in response, and I feel a sense of capability and calm; and then I push myself again and feel stretched once more. And as I'm repeating this endless cycle, I'm steadily moving up or down the coil's linear axis, generally making forward progress as I push myself, and occasionally backsliding when I shrink from a challenge.
+
+An analogue to this process that can be represented in two dimensions is the idea of the "flow state," a concept explored in depth by psychologist Mihaly Csikszentmihalyi (pronounced Cheek-sent-me-high). [1] If we chart our mental state during activities that present us with a varying level of challenge relative to our skill, we find that when our skill is substantially higher than the challenge being posed, we become bored. And when the challenge is substantially higher than our skill, we become anxious. And when the two are relatively balanced, we find ourselves in a state of "flow," where we lose track of time and become fully absorbed in the activity:
+
+My cyclical journey along the spiral's coil is similar to the process of tacking my way through Csikszentmihalyi's flow model above. I start out anxious, as the challenge at hand is greater than my current skill level; my skills develop and I enter a state of balance; my skills continue to develop, and I'm increasingly comfortable, to the point of boredom; I seek out greater challenges, passing through a  state of balance once more before returning to anxiety. And the cycle begins again--a similar process to the Conscious Competence model, which I find a useful complement to the idea of "spiral learning." [2]
+
+At times the concept of flow (and the attendant anxiety and boredom) helps me better understand my own learning journey, but there are also many times when I don't experience the loss of self-consciousness or unawareness of the passage of time described in the flow literature. I'm simply moving ahead, consciously, one experience at a time. Here the concept of spiral learning reminds me that I'm making steady progress in my development through small, daily activities, even (and perhaps especially) when I sense a cyclical return to a state of unease and discomfort.
+
+Almost all of my clients and students experience some version of this as well. Having stepped into a demanding leadership role or having been accepted into Stanford's business school, they find themselves challenged and stretched on a regular basis, and slowly their feelings of discomfort and struggle recede as they become more familiar with the new world around them and the new challenges they face. But then, just when they feel settled and comfortable, those difficult feelings return, and it can be hard to avoid a sense of frustration or even hopelessness at having regressed.
+
+By acknowledging this cyclical process of 1) struggle, 2) growth, 3) competence, 4) bigger challenges, and 5) a renewed struggle on a higher plane, we may come to feel a greater sense of "comfort with discomfort" in pursuit of our own learning and development. [3]
+
+Footnotes
+
+[1] Flow: The Psychology of Optimal Experience (Mihaly Csikszentmihalyi, 2008)
+
+[2] Conscious Competence in Practice
+
+[3] Comfort with Discomfort
+
+For Further Reading
+
+3 Tips on Overcoming Learning Plateaus from David Foster Wallace (Walter Chen, 99u, 2013). Thanks to Nat Fassler.
+
+Photo by Jo Marshall.
+
+
+===== END ED BOT ESSAY 3829 =====

@@ -1,0 +1,140 @@
+===== BEGIN ED BOT ESSAY 3487 =====
+---
+title: David Bradford and Allan Cohen on Supportive Confrontation
+url: https://edbatista.com/2006/10/david_bradford__1.html
+slug: david_bradford__1
+published: 2006-10-16T23:16:24
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+A substantially revised version of this post is included in How to Deliver Critical Feedback, which also incorporates 15 years of my further work on communication and feedback.
+
+Something's wrong at work. Maybe your boss is a micro-manager, or your subordinate is screwing up assignments, or your officemate is just really annoying you. You should talk to them, but it's going to be a difficult conversation--and if you find the courage to do it, will it really make a difference?
+
+One of the most important skills that I've begun to develop is the art of discussing difficult issues in a direct way without being unduly confrontational or causing unnecessary defensiveness. (Note that I say "begun" because although I'd like to think I've made some progress over the years, I run into situations where I could have done better every week.)
+
+In David Bradford and Allen Cohen's Power Up: Transforming Organizations Through Shared Leadership, which is the textbook for David's class at Stanford on High Performance Leadership, they call this skill Supportive Confrontation and describe four basic approaches to difficult conversations:
+
+Approach 1: "This is the effect of your behavior on me"
+
+You describe to the other person the negative impact they're having on you. This can be harder than it sounds because a) we often imagine that the difficulties others cause us are apparent to them, so they must be doing it intentionally, and b) this puts us in a vulnerable position relative to the other person, which is often tough to do in the workplace. But I'd suggest that a) what we imagine to be true isn't necessarily so--it's surprising how often people don't realize that they're causing problems, and b) exposing our vulnerabilities, rather than trying to deny or hide them, can be an empowering experience--in most cases people react with concern, interest and a desire to help.
+
+That said, this is not about asking for sympathy; it's about stating the negative impact you're experiencing plainly and directly.  However, as Bradford and Allen write, "This approach works only if [your] reactions cause [the other person] to want to change. But something else is needed if [the other person] is defensive, and tells [you], 'That is your problem, not mine,' or even worse, labels [you] as weak or over-sensitive." So on to...
+
+Approach 2: "Your behavior is not meeting your apparent goals or intentions."
+
+Just as people are often unaware of how their behavior affects us, they can be equally unaware of how their behavior affects their ability to achieve their goals or how it deviates from their stated intentions. We observe others' self-defeating behaviors or inconsistencies and imagine that they're irrational or hypocritical, but the truth is they simply may not have the data that we have by virtue of our outside perspective.
+
+If someone's not going to be motivated to change because of their impact on you, perhaps they'll be motivated by their impact on themselves. The key here is linkage, a term that comes up frequently in Bradford and Cohen's work. They regularly emphasize the importance of leaders linking team members' personal goals to the goals of the larger group, and here they talk about linking your goal (i.e. getting the other person to change) to their goals, whatever they may be. But what if their goals are being met, despite (or even because of) their behavior?  How might you evoke a desire to change?  You can try...
+
+Approach 3: "Your behavior may meet your goals, but it is very costly to you."
+
+There's another type of blind spot--a person's inability to see what is being lost in their efforts to achieve their goals. Some people are so focused on reaching the finish line that they just can't see how many problems they're creating while running the race. Again, sharing data that you have from an outside perspective about the costs of their behavior can provide a powerful motive for change. 
+
+This can be a variation on Approach 1, in which you don't simply describe the negative impact of other person's behavior on you but show how it affects them as well. If in Approach 1 you'd say, "Your behavior is really bothering me," in Approach 3 you'd add, "...and as a result, I'm a lot less motivated to help you succeed."
+
+Approach 4: "In what ways am I part of the problem?"
+
+The first three approaches in Bradford and Cohen's framework are presented almost as sequential alternatives: If Approach 1 won't work, try Approach 2, and then move on to Approach 3. But I don't believe that Approach 4 should be regarded as the final step in this sequence, the last resort if all else fails. Rather, it's a tool that can be used to complement all the other approaches at any stage of the process. And given that most of our working relationships are systems in which our reactions to the other person's behavior affect and modify that behavior in turn, it's likely that we are part of the problem at some level.
+
+We shouldn't use this approach as a political ploy.  If you're completely confident that you're not part of the problem, don't ask this question just to seem nicer or more sympathetic; there are more effective and authentic ways to accomplish those goals (and if you're not making a genuine inquiry, the other person will see through it.) But I've come to realize that when I'm having a problem with another person, it's pretty rare that they're the exclusive source of the trouble.
+
+In closing, throughout Bradford and Cohen's approaches to difficult conversations note the emphasis on behavior. It's essential to avoid guessing about another person's motives, because we can't know what they're thinking. Almost everyone believes they're acting rationally, and most of the time they are acting rationally based on the data they possess. (As the great French director Jean Renoir said, "The real hell of life is that everyone has his reasons.")
+
+And although I've found Bradford and Cohen's work very helpful as a conceptual framework, we can't develop these skills by reading about them. We have to learn through experience, and one of the best places I've found to do that are the T-groups that are the basis for Stanford's Interpersonal Dynamics class, known to students as "Touchy Feely." But you don't have to attend the GSB to participate in a T-group--there are a host of programs around the world.
+
+Revised March 2021.
+
+
+===== END ED BOT ESSAY 3487 =====
+===== BEGIN ED BOT ESSAY 3488 =====
+---
+title: Point Bonita Lighthouse
+url: https://edbatista.com/2006/10/point_bonita_li.html
+slug: point_bonita_li
+published: 2006-10-15T16:39:00
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+We visited the Point Bonita Lighthouse in the Marin Headlands today. It's always beautiful, but Saturday, Sunday and Monday from 12:30 to 3:30pm you can actually walk out to the lighthouse itself. Incredible views, even on an gloomy overcast day like today. There are a few more shots in my San Francisco album, and here's some audio of the Bonita Cove Surf (MP3, 35 seconds).
+
+
+===== END ED BOT ESSAY 3488 =====
+===== BEGIN ED BOT ESSAY 3489 =====
+---
+title: Agreement vs. Alignment
+url: https://edbatista.com/2006/10/agreement_vs_al.html
+slug: agreement_vs_al
+published: 2006-10-14T23:51:36
+updated: 2025-10-22T21:34:38
+source_body: wordpress-html
+---
+
+In a recent conversation with Clinton Moloney of the Trium Group, he highlighted the distinction between agreement and alignment whenever a decision must be made in a working group or professional relationship:
+
+Agreement means that all parties get their first choice, which is usually difficult and time-consuming to obtain.
+
+Alignment means that all parties can fully support the choice that is ultimately made, a condition that can be much easier to obtain (under the right circumstances.)
+
+If we consider the importance and risk of a given decision to ourselves relative to the importance and risk of the same decision to others, the result is a frontier that separates the less-important, lower-risk decisions that merely require alignment from the more-important, higher-risk decisions that require agreement.
+
+A dilemma is that some very important, high-risk decisions must be made under stressful conditions with imperfect information and limited time. These are the circumstances that can lead to excessive conflict as participants struggle to reach agreement, the abandonment of agreed-upon processes and a overreliance on directive authority, or a failure to make any decision at all.
+
+The solution for groups and colleagues who want to make more important decisions more effectively (and with less effort and strife) is to extend the frontier. This involves increasing trust among all parties and insuring that individuals feel that their personal goals and the goals of others' are mutually dependent.
+
+The process of creating a shared sense of commitment in a group or relationship is highly complex, of course, but it starts with building trust--and it's essential to note that trust isn't a binary quality that we possess or lack. As described by Trium's Clinton Moloney in the conversation I note above, trust is motive + reliability + competence. Or as noted by Charles Green in a follow-up comment to that post, trust is (credibility + reliability + intimacy), divided by self-orientation. Even more simply, we may distinguish between trust in intentions and trust in judgment.
+
+The key is recognizing that our trust in others (and their trust in us) is constructed from a number of different components, and when we sense trust is lacking, we need to be as specific as possible in identifying the cause of the deficit so that we can address it effectively.
+
+It's also important to note that trust grows from a range of sources, and this can vary widely by culture. For example, Erin Meyer, an American teaching at INSEAD, notes that in some cultures trust is generally built through successful task accomplishment in business-related activities, while in other cultures personal relationships and shared experiences play a more significant role. The United States is the most task-oriented country in Meyer's framework, and in my experience this means that Americans often miss opportunities to build trust by connecting interpersonally, even if just in a few moments of small talk at the beginning of a meeting.
+
+The more trust that exists among the parties participating in the process, the further the frontier can be extended, so that alignment is sufficient to address increasingly important and high-risk decisions.
+
+ 
+
+For Further Reading
+
+Clinton Moloney on Trust
+
+Comment: Charles Green on Trust
+
+Two Sides of Trust
+
+Trust Is an Emotion
+
+Safety, Trust, Intimacy
+
+Huddle Up! (Building Group Cohesion)
+
+Leadership, Decision-Making and Emotion Management
+
+Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven Wolff, Harvard Business Review, 2001)
+
+
+===== END ED BOT ESSAY 3489 =====
+===== BEGIN ED BOT ESSAY 3490 =====
+---
+title: Clinton Moloney On Trust
+url: https://edbatista.com/2006/10/clinton_moloney.html
+slug: clinton_moloney
+published: 2006-10-12T22:19:00
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+I had an interesting conversation with Clinton Moloney of the Trium Group yesterday, discussing their relatively unusual blend of consulting services that span strategy, leadership development, and organizational culture. Something that stood out was Clinton's definition of trust:
+
+Trust = Motive + Reliability + Competence
+
+In other words, before we can trust someone, we must be assured of their motive, their reliability and their competence. (Clinton vividly illustrated this concept by considering whether he would trust his mother to do his taxes. He felt quite confident about her good intentions and her dependability, but the fact that she knows nothing about accounting was an insurmountable barrier to trust in this instance.)
+
+The crucial dilemma is that we often have very good data about others' reliability and competence, but we lack data about their motive, which is the most important component of trust. Even if we lack direct experience with people, there are any number of signals regarding their reliability and competence, from resumes to performance reports. But the only way to understand another person's motive is to have a direct and candid conversation with them, and this requires superior communication skills, a keen sense of interpersonal awareness, and a willingness to take risks--all rare qualities. And in the absence of knowledge about others' motives, we often fail to establish trust when it's needed most.
+
+A relevant example: A friend recently described to me how a colleague continued to undermine him by sharing information indiscreetly. My friend previously felt that his colleague simply lacked good judgment, but now he wondered whether these indiscretions could be intentional. If my friend's colleague is lacking in judgment, that's an issue of competence that could be addressed through coaching. At the very worst, my friend would simply know not to share confidential information with his colleague. But if my friend's colleague is actually trying to undermine him, no amount of coaching will change his motive, and the relationship will be damaged beyond repair. How can my friend determine whether his colleague is trustworthy? The only course is to have a direct conversation, raise the sensitive issue of trust, and gauge the honesty of the responses.
+
+This highlights for me the vital importance of developing the communication skills, interpersonal awareness and courage required to have such a conversation. By developing these qualities within ourselves, we dramatically expand our ability to establish trust--and to understand where mistrust is warranted.
+
+
+===== END ED BOT ESSAY 3490 =====

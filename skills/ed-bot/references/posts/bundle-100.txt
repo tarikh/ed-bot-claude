@@ -1,0 +1,166 @@
+===== BEGIN ED BOT ESSAY 3495 =====
+---
+title: Jeff Jarvis: Agent of Coalescence
+url: https://edbatista.com/2007/04/jeff_jarvis.html
+slug: jeff_jarvis
+published: 2007-04-04T13:26:49
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+Companies and organizations that continue to resist blogging often do so because they view bloggers as isolated individuals with hidden agendas and axes to grind.
+
+Dell initially made that mistake with Jeff Jarvis, but as Jeff noted yesterday, they're taking a different approach now:
+
+...I had a rather infamous run-in with Dell
+
+here at Buzzmachine when I complained about a bad machine and service.
+
+They ignored me, but thousands of similarly frustrated customers did
+
+not. Dell’s attitude toward blogs at the time was “look, don’t touch.”... But things began to turn around when
+
+Dell opened a company blog, which was off to a puffy start until
+
+Lionel [Menchaca], the chief blogger, entered, speaking with customers in an
+
+honest, direct, humble, and human voice. Next they put together a team to reach out to bloggers who had problems...
+
+It is clear, through [Lionel and his colleagues], that at least at some levels, Dell has
+
+changed its culture and certainly its attitude toward bloggers. They
+
+now see value in reaching out. As they’ve said before,
+
+bloggers tend to state their problems clearly, which makes it easier
+
+(and, I assume, more efficient) to solve them. A problem solved is not
+
+only a customer likely to be saved, but also often leads to good PR and
+
+branding as the bloggers recount their happy endings. And the Dell guys
+
+say they get information and data from this; they hear about problems
+
+that may arise before others in the company do, because their customers
+
+are talking about it...
+
+Lionel, who came from years of customer service and PR at the
+
+company, said the team working on the blog and with bloggers loves it.
+
+Aren’t there a few people out there who just can’t be satisfied, no
+
+matter what you do? Lost causes? Bozos? They agreed that there are a
+
+few and the outreach people don’t always say yes to their demands. But
+
+my drinking companions agreed that in an open forum, other folks tend
+
+to know who the bozos are. And the bozos tend to stand alone.
+
+That, you see, was the real moral to my story. Whether or not I was
+
+a bozo, I did not stand alone. My story wasn’t about me but the people
+
+around me, the ones who said, “me, too.” I was merely the agent of
+
+coalescence. That’s what you have to watch for on the internet. That’s
+
+what the internet enables. [emphasis mine]
+
+The "agent of coalescence"--I love that phrase. It may have been easier for Jeff to step into that role because he's a big-name blogger with a sizeable readership, and because he tapped into frustrations shared by thousands of Dell customers, but any one of us can do the same, albeit on a smaller scale.
+
+We blog because we care, passionately, about something. And thanks to the live web, others who share that passion will find us. If we're not bozos, they'll join us--they'll say "me, too," in any number of ways. This is how movements and constituencies and networks of all sorts are built today--they form around agents of coalescence.
+
+Which leads me to two questions: If you're blogging, how might you serve more effectively as an agent of coalescence on behalf of a cause you're passionate about? And if you're a company or organization, how might you identify and engage those agents of coalescence who are passionate about what you do?
+
+Photo of Jeff Jarvis by Doc Searls. Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3495 =====
+===== BEGIN ED BOT ESSAY 3496 =====
+---
+title: The Five Laws of Library Science
+url: https://edbatista.com/2007/03/five_laws.html
+slug: five_laws
+published: 2007-03-29T04:03:00
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+Could you condense your organization's entire purpose into five basic statements? Could you do it in 26 words? And could you insure that those 26 words would last for nearly a century and show no signs of age? S.R. Ranganathan could.
+
+Ranganathan was a preeminent Indian mathematician and librarian who died in 1972 at the age of 80. In 1924 he was appointed the first university librarian of the University of Madras, a position he held for the next 20 years, during which time he supposedly never took a vacation. Among Ranganathan's many contributions to the field, his Five Laws of Library Science, written in 1931, stand out for their brilliance and their brevity:
+
+- Books are for use.
+
+- Every person, his or her book.
+
+- Every book, its reader.
+
+- Save the time of the reader.
+
+- The library is a growing organism.
+
+I love so many things about these 26 words, starting with the ethic of service that runs through them, and ending with the metaphor of organization as organism. While we may lack Ranganathan's singular vision, we can still seek to apply his insights. If you were to distill your own organization's purpose down to its essence, what would be the result?
+
+ 
+
+Source: Whole Library Handbook 3, page 62 (George Eberhart, 2000)
+
+Photo by George Hodan.
+
+
+===== END ED BOT ESSAY 3496 =====
+===== BEGIN ED BOT ESSAY 3497 =====
+---
+title: Headaches, Opportunities, Dreams
+url: https://edbatista.com/2007/03/headaches.html
+slug: headaches
+published: 2007-03-28T00:05:00
+updated: 2025-10-31T14:09:50
+source_body: wordpress-html
+---
+
+Headaches are problems that cause pain. The motivation to to resolve them or work around them is to alleviate the pain. We have to find what's broken and fix it.
+
+Opportunities are paths that lie before us. The motivation to prioritize and choose from among them is to fulfill their potential and our own. We have to find what's working and make it better.
+
+Dreams are non-existent possibilities that lie beyond our current reality. The motivation to summon them into existence is to overcome our current limitations and create a better world. We have to forget what we believe to be true and see what happens.
+
+Many--and perhaps most--of our challenges fall into one of these categories, and the key is understanding the task we're facing: Am I curing a headache? Am I pursuing an opportunity? Am I dreaming a dream?
+
+Photos by Brandon Grasley, Valeria Everett and Daniel Lobo.
+
+
+===== END ED BOT ESSAY 3497 =====
+===== BEGIN ED BOT ESSAY 3498 =====
+---
+title: Notice Everything
+url: https://edbatista.com/2007/03/notice.html
+slug: notice
+published: 2007-03-25T14:19:16
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+In a recent post cultural anthropologist Grant McCracken emphasizes the importance of noticing:
+
+Notice everything and pay attention to things that puzzle. Pay attention to things that demand your attention and then refuse your understanding. Pay attention to the failure of attention.
+
+He's writing as an ethnographic researcher, but it's a message that resonates deeply with me as an executive coach.
+
+Everything I do professionally starts with noticing, and that's why I try to notice as much as possible about the people around me. Even--especially--when I don't understand what's happening or why, I need to note that something is happening. In the coaching process, the act of noticing what's happening in the moment is more important than the act of interpreting what happened afterwards.
+
+My interpretations are filtered through my meanings and subject to my biases; they're inherently limited. My observations are constrained by my cognitive abilities, but if I can notice something and communicate it effectively to a client or colleague, we can work to interpret it together, broadening the frame of reference and diminishing the risk of misunderstanding.
+
+It's easy for coaches and consultants to fall into the trap of imagining that we're valued most as interpreters. It makes us seem more important, and it relieves our clients of a burden they're often glad to relinquish. I'd like to believe that I do add value as an interpreter, helping others understand by making meaning, but that role is secondary to my role as observer, as noticer, helping others see what they may have missed.
+
+ 
+
+Photo by Jimmie Quick.
+
+
+===== END ED BOT ESSAY 3498 =====

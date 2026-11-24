@@ -1,0 +1,284 @@
+===== BEGIN ED BOT ESSAY 3938 =====
+---
+title: Leadership, Decision-Making and Emotion Management
+url: https://edbatista.com/2017/02/leadership-decision-making-and-emotion-management.html
+slug: leadership-decision-making-and-emotion-management
+published: 2017-02-13T05:00:00
+updated: 2025-10-08T12:32:17
+source_body: wordpress-html
+---
+
+Jurgen Appelo is an innovative management thinker whose work I admire, and his "7 Levels of Delegation" is a framework that I often recommend to clients to help them determine how to allocate authority and decision-making power between themselves and their team. [1,2] As useful as this conceptual model can be, its effective implementation by a leader also requires skillful emotion management at multiple levels: internally, interpersonally, and across the organization as a whole.
+
+Self-management and the leader’s desire for control
+
+We typically prefer certainty—the more we know about the outcome of a situation in advance, the better we feel—and a consequence of this for leaders is that they can be reluctant to cede decision-making authority. Leaders may also believe that the perspective from their vantage point (or the expertise that helped them get there) allows them to make better decisions than others--and at times this is actually true, although certainly not always. And leaders tend to have a high need for power; this does not mean that they need to display (much less abuse) that power, but they care more about having impact and less about being liked than the typical person. [3]
+
+As a result, leaders often feel some discomfort or resistance when they initially consider alternatives to centralized decision-making. It’s simpler and more comforting to make the decisions themselves and instruct others to carry them out. This arrangement may work well at a small scale or in a venture’s early stages, but it breaks down once the organization begins to grow. The leader may still be the expert, but now they’re also the bottleneck. Or they’re no longer the expert, because they’re at a greater distance from the work, and their need for power is resulting in sub-optimal decisions. Or the leader’s desire for control is clashing with others’ desire for control, and employees feel disempowered and demotivated.
+
+In order to make use of the model above and accurately determine how decisions should be made, the leader has to understand and address any discomfort or resistance that’s getting in the way. [4] This requires self-awareness and the ability to sense and comprehend these emotions in the first place, a capacity that some leaders possess naturally but one that anyone can cultivate. Time for reflection, consistent rest, regular exercise, and a commitment to a mindfulness practice can all help. [5,6,7,8] The key is slowing down sufficiently to question the reflexive response to a decision-making situation; this is particularly important when a leader feels a sense of urgency about a situation that might cloud their judgment and cause them to act impulsively. [9]
+
+It’s also important for a leader to commit to a process and stick with it, particularly when the outcome isn’t what they’d hoped—which can require a significant degree of self-regulation. If a leader originally opts to suggest a solution and let others decide (Advise) but then inserts themselves into the discussion to advocate for their preference (Agree), or begins to claw back decision-making authority (Consult), they’ll lose trust and demotivate their team.
+
+Managing others and the leader’s ability to influence
+
+As the model above makes clear, relinquishing decision-making authority doesn’t mean just delegating decisions to others and stepping away from the process. In many circumstances leaders will need to actively influence the members of their team by convincing them, soliciting their candid opinion, or engaging them in meaningful discussion. And a risk that leaders face in these situations is that their interpersonal behavior or positional power will inhibit others and prevent them from being open and direct if they disagree with the leader. [10] The results can be even worse than sub-optimal decisions made independently by the leader; people don’t like following orders they disagree with, but they hate participating in a phony consensus-building process to rubber-stamp the leader’s original preference.
+
+The key here for the leader is developing the ability to truly influence others, rather than merely extracting compliance. This entails a willingness to regulate their interpersonal behavior and avoid excessive reliance on authority or positional power. I’m not suggesting that leaders take a passive approach and simply hope a decision goes their way when they’ve chosen to cede some authority and involve others in the process. The best leaders are thoughtful students and practitioners of social psychology, employing such tools as Robert Cialdini’s principles of persuasion or Howard Gardner’s levers of influence to affect the outcome. [11,12]
+
+But effective use of these tools requires sensitivity to others’ emotions, particularly discomfort or resistance. Some leaders already possess a keen sense of what neuroscientist Richard Davidson calls “social intuition,” the ability to accurately detect others’ emotions through non-verbal behavior and other cues, but Davidson’s research makes clear that this skill can be cultivated and developed. Davidson focuses on the benefits of meditation, and in my experience as a coach the other practices I recommend above for self-management—regular reflection, rest, and exercise—also contribute to a leader’s ability to empathize with others and attune to their emotions. The key here is developing the capacity to discern when to push forward and advocate, and when to step back and make space—something very difficult to do when under stress.
+
+Managing a culture and the leader’s influence at a distance
+
+Organizational culture can be a nebulous concept, but one simple way to define it is "how people act when the leader is not in the room." [13] An organization’s culture has a significant impact not only on the effectiveness of a decision-making process, but also on how satisfied people feel with the outcome. Specifically, the culture’s behavioral norms determine the extent to which people are able to appropriately express and regulate emotions triggered by a decision-making process and its results. [14] As noted above, decision-making situations often evoke strong emotions related to our preference for certainty and our desire for control and autonomy, and this is as true for everyone else in an organization as it is for the leader.
+
+One of the primary purposes of the model under consideration here is freeing up a leader’s capacity by removing them from decision-making situations that don’t require their direct authority or would yield a better result without their involvement. This requires a leader to step away, figuratively and sometimes literally, and the absence of a leadership figure typically lowers the emotion regulation among the remaining participants. They will speak more freely, be less guarded, and express themselves more fully to make proposals or voice opposition. This shift is often helpful in a decision-making situation, and yet it can be counter-productive as well. A more candid discussion can turn into a fight; a broader consideration of available options can turn into paralysis. What’s needed is a set of norms governing behavior that help people achieve the level of emotional expression and regulation that’s optimal for decision-making in the absence of the leader.
+
+Such norms are rarely explicit, in the form of clearly articulated and consciously understood guidelines for productive behavior. They’re usually implicit—a set of shared practices embedded in the surrounding culture that people sense and adopt without necessarily knowing that they’ve done so. And it’s at the level of organizational culture that leaders can create the conditions for more effective decision-making in their absence. Leaders aren’t solely responsible for a culture, nor do they establish norms single-handedly, but they have far more influence than any other individuals. The key steps here for a leader are: being intentional and deliberate about establishing and maintaining a culture that supports productive behavior; personally modelling that behavior with rigor and diligence; creating opportunities to make norms explicit by discussing them (and revising them when needed); and hiring (and firing) with an awareness of the importance of cultural fit. [15,16]
+
+Footnotes
+
+[1] Jurgen Appelo, entrepreneur, speaker, writer.
+
+[2] The 7 Levels of Delegation: Empowerment with Boundaries and Clarity (Jurgen Appelo, Medium, 2015)
+
+[3] McClelland and Burnham on Power and Management
+
+[4] Comfort with Discomfort
+
+[5] How to Think (More on Deep Work and Open Space)
+
+[6] A compilation of readings on sleep.
+
+[7] Get Moving! (Exercise for Busy People)
+
+[8] Don't Just Do Something, Stand There! (Mindfulness for Busy People)
+
+[9] The Importance of Slowing Down
+
+[10] The Blue Problem (Communication and Power)
+
+[11] Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+[12] Howard Gardner on Influence
+
+[13] What Is Organizational Culture? And Why Should We Care? (Michael Watkins, Harvard Business Review, 2013)
+
+[14] Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Stephen B. Wolff, Harvard Business Review, 2001)
+
+[15] Joel Peterson on Organizational Culture
+
+[16] The Accumulation of Cultural Debt
+
+Thanks to Jurgen Appelo.
+
+
+===== END ED BOT ESSAY 3938 =====
+===== BEGIN ED BOT ESSAY 3939 =====
+---
+title: Motorcycles and Border Crossings
+url: https://edbatista.com/2017/02/motorcycles-and-border-crossings.html
+slug: motorcycles-and-border-crossings
+published: 2017-02-06T05:00:00
+updated: 2025-10-09T19:46:32
+source_body: wordpress-html
+---
+
+In 1994 I was hit by an inattentive driver while riding a motorcycle. I catapulted over the handlebars, and my backside caved in their windshield, but somehow I walked away with only a broken arm. That night I channeled my relief and frustration into planning a long-distance road trip, heading up the Pacific Coast to Vancouver, east across the Canadian Rockies, and back down into the U.S. before returning home to San Francisco. My good friend Doug Edwards and I took that very trip the following summer.
+
+At the time I knew a group of much more experienced bikers who were generous with their help and advice. As Doug and I prepared to embark on our trip, some of these riders warned me about the border crossing on our return to the States. U.S. border guards don’t like motorcyclists, they told me, so prepare to be hassled. I’d never had any problems with law enforcement, and I wondered if the bikers had somehow brought these troubles on themselves.
+
+The trip with Doug rolled out just as we’d planned—it couldn’t have been any more rewarding. Long days of spectacular scenery, just enough mechanical trouble to make it interesting, and a few not-entirely-sober evenings. And as we approached the isolated U.S. border crossing near the tiny town of Carway, Alberta, I recalled the advice I’d been given.
+
+It was a beautiful, lonely place--very similar to the scene above (a photo I took in South Dakota on a subsequent trip in 1997.) There were no other travelers at the border, and Doug and I were the sole focus of the guards’ attention. Events unfolded as the bikers had predicted. The atmosphere was tense and hostile. We were directed to stand behind a line a full arm’s length from a countertop, and to slowly empty every one of our pockets onto the counter while guards observed us from the perimeter of the room. Riding gear has lots of pockets, so this was a lengthy, awkward process.
+
+In the meantime, our bikes were being searched. This turned up a small metal canister of mine which a guard brought triumphantly into the building, presumably anticipating some sort of contraband. But it turned out to contain nothing more than a few lucky totems, bits of metal and glass, and the guard's disappointment was palpable. The search was almost complete, but one of the zippers on Doug's leather jacket was stuck and wouldn’t open. The tension mounted as he tugged away at it, the room silent, the guards edgy. I was starting to wonder if they were going to cut open his jacket, when finally the zipper gave way, revealing…nothing. The pocket was empty.
+
+The search complete, suddenly the mood shifted. The guards were now all smiles, making friendly small talk, and welcoming us back to the U.S. In an instant Doug and I had gone from suspects to citizens. They sent us on our way, but we needed to recuperate before getting back on the bikes, so we stopped at a small rest area just beyond the crossing and talked about what had happened.
+
+It had been a very educational experience, and the lessons are still with me more than two decades later. I learned what it’s like to be viewed with hostility and suspicion when I’ve done nothing wrong. I learned how it feels to be powerless, at the mercy of distrustful authorities, and how easily such figures can exert their power if they so choose. And I learned how provisional my identity can be and how much I take it for granted.
+
+In the end, nothing bad happened—we were inconvenienced, that's all. The guards did nothing untoward or excessive--they were unfriendly, but professional. And yet the experience made clear to me how easily bad things could happen in any setting where the powerful meet the powerless. These are the circumstances under which people aren't merely inconvenienced by authority but harassed, threatened, even harmed. And it's equally clear to me how little of this I personally undergo or even witness, because of the many privileges I enjoy. For a brief moment, I got a sense of what it's like to lack them.
+
+
+===== END ED BOT ESSAY 3939 =====
+===== BEGIN ED BOT ESSAY 3940 =====
+---
+title: Huddle Up! (Building Group Cohesion)
+url: https://edbatista.com/2017/01/huddle-up-building-group-cohesion.html
+slug: huddle-up-building-group-cohesion
+published: 2017-01-30T05:00:00
+updated: 2025-10-10T15:59:27
+source_body: wordpress-html
+---
+
+I’ve spent countless hours working with small groups that aspire to become high-performing teams, in settings ranging from companies where I advised the CEO and their executives in their efforts to build a more effective organizational culture, to the Leadership Fellows program at the Stanford Graduate School of Business, which I helped launch in 2007 and supported for a decade. Here are some principles I've derived from that work to help teams foster excellence while also creating a sense of meaning and belonging:
+
+1. Initial Conditions
+
+We often think about how to make a good first impression in the context of a meaningful one-on-one relationship. [1] The less we know about the other person (and the less they know about us), the more important it is that the relationship gets off to a good start. In part this is because information vacuums make us anxious, so when we encounter one we immediately begin creating a narrative to explain the other person and make sense of their behavior. But this process is riddled with cognitive errors, most notably our tendency to trust our initial interpretation and our difficulty in imagining alternatives once we’ve settled on a story. [2]
+
+But we may fail to bear this process in mind when convening a new group, particularly when some of the participants already know each other, and yet in group settings it’s even more significant. For those who lack pre-existing relationships, the knowledge that other group members know each other may be a source of relief—and it may be a source of heightened anxiety. And even when everyone knows each other, coming together as a group for the first time is a new experience for all of the relationships in the room, and the very newness of the group itself will influence the behavior of the individuals comprising it.
+
+As a consequence it is critical to pay attention to the initial conditions that give rise to a new group, from the very first conversations about the idea to that moment when everyone finally comes together. (And note that when one or more new members join a small group, in some ways it's an entirely new group.)
+
+- To what extent do people already know each other? Are there any outliers who are significantly less connected to the rest of the group?
+
+- To what extent do people feel a sense of agency and control, and to what extent is their participation the fulfillment of an obligation?
+
+- How might the initial conditions help to strengthen feelings of connection and control? How might these conditions diminish such feelings?
+
+2. Safety, Trust, Intimacy
+
+I view safety, trust, and intimacy as the essential foundations for successful group development. [3] Safety is a sense of confidence that we won’t get hurt or taken advantage of. Trust is a belief in the validity of others’ statements and actions; people mean what they say and say what they mean. And intimacy is the ability to make the private public; I can share what I’m thinking with you, and we can invite the rest of the group to observe or join in this conversation. When safety, trust and intimacy have been established people are then willing to experiment, take risks and make themselves vulnerable.
+
+None of these steps need be grand or dramatic gestures—they’re often quite subtle. Experimentation involves an understanding of our habitual response to a given situation and the capacity to test alternatives. Risk-taking entails taking a step outside our comfort zones (which tend to expand when we do so.) And vulnerability can take many different forms; in some settings it’s vulnerable for someone to say, “I don’t know, what do you think?” When people are repeatedly engaging in these behaviors, the outcomes are greater learning, self-awareness, and behavioral change.
+
+This can trigger a series of productive dynamics: Learning, awareness and change become self-reinforcing norms as people share their results more openly. We become more willing to experiment, take risks, and express more vulnerability. We value the importance of safety, trust and intimacy and act to enhance these qualities in the group. And we identify and seek to replicate initial conditions that support the development of these qualities in the future.
+
+- How will the group's initial conditions support or inhibit the establishment of safety, trust and intimacy?
+
+- At each step of the group's subsequent development, are we increasing or decreasing the levels of these qualities?
+
+- What behaviors in the group dynamic support the development of these qualities?  And what behaviors inhibit these qualities?
+
+3. Boundaries
+
+Groups are defined by a number of boundaries, which can be tight or loose or anywhere in between. [4,5] For example, membership can be confined to a specific set of individuals, or people can float in or out. Meetings can be held at a specific date and time, or they can shift on the calendar. Meetings can start and end on time, or they can start late and run long. Attendance can be mandatory, or it can be optional.
+
+At the beginning of a new group, we tend to want looser boundaries, because we prefer freedom and choice. But if the boundaries are too loose, then the group may never develop a meaningful identity and sense of commitment, and it will fail to take off. And if the boundaries are too tight, people may resist the pressure and push back, slowing or stalling the group’s development. So we have to take care to determine how tight to make the boundaries without creating too much resistance.
+
+A version of this that comes up frequently in my practice is the composition of a company’s exec team, the senior leaders who meet regularly as a group with the CEO. If the group is too small, important perspectives will be left out, and if it’s too large, meetings will be chaotic and unproductive. One response is to loosen the boundaries by designating some meetings open to more junior execs, or by designating those execs informal members of the team, and yet these partial solutions create new problems in turn.
+
+There’s no single optimal set of boundaries, but groups that fail to address the topic early on will find themselves stuck with the ones that emerge haphazardly from the initial stages of their formation, which may not truly meet their needs. The challenge is that unless we pay close attention to the group’s development, we may not even be aware of the boundaries that are being set until they pose a problem, at which point they can be difficult to change.
+
+- What boundaries will best serve this group’s needs? What processes will we use to establish them?
+
+- What boundaries need to be established early on (or even immediately)? Which ones can (or perhaps should) be decided later?
+
+- How will the group know if the boundaries are supporting its goals? What processes exist to revise them when necessary?
+
+4. Norms and Emotion
+
+Every group has a set of norms--the unwritten rules that let us know what behaviors are acceptable in that particular setting. We rarely discuss these rules explicitly, but we can still sense them quite acutely and are keenly aware of any transgressions. Groups develop norms covering all aspects of our behavior, but norms regarding the regulation and expression of emotion are particularly important. [6] These norms are so significant because of the essential role that emotions play in communication and the tremendous potential they have to impact a group, both for better and for worse.
+
+Emotions are attention magnets—they tell us that something significant is occurring in our environment or our inner life, automatically orienting us in that direction and drawing us in, and when we’re in the midst of an emotional experience it can be extremely difficult to focus on anything else. [7] In many group settings the norms regarding emotion are intended to work against these dynamics, treating all feelings as unhelpful distractions and seeking to minimize their outward expression.
+
+There is utility in this approach—the mere experience of being in a group is often sufficient to generate an emotional response, and the ability to regulate our emotions allows us to co-exist and work together with a minimum of counterproductive conflict. Groups need norms that help us accomplish this task.
+
+The problem with this one-sided approach is that it fails to acknowledge the necessary and useful roles that emotions can play in a group experience. Emotions are critical inputs in our decision-making processes, build stronger interpersonal connections, forge a sense of group identity, and motivate us to care about the needs of the group in addition to our personal goals. And both positive and negative emotions are equally important. Groups whose norms only allow for the expression of positive emotions ultimately become stifling, unfulfilling environments.
+
+- What norms regarding the regulation and expression of emotions are the individual members bringing to this group?
+
+- How are those norms serving the group’s needs at present? How are they getting in the way?
+
+- What processes exist to explicitly identify these norms and make necessary changes?
+
+Here's a Group Norms Worksheet adapted from the work of Vanessa Urch Druskat and Steven B. Wolff, cited below, that can be useful in this process.
+
+Footnotes
+
+[1] First Impressions
+
+[2] Seeing What's Not There (The Importance of Missing Data)
+
+[3] Safety, Trust, Intimacy
+
+[4] One Stone at a Time (Building Boundaries)
+
+[5] Happy Workaholics Need Boundaries, Not Balance
+
+[6] Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven B. Wolff, Harvard Business Review, 2001)
+
+[7] Attention Surplus Disorder (Anxiety and Distraction)
+
+For Further Reading
+
+Symptoms of Group Strength
+
+Agile Coaching and Group Dynamics
+
+Team Effectiveness
+
+Photo by Greg Walters.
+
+
+===== END ED BOT ESSAY 3940 =====
+===== BEGIN ED BOT ESSAY 3941 =====
+---
+title: Learning to Yield (Navigating Tough Conversations)
+url: https://edbatista.com/2017/01/learning-to-yield-navigating-tough-conversations.html
+slug: learning-to-yield-navigating-tough-conversations
+published: 2017-01-23T05:00:00
+updated: 2025-10-10T16:00:38
+source_body: wordpress-html
+---
+
+One of my clients is a co-CEO, and in a coaching session I remarked upon the strength of that partnership and how effectively the two of them collaborated in what is often seen as an unworkable arrangement. "We learned to yield," she said, and I was struck by what a valuable interpersonal skill that is--and how little training we get in it.
+
+We associate the term "yield" with driving, of course. When we yield on the road we slow down to assess the situation and determine who should have the right of way. We don't automatically come to a full stop, nor do we hit the gas. We might decide that another driver should proceed ahead of us, or we might decide that we should go first. The ability to yield allows for more efficient movement while also insuring safety.
+
+So what does it mean to yield in our relationships? My client was careful to distinguish "yielding" from "capitulating," and I want to emphasize that distinction: I'm not talking about simply letting others get their way, or avoiding conflicts, or being nice. Instead, I see yielding as finding the right balance between deference and assertiveness, between inquiry and advocacy. So what does this look like in practice?
+
+See the Signs
+
+When we’re surprised by an impending collision, it’s difficult to yield gracefully--we either hit the gas aggressively to escape the threat, or we panic and jam on the brakes. This is often the result of a failure to be sufficiently attentive. Yield signs are posted at dangerous intersections to catch our attention and change our behavior. They aren’t as obvious interpersonally, but we can learn to recognize the situations, topics, and relationships that are hard to navigate safely and that require a more mindful approach.
+
+For example, many of my clients have a talented but challenging employee--typically someone who’s highly intelligent with deep expertise in their field, but poor interpersonal and leadership skills. My client can't afford to fire this person at the moment (although they might if they could), and every conversation with them is an accident waiting to happen, particularly when there's a need to discuss their counterproductive behavior. It's essential to go into these conversations feeling well-rested and without being rushed--it may also be useful to choose the setting to either heighten the leader's authority or, alternatively, to create a greater sense of connection. [1] In some cases it's advisable to go for a walk--this allows for privacy and physical proximity, which can enhance feelings of closeness, while lowering the amount of eye contact, which can trigger an emotional response.
+
+In the personal domain I’ve talked with many coaching clients and MBA students about the challenges posed by conversations with their spouses or significant others at the very end of the day. [2] This is fine for everyday topics, but it’s often problematic when there’s a need to discuss a sensitive subject likely to trigger strong feelings. Both parties are tired from a long workday, and they may have had a few drinks over dinner, so their capacity for emotion regulation is at its lowest. There may be no alternative time available to talk, particularly if they’re parents of young children, but even then it’s possible to be more mindful of the risks and to proceed with caution. (Which may mean avoiding drinking—it doesn’t mix with difficult conversations any better than it does with driving.) And sometimes they realize that the topic is so fraught that they need to plan ahead and make time earlier in the day or on the weekend to address it effectively.
+
+Tap the Brakes
+
+When we’re driving attentively and spot a yield sign, we instinctively hover over the brakes, prepared to slow our progress at the first sign of trouble. And having entered into a potentially difficult conversation with some thoughtfulness and care, we need to be able to do the same thing interpersonally. Again, note that yielding skillfully doesn’t mean coming to a full stop or simply giving way to the other person—tapping the brakes is a much more subtle process.
+
+We need to bear in mind that our sense of timing isn’t always accurate—as I’ve noted before, "the reflexive responses we feel under stress—for example, in a crisis, or when engaging in conflict--can be counterproductive, making it more difficult for us to achieve our goals. We react quickly and impulsively, when we would be better served by slowing down and choosing a more thoughtful response." [3]
+
+At the very outset of the conversation we can accomplish this simply by deferring the formal agenda and engaging in a few minutes of small talk. [4] In some settings this is a necessity; getting right to business would be considered hasty and rude. But even in more direct cultures, some initial conversation about essentially meaningless matters can be a valuable way to slow down and create a stronger personal connection in the process.
+
+Once we’re engaged in the discussion, we need to remain attuned to our speed, in a very literal sense: Our thought processes, our speech patterns, and our heart and respiration rates all tend to speed up under stress, and they can serve as useful indicators of whether our overall pace is well-suited to the situation. This degree of awareness requires the ability to self-monitor [5] and to manage our attention [6], skills that can be enhanced by practices such as meditation [7]--and which are significantly impaired when we’re not well-rested. We can then use this data to consciously decrease our speed—taking deeper breaths, speaking more deliberately, and compelling ourselves to reflect further before reaching conclusions are all ways to tap the brakes in the midst of a conversation.
+
+Note that while I emphasize the value of yielding here, there are occasions when we do need to come to a full stop in order to address an underlying communication problem that’s blocking progress. [8] For example, if someone’s constantly interrupting others and preventing them from completing their thoughts, it’s important to acknowledge this dynamic so it can be corrected. This requires both a set of norms that make it acceptable to “talk about how we’re talking” and as well as some skill at delivering feedback, but under these conditions this need not derail the conversation.
+
+Hit the Gas…Lightly
+
+An accelerator isn’t an on/off switch, and if we’re sufficiently sensitive and skilled, it has a wide range that allows us to subtly adjust our speed to suit the conditions. Once we’ve determined that we have the right of way, we begin accelerating gently, checking to be sure that other drivers have reached the same conclusion. It’s not a race, and we’re not trying to beat the other drivers—the goal is insuring that we all continue our forward progress safely and efficiently. The same is true in many difficult conversations.
+
+After we’ve recognized the potential for conflict, and slowed down enough to engage the other party, we need to look for opportunities to achieve our goals for the conversation. We can struggle with this in a number of ways. I’ve had clients and students who, for various reasons, were uncomfortable asserting themselves and feared that if they did they’d automatically be viewed as overly aggressive—they were hesitant to accelerate at all. I’ve also worked with many people at the opposite end of the spectrum—they were insufficiently restrained, and when they decided to press ahead they floored it. It’s critical to be aware of our tendencies here—if we’re too cautious, we need to increase our comfort with discomfort [9], and if we’re too heedless, we need to learn to calibrate our assertiveness. [10]
+
+Pressing ahead, firmly but sensitively, is ultimately an exercise in influence, and becoming comfortable with the need to assert ourselves is just the starting point. From there we have to make our case in a way that’s likely to be accepted by the other party. It’s helpful to be aware of concepts from social psychology regarding openness to influence, such as Robert Cialdini’s fundamental principles of persuasion [11] and Howard Gardner’s levers of influence. [12] Note that I’m not suggesting that we misrepresent ourselves or manipulate the other party to win their approval. But simply being mindful of people’s psychological tendencies and incorporating that awareness into our approach need not result in unethical behavior.
+
+Because most of my clients are CEOs, a factor that they need to take into account is the added emphasis that their role can give to even casually expressed preferences. [13] Even when we’re seeking to actively persuade the other party, we don’t want to overdo it, and we need to be mindful of the impact of our positional power on the exchange.
+
+Footnotes
+
+[1] Setting the Table (Difficult Conversations)
+
+[2] How Not to Fight with Your Spouse When You Get Home
+
+[3] The Importance of Slowing Down
+
+[4] Five Levels of Communication
+
+[5] Self-Monitoring
+
+[6] What Are You Paying Attention To?
+
+[7] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[8] The Toyota Production System for Relationships
+
+[9] Comfort with Discomfort
+
+[10] Underdoing It and Overdoing It (Assertiveness Over Time)
+
+[11] Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+[12] Howard Gardner on Influence
+
+[13] The Blue Problem (Communication and Power)
+
+Photo by Tim Lenz.
+
+
+===== END ED BOT ESSAY 3941 =====

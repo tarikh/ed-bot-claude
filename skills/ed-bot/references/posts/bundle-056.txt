@@ -1,0 +1,178 @@
+===== BEGIN ED BOT ESSAY 3304 =====
+---
+title: Jonathan Schwartz on Authenticity
+url: https://edbatista.com/2005/12/jonathan_schwar.html
+slug: jonathan_schwar
+published: 2005-12-14T09:41:56
+updated: 2005-12-14T09:41:56
+source_body: wordpress-html
+---
+
+Doc Searls is interviewing Sun's Jonathan Schwartz as the opening keynote on Day 2 at Syndicate. I'm sure I'll have more to say on this later, but I wanted to post this exchange immediately:
+
+Doc Searls: So transparency is the fulcrum on the lever now?
+
+Jonathan Schwartz: Authenticity is the fulcrum.
+
+
+===== END ED BOT ESSAY 3304 =====
+===== BEGIN ED BOT ESSAY 3305 =====
+---
+title: Scott Anderson's Keynote at Syndicate
+url: https://edbatista.com/2005/12/scott_andersons.html
+slug: scott_andersons
+published: 2005-12-13T09:57:04
+updated: 2005-12-13T09:57:04
+source_body: wordpress-html
+---
+
+Scott Anderson, Director of Enterprise Brand Communications for HP, gave the opening keynote this morning at Syndicate, "the premier event for content syndication trends," and he had some interesting things to say on behalf of a massive corporation that's embraced blogging wholeheartedly. From one of Scott's first slides:
+
+- A corporation cannot dialog
+
+- A
+
+corporation is a collection of people
+
+- People
+
+dialog with people
+
+Scott commented further:
+
+HP isn’t blogging with anybody; people within HP are blogging...
+
+Doc Searls is the conference chair and introduced Scott, so the parallels with the first three theses of the Cluetrain Manifesto are surely no accident:
+
+- Markets are conversations.
+
+- Markets consist of human beings, not demographic sectors.
+
+- Conversations among human beings sound human. They are conducted
+
+in a human voice.
+
+Old news: Doc and his fellow Cluetrain co-conspirators have won. Their fundamental message is now the conventional wisdom among big-brand corporate marketers. More from Scott proving this point (I'm paraphrasing here):
+
+- No flacks. All HP blogs are written by the person whose name is at the top of the page, not ghostwritten by PR staffers.
+
+- No lawyers. HP's legal team initially wanted to vet all posts. Scott recognized that this would have killed their blog experiment in its infancy and fought hard to resist it. As an apparent compromise, HP has established blogging guidelines (see below) that allow bloggers to be themselves (within limits) while keeping their attorneys at bay.
+
+- No censorship. HP learned a tough lesson early on when an overzealous staffer deleted a negative comment from the blog of David Gee, a senior marketing exec. The incident threatened to give HP a black eye in the blogosphere, but they restored the comment, Gee rapidly posted a response, "Honesty is the best policy," and they now realize that negative comments are the most important ones.
+
+Despite HP's commitment to openness, their employee's company blogs aren't personal platforms. The company has established some clear, common sense guidelines, excerpted below, to help bloggers find the right balance:
+
+- Speak for yourself. ("Write your
+
+own blog in your own distinct voice.")
+
+- Target timely topics. ("...relevant
+
+to the business technology and business issues and concerns of our customers.")
+
+- Keep the communication lines open. ("...unfiltered two-way communication.")
+
+- Always show respect. ("Respect the blog medium.")
+
+- Preserve privacy and confidentiality. ("Reflect common sense and good business judgment.")
+
+After a year of active blogging, HP views it as a success. According to Scott, readership and press coverage are up, a number of productive discussions have been sparked by blog posts, and customers are responding favorably.
+
+Rich Marcello, General Manager of HP's Business Critical Systems, has said:
+
+A customer stated "how much he liked my blog and that it was
+
+just as important to him that he knew who he was buying from and what that
+
+person believed as it was to understand the products.”
+
+Rich also recently posted a one-year assessment of his HP blog:
+
+Well, I've been writing this blog now for about a
+
+year. The other day I was thinking about what I was trying to accomplish when I
+
+started last December and whether or not I actually did what I set out to do. I
+
+think I have. In a nutshell, I wanted to show you a little bit more about who I
+
+am as a person and what I really believe on many different topics. No hype,
+
+just a really direct and honest conversation on a host of topics. Hopefully,
+
+you've felt some of that in the writing and sometimes, at least, found some of
+
+the topics helpful. For me personally, it's been really useful to write down as
+
+honestly and crisply as possible what I believe.
+
+Then I came across a really good discussion of two
+
+different kinds of leaders written by Sobonfue Somé. I thought the description
+
+of the first kind of leader is how I've tried to act in this blog (and actually
+
+in my entire life) and so I thought I would share it with you here:
+
+"You could say there are two different kinds
+
+of leaders: the leader who strives to be herself and retain her genuine
+
+identity while helping those who follow her, bringing along her goodness and
+
+failures and exhibiting both; and the leader who figures out and imitates the
+
+model that people want to see, showing her good qualities and hiding her flaws,
+
+'having it all together' and so forth. The first kind many people find
+
+frightening, partly, I think, because it suggests no one can reach perfection.
+
+The second kind of leader is more appealing to our view of the world. But the
+
+second path is a deception from the beginning. As a human being, it's hard to
+
+be flawless, isn't it?”
+
+tags: syndicate syndicate conference doc searls
+
+
+===== END ED BOT ESSAY 3305 =====
+===== BEGIN ED BOT ESSAY 3306 =====
+---
+title: So Long, J.T.
+url: https://edbatista.com/2005/12/so_long_jt.html
+slug: so_long_jt
+published: 2005-12-08T14:04:38
+updated: 2005-12-08T14:04:38
+source_body: wordpress-html
+---
+
+The Giants said goodbye to J.T. Snow, and he'll be missed.  Even though I'm a fan who appreciates a) athletes who act like grown-ups and b) long-time contributors who provide continuity with a team's history, I understand that Snow's time in San Francisco is up.  His maturity and defense will make him an asset wherever he winds up, but the Giants need better production at the plate from their first baseman.
+
+I'll never forget Snow's unbelievably heads-up running grab of batboy Darren Baker in Game 5 of the 2002 World Series.  (The kid, who was really a little too young to be out there, was retrieving Kenny Lofton's bat and didn't realize that he was about to be flattened by David Bell, who was barrelling into home right behind Snow.  It took your breath away, and it's still a great memory...even if it brings unhappy thoughts in its wake.)
+
+Jon at SFist has a nice write-up, and like Jon I hope J.T. gets a chance to carve out a meaningful role on a contending team rather than playing Crash Davis to the young pups on some bottom-feeding team.  OK, Sabes, let's see what Lance Niekro or Mike Sweeney can do.
+
+
+===== END ED BOT ESSAY 3306 =====
+===== BEGIN ED BOT ESSAY 3307 =====
+---
+title: Brazil and the World of Ends
+url: https://edbatista.com/2005/11/harry_tuttle_as.html
+slug: harry_tuttle_as
+published: 2005-11-21T08:38:47
+updated: 2005-11-21T08:38:47
+source_body: wordpress-html
+---
+
+I caught the first half of Terry Gilliam's Brazil (an old favorite) last night and was struck by what a great metaphor this film is for Doc Searls' recent piece on Saving the Net (which I excerpted a few days ago, if you're pressed for time.)
+
+Gilliam's dystopic vision makes a powerful argument in favor of the dumb, decentralized (and therefore innovative and user-centric) Internet as described by Searls and David Weinberger in World of Ends, and against the "smart," centralized networks beloved by telcos, bureaucrats, and governments everywhere.
+
+From a "Central Services" view of the world, user-driven innovation is sabotage, and the Harry Tuttles of the world (read: entrepreneurs who can't take the paperwork) are terrorists.  The company (or agency or ministry or bureau, ad infinitum) knows best.  They know what you need, they even know what you want...and they're never wrong.
+
+It's time to pick a side, and who do you think's on your side: Harry Tuttle...or Spoor?
+
+
+===== END ED BOT ESSAY 3307 =====

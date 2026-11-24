@@ -1,0 +1,553 @@
+===== BEGIN ED BOT ESSAY 4115 =====
+---
+title: Take Five (Stop Meeting Back-to-Back-to-Back!)
+url: https://edbatista.com/2022/03/take-five-stop-meeting-back-to-back-to-back.html
+slug: take-five-stop-meeting-back-to-back-to-back
+published: 2022-03-07T17:56:37
+updated: 2025-09-24T11:58:04
+source_body: wordpress-html
+---
+
+Most of my clients who worked remotely during the pandemic have resumed a range of in-person activities, from occasional days in the office to executive offsites to full-company retreats. And yet almost all of them expect to continue working remotely, at least in part. In some cases this is because they or their employees have relocated, or because they've hired in new geographies, making a full-time return to an office logistically infeasible. But in addition, unless they're involved in the production or transport of physical goods or the delivery of in-person services, they've recognized that the nature of their work has changed, as I noted last year:
+
+Rather than viewing remote work during the pandemic as a temporary response to a crisis, my clients generally see it as a learning experience that enabled their organizations to become more flexible on a permanent basis. The benefits of this flexibility include responsiveness to employees' preferences, the ability to attract and retain talent in a wider range of geographical locations, and even increased productivity in some circumstances. [1]
+
+But even as my clients begin this next chapter in which remote work will be a normal part of their daily or weekly routine, a surprising number of them are persisting with a practice that I view as one of the most toxic by-products of the hastily arranged transition to remote work at the start of the pandemic: Back-to-back-to-back meetings, without a single break in between, sometimes for hours on end.
+
+Not only does the lack of a break between meetings exacerbate mental and physical fatigue, it also prevents effective context-shifting. In the blink of an eye, people go from a detail-oriented tactical agenda to a high-level strategic discussion, or they're thrust out of a large group setting into an intimate one-on-one, or vice versa. (It's grimly fitting that the service so many of us are using to facilitate these abrupt jumps is called Zoom.)
+
+These problems are only made worse by the complexity of the current environment. War, climate change, political polarization and the persistent effects of the pandemic are taking a toll on even the most resilient people and organizations. My clients and their employees are finding themselves in unexpectedly emotional conversations with colleagues and that's unlikely to end any time soon. [2] In this context it's more important than ever to take a moment to reset, compose ourselves, and prepare for the next event on our calendars.
+
+The solution, as with so many issues in my practice, is simple but not easy: End every event at least five minutes before the next one begins. This may seem patently obvious, but as with many potentially productive behaviors, it's very easy to create a set of aspirational rules and very difficult to change actual norms, as I've discussed previously:
+
+You've probably worked as a group to identify some "ground rules" to improve the quality of your meetings--that's a common exercise and one I've conducted myself. But despite these efforts, your meetings haven't really improved. One reason why is the difference between "rules"--which are what we intend to do, or what we're supposed to do, and "norms," which are what we actually do... To repeat: Norms are informal social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave. [3]
+
+So what are the keys to putting this simple guideline into place? As I describe in the piece cited above, there are four necessary conditions for the establishment of a productive norm:
+
+1. A set of shared beliefs regarding productive behavior.
+
+This is the easy part--the group simply needs to agree on a guideline that every event will end at least five minutes before the next one begins. But note that this won't be enough to change behavior, because rules aren't norms. Behavioral change only occurs when all of these conditions have been met.
+
+2. Sufficient mutual esteem among group members so that its withdrawal would be felt as a loss by any individual.
+
+Here's where it starts to get harder--the members of the group need to care about each other. This is why it's so important to invest in relationship-building and cultivate a sense of social cohesion, in ways that range from making small talk to in-person experiences such as offsites and retreats. So the leader has a special responsibility to promote these activities, because a group's mutual esteem can't be summoned at will--it can only be created over time.
+
+3. A willingness by members to openly acknowledge a norm violation by a peer.
+
+The degree of difficulty continues to increase--group members must be willing to speak up instead of silently colluding when the guideline is violated (as it inevitably will be). When the leader violates the guideline (also inevitable), other members must speak up and the leader must be receptive to their input. But when other members violate the guideline, speaking up can't be the sole responsibility of the leader--members must be willing to call out their peers.
+
+4. A willingness by members to withhold esteem from a peer as a consequence of a norm violation.
+
+Finally, group members must be willing to hold each other accountable, and the easiest way to accomplish this is by withholding esteem, as noted by legal scholar Richard McAdams:
+
+Withholding esteem is, under certain conditions, a costless means of inflicting costs on others. These costs are often extremely small... But...dynamic forces can cause the weak desire for esteem to produce powerful norms, sometimes because individuals struggle to avoid deviance, sometimes because they compete to be heroic. [4]
+
+The withholding of esteem need not be harsh or rancorous, and it's actually most effective when conveyed with a light touch or even a sense of humor. But yet again, peers can't leave this task to the leader--on occasion the leader may have to enforce a rule, but that doesn't make it a norm.
+
+ 
+
+Footnotes
+
+[1] Four Buckets (On Co-Located Work)
+
+[2] The prescient historian Peter Turchin didn't predict the pandemic, but in a 2010 essay in Nature he noted that we were entering an era of sustained instability and discord and tumult:
+
+The next decade is likely to be a period of growing instability in the United States and western Europe... Historically, such developments have served as leading indicators of looming political instability. Very long 'secular cycles' interact with shorter-term processes. In the United States, 50-year instability spikes occurred around 1870, 1920 and 1970, so another could be due around 2020.
+
+[3] Rules Aren't Norms (On Better Meeting Hygiene)
+
+[4] "The Origin, Development, and Regulation of Norms," page 342 (Richard McAdams, Michigan Law Review, 1997)
+
+ 
+
+For Further Reading
+
+Dysfunction Isn't Heroism
+
+Better Conditions for Working Remotely
+
+ 
+
+Photo by PeakPx.
+
+
+===== END ED BOT ESSAY 4115 =====
+===== BEGIN ED BOT ESSAY 4116 =====
+---
+title: Why Executives Derail (and What You Can Do About It)
+url: https://edbatista.com/2022/03/why-executives-derail-and-what-you-can-do-about-it.html
+slug: why-executives-derail-and-what-you-can-do-about-it
+published: 2022-03-04T16:14:06
+updated: 2025-09-24T11:58:04
+source_body: wordpress-html
+---
+
+A theme in my practice is the CEO or senior leader who's hired or promoted an executive into a new role only to find that the executive fails to fulfill their initial promise. It's not a complete disaster--my clients are generally skilled at identifying executive talent, and it's rare that they utterly botch a hire.
+
+But it's definitely not a success, and as the executive struggles to meet expectations, my client is wondering why this is happening and what can be done to salvage things. While every situation is unique, there are some factors that show up repeatedly which can explain what's going wrong and may point the way toward a solution. The relevant term in the management literature is "derailment," described by Jean Leslie and Ellen Van Velsor of the Center for Creative Leadership as follows:
+
+The derailed manager is one who, having reached at least the general manager level, either leaves the organization nonvoluntarily (through resignation, being fired, or retiring early) or is plateaued as a result of a perceived lack of fit between personal characteristics and skills and the demands of the job. [1]
+
+It's likely that up until this point in the executive's career they've experienced substantial and perhaps even continuous success. This track record put them in the position to be selected for their current role, but it may have left them unprepared to cope with professional difficulties, as suggested in prior research cited by Leslie and Van Velsor:
+
+Executives who derailed also had run up a string of successes early on and were seen as technical geniuses or tenacious problem-solvers. Yet as they moved up in their organizations and job demands changed, some early strengths became weaknesses and some early weaknesses began to matter. [2]
+
+But if a string of sustained success may have set the stage for the derailing executive, what are they doing in their roles today that's causing their current problems? Here Leslie and Van Velsor build on and update prior research to identify a set of likely culprits, and their work is consistent with what I see in my practice [3]:
+
+Derailment Factors
+Percentage of Cases
+
+Inability to develop or adapt
+61
+
+Poor working relations
+57
+
+Inability to build and lead a team
+32
+
+Poor performance
+23
+
+Authoritarian
+23
+
+Too ambitious
+17
+
+Too narrow functional orientation
+17
+
+Not prepared for promotion
+14
+
+Conflict with upper management
+12
+
+Organizational isolation
+7
+
+I've highlighted the top three, which I see as closely interrelated. In Working with Emotional Intelligence, the science journalist Daniel Goleman drew upon Leslie and Van Velsor's work on derailment and characterized an "inability to develop or adapt" as "rigidity":
+
+[Derailing executives] were unable to adapt their style to changes in the organizational culture, or they were unable to take in or respond to feedback about traits they needed to change or improve. They couldn't listen or learn. [4]
+
+Executives with a rigid style who resist feedback also often struggle interpersonally, and Goleman concisely described what Leslie and Van Velsor call "poor working relations":
+
+Being too harshly critical, insensitive or demanding, so that they alienated those they worked with. [5]
+
+And it's common in my practice that the derailing executive is having trouble recruiting and retaining talent or is alienating the team that they inherited. While there may be a number of causes, it's almost certain that a rigid management style, resistance to feedback or defensiveness in response, and difficulty in building strong relationships are contributing factors.
+
+So if you're a CEO or senior leader with a derailing executive, what can you do?
+
+Talk About It
+
+You may have hired this executive with the expectation that they would require minimal management, but as a result, even if you're having one-on-ones to address tactical issues, you may not be holding a consistent dialogue in which you're sharing critical feedback with them on their leadership style and interpersonal behavior. And their resistance to feedback or defensiveness in response may understandably make you less eager to get started. But waiting until the next review cycle will only waste time and make the problem worse--people rarely respond well to unpleasant surprises. Instead, as I've noted before, it's preferable to make feedback normal--not a performance review.
+
+This doesn't mean that you should simply unload your feedback without worrying about its impact. As Carole Robin, one of my mentors, used to remark, "When people say they want to be 'brutally honest,' there's usually more brutality than honesty." It's essential for you to learn how to deliver critical feedback in a way that this executive will find motivational. And this will be a joint undertaking--the executive will also have to consider how to make getting feedback less stressful.
+
+Work On It
+
+Initiating a dialogue and conveying the existence of these problems to the executive is just the first step. Next they'll need to commit to addressing these issues, both with your support and on their own. This won't be easy--change is hard. It will take deliberate and sustained effort for them to become more adaptable and receptive to feedback, to develop better interpersonal relationships, and enhance their ability to build and lead teams.
+
+But in the right circumstances these are eminently learnable skills. An essential foundation is an environment in which the executive can acknowledge and deal with the uncomfortable feelings that inevitably accompany professional struggles. This will require you to take the initiative to create sufficient psychological safety and avoid triggering a sense of danger or threat. This does not mean failing to be direct or candid with the executive, but while you highlight the costs of their behavior you'll also need to empathize with the challenges they're facing. And you and your executive need not do this work alone--coaching can help.
+
+Resolve It
+
+Whether or not your executive is willing to join you in this work, allowing the situation to persist unresolved will carry a cost. Given the interpersonal impact of their rigidity, poor working relationships, and ineffective teamwork, the longer they remain in the role without trying to improve, the more likely it is that they'll have a negative impact on the performance and retention of their direct reports and peers. This is one of the main reasons why my clients' biggest regret is waiting too long. It may be possible to level the executive, but even if you decide to fire them, note that this may be the merciful choice.
+
+Learn from It
+
+However the situation is resolved, even--and perhaps especially--if you determine that it was a failure, it will present you with a valuable learning opportunity. You'll likely want to reflect on the process that led you to hire this executive in the first place and consider how you might conduct better interviews. A related theme in my practice is adapting hiring procedures to test for defensiveness, resistance to feedback, or a tendency to blame others, all of which are red flags. I'm reminded of the value of experiencing difficulties early in one's career, a point made years ago by the Reverend William Swing in a speech at Stanford: "Some people don't conspicuously fail until they are 45 years old, and it devastates them." [6] In some cases, rather than view a candidate's prior setbacks as negative indicators, we would do better to ask what they learned as a result.
+
+ 
+
+ 
+
+Footnotes
+
+[1] A Look at Derailment Today: North America and Europe, page 1 (Jean Leslie and Ellen Van Velsor, Center for Creative Leadership, 1996)
+
+[2] Ibid, page 2.
+
+[3] Ibid, page 11. The original data includes separate figures drawn from North American and European research, while the figures shown here are an average of both data sets.
+
+[4] Working with Emotional Intelligence, page 40 (Daniel Goleman, 1996)
+
+[5] Ibid.
+
+[6] William Swing advises graduates to follow their passions, not someone else’s (Stanford Report, 2007)
+
+ 
+
+For Further Reading
+
+Talk About It
+
+- Making Feedback Less Stressful (HBR Webiner Slides)
+
+- How to Deliver Critical Feedback
+
+- Make Getting Feedback Less Stressful.
+
+Work On It
+
+- Why Change Is Hard
+
+- Safety Is a Resource, Not a Destination
+
+- How Leaders Create Safety (and Danger)
+
+- Accountability and Empathy (Are Not Mutually Exclusive)
+
+- Getting Coaching for Your Team
+
+Resolve It
+
+- Don't Wait
+
+- The Fine Art of Levelling
+
+- On Firing a Senior Team Member
+
+- Merciful Exits (On Under-Performing Executives)
+
+Learn from It
+
+- The Ruling Out of Possibilities (On Failure)
+
+- Daniel Kahneman on Conducting Better Interviews
+
+- Learning How to Learn
+
+ 
+
+Photo by Brendan Zim.
+
+
+===== END ED BOT ESSAY 4116 =====
+===== BEGIN ED BOT ESSAY 4117 =====
+---
+title: Resources for Managing Up
+url: https://edbatista.com/2022/02/resources-for-managing-up.html
+slug: resources-for-managing-up
+published: 2022-02-02T18:34:59
+updated: 2025-09-24T11:58:04
+source_body: wordpress-html
+---
+
+Although my clients are typically senior leaders, over the years I've worked with many people at earlier stages of their careers who had to "manage up" effectively--and even the leaders I work with face similar challenges in some of their relationships with their boards, investors and other stakeholders. I was recently asked to recommend some resources in this area--the list below is by no means comprehensive, but I think it's a useful starting point.
+
+What we call "managing up" usually involves better understanding and being more effective at dealing with power dynamics, influence, culture and emotion regulation. (Note that by "regulation" I don't mean "suppression"--I mean being deliberate and thoughtful about how we express emotion in order to better accomplish our goals.)
+
+1. Power Dynamics
+
+I've learned much about power from my Stanford colleague Jeff Pfeffer:
+
+- Power Play (Jeffrey Pfeffer, Harvard Business Review, 2007)
+
+- Power: Why Some People Have It and Others Don't (Jeffrey Pfeffer, 2010)
+
+Here's some of my work that incorporates Jeff's perspective:
+
+- Force Isn't Power
+
+- Cautionary Tales (Authenticity at Work)
+
+Psychologist David McClelland's "motivational needs theory" is very illuminating in this context:
+
+- Power is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, 2003)
+
+Here are two posts of mine on the same topic:
+
+- Power Struggles Among Nice People
+
+- McClelland and Burnham on Power and Management
+
+Physician and organizational consultant Patricia Day Williams offers another useful perspective:
+
+- Self-Awareness, Empowerment and Choice [PDF] (Patricia Day Williams, Chapter 7.10 in NTL's Reading Book for Human Relations Training, 1999)
+
+And here's a post of mine that discusses Day Williams' work:
+
+- Interpersonal Power
+
+Other related posts of mine:
+
+- Weather Systems (Power, Charisma and Leadership)
+
+- Competence Isn't Power
+
+- Three Definitions of Power
+
+ 
+
+2. Influence
+
+I continue to find the framework first developed in the 1970s by Arizona State psychologist Robert Cialdini the most compelling and useful way of thinking about influence:
+
+- Principles of Persuasion (Robert Cialdini)
+
+- Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+- Influence: The Psychology of Persuasion (Robert Cialdini, 2021, 3rd ed. / 1984, 1st ed.)
+
+- The Language of Persuasion (Robert Cialdini, Harvard Business Review, 2008)
+
+- The Uses (and Abuses) of Influence (Robert Cialdini, Harvard Business Review, 2013)
+
+Here Jerry Useem, the longtime Senior Editor-at-Large of Fortune and previously a Research Associate at Harvard Business School, draws on research by Pfeffer, Wharton's Adam Grant, and others--ignore the silly headline, which is just clickbait and doesn't accurately represent Useem's point of view:
+
+- Why It Pays to Be a Jerk (Jerry Useem, The Atlantic, 2015)
+
+It's vitally important to exert influence effectively in a negotiation. As I've noted to clients countless times, we don't get what we deserve, we get what we negotiate:
+
+- Culture, Compensation and Negotiation
+
+- Negotiating with Your Own Side
+
+We begin to wield influence--or fail to--at the moment we first express interest in the role, well before our first day on the job:
+
+- It's Time to Stop Interviewing
+
+ 
+
+3. Culture
+
+First, what do we mean by culture? Author and management educator Michael Watkins offers a useful definition:
+
+- Consistent, observable patterns of behavior.
+
+- A process of "sense-making."
+
+- A carrier of meaning.
+
+- A social control system.
+
+- A form of protection evolved from situational pressures.
+
+Watkins' article and a related piece by management thinker Jon Katzenbach and colleagues are useful primers on the concept:
+
+- What Is Organizational Culture? (And Why Should We Care?) (Michael Watkins, Harvard Business Review, 2013)
+
+- 10 Principles of Organizational Culture (Jon Katzenbach, Carolin Oelschlegel and James Thomas, strategy + business, 2016)
+
+It's essential to distinguish between an organization's explicit rules and its often implicit cultural norms:
+
+- Rules Aren't Norms (On Company Values)
+
+Our efforts to manage up take place within a specific culture, which contains a set of expectations--often implicit and unstated--about how to be effective and influential. We hold ourselves back when allow such expectations to dictate our behavior, and yet we're likely to have the greatest impact when we're perceived as a member of the culture and not an outsider:
+
+- Conform to the Culture Just Enough
+
+IBM researcher Geert Hofstede pioneered the study of how national cultures differ, and although we need to apply his insights with caution to avoid reductive stereotyping, his model can be immensely useful. INSEAD professor Erin Meyer has built upon Hofstede's work to address its implications for cross-cultural communication:
+
+- Geert Hofstede on the Dimensions of Cultural Difference
+
+- Erin Meyer on Culture and Communication
+
+Some cultures are particularly challenging, and we need to learn how to take care of ourselves without their support:
+
+- Surviving in a Toxic (or Merely Dysfunctional) Culture
+
+- How to Feed a Monster (Leading in Elite Organizations)
+
+Managing up often involves encouraging senior leadership to be more open to feedback:
+
+- Building a Feedback-Rich Culture
+
+- Building a Feedback-Rich Culture from the Middle
+
+ 
+
+4. Emotion Regulation
+
+This starts with understanding emotions' function, and I find the work of neuroscientists Antonio Damasio and Richard Davidson tremendously useful here:
+
+- Antonio Damasio on Emotion and Reason
+
+- The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live—and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+Managing up means interacting with people in more senior hierarchical roles--sometimes challenging them, sometimes appeasing them--typically in circumstances when we feel a lack of authority or control and a degree of vulnerability. These situations often trigger strong emotions, and the goal of emotion regulation isn't simply to diminish what we're feeling and dampen our expressiveness, but to be deliberate and intentional in leveraging our emotions to help us accomplish our goals more effectively, both by managing ourselves and by having the desired impact on others:
+
+- The Tyranny of Feelings
+
+- Talking About Feelings
+
+- Attitude and Behavior
+
+- The Value of a Good Fight
+
+- Neuroscience, Leadership and David Rock's SCARF Model
+
+- Relating to Our Inner Critics
+
+- Risk Management (The Importance of Speaking Up)
+
+- On Speaking Up and Shutting Up
+
+- Leadership as a Performing Art
+
+More specifically, effective managing up also entails "empathizing up," recognizing that senior leaders are human beings like everyone else:
+
+- The Difficulty of Empathizing Up
+
+ 
+
+5. Coaching
+
+Finally, consider working with a coach. Executive coaching isn't exclusively for senior executives. There are many outstanding coaches who offer a sliding scale or a range of services that make them affordable to early- and mid-career professionals. Here are some questions to ask yourself and a prospective coach:
+
+- How to Find (and Choose) a Coach
+
+And here are some coaches I recommend for early- and mid-career professionals:
+
+- Agnes Le, Executive Coaching
+
+- Angelos Georgakis, Personal and Executive Coaching
+
+- Celine Teoh, Executive Coaching
+
+- Cristina Celis, Executive and Leadership Coaching
+
+- Dana Bilsky Asher, Executive Coach and Facilitator
+
+- Elena Chen, Executive Coaching
+
+- Glenn Terrell, Shinji Consulting & Coaching
+
+- Gwen Mellor Romans, Circle Hill Advisory
+
+- Jennifer Ouyang Altman, Inner Radio Leadership Coaching
+
+- Natalie Guillen, Advant Coaching
+
+- Nikki Turner, C3 Impact
+
+- Rodrigo Lopez, Rodrigo Lopez Coaching
+
+- Stephanie Stevens, Authentic Leadership Coaching
+
+ 
+
+Photo by Diane Cordell.
+
+
+===== END ED BOT ESSAY 4117 =====
+===== BEGIN ED BOT ESSAY 4118 =====
+---
+title: Extending Your Personal Runway
+url: https://edbatista.com/2022/01/extending-your-personal-runway.html
+slug: extending-your-personal-runway
+published: 2022-01-16T17:25:59
+updated: 2025-10-05T17:21:12
+source_body: wordpress-html
+---
+
+When a company isn't yet profitable, leadership is always keenly aware of their runway. The amount of cash at their disposal net ongoing expenses will determine the length of time they can continue to operate before something has to change: achieving profitability, raising additional capital, major cost-cutting, or ceasing operations. A theme in my practice is the leader who's assessing their "personal runway," which isn't quite as easy to calculate but has similar implications: There's a limited amount of time that they can sustain the status quo before something has to change.
+
+My clients typically begin a coaching engagement occupying a leadership role that they expect to hold for the foreseeable future. But we work together for relatively long periods of time, so it's not uncommon for me to talk with a client about the possibility of a professional transition. In some cases this is a result of a change in the business, such as a potential sale to an acquirer or a major shift in strategy.
+
+But just as often there's a change in my client, and they unexpectedly find themselves staring down the runway, wondering how far it extends. They're not planning to leave suddenly--which would be neither feasible nor desirable--but they've realized that they have a finite capacity to continue in their current role, and they're unsure how much time they'll have before they feel compelled to act.
+
+Why does this happen so often? Senior leaders do enjoy many advantages: They're well-compensated, have a great deal of autonomy, and often feel a strong sense of purpose. But such roles also come with significant downsides. Senior leaders are the subject of intense scrutiny, receive little developmental feedback, and are rarely viewed empathetically by others. [1] So despite the many benefits of these roles, feelings of stress, fatigue and isolation can cause senior leaders to entertain thoughts of leaving.
+
+If you're a senior leader and this resonates with you, what can you do about it? My work with clients in this area involves what we might call "extending your personal runway": Taking steps that will enable you to remain in the role long enough to engineer a desirable transition, rather than feeling obligated to make a suboptimal move. (Most of my clients are CEOs, and there are some factors that apply specifically to that role, but many of the issues I address here are relevant for anyone in a leadership position.)
+
+Get Support
+
+I'm biased, of course, but consider working with an executive coach. This need not be "career coaching," which involves helping you source and obtain a new role, should you choose to pursue one. It may be useful simply to have a trusted thought partner who understands the complexities of your role while remaining independent from the company. [2]
+
+A personal coach can play a special role as a dedicated professional, but they're just one potential member of your "coaching team." There are undoubtedly other people already in your life or within reach who can also serve as sources of support, but you have to identify them--and understand the limits on the support they can provide. Family members and friends may be eager to help, but they may not fully grasp the challenges you face--and your need to talk about these challenges may exhaust their capacity to be present. In addition, cultivate relationships with peers--not just friends, but other senior leaders in similar roles. [3] The key in all of these relationships is letting the other party know what you need--people are often quick to jump in with advice, when you may just want to unburden yourself to an empathetic listener. [4]
+
+A sometimes overlooked source of support is a truly outstanding executive assistant. If you don't have one, why not? As I've noted before, "a CEO who's spending time on tasks that could be delegated to an EA isn't being 'lean and scrappy'--they're stubbornly clinging to an outdated job description and hurting the business as a result." [5] Or perhaps you have a shared EA, or an "EA/office manager" for whom the role is merely a stepping stone to something better. In my experience when a leader finally finds a "professional EA" who views the role as a career path, the leader is not only much more effective, they're also far less stressed.
+
+Finally, assess your finances. You needn't be motivated primarily by money to feel a heightened sense of opportunity cost as your tenure in a role lengthens. Perhaps your base compensation hasn't kept pace with the market, or a lack of liquidity is imposing constraints that are no longer palatable, or you're fully vested with no refresh on the calendar. We fail to obtain the financial support we need for many different reasons, but a common dilemma is the expectation that the necessary conversations will be uncomfortable or fraught. This may be true, but as I've noted before, "If it feels risky to say, saying it will carry a short-term cost [and] NOT saying it will carry a long-term cost." [6] I'm not suggesting that all you need to do is ask--you may face substantial resistance. But we don't get what we deserve--we get what we negotiate. [7] And a reluctance to thoroughly explore the possibilities will almost certainly shorten your personal runway.
+
+Redefine Your Role
+
+Your current responsibilities were determined at a particular point in your company's evolution and in your own growth and development as a leader. Some of the stress and fatigue you feel today are likely the result of gaps that have emerged over time among A) the tasks you do because they're "your job," B) the tasks you do that create the most value, and C) the tasks you find most fulfilling. While you undoubtedly face constraints in re-defining your role, all too often I see leaders laboring under outdated job descriptions that should be updated--and this is as true of CEOs as it is of anyone else. It's important to distinguish between the value you create through specific tasks and the extent to which those tasks are personally fulfilling:
+
+This is obviously an oversimplified version of reality, and there are probably few, if any, neat and tidy divisions among your duties that correlate perfectly with this model--but it may still highlight some useful distinctions. As I've noted before, "I define 'work' as a vocation--a calling or a personal mission that provides us with an intrinsic sense of meaning and purpose. A 'job,' in contrast, is a set of responsibilities we fulfill in exchange for various forms of compensation. We get paid to do the job, but the work is its own reward." [8]
+
+If you're like many senior leaders these categories overlap substantially but have drifted apart in recent months or years, which may be one of the primary reasons you're considering the length of your runway. Almost certainly there are a set of tasks that you find unfulfilling but through which you generate so much value that it's unrealistic to consider delegating or abandoning them, at least at present. You may conclude that this is The Job, i.e. the reason you get paid. But what's in the top-right quadrant? What responsibilities are both value-generating and fulfilling? And what might enable you to operate here as much as possible?
+
+At the same time, there are almost certainly a set of responsibilities are are neither value-generating nor personally fulfilling, although perhaps they were in the past. A cynic might say, "This is The Job--this is why I get paid." But in my experience that's not true for senior leaders who enjoy a degree of control and agency in their work (although it may well be for people in other roles in dysfunctional bureaucracies.) Instead, senior leaders typically find themselves performing these tasks either because they have an outdated idea of the value being created, or they've placed insufficient value on their time and attention. Once these factors are recalculated, it can be surprisingly easy to...stop.
+
+To help assess your current role in light of this model, here are three questions to ask (which I've discussed at greater length previously [9]):
+
+1. What are you uniquely qualified to do?
+
+This is likely a function of the talent you can attract and retain at present. You probably own certain responsibilities because no one better qualified is available, and efforts to delegate these tasks will have to wait. But consider whether you're holding on to these responsibilities because of an outdated belief that certain tasks are too important to delegate, a counterproductive need to maintain personal oversight, or difficulties in building scalable systems. Your unique qualifications may be less expansive than you think.
+
+2. What are you obligated to do?
+
+All leadership roles come with some responsibilities that can't be delegated, no matter how talented your team or successful the company. But while these tasks may well be yours as long as you hold the role, it's often the case that as the company grows and your role becomes more prominent, the stakes will be higher, requiring more thorough preparation and a greater amount of your attention. Consider how narrowing the focus of your role might allow you to perform these duties more effectively and efficiently.
+
+3. What are you free to do?
+
+I'm not suggesting that you should prioritize personal preferences over organizational imperatives--this is not an excuse to hold on to responsibilities that should be delegated. But in addition to the work that you're uniquely qualified to do, and the work that you're obligated to do, consider what work you're free to do, what tasks might lift your spirits and make the job more intrinsically rewarding. Some of this will be value-generating, while some will simply be play--and although we may need to impose limits on the amount of play in our professional lives, a little goes a long way toward making stressful and fatiguing experiences more sustainable.
+
+Slow Down
+
+Whatever steps you can take to extend your personal runway, it's also worthwhile to examine the forces that are causing you to accelerate toward its endpoint. It may be possible to slow down and lengthen your tenure in the process. Here are three factors that may be propelling you forward:
+
+1. Inadequate Boundaries
+
+If you're like many of my clients, you're not necessarily seeking "work/life balance," but at the same time, you're disinclined to devote the same amount of time and energy to work as you did in the past. This can result from many factors: Increasingly complex personal obligations, such as the needs of children, aging parents, a spouse or partner; or diminished personal well-being, ranging from the typical ailments of middle age to serious health issues. Or you may simply feel discontented or bored--the passion that once fueled your appetite for work has waned.
+
+But while balance may be unattainable or even undesirable, you will almost certainly benefit from better boundaries. A healthy boundary isn't an impermeable barrier, but, like a cell membrane, it keeps the right things in the right places in the right proportions, while altering its permeability to adjust to changing conditions. As I've noted before, "Temporal boundaries designate certain times exclusively for family, friends, exercise, and other non-work pursuits... Physical boundaries ensure that we get out of our offices and workplaces at regular intervals and create actual distance between us and our work (which includes not only the office itself but also all our professional tools and artifacts–laptops, tablets, phones, papers, everything) [and] cognitive boundaries help us resist the temptation to think about work and focus our attention on the people or activity at hand." [10]
+
+2. A Sense of Urgency
+
+In this context it's important to distinguish between importance and urgency, which I define as follows:
+
+Important activities are truly meaningful and fulfilling--to you, to the people who matter to you, to your organization, or to some cause that you believe in. They’re not necessarily time-dependent; they can be accomplished almost anytime, and if they go undone for a short stretch no one may even notice.
+
+Urgent activities have a deadline attached to them that matters to someone—although not necessarily to you. They are time-dependent, at least in someone’s mind, and if they go undone that someone is going to be unhappy. They’re not necessarily meaningful or fulfilling, and accomplishing them may not actually make a significant difference. [11]
+
+The dilemma, of course, is that "the time and attention we would otherwise devote to Important But Not Urgent activities is often sacrificed to address Unimportant But Urgent matters. The challenge is that we’re the only ones who care about the former, while the latter have many advocates." [12] You'll accelerate when you allow others' sense of urgency to dictate your priorities--and you'll slow down when you commit to such important-but-never-urgent activities as time with loved ones, a mindfulness routine, a workout, a good night's sleep.
+
+3. Your Competitive Drive
+
+Humans evolved to compare ourselves to others, to have a keen sense of our relative status, and to compete for resources and opportunities. We can't turn off these drives, nor would we want to. As with so many other confounding aspects of our psychology, they're features for the species that as individuals we often experience as bugs. [13] Even if you don't feel overtly competitive, if you're like many of my clients your sense of disenchantment with your current role is related to a perception that you're behind in some way--lagging after peers, classmates, siblings, or (most importantly) your own expectations.
+
+The feeling of being behind inevitably provokes an urge to accelerate--you must catch up with whoever (or whatever) you're trailing--which will shorten your runway, potentially leading you to make suboptimal choices. There's no simple solution, but a starting point is considering the possibility that your competitive drive and the threat of loss that exacerbates it are, at least in part, illusions. To be clear, I'm not suggesting that you should accept your current situation or stop striving to improve it.
+
+But a counterpart to our proclivity for social comparison is the process of hedonic adaptation: We readily accommodate and soon take for granted changes in our circumstances. [14] The things we think will make us happy rarely make us as happy as we think they will, and the happiness they bring never lasts as long as we want it to. This is not a reason to stop trying to change your life for the better, but it may allow you to view your present condition with more equanimity, and to pursue your hopes for the future without rushing to get there.
+
+This is a companion piece to Not Every End Is a Goal (On Midlife Malaise).
+
+Footnotes
+
+[1] Watch That Next Step (CEO Problems)
+
+[2] How to Find (and Choose) a Coach
+
+[3] The Friendship of Wolves
+
+[4] What Do You Need Right Now? (Advice, Listening, A Hug?)
+
+[5] Three Stages of Executive Assistance
+
+[6] Risk Management (The Importance of Speaking Up)
+
+[7] Negotiating with Your Own Side
+
+[8] The Work and The Job
+
+[9] Three Buckets (On CEO Job Descriptions)
+
+[10] Happy Workaholics Need Boundaries, Not Balance
+
+[11] Importance vs. Urgency
+
+[12] Ibid.
+
+[13] The Trap of Competition
+
+[14] Stop Trying to Be "Good Enough" By "Getting Better"
+
+Photo by Victor.
+
+
+===== END ED BOT ESSAY 4118 =====

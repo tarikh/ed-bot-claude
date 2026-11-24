@@ -1,0 +1,366 @@
+===== BEGIN ED BOT ESSAY 4223 =====
+---
+title: A Working Relationship Curriculum
+url: https://edbatista.com/2024/04/a-working-relationship-curriculum.html
+slug: a-working-relationship-curriculum
+published: 2024-04-12T14:28:17
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+A common theme in my practice is the difficulty a client is experiencing in a working relationship. Below is a set of articles that I've written over the years that comprise a curriculum organized around the following themes:
+
+- FOUNDATIONS: A "starter kit" on a set of fundamental topics, from dialogue and coaching tools to empathy and cognitive biases.
+
+- COMMUNICATION: Why our efforts to communicate often go astray and what to do when that (inevitably) happens.
+
+- EMOTION: How to regulate (rather than suppress) the complex feelings that relationships evoke, and why this matters so much.
+
+- CONFLICT: Sources of conflict, from style differences to competitive threats, and a potential path to resolution.
+
+- FEEDBACK: What feedback is (and is not), how to deliver it, how to respond, and why it can hurt.
+
+Note that feedback comes last, and that's by design. Rushing into feedback conversations before both parties are prepared is a reliable way to make difficult relationships even worse. While it's important to get to the point where feedback can be delivered with skill and received with grace, it may be necessary to take some time to get there and to practice a number of interpersonal skills along the way.
+
+If you're having difficulty in a working relationship, optimally you can invite your counterpart to explore this curriculum together. While that may feel daunting, merely expressing your interest in improving the relationship can be a step in the right direction. But even if that's not possible, I hope you'll feel encouraged to make use of these materials on your own until your counterpart is able to join you.
+
+ 
+
+1. FOUNDATIONS
+
+1.1. Better Working Relationships
+
+An issue that comes up frequently in my work as a coach and teacher is how to improve a working relationship in which one person feels disappointed, irritated, or upset with the other. In my coaching practice this typically involves a pair of co-founders or two members of an executive team. While my comments here are by no means comprehensive, they lay out a set of steps you can take to begin to address a working relationship that's faltering or didn't get off to a good start.
+
+1.2. How Great Coaches Ask, Listen, and Empathize
+
+Coaching is about connecting with people, inspiring them to do their best, and helping them to grow. It’s also about challenging people to come up with the answers they require on their own. Coaching is far from an exact science, and all leaders have to develop their own style, but we can break down the process into practices that any manager will need to explore and understand. Here are the three most important.
+
+1.3. The Difficulty of Empathizing Up
+
+We typically associate empathy with agreement, and we act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances.
+
+1.4. Seeing What's Not There (The Importance of Missing Data)
+
+One of the most significant cognitive errors is what Daniel Kahneman calls What You See Is All There Is, or WYSIATI, which is shorthand for the fact that we find it very difficult to envision missing data. Even when faced with massive gaps in information, we tend to focus on the information at our disposal and rely on it to construct a narrative, as flimsy as it might be. A corollary to Kahneman's WYSIATI might be called WYDSDE: What You Don't See Doesn't Exist. And as a result we're typically overconfident in the validity and coherence of our explanatory narrative.
+
+ 
+
+2. COMMUNICATION
+
+2.1. Learning to Yield (Navigating Tough Conversations)
+
+What does it mean to yield in our relationships? My client was careful to distinguish "yielding" from "capitulating," and I want to emphasize that distinction: I'm not talking about simply letting others get their way, or avoiding conflicts, or being nice. Instead, I see yielding as finding the right balance between deference and assertiveness, between inquiry and advocacy. So what does this look like in practice?
+
+2.2. Risk Management (The Importance of Speaking Up)
+
+If it feels risky to say, it's important. If it wasn't important, it wouldn't feel risky. And that sense of risk is a critical piece of data, a sign that the conversation is a meaningful one with larger implications.
+
+2.3. Intent vs. Impact (When Communication Goes Awry)
+
+When our efforts to communicate go awry, one of the most common causes is a failure to distinguish between intent and impact. When delivering a message we typically imagine that these two concepts are aligned--it may not even occur to us to view them as distinct. Our intent is transparent to us, so we assume that it's equally clear to others and that our message is being received in that same spirit.
+
+2.4. Connect, Reflect, Direct...Then Ask (On Coaching)
+
+Asking evocative questions, ensuring the other person feels heard, and actively conveying empathy remain the foundations of coaching. But there's certainly more to the process, and here's a sequence of steps that I employ frequently in sessions with clients that you may find useful if you're seeking to integrate coaching into your managerial style.
+
+ 
+
+3. EMOTIONS
+
+3.1. Talking About Feelings
+
+My work as a coach often involves encouraging clients and students to talk about their feelings--a process known to psychologists as affect labeling--in order to manage difficult emotions more effectively. Experience tells us that this is a useful practice, but why? How does talking about feelings make them easier to manage?
+
+3.2. The Tyranny of Feelings
+
+I don't believe that acknowledging the importance of emotions requires us to think like children, nor must we always privilege our subjective emotional experience in order to realize the benefits of a deeper understanding of emotion and enjoy a broader range of emotional expression at work. So what can we do? Here are some concepts I find useful to bear in mind.
+
+3.3. You Make Me Feel... (On Language and Responsibility)
+
+Saying that someone else "makes us feel" an emotion suggests that they are responsible for our emotional state, and that's highly problematic. When another person's statements and behavior trigger an emotional response in us, it's inaccurate to presume that the other person is the responsible party and that we're an innocent bystander.
+
+3.4. Defensiveness Is in the Eye of the Beholder
+
+A theme in my practice is defensiveness, which I define as an unwillingness to accept responsibility for setbacks, characterized by a disproportionately hostile, anxious or evasive response to critical feedback. When it arises as a topic I'm usually working with a client who's figuring out how to deal with a defensive employee or colleague, but occasionally I have a client who's been accused of defensiveness and is wondering what to do in response.
+
+ 
+
+4. CONFLICT
+
+4.1. Whether or Not to Fix a Broken Relationship
+
+A theme in my practice is the leader who's struggling to repair a damaged working relationship with an employee. In most cases we start with the assumption that a better relationship is possible and that even a long-running conflict can be resolved. This usually entails the following steps in some form.
+
+4.2. Work Style Differences
+
+We all have our preferred ways of working, and sometimes when we're locked in a conflict with a colleague it's the result of incompatible work styles. When we work with people who share our work style it may feel more comfortable, but homogeneous teams can have blind spots and be prone to groupthink. Teams whose members have a diverse range of styles can be more effective if they develop the ability to manage conflict successfully.
+
+4.3. The Trap of Competition
+
+While our social orientation is critical in enabling our success as a species, it also poses a substantial challenge for each of us as individuals. We must navigate in-group competition, which becomes even fiercer in larger groups. We're hyper-aware of our relative social status and our shifting position within group hierarchies. And in order to accomplish these tasks effectively we're constantly scanning our interpersonal environment for potential threats and opportunities, which necessarily involves comparing ourselves to others.
+
+4.4. Resolving a Protracted Conflict
+
+When we're locked in a protracted conflict with another person, there's one critical step that's usually necessary to reach a resolution in which both parties feel a sense of trust and remain committed to the relationship: The higher-status person must express vulnerability first.
+
+ 
+
+5. FEEDBACK
+
+5.1. Feedback Is Not a Gift
+
+Feedback is a gift. We've been told this over and over, as if it were gospel. I've even preached it myself. But I stopped using this phrase because it fails to acknowledge how difficult the experience of receiving feedback can be. The problem is compounded when we view feedback as inherently true, inscribed on tablets of stone and delivered from the mountaintop. But if feedback isn't a gift, what is it? It's data.
+
+5.2. Make Getting Feedback Less Stressful
+
+We need to recognize that receiving feedback is inherently a stressful experience. As Sheila Heen and Douglas Stone of the Harvard Negotiation Project have written, "Even when you know that [feedback is] essential to your development and you trust that the person delivering it wants you to succeed, it can activate psychological triggers. You might feel misjudged, ill-used, and sometimes threatened to your very core."
+
+5.3. How to Deliver Critical Feedback
+
+If we want our critical feedback to be truly useful to the recipient and not merely an exercise in self-indulgence, we owe it to our colleagues to be more thoughtful and intentional in how we deliver it. A valuable model in this context is known as "supportive confrontation," developed by David Bradford and Allan Cohen and discussed at length in their book Power Up.
+
+5.4. Four Responses to Feedback
+
+It's important to be open to feedback, even--and especially--when you disagree with it or find that it disconfirms prior assumptions. But being open to feedback doesn't necessarily mean that you should simply accept it. So when you receive feedback, whether it's in a formal performance review or an informal chat, here are four potential responses.
+
+5.5. Why Some Feedback Hurts (and What to Do About It)
+
+As with all data, feedback is comprised of both signal and noise. Even the most hurtful feedback usually incorporates some signal--valuable information that presents you with an opportunity to learn and grow, challenging though it may be. But there is almost certainly plenty of noise--unhelpful or irrelevant information that should be ignored. The key with any painful feedback is ensuring that you don't miss the signal while filtering out the noise.
+
+ 
+
+FOR FURTHER READING
+
+Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+Crucial Conversations: Tools for Talking When Stakes Are High (Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler, 2002)
+
+Difficult Conversations: How To Discuss What Matters Most, Douglas Stone, Bruce Patton and Sheila Heen, 2000/2010
+
+Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time (Susan Scott, 2002)
+
+Helping: How to Offer, Give, and Receive Help (Edgar Schein, 2011)
+
+Humble Inquiry: The Gentle Art of Asking Instead of Telling (Edgar Schein, 2013)
+
+Thanks for the Feedback: The Science and Art of Receiving Feedback Well (Douglas Stone and Sheila Heen, 2015)
+
+ 
+
+Photo by Thoroughly Reviewed via Flickr.
+
+
+===== END ED BOT ESSAY 4223 =====
+===== BEGIN ED BOT ESSAY 4224 =====
+---
+title: Four Responses to Feedback
+url: https://edbatista.com/2024/03/four-responses-to-feedback.html
+slug: four-responses-to-feedback
+published: 2024-03-25T12:57:10
+updated: 2025-10-10T14:04:57
+source_body: wordpress-html
+---
+
+If feedback isn't a gift, what is it? It's data. About our impact on a particular individual at a particular point in time. And while it may be "true" in the sense that the feedback-giver is accurately representing their perspective, that doesn't make it The Truth. Because feedback always says as much about the giver as the recipient. It's filtered through their reality-distortion fields, reflecting their personal values and priorities. [1]
+
+It's important to be open to feedback, even--and especially--when you disagree with it or find that it disconfirms prior assumptions. But being open to feedback doesn't necessarily mean that you should simply accept it. So when you receive feedback, whether it's in a formal performance review or an informal chat, here are four potential responses:
+
+1. Express appreciation for the positive. We almost always overlook positive feedback and focus immediately on the negative. This is an understandable response--negative feedback has the potential to pose a threat, which makes it likely to generate a strong emotional response and capture our attention. [2] But this is a missed opportunity to acknowledge the full range of feedback you've received and make the conversation more productive for all parties. So be sure to pause, acknowledge any positive feedback, and articulate what you'll continue to do (or do even more of) as a result.
+
+It's harder to determine how to respond to negative feedback, but you don't need to agree with it all or treat it like a set of obligatory duties. That's a sure path to overwhelm and resentment. But it's essential to avoid responding defensively or to reject it out of hand. [3] Instead, recognize that every piece of negative feedback contains a request for change and that all change carries a cost. With that as a guideline, you can distinguish among the following:
+
+2. Easy changes you're happy to make. At least some of the negative feedback likely involves certain behaviors or aspects of your working style that you're not attached to and can modify without undue effort. Remind the feedback giver that we all have blind spots, and they don't need to wait for a formal process to give you similar feedback in the future.
+
+3. Hard changes you're willing to attempt. There's probably also some negative feedback on behaviors or aspects of your style that feel more deeply rooted or will be more difficult to change. Invite the feedback giver to partner with you in this process, by offering help, support and understanding, and possibly by taking some responsibility for their contributions to the issue.
+
+4. Changes that will be too difficult or costly to undertake. By no means should you feel compelled to accede to all of the negative feedback you receive. Some of the changes your feedback giver is asking for will either impose an intolerable burden on you or will prevent you from accomplishing your goals. But bear in mind that they're requesting these changes because these behaviors or aspects of your style are imposing a cost on them. You need not grant their request or agree with their point of view, but you can empathize with it.
+
+In addition, note that it may be useful to respond to feedback not only one-on-one, but also in larger groups, particularly if you're a leader and the feedback is derived from multiple employees and other stakeholders:
+
+- One-on-one: If possible, meet individually with each of your feedback providers. This may require a significant investment of time, but it will be the best way to separate the signal from the noise, because it will be easier for both parties to speak candidly. These conversations may feel risky, but that's actually a reason to have them. [4]
+
+- In a small group: Also consider meeting jointly with a subset of your feedback providers, typically your direct reports. This may also feel risky, even daunting, but it will be a unique opportunity to model how to respond to feedback, which will make it easier when you have critical feedback for them. [5]
+
+- In larger settings: Finally, it may be advisable to share some remarks with a larger group that includes people who didn't provide feedback but still have a stake in your performance in some way. If you're a CEO or a functional leader this could be at an all-hands or an offsite, which is one of the most effective ways to build a feedback-rich culture. [6]
+
+This is a companion piece to the following:
+
+- Make Getting Feedback Less Stressful
+
+- Why Some Feedback Hurts (and What To Do About It)
+
+Adapted from Your 360 Report Is Ready.
+
+Footnotes
+
+[1] Feedback Is Not a Gift
+
+[2] Why You Can't Stop Thinking About Something
+
+[3] Defensiveness Is in the Eye of the Beholder
+
+[4] Risk Management (The Importance of Speaking Up)
+
+[5] How to Deliver Critical Feedback
+
+[6] Building a Feedback-Rich Culture
+
+Photo by Nicolas Vigier.
+
+
+===== END ED BOT ESSAY 4224 =====
+===== BEGIN ED BOT ESSAY 4225 =====
+---
+title: What Do You Need When You Don't Need the Money?
+url: https://edbatista.com/2024/03/what-do-you-need-when-you-dont-need-the-money.html
+slug: what-do-you-need-when-you-dont-need-the-money
+published: 2024-03-24T17:11:01
+updated: 2025-10-05T15:38:41
+source_body: wordpress-html
+---
+
+I've had a number of clients who no longer needed to work for financial compensation. In some cases this was the result of a landmark event, such as the sale of their company. In others there was simply the realization that they'd reached the point where they were unlikely to spend more than they currently possessed. Although chance always plays a role in human affairs, and all of these people could consider themselves lucky in various ways, they didn't achieve this milestone by accident. They worked hard to get there, typically for years on end, and yet many were somewhat surprised by what they found when they finally arrived.
+
+We have a number of preconceived notions about what it would be like to not have to work, and they're often some form of "life as permanent vacation." That's certainly what some people do when they realize a windfall, and if it brings them joy, then good for them. But that's not what I've observed in my practice. It turns out that many people who've worked hard their entire careers have a finite capacity for being on vacation. And even if they deliberately pursued a lucrative path, the realization of financial freedom didn't necessarily affect the deeper motivations that drove them as professionals. So what do you need when you don't need the money?
+
+A team of Swedish and American researchers provided some answers to this question via a longitudinal study of a group of workers who were in their mid-60s, concluding nearly a decade later when almost all of the subjects were retired and none were working full-time. [1] Most of my clients who no longer needed to work are younger, and none of them permanently retired, although some took an extended break. But the study's conclusions are consistent with my clients' experiences, suggesting that not needing to work has some typical effects no matter what the cause, at least for some subset of the population. So if you find yourself in similar circumstances, consider the following factors:
+
+Obligations
+
+The study of retirees found that some people were surprised to discover that they missed having any external demands imposed upon them by work: "They expected that the lack of such demands would give them more control over their own time. They also anticipated that a lack of demands would make life less stressful and, thereby, preferable... Surprisingly, the absence of external demands among these participants felt like a void in their lives." [2]
+
+My clients who no longer need to work undeniably value having more autonomy in determining how to spend their time. This includes both the "freedom to" invest in personal pursuits, such as time with family or travel, as well as the "freedom from" onerous professional duties, such as resolving conflicts or...travel. [3] And yet they reliably find that having no obligations at all "feels like a void." The fulfillment derived from the ability to choose how to spend our time is not unlimited, and in some cases we don't resent obligations--we require them.
+
+Contrast
+
+Some study participants were also surprised to find that certain activities they previously experienced as rewarding no longer had the same effect: "Before retirement, going [to his summer cottage] allowed him to escape the demands of the workweek and to rest and relax; it was a well-earned retreat before the next period of work. But once he no longer worked, going to the cottage did not feel the same. The joy of relaxing and well-earned rest was, to his surprise, no longer present." [4]
+
+Many of my clients report a similar shift. Rewarding activities don't entirely lose their savor, but they're less reliable sources of pleasure and rejuvenation. This may simply be a matter of insufficient contrast. The relief we experience when we turn away from onerous duties is part of what makes avocations and pastimes rewarding, and should those onerous duties come to an end, those avocations and pastimes now occupy a different space in our lives.
+
+Colleagues
+
+The study results highlight the unique role played by colleagues: "After retiring, some participants came to realize that their relationships with coworkers were of a specific type that could not be re-created in relationships with friends and neighbors... The problem was not that they lacked social involvement, but that the nature of social contact had partly changed, leaving one type of social experience out of their narratives... It came to most as a kind of 'revelation' that their previous relationships at work had been quite special and could not be readily replaced." [5]
+
+My work with clients invariably involves their difficulties with colleagues--it's not uncommon for that topic to be the primary focus of a coaching session. So it often feels liberating to be less dependent on colleagues or even entirely free of those relationships, at least for a period of time. But eventually this is also experienced as a gap or an insufficiency. Even as my clients enjoy the ability to spend more time with family and friends, they seek to sustain or recreate collegial relationships.
+
+Engaging Occupations
+
+These factors manifest in what the researchers describe as a profound need for engagement: "Here we refer to engagement as something that goes beyond ordinary daily experience. Engaging occupations are those that evoked a depth of passion or feeling... The presence or absence of engaging occupations appeared to be the main determinant of whether participants were able to achieve positive life experiences... Engaging occupations are done with great commitment, enthusiasm, perseverance and passion." [6] More specifically, engaging occupations possess several distinct characteristics:
+
+- Meaning: "An engaging occupation was infused with positive meaning connected to interest (pleasure, challenge, enjoyment), personal causation (challenge, indication of one's competence), and value (something worth doing, important, contribution to family or society)."
+
+- Intensity: "Engaging occupations were typically those that the participant did with some sort of regularity over the week; they were not sporadic. Moreover, engaging occupations were also long term in nature."
+
+- Coherence: "The occupation might have begun as a single activity, but over time it became more intense and involved interrelated activities and projects."
+
+- Duty: "The dutiful nature of such occupations was evident in their descriptions of how not all aspects of engaging in the occupation were pleasurable. In fact, the very nature of duty seemed to be connected to a willingness to fulfill the required duties whether or not one actually felt like it."
+
+- Community: "Discussions about the occupation, planning future involvement, problem solving related to the occupation, and giving and taking advice from others about how to do the occupation contributed to the sense of community." [7]
+
+It's clear that engaging occupations are a form of work, although I'm reminded that some years ago I first appreciated the difference between our work and our job:
+
+We often talk about "my work" and "my job" as if they're interchangeable concepts, but it's important to distinguish between them. I define "work" as a vocation--a calling or a personal mission that provides us with an intrinsic sense of meaning and purpose. A "job," in contrast, is a set of responsibilities we fulfill in exchange for various forms of compensation. We get paid to do the job, but the work is its own reward. [8]
+
+In short, when you don't need the money you no longer need a job, but you still need to work. You need not continue to work in the same capacity, and you may choose to take time away, to work less, to opt out of unpleasant tasks or taxing relationships. But you need an engaging occupation, and the absence of a financial imperative won't necessarily affect the many other needs that are filled by such an enterprise. Freud himself felt this need keenly, seeing patients until shortly before his death at age 83, even as he was suffering from cancer, and he touched on this theme at several points in his life:
+
+I cannot imagine life without work as at all comfortable; giving my imagination free play and working coincide for me. [9]
+
+No other technique for the conduct of life attaches the individual so firmly to reality as laying emphasis on work; for his work at least gives him a secure place in a portion of reality, in the human community. [10]
+
+Footnotes
+
+[1] Narratives and Experience in an Occupational Transition: A Longitudinal Study of the Retirement Process (Hans Jonsson, Staffan Josephsson, and Gary Kielhofner, The American Journal of Occupational Therapy, 2001)
+
+[2] Ibid, page 427.
+
+[3] Freedom From and Freedom To
+
+[4] Jonsson et al, page 428.
+
+[5] Ibid.
+
+[6] Ibid.
+
+[7] Ibid, pages 428-429.
+
+[8] The Work and The Job
+
+[9] Personal correspondence from 1910, translated and cited by Walter Kaufmann in Discovering the Mind, Volume 3: Freud Versus Adler and Jung, 1980, page 160. Cited in Apocryphal Freud: Sigmund Freud's most famous "quotations" and their actual sources, page 15 (Alan Elms, Annual of Psychoanalysis, 2001). This sentiment is often expressed as "Love and work are the cornerstones of our humanness," or something similar, but there is no evidence that Freud ever wrote or said this. In 1950 Erik Erikson, who trained with Freud's daughter Anna, attributed a similar line to Freud but provided no documentation and later admitted it was possible that he mistakenly invented it (see Elms, page 13).
+
+[10] Civilization and Its Discontents, page 80 (Sigmund Freud, 1930 / 1961 edition). Also cited in "Apocryphal Freud."
+
+Photo by VisitGrosMorne.
+
+
+===== END ED BOT ESSAY 4225 =====
+===== BEGIN ED BOT ESSAY 4226 =====
+---
+title: The Fifth Reunion is the Hardest
+url: https://edbatista.com/2024/03/the-fifth-reunion-is-the-hardest.html
+slug: the-fifth-reunion-is-the-hardest
+published: 2024-03-12T23:08:13
+updated: 2025-10-05T15:45:25
+source_body: wordpress-html
+---
+
+For the GSB's Class of 2019, particularly the 108 members who I was privileged to have as students in The Art of Self-Coaching, but hopefully relevant to anyone who's obtained a competitive graduate degree in pursuit of your professional goals.
+
+Having worked with over 1,000 MBA students during my career at Stanford's Graduate School of Business [1], I've had countless conversations about reunions, and I've concluded that the fifth is the hardest. Why? Because during business school you were artificially compressed into the uniform identity of "student," and this often yields a set of unrealistic expectations about subsequent life paths. And a few years after graduation differences in professional accomplishments become more visible, resulting in a heightened sense of social comparison. [2] The bad news is that this can be a significant source of stress and anxiety at a fifth reunion--but there's good news, too, over the long run.
+
+The shared identity of "student" can become all-encompassing, particularly at a place like the GSB where you not only invested countless hours in group projects and interactive coursework, but also likely spent a great deal of social time together. As a result you may well have perceived yourself as a member of an egalitarian cohort. The GSB enhanced this perception by the school's de-emphasis of intra-class competition for grades. As a faculty member I generally appreciated this aspect of their policies. The primary guideline was that the average grade for all students in a section could not exceed a certain quantitative standard, which prevented grade inflation.
+
+Further, although the members of the top ten percent of your class were designated as Arjay Miller Scholars, and some selective firms made it a priority to hire "Arjays," most prospective employers weren't particularly interested in business school grades, only the fact that you attended a program like the GSB. All of this made it less likely that you and your classmates viewed each other as rivals, which fostered a sense of openness and collegiality in the classroom. But a downside was a degree of obfuscation about the real differences in students' relative capabilities and performance.
+
+Once you left graduate school and returned to the working world these artificial constraints were removed, and as early-career MBAs you began to experience an increasingly divergent range of professional outcomes. Almost all of you enjoy an extremely high standard of living relative to the population at large, but that's not how social comparison works, particularly among ambitious and competitive people. Humans measure ourselves against a comparison set consisting of people we view as similar to us, and how we stack up against others who aren't members of that group isn't all that salient.
+
+I'm certainly not suggesting that our professional accomplishments should determine our sense of self-worth, nor is there a sharply defined and well-understood relationship between, for example, material wealth and well-being. [3] But our predisposition to rely on markers of career success as a source of social status is an impulse with deep roots in evolutionary psychology that can't simply be wished away because we find it problematic. As I've written before,
+
+While our social orientation is critical in enabling our success as a species, it also poses a substantial challenge for each of us as individuals. We must navigate in-group competition, which becomes even fiercer in larger groups. We're hyper-aware of our relative social status and our shifting position within group hierarchies. And in order to accomplish these tasks effectively we're constantly scanning our interpersonal environment for potential threats and opportunities, which necessarily involves comparing ourselves to others--as UC Riverside psychologist Sonja Lyubomirsky writes in The Myths of Happiness, "Most of the time, it's impossible not to compare ourselves with others... Social comparisons arise naturally, automatically, and effortlessly." [4]
+
+Changes in relative status as a function of professional accomplishments take some time to emerge, so these distinctions were probably less evident at your first reunion, when you and your classmates may have largely related to each other merely as former students. But in the years since graduation the effects of different professional paths have likely become much more pronounced. Some of this divergence is a function of your individual talent and effort, and some is a function of your industry and your organization. And much is a function of random chance, which is something we hate to admit to ourselves. [5]
+
+I've talked with many GSB alumni who observed this shift in the social dynamic at their fifth reunion and found it challenging. Some felt awkward about the success they had achieved, while many felt the opposite, that they were failing to measure up to expectations somehow. What makes it worse, of course, is the pervasive sense that none of this can be discussed or even acknowledged. Here the GSB's idealistic vision of an egalitarian cohort finds itself severely tested by the realities of intra-elite competition.
+
+As I noted above, there's bad news and good news. First, some more bad news: Intra-elite competition never ends. The status games available to you are infinite, should you have the good fortune--and the desire--to continue playing. When you were accepted into the GSB, you undoubtedly felt that you had "made it," and you enjoyed the status and exclusivity that differentiated you from your then-peers, some of whom may well have been bitterly disappointed by their rejection. And for a while membership in your GSB class was all that was needed to maintain that status. Five years after graduation, that's no longer sufficient, and the inevitability of social comparison and the corresponding need for status distinctions will be keenly felt--although hard to describe with much precision--at your fifth reunion.
+
+But here's the good news: Somewhere between the fifth and tenth reunion, something changes for most people. The status games won't end--they're truly infinite, and some people will feel compelled to keep score as long as they live. And most of us continue to play in one way or another, if only because the prizes are so tempting--but even as we do, we realize how much more there is to life beyond these status games, and that they truly are games, no different from those played by children.
+
+The causes of this shift in perspective vary widely. Some people achieve a lifelong dream, like financial freedom or fame in their field, and find that the sense of fulfillment is far more fleeting than they expected. Some people find professional accomplishments less meaningful in contrast with their experience as parents or caregivers. Some people suffer great setbacks or health problems that lead them to feel a renewed sense of gratitude for existence. Whatever the cause, the alumni I've talked to who felt uneasy or distressed at their fifth reunion uniformly felt much lighter at their tenth. They felt less competitive with their classmates and more connected--not necessarily with everyone, but with the people who mattered most to them.
+
+I'll close with some recent remarks inspired by my work with clients, who must also decide whether and how to play the various status games available to them, and what really matters to them in this life, even as they pursue tremendously ambitious professional goals:
+
+To be clear, I'm not suggesting that you give up your ambitions or settle for achievements that feel insubstantial. Winning offers many benefits over losing, and I want you (and my clients) to win, by any definition you choose. But in the process you're going to have to face a fundamental reality: The more you win, the higher you climb, the tougher the competition. If your definition of "winning" rests upon your ability to obtain "more" than the people around you in order to feel "ahead," you will eventually, inevitably lose.
+
+I'm also not suggesting that you should opt out of conventional competitions and live like a monk--my clients haven't done so, nor have I. And yet it's important to recognize that the yardsticks most readily available to assess your accomplishments--net worth, job title, social prominence, where you live--serve many valid purposes, but they do not, and cannot, measure your sense of meaning and purpose, the depth of your relationships, the feeling of a life well-lived. [6]
+
+Footnotes
+
+[1] Thank You, Stanford, and Goodbye!
+
+[2] For more on social comparison, see the following:
+
+- The Trap of Competition
+
+- Stop Trying to Be "Good Enough" by "Getting Better"
+
+- The Art of Self-Coaching, Class 8: SUCCESS
+
+[3] For more on well-being and happiness, see the following:
+
+- Myths in the Science of Happiness (Ed Diener, Chapter 24 in The Science of Subjective Well-Being, Michael Eid and Randy Larson, editors, 2008)
+
+- Understanding "The Pie Chart" in The How of Happiness
+
+- The Art of Self-Coaching, Class 5: HAPPINESS
+
+[4] The Trap of Competition
+
+[5] Significance Junkies
+
+[6] Learning How to Fall Behind
+
+Photo by Gerry Dulay.
+
+
+===== END ED BOT ESSAY 4226 =====

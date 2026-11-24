@@ -1,0 +1,134 @@
+===== BEGIN ED BOT ESSAY 3177 =====
+---
+title: Googleability
+url: https://edbatista.com/2005/05/googleability.html
+slug: googleability
+published: 2005-05-12T23:03:27
+updated: 2005-05-12T23:03:27
+source_body: wordpress-html
+---
+
+Forum One's Chris Wolz has a very thought-provoking piece comparing the relative online prominence of the Brookings Institution and the Heritage Foundation, two think tanks of similar size ($35 million budgets, 150-200 staff), albeit with quite different political outlooks. He uses data from Alexa, and Technorati, and major newspapers for some metrics, but he primarily relies on Google results. His conclusions?
+
+Overall, I think Heritage is succeeding better than Brookings in
+
+building the prominence of its ideas and its work online, including on
+
+the blogosphere. This is evident in the wider linking in from other web
+
+sites, heavier overall web traffic, and wider blogosphere prominence.
+
+While Brookings has about double the prominence of Heritage in two
+
+major (online) “mainstream” media outlets, that’s only a (small and
+
+shrinking?) piece of the web.
+
+These groups no doubt have different objectives and priorities for the
+
+impact of their work. Still, I think this wide different in online
+
+prominence noted here would encourage Heritage to try to do more of
+
+whatever has been working well for them, and to inspire Brookings to
+
+use the web more aggressively. I’ve not gotten into prescriptive ideas
+
+here, but it’s a rich topic.
+
+My hat's off to the man for doing some actual legwork and coming up with some honest-to-God data. When's the last time you saw that in a post? You're putting the rest of us to shame, Chris.
+
+I'm struck by the fact that in the absence of better data to work with, Googleability has become the de facto measure of prominence. My wife is an electronic reference librarian at a law school, and she's appalled at the degree to which people rely upon search engines as their sole reference source. In the law and other specialized fields there's a huge amount of information that hasn't yet been made searchable, and people who rely too heavily on the web run into brick walls fast.
+
+But beyond those specialized fields, the rest of us are coming to rely on Google and other search engines, as the parameters of the known world; if it's not on the web it doesn't exist. This would trouble me more if it weren't for two trends. First, the folks are Google are spending a lot of time and money on things like their Library Project, which are making more offline resources searchable every day.
+
+And second--and more to the point of this post--we're all starting to pay a lot more attention to Googleability as a metric of prominence, thanks to work like Chris's analysis, and we're all going to be working a lot harder to insure that the people, organizations and issues we care about get the attention they deserve.
+
+I hear spluttering in the background..."But people will game the system to promote themselves!" Well, what was the standard measure of prominence in the past? Lexis/Nexis searches, and, specifically, mentions in the New York Times. Do you think those sources were game-proof? Or unbiased? Of course not--it just took a lot more money and/or privileged access to game those systems. But now even you can become a Googlebomber. I kid, I kid--that's so 2002.
+
+But it's clear that an aggressive search optimization strategy
+
+is an essential element of contemporary advocacy--because if you don't have one, you can bet that your opponents will.
+
+
+===== END ED BOT ESSAY 3177 =====
+===== BEGIN ED BOT ESSAY 3178 =====
+---
+title: Baby Got Back(-End)
+url: https://edbatista.com/2005/05/baby_got_backen.html
+slug: baby_got_backen
+published: 2005-05-11T21:09:46
+updated: 2005-05-11T21:09:46
+source_body: wordpress-html
+---
+
+(The Webbies should have categories for Best & Worst Post Title, and I hereby nominate myself in both categories.)
+
+Ruby Sinreich and Kurt Voelker both make great points in this ongoing dialogue we're having on blogs, their characteristics and their relation to the rest of the web, and whether the term "blog" is even useful anymore, now that most website share those same characteristics.  (I vote "No.")
+
+Ruby first:
+
+When I do presentations (and elevator speeches), I define blogs as having the following characteristics:
+1. first-person voice -> authenticity
+2. dialog (either between blogs and/or in the comments)
+3. database back-end (enabling archives and syndication)
+4. (or 3.5) permanently available archives [emphasis mine]
+
+My recent posts talked about those first two points extensively, but (non-techie that I am) neglected the latter entirely.  But Ruby's one of those worth-her-weight-in-gold techies who really understands the human side of the equation (or is she a people-person who really gets technology?)  That back-end she's talking about is essential--it's the foundation that everything else is built upon.
+
+Email groups and bulletin boards have been forums for authentic dialog for years, and they still have a valuable role to play.  But so many of these forums lack the ability to archive, search and syndicate that content, giving them a very short shelf-life and making it hard for people to spread the word.  But what about those forums that do have a web-accessible archive?
+
+Well, that brings up Kurt's point:
+
+...[T]o be bloggish, your site must connect to the network of conversations and people that are also being bloggish in a formally recognized way. Technically it should happen via RSS, trackback, and blogrolling - but it's not the technology that is important. What's important is that there is an unwritten, but agreed upon, standard for discoverability. [emphasis Kurt's]
+
+To illustrate the importance of this bloggish quality think about a moderated listserve with a web archive. Authentic voices? Check. Fresh content? Check. Permantently available archives? Yep. But there is no "listserve-o-sphere". Why? Because your listserve conversation is taking place without any context to make it discoverable by all of the other exciting conversations taking place in other similar listserves. Its the network effect of Blogs, I believe, that has really made them take off.
+
+Amen.  Add Kurt's "discoverability" to Ruby's checklist, and you have a concise definition of a blog.  But I feel compelled to add that these are the exact same qualities that are required of any effective web presence today.   No, not all sites are going to look or feel like "blogs" as we know them, but if a site's going to have an impact, it should 1) have an authentic voice, 2) enable conversations with and among their users, 3) support archived content and syndication, and 4) be easy to find within a network of related sites.
+
+And in a perverse way, I think the continuing use of the word "blog" is actually a barrier to the extension of these qualities across the web (although the spread of blogs themselves is obviously a big help.)  The more we talk about "blogs" and the "blogosphere," the easier it is for people to think we're referring to something other than websites on the web.  Kill your blog--save the web.
+
+
+===== END ED BOT ESSAY 3178 =====
+===== BEGIN ED BOT ESSAY 3179 =====
+---
+title: A Mystery I Must Unravel
+url: https://edbatista.com/2005/05/a_mystery_i_mus.html
+slug: a_mystery_i_mus
+published: 2005-05-10T00:12:37
+updated: 2005-05-10T00:12:37
+source_body: wordpress-html
+---
+
+Haywood is, well, was one of my favorite bands. And tonight I discover a reference to my obscure hometown, Mechanicsburg, PA, in the "final thanks" section of their memorial site (link's at the bottom right.) Now, technically, I lived in Hampden Township as a kid, but my mailing address said "Mechanicsburg," and I can attest that at no time from 1973 to 1985 was that locale likely to attract the likes of Haywood, and I'm confident that remained true during the band's lifespan, from 1992 through 2000. But not only did they venture to the 1705x, it apparently made a meaningful impression on them. Uh, WTF?
+
+
+===== END ED BOT ESSAY 3179 =====
+===== BEGIN ED BOT ESSAY 3180 =====
+---
+title: Blogs Are STILL Obsolete
+url: https://edbatista.com/2005/05/blogs_are_still.html
+slug: blogs_are_still
+published: 2005-05-09T22:31:57
+updated: 2005-05-09T22:31:57
+source_body: wordpress-html
+---
+
+Interesting take from Fredrik Wacka of WebProNews on my last post:
+
+I guess the question is when to stop saying "You should consider blogging" and start saying "You know blogs, right, what if you should use that kind of publishing to strengthen your web presence?" or even "Hey, shouldn't you write more openly and authentic on your site?"
+
+Well said.  Fantastically said.  I'm a technology consultant (says so right on my business card), and if I advised anyone to "consider blogging" I'd smack myself.  IMO, the time to stop talking about blogging qua blogging is now.  "Blogging" is no longer the point, if it ever was.  The point is...using non-technical web publishing tools to enable genuine, direct conversations with your market (or donors, or advocates, or whatever collective noun floats your boat.)
+
+Another thoughtful colleague emailed me this morning:
+
+Some challenges for me intellectually with the very distinctions you raise. Blog as publishing tool vs. blog as form of individual expression.
+
+Which is an interesting way of framing the issue, but not the distinction I'm talking about.  Blogs have been successful as forums for individual expression because they're so easy to use as publishing tools.  Any idiot can run a blog these days.  (Yes, that's an intentional setup line.  Ba-dum-bum.  Thank you!  I'll be here all week.)  But what's really interesting is the way blogs, er, websites, have made it possible for anyone--an individual representing him- or herself, or someone representing an organization--to engage an astoundingly large and diverse audience (cf. The Long Tail.)  Blogs are fantastic tools for individual expression, and they're also fantastic tools for an organization seeking to reach its online audience precisely because blogging tools enable conversations, i.e. authentic, responsive, individual voices.
+
+The significant common factor isn't the underlying blogging technology, but how you approach your online audience.  Do you hand down stone tablets from the mountaintop?  Or do you speak in a genuine, human voice...and ask questions...and respond to questions asked of you?  If your answer is "Yes, all of the above" then you're engaged in an effective conversation with your online audience, and whether you're using a "blog" or not is irrelevant.  If your answer is "No," then you're irrelevant (or you soon will be) and a "blog" won't save you from the scrap heap.
+
+(Damn, I'm feisty tonight!  That's right, I said "scrap heap!")
+
+
+===== END ED BOT ESSAY 3180 =====

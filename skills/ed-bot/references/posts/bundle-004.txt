@@ -1,0 +1,86 @@
+===== BEGIN ED BOT ESSAY 3077 =====
+---
+title: Photo Guidelines
+url: https://edbatista.com/2005/01/photo_guideline.html
+slug: photo_guideline
+published: 2005-01-23T15:09:09
+updated: 2005-01-23T15:09:09
+source_body: wordpress-html
+---
+
+An friendly attorney of my acquaintance pointed out to me the importance of crediting any photos or images that I found online and posted here.  I did a little due diligence into best practices in this area, and the key steps seem to be:
+
+- Host the image yourself; i.e. download it from their site and upload it to your own.  Otherwise, you're free riding on their storage space and bandwidth.
+
+- Use the "title" tag to provide appropriate credit/s.
+
+- Use an anchor tag to make the photo or image a link to the page where you found it.
+
+Note that these guidelines are simply common courtesy; they won't insure that you're not violating copyright laws.
+
+I also found a few sources of free photos that are not copyrighted and can apparently be used for non-commercial purposes:
+
+- FreeFoto
+
+- Free Stock Photos
+
+
+===== END ED BOT ESSAY 3077 =====
+===== BEGIN ED BOT ESSAY 3079 =====
+---
+title: RIP Johnny
+url: https://edbatista.com/2005/01/rip_johnny.html
+slug: rip_johnny
+published: 2005-01-23T14:20:12
+updated: 2005-01-23T14:20:12
+source_body: wordpress-html
+---
+
+I didn't watch Carson much until his last few years on the Tonight Show. As a kid and college student, I preferred Letterman's edgy irony, but as I grew older, I found Carson's softer approach more appealing, and I began to appreciate his sly wit and easy self-confidence. (And I started going to bed earlier.)
+
+Carson's final weeks on the air were the show-biz equivalent of a victory lap, and it was moving to see all the familiar faces showing up not to pimp their latest pop-culture dreck but to pay homage to a man they genuinely cared for. I think Bette Midler was his final guest (on his penultimate show), and she sang a sweet song to him from her chair, a touching goodbye.
+
+
+===== END ED BOT ESSAY 3079 =====
+===== BEGIN ED BOT ESSAY 3080 =====
+---
+title: Custom Cars
+url: https://edbatista.com/2005/01/custom_cars.html
+slug: custom_cars
+published: 2005-01-22T11:34:03
+updated: 2005-01-22T11:34:03
+source_body: wordpress-html
+---
+
+The new Ford Mustang is much more attractive than the sorry models I remember from the '80s. But what grabbed my attention was this detail:
+
+"The font on the gauges reeks of old-school style, yet in an interestingly modern twist, the new car is available with an optional "My Color" package that allows the driver to customize the dash lighting with more than 125 different color backgrounds."
+
+This is still a fairly superficial aspect of design, but it's striking that Ford is giving customers the ability to personalize something that had previously been uniform in every other model of the past (as far as I'm aware).
+
+Seems like one more bit of evidence supporting Virgina Postrel.
+
+
+===== END ED BOT ESSAY 3080 =====
+===== BEGIN ED BOT ESSAY 3081 =====
+---
+title: CEO Smackdown, Blog-Style
+url: https://edbatista.com/2005/01/ceo_smackdown_b.html
+slug: ceo_smackdown_b
+published: 2005-01-22T11:17:11
+updated: 2025-10-26T21:28:16
+source_body: wordpress-html
+---
+
+Sun President Jonathan Schwartz has his own blog, and yesterday he posted an open letter to IBM CEO Sam Palimisano:
+
+"[Sun customers] have now asked me to begin communicating with you in a more public and visible way - they'd like the choice to run IBM products on [the new Sun operating system] Solaris 10, and they're feeling that your withholding support is part of a vendor lock-in strategy. A strategy to trap them into IBM's proprietary Power5 platform only. [Emphasis his.]
+
+Frankly, that behavior is reminiscent of an IBM history many CIO's would like to forget."
+
+Bring it on, Jon.  This seems like a great use of the medium, a validation of the blogosphere, and a refreshingly candid voice from a corporate bigwig.  If Sun's President is putting his blog to good use, why isn't your organization's leadership doing the same?
+
+Hat tip to Benjamin Pimentel for his article in today's S.F. Chronicle.
+
+
+===== END ED BOT ESSAY 3081 =====

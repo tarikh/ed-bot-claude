@@ -1,0 +1,260 @@
+===== BEGIN ED BOT ESSAY 3806 =====
+---
+title: Underdoing It and Overdoing It (Assertiveness Over Time)
+url: https://edbatista.com/2013/11/underdoing-it-and-overdoing-it-assertiveness-over-time.html
+slug: underdoing-it-and-overdoing-it-assertiveness-over-time
+published: 2013-11-12T05:00:00
+updated: 2025-10-15T22:18:29
+source_body: wordpress-html
+---
+
+We often live out the pattern shown above: If we're initially unsuccessful when advocating for a position or seeking to influence others, we imagine that we'll steadily escalate our assertiveness as time progresses (as shown on the dotted blue line).
+
+But what we actually do often looks very different. Early in the process we tend to underdo it--we do escalate, but far too slowly. "That's OK," we say, "it's no big deal"--masking our increasing frustration. Eventually a switch gets flipped, and we assert ourselves much more vigorously. Soon we're overdoing it, unable to control our frustration, and we say or do things we later regret (as shown on the solid red line).
+
+How can we understand what's happening here?
+
+First, we need to ask why we're so slow to assert ourselves in this particular context or relationship. It's likely one in which we're at risk of experiencing a social threat--an interpersonal situation that we perceive as threatening in some way. David Rock's SCARF model reminds us that we tend to experience social threats when dealing with people of higher status or from different social groups, in conditions of uncertainty or diminished autonomy, or when our sense of fairness has been violated. [1]
+
+All of these circumstances tend to cause us to act cautiously--and so we underdo it. But that initial reticence makes it more likely that our efforts at advocacy or influence will fail--and so the situation persists as we keep trying the same (cautious) approach. Eventually our impatience overcomes our caution, and we start to escalate.
+
+But by this point our capacity for mental and emotional control, always limited, is running out, and our ability to finely calibrate our behavior or choose our words has been undermined. [2] A misstep on our part or the other party's can easily trigger a threat response, and soon we're experiencing a full-blown "amygdala hijack," which Daniel Goleman describes as follows:
+
+When [neural] circuits [in the amygdala, a region of the brain involved in processing emotion,] perceive a threat, they flood the body with stress hormones that do several things to prepare us for an emergency... Attention tends to fixate on the thing that is bothering us... That means that we don't have as much attentional capacity left for whatever it is we’re supposed to be doing or want to be doing. In addition, our memory reshuffles its hierarchy so that what's most relevant to the perceived threat is what comes to mind most easily--and what's deemed irrelevant is harder to bring to mind. That, again, makes it more difficult to get things done than we might want. Plus, we tend to fall back on over-learned responses, which are responses learned early in life--which can lead us to do or say things that we regret later. It is important to understand that the impulses that come to us when we're under stress--particularly if we get hijacked by it--are likely to lead us astray. [3]
+
+In the graph above this is when we hit the inflection point in the solid red line--our levels of assertiveness and expressiveness shoot skyward, and suddenly we switch from underdoing it to overdoing it.
+
+So what can we do about this? Four suggestions:
+
+1. Assess the situation.
+
+What's the context? What's the relationship? What's the likelihood that we might perceive some dynamic in the situation as threatening? Here Rock's model can be tremendously helpful: look at every situation from the perspective of each party's status, certainty, autonomy, relatedness and sense of fairness. When any of those factors are undermined, there's a potential social threat.
+
+2. Recognize our "tells."
+
+Although these biological processes are universal, we consciously experience the stress of a threat response in uniquely individual ways. I get a sinking feeling in the pit of my stomach, or my hands get sweaty, but you may feel a tightness in the back of your neck or a shortness of breath or a sense of tunnel vision. Just as poker players scan their opponents for "tells"--signs of fear or overconfidence--these physical and emotional signals are the signs that we're in the grip of a threat response.
+
+3. Question our responses.
+
+As Goleman points out, when under stress we tend to revert to responses that we learned early in life--and those responses aren't necessarily helpful when seeking to influence others or advocate for our position effectively. It's essential to determine when our habitual behavior under stress--which probably feels quite natural and familiar to us--is preventing us from achieving our goals and needs to change.
+
+4. Try NOT to underdo it.
+
+I suspect that we eventually overdo it in part because we underdo it at the start. Our reluctance to be more assertive and expressive at the outset ultimately contributes to our over-assertiveness and hyper-expressiveness later on. By being so cautious at first, when we have the greatest capacity to manage our emotions and calibrate our behavior, we miss a critical opportunity to influence and assert ourselves more effectively. I'm not suggesting we should compete aggressively right away in every interaction--we're likely to be much more effective with a soft startup. I am suggesting that by being slightly more assertive at the outset--by aiming for the dotted blue line above--we may actually lessen the risk of finding ourselves in a counterproductive confrontation.
+
+Footnotes
+
+[1] Neuroscience, Leadership and David Rock's SCARF Model
+
+[2] White Bears and Car Crashes (Thinking About Thinking)
+
+[3] The Brain and Emotional Intelligence (Daniel Goleman interviewed by Monty McKeever, Tricycle, 2011)
+
+- Here's an excerpt from the interview that was previously posted to Goleman's personal site.
+
+
+===== END ED BOT ESSAY 3806 =====
+===== BEGIN ED BOT ESSAY 3807 =====
+---
+title: Stop Worrying About Making the Right Decision
+url: https://edbatista.com/2013/11/new-post-at-hbr-stop-worrying-about-making-the-right-decision.html
+slug: new-post-at-hbr-stop-worrying-about-making-the-right-decision
+published: 2013-11-08T11:21:59
+updated: 2025-09-24T11:59:32
+source_body: wordpress-html
+---
+
+Much of my work as a coach involves helping people wrestle with an important decision. Some of these decisions feel particularly big because they involve selecting one option to the exclusion of all others when the cost of being "wrong" can be substantial: If I’m at a crossroads in my career, which path should I follow? If I’m considering job offers, which one should I accept? If I’m being asked to relocate, should I move to a new city or stay put?
+
+Difficult decisions like this remind me of a comment made by Scott McNealy--a co-founder of Sun Microsystems and its CEO for 22 years--during a lecture I attended while I was in business school at Stanford. He was asked how he made decisions and responded by saying, in effect, It’s important to make good decisions. But I spend much less time and energy worrying about "making the right decision" and much more time and energy ensuring that any decision I make turns out right.
+
+I’m paraphrasing, but my memory of this comment is vivid, and his point was crystal clear. Before we make any decision--particularly one that will be difficult to undo--we're understandably anxious and focused on identifying the "best" option because of the risk of being "wrong." [1] But a by-product of that mindset is that we overemphasize the moment of choice and lose sight of everything that follows. Merely selecting the "best" option doesn’t guarantee that things will turn out well in the long run, just as making a sub-optimal choice doesn’t doom us to failure or unhappiness. It's what happens next (and in the days, months, and years that follow) that ultimately determines whether a given decision was "right."
+
+Another aspect of this dynamic is that our focus on making the "right" decision can easily lead to paralysis, because the options we're choosing among are so difficult to rank in the first place. How can we definitively determine in advance what career path will be "best," or what job offer we should accept, or whether we should move across the country or stay put? Obviously, we can't. There are far too many variables. But the more we yearn for an objective algorithm to rank our options and make the decision for us, the more we distance ourselves from the subjective factors — our intuition, our emotions, our gut--that will ultimately pull us in one direction or another. And so we get stuck, waiting for a sign--something--to point the way.
+
+I believe the path to getting unstuck when faced with a daunting, possibly paralyzing decision is embedded in McNealy's comment, and it involves a fundamental re-orientation of our mindset: Focusing on the choice minimizes the effort that will inevitably be required to make any option succeed and diminishes our sense of agency and ownership. In contrast, focusing on the effort that will be required after our decision not only helps us see the means by which any choice might succeed, it also restores our sense of agency and reminds us that while randomness plays a role in every outcome, our locus of control resides in our day-to-day activities more than in our one-time decisions.
+
+So while I support using available data to rank our options in some rough sense, ultimately we’re best served by avoiding paralysis-by-analysis and moving forward by:
+
+- Paying close attention to the feelings and emotions that accompany the decision we’re facing.
+
+- Assessing how motivated we are to work toward the success of any given option.
+
+- Recognizing that no matter what option we choose, our efforts to support its success will be more important than the initial guesswork that led to our choice.
+
+This view is consistent with the work of Stanford professor Baba Shiv, an expert in the neuroscience of decision-making. Shiv notes that in the case of complex decisions, rational analysis will get us closer to a decision but won’t result in a definitive choice because our options involve trading one set of appealing outcomes for another, and the complexity of each scenario makes it impossible to determine in advance which outcome will be optimal.
+
+Two key findings have emerged from Shiv’s research: First, successful decisions are those in which the decision-maker remains committed to their choice. And second, emotions play a critical role in determining a successful outcome to a trade-off decision. As Shiv told Stanford Business magazine, emotions are "mental shortcuts that help us resolve trade-off conflicts and...happily commit to a decision." Going further, Shiv noted, "When you feel a trade-off conflict, it just behooves you to focus on your gut." [2]
+
+This isn’t to say that we should simply allow our emotions to choose for us. We’ve all made “emotional” decisions that we later came to regret. But current neuroscience research makes clear that emotions are an important input into decision-making by ruling out the options most likely to lead to a negative outcome and focusing our attention on the options likely to lead to a positive outcome. More specifically, research by Florida State professor Roy Baumeister and others suggests that good decision-making is tied to our ability to anticipate future emotional states: "It is not what a person feels right now, but what he or she anticipates feeling as the result of a particular behavior that can be a powerful and effective guide to choosing well." [3]
+
+So when we’re stuck or even paralyzed by a decision, we need more than rational analysis. We need to vividly envision ourselves in a future scenario, get in touch with the emotions this generates and assess how those feelings influence our level of commitment to that particular choice. We can’t always make the right decision, but we can make every decision right.
+
+ 
+
+Footnotes
+
+[1] How Anxiety Can Lead Your Decisions Astray (Francesca Gino, Harvard Business Review, 2013)
+
+[2] "Dynamics of Decision-Making" (Marina Krakovsky, Stanford Business Magazine, February 2008)
+
+[3] "Do Emotions Improve or Hinder the Decision-Making Process?" (Roy Baumeister, Nathan Dewall and Liquing Zhang, Chapter 1 in Do Emotions Help or Hurt Decisionmaking?, edited by Kathleen Vohs, Roy Baumeister and George Loewenstein, 2007)
+
+Originally published at Harvard Business Review, this post is an updated version of an earlier post on this site. Thanks to Stanford's Baba Shiv and Florida State's Roy Baumeister, whose research has heavily influenced my thinking on this topic, and to Scott McNealy, whose seemingly offhand comment 15 years ago pointed me in this direction in the first place. And continued thanks to Tim Sullivan for his guidance and encouragement.
+
+Photo courtesy of HBR.
+
+
+===== END ED BOT ESSAY 3807 =====
+===== BEGIN ED BOT ESSAY 3808 =====
+---
+title: Leading In Four Dimensions
+url: https://edbatista.com/2013/10/leading-in-four-dimensions.html
+slug: leading-in-four-dimensions
+published: 2013-10-29T05:00:00
+updated: 2025-11-18T09:38:50
+source_body: wordpress-html
+---
+
+Pierluigi Pugliese is a software consultant and agile coach whose views on coaching have influenced on my own over the last few years. [1] I've particularly appreciated learning about the many parallels between agile coaching with developers and executive coaching with leaders. [2]
+
+Pugliese recently gave a presentation in Prague on coaching, and his deck included a diagram similar to the one above. [3] He notes that a coach working with a software development team will play these eight roles, and going a step further, I find this a compelling model for the range of roles that must be played by every leader in any group.
+
+I've re-organized Pugliese's schema by pairing up the roles along four axes, each of which represents a different dimension of leadership behavior, and the definitions below are my own, so don't blame Pugliese if you disagree.
+
+Expert vs. Coach
+
+The primary leader archetypes: the Expert with the answers, whose extensive domain experience is the basis for their authority, and the Coach with the questions, whose expertise lies in helping people discover the answers for themselves.
+
+Evangelist vs. Motivator
+
+Our word "evangelist" derives from the Greek "euangelistes," which means "bringer of good news." The Evangelist is on a mission to spread a message, and their goal is to rally others to their cause. The Motivator is agnostic, seeking to identify others' personal goals and help them move forward in their preferred direction, whatever it may be.
+
+Trainer vs. Mentor
+
+The Trainer is focused on the task at hand and shows others what is to be done (and how to do it better). The Mentor is focused on others' development, and immediate tactical performance is secondary to long-term strategic growth.
+
+Mediator vs. Facilitator
+
+The Mediator seeks to resolve conflict and maintain harmonious relationships in the service of group effectiveness. The Facilitator seeks to maximize learning and ensure that all voices are heard in the service of candor, integrity and authenticity.
+
+Looking over this framework, I'm reminded of a passage from Peter Drucker:
+
+Increasingly "employees" have to be managed as "partners"--and it is the definition of a partnership that all partners are equal. It is also the definition of a partnership that partners cannot be ordered. They have to be persuaded...
+
+One does not "manage" people.
+
+The task is to lead people.
+
+And the goal is to make productive the specific strengths and knowledge of each individual. [4, emphasis original]
+
+And of this comment from Bill George:
+
+We need to disavow ourselves of the notion that leadership is power over other people. Leadership capacity is the ability to empower other people to step up and lead. [5]
+
+The better we can fulfill the Coach / Mentor / Motivator roles as leaders, the more effectively we can meet the challenges posed by Drucker and George (and the many others who've expressed similar thoughts in recent decades.)
+
+But that's not to say the Expert / Evangelist / Trainer roles are unhelpful--they're essential leadership tools, particularly early in a group's development or when leading the inexperienced. In Daniel Goleman's research the leadership style with the greatest positive impact on "climate," his term for working atmosphere, is the Authoritative style, which he describes as follows:
+
+An authoritative leader takes a "Come with me" approach: she states the overall goal but gives people the freedom to choose their own means of achieving it. This style works especially well when a business is adrift. It is less effective when the leader is working with a team of experts who are more experienced than he is. [6]
+
+It's not a matter of answering a single question--What type of leader am I?--but, rather, a series of questions:
+
+- Can I adjust my style to best fit the needs of the situation?
+
+- Am I flexible and adaptable as a leader?
+
+- Can I sense what is called for and deliver it?
+
+Footnotes
+
+[1] Pierluigi Pugliese is the founder and managing director of Connexxo.
+
+[2] Pierluigi Pugliese on Agile Coaching
+
+[3] The Scrum Master as Team Coach (Pierluigi Pugliese, 2013)
+
+[4] Management Challenges of the 21st Century, pages 17-22 (Peter Drucker, 2001)
+
+[5] Bill George on Leadership at the Stanford Faculty Club
+
+[6] Leadership That Gets Results (Daniel Goleman, Harvard Business Review, 2001)
+
+
+===== END ED BOT ESSAY 3808 =====
+===== BEGIN ED BOT ESSAY 3809 =====
+---
+title: On Firing a Senior Team Member
+url: https://edbatista.com/2014/12/on-firing-a-senior-team-member.html
+slug: on-firing-a-senior-team-member
+published: 2014-12-22T14:13:26
+updated: 2025-10-12T15:52:04
+source_body: wordpress-html
+---
+
+Sadly but inevitably, a common issue in my coaching practice is helping leaders decide whether or not to fire a senior team member. These decisions are always difficult ones--the clear-cut situations resolve themselves and tend not to take up time in a coaching session. Generally speaking, I see four typical scenarios: 1) a gifted individual contributor who's struggling as a new (or newly promoted) manager, 2) a trusted and well-liked early-stage employee who's failing to keep pace with the company's growth, 3) a highly talented but abrasive exec who's alienating other senior team members, and 4) a recent hire who's not fitting in with the company's culture.
+
+I don't offer advice on whether any given individual in one of these scenarios can be saved or whether they and the company need to part ways. When working with a client who's wrestling with one of these decisions, it's essential for me to bear in mind how little I know about the specifics of each case and the individuals involved, and it would be presumptuous to recommend a course of action on the basis of my observations and assumptions.
+
+Instead, the role I play as a coach in these situations is focused on helping my clients sift through all the available data (specifically including their intuitive and emotional responses) that will help them reach a decision. I seek to build a trusting relationship so that I earn the right to ask tough questions. I interpret and reflect back a client's answers to those questions, so they can assess the quality of their thinking. And I often role-play difficult conversations with them, to help them prepare for a range of outcomes. This isn't to say that I don't share opinions or provide feedback--I do. But the emphasis is on asking questions such as these:
+
+Are you deciding whether or not to fire this person, or have you already made up your mind?
+
+In some cases my client has actually made their decision but isn't prepared to move ahead. Loyalty toward the employee, a desire to avoid conflict, or reluctance to admit a mistake can all prevent a leader from taking action even when they've reached a conclusion.
+
+If you're still in the decision-making process, what data do you have--and how do you feel about that data?
+
+Note that I mean "data" in the broadest possible sense, because we're not talking about situations involving clear-cut, objective evidence. Decisions in cases like these always involve a leader's intuitive and emotional response to the person involved, their past performance, their current impact on the team, their future potential, and ultimately what's best for the business. It's impossible to reduce these complex factors to a number that will tell a leader what to do--it requires judgment.
+
+Extensive research has made it clear that emotions play a critical role in reasoning and decision-making. [1] So it's essential that the leader is in close touch with their emotions throughout this process--not allowing frustration or disappointment to cloud their judgment, but rather accessing their full range of emotions and weighing their impact on the decision carefully.
+
+If you're NOT firing them, what happens now?
+
+While I don't tell my clients whether or not to fire someone, I do have strongly held beliefs about how (and how not) to manage team members who are struggling. First, "performance plans" rarely work; they exist primarily to fend off wrongful termination suits. That's a legitimate function, but let's be clear about what's likely to happen--someone who's been put on such a plan will be constantly stressed and unable to do their best work.
+
+But having reached the point of considering a firing, some type of intervention is called for. The specifics vary widely, but the process typically involves some candid feedback [2], which includes efforts to make feedback less stressful [3] and to recognize the impact of the organizational culture on the feedback process [4].
+
+If you ARE firing them, when and how will you do it?
+
+There are many dimensions to this phase of the process, ranging from how to handle the conversation [5] to how much time to allow the person to transition out (a week? a day? immediately?) There's no one right way to do this--it depends on a host of circumstances, ranging from the reason for the decision to their functional role to the state of the business.
+
+But there are certainly plenty of wrong ways to do it, and mistakes leaders make include failing to prepare for an emotional response (by either party), presenting a mass of evidence that justifies the decision, or inadvertently leaving room for the person to advocate for their retention.
+
+Before you fire them, who do you need to talk to? And after you've fired them, who do you need to talk to next?
+
+In the midst of this process, it can be easy for a leader to focus on the problematic person and miss the larger context. But it's important to consider who should be informed in advance, such as board members, other investors or the rest of the senior team. Sometimes these conversations involve seeking counsel or getting another perspective, while at other times they simply ensure that the other parties aren't caught by surprise.
+
+Similarly, a leader should have a clear idea of who should be informed afterwards, who should deliver that message, and what the message should be. In some cases the leader should tell the fired person's colleagues and direct reports, while in other cases it's preferable for that person to deliver the message directly. There's no single best practice, but a common mistake is failing to manage this process deliberately and allowing word to spread informally, which leads to misinformation that can cause unnecessary anxiety and uncertainty.
+
+Finally, what can be learned from this experience?
+
+Every firing is a learning opportunity, and the leader should have a thorough discussion with the remaining senior team as soon as possible. Some questions to raise in this conversation:
+
+- Should this person have been fired sooner? If so, what red flags did we miss or choose to ignore?
+
+- Should this person not have been hired (or not promoted) in the first place? If so, again, what red flags did we miss or choose to ignore?
+
+- Why did this person make it through our hiring (or promotion) screens? Should these processes be adjusted in some way? [6]
+
+- What responsibility do the rest of us (and the surrounding organizational culture) bear for this failure? How can we avoid scapegoating this person for our shortcomings? [7]
+
+Footnotes
+
+[1] Antonio Damasio on Emotion and Reason
+
+[2] How to Deliver Critical Feedback
+
+[3] Make Getting Feedback Less Stressful
+
+[4] Building a Feedback-Rich Culture
+
+[5] Setting the Table (Difficult Conversations)
+
+[6] Daniel Kahneman on Conducting Better Interviews
+
+[7] The Fundamental Attribution Error & the No Asshole Rule
+
+Photo by Jason Estrellas Verde.
+
+
+===== END ED BOT ESSAY 3809 =====

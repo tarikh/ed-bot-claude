@@ -1,0 +1,146 @@
+===== BEGIN ED BOT ESSAY 3193 =====
+---
+title: Freakonomics
+url: https://edbatista.com/2005/04/freakonomics.html
+slug: freakonomics
+published: 2005-04-14T23:11:33
+updated: 2005-04-14T23:11:33
+source_body: wordpress-html
+---
+
+Today I read a review of Freakonomics, by Steven Levitt and Stephen Dubner, in today's Wall Street Journal, and it sounds fascinating (if I had the article at hand I'd credit the reviewer. A little help, someone?) Levitt's a University of Chicago economics wunderkind, winner of the John Bates Clark medal awarded annually to the most promising economist under 40, and Dubner is a journalist and Levitt's co-author. In a nutshell, it sounds like Levitt asks some difficult questions and uses rigorous quantitative analysis to come up with some suprising and controversial answers. For example, why did urban crime drop sharply in the 1990s? Most of us would say improving economic conditions, or community policing. Levitt says it's because the people who would have been expected to join the criminal underworld simply didn't exist: they were aborted almost two decades earlier in the wake of Roe v. Wade. The abstract from a 2000 white paper that Levitt wrote with John Donohue for the National Bureau of Economic Research reads:
+
+We offer evidence that legalized abortion has contributed significantly
+
+to recent crime reductions. Crime began to fall roughly 18 years after
+
+abortion legalization. The 5 states that allowed abortion in 1970
+
+experienced declines earlier than the rest of the nation, which
+
+legalized in 1973 with Roe v. Wade. States with high abortion rates in
+
+the 1970s and 1980s experienced greater crime reductions in the 1990s.
+
+In high abortion states, only arrests of those born after abortion
+
+legalization fall relative to low abortion states. Legalized abortion
+
+appears to account for as much as 50 percent of the recent drop in
+
+crime.
+
+And before you get up on your high horse, be sure to read uber-blogger Jason Kottke's brief interview with Levitt:
+
+jkottke: In the chapter on the effect of abortion on crime
+
+rates, you and Stephen take care emphasizing what the data says and the
+
+strong views that people in the US hold on the issue of abortion.
+
+Still, if someone wants to twist your observations into something like
+
+"abortion is good because it lowers crime", it's not that difficult.
+
+Have your observations in this area caused any problems for you? Any
+
+extreme reactions?
+
+Levitt: I have gotten a whole lot of hate mail on the
+
+abortion issue (as much from the left as from the right, amazingly).
+
+What I try to tell anyone who will listen -- few people will listen
+
+when the subject is abortion -- is that our findings on abortion and
+
+crime have almost nothing to say about public policy on abortion. If
+
+abortion is murder as pro-life advocates say, then a few thousand less
+
+homicides is nothing compared to abortion itself. If a woman's right to
+
+choose is sacrosanct, then utilitarian arguments are inconsequential.
+
+Mainly, I think the results on abortion imply that we should do the
+
+best we can to try to make sure kids who are born are wanted and loved.
+
+And it turns out that is something just about everyone can agree on.
+
+Well, I guess he's not controversial all the time.
+
+
+===== END ED BOT ESSAY 3193 =====
+===== BEGIN ED BOT ESSAY 3194 =====
+---
+title: Google Sightseeing
+url: https://edbatista.com/2005/04/google_sightsee.html
+slug: google_sightsee
+published: 2005-04-14T22:29:51
+updated: 2005-04-14T22:29:51
+source_body: wordpress-html
+---
+
+The good folks at Shreddies have brought us Google Sightseeing,a compilation of the best Google Maps satellite images.  Their slogan: Why bother seeing the world for real?  Hat tip to the very funny Jeffrey Veen.
+
+
+===== END ED BOT ESSAY 3194 =====
+===== BEGIN ED BOT ESSAY 3195 =====
+---
+title: Michael Stein's Word of Net
+url: https://edbatista.com/2005/05/michael_steins_.html
+slug: michael_steins_
+published: 2005-05-31T18:30:00
+updated: 2005-05-31T18:30:00
+source_body: wordpress-html
+---
+
+Some people you respect because they're so smart, some people you respect because they're so decent, and some people you just want to kick back and have a drink with because they're so fun.  Michael Stein is on all three lists in my book.  In addition to his regular posts at Aether Madness, Michael's now putting out Word of Net twice a month for GetActive, where he's the "in-house storyteller."
+
+In his latest column, Michael talks about what we can learn from the outpouring of charitable support that followed the disastrous December 2004 tsunami.  His primary point is that the growth in online giving continues: "The Internet accounted for over $350 million in tsunami relief contributions, eclipsing the previous online record of $211 million after the September 11 attacks in the United States...[and] Save the Children, CARE USA, and Oxfam America reported that 31%, 38%, and 80%, respectively, of total tsunami giving has come in via their websites."
+
+But he draws another conclusion that I think is even more important:
+
+More than half of new online donors toward tsunami relief asked to not be contacted again by relief agencies. Individual donors are shifting to giving on an as-needed basis, not on a regular, sustainable basis, as they had in the past. A growing percentage of the online population is feeling the effects of information overload. With today’s Internet tools, individuals can find news and information quickly and monitor the activities of a group or an issue without “opting in” to a traditional membership relationship. More and more, people are seeking authentic opportunities to be more fully a part of campaigns and causes, not just check writers or names on a membership list. [Emphasis mine]
+
+What's happening here?  We need more data, but here are two hunches:
+
+- Supporters don't want to be members.  As Michael noted, people are increasingly giving on an "as-needed basis," and I think this stems from a desire to be helpful while protecting one's privacy and identity.  People who are happy to support your cause in a variety of temporary ways are reluctant to become permanently affiliated with your organization.  As I said recently, "People want to give, but they don't want to be on your email list, because they're not going to read your boring newsletter, and they don't trust you to keep their address out of the wrong hands."   
+
+- Don't email them, they'll Google you (or read your feed, or search for your tags.)  Michael also cites "information overload," and I think this is significantly eroding (or at least transforming) the value of email as a mass communication channel.  Everyone's Inbox is too full these days.  Non-essential messages get deleted immediately.  Email's not going away anytime soon, but relying on it as the only online channel is going to yield diminishing returns.
+
+So how should nonprofits respond?  No one's about to stop recruiting full-fledged members, and email's not going away anytime soon.  But nonprofits should be thinking about how they can use alternative "push" channels (like RSS and web tags) to promote their cause to a wider, more loosely affiliated network of supporters.  These folks are never going to subscribe to your list, and they don't want you to count them among your membership, but if you can reach them at the right moment via the right channel, they'll give willingly.
+
+nptech getactive online fundraising michael stein
+
+
+===== END ED BOT ESSAY 3195 =====
+===== BEGIN ED BOT ESSAY 3196 =====
+---
+title: AAAAAnalysis
+url: https://edbatista.com/2005/05/aaaaanalysis.html
+slug: aaaaanalysis
+published: 2005-05-30T15:33:05
+updated: 2005-05-30T15:33:05
+source_body: wordpress-html
+---
+
+Ever since my recent post on Seth Goldstein's "Media Futures" essay series, I've been looking at the world through his "Automata - Algorithm - API - Alchemy - Arbitrage" framework.  I find myself applying the same set of questions to every online community and activity:
+
+- Automata: Are individuals spontaneously generating content?   Is the number of individuals and the amount of content increasing?   Are either likely to reach critical mass?
+
+- Algorithm: Is there a means by which these individuals and their content can be aggregated, classified and rated?  Is there a means by which that output can be fed back into the development of new content?
+
+- API: Is there an interface through which individuals generating content can identify and communicate with each other?  Is there an interface through which they can communicate with any secondary content-generators?
+
+- Alchemy: How can value be added?  Is it sufficient to simply aggregate and re-package any primary content, or must other steps be taken?
+
+- Arbitrage: Can the primary content be developed or accessed inexpensively, and is there a market lacking access that's willing to pay a premium in order to gain access?
+
+It's a thought-provoking way of looking at the world, and more than a little addictive.  More to come soon.
+
+metadata social media
+
+
+===== END ED BOT ESSAY 3196 =====

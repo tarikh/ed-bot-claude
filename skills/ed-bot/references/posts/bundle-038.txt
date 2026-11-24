@@ -1,0 +1,152 @@
+===== BEGIN ED BOT ESSAY 3229 =====
+---
+title: Convio-lation?
+url: https://edbatista.com/2005/06/conviolation.html
+slug: conviolation
+published: 2005-06-03T16:18:36
+updated: 2005-06-03T16:18:36
+source_body: wordpress-html
+---
+
+Judy Sarasohn of the Washington Post reported yesterday that the Alliance for Marriage, a group that's working to amend the U.S. Constitution to ban gay marriage, has selected Convio as their provider for online advocacy and fundraising services.  According to AFM President Matt Daniels, "Convio allows us to reach, motivate and retain supporters using online communication, fundraising, team-building and advocacy tools."
+
+This relationship is attracting some attention in the blogosphere, first on AmericaBlog and now on DailyKos, both because Convio was used by the Howard Dean campaign in 2004 and because Convio has a policy that states, in part, "Convio does not work with groups that promote prejudice and hate even if they are in full compliance with the law."
+
+I strongly support the rights of all people to enjoy the privileges of marriage, no matter what their sexual orientation.  Preventing gays and lesbians from marrying won't do anything to make this a better society, but it will needlessly hurt innocent people.  I'd love to see the Alliance for Marriage go out of business; I personally could not support their efforts in any way; and I wish Convio had turned down their business.
+
+But all that said, I have to make one important point in Convio's defense.  Kos calls Convio's tools "crappy, overpriced software," even though he later admits in the comments, "I've been out of consulting for nearly a year, so I'm a bit out of the loop on what's hip and good."  This is ridiculous.  Convio's tools are a great fit for some organizations, and not appropriate for others--but it's definitely not "crappy software," and any number of nonprofits have had great success using it.  Convio's fees are a bargain for some organizations, and too high for others--but they're definitely not "overpriced" relative to full-service ASP competitors like GetActive and Kintera.   Yes, they're more expensive than Democracy In Action, or CitySoft, or Network for Good, or any number of Open Source content and communications management tools.  But in many cases those tools aren't the best fit with an organization's needs, and the cost of the software shouldn't be the deciding factor.
+
+Convio's going to have to deal with the repercussions of taking on a controversial client whose mission is at odds with those of many of the other groups they serve.  But they shouldn't have to deal with uninformed criticism of their software.
+
+Full disclosure: My employer also provides technology-related services to nonprofits, and although we have no financial relationships of any sort with Convio, we have recommended their software to some of our clients and have collaborated with them to serve mutual clients.  I know several Convio employees, but I have no personal relationship with any of them.  I'd probably be better off personally if I'd just kept my mouth shut, and given how irritated I am with Convio for working with AFM, perhaps I should have.  Well, maybe next time.
+
+UPDATE: Bobby Clark at ProgressNow weighs in with a great post criticizing Convio for their decision to work with AFM but also taking Kos to task for his "unfortunate and disappointing" criticism of their software, a topic he promises to elaborate on in a subsequent post.
+
+convio dailykos
+
+
+===== END ED BOT ESSAY 3229 =====
+===== BEGIN ED BOT ESSAY 3230 =====
+---
+title: Serious Blogging?
+url: https://edbatista.com/2005/06/serious_bloggin.html
+slug: serious_bloggin
+published: 2005-06-02T18:08:07
+updated: 2005-06-02T18:08:07
+source_body: wordpress-html
+---
+
+NYT reporter David Greenberg recently spent a week guest-blogging for Daniel Drezner, and his article on the experience gave Corante's Suw Charman serious pause for concern. Charman quotes Drezner, then rebuts him:
+
+Serious bloggers, I realized, aggressively report a pet issue, updating
+
+their sites throughout the day. They scavenge the Internet for every
+
+shard of information on a hot topic, like John R. Bolton's chances of
+
+becoming ambassador to the United Nations or Tom DeLay's ethical
+
+troubles.
+
+'Serious bloggers'? What does that mean? Are the
+
+people who aren't fixated on the spike of the power curve automatically
+
+dilettantes? I don't like this division. I always thought that the
+
+appealing thing about blogging was that it isn't a medium that submits
+
+to being split up thusly. It's not healthy for us to start believing
+
+that such divisions even exist because they don't - it's all in our
+
+perceptions - and by creating these divisions we forget and devalue the
+
+fact that blogging centres around individual bloggers and the
+
+conversations that they are having. We don't talk about 'serious'
+
+telephone users, so why talk about 'serious' bloggers?
+
+Amen. This is an important point that's in danger of being lost as organizations start taking blogging, uh, seriously. I've said it before, and I'll say it again: Blogs aren't just another "channel" for your "message". It's not about broadcasting; it's about conversations (in Cluetrain's sense of the word.) It's not about having an audience; it's about making connections. Ultimately, it's not even about blogs as a platform (because the web as a whole is becoming more "bloggish"); it's about blogging as an activity, a way of being online (a insightful distinction Marnie Webb made during our recent "Blogs Are Obsolete" discussion.)
+
+But I also want to make a point in Greenberg's defense. People who are unfamiliar with blogs tend to think of them not only as highly personal and subjective, but also as overly broad and intellectually shallow. Charman rightly takes Greenberg to task on the first issue--blogs are appealing and compelling precisely because they speak in a personal and subjective voice. That doesn't make them un-serious; that makes them authentic.
+
+But I don't think Greenberg's wrong to suggest a distinction between bloggers who focus on a set of issues they know well (i.e. they take them "seriously"), and those who write more superficially on a wider range of issues. This doesn't mean that only "experts" have a right to take part in these conversations; the beauty of the blogosphere is its openness to intellectual entrepreneurialism and its meritocratic dismissal of credentials. But Greenberg's stint as a guest-blogger opened his eyes to the fact that quite a few "amateurs" are as highly informed as any "expert," and by calling them "serious," I think he meant to credit their depth, not to belittle other bloggers.
+
+My solution is to use this site to discuss a particular set of issues--design, technology, advocacy and marketing, just like it says on the wrapper--that I think about every day, that I grapple with professionally, that I have strong feelings about, and that I want to talk about with others. All the other stuff I like to write about, but don't necessarily feel the need to debate--from CD reviews to my latest home improvement project--goes up on a personal site.
+
+Both sites are personal, subjective and authentically mine. But I take this one more seriously, and I would expect to be taken more seriously on the topics discussed here. If you don't like Aimee Mann or Haywood, well, that's no skin off my nose. But if you don't like my take on, say, Seth Goldstein, them's fightin' words.
+
+corante blogging suw charman
+
+
+===== END ED BOT ESSAY 3230 =====
+===== BEGIN ED BOT ESSAY 3231 =====
+---
+title: Walker Blogs
+url: https://edbatista.com/2005/06/walker_blogs.html
+slug: walker_blogs
+published: 2005-06-01T11:23:42
+updated: 2005-06-01T11:23:42
+source_body: wordpress-html
+---
+
+Beth Kanter has a great "bloggerview" with Reggie Prim, Community Arts Program Manager at the Walker Arts Center in Minneapolis, and the person responsible for one of their blogs:
+
+Why did the Walker start a blog?
+
+I think that in my own departmental case, the head of the
+
+department wanted an extra way to tap into all the things I was doing
+
+in the community. While I jokingly say it it was a way for my boss to
+
+keep better track of me, the blog also gives me a way to share some of
+
+the interesting things I was coming across in my research on arts and
+
+community with other staff members and our audience.
+
+...
+
+Words of advice to others
+
+Although we are just starting out, we've utilized our blog mainly
+
+to highlight links and stories of interest but I think a more powerful
+
+way of using a blog (My friend Paul Schmelzer's advice - a pretty top
+
+notch blogger himself - check him out at eyeteeth.com) is to develop
+
+and test ideas over time and to have a public record of the development
+
+of those ideas.
+
+An insightful look inside an organization that's actively experimenting with the medium. Thanks, Beth! (But if "bloggerview" catches on, I'm going to hold you responsible.)
+
+nptech
+
+
+===== END ED BOT ESSAY 3231 =====
+===== BEGIN ED BOT ESSAY 3232 =====
+---
+title: Happy Birthday, Jakob!
+url: https://edbatista.com/2005/06/happy_birthday_-2.html
+slug: happy_birthday_-2
+published: 2005-06-01T09:54:31
+updated: 2005-06-01T09:54:31
+source_body: wordpress-html
+---
+
+Ten years of Alertbox and counting.  We're all in Jakob Nielsen's debt, and even when people tweak his anti-style, they do it with love.
+
+I've learned a great deal from Nielsen, not only explicitly through his regular Alertbox updates and numerous white papers, but also implicitly through his business model and his approach to knowledge sharing.  I can't afford to attend one of his seminars, but because he's freely shared so much useful information, I'm more than happy to promote his ideas and services through links, references, and occasional posts like this.
+
+Thanks, Jakob, and here's wishing you ten more years of success.
+
+jakob nielsen usability
+
+
+===== END ED BOT ESSAY 3232 =====

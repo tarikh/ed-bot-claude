@@ -1,0 +1,190 @@
+===== BEGIN ED BOT ESSAY 3694 =====
+---
+title: Blocking And Tackling (Fundamentals of Change)
+url: https://edbatista.com/2012/01/blocking-and-tackling.html
+slug: blocking-and-tackling
+published: 2012-01-19T09:54:20
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+This post has been extensively revised and updated--here's the current version:
+
+Building Blocks (A Tactical Approach to Change)
+
+ 
+
+I don't use that many sports metaphors, but there's something about "blocking and tackling" that perfectly describes my approach to change, whether it's with a coaching client or student, or in my own life.
+
+The phrase reflects the fact that flashy, dramatic plays in American football--like Steve Young's game-winning 49-yard scramble for the 49ers against the Vikings in 1988--are the result of a series of profoundly un-flashy, un-dramatic efforts that make big gains possible. And this is exactly how I think about any desired change--no matter how lofty or ambitious the goal, the path to its achievement will be paved with countless small, humble steps.
+
+So what does blocking and tackling look like in this context? I see the 5 strategies below as the fundamental tools at our disposal when when we're seeking to make a change--there are many others, to be sure, but in my experience these 5 tend to provide significant leverage:
+
+1) Break down large goals into smaller components.
+
+By definition, people seeking help accomplishing a goal, whether in a 1:1 coaching engagement or as part of a larger organizational transition, are grappling with a challenge that's too big or complex to address all at once. If that were possible, they'd simply do it and move on.
+
+This is understandable: We slap labels on a huge array of related activities in order to give us a conceptual handle on the overarching goal. But once we move beyond the conceptual realm into action, the labels start getting in our way. They obscure the distinctions between separate-but-related activities, they fail to acknowledge inter-relationships and dependencies, and they're useless at helping us prioritize.
+
+For example, in early 2008 I decided that I wanted to "be healthier," which was certainly a laudable goal, and even a motivational one in theory. But what the hell did that actually mean in practice? "Being healthy" was way too abstract for me to translate into action, and (after a number of experiments), I ultimately broke it down into five smaller, daily goals: 1) exercise, 2) meditate, 3) get enough sleep, 4) eat and drink moderately, 5) work on my intellectual/professional development.
+
+This framework allows me not only to get a clearer picture of my "health" by assessing each of these smaller goals individually, but also to see the inter-dependencies among them and to prioritize accordingly. I've noticed that sleep and my intellectual/professional development can be inversely correlated--which usually means I'm doing a lot of late-night study. Sometimes this is OK--but at other times it's not, and then I need to re-balance, prioritize sleep and trust that the work will get done. 
+
+2) Build enthusiasm and momentum by celebrating small victories.
+
+Success feeds on itself, and a benefit of breaking large goals down into smaller components is that it gives us many more opportunities to feel successful and reap the rewards. The smaller goals I outline above are all daily activities--so every single day I have an opportunity to succeed on each dimension. In this case, I track each of the goals mentioned above using Don't Break the Chain, a lightweight productivity tool that's so powerful because it's so simple: Set up a daily calendar, and every day you accomplish your goal just click on the date to add a "link" to the "chain." (My exercise calendar for this month--as of January 18th--is above.)
+
+A significant consequence of this approach is that I experience a small (but noticeable) thrill each time I get to click on a date and "add a link"--classic reward-driven behavior that's undoubtedly related to a tiny surge of dopamine in my brain each time I click: Press the lever, get the cookie! Equally significant is the small (but noticeable) feeling of absence that occurs when I fail to fulfill a daily goal and as a result am denied the reward.
+
+I can also celebrate milestones by looking at stretches of time on my calendars, from 4 weeks to 4 months to an entire year, and feel a sense of accomplishment and agency. Each of my daily successes over the course of a month, a quarter, a year add up to something bigger than I realized in the moment. (Conversely, when I consistently fail to accomplish a goal, the growing stretch of white space on the calendar can motivate me to get back on track, and in retrospect I can correlate that data with whatever was going on in my life at that time to better understand what happened and why.)
+
+3) Identify assumptions and mental models; then create experiments to generate new data.
+
+We often embark upon an effort to change with a commitment to re-assess our goals, values and strategies and judge them by their results. But a limitation of this approach is that so many of those very same goals, values and strategies are rooted in underlying assumptions and mental models that go untested because we view them as universal truths or because we're not even fully aware of their existence.
+
+We need to step back and expand our analytical frame to identify the assumptions and mental models that underlie the goals, values and strategies we're testing in the first place. This process is best described as double-loop learning, a term first coined by Harvard Business School professor Chris Argyris:
+
+The key tasks here are A) identifying our closely-held beliefs as assumptions and mental models rather than "truths," B) developing experiments that will generate data allowing us to test the veracity and utility of those assumptions and models, and C) being willing to revise and update our assumptions and models on the basis of that new data.
+
+In my case, a mental model deriving from my athletic training as an adolescent was the idea that exercising meant grueling, full-on workouts. Anything less was insufficient and "didn't count." But as a result of this belief, if I didn't have time to "do it right," then I wouldn't do it at all--I let the perfect be the enemy of the good. Even worse, I failed to take into account the fact that as I entered middle age, it was no longer possible for me to do everything that I did when I was in high school and college. I had to let go of the model of a "training regimen" designed for a young, competitive athlete and embrace the alternative concept of an "active life" designed for an old(er) guy who just wanted to feel better.
+
+At first, this new approach didn't feel right at all--my mental model told me I was slacking. But eventually I realized that being easier on myself (both physically and mentally) made it possible to be more active more consistently--which was actually my ultimate goal. New mental model, different strategy, better results.
+
+4) Avoid obstacles by taking alternative or parallel paths.
+
+This approach to change relies upon a sense of dynamism and fluidity. Breaking down large goals into smaller steps means more opportunities to celebrate little victories as well as more opportunities to test assumptions and mental models.
+
+But when we hit an obstacle--often in the form of our own resistance--everything grinds to a halt. So it's important to keep moving forward, in one way or another. And rather than overcome the obstacle or fight the resistance, it's often more effective to simply find another path toward the goal.
+
+This can take many forms--in my case breaking down the large goal of "being healthy" into five components gave me five paths to follow simultaneously. And while my intention is to pursue them all every day, that's not necessarily feasible--as shown in the occasional inverse correlation between sleep and work. But having multiple paths at my disposal allows me to continue to make progress on at least one of them every day. (It's pretty rare that I go "5 for 5" on a given day, but I don't go "0 for 5" very often either.)
+
+Another version of this strategy involves looking for experiences that parallel the goal we're pursuing in other aspects of life. My practice as a coach focuses on helping people be more effective and fulfilled in their professional lives, but in many cases my clients and students find the work-related issues they're addressing a little too daunting to tackle head-on. In that case, an option is to look for parallels in their personal lives, where there's often more support for change and where the risks of change can seem lower.
+
+5) Start small and scale up as needed. 
+
+Implicit in all of the strategies above is the idea that it becomes easier to make big changes when we're already experiencing success at a smaller scale. (Just note how many times I use the word "small" above.)
+
+Tackling smaller changes not only allows us to feel the reward and sense of efficacy that comes with accomplishment, but also helps us learn some important things about ourselves, such as our assumptions and mental models, other sources of resistance, how we respond to setbacks and what support we find most helpful. We learn best when we're slightly stressed but not overwhelmed, and changing at a smaller scale first allows us to have as much information as possible as our disposal when the stakes are higher.
+
+Successful small changes may also reduce the need for large-scale change. Change is often driven by a desire to be happier, but research shows that we exercise control over our sense of happiness and fulfillment most effectively through small-scale, consistent intentional activities, not through large-scale changes in our life circumstances.
+
+Finally, changing successfully at a smaller scale allows us to shift our mindset. We may think of ourselves as people who don't--or can't--change, and we may think of change as something alien or frightening. A running joke of mine with my wife is "I hate change"--and at one level that simply means that I enjoy ritual and routine; for example, I love returning to familiar restaurants, because I like re-connecting with the people we come to know through repeated visits. But at another level, I'm also saying that "Change is scary," and it's the successful efforts to change at a smaller scale that allow me to feel calmer and more courageous when the scale increases. I'm not sure what changes are in store for me at the moment, but the shift in mindset I've experienced by changing in small ways over the last 4 years will undoubtedly serve me well when I decide to take on something bigger.
+
+Photo courtesy of the United States Sports Academy.
+
+
+===== END ED BOT ESSAY 3694 =====
+===== BEGIN ED BOT ESSAY 3695 =====
+---
+title: Interpersonal Velcro
+url: https://edbatista.com/2012/01/velcro.html
+slug: velcro
+published: 2012-01-18T02:04:27
+updated: 2025-10-19T07:09:35
+source_body: wordpress-html
+---
+
+https://edbatista.com/wp-content/uploads/files/velcro.mp3
+
+The generic name for Velcro is "hook-and-loop fastener," a term that reminds me of psychologist John Gottman's concept of "the bid," which is what he calls "the fundamental unit of emotional communication":
+
+A bid can be a question, a gesture, a look, a touch--any single expression that says, "I want to feel connected to you." A response to a bid is just that--a positive or negative answer to somebody's request for emotional connection. [1]
+
+From my perspective as a coach it's clear that we seek to connect in all the ways that Gottman describes and countless others. I've come to see most interpersonal behavior as a series of more or less effective bids, because no matter what additional goals we have in a given interaction, in most cases we're also looking to connect with the other person and to have that feeling reciprocated.
+
+Some of us connect readily with others, and some of us are easy to connect with. The former put out highly effective bids--if they were velcro, they'd have plenty of hooks--while the latter respond effectively to bids--if they were velcro, they'd have endless loops.
+
+I find "interpersonal velcro" a useful metaphor because it makes me stop and ask: What hooks am I putting out there? How effectively am I bidding to connect with this particular person? Just as important, what loops am I putting out there? How effectively am I perceiving and responding to their bids? [2]
+
+Footnotes
+
+[1] The Relationship Cure: A 5 Step Guide to Strengthening Your Marriage, Family, and Friendships, page 4 (John Gottman and Joan DeClaire, 2002)
+
+[2] To explore Gottman's work on this concept further, his Bid for Connection quiz is a useful place to start.
+
+Photo by Hadley Paul Garland. Sound effect courtesy of SFX Source.
+
+
+===== END ED BOT ESSAY 3695 =====
+===== BEGIN ED BOT ESSAY 3696 =====
+---
+title: Resistance and Self-Sabotage
+url: https://edbatista.com/2012/01/resistance-and-self-sabotage.html
+slug: resistance-and-self-sabotage
+published: 2012-01-16T23:06:29
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+My last post on Why I (Keep Trying To) Meditate included the following passage:
+
+I know that my resistance to meditation is an indicator that it's a healthy practice for me, and the fact that it's difficult for me to do it daily is one of the primary reasons I keep at it.  I'm not saying I should force myself to do all the things I resist doing.  Helping people deconstruct a rule like that--a powerful mental model, by the way--is something I do in my coaching practice, and I strive to do the same in my own life.
+
+Rather, I'm saying that there are some specific steps that occur in the meditation process that are valuable for me to experience precisely because of my resistance to the practice.
+
+Which prompted Richard Winters to note that it reminded him of Steven Pressfield's War of Art.  I wasn't familar with Pressfield, so I looked him up.  He's an accomplished writer of historical fiction probably best known for golfing tale The Legend of Bagger Vance, but he also served as a Marine in the 1960s and has worked "as an advertising copywriter, schoolteacher, tractor-trailer driver, bartender, oilfield roustabout and attendant in a mental hospital."  What a life!
+
+And I was deeply struck by the power of this quote on his About page:
+
+My writing philosophy is a kind of warrior code—internal rather than external—in which the enemy is identified as those forms of self-sabotage that I call "Resistance" with a capital R (in The War of Art). The technique for combating these foes can be described as "turning pro."
+
+I don't know what Pressfield means by "turning pro," but I completely resonate with the idea that our greatest enemy lies within and that we hold ourselves back primarily through self-sabotage.  I'm reminded that in my work as a coach it's essential to meet any form of resistance--especially my own--with curiosity.  Just digging in and pushing back harder generates a lot of heat but rarely results in actual motion.
+
+ Photo by Bailey Weaver.  Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3696 =====
+===== BEGIN ED BOT ESSAY 3697 =====
+---
+title: Why I (Keep Trying To) Meditate
+url: https://edbatista.com/2012/01/why-i-meditate.html
+slug: why-i-meditate
+published: 2012-01-16T14:16:56
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+I'm not a very good meditator--in fact, I'm terrible at it. I say that tongue-in-cheek, knowing full well that striving to be a "good" meditator is an exercise in absurdity--but what I mean is that I find meditation difficult, I regularly avoid doing it, and yet I persist in the practice. Why?
+
+Two of my standing goals are to exercise and mediate daily. I track goals like this using a simple tool called Don't Break the Chain [1], and looking back at the last six months of 2011, I can see that I exercised exactly 75% of the time--138 days of out of 184. But during that same span I meditated just 45% of the time--83 days. See what I mean? Not very good 🙂
+
+But in truth I know that my resistance to meditation is an indicator that it's a healthy practice for me, and the fact that it's difficult for me to do it daily is one of the primary reasons I keep at it. I'm not saying I should force myself to do all the things I resist doing. Helping people deconstruct a rule like that--a powerful mental model [2], by the way--is something I do in my coaching practice, and I strive to do the same in my own life.
+
+Rather, I'm saying that there are some specific steps that occur in the meditation process that are valuable for me to experience precisely because of my resistance to the practice. So what are those steps? What happens for me in the meditation process?
+
+I see it as a four-stage cycle:
+
+It starts with Stillness, which sounds easy and yet can be quite hard for me. My mind is always in motion, and I'm constantly thinking and planning ahead. I'm tracking an endless list of ideas and to-dos, and while I find this stimulating, it also creates a lot of noise. The last time I re-committed myself to regular meditation, in early 2011, I described the experience as feeling "mentally itchy"--meditation allows (and compels) me to just be still.
+
+The next step is Awareness. In the stillness I can see where my attention goes and sense what I'm feeling, both emotionally and physically, much more clearly. Note that I'm not saying that I "clear my mind" or "think of nothing" or anything like that. My mind's still working away, and thoughts and emotions continue to rush through me, but I'm much more aware of them.
+
+The next step is Choice. The awareness of my thoughts and emotions that comes with the stillness allows me to be more intentional, and to focus my attention and make use of my emotions in ways that better support my goals. This isn't to say that I'm always seeking to consciously influence my cognitive and emotional processing; that's neither possible nor desirable. But even the ability to simply notice what I'm thinking about and feeling allows me to choose to filter out the noise and focus on more meaningful cognitive and emotional signals.
+
+The final stage of the process is Discipline. And while I use that word deliberately, I want to be careful to avoid the negative connotation that can often accompany it. Jon Kabat Zinn notes that our minds will constantly wander during meditation, just like a puppy wandering away while being paper-trained, and we need to treat ourselves just as would treat the puppy--not harshly, but compassionately, with firmness and with care. [3] Because the cycle described here repeats not just from day to day but many, many times in the course of a single meditation session, and the act of noticing that my mind has wandered and is speeding up again, slowing it down and returning to a sense of stillness is itself a useful form of disciplined practice.
+
+I'm not off to a great start in 2012--I've meditated just 6 times in 15 days. But writing this post has helped clarify the value I derive from the practice and inspires me to do it even more. Many thanks to Bill George, whose discussion of his own meditation practice has been highly motivating. [4]
+
+Two concluding thoughts: First, there's an extensive and growing body of research demonstrating the psychological, physiological and performance benefits of meditation. That's a post for another day, but for now I'll express my continued thanks to David Rock for pointing me in that direction. [5]
+
+And I'm reminded of the master's dictum: If you don't have time to meditate for 30 minutes, then meditate for an hour. I'm all too aware that as I get busier and have less time to meditate, I tend to cycle faster and need to put on the brakes all the more. I'm not saying I live by that credo, but it's an aspiration.
+
+Footnotes
+
+[1] Don't Break the Chain
+
+[2] Corn Mazes and Mental Models
+
+[3] Mindfulness Meditation for Pain Relief (Jon Kabat-Zinn, 2010)
+
+[4] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+54] David Rock on Neuroscience, Coaching and Leadership
+
+Here's a 2-slide PowerPoint of the graphics above.
+
+Updated March 2021.
+
+Photo by Holly Ford Brown.
+
+
+===== END ED BOT ESSAY 3697 =====

@@ -1,0 +1,190 @@
+===== BEGIN ED BOT ESSAY 3137 =====
+---
+title: Tyranny of the New
+url: https://edbatista.com/2005/02/tyranny_of_the_.html
+slug: tyranny_of_the_
+published: 2005-02-22T22:26:00
+updated: 2005-02-22T22:26:00
+source_body: wordpress-html
+---
+
+We expect blogs to provide us with new information--heavy emphasis on the new--and it sometimes seems that we judge bloggers on their ability to quickly spit out chunks of prose and move on to the next topic. But this rapid-fire aspect of the medium raises the question: Are blogs inimical to serious thought? Virginia Postrel seems to think so, but Grant McCracken respectfully disagrees.
+
+Postrel writes:
+
+Current-affairs blogging of the Sullivan/Instapundit/name your favorite
+
+type is inherently quick, dirty, and disposable. It may add to the
+
+public discourse, but it doesn't tend to deepen the blogger's own
+
+thinking. That, plus sheer laziness, is why this blog has never
+
+promised more than a few posts a week, and why I've given up my
+
+think-magazine-editor instincts to voice an opinion on everything. For
+
+a full-blown argument, I want to write something for a sizable audience
+
+and get paid. And I don't really want to post half-baked ones.
+
+McCracken counters:
+
+Virginia is concerned that there is a certain "hit and run" quality
+
+to the exercise that fails to "deepen the blogger's own thinking" on
+
+the topic at hand. Bloggers are, to shift the metaphor, in danger of
+
+remaining the short order cooks of the intellectual world.
+
+Let me begin by acknowledging the problem. It’s a problem. Blogging
+
+taxes me the way a particular university Dean used to do. It interrupts
+
+just enough each day to prevent certain kinds of intellectual activity.
+
+But [at] the risk of blowing my own horn, I think I have a way of solving this problem.
+
+My head works a little like a lazy susan. I never know what topic
+
+will catch my attention, but I have noticed that there is, finally, a
+
+limited set of topics that do. Something in Virginia's blog, the Wall
+
+Street Journal or the New York Times spins the lazy susan each day and,
+
+before I know it, I am working on one of my defacto themes...
+
+...When I look at the posts all at once, I am interested to see that while
+
+I repeat my themes, I don’t repeat my approach to them. As a result,
+
+the posts end up piecing together a multi-dimensional view, I would not
+
+[have] managed were I to treat the topic head-on and all-at-once. Yes, things
+
+overlap, but they do so in that interesting post-modern way where one
+
+image is made out of many images. This is, in short, a good way to
+
+think. It may be a better way to think than head-on and all-at-once contemplation...
+
+..[P]osts accumulate. And, when brought together, they begin to network.
+
+Created discretely, they begin to interact with one another. Larger
+
+themes, and posts, begin to emerge. Before we know it, we’ve got a book
+
+on our hands. Or at least a larger constellation of some kind.
+
+Postrel's put her finger on an important dilemma--many, if not most blogs are "quick, dirty and disposable," and few of them contribute to the public discourse as effectively as Andrew Sullivan and Instapundit do. But McCracken's approach seems like a surefire way to avoid falling into that trap: Limit yourself to a set of topics, post on them regularly, and address them from multiple perspectives.
+
+I've adopted that approach here on this site, where I've defined my territory as "design, technology, advocacy and marketing." That's broad enough to give me plenty of room to work, but focused enough to allow me to (hopefully) return to certain themes regularly and deepen my thinking over time. (I've also created an escape hatch on my "personal site," Viva Batista, where I give myself free rein to write about anything from politics to music to HTML tricks--topics of great interest to me, but also ones that would dilute my focus here.)
+
+And I'd argue that the individual bloggers I read each day--see my Heavy Rotation blogroll in the right-hand sidebar--have also chosen this approach. McCracken describes his own blog as "sitting at the intersection of anthropology and economics." Jeff Jarvis and Radley Balko tackle politics, foreign policy and the media. And Seth Godin and Postrel herself focus on business, marketing and design issues. I see all of these bloggers using the medium to deepen their thinking on their chosen themes, and I don't think anyone could describe their work as "disposable."
+
+
+===== END ED BOT ESSAY 3137 =====
+===== BEGIN ED BOT ESSAY 3138 =====
+---
+title: Search Me
+url: https://edbatista.com/2005/02/search_me.html
+slug: search_me
+published: 2005-02-21T08:33:56
+updated: 2005-02-21T08:33:56
+source_body: wordpress-html
+---
+
+I just dropped PicoSearch from my day site and substituted the Technorati Searchlet.  Much better.  Far superior search results, and no need to manually index the pages (so presumably no maximum page number.)  I wasn't able to get it to work for this site--perhaps because it branches off from my primary TypePad account, perhaps because it's not a public blog--but I'm happy for now.
+
+When I initially set up the PicoSearch box, I had to tweak it considerably to get a fit I was happy with.  Just in case I ever want to restore it, here's the code that worked well (at least visually) for the sidebar:
+
+<!-- Begin PicoSearch Query Box -->
+<P><FORM METHOD="POST" ACTION="https://www.picosearch.com/cgi-bin/ts.pl"&gt;
+<INPUT TYPE="HIDDEN" NAME="index" VALUE="232131">
+<TABLE BGCOLOR="WHITE" CELLSPACING=0 CELLPADDING=0 BORDER=0><TR><TD>
+<TABLE BGCOLOR="WHITE" CELLSPACING=2 CELLPADDING=0 BORDER=0>
+<TR><TD colspan=2><INPUT TYPE="TEXT" NAME="query" VALUE="" SIZE="20"></TD></TR>
+<TR><TD><A HREF="https://www.picosearch.com/cgi-bin/index.pl?wherefrom=picobox
+&type=all" TARGET="_blank"><IMG BORDER="0" SRC="https://www.picosearch.com/picosmall.gif&quot; ALT="PicoSearch"></A></TD>
+<TD><nobr><INPUT TYPE="SUBMIT" VALUE="Go >>>" name="SEARCH"></nobr></TD></TR>
+<TR><TD colspan=2 ALIGN=LEFT><FONT SIZE=-2><A HREF="https://www.picosearch.com/cgi-bin/ts.pl?index=232131&help=help"&gt;
+Search Help</A></FONT></TD></TR>
+</TABLE></TD></TR></TABLE></FORM>
+<!-- End PicoSearch Query Box -->
+
+
+===== END ED BOT ESSAY 3138 =====
+===== BEGIN ED BOT ESSAY 3139 =====
+---
+title: If A Blog Falls In The Forest...
+url: https://edbatista.com/2005/02/if_a_blog_falls.html
+slug: if_a_blog_falls
+published: 2005-02-20T20:20:47
+updated: 2005-02-20T20:20:47
+source_body: wordpress-html
+---
+
+I read about Justin Hall's retirement from blogging in today's San Francisco Chronicle. It was also the first time I'd ever heard of him or his site, although he's apparently been at it for nearly a decade. A few hours after I read the article, a friend mentioned Hall in an email to me, and the coincidence prompted these thoughts over the course of the day:
+
+First, some props: Hall's clearly a forward-looking thinker, and I respect his creativity. Here on my site, in this post, I'm following a trail he blazed along with a handful of others, and his personal obsession is now having a tremendous effect on the world at large.
+
+However, I spent some time looking through Hall's site (now converted into a searchable archive) and watched his farewell video, and it gave me pause. I encourage you to take the time to watch it as well, but be advised that it's intensely emotional--it's not graphic in any way, but his anguish is difficult to watch. Hall spends a portion of the video talking on the phone with a friend, and these quotes from that conversation seemed telling:
+
+I used to write about [my life] on my website...but I can't write about it anymore. I can't write about people--they don't want to be there, and I have nothing to write about. I have nothing to write about if I can't write about people... I publish my life on the fucking internet and it doesn't make people want to be with me--it makes people not trust me, and I don't know what to do about it.
+
+If I want to make art that I believe in, do I have to sacrifice meaningful personal relationships? Is that what it costs? And then should I give up my art? Then should I give up what I do? Should I give up what I do? And can I find something else? I don't know what the fuck that would be.
+
+Earlier in the day, before I'd seen Justin's site, having only read about it in the Chronicle, I'd written to my friend, "[Hall's] blog seems to be the sort that gave blogging a bad name for a while--the extroverted loner geek who feels compelled to put his inner life online, tapping into a disturbing voyeuristic streak in this culture...Uh, news flash, Justin: the real world still matters."
+
+Having now seen the site and the harrowing video, I'm ashamed that I used such a flippant tone, because Hall is clearly in pain. But I can't retract the statement, because it seems even more accurate in light of Hall's body of work.
+
+Hall represents blogging taken to an unhealthy and compulsive extreme. In his own words blogging is "what he does." It's as if the events in his own life don't actually happen and the people around him aren't real until he writes about them and posts it online.
+
+To Hall's great credit, he's realized that this behavior is driving people away from him, presumably because they feared simply becoming grist for his mill--hence his retirement from blogging. That's clearly a positive step, and I wish Hall the best as he moves on with his life.
+
+But I'm not optimistic, because the mere existence of the video, and the self-conscious and highly public nature of Hall's ostensible retreat into private life serve only make the problem worse. It's as if he's addicted to the attention as a means of easing his loneliness, even though he knows it will only serve to deepen his isolation.
+
+And perhaps saddest of all, I believe that Hall's genius--his creative and groundbreaking use of this new medium--is actually inseparable from his inability to establish an appropriate boundary between the private and the public spheres. In a sense, Hall's suffering has paved the way for an online world in which it's much easier to determine where that boundary should lie, and the rest of us will all benefit as a result. I just hope it's not too late for him.
+
+
+===== END ED BOT ESSAY 3139 =====
+===== BEGIN ED BOT ESSAY 3140 =====
+---
+title: Really Simple Skepticism
+url: https://edbatista.com/2005/02/really_simple_s.html
+slug: really_simple_s
+published: 2005-02-20T13:19:07
+updated: 2005-02-20T13:19:07
+source_body: wordpress-html
+---
+
+You might expect Rick Bruner at Business Blog Consulting to be an RSS booster, but he's refreshingly skeptical:
+
+I'm so tired of this idea that blogs and/or RSS are ever going to replace email (as I've said before). Why do journalists always think that a new medium means the death of an old one? Radio is still doing very well, thank you, despite TV having come along some 60 years ago now. Blogs are good. Email is also good. Spam is bad, but spam is not the end of email. Let's not throw the baby out with the bathwater. As for RSS, I still don't use it. Still haven't found a platform I really like.
+
+I particularly agree with Rick's complaint about RSS aggregators--a topic I've griped about myself.  I've come to like Bloglines as 1) an easy way to let people know what I'm reading (via my public subscriptions) and 2) a tool to quickly catch up on that reading when I've fallen behind, but I don't use it daily.  I prefer to just segment my blogrolls (see "Heavy Rotation," "Regular Spins," and "Occasional Listens" in the right-hand sidebar), and use this site as a jumping off point.  Bloglines is more efficient in some cases, but RSS doesn't provide a very rich user experience, and at least for the sites I read most frequently, it's more enjoyable and not significantly less efficient to just visit "in person."
+
+And of course Rick's right about spam not being the end of email--better filters and more prudent user behavior are helping immensely.  But RSS, spam and just the ever-increasing flow of legitimate messages are changing the nature of email as a medium.  For example, it's less effective as a de facto knowledge management or project management system--although search interfaces a la Gmail and MSN Desktop Search help out by replacing complex directory structures and time-consuming message management.
+
+But I'm optimistic about our ability to develop new behavioral protocols for email.  I'm not talking about tactics to increase our email productivity (although Merlin Mann has some great ideas on that front--hat tip to Jeffrey Veen), but rather an evolving, commonly-held understanding of how email should (and shouldn't) be used--something David Gelernter proposed in 2003:
+
+1. THE ACKNOWLEDGMENT RULE: Acknowledge in haste, respond at leisure. When you receive an email, acknowledge it within 24 hours if you can; take a week if you must, but more than that is (ordinarily) too long. An acknowledgment is not an answer. It's a one-liner, something like "thanks for your note; I'll be in touch soon." It tells the sender that his message has got through and that you plan to answer it some day. Once you've acknowledged a message, you should answer within (say) two weeks of sending the acknowledgment.
+
+2. THE RESEND RULE: If an acknowledgment or (later) an answer doesn't arrive in good time, resend your message verbatim. The receiver's time limits dictate the sender's. If your message hasn't been acknowledged a week later, resend it. If the acknowledgment arrives but no answer has materialized two weeks after that, resend. So you get (at the outside) two chances to restart a sputtering conversation--and that's it. (When you resend a message, a discreet "2" or "3" in the subject line should be enough to let the receiver know what's going on.)
+
+...
+
+Consider how my rules work in a few common situations.
+
+You overlook an email entirely. Especially common in the spam age, but happens regularly for other reasons too. Under my protocol, the sender waits a week; having got no acknowledgment, he then resends--without worrying whether he's waited long enough, whether you want to ignore him and he is intruding on your splendid isolation, etc. The conversation gets a second chance.
+
+You see an email, plan to respond but forget. Especially likely when the email is long or complicated. By sending a quick acknowledgment, you give the sender permission to nudge you (in a reasonable way, after a fair interval). The conversation is less likely to flicker out by accident.
+
+You finally remember to respond, but you've forgotten the details. It suddenly hits you that you intended to answer a message from somebody about some piece you once published--but a message from whom about what? A conscientious correspondent will shoulder his virtual shovel and dig the thing out. In practice, the exchange is probably going nowhere unless the sender decides to try again.
+
+You ignore an email on purpose. In this case you are better off without the protocol. Under the protocol, you will be forced to ignore not only the original but the duplicate. Reform is rarely cost-free.
+
+
+===== END ED BOT ESSAY 3140 =====

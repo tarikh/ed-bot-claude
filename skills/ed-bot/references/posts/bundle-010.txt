@@ -1,0 +1,112 @@
+===== BEGIN ED BOT ESSAY 3117 =====
+---
+title: Christo et Jeanne-Claude
+url: https://edbatista.com/2005/02/christo.html
+slug: christo
+published: 2005-02-16T09:00:00
+updated: 2005-02-16T09:00:00
+source_body: wordpress-html
+---
+
+Christo Javacheff and his wife and partner-in-art, Jeanne-Claude de Guillebon, unveiled The Gates over the weekend in New York's Central Park, their latest piece of public art and media engineering on a massive scale. (The New York Times' coverage was superb.)
+
+The "public art" is breathtaking, but the "media engineering" is just as important-- Christo and Jeanne-Claude pay for their projects ("The Gates" cost $20 million) not with government funds or foundation grants but through the sale of photographs, prints and other artifacts, the demand for which is spurred by media coverage of their works. Christo and Jeanne-Claude's unique brilliance stems from the fact that they are simultaneously visionary artists, masters of PR, and savvy entrepreneurs. (Photo of "The Gates" by djwhelan.)
+
+In 1983, I'd never heard of Jeanne-Claude; I only knew that some one-named European artist was surrounding islands in Miami's Biscayne Bay with pink plastic, and it had somehow turned into a major media event. (It pretty much had to be to reach me as a high-school sophomore in the suburbs of Harrisburg, PA.) The predominant attitude in the media was, "What a crackpot!" but I noticed that, like me, they couldn't turn away.
+
+Christo and Jeanne-Claude still take a few shots (Jeff Jarvis, I'm disappointed in you), but by and large, the media coverage of "The Gates" has been respectful, even awe-struck. I think three factors are responsible (above and beyond the artists' mastery of PR):
+
+- It's accessible to everyone, but it never panders. It invites us to think about significant issues--political, cultural, environmental--while never demanding that we think at all, allowing us to simply experience it, if we choose.
+
+- It's temporary, and like a vacation, like springtime flowers or autumn foliage, like all ephemeral things, we appreciate it all the more.
+
+- And it's paid for--privately. There are few things more satisfying than arguing with a philistine about Christo and Jeanne-Claude--they always object to the use of public money, and they always look disappointed when you tell them there wasn't any.
+
+From the work itself to the way it's presented and shared with the public, Christo and Jeanne-Claude's oeuvre is a paragon of good design, and all of us--marketers, advocates, businesspeople, not just artists--have something to learn from them.
+
+Although I've enjoyed all of Christo and Jeanne-Claude's work, two other pieces that made a major impression on me were Wrapped Reichstag in 1995 and Running Fence, in Sonoma and Marin Counties, in 1976.
+
+The power of "Reichstag" was rooted in its potency as a political metaphor, coming on the 50th anniversary of the defeat of Naziism and just a few years after German unification, at a time when the nation was struggling to define itself (again). A brilliant 1996 essay in Harper's (which I can find no trace of at the moment) discussed the sense of giddiness and good feeling that flowed through the thousands of people who gathered before the building. It was as if Christo and Jeanne-Claude's act gave the Germans an opportunity not to forget (never to forget), but to move forward in some way. (Photo of "Wrapped Reichstag" by Michael Zepter.)
+
+I've only witnessed "Running Fence" retrospectively--I didn't even know where Sonoma and Marin Counties were in 1976. But it remains vivid to me even today, through photos, because I know that landscape so well. Many of my best experiences in the past decade have come while hiking or on a motorcyle, in the distant reaches of those two counties, and Christo and Jeanne-Claude's temporary intervention sets off the land, makes me even more aware of its beauty.
+
+
+===== END ED BOT ESSAY 3117 =====
+===== BEGIN ED BOT ESSAY 3118 =====
+---
+title: The Dilbert Defense
+url: https://edbatista.com/2005/02/the_dilbert_def.html
+slug: the_dilbert_def
+published: 2005-02-16T07:26:20
+updated: 2005-02-16T07:26:20
+source_body: wordpress-html
+---
+
+Seth Godin doesn't like pull-down menus for U.S. states.  He got plenty of mail from people arguing in favor of pull-down menus.  And he gives them a sound thrashing:
+
+[H]ere are the reasons, if you insist, on why pull downs for states are silly:
+
+...
+
+5. The biggest reason of all: half or more of all shoppping carts online are abandoned. If this happened at the supermarket, they'd be bankrupt in less than a week. This is a crisis for anyone who sells online (except for Amazon, which doesn't have this problem--because people don't have to see any of this nonsense.) instead of Dilbertly defending the engineering status quo, teams should be working around the clock to test every single thing they can to fix the problem. [Emphasis added]
+
+"Dilberly defending the engineering status quo."  That's beautiful.
+
+And it describes situations I run into all the time.  Rather than respect people's own decisions about what's best for them (Every abandoned shopping cart says, "You're not worth my time, and you don't deserve my money."), engineers and their hyper-logical counterparts are constantly defending their system, whatever it may be, and criticizing people for being too stupid to appreciate its elegance or some similar ideal quality.  They want to mold people to fit their particular vision, but they fail to see that in a world of expanding choice, people will just keep on moving until they find a system that fits their own vision.
+
+
+===== END ED BOT ESSAY 3118 =====
+===== BEGIN ED BOT ESSAY 3119 =====
+---
+title: Arthur Miller
+url: https://edbatista.com/2005/02/arthur_miller.html
+slug: arthur_miller
+published: 2005-02-15T18:56:02
+updated: 2005-02-15T18:56:02
+source_body: wordpress-html
+---
+
+Terry Teachout has a wonderfully contrarian critique of Arthur Miller in today's Wall Street Journal.  Obituary writers have been falling all over themselves in their rush to sing Miller's praises, but Teachout resists the urge to beatify Miller and puts his life and work in a larger context:
+
+I wonder how much attention would now be paid to Miller if he hadn't married [Marilyn] Monroe, and if the House Un-American Activities Committee hadn't made the mistake of subpoenaing him in 1956 to testify about his Communist ties (which were extensive, though he always denied having been an actual party member), thereby bringing about his citation for contempt of Congress when he refused to "name names."  The one made him a pop-culture footnote, the other a liberal icon.
+
+The irony is that the smartest critics of Miller's own generation, virtually all of whom shared his left-wing views, held his plays in a different kind of contempt.  Back then he took his roughest beatings from the likes of Eric Bentley, Mary McCarthy, Kenneth Tynan, and Robert Warshow, who found him heavy-handed and preachy.  Tynan, for instance, wrote that "The Crucible" "suggests a sensibility blunted by the insistence of an outraged conscience; it has the over-simplification of poster art."  Bull's-eye.
+
+Zing!  Having suffered through "The Crucible" along with millions of other high school students, I applaud Teachout's takedown, and if it makes even one 11th grade English teacher rethink her syllabus, the world will be a slightly better place.
+
+But in a larger sense, I wish we would take a closer look at the mid-century artists and cultural figures, like Miller, whose work revolved around a critique of capitalism and the West, who tacitly or explicitly supported Communism, who faced the wrath of HUAC as a result, and who consequently emerged as lions of the left.  In 1956, the year Miller was dragged before HUAC, the Soviets invaded Hungary, using tanks against nationalist rebels who fought with kitchen implements and gasoline.
+
+I don't condone the repressive tactics of the McCarthy Era (and I'm disturbed by the resurgence of such tactics today.)  But Miller and his compatriots were naifs, fools or villains, and to laud them for their "principled stands" is to ignore what happened to the people who actually had to live under those same principles.
+
+
+===== END ED BOT ESSAY 3119 =====
+===== BEGIN ED BOT ESSAY 3120 =====
+---
+title: Aspirations
+url: https://edbatista.com/2005/02/aspirations.html
+slug: aspirations
+published: 2005-02-15T15:28:30
+updated: 2005-02-15T15:28:30
+source_body: wordpress-html
+---
+
+Major American cities can be divided into two types--aspirational cities such as Atlanta, Charlotte,  Las Vegas, Orlando, Phoenix, and Salt Lake City--and Euro-American cities such as Boston, Chicago, Minneapolis, New York, Philadelphia and San Francisco.  The former have a bright future; the latter, well, not so much.
+
+Reduced to its essentials, this is the thesis of Joel Kotkin, an author, scholar and consultant whose work focuses on cities and the role they play in our economy and culture.  Kotkin's The City: A Global History will hit bookstore shelves in a few weeks, and although, as the title suggests, the book appears to cover a very broad span, he's recently been promoting a few specific ideas in magazine articles and op-ed pages.  The concept cited above was the theme of American Cities of Aspiration...and the Decline of Euro-America in yesterday's Weekly Standard.
+
+Kotkin sees the two types of cities as representing, "a chasm in America, separating two competing economic regimes, one that embraces growth and new opportunity and another that increasingly seeks to preserve its privileges and coveted lifestyle."  He continues,
+
+What differentiates these two Americas is not so much politics, but perspective on the future. Cities of aspiration like Reno accommodate job growth and attract young families who hope that tomorrow will be better than yesterday.  They offer an environment that most of our forebears--wherever they might be from--would recognize as distinctly American. In the places people are leaving, what might be called Euro-America, the focus is on preserving older urban forms, cultivating refinement, and following continental norms in attitude, politics, and lifestyle.
+
+A map of Kotkin's "two competing economic regimes" would dovetail nicely with the current Red-Blue divide, and so I suspect this concept will be rejected out of hand by Democrats and others on the left who are concentrated in "Euro-American" cities.  This would be a mistake.  Kotkin's ideas are being promoted by the Standard and George Will, and he has sharp disagreements with such left thinkers as James Howard Kunstler and Jeremy Rifkin, but he's a Senior Fellow at the New America Foundation, a centrist think tank, and he's cited frequently in the mainstream media.  Whatever you may think of Kotkin's ideas, he can't be dismissed as merely a partisan tool.
+
+And as someone who's lived in San Francisco (and loved it) for the past 15 years, I think Kotkin's thesis holds water.  In his Weekly Standard piece, Kotkin notes that, "The in-migration of educated people may prove the most important sign of the future vitality of aspirational cities. Boston may still be 'the Athens' of America, but since the mid-1990s it and other Euro-American centers have been losing educated workers, particularly those over 30."
+
+My wife and I have two Ivy League degrees and three graduate degrees between us, but we can't afford a home in San Francisco, and we doubt we ever will.  Granted, we've chosen careers that are more fulfilling than renumerative, but we see our friends and colleagues in "aspirational cities" buying homes, and we wonder what we're doing here.   This was one of the factors that led us to recently contemplate a move to Baton Rouge, Louisiana, where my wife was considering a potential job opportunity.  We've decided to stay put, now that my wife's landed her dream job here in the Bay Area, but it wasn't an easy decision.  (And if you just said to yourself, "Why would anyone leave San Francisco for Lousiana?" I wonder how much time you've spent in either place.)
+
+If you care about America's cities--all of them--and the people who make them such wonderful places, you need to take Kotkin seriously.  As he notes in the Standard, "San Francisco, Chicago, Boston, and many other American cities have been losing jobs since 2000; New York has fewer private-sector positions today than it did in 1969."  They remain generally wealthy places because of a "near monopoly" in "major media...top universities...[and] financial and professional services...even as they fail to create opportunities for their working and middle classes."
+
+This is a recipe for economic stagnation and class resentment, and simply closing our eyes and wishing Kotkin would go away and take his unpleasant ideas with him is to be complicit in the abandonment of some of our greatest cities.
+
+
+===== END ED BOT ESSAY 3120 =====

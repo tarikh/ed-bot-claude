@@ -1,0 +1,80 @@
+===== BEGIN ED BOT ESSAY 3332 =====
+---
+title: A Little Housekeeping
+url: https://edbatista.com/2006/01/a_little_housek.html
+slug: a_little_housek
+published: 2006-01-10T15:07:50
+updated: 2006-01-10T15:07:50
+source_body: wordpress-html
+---
+
+I've been blogging for just over a year now, and it seems like an appropriate moment to make a few changes. It's more than just re-arranging the furniture--the spiffy new banner and the tweaks in the color scheme are meant to signal a more substantive shift in the topics I discuss here.
+
+You might notice that I've dropped the old banner's tagline: "Thoughts on design, technology, advocacy and marketing." When I launched this site, I expected to use it primarily as a platform for my professional interest in those topics. At the same time I set up a personal site where I talked about everything from cocktails to tech tips to music reviews.
+
+It was helpful to have two separate forums while I got my feet wet, but I think that structure has outlived its purpose, for several reasons. First, although as recently as last June I felt that it made sense to maintain separate professional and personal sites, at the same time I also wrote that "...it's essential to let people know who you are as an individual and to speak in your own voice when you're working online. That means exposing yourself, speaking authentically, and being unafraid to share your silly passions." Having found my online voice over the past year, merging the two sites now will make it easier to speak more naturally and to cover the full range of topics I'm passionate about, from the silly to the serious. (In fact, I've already started. You'll also find my photo albums and recently-played music in the sidebars--they don't have much to do with technology or marketing, but they have a lot to do with me.)
+
+Second, even though the old tagline initially gave me plenty of room to explore my professional interests, it was starting to feel a little cramped, like a shirt that shrank in the wash. I could sense myself backing away from topics that interested me but didn't quite fit the old schema, and that's just ridiculous. Using Doc Searl's metaphor, this site isn't a "channel" or a "pipe," it's a place. My primary purpose here isn't "delivering content"--I'm stretching my mind, thinking out loud, and occasionally meeting others doing the same. And I don't want to be bound by a predefined set of topics, however broad. (Just as a heads-up, these days I'm particularly interested in issues related to organizational culture and executive coaching. I don't know where those explorations will lead, but I'm looking forward to covering some new ground.)
+
+And finally, thanks to my association with AttentionTrust, I have every expectation that more sophisticated attention services will be coming online soon that will allow readers who are interested in my professional musings but not my music reviews (and vice versa) to sift through my feed and find the posts that are most relevant to them. Those services aren't here yet, so there's certainly the risk that merging these streams will just muddy the waters, making it more difficult for people to find what interests them--in fact, I expect that to happen in the short term. But hopefully the advantages described above will be worth it, and the geeks won't keep us waiting too long.
+
+It's an experiment, and who knows? Perhaps the tangle of topics will get too messy, and I'll have to switch back. I'll keep VivaBatista in suspended animation, just in case, but I'll be bunking here for the time being.
+
+
+===== END ED BOT ESSAY 3332 =====
+===== BEGIN ED BOT ESSAY 3333 =====
+---
+title: Barbolini Lambrusco Grasparossa di Castelvetro
+url: https://edbatista.com/2006/01/barbolini_lambr.html
+slug: barbolini_lambr
+published: 2006-01-08T18:13:17
+updated: 2006-01-08T18:13:17
+source_body: wordpress-html
+---
+
+Lambrusco is a sparkling red Italian wine, made in Emiglia-Romagna, primarily from the grape of the same name.  Thanks largely to Riunite's success in the '70's (Does "Riunite on ice...that's nice!" ring a bell?), most people think of lambrusco as fizzy, berry-flavored mouthwash, a few steps above Thunderbird.  That accurately describes much, if not most, of the lambrusco available in the U.S., but don't make the mistake of assuming it's all bad.
+
+Lambrusco Grasparossa di Castelvetro, a DOC within Emiglia-Romagna, is lambrusco at its finest and Barbolini's is the best I've had.  It's pretty dry, even a little "musty" (hey, I'm no Robert Parker, that's the best I can do), and goes great with food (from steak to pizza), but it's still light enough to stand on its own before dinner.  One of my favorite wines ever, and it's $12.
+
+Pick it up in San Francisco from K&L Wines or the very friendly Wine Trading Company.
+
+tags: lambrusco barbolini
+
+
+===== END ED BOT ESSAY 3333 =====
+===== BEGIN ED BOT ESSAY 3334 =====
+---
+title: San Francisco Bay Trail
+url: https://edbatista.com/2006/01/san_francisco_b.html
+slug: san_francisco_b
+published: 2006-01-08T16:16:38
+updated: 2006-01-08T16:16:38
+source_body: wordpress-html
+---
+
+Last month the SF Chronicle ran a great article by Carl Hall on the San Francisco Bay Trail, a wonderfully ambitious effort to ring the Bay with a continuous 500-mile walking and bicycle trail. The project is being led by the Association of Bay Area Governments, which estimates that it'll take another $188 million and 15 years to complete. (It'll actually cost a lot more when you factor in pedestrian and bike access paths on all the bridges around and across the Bay.)
+
+A steep price tag, yes, particularly at a time when there are so many other urgent needs. But it's still worth our support. The Bay is an incredible natural treasure in the middle (literally) of one of the largest metropolitan areas in the country. Despite the Bay Area's phenomenal growth over the past few decades, the shoreline is surprisingly undeveloped and accessible, but only a project like the Bay Trail will keep it that way.
+
+tags: san francisco bay trail san francisco bay san francisco
+
+
+===== END ED BOT ESSAY 3334 =====
+===== BEGIN ED BOT ESSAY 3335 =====
+---
+title: Helen Merrill with Clifford Brown
+url: https://edbatista.com/2006/02/helen_merrill.html
+slug: helen_merrill
+published: 2006-02-03T22:02:14
+updated: 2006-02-03T22:02:14
+source_body: wordpress-html
+---
+
+The best ever. Simply the best.
+
+So rare to get a vocalist and a musician of such quality, at the top of their games, working together like this. I could listen to it forever.
+
+tags: helen merrill clifford brown emarcy
+
+
+===== END ED BOT ESSAY 3335 =====

@@ -1,0 +1,162 @@
+===== BEGIN ED BOT ESSAY 3626 =====
+---
+title: Cross-Cultural Communication: Individualism vs. Collectivism
+url: https://edbatista.com/2009/06/cross-cultural-communication.html
+slug: cross-cultural-communication
+published: 2009-06-22T08:04:13
+updated: 2025-10-20T13:28:00
+source_body: wordpress-html
+---
+
+How do cultural differences affect communications across a cultural divide?  Specifically, how does a culture's individual or collective orientation affect communications?
+
+I've written before about the primary dimensions of cultural difference identified by Geert Hofstede.  One of the key dimensions is individualism vs. collectivism, which Hofstede defines as follows:
+
+The degree to which people in a country prefer to act as individuals rather than as members of groups.  On the individualist side we find
+
+societies in which the ties between individuals are loose: everyone is expected to look after him/herself and his/her immediate family. On the collectivist side, we find societies in which people from birth onwards are integrated into strong, cohesive in-groups, often extended families (with uncles, aunts and grandparents) which continue protecting them in exchange for unquestioning loyalty. The word 'collectivism' in this sense has no political meaning: it refers to the group, not to the state.
+
+In Yes!: 50 Scientifically Proven Ways to Be Persuasive, Noah Goldstein, Steve Martin and Robert Cialdini talk about the impact of this cultural dimension on communications:
+
+People from collectivistic and individualistic cultures tend to differ in the relative weight they give to two central functions of communication.  In short, one function of communication is informational: When we communicate, we convey information to others.  A second, less obvious function of communication is relational: When we communicate, we help build and maintain relationships with others.  Although both functions are clearly important to people in all cultures, social psychologists Yuri Miyamoto and Norbert Schwarz argued that individualistic cultures place a greater emphasis on the informational function of communication, whereas collectivistic cultures place a greater emphasis on the relational function...
+
+What do these findings say about influencing others within and outside the workplace?  As we discussed in previous chapters, relationships are a key component to the persuasion process--but this is especially true with people from countries with collectivistic orientations... These results suggest that, when dealing with people from collectivistic cultures, it is particularly important to attend to aspects of the relationship that the two of you share...
+
+These findings also suggest that we should be especially vigilant about providing such feedback with people from collectivistic cultures, letting them know that we're attending to the relationship that we share with them as well as to the information they're trying to convey.
+
+A point I'd add is that within any national culture, there are innumerable sub-cultures associated with different regions, industries and even organizations.  And these sub-cultures may differ substantially along the primary dimensions of cultural difference, including individualism vs. collectivism.  So even--and perhaps especially--when communicating with someone from your own country, it's worth taking some time to understand where they fall along this spectrum and tailoring your communication style accordingly.
+
+(In addition to the research by Yuri Miyamoto and Norbert Schwarz in the Journal of Experimental Social Psychology referenced above, Goldstein, Martin and Cialdini also cite the work of Ron Scollon and Suzanne Wong Scollon in Intercultural Communication: A Discourse Approach.)
+
+
+===== END ED BOT ESSAY 3626 =====
+===== BEGIN ED BOT ESSAY 3627 =====
+---
+title: Leading is Lonely and Other Thoughts
+url: https://edbatista.com/2009/06/lonely.html
+slug: lonely
+published: 2009-06-19T23:39:00
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+I recently rediscovered these lines in a notebook from 2007: Leading is lonely. Information-gathering is not decision-making. Position power is not influence. When I wrote them I had just begun working with a number of prospective leaders among my students at Stanford, and I was reflecting on my own leadership experiences, particularly the period after graduation from business school. At that time I went from reporting to an organization's leader in my last job before school to being a leader on my own, reporting directly to a Board of Directors, and these three lessons stand out among the many I learned the hard way:
+
+Leading is Lonely
+
+Jan Masaoka, one of my founding Board members, warned me about the loneliness of leadership long before I actually felt it. If you're a leader at the head of an organization, by definition you don't have internal peers who share your perspective. Your Board of Directors isn't going to provide you with the developmental support you've enjoyed from previous mentors and managers--they're there to challenge you, not to nurture you. And your family is going to get tired of hearing about the challenges you face long before you get tired of talking about them. It's lonely. So establish and maintain a support network that'll be there for you when things get tough. Reach out to other leaders. Create a personal Board of Directors. [1] And do what I did and hire a coach.
+
+Information-Gathering is Not Decision-Making
+
+In my last job before business school one of my primary tasks was to gather information, analyze it and make recommendations to the organization's leader. When I became a leader myself I continued this practice without fully understanding that it was no longer sufficient to allow me to move the organization forward. The right answers to the questions I faced weren't going to emerge from the data, because there were no "right" answers. The important questions I faced as a leader were sufficiently complex that no amount of data would ever be enough--I needed to rely on A) my judgment and B) my ability to execute. But before I came to this realization I spent a lot of wasted time and effort amassing more and more data hoping that the "right" answer would emerge. Rather than getting trapped in an information-gathering sinkhole, test your ability to get just enough data to allow you to exercise your judgment, and then execute to insure that the decision you made was the right one. [2]
+
+Position Power is Not Influence
+
+The authority that comes with any leadership position always looks more substantial from the outside. Once in the role, you realize how little you can accomplish by relying on position power, and how dependent you are on your ability to influence key stakeholders. If I knew then what I know now about power and influence, no doubt I would have been a more effective leader. [3] But today I'd go even further and note that there's a wide range of influence strategies and the ones I tend to prefer aren't always the most effective in a given situation (and the ones I tend to avoid may be just what's called for.)
+
+ 
+
+Updated June 2024.
+
+Footnotes
+
+[1] A Board of Advisers--for Your Life (Marci Alboher interviewing Michael Melcher, The New York Times, March 5, 2008)
+
+[2] Stop Worrying About Making the Right Decision
+
+[3] I've learned much about power from my former Stanford colleague Jeff Pfeffer:
+
+- Power Play (Jeffrey Pfeffer, Harvard Business Review, 2007)
+
+- Power: Why Some People Have It and Others Don't (Jeffrey Pfeffer, 2010)
+
+Here's some of my work that incorporates Jeff's perspective:
+
+- Force Isn't Power
+
+- Cautionary Tales (Authenticity at Work)
+
+Psychologist David McClelland's "motivational needs theory" is also relevant in this context:
+
+- Power is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, 2003)
+
+Here are two posts of mine on the same topic:
+
+- Power Struggles Among Nice People
+
+- McClelland and Burnham on Power and Management
+
+Physician and organizational consultant Patricia Day Williams offers another useful perspective:
+
+- Self-Awareness, Empowerment and Choice [PDF] (Patricia Day Williams, Chapter 7.10 in NTL's Reading Book for Human Relations Training, 1999)
+
+And here's a post of mine that discusses Day Williams' work:
+
+- Interpersonal Power
+
+I continue to find the framework first developed in the 1970s by Arizona State psychologist Robert Cialdini the most compelling and useful way of thinking about influence:
+
+- Principles of Persuasion (Robert Cialdini)
+
+- Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+- Influence: The Psychology of Persuasion (Robert Cialdini, 2021, 3rd ed. / 1984, 1st ed.)
+
+- The Language of Persuasion (Robert Cialdini, Harvard Business Review, 2008)
+
+- The Uses (and Abuses) of Influence (Robert Cialdini, Harvard Business Review, 2013)
+
+Here Jerry Useem, the longtime Senior Editor-at-Large of Fortune and previously a Research Associate at HBS, draws on research by Pfeffer, Wharton's Adam Grant, and others--ignore the silly headline, which is just clickbait and doesn't accurately represent Useem's point of view:
+
+- Why It Pays to Be a Jerk (Jerry Useem, The Atlantic, 2015)
+
+ 
+
+Photo by different2une.
+
+
+===== END ED BOT ESSAY 3627 =====
+===== BEGIN ED BOT ESSAY 3628 =====
+---
+title: Some Inspiration from Corey Ford
+url: https://edbatista.com/2009/06/corey-ford.html
+slug: corey-ford
+published: 2009-06-19T17:36:37
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+One of the great satisfactions of being a coach is the opportunity to work with some truly extraordinary people who are seeking to experience as much as possible in life and to fulfill every ounce of their potential. Corey Ford, who's appeared here before, is one such person, and I enjoyed another thoughtful conversation with him yesterday.
+
+I learned that back in March he'd been invited to give the keynote address at the annual banquet of the University of North Carolina's Morehead-Cain Scholars Program. The program--whose motto is "Create an extraordinary life"--offers high-potential students a four-year scholarship at Chapel Hill and access to a wide range of academic and professional resources. In his inspiring talk, Corey discusses how he made the most of this opportunity, and a few of his comments in particular stood out for me:
+
+On becoming an entrepreneur: My Morehead-Cain experiences had allowed me to grow from a boy who energetically climbed the ladder placed before him to a man who started to build his own ladder.
+
+On his decision to leave a high-profile job: I thought I was at the top. I thought I would be there for the rest of my career, but I faced a choice: Stay and stagnate, or make my own way.
+
+On exploration: We all have unwritten endings. Life is a journey, but not a linear one. Just like design, innovation and entrepreneurship, in life there are times to focus and times to flare, times to execute and times to explore. Congratulations—it's time for you to explore.
+
+Kudos, Corey--I know there are a lot of people at Stanford (and I'm sure at Chapel Hill) who are looking forward to hearing about the next steps in your own non-linear journey.
+
+
+===== END ED BOT ESSAY 3628 =====
+===== BEGIN ED BOT ESSAY 3629 =====
+---
+title: Jessica Hagy on How to Get Unstuck
+url: https://edbatista.com/2010/04/unstuck.html
+slug: unstuck
+published: 2010-04-14T13:59:39
+updated: 2025-09-24T11:59:39
+source_body: wordpress-html
+---
+
+Jessica Hagy's Indexed is an incredibly creative and thought-provoking (and funny) resource, and I find inspiration in her work on a regular basis. I was particularly struck by today's entry, How to Get Unstuck, which is really an expanded version of the Experiential Learning Cycle.
+
+We typically view this cycle as a series of sequential steps from one stage of the process to the next, in part for conceptual simplicity, but also--and more importantly--to get us to think more deeply about how we can learn more effectively from our experiences (hence the name!)
+
+But Jessica's inclusion of some additional steps in the process--seeing "Imagination" springing from "Frustration" and noting that "Experimentation" should precede formal "Implementation" reminds me that in reality we move through this cycle not in an orderly stage-by-stage sequence, but in a messy series of intertwined loops that often lead us backwards:
+
+The point of a tool like this isn't to tell us the "right" way to do things--it's to suggest a different way of doing things that might allow us to learn more, be more creative, or be more efficient in the process. While I like Jessica's new version, you might find an even simpler one helpful:
+
+
+===== END ED BOT ESSAY 3629 =====

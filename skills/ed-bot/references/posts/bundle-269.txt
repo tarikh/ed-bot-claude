@@ -1,0 +1,347 @@
+===== BEGIN ED BOT ESSAY 4187 =====
+---
+title: Making Layoffs Less Painful
+url: https://edbatista.com/2022/11/making-layoffs-less-painful.html
+slug: making-layoffs-less-painful
+published: 2022-11-25T04:00:00
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+Layoffs are painful for everyone involved. But there are varying degrees of pain, and a theme in my practice is helping leaders who are conducting layoffs reduce the pain, not only for the employees losing their jobs, but also for everyone else. The recommendations below are by no means comprehensive, nor will they eliminate the pain of layoffs. But if you're a leader embarking upon this process, here's how you can make it less painful for these stakeholders:
+
+Front Line Managers
+
+You're probably planning the layoffs with a small group of senior leaders, in part to minimize the risk of leaks and rumors. If there are more than two layers of management in your organization, front line managers are unlikely to play a direct role. But when leadership teams fail to provide any advance notice to front line managers, they solve for secrecy while creating other problems.
+
+Because immediately after the layoffs have been conducted, the remaining employees will reach out to their managers with any number of questions, including something like, "I heard what senior leadership said, but what's the real story?" And if those managers have nothing more to say than, "I don't know," they look and feel useless. It's a painful moment that can undermine managers' ability to offer support and reassurance in the future.
+
+This can be mitigated by communicating with front line managers before the layoffs are conducted to give them a heads-up and provide additional context. One way of accomplishing this is via a synchronous virtual meeting conducted a few days (or, if necessary, hours) before the layoffs begin, but there are countless variations. The goal is ensuring that your managers are better prepared to respond to employees' questions and concerns because they're not hearing the news simultaneously. [1]
+
+Employees Being Laid Off
+
+Being laid off is always painful, but you have some choices to make that may cushion the blow. The first is scale--en masse, in small groups or individually. The least painful option will depend not only on the number of people involved, but also on their expectations of you as leader. In some cases people want to hear directly from the ultimate decision-maker, but at times that's not feasible, and it may be preferable for the message to be delivered by someone else. Even if you aspire to speak directly with each individual, note that your capacity to convey the message skillfully is finite, and as the numbers increase so does the likelihood that affected employees may hear the news before you reach them.
+
+Another decision is when to shut off employees' access to email, messaging, and other systems. In some cases this is a non-issue--data security and other factors may compel you to restrict access as soon as possible. But here, too, note that solving for maximum security can create other problems, and not all systems pose the same degree of risk. Allowing employees to utilize various channels to say their goodbyes can afford them a degree of grace and dignity and will benefit the employees who remain as well.
+
+Whatever medium you employ--but particularly if you're speaking live--you can make it marginally less painful for the people you're laying off by being thoughtful about your message. This includes taking responsibility for past decisions that resulted in layoffs being necessary. But it's not just about the content--it's also about expressing empathy through your tone. To be clear, empathy isn't sympathy--the latter is equivalent to pity, and your employees will not want your pity. Instead, empathy is the ability to grasp how someone else feels and to convey that understanding. This will entail acknowledging not only their pain at being laid off, but also a range of other possible feelings--surprise, fear, anger--some of which will be directed toward you. [2]
+
+Employees Who Remain
+
+As vital as it is to consider your communication with the employees who are being laid off, it may be even more important to follow this up with the right message to the employees who remain. Unfortunately many leaders take a misguided approach here, imagining that this is the moment to fire up the team. Their initial remarks to the rest of the organization have the feel of a celebratory speech at a rally--while everyone is still thinking about their colleagues who were just laid off. It's yet another painful experience, but one that can be prevented.
+
+Yes, your remaining employees will need to be reinvigorated, and they will need to hear why you're hopeful about the future, and they will look to you for inspiration--but perhaps not quite yet. In the immediate aftermath of layoffs the employees who remain are likely feeling a complex mix of emotions, and it's essential to meet them there, at least at first. After a layoff the remaining employees typically suffer from a degree of "survivors' guilt," even if they agree that the layoffs weren't entirely random. [3] In most circumstances, they'll work through these feelings with time, but efforts to rush them can be counter-productive.
+
+I'm not suggesting that the message to your remaining employees should be entirely downbeat or that you should refrain from expressing optimism--but don't start there. Begin by legitimizing whatever people are feeling at that moment. As I've noted before, "If the leader runs too far ahead or pulls too hard in an effort to bring people along...there's a rupture between the leader's vision of the future and everyone else's current reality, and the leader loses influence as a result." [4] There will be a point at which you can transition to looking ahead and invite your employees to join you--the key is to create that moment together with them rather than trying to impose it upon them.
+
+Yourself
+
+Conducting layoffs is one of a leader's most painful responsibilities. Even when you know that layoffs are needed to ensure the continued existence of the organization and preserve other employees' jobs, you're not going to feel good about it. And that's appropriate--negative emotions play an essential role in learning from experience, and you'll want to learn as much as possible from this one in order to avoid repeating it.
+
+It will be useful to acknowledge those emotions, with a major caveat. Although your ability to convey empathy will involve emotional expression, your feelings will not matter at all to the people you're laying off. It's not their responsibility to empathize with you, so don't ask them to, even implicitly. [5] And while you'll need to be judicious about what you discuss with any other stakeholders, note that difficult emotions are always easier to manage when you can talk about them with someone you trust. [6]
+
+The effort to strike the right balance in your message and to do so while under an intense spotlight will be depleting, so plan accordingly. Don't let the logistics keep you up the night before--finalize the details well in advance and make sure you're well-rested. Don't allow less important tasks to distract you--clear your calendar before and after of any optional events. And don't expect your efforts to be appreciated--everyone will be caught up in their own anxieties, and no one will be thinking about you. So be sure to end the day with people who care about you and who think of you as a friend, a family member, a human being--not a leader. [7]
+
+ 
+
+Footnotes
+
+[1] Who Needs to Know? How Will They Feel? (On Change)
+
+[2] How to Deliver Bad News
+
+[3] For more on layoffs and survivors' guilt, see the following:
+
+- Layoffs, self-esteem, and survivor guilt: Motivational, affective, and attitudinal consequences (Joel Brockner, Jeanette Davy and Carolyn Carter, Organizational Behavior and Human Decision Processes, 1985)
+
+- Layoffs, Equity Theory, and Work Performance: Further Evidence of the Impact of Survivor Guilt (Joel Brockner, et al, The Academy of Management Journal, 1986)
+
+- The Effects of Downsizing on Survivor Employees: A Literature Review (Alice Crawford, Loyola University Chicago Master's Thesis, 1997)
+
+[4] The Rubber Band Effect
+
+[5] The Difficulty of Empathizing Up
+
+[6] Talking About Feelings
+
+[7] The Friendship of Wolves
+
+ 
+
+Photo by threephin.
+
+
+===== END ED BOT ESSAY 4187 =====
+===== BEGIN ED BOT ESSAY 4188 =====
+---
+title: What Am I Most Alive To?
+url: https://edbatista.com/2022/11/what-am-i-most-alive-to.html
+slug: what-am-i-most-alive-to
+published: 2022-11-22T15:38:27
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+What am I most alive to?
+
+I'm alive to my grievances and disappointments. They arise at the slightest provocation. And should I momentarily ignore them, vast enterprises will offer their assistance by reminding me.
+
+I'm not very alive to all the sources of fulfillment I enjoy. These gifts I fail to acknowledge.
+
+I'm alive to my aches and limitations, the slow-motion train wreck of middle-age. And should I momentarily forget the reality of life as a mortal creature, vast enterprises will offer their assistance by promising immortality.
+
+I'm not very alive to the fact that I am alive. Breathing normally. Not in any real pain. In full possession of my senses and faculties. Able to walk unassisted, and feed and bathe myself. These blessings I take for granted.
+
+I'm alive to all the things I'm "missing" and "need," the absurd shopping list that I carry around in my head. And should I momentarily misplace it, vast enterprises will offer their assistance by suggesting alternatives.
+
+I'm not very alive to the diminishing returns and ultimate uselessness of material things. This truth I lose sight of.
+
+I'm alive to everything I think I lack. I'm not very alive to all I have to be thankful for. This I can change, but only when I stop and consider what's truly on the scales, and when I decline the assistance of all those vast enterprises.
+
+Happy Thanksgiving.
+
+ 
+
+For Further Reading
+
+Gratitude Checklist
+
+Not Every End Is a Goal
+
+Stop Trying to Be "Good Enough" by "Getting Better"
+
+Learning from Sisyphus
+
+Adventure, Tragedy, Comedy
+
+Gualala (On Mortality and Gratitude)
+
+Feeling Sorry for Yourself?
+
+A Better Information Diet
+
+Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen D. Vohs). One of the most influential papers ever written, this 2001 article from the Review of General Psychology explains much about the dynamics noted above.
+
+Four Thousand Weeks: Time Management for Mortals (Oliver Burkeman, 2021)
+
+Death: The End of Self-Improvement (Joan Tollison, 2019)
+
+When Things Fall Apart: Heart Advice for Difficult Times (Pema Chödrön, 2016)
+
+The Power of Meaning: Crafting a Life That Matters (Emily Esfahani Smith, 2017)
+
+Gratitude (Oliver Sacks, 2015)
+
+ 
+
+Photo of Point Reyes from Chimney Rock.
+
+
+===== END ED BOT ESSAY 4188 =====
+===== BEGIN ED BOT ESSAY 4189 =====
+---
+title: Jennifer Ouyang Altman on "Empty Questions"
+url: https://edbatista.com/2024/02/jennifer-ouyang-altman-on-empty-questions.html
+slug: jennifer-ouyang-altman-on-empty-questions
+published: 2024-02-17T18:13:04
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+All too often our questions aren't truly open and honest inquiries. They may be loaded questions, freighted with biased assumptions. They may be leading questions, guiding the respondent to our preferred answer. Or they may simply be statements in disguise, efforts to appear open and honest that are anything but. The problem with these pseudo-questions is that they're never as clever or well-hidden as we think they are. To a respondent they feel hokey and theatrical, like an unwelcome pop quiz with all-too-obvious answers.
+
+My colleague Jennifer Ouyang Altman has some outstanding guidance on how to avoid this and actually convey curiosity: Ask "empty" questions:
+
+Every interaction is an opportunity to become more--or less--connected. You know what people find disconnecting? Perceived manipulation, which is especially offensive in the form of questioning, as if people can't see right through it. Shields go up.
+
+How do we ask better questions? The goal is to be empty. What does that mean? It means releasing preconceived notions of what the answer is, having a relaxed curiosity, swinging freely. It means not forcing an agenda, not trying too hard, not fixing, saving, or correcting.
+
+What kinds of questions stem from being empty?
+
+Empowering questions that don't have a solution stuffed in them.
+
+Stuffed: Should we send an email out?
+Empowering: How do we get everyone up to speed?
+
+Expanding questions that develop someone's thinking rather than constricting it.
+
+Constricting: Can you do that?
+Expanding: What would it take to do that?
+
+Elevating questions that rise up above the trees to see the forest rather than staying in the weeds.
+
+Weeds: How do we backfill this role as quickly as possible?
+Elevating: Is this still the role we need?
+
+Our questions can have the same intention, yet the impact of an empty question is radically different. Rather than ask, Why would we do that?, we can ask: What options have you explored? How did you choose this path? What issues do you see here?
+
+By asking better questions--and truly listening to the response--we learn far more about other people's attitudes, motives, worldviews, values, and emotions, all of which enables us to forge stronger relationships. When I was sick earlier this year, the question that made me feel most heard, valued, and invited was the emptiest: What has it been like for you?
+
+ 
+
+Adapted from the August 2023 issue of Jennifer's newsletter (which I highly recommend), with her gracious permission.
+
+For Further Reading
+
+Scott Ginsberg on Asking (Better) Questions
+
+Compasses and Weathervanes (30 Questions for Leaders)
+
+Questions for a New Leader
+
+The Six Layers of Knowledge and Better Conversations
+
+Connect, Reflect, Direct...Then Ask (On Coaching)
+
+How Great Coaches Ask, Listen, and Empathize
+
+ 
+
+Photo by Lyza.
+
+
+===== END ED BOT ESSAY 4189 =====
+===== BEGIN ED BOT ESSAY 4190 =====
+---
+title: The Evolution of the Executive Team
+url: https://edbatista.com/2024/02/the-evolution-of-the-executive-team.html
+slug: the-evolution-of-the-executive-team
+published: 2024-02-15T14:27:13
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+A theme in my work with clients is how to get more leverage. This isn't quite the same thing as productivity, which involves "doing more things," or "doing things more efficiently." Leverage entails understanding the tasks and activities that generate the most long-term value [1], and one of a CEO's greatest sources of leverage is the group of senior leaders who report to them. For consistency I'll refer to this group as the executive team, although the terminology varies across organizations. A CEO's management of an executive team doesn't always feel "productive"--at times it requires an intense focus on a small number of people and issues. But a high-performing executive team will generate a tremendous return on a CEO's investment of time, effort, and attention.
+
+Here I discuss four aspects of executive teams: identity, composition, leadership, and culture. Some change more readily than others, but teams as a whole are rarely static. They constantly evolve to meet the requirements of the business, team members, and other stakeholders. Visible, discontinuous developments, such as the initial establishment of a formal team or a change in membership, tend to happen at periodic intervals, but subtle, small-scale adjustments can occur at any time.
+
+1. The Evolution of Team Identity
+
+What is an executive team's purpose? When should it be formalized? [2]
+
+When a company is founded, calling a group of people the "executive team" (or something similar) is superfluous and even counter-productive. Early-stage employees are attracted by the prospect of working directly for a founder, and founders want to be as close as possible to the work those early-stage employees are doing. An intermediate layer of management between the CEO and other employees at this stage serves no purpose except to reward status-seekers.
+
+Even after the first layers of management have been created, key employees often have information that leaders require in order to make decisions, and the systems necessary to provide that information in the employees' absence haven't yet been built or are technically infeasible. So it's common for early-stage CEOs to defer establishing a clearly-defined executive team with a fixed membership--and yet a number of factors eventually make it necessary.
+
+The effort required to provide thoughtful one-on-one management to employees leads most CEOs to decrease their number of direct reports over time. In part this is because as an organization grows and the people reporting to the CEO become more senior, the CEO provides less direction and more coaching and other forms of support, which can be more time-intensive, not less. Senior leaders are hard to replace, so the CEO needs to remain abreast of (and actively influence) their commitment to the role, which requires a close understanding of each individual's sources of motivation and fulfillment. [3] The formalization of an executive team helps the CEO focus their managerial attention on a smaller number of people and have a greater impact in the process.
+
+This benefits team members not only through their relationships with the CEO, but also through the establishment of a coherent group identity and their relationships with each other. The informal assembly of senior employees that predates a formal executive team lacks an identity--it probably doesn't even have a name--and its membership is fluid and heterogeneous. This renders it more flexible, but it also inhibits the development of psychological safety. Note that a safe environment doesn't mean people are "nice" or indirect--it means that people feel free to speak their minds and that vigorous disagreements can take place without undue distress. [4]
+
+A clearly-defined executive team can enhance psychological safety in several ways. Even when the team includes a range of titles (e.g. C-levels, SVPs/EVPs, VPs), membership confers a shared status, and repeated interactions among members render team discussions more predictable, factors that make interpersonal conflict easier to manage. [5] And the "mere exposure effect" causes people to feel a greater sense of affinity for each other with regular contact. [6] None of this implies that formal executive teams are more harmonious than informal leadership groups--they may well be more fractious, because the members feel safer and thus more comfortable openly disagreeing with each others. [7]
+
+The formal establishment of an executive team is no guarantee of a persistent and healthy team identity, and a CEO has a unique responsibility to ensure that team members maintain a sense of group cohesion [8] and a belief in their collective capabilities. [9] An executive team's identity can shift dramatically as a result of changes in composition, but it will continue to evolve--for better and for worse--through the team's shared experiences and members' behavior toward each other.
+
+2. The Evolution of Team Composition
+
+Who should be on the executive team? How many members should it have?
+
+There's no one right way to constitute an executive team or a single optimal size, but I've observed that teams trend toward an ideal state over time:
+
+- Everyone who reports to the CEO is on the executive team, and everyone who's on the executive team reports to the CEO. (This does not include the CEO's Executive Assistant, but it may include a Chief of Staff.)
+
+- The team is large enough to possess the information needed for decision-making, but small enough to build meaningful relationships and serve as an effective decision-making body.
+
+- The team is sufficiently heterogeneous to provide a range of perspectives and avoid groupthink, but not at the expense of social cohesion or a shared identity. [10]
+
+Leaders I've worked with typically strive toward this configuration, and yet there are many reasons why they fall short or tolerate irregularities. At times the CEO chooses to manage an individual whose role is too narrowly scoped to merit inclusion, or who's too inexperienced to add value in team discussions. In most cases this is a temporary measure, because anyone who's sufficiently senior to be managed by the CEO will eventually agitate to be included. The CEO then faces a choice: Add the person to the executive team, increasing its size and complexity, or level them under another direct report, increasing the likelihood that they become a flight risk. [11]
+
+Alternatively, a CEO may opt to retain a former direct report on the executive team after levelling them under another senior leader. For example, this can occur when a CEO hopes to retain a less-experienced VP who will now report to a new C-level leader. The VP may tolerate being levelled, particularly if the incoming leader is demonstrably more experienced, but they will almost certainly resent being removed from the executive team. And yet this also tends to be an expedient solution rather than a permanent one because the presence of skip-levels on an executive team adds a degree of heterogeneity that can cause a number of difficulties.
+
+Any skip-levels who are not members of the executive team will wonder why they're being excluded and what they need to do to earn a spot, and this may apply to all direct reports of all team members, causing extensive discontent within the company. The new C-level leader and the levelled VP will wonder if it's safe for them to disagree in team discussions. And the team environment may feel less intimate for all members, with senior leaders reluctant to be candid in the presence of a subordinate.
+
+None of these challenges are insurmountable, nor are they reasons to automatically default to the "ideal" configuration described above. But a CEO considering any changes to team composition should bear in mind that there are almost always costs offsetting any potential benefits. Adding new members may expand the team's access to information, but it will also render the network of relationships it encompasses more complex and may increase the CEO's obligatory one-on-ones. Removing superfluous members will simplify the team's interpersonal dynamics, but the remaining members may need to cover a broader span of issues and be better prepared for team interactions.
+
+A common by-product as a CEO designs a smaller executive team is the establishment of a second, larger management body that includes some or all of the executives' direct reports. This group is more heterogeneous than the executive team, but it can also have a defined membership, a regular meeting cadence, and its own identity. The size and composition of this group will render it less intimate, but it need not be purely performative (although that's a potential risk.) Among other purposes, such as information-sharing, this larger group can provide junior leaders with a sense of inclusion and engagement, even (and especially) if they were previously members of the executive team.
+
+3. The Evolution of Team Leadership
+
+A CEO has a number of team leadership responsibilities, and while some of these duties will always be part of their job description, others will change over time. [12] First among them is the authority to formally establish the team and determine its membership (although in some cases executive roles may be subject to Board approval.) In this context the CEO must maintain a delicate balance--they have to build trusting, meaningful relationships with team members, while also rigorously assessing each member's ability to contribute to the business and the team itself.
+
+Leaders can err on both sides here. They can be too quick to manage out or demote executives perceived to be under-performing, fostering anxiety among the team and preventing the emergence of a truly collaborative culture. But they can also be too loyal to executives who are failing to keep up with the demands of their role, particularly if there's a personal relationship at stake or if an executive is well-liked or regarded as a champion of company culture. [13]
+
+Early in a team's development the CEO tends to play a highly active role in all team activities, from agenda-setting to meeting facilitation to decision-making. This usually changes as a consequence of several factors: Team members want a greater say in the topics under discussion and the process of issue resolution. Formalized team procedures disperse responsibility and require less individual initiative on the CEO's part to drive action. And the team may grow more capable of self-management, not only as a result of greater familiarity and trust, but also via the addition of more capable members (and the removal of less capable ones.)
+
+As the membership of an executive team grows more talented and experienced, it's not unusual for a CEO to wonder, "How do I add value here?" While it may feel daunting, this is an opportunity for the CEO and the rest of the team to rethink their assumptions about who's responsible for what. Some duties may be delegated to a President, COO, or Chief of Staff. A talented Chief People Office or VP People may be able to play a special role in addressing and improving team dynamics. The CEO will always occupy a unique symbolic role [14], but revamping their approach to team leadership will enable them to continue to add value without becoming a bottleneck. [15]
+
+4. The Evolution of Team Culture
+
+I've known leaders who are skeptical about the concept of "organizational culture" because it's often poorly defined, or defined in ways that promote an empathetic style of leadership at the expense of accountability. [16] But Michael Watkins of the International Institute of Management Development offers a set of simple, even-handed definitions of culture that are relevant to any team in any context:
+
+- Consistent, observable patterns of behavior.
+
+- A process of "sensemaking" that yields shared beliefs about the team and its environment, and a source of meaning that explains why these things are the way they are.
+
+- A social control system that promotes productive behavior, proscribes counter-productive behavior, and specifies behavioral norms as well as penalties for norm violations. [17]
+
+A dilemma for many teams is that their culture is largely invisible to them. They're the proverbial fish who ask, "What's water?" [18] But cultures vary widely in their ability to support (or preclude) optimal performance, and executive teams are well-served by developing a better understanding of their own. A CEO can't dictate an executive team's culture, but they can certainly influence it, and one of their most powerful tools in this regard is the ability to pause the team's day-to-day work in order to assess how they work. Sometimes this occurs via large-scale interventions--retreats, offsites, exercises--but it can also take the form of a brief post-mortem following any team activity: How did that go? Everyone's point of view matters, but in many cases only the CEO is in a position to ensure these activities occur and license candid participation.
+
+Some of the most elemental aspects of executive team culture are the "patterns of behavior" surrounding group interactions, both formal and informal, in-person and online. Such patterns tend to become routinized over time, but that doesn't mean they've been deliberately optimized for performance--they may simply reflect "the way we do things here." But what worked well at an earlier stage of the team's development may not work as well today--or may be actively unhelpful. Much of my work with clients on this topic involves asking simple questions to highlight and assess any patterns involving team meetings, communication tools, and calendars: What's the agenda (and who sets it)? How are we using Slack? How do events get on our calendars?
+
+A team's culture also encompasses the "process of sensemaking" that enables members to arrive at a set of interpretations that explain the world around them. This shared sense of meaning is necessary for any group to collectively grasp a complex situation and work together to achieve their goals--an essential quality for an executive team. Psychologist and management expert Karl Weick studied the consequences of "deficient sensemaking" in groups and its implications for organizational life:
+
+The basic idea of sensemaking is that reality is an ongoing accomplishment that emerges from efforts to create order and make retrospective sense of what occurs. Organizations can be good at decision making and still falter. They falter because of deficient sensemaking. The world of decision making is about strategic rationality. It is built from clear questions and clear answers that attempt to remove ignorance. The world of sensemaking is different. Sensemaking is about contextual rationality. It is built out of vague questions, muddy answers, and negotiated agreements that attempt to reduce confusion. [19]
+
+An executive team with a robust sensemaking culture embraces the "vague questions, muddy answers, and negotiated agreements" that they must inevitably confront while doing business. This doesn't mean that they're always in harmony--the process almost always requires a degree of comfort with conflict. But teams that lack this capability never truly operate as a team--they remain a disparate collection of individuals, each acting upon their own subjective interpretation of the world around them, often to their detriment.
+
+All of these concepts ultimately find expression in a team's norms, which I've previously defined as "social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave." [20] Note that a team's norms may diverge significantly from their values: "Whenever employee behavior is inconsistent with a company's stated values, that's because those values are merely a set of rules, which define what we intend to do, or what we're supposed to do, or what we aspire to do. There's a tremendous difference between rules and norms, which are what we actually do." [21]
+
+As David Bradford, one of my mentors, used to say, "Functional norms support high performance. Limiting norms don't. The more explicit norms are, the more likely they'll be functional. And the most limiting norm...is a norm of not discussing norms." [22] And fostering an ongoing dialogue about this aspect of team culture may be the most valuable role a CEO can play in furthering the evolution of their executive team.
+
+ 
+
+Footnotes
+
+[1] 1x 10x 100x (On Leverage)
+
+[2] This section is adapted from The Judicious Imposition of Structure.
+
+[3] Currencies (On Motivating Different People)
+
+[4] Safety Is a Resource, Not a Destination
+
+[5] How Leaders Create Safety and Danger
+
+[6] Exposure effects in the classroom: The development of affinity among students (Richard Moreland and Scott Beach, Journal of Experimental Social Psychology, 1992)
+
+[7] How Management Teams Can Have a Good Fight (Kathleen Eisenhardt, Jean Kahwajy and L.J. Bourgeois III, Harvard Business Review, 1997):
+
+Without conflict, groups lose their effectiveness. Managers often become withdrawn and only superficially harmonious. Indeed, we found that the alternative to conflict is usually not agreement but apathy and disengagement. Teams unable to foster substantive conflict ultimately achieve, on average, lower performance. Among the companies that we observed, low-conflict teams tended to forget to consider key issues or were simply unaware of important aspects of their strategic situation. They missed opportunities to question falsely limiting assumptions or to generate significantly different alternatives. Not surprisingly, their actions were often easy for competitors to anticipate.
+
+[8] Huddle Up! (Building Group Cohesion)
+
+[9] Building the Emotional Intelligence of Groups, page 83 (Vanessa Urch Druskat and Steven Wolff, Harvard Business Review, March 2001):
+
+Study after study has shown that teams are more creative and productive when they can achieve high levels of participation, cooperation, and collaboration among members. But interactive behaviors like these aren't easy to legislate. Our work shows that three basic conditions need to be present before such behaviors can occur: mutual trust among members, a sense of group identity (a feeling among members that they belong to a unique and worthwhile group), and a sense of group efficacy (the belief that the team can perform well and that group members are more effective working together than apart)... At the heart of these three conditions are emotions. Trust, a sense of identity, and a feeling of efficacy arise in environments where emotion is well handled, so groups stand to benefit by building their emotional intelligence.
+
+[10] Research on the impact of group composition and diversity on performance is inconclusive--it's easy to find studies supporting almost any point you want to make on the subject. Two observations drawn from my experience are that 1) homogeneous teams experience less conflict but can be more prone to blind spots and "groupthink," and 2) heterogeneous teams can only make effective use of their diversity once they learn to manage conflict effectively (including, but not limited to, the topic under discussion here.)
+
+[11] The Fine Art of Levelling
+
+[12] Three Buckets (On CEO Job Descriptions)
+
+[13] Merciful Exits (On Under-Performing Executives)
+
+[14] Leader as Avatar
+
+[15] How to Scale: Do Less, Lead More
+
+[16] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[17] Adapted from What Is Organizational Culture? (Michael Watkins, Harvard Business Review, 2013)
+
+[18] "There are these two young fish swimming along, and they happen to meet an older fish swimming the other way, who nods at them and says, 'Morning, boys, how's the water?' And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, 'What the hell is water?'" (David Foster Wallace, "This Is Water," Kenyon College Commencement, 2005)
+
+[19] "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster" (Karl Weick, Administrative Science Quarterly, Volume 38, Number 4, December 1993)
+
+[20] Rules Aren't Norms (On Company Values)
+
+[21] Ibid.
+
+[22] Adapted from materials that David shared with me. For more on our relationship, see Thank You, David Bradford.
+
+ 
+
+Photo by gajman.
+
+
+===== END ED BOT ESSAY 4190 =====

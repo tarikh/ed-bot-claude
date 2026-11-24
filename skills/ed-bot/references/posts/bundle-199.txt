@@ -1,0 +1,184 @@
+===== BEGIN ED BOT ESSAY 3906 =====
+---
+title: The Six Layers of Knowledge and Better Conversations
+url: https://edbatista.com/2016/05/the-six-layers-of-knowledge-and-better-conversations.html
+slug: the-six-layers-of-knowledge-and-better-conversations
+published: 2016-05-09T09:08:34
+updated: 2025-10-12T14:34:21
+source_body: wordpress-html
+---
+
+When we're leading and coaching, how can we help others surface more useful information? How can we make those conversations more effective?
+
+Grant McCracken is an anthropologist who works at the intersection of culture and commerce, and I've found inspiration in his work many times before. [1] In a recent article Grant discusses the "six layers of knowledge" that can be uncovered in an ethnographic interview, a framework that can be applied to any conversation in which a questioner (such as a leader or coach) is seeking to help another person (such as an employee or client) identify and clarify what they know [2]:
+
+The Six Layers of Knowledge
+
+- What the other person knows and can offer easily.
+
+- What the other person knows and can report with prompting.
+
+- What the other person does not know they know but can reveal with prompting.
+
+- What the other person does not know, cannot report, and cannot reveal, but the questioner can gather from one conversation.
+
+- What the other person does not know, cannot report, and cannot reveal, but the questioner can gather from multiple conversations.
+
+- What the other person does not know, cannot report, and cannot reveal, and the questioner cannot gather without recourse to data and understanding from beyond the relationship.
+
+McCracken notes, "The ethnographer is a spelunker [a cave explorer], and it is especially on levels 4, 5, and 6 that...value will be revealed." So as leaders and coaches, how might we leverage this framework to access those deeper layers of knowledge?
+
+First, is the other person "offering easily" what they know? If not, they may not feel sufficiently comfortable to share, so we need to deepen the relationship by building trust [3] and establishing safety. [4] This can be done very economically--a few minutes of small talk at the outset of a conversation can allow us to get to deeper levels of communication much more rapidly. [5]
+
+Do our questions and prompts yield increasingly useful information? Do they yield information that was not readily apparent to the other person? If not, we need to ask better questions, which starts with avoiding simple Yes/No queries that tend not to advance the dialogue, and train ourselves to ask more open-ended questions instead. [6] I began my career after undergrad as a journalist, and I quickly learned that complex questions designed to show off how much I knew yielded very little in the way of useful information--it was far more valuable to ask simple, naive questions that encouraged the other person to show off how much they knew. So bear in mind that a "better question" isn't necessarily a "smart question."
+
+Similarly, it's important to be slow to introduce information from our perspective. As longtime MIT professor Edgar Schein has noted, efforts to be helpful are most effective when we start with "pure inquiry" before asking presumptive questions that focus the other person's attention on specific aspects of their responses or challenge their narrative with alternative interpretations of events. [7] We need not withhold this information indefinitely, but slowing down our impulse to direct the conversation and add our perspective leaves more room for the other person to think creatively.
+
+Next, what data are we gathering from each conversation? The essential point here is insuring that we don't prioritize data-gathering over being fully present with the other person--excessive note-taking can easily become a distraction to both parties. In my practice I typically take minimal notes during a coaching session (or, many times, no notes at all), but I'm careful to allot time afterward to reflect on the conversation and extract key conclusions. I often conduct an initial version of this meaning-making process with the other person, asking them what they're taking away from the conversation, to insure that they begin and then repeat the process again, making some further notes on my own.
+
+This process requires a commitment to leave time for reflection--with the other person at the conclusion of the conversation, in between events on our calendar, or at the end of the day. This need not be extensive--sometimes five minutes is sufficient, and even 30 seconds can make a difference--but when we rush from one event and plunge headlong into the next without any time for reflection in between, we miss out on immense amounts of learning. [8]
+
+And how are we making use of this data over time? How are we tracking learning and progress across multiple conversations? Here again, it's important to maintain a balance. By providing some continuity for the other person from one conversation to the next, we can build upon past lessons and strengthen the relationship by insuring that the other person feels more fully known. But if we over-emphasize the continuity from our perspective, we fail to recognize that the other person may have traveled a great distance between conversations with us, and it may be unhelpful to try to pick up where we left off. I typically prepare for a coaching conversation by reviewing past notes so that I'm reminded of ongoing themes, but I'm careful to allow the other person to choose our starting point.
+
+Finally, what data and understanding are we making use of from sources beyond this particular relationship? An obvious place to start is pattern recognition, using lessons learned from other relationships and experiences to make sense of this one. But this is a potential trap--as researcher Simon Wardley has noted, a little expertise doesn't make us experts, but, rather, hazards who think we know much more than we actually do. [9] And one of the most important lessons I've learned from many years of coaching is that I'm better able to access my wisdom when I remain keenly aware of my ignorance.
+
+Footnotes
+
+[1] Grant McCracken's biography
+
+[2] Dark Value: How to find hidden value in the digital economy (Grant McCracken, Kindle edition, 2016)
+
+[3] Two Sides of Trust
+
+[4] How Leaders Create Safety (and Danger)
+
+[5] Five Levels of Communication
+
+[6] Scott Ginsberg on Asking (Better) Questions
+
+[7] How Great Coaches Ask, Listen and Empathize
+
+[8] The 30 second habit with a lifelong impact (Robyn Scott, Medium, 2014)
+
+[9] The three stages of expertise (Simon Wardley, 2008)
+
+Photo by Thomas Shahan.
+
+
+===== END ED BOT ESSAY 3906 =====
+===== BEGIN ED BOT ESSAY 3907 =====
+---
+title: Show Me Your Calendar and I'll Show You What You Value
+url: https://edbatista.com/2016/05/show-me-your-calendar-and-ill-show-you-what-you-value.html
+slug: show-me-your-calendar-and-ill-show-you-what-you-value
+published: 2016-05-02T05:00:00
+updated: 2025-10-12T14:34:58
+source_body: wordpress-html
+---
+
+“Show me your calendar & I’ll show you what you value.” I first heard that from @JoelCPeterson in 2000 @StanfordBiz & think of it every day.
+
+— Ed Batista (@edbatista) May 1, 2016
+
+Joel Peterson said this in class when I was one of his students at Stanford, and--along with many of his other lessons--it's had a lasting impact on me. Similar sentiments have been expressed over the years by Joe Biden about "your budget" and (supposedly) G.K. Chesterton about "the stubs in a man's checkbook," but money's a less meaningful measure of value. Its relative nature makes it less helpful as a guide to what truly matters to each of us.
+
+Time, in contrast, is a more accurate metric. We all have the same number of hours in the day, days in the week, weeks in the year. And how we allocate that time says everything about what we value. I'm keenly aware that having (and lacking) money has a substantial impact on how we spend our time--and yet even when our decision to allocate time to an activity or task (or not) is influenced by our financial affairs, we're still saying something about what we value.
+
+I have a conventional calendar, of course, where I note my obligations during each hour of the workday--but I also keep a set of calendars that are more personal. For many years I've used a simple tool called Don't Break the Chain to track whether I worked out, meditated, and got a good night's sleep (among other things) on any given day. Here's my workout calendar for the last three months:
+
+While I haven't fallen completely off the wagon, it's evident that a more consistent routine which lasted through February fell away in March, and I've struggled to get back into that groove. When I compared this with my conventional calendar I realized that in February I had workouts scheduled in advance each day--a very clear expression of what I valued--and on a given day other activities had to push the workout off my calendar. I stopped doing that in March, for a number of reasons, and the result is that now on any given day the relationship is reversed--my workout has to push other activities off the calendar in order for it to occur.
+
+I couldn't have articulated this at the time, but what's evident in hindsight is that two months ago I started to value other activities more and value my health and well-being less. And that may have been understandable and even justifiable in the short term, but it's definitely not sustainable for a middle-aged guy like me.
+
+So what do you value? How does your calendar reflect those stated values? And to what extent does it reflect a gap between your stated values and what you really value?
+
+
+===== END ED BOT ESSAY 3907 =====
+===== BEGIN ED BOT ESSAY 3908 =====
+---
+title: Brené Brown Makes My Day
+url: https://edbatista.com/2016/04/brene-brown-makes-my-day.html
+slug: brene-brown-makes-my-day
+published: 2016-04-30T17:46:26
+updated: 2025-09-24T11:59:27
+source_body: wordpress-html
+---
+
+@edbatista @StanfordBiz I looked at your syllabus online. I want to be in your course!
+
+— Brené Brown (@BreneBrown) April 30, 2016
+
+The work of Brené Brown has had a big influence on my approach to coaching and teaching (and my life), so this was an honor and a thrill. In addition to Brown's TED talks on vulnerability and shame, I particularly value her book Daring Greatly, which explores these topics and their implications for our personal and professional relationships. (Chapter 2, Debunking the Vulnerability Myths, is on my syllabus for The Art of Self-Coaching.) Many thanks, Brené!
+
+
+===== END ED BOT ESSAY 3908 =====
+===== BEGIN ED BOT ESSAY 3909 =====
+---
+title: How to Fight a Fire (Self-Coaching in a Crisis)
+url: https://edbatista.com/2017/01/how-to-fight-a-fire-self-coaching-in-a-crisis.html
+slug: how-to-fight-a-fire-self-coaching-in-a-crisis
+published: 2017-01-04T05:00:00
+updated: 2025-10-10T17:38:25
+source_body: wordpress-html
+---
+
+Most of my coaching clients are CEOs of rapidly growing companies, and most of the rest are senior leaders in similar settings, and while their work is always demanding and dynamic, sometimes they face a full-blown crisis, a threat to the organization’s existence that will require their maximum effort. These are the situations that truly test a leader’s ability to self-coach, to manage themselves effectively while also guiding others. Here are four factors that have helped clients who’ve had to surmount a crisis:
+
+1. Self-Care
+
+Taking care of yourself when you’re in the midst of a crisis is easily overlooked because there are so many more urgent tasks to address--and yet it’s at these moments that a modicum of self-care becomes even more important. I’m not suggesting that you can maintain your personal routines as if everything's normal--you will have to adapt to get through the crisis. But you also shouldn’t overreact and abandon your routines entirely. The important-but-not-urgent activities such as sleep and exercise that serve you well during normal times will continue to support you during a crisis, and they may even be more critical to your effectiveness. [1]
+
+You may not be able to get a full night’s sleep, but you need to have a sense of you necessary baseline. After a certain point the extra hours of effort made possible by getting less sleep are outweighed by your sub-optimal performance--and you may reach that point surprisingly quickly. [2] You may not be able to stick with your fitness routines, but you can get out of the building and take a walk around the block every few hours. [3] And if you meditate, you may have to adjust you practice, but bear in mind that one of the primary purposes of meditation is helping you direct and manage you attention, which becomes more important than ever during a crisis. [4]
+
+Another important aspect of self-care in a crisis is being mindful of what you eat. It’s tempting to simply consume whatever junk is on hand, and yet putting some effort into obtaining higher-quality food to sustain yourself and those around you will go a long way. (Some research suggests that a low-carb, high-fat diet may support improved physical and mental performance, although results are highly individualized. [5]) And if you drink, it’s even more important to pay attention to your consumption of alcohol in a crisis. It's all too easy to drink more than you should as a way of managing stress or getting to sleep, and yet this is often counterproductive--for example, sleep may come more readily, but it's likely to be lower-quality, causing increased fatigure.
+
+2. Emotion Regulation and Disclosure
+
+In a crisis you may be in close communication with colleagues while emotions are running high, and in a leadership role you’re also under a spotlight. [6] People are looking to you to set the tone, and this obligates you to carefully regulate what you say and how you say it. But leaders are as susceptible to strong emotions as any other individual, and there are limits on your ability to suppress feelings of anxiety or turmoil in order to serve as an example to others. There are also circumstances in which it’s helpful for a leader to disclose such feelings and share your vulnerability--if you always present a stoic exterior to the world, you'll miss opportunities to create closeness and connection, and you'll probably pay a personal cost in the process. [7]
+
+It’s essential to find the right balance between regulation and disclosure--to know when, how, and with whom certain thoughts and feelings should be expressed. People who lack the ability to regulate themselves in a crisis don't tend to last in leadership roles--their fear or anger get the best of them, and they overwhelm their team and make sub-optimal decisions. But leaders who over-regulate in a crisis may also under-perform. The goal isn't to suppress these difficult feelings, but rather to regulate them and find the right way to disclose them in a given situation. [8]
+
+Leaders do need to be able to simply vent and express themselves without worrying about self-regulation, and this is more important than ever during a crisis. Having access to people you trust who aren't personally invested in the success or failure of your organization is essential so that you can fully acknowledge the stress and anxiety you feel. Candid conversations with trusted allies make it easier to manage difficult emotions in more public settings. Note that this can pose a challenge when you only turn to family and friends in the midst of a crisis--they’re eminently trustworthy, but they may also be attached to a given outcome that makes it difficult for them to be objective listeners. [9]
+
+3. Role-Playing
+
+Crises inevitably involve holding difficult conversations when you're not well-prepared. Under ordinary circumstances you'd put it off, but in a crisis this isn’t an option--you're obligated to forge ahead and hope for the best. At these moments a simple way to prepare for a tough conversation is to role-play the first few minutes with a trusted ally. The purpose isn't to "rehearse your lines"—it can be an unhelpful distraction to feel that you need to stick to a script, and if you come across as overly prepared you can create a sense of distance between yourself and the other party. Nor is the goal to predict the outcome--most interpersonal exchanges are too complex and dynamic to predict beyond a few rounds, and if the conversation takes an unexpected turn you'll be at a disadvantage. [10]
+
+The real value of role-playing a difficult conversation is that it simulates the emotional state you're likely to experience in the actual interaction, so that you're better prepared to manage yourself while in the grip of those feelings. This is why it’s important to truly commit to the experience in the role-play and not simply go through the motions. The ability to suspend belief and "act as if" you're really having the conversation is essential to the process.
+
+Note that a useful variation is a "reverse role-play," in which a trusted ally adopts your role, and you adopt the role of the other party. This allows you to get a perspective on how your position might appear to the other party and to get a sense of how their position feels to you.
+
+4. Slowing Down
+
+Finally, you need to recognize that in a crisis you're operating under high levels of stress constantly, which can easily create a sense of acceleration and urgency. And when you're that stressed your ability to process information diminishes, so you must remind yourself to slow down, to pause before responding, and even to ask someone to repeat what they said because we want to be sure we understand them correctly. [11]
+
+And this brings us back full circle to self-care, because the hard work of slowing down when the world around us is speeding up is only possible when we're sufficiently well-rested and addressing our other physical, emotional, and mental needs.
+
+Footnotes
+
+[1] Importance vs. Urgency
+
+[2] A set of resources on sleep.
+
+[3] Get Moving! (Exercise for Busy People)
+
+[4] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[5] Low-Carb High-Fat (LCHF) Resources
+
+[6] Watch That Next Step (CEO Problems)
+
+[7] Brené Brown, Vulnerability, Empathy and Leadership
+
+[8] The Tyranny of Feelings
+
+[9] The Friendship of Wolves
+
+[10] Learning to Yield (Navigating Tough Conversations)
+
+[11] The Importance of Slowing Down
+
+Photo by Andrew Magill.
+
+
+===== END ED BOT ESSAY 3909 =====

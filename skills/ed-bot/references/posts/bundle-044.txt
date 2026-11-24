@@ -1,0 +1,107 @@
+===== BEGIN ED BOT ESSAY 3254 =====
+---
+title: Pop and Politics
+url: https://edbatista.com/2005/06/pop_and_politic.html
+slug: pop_and_politic
+published: 2005-06-15T16:51:43
+updated: 2005-06-15T16:51:43
+source_body: wordpress-html
+---
+
+From Chris Anderson's latest post:
+
+Here's my take on what the Long Tail is doing to pop culture. Rather than the scary fragmentation of our society into a nation of disconnected people doing their own thing, I think we're reforming into thousands of cultural tribes, connected less by geographic proximity and workplace chatter than by shared interests. Whether we think of it this way or not, each of us belongs to many different tribes simultaneously...
+
+As a result, we can now treat culture not as one big blanket but as the superposition of many interwoven threads, each of which is individually addressable and and connects different groups of people simultaneously.
+
+In short, we're seeing a shift from mass culture to massively parallel culture.
+
+This is challenging enough for the various pop culture industries, where the investment, production and marketing machinery that's been built around the concept of "hits" will have to be re-tooled to serve a much broader range of niche audiences.
+
+But it's an even tougher proposition in the zero-sum world of political advocacy, where there's typically one big winner, and everyone else in the tail--whether it's the # 2 candidate or the last write-in ballot--comes up empty.  We may have "reformed into thousands of cultural tribes," but in politics it still takes 50% + 1 to win it all.
+
+However, it would be a mistake for advocates to ignore the implications of the changing cultural landscape and continue to think only in terms of mass audiences, because our fragmented cultural identities--Anderson's "interwoven threads"--are a more accurate reflection of who we are than the "big blanket" Red State/Blue State divide would suggest, a point nicely illustrated by the University of Michigan maps that contrast the 2004 election results by state and by county.
+
+You still need a "hit" to win politically, but you're going to get there through a shifting coalition of tribes making common cause.  They won't identify with the "big blanket," be it the party, the candidate, or your organization, but with the "interwoven thread"--the issue of the day, the specific call to action--that temporarily connects them.  And you'll have to re-assemble that coalition after every victory--or come up with a better one after every defeat--because it won't be built to last.
+
+long tail
+
+
+===== END ED BOT ESSAY 3254 =====
+===== BEGIN ED BOT ESSAY 3255 =====
+---
+title: It's the Culture, Stupid
+url: https://edbatista.com/2005/08/its_the_culture.html
+slug: its_the_culture
+published: 2005-08-08T08:15:53
+updated: 2005-08-08T08:15:53
+source_body: wordpress-html
+---
+
+That's my reading of R. Todd Stephens recent post on the (in)effective implementation of collaborative applications such as corporate blogs:
+
+Failure [of these collaborative applications] will be related to the infrastructure. More specifically, the capacity and performance of the application will dictate the failure. Assuming the system selected has the basic business functions required, failure will occur when the system destroys the trust by not excelling in the operations and infrastructure areas. However, successful applications built over a solid infrastructure does not guarantee success. In fact, a solid infrastructure is only important when the need is not fulfilled.
+
+Success is much more related to the client support and the business community acceptance of the technology. Therefore success in collaboration is related to the training, engagement processes, branding, best practices, user manuals, communities of practice, communications, and providing customer service.
+
+So where does the vast majority of funding in this area go toward? You guessed it, the software, hardware, vendor relationships, capacity, etc. More importantly try to find a best practice document, vendor user guide, or a research firm review of the implementation of collaborative applications, you will find a rather large vacuum. Our community is obviously more concerned with collaborative failure than collaborative success.
+
+I see two overlapping failures that contribute to this massive vacuum Todd so rightly recognizes.  First, there's a general bias in favor of the tangible and the visible over the abstract.  People will devote much more time and energy weighing the pros and cons of various software packages than they will considering the organizational culture that will ultimately determine whether said software succeeds or fails.  Considering that an organization's culture is the full expression of its history, its leadership, and every dollar spent on personnel, and that even the most expensive technology is a trifling toy in comparison, this failure says a lot about our shortsightedness.
+
+Second, speaking specifically about blogging tools, these applications are so easy to implement and use that it's hard not to take a "Shoot first, ask questions later" approach.  The temptation to just get a blog up and running is understandable--everybody else is doing it, and management is breathing down our neck wondering why we're not, so let's just get going.  As a result, our understanding of these tools and their impact on an organization's culture lags far behind their actual use.  Todd's looking for a set of engagement processes, best practices, user manuals and communities of practice related to these tools.  I see some great resources growing organically, and I see some absolute garbage being hyped by get-rich-quick blogging "experts," but I don't really see what Todd's looking for, because I don't think it exists yet.  Now that gives me some ideas...
+
+organizational culture
+
+
+===== END ED BOT ESSAY 3255 =====
+===== BEGIN ED BOT ESSAY 3256 =====
+---
+title: What's Important Isn't Necessarily Urgent
+url: https://edbatista.com/2005/08/whats_important.html
+slug: whats_important
+published: 2005-08-05T14:58:15
+updated: 2005-08-05T14:58:15
+source_body: wordpress-html
+---
+
+Today Stowe Boyd critiqued a recent post by David Coleman on continuous partial attention, a post I commented on as well.  Stowe feels that David's emphasis on increasing our efficiency as a response to increasing demands on our attention is misguided:
+
+I am not concerned with the 'overwhelm' of information and attention like David and the Sunday supplement pundits he names seem to be. I have adopted continuous partial attention as a meaningful strategy for remaining connected in a much larger social scene that would be suggested by my tiny, tiny office. I switch from task to task, from IM to telephone, from this interrupt to that, and slowly get back to the list of things I am plugging away on. Yes, things slip from today to tomorrow, but an equal number of things slip from tomorrow, or never, into today. And that slippage is not waste, it is not loss of productivity, it is exactly the interaction with others that makes all this worth doing in the first place.
+
+Gandhi said "we have to be the change we want in the world." It you want the world to be filled with hyper-efficient robots, obsessively focused on getting their own tasks done at the expense of others' progress, never veering off to look at a friend's new project, or to answer a colleague's question, then by all means, please be that sort of person. I promise I won't add you to my buddy list. However, if you'd like the world to be a warm, engaging place, where you are surrounded and connected to hundreds of people who believe that your presence matters, and who actively seek your advice and input on issues that are important, then you can switch over to living a connected life. Forget the information overload hyperbole, or the new terror tactic: attention overload.
+
+I agree with Stowe's vision and values, but I think he's misinterpreting David's post.  I came away from it thinking less about hyper-efficiency and more about the fact that 1) certain kinds of creative thought require a certain amount of uninterrupted peace, and 2) it's become much harder to block out space for that kind of thinking, both because we're living within much denser networks and because there's an expectation that you will respond to demands on your attention rapidly, if not immediately.
+
+I agree that being part of a denser network makes my life much richer, and I'm certainly willing to sacrifice some peace in order to be a functional participant in that network--to give my time, energy and attention to others, in the expectation that my own requests will be met in the future. 
+And I agree that we have to accept a certain amount--and sometimes a great deal--of "slippage," recognizing that within such a dense network, there will always be too many things to do, too many people to connect with, to ever truly keep up.
+
+But plenty of people don't agree with that perspective.  Their response to an ever denser network and ever more demands on their attention is to respond ever more quickly and to minimize the time spent on each transaction, hoping to prevent "slippage" at all costs--which results in the hyperventilating pace that so many people seem caught up in today.
+
+I think David's response focused on efficiency not simply to increase throughput, but as a coping mechanism.  I suggested in response that whether our solutions are technical or cultural, we have to start "putting a higher value on our attention, and raising the threshold of urgency for anything or anyone that's seeking to claim a share of it."
+
+In hindsight, I regret that choice of words--the emphasis shouldn't be on "urgency," which suggests  a ruthlessly businesslike approach to time management.  The emphasis should simply be on importance--the things that truly matter to us--and there are certainly many things that are not urgent but are important.  Stowe highlights how important it is to respond to people in our network, in order to maintain social ties and to increase the richness of our personal environment.  I want to highlight the importance of quiet, reflective thought in the creative process--taking the time to mull things over and come up with new ideas.
+
+But making time for these activities means other things go undone.  I read David's post not as a paean to efficiency for its own sake, but as an exploration of the possible solutions that will allow us to make time for the people and things that truly matter, while continuing to get other, less important but still urgent things accomplished.
+
+attention
+
+
+===== END ED BOT ESSAY 3256 =====
+===== BEGIN ED BOT ESSAY 3257 =====
+---
+title: Ari
+url: https://edbatista.com/2005/08/ari.html
+slug: ari
+published: 2005-08-05T00:33:05
+updated: 2005-08-05T00:33:05
+source_body: wordpress-html
+---
+
+Knock off that hippy shit, strap on a helmet, and start
+
+shooting. This is Malibu, Emily…I want
+
+you to storm that beach like it’s fucking Normandy.
+
+
+===== END ED BOT ESSAY 3257 =====

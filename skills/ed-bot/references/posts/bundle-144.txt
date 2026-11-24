@@ -1,0 +1,222 @@
+===== BEGIN ED BOT ESSAY 3686 =====
+---
+title: Self-Monitoring and Authenticity
+url: https://edbatista.com/2011/07/self-monitoring-and-authenticity.html
+slug: self-monitoring-and-authenticity
+published: 2011-07-18T23:19:40
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+Can we self-monitor and remain authentic? When does self-monitoring become inauthentic self-presentation? And what do we mean by "authenticity" anyway?
+
+After my recent post on self-monitoring [1], a friend responded:
+
+My immediate response/question to the issue of self-monitoring, which I think is incredibly important and relevant, is how it intersects with building authentic and trusting relationships. Can someone be so adept at self-monitoring, and have such strong intuition and sense of others' motivations and emotions, and thus adapt their behavior accordingly with every single interaction, that it could lead to questioning the authenticity of the self-monitoring individual--and thus an inability to build a truly trusting relationship? Perhaps this is self-monitoring on steroids, which, like any behavior taken to its extreme, can actually be counter-productive at best and destructive at worst. Or perhaps it is not self-monitoring at all but a true lack of an authentic self that is not defined in relation to others, or a highly evolved (devolved) mechanism for trying to bring others around to one's own actual self-interest. Or perhaps it is merely manipulation at its finest.
+
+They raise an important point, one that comes up regularly in my work as a coach, where I often help people explore how to develop and maintain more effective working relationships. This process typically involves raising our level of self-awareness, learning more about how others perceive our default behavior, and modifying our behavior in response (when we decide its in our interest to do so.) In some settings, such as Stanford's Interpersonal Dynamics course [2], this is one of the explicit and primary purposes of the experience, and students in that class always raise concerns about authenticity: If I'm consciously changing my behavior, am I being my authentic self?
+
+Before I respond to my friend's concerns, let me address an underlying issue by asking what precisely do we mean by the "authentic self"? Further, how do we come to know this authentic self? If we mean a sort of "elemental identity at the core of our personalities," you might say we have to discover our authentic self, and it is revealed to our consciousness over time. But I don't subscribe to this notion. I think authenticity is a dynamic and subjective state of being that we move into and out of, not a static feature of our internal landscape.
+
+We're more or less authentic at any given moment, and it's in those experiences that we feel authentic that we are our authentic selves. Of course, the dynamic and subjective nature of this state means not only that it's changing all the time, but also that our perspective on it is changing all the time. How we define authenticity at one point in time may not be how we defined it in the past, or how we'll define it in the future. So rather than discover our authentic selves, I believe we create our authentic selves.
+
+We do so by trying out new behaviors and seeing how they fit with our self-concept, how they affect our relationships with others, and how they support our goals. Most new behaviors feel inauthentic at first--I can't do this; it's not ME! And if that feeling persists over time, we end the experiment and move on. But my experience as a coach has made it clear just how often that feeling does not persist, and how capable we are of integrating the new behavior into our repertoire, expanding what it means to be authentic as we do so. (My experience as a coach--and as a coaching client--has also highlighted the many obstacles we face in this process, from embarrassment to impatience.)
+
+Returning to the concerns raised by my friend, I think it's helpful to view self-monitoring behavior along a continuum, ranging from a deficit to an excessive amount. We've all encountered people who lack the ability to self-monitor effectively, and their inability to adapt is cringe-inducing at best and traumatic at worst. But we've also encountered people whose hyper-attentiveness to our responses causes us to doubt the truth of their self-presentation--we sense their intense desire to influence or please us, and we suspect there's more to the story that we're not being told.
+
+I've worked with people who give off this vibe before, and they've tended to be perfectionists with unusually strong drives to please others, particularly authority figures. This isn't to suggest that these people aren't trying to manipulate us. But to what end? My experience suggests that they have an agenda that--to them--is worthwhile and even virtuous. They simply fail to realize that the behaviors they're employing to pursuing that agenda cause the rest of us to question their motives and intentions.
+
+My approach in these cases is to have a dialogue in which I can both ask questions that allow me to learn more about their motives and intentions, and also share my reactions and responses to the behaviors I've observed. Typically, the issue isn't a lack of authenticity--instead, bad judgment, poor communication skills, and a set of mistaken assumptions have all combined to create a huge gap between intention and impact. [3]
+
+This isn't to say that truly inauthentic, unscrupulous, manipulative people don't exist--of course they do. But when we encounter excessive self-monitoring in our daily professional lives, it's much more likely to be a by-product of well-meaning ineptitude.
+
+Many thanks to Scott Bristol, who's had a substantial influence on my thinking about authenticity, among other topics.
+
+This is a companion piece to Self-Monitoring and Cautionary Tales (Authenticity at Work).
+
+Footnotes
+
+[1] Self-Monitoring
+
+[2] A Brief History of T-Groups
+
+[3] Intent vs. Impact (When Communication Goes Awry)
+
+Updated January 2022.
+
+Photo by Rachel Voorhees.
+
+
+===== END ED BOT ESSAY 3686 =====
+===== BEGIN ED BOT ESSAY 3687 =====
+---
+title: Self-Monitoring
+url: https://edbatista.com/2011/07/self-monitoring.html
+slug: self-monitoring
+published: 2011-07-16T14:33:17
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+There's an emerging body of research which suggests that the ability to "self-monitor" has a significant effect on our relationships and professional prospects, particularly for women. [1] So what does "self-monitoring" mean in practice? The concept is based on a 13-question instrument developed by psychologists Richard Lennox and Raymond Wolfe. [2] The first seven items in the instrument refer to one's "ability to modify self-presentation":
+
+1. In social situations, I have the ability to alter my behavior if I feel that something else is called for.
+
+2. I have the ability to control the way I come across to people, depending on the impression I wish to give them.
+
+3. When I feel that the image I am portraying isn't working, I can readily change it to something that does.
+
+4. I have trouble changing my behavior to suit different people and different situations.
+
+5. I have found that I can adjust my behavior to meet the requirements of any situation I find myself in.
+
+6. Even when it might be to my advantage, I have difficulty putting up a good front.
+
+7. Once I know what the situation calls for, it's easy for me to regulate my actions accordingly.
+
+And the final six items in the instrument refer to one's "sensitivity to expressive behaviors of others":
+
+8. I am often able to read people's true emotions correctly through their eyes.
+
+9. In conversations, I am sensitive to even the slightest change in the facial expression of the person I'm conversing with.
+
+10. My powers of intuition are quite good when it comes to understanding others' emotions and motives.
+
+11. I can usually tell when others consider a joke to be in bad taste, even though they may laugh convincingly.
+
+12. I can usually tell when I've said something inappropriate by reading it in the listener's eyes.
+
+13. If someone is lying to me, I usually know it at once from that person's manner of expression.
+
+While we might readily agree that the ability to "modify our self-presentations" and to "sense the expressive behaviors of others" are essential interpersonal skills, it can be challenging to determine how we might improve our skills in these areas without a clearer sense of just what those vague phrases mean. So even without completing the instrument, it can be useful to see these concepts broken down into specific behaviors.
+
+Such clarity won't immediately translate into more effective interpersonal behavior, of course. As with all desired behavior change, awareness is often insufficient on its own--but it's the necessary first step. My experience as a coach is consistent with the research's suggestion that self-monitoring can have a significant positive effect on our relationships, and I suspect that a clearer understanding of the behaviors that comprise self-monitoring, active intention to express those behaviors, and periodic reflection on our effectiveness can all contribute to improved interpersonal experiences.
+
+ 
+
+This is a companion piece to Self-Monitoring and Authenticity and Cautionary Tales (Authenticity at Work).
+
+Footnotes
+
+[1] For research on self-monitoring and women:
+
+- Overcoming the Backlash Effect: Self-Monitoring and Women's Promotions (Olivia O'Neill and Charles O'Reilly, Journal of Occupational and Organizational Psychology, 2011)
+
+- What’s Good for the Goose May Not Be Good for the Gander: The Benefits of Self-Monitoring for Men and Women (Frank Flynn, Journal of Applied Psychology, 2006)
+
+[2] Revision of the Self-Monitoring Scale (Richard Lennox and Raymond Wolfe, Journal of Personality and Social Psychology, 1984)
+
+Photo by impetush.
+
+
+===== END ED BOT ESSAY 3687 =====
+===== BEGIN ED BOT ESSAY 3688 =====
+---
+title: William James on Habit
+url: https://edbatista.com/2011/07/william-james-on-habit.html
+slug: william-james-on-habit
+published: 2011-07-12T23:56:59
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+The hell to be endured hereafter, of which theology tells, is no worse than the hell we make for ourselves in this world by habitually fashioning our characters in the wrong way. Could the young but realize how soon they will become mere walking bundles of habits, they would give more heed to their conduct while in the plastic state. We are spinning our own fates, good or evil, and never to be undone. Every smallest stroke of virtue or of vice leaves its never so little scar.
+
+William James, Psychology: Briefer Course, Chapter X
+
+I recently finished James' deeply thought-provoking 1892 masterpiece, and one of the highlights is his chapter on Habit. While I read James' literal comments on brain function with some caution--after all, he was born 149 years before the first successful fMRI study--I still find him a great source of wisdom on matters both psychological and philosophical. And even if aspects of James' analysis have been superseded by a century of advances in neuroscience, his 19th-century perspective helps me understand today's research more fully. (Having been introduced to James through such secondary sources as Robert Richardson's outstanding intellectual biography and Alain de Botton's Status Anxiety, I decided to read the "Briefer Course" in its entirety as a sort of historical foundation for a collection of neuroscience and cognitive psychology books I'm planning to read later this summer.)
+
+Chapter X opens with a concise neurological definition of habit:
+
+An acquired habit, from the physiological point of view, is nothing but a new pathway of discharge formed in the brain, by which certain incoming currents ever after tend to escape. [Emphasis original]
+
+James continues with a discussion of the "physical basis" of habits, namely "pathways through the nerve-centres":
+
+Plasticity, then, in the wide sense of the word, means the possession of a structure weak enough to yield to an influence, but strong enough not to yield all at once. Each relatively stable phase of equilibrium in a structure is marked by what we may call a new set of habits. Organic matter, especially nervous tissue, seems endowed with a very extraordinary degree of plasticity of this sort...
+
+[Neurological] currents, once in [the brain], must find a way out. In getting out they leave their traces in the paths which they take. The only thing they can do, in short, is to deepen old paths or to make new ones; and the whole plasticity of the brain sums itself up in two words when we call it an organ in which currents pouring in from the sense-organs make with extreme facility paths which do not easily disappear.
+
+James then moves on to the "practical effects of habit"--it "simplifies our movements, makes them accurate, and diminishes fatigue," and also "diminishes the conscious attention with which our acts are performed." In addition, James notes, habits "depend on sensations not attended to...sensations to which we are usually inattentive; but that they are more than unconscious nerve-currents seems certain, for they catch our attention if they go wrong."
+
+Having concluded his physiological analysis, James turns his attention to the "ethical and pedagogical importance" of habit, and here's where James' genius makes him as relevant as ever more than a century later. Even if we view James' comments on brain and neural function as mere metaphor, they provide a meaningful foundation for a compelling argument on how best to cultivate useful habits (and why such a concept even matters):
+
+The great thing, then, in all education, is to make our nervous system our ally instead of our enemy. It is to fund and capitalize our acquisitions, and live at ease upon the interest of the fund. For this we must make automatic and habitual, as early as possible, as many useful actions as we can, and guard against the growing into ways that are likely to be disadvantageous to us, as we should guard against the plague...
+
+In Professor [Alexander] Bain's chapter on "Moral Habits" [from The Emotions and the Will, 1875]...two great maxims emerge from his treatment. The first is that in the acquisition of a new habit, or the leaving off of an old one, we must take care to launch ourselves with as strong and decided an initiative as possible. Accumulate all the possible circumstances which shall re-enforce the right motives; put yourself assiduously in conditions that encourage the new way; make engagements incompatible with the old; take a public pledge, if the case allows; in short, envelop your resolutions with every aid you know...
+
+The second maxim is: Never suffer an exception to occur till the new habit is securely rooted in your life... Continuity of training is the great means of making the nervous system act infallibly right...
+
+A third maxim may be added to the preceding pair: Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain. It is not in the moment of their forming, but in the moment of their producing motor effects, that resolves and aspirations communicate the new 'set' to the brain...
+
+No matter how full a reservoir of maxims one may possess, and no matter how good one's sentiments may be, if one have not taken advantage of every concrete opportunity to act, one's character may remain entirely unaffected for the better. With mere good intentions, hell is proverbially paved...
+
+A tendency to act only becomes effectively ingrained in us in proportion to the uninterrupted frequency with which the actions actually occur, and the brain 'grows' to their use...
+
+[I]t is not simply particular lines of discharge, but also general forms of discharge, that seem to be grooved out by habit in the brain. Just as, if we let our emotions evaporate, they get into a way of evaporating; so there is reason to suppose that if we often flinch from making an effort, before we know it the effort-making capacity will be gone; and that, if we suffer the wandering of our attention, presently it will wander all the time. Attention and effort are, as we shall see later, but two names for the same psychic fact. To what brain-processes they correspond we do not know. The strongest reason for believing that they do depend on brain-processes at all, and are not pure acts of the spirit, is just this fact, that they seem in some degree subject to the law of habit, which is a material law. As a final practical maxim, relative to these habits of the will, we may, then, offer something like this: Keep the faculty of effort alive in you by a little gratuitous exercise every day. That is, be systematically ascetic or heroic in little unnecessary points, do every day or two something for no other reason than that you would rather not do it, so that when the hour of dire need draws nigh, it may find you not unnerved and untrained to stand the test. [All emphasis original]
+
+That last passage in particular makes my heart beat just a little quicker--I'm motivated to rise to James' challenge, and I'd like to think that I do in such small, healthy habits as going to the gym or meditating when I don't really feel like it, or getting up earlier than usual to do some heavy reading. Of course, I'm all too aware of how often I fall short, and how easily I can fall prey to unhealthy habits--not getting enough sleep, wasting time online, even avoiding a difficult conversation I need to have. But my increasing awareness in recent years of the power of any habitual behavior--of the many ways in which both healthy and unhealthy habits reinforce and perpetuate themselves--is what sparks my interest in James' perspective in the first place.
+
+I'm reminded of Don't Break the Chain, one of most effective--and simplest--motivational tools I've ever found. I first began using DBTC to track my workouts in March 2008, a process that's helped me make regular exercise one of my most deeply rooted habits. Here's my "Exercise" calendar for the last three months (as of July 12)--each red block represents a day I worked out:
+
+Earlier this year I began to using this same tool to track other habits I was trying to cultivate (or break). For example, here's my "Sleep" calendar for the same time period--each blue block represents what I'd call a good night's sleep, preferably a solid 7 hours:
+
+As you can see, the habit of a healthy sleep pattern hasn't yet taken root in my life. But if awareness alone is insufficient to motivate change and inculcate new habits, it's a necessary first step, and at least now I have some data at my disposal to nudge me down that path. (It's also striking how motivated I am to do the right thing in order to earn the reward of "checking off" a day on my calendars--another manifestation of the power of habit.)
+
+And while clearly a number of complex, interlocking factors are at work here, I do find James' perspective on habit a compelling explanation for my various successes and failures at sustaining healthy habits and breaking unhealthy ones.
+
+(As I mentioned above, I read the "Briefer Course" as a precursor to a set of contemporary books on neuroscience and cognitive psychology, and I hope to refer again to James as I work through them, particularly on the topics of attention, emotion and volition. But hopefully this discussion has shed some light on why I find James such a superb intellectual companion, and why I look to him for guidance and encouragement.)
+
+
+===== END ED BOT ESSAY 3688 =====
+===== BEGIN ED BOT ESSAY 3689 =====
+---
+title: Carpe Diem (RIP, Moss Room)
+url: https://edbatista.com/2012/01/carpe-diem-rip-moss-room.html
+slug: carpe-diem-rip-moss-room
+published: 2012-01-31T00:01:00
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+Seize the day. We all support the sentiment, of course, but the complete line from Horace makes it much more compelling:
+
+Carpe diem, quam minimum credula postero.
+
+Seize the day, trusting as little as possible in the future.
+
+I'm certainly more motivated to do something today when I admit that tomorrow might not come. And the message of this post is: Don't wait. Do it today. You might not have another chance.
+
+If that's sufficient motivation for you, great--you may not need to read any further. What follows is a discursive, even self-indulgent piece of writing intended to preserve some beautiful memories that will serve to remind me why it's so important not to wait when an opportunity presents itself.
+
+In February 1946, George Orwell published an essay in the Evening Standard titled "The Moon Under Water":
+
+My favourite public-house, the Moon Under Water, is only two minutes from a bus stop, but it is on a side-street, and drunks and rowdies never seem to find their way there, even on Saturday nights...
+
+If you are asked why you favour a particular public-house, it would seem natural to put the beer first, but the thing that most appeals to me about the Moon Under Water is what people call its "atmosphere."
+
+Orwell goes on to describe his pub in great detail, down to the color of the crockery and the terms of endearment used by the barmaids. What matters most to him, though, is the way these characteristics add up to a warm, welcoming environment. I'm so enchanted by Orwell's vision of this "great, good place" that my heart always sinks at his sudden revelation, even though it comes as no surprise:
+
+But now is the time to reveal something which the discerning and disillusioned reader will probably have guessed already. There is no such place as the Moon Under Water.
+
+That is to say, there may well be a pub of that name, but I don't know of it, nor do I know any pub with just that combination of qualities...
+
+But, to be fair, I do know of a few pubs that almost come up to the Moon Under Water. I have mentioned above ten qualities that the perfect pub should have and I know one pub that has eight of them. Even there, however, there is no draught stout, and no china mugs.
+
+For the past two years Amy and I have enjoyed our own Moon Under Water--not in idealized form, but an actual place, a restaurant called the Moss Room. It opened in the basement of the newly revamped California Academy of Sciences in Golden Gate Park in 2008, but we only discovered it in 2010 after Amy went there for lunch with colleagues.
+
+A unique combination of factors made the Moss Room so special to us: It was within walking distance of our apartment in the Richmond, and even on a cold, rainy night walking up to Golden Gate Park is a lovely experience. The physical space was enchanting, starting with the after-hours entrance at the side of the museum that made the place feel like a speakeasy, a feeling that grew as you took the stairs below-ground. And the food was routinely outstanding--I can honestly say that I loved every single dish I ever had there, and we ate there a lot.
+
+But the primary reason we loved the Moss Room was the people--manager and sommelier Kristen Capella, bartender Robert Baker, servers Tuni and Ashley and host Katherine (whose last names we never learned), and "new" manager Rafael Jimenez Rivera, who took Kristen's place late last year after she was asked to help open AQ downtown. They were all spectacularly great at their jobs. Kristen was such a master of her wine list that after our first visit we never ordered a bottle again--we just asked her to pick for us, and she inevitably found the most fascinating wines that perfectly complemented our meal. Robert was, bar none (heh), the best bartender I've ever had the pleasure of patronizing, and his passion for the history and art of his craft informed every drink. Tuni, Ashley and Katherine made us feel truly appreciated and cared for. We usually sat at a table of Tuni's--#50, at the far right in the picture above--and she was always candid (and right) about the menu's strengths and weaknesses on a given night, and uncanny in her ability to both predict and remember our likes and dislikes. And all of them were simply engaging, interesting people who made a really good restaurant a great one.
+
+To be clear, Amy and I love eating out, and eating and drinking at the Moss Room was a very pleasurable experience. But we also discovered the Moss Room at a particularly important time in our lives. Amy's dad and a student of mine passed away in 2009, and we spent the next year in a state of grief and shock, compounded by a number of additional personal struggles. We were emerging from that period when Amy first visited the Moss Room, and it was an incredible gift to find this little community--one that also happened to serve amazing food and cocktails--just a short walk from our home. It was a respite, a place to let go of our cares and learn to relax and have fun again.
+
+You'll notice that I've been using the past tense--last month, just after Christmas, we learned that the Moss Room was going to close, immediately, and that New Year's Eve was going to be its final night of operation. From a business perspective, I wasn't entirely surprised--it's an offbeat, out-of-the-way location, and many nights it was well under capacity--but from a personal perspective I was stunned. I actually cried.
+
+But as much as I'll miss the Moss Room, I've made peace with its abrupt disappearance from my life because Amy and I seized an opportunity not only to have one last meal there but also to thank the people we knew. As Christmas approached, we felt so grateful for everything they had done for us that we decided to get them presents. Nothing big--just something to express our appreciation and let them know that they had made a small but meaningful difference in our lives. We stopped in to drop off the gifts and to have a quick cocktail--I don't remember why, but we weren't planning to stay, and almost left. But at the last minute we said, what the hell, we won't get a chance to come back until after New Year's, let's stay. So we did.
+
+It was an amazing meal, as expected. Robert's cocktails were perfect, and Tuni was incredibly indulgent and extra dishes turned up in between courses, and we just couldn't have been any happier. I'd be upset if we'd missed that last meal, that last chance to say goodbye to the Moss Room, even though we didn't know that was what we were doing at the time. But I'd be much more upset if we'd missed that chance to say "Thank you" to the people who made that experience--and so many like it--possible for us.
+
+I know we'll continue to see Kristin at AQ, and we'll surely see Robert at his next bar, and hopefully we'll cross paths with Tuni and Ashley and Katherine again. But we'll never have the Moss Room again--that little community will never be re-assembled. So the simple lesson I've learned is: Stay for dinner; there may not be another meal--and thank someone who deserves it; you may not get another chance to let them know how you feel.
+
+
+===== END ED BOT ESSAY 3689 =====

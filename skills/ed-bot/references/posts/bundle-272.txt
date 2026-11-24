@@ -1,0 +1,451 @@
+===== BEGIN ED BOT ESSAY 4199 =====
+---
+title: Drowning in Feedback
+url: https://edbatista.com/2023/09/drowning-in-feedback.html
+slug: drowning-in-feedback
+published: 2023-09-30T16:33:35
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+A wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it. In an information-rich world, most of the cost of information is the cost incurred by the recipient. It is not enough to know how much it costs to produce and transmit information; we must also know how much it costs, in terms of scarce attention, to receive it.
+
+~Herb Simon [1]
+
+A recent theme in my practice is a leader who feels overwhelmed by feedback purportedly intended to help them improve company and personal performance. Employee engagement surveys, executive 360s, performance reviews, NPS results...the list is long and growing, and the reports keep piling up. There's no shortage of feedback, and some leaders feel like they're drowning in it. What's happening here, and what can we do about it?
+
+First, we can characterize feedback and its value as a source of learning using a schema articulated by the late Wharton professor and systems thinker Russell Ackoff, who described the distinctions among data, information, knowledge, understanding, and, ultimately, wisdom [2]:
+
+Data are symbols that represent the properties of objects and events. Information consists of processed data, the processing directed at increasing its usefulness... Information is contained in descriptions, answers to questions that begin with such words as who, what, when, where, and how many. Knowledge is conveyed by instructions, answers to how-to questions. Understanding is conveyed by explanations, answers to why questions. [3]
+
+The feedback processes noted above generate plenty of data and information. You can undoubtedly review the various reports at your disposal and answer any number of questions "that begin with such words as who, what, when, where, and how many." But if you're like my clients, this is the point at which things get more difficult.
+
+You can surely glean some knowledge from these reports, extracting answers to some "how-to questions." And you may be able to obtain some understanding, uncovering explanations and formulating answers to a few "why questions." But these insights will be hidden from view, revealing themselves only after careful thought and reflection.
+
+Such efforts will require time and freedom from distraction, qualities that may be in scarce supply in your environment. And by the point at which you've arrived at any meaningful level of understanding, there will probably be several more rounds of reports waiting for your review. You're already behind.
+
+This dynamic reflects another aspect of "management information systems" that Ackoff observed: they reflect a series of mistaken assumptions that ensure "the continuing failure of most of these systems to satisfy the managers they are supposed to serve":
+
+The first is: management's most critical information need is for more relevant information. This is false: management's most critical information need is for less irrelevant information... Most managers suffer from information overload and, as the overload increases, the amount of information they use in making decisions actually decreases. Most managers could not read all the written and printed material they receive even if they spent all their working hours in reading. Moreover, more than half the data and information they receive are unsolicited. [4]
+
+I've observed this same pattern in some of my clients' working lives. The excessive amount of unsolicited feedback and the consequent inability to translate data and information into more useful knowledge and understanding is demoralizing. In some cases, leaders simply give up and stop trying to keep pace with the endless flow of reports. The more systems intended to yield improved performance, the less influence they actually have on leaders' behavior and decision-making.
+
+These challenges only compound further should you try to take the final step up the ladder, transforming whatever knowledge and understanding you've obtained into true wisdom. Ackoff considered this quality exceedingly rare, comprising perhaps a fraction of a percent of the contents of the human mind. [5] But wisdom is worth pursuing because of its unique ability to generate value:
+
+Information, knowledge, and understanding enable us to increase efficiency, not effectiveness. The efficiency of behavior or an act is measured relative to an objective... The value of the objective(s) pursued is not relevant in determining efficiency, but it is relevant in determining effectiveness. Effectiveness is evaluated efficiency. It is efficiency multiplied by value, efficiency for a valued outcome. Intelligence is the ability to increase efficiency; wisdom is the ability to increase effectiveness. [6]
+
+So even when it's possible to distill knowledge and understanding from the vast quantities of available data and information, the net result will be the ability to pursue existing objectives more efficiently. This is valuable under many circumstances, but if you're like my clients, you're operating under dynamic conditions that render it necessary to regularly reassess your objectives. At such moments it's insufficient to ask, How can we do this more efficiently? One must ask, Why are we doing this at all? and What might we do instead?
+
+If any of this resonates with you, what can you do about it? Here are some questions to ask and proposals to consider:
+
+What is our feedback culture?
+
+The proliferation of feedback systems and the generation of excess data and information that you're experiencing isn't happening in a vacuum, but in a specific organizational culture. In this context I refer to the definition provided by management professor Michael Watkins:
+
+Culture is consistent, observable patterns of behavior in organizations... Culture is a process of "sense-making" in organizations [which] moves the definition of culture beyond patterns of behavior into the realm of jointly-held beliefs and interpretations about "what is..." Culture is a carrier of meaning. Cultures provide not only a shared view of "what is" but also of "why is." In this view, culture is about "the story" in which people in the organization are embedded, and the values and rituals that reinforce that narrative. [7]
+
+So "drowning in feedback" is not only an "observable pattern of behavior," but also a manifestation of your organization's "narrative," the collective set of stories you and your colleagues tell yourselves about who you are, what you value, and why you do what you do. One story that's likely relevant here is the idea that "feedback is a gift," which I wholeheartedly reject--it's not a gift, it's data. [8]
+
+Another potentially relevant story is the assumption that people aren't being candid and can't be trusted to speak up, so you have to rely on anonymous surveys and other instruments to obtain "the truth." While your organization may or may not be an environment in which it's safe to speak up, the idea that anonymity will yield objective "truth" is another idea that I reject. Anonymous feedback is hardly free from bias. [9]
+
+There are no doubt other elements of your culture that are causing you to "drown in feedback," and no single initiative to solve the problem will succeed without addressing this broader context. To be clear, I'm not suggesting that you stifle efforts to provide feedback or stop seeking it out, but far too many organizations today have taken the concept of a "feedback-rich culture" to counter-productive extremes. [10]
+
+How am I part of the problem?
+
+You must also assess your own contributions to the generation of excess data and information in the form of surveys, 360s, reviews, and any other type of feedback that you request or initiate. The impulse underlying these processes is usually positive, springing from your desire to be helpful. But bear in mind Ackoff's warning: "Management's most critical information need is for less irrelevant information." You may be most helpful by providing less data and information, and by finding other ways to offer support, as I've written before:
+
+Providing information is a form of caring and an effort to demonstrate our worth as leaders. We care about the people we're working with, and we want them to know that. We we want to feel competent in our roles and to know that we're adding value. But the excess information that we're shoveling at people is a proxy for these qualities, not the thing itself. [11]
+
+And if you're a People Leader, such as a Chief People Officer or VP People Ops, you have a particularly important role to play. As I've noted before, "The People Leader must not only oversee the process of selecting and deploying [engagement surveys, performance assessments, and periodic review platforms], but to truly add value they need be able to help the CEO and other leaders interpret and act upon the resulting data." [12] Bear in mind that merely generating more data is not the solution, as noted by Herb Simon, the late computer scientist, economist and psychologist who comments open this essay:
+
+The proper aim of a management information system is not to bring the manager all the information [they need], but to reorganize the manager's environment of information so as to reduce the amount of time [they] must devote to receiving it. [13]
+
+How will I transform data into wisdom?
+
+No matter what role you occupy, your ability to influence the generation of excess data and information is limited. Most of my clients are CEOs, and even the most powerful at times find themselves at the mercy of the systems they ostensibly command. But you can still control your most precious resource--your attention.
+
+Only your focused attention will transform data and information into knowledge and understanding and then, with patience, wisdom. But this entails cultivating a number of habits, starting with the awareness that your attention is finite, and it must be directed toward your most important tasks. My work with clients often involves the development of an "information ecosystem" in which they're more mindful of the many demands on their attention, their own tendencies toward distraction, and the necessity of filtering out much of the data at their disposal. [14]
+
+Some of this work is as straightforward as managing your calendar to ensure that you have "longer blocks of uninterrupted time, free from distractions, to think creatively and to augment logical reasoning with intuition and inspiration." [15] This is simple to describe, and yet it will be difficult to put into practice, in part because the fact that your attention is a precious resource means that other people want more of it. But the hard work of protecting your attention in order to transform data into wisdom may be one of your greatest responsibilities as a leader.
+
+ 
+
+Footnotes
+
+[1] Designing Organizations for an Information-Rich World [PDF] (Herb Simon, pages 37-72 in Computers, Communications, and the Public Interest, Martin Greenberger, editor, 1971)
+
+[2] In common usage this schema is condensed by omitting understanding, and the result is described as the DIKW Pyramid. Ackoff is often cited as the originator of the schema in a 1988 speech and 1989 article (noted below), but that's not entirely accurate. In The Origin of Data Information Knowledge Wisdom (DIKW) Hierarchy, Google researcher Nikhil Sharma notes that economist Milan Zeleny articulated a similar schema in a 1987 article, Management support systems: Towards integrated knowledge management, and that engineer and author Mike Cooley did the same in his 1987 book Architect or Bee? The Human Price of Technology. Sharma also cites a 1982 article by diplomat and information theorist Harlan Cleveland, and although I can't locate the article itself, the illustration that accompanied it is reproduced at the top of Sharma's paper.
+
+I haven't explored these other sources any further, so I don't know whether their various schemas merely resemble one another, serving as variations on a theme, or whether Ackoff built directly on one or more of them. Apparently there are even more possible progenitors, including versions by geographer Yi-Fu Tuan and historian Daniel Bell, cited by Cleveland. However, as Sharma notes, they probably all owe a debt to these lines from T.S. Eliot's 1934 play "The Rock":
+
+All our knowledge brings us nearer to our ignorance,
+All our ignorance brings us nearer to death,
+But nearness to death no nearer to GOD.
+Where is the Life we have lost in living?
+Where is the wisdom we have lost in knowledge?
+Where is the knowledge we have lost in information?
+
+[3] From Data to Wisdom [PDF] (Russell Ackoff, Presidential Address to the International Society for General Systems Research, St. Louis, June 1988). An edited version of this speech was published the following year as a journal article, From Data to Wisdom (Russell Ackoff, Journal of Applied Systems Analysis, 1989), also available in Ackoff's Best: His Classic Writings on Management (1999). My citations here draw from both versions--this passage is from the 1989 article.
+
+[4] Ackoff, 1988.
+
+[5] Ibid.
+
+[6] Ackoff, 1989.
+
+[7] What Is Organizational Culture? (Michael Watkins, Harvard Business Review, 2013)
+
+[8] Feedback Is Not a Gift
+
+[9] The Problem with Anonymous Feedback
+
+[10] For more on a "feedback-rich culture":
+
+- Building a Feedback-Rich Culture
+
+- Building a Feedback-Rich Culture from the Middle
+
+[11] Stop Providing Too Much Information
+
+[12] Simon.
+
+[13] The Truly Strategic People Leader
+
+[14] A Better Information Diet
+
+[15] How to Think (More on Open Space and Deep Work)
+
+ 
+
+Photo by U.S. Army Corps of Engineers.
+
+
+===== END ED BOT ESSAY 4199 =====
+===== BEGIN ED BOT ESSAY 4200 =====
+---
+title: How to Have Better One-on-Ones
+url: https://edbatista.com/2023/09/how-to-have-better-one-on-ones.html
+slug: how-to-have-better-one-on-ones
+published: 2023-09-25T14:21:38
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+One-on-one meetings with employees are seemingly among a leader's most straightforward tasks. Two colleagues have yet another conversation about work--what could be simpler? But a theme in my practice is that a more deliberate approach to one-on-ones can turn them from perfunctory exchanges into much higher sources of leverage. [1] If you're a leader who'd like to hold better one-on-ones, here are some questions to ask yourself and a set of proposals to consider:
+
+If you're not holding formal one-on-ones, why not?
+
+Andy Grove, the late CEO of Intel, noted that managers from other companies viewed formal one-on-ones as unnecessary, telling him, "I don't need scheduled meetings with my supervisor [or subordinate]; I see [them] several times a day." [2] I sometimes work with early-stage CEOs who feel similarly and view formal one-on-ones as superfluous bureaucracy. But this approach has several problems.
+
+Even when you're communicating frequently with employees, it's likely that those interactions are highly tactical, with with little time devoted to more strategic issues, and no time at all to address the quality of your working relationship or anything of similar complexity. And, as Grove continued, "there is an enormous difference between a casual encounter by a supervisor and subordinate, or even a meeting to resolve a specific problem, and a one-on-one." [3]
+
+The absence of formal one-on-ones means that when you do schedule a meeting to address a bigger challenge, you signal to your employees that such events are for "tough conversations," rendering them more stressful and less likely to succeed. (And this may be equally true when an employee schedules a one-on-one with you.)
+
+Alternatively, holding formal one-on-ones on a regular basis normalizes the experience, allowing you and your employees to grow more comfortable addressing complex or difficult topics. Simultaneously, it highlights that this is a particular type of conversation and not just an ordinary meeting, motivating both you and your employees to be more thoughtful about how you prepare and participate.
+
+Who merits a one-on-one?
+
+Having formalized the process, it's important to assess how you're allocating the time you have available for one-on-ones, which is one of your organization's most precious resources. This isn't self-aggrandizing--it's simply a consequence of the fact that your attention is finite. [4] And a one-on-one meeting involves a major "investment" of attention from which you should expect a substantial "return," just as you would with any other limited resource. [5]
+
+In addition to meeting with their direct reports, some of my clients initiate or make themselves available for skip-level one-on-ones with more junior employees. This practice can provide you with a new perspective on the organization, but it comes with potential dilemmas. It doesn't scale, and can leave you spread too thin. It can also short-circuit normal managerial channels--although if you have concerns about one of your direct reports, this may be the point.
+
+I've had clients who levelled an employee and offered ongoing one-on-ones as a way to cushion the blow, but again, this doesn't scale and is generally a short-term fix. The key is recognizing that people want the leader's attention because it's a valuable resource, and beyond a certain point in your career it's unlikely that you'll be able to meet this demand entirely without compromising on other responsibilities.
+
+What's the appropriate cadence? How long should a one-on-one last?
+
+Here Grove offers some useful guidelines:
+
+How often should you have one-on-ones? Or put another way, how do you decide how often somebody needs such a meeting? The answer is in the job- or task-relevant maturity of each of your subordinates. In other words, how much experience does a given subordinate have with the specific task at hand? This is not the same as the experience they have in general...
+
+The subordinate should feel that there is enough time to broach and get into thorny issues... I feel that a one-on-one should last an hour at a minimum. Anything less, in my experience, tends to make the subordinate confine themselves to simple things that can be handled quickly. [6]
+
+Given that your employees' "job- or task-relevant maturity" likely varies, the cadence of regular one-on-ones need not be uniform, nor is there a single best practice. Most of my clients hold weekly one-on-ones with most of their direct reports, but meeting every other week is also common. A longer cadence with direct reports is less typical, but skip-level one-on-ones are often monthly or quarterly. Ultimately it's up to you and each employee to determine what works best.
+
+The key is predictability, so you should only ever cancel or reschedule a one-on-one as a last resort. If you do this repeatedly you send a very clear message that it's a low-priority event, and your employees will act accordingly. And if you have a direct report who's reluctant to hold one-on-ones or who cancels on you, this merits further investigation. It may be a sign of a deeper problem in the relationship [7], or it may simply be that the quality of your one-on-ones needs to be improved. Make clear your desire for one-on-ones to be valuable to them, solicit feedback on your current arrangements, and enlist them in joint problem-solving.
+
+What's on the agenda? How should we prepare?
+
+As with cadence, there's no universal template for agenda-setting or preparation, but there are some general principles to bear in mind. Grove stresses that the employee should feel a sense of ownership:
+
+A key point about a one-on-one: It should be regarded as the subordinate's meeting, with its agenda and tone set by [them]... So the [subordinate] should be asked to prepare an outline, which is very important because it forces them to think through in advance all of the issues and points [they] plan to raise. Moreover, with an outline, the supervisor knows at the outset what is to be covered and can therefore help to set the pace of the meeting according to the "meatiness" of the items on the agenda. An outline also provides a framework for supporting information, which the subordinate should prepare in advance. The subordinate should then walk the supervisor through all the material.
+
+What should be covered in a one-on-one?... The most important criterion governing matters to be talked about is that they be issues that preoccupy and nag the subordinate. These are often obscure and take time to surface, consider, and resolve. [8]
+
+Claire Hughes Johnson, the former COO of Stripe, expresses similar sentiments:
+
+I generally tell folks, especially more experienced people, that the 1:1 is their time. We set up a mutual doc that we can both edit, and we track action items and link out to goals and career conversation notes. Beyond that, I ask the individual to propose each 1:1 agenda, and I only edit the doc to add in agenda item suggestions when I have them. [9]
+
+When your employees own the agenda, not only is this much more efficient for you, it also ensures that the discussion will focus on issues that are most important to them. But having your employees set the agenda doesn't mean that you have no input, as Grove and Hughes Johnson make clear. You can also give feedback to an employee on the quality of their agenda if you conclude that the time isn't being well-spent. My clients who've asked their employees to take responsibility for agenda-setting typically find it a useful exercise in revealing who's well-prepared and who's not.
+
+A particular form that lack of preparation can take is the employee who treats the one-on-one primarily or even exclusively as a vehicle to report out. If you find yourself listening to extensive updates that should have been written reports or automated dashboards for you to review in advance, you can let them know that it's a missed opportunity to have a more meaningful dialogue.
+
+How should one-on-ones be conducted? What role should I play as leader?
+
+An employee who sets the agenda and provides you with sufficient time to digest any preparatory materials enables you to add value not by directing the conversation or even having answers to all their questions, but by posing questions yourself. While there are limits on the extent to which you can serve as an employee's "coach," you can readily employ coaching as a methodology. [10] This not only scales, it also allows you to add value in one-on-ones even with senior employees who possess specialized expertise that you lack. Grove recommended what he called "dialectic management":
+
+What is the role of the supervisor in a one-on-one? They should facilitate the subordinate's expression of what's going on and what's bothering them. The supervisor is there to learn and to coach... How is this done? By applying Grove's Principle of Dialectic Management, "Ask one more question!" When the supervisor thinks the subordinate has said all they want to say about a subject, [the supervisor] should ask another question. [11]
+
+And your questions should include inquiring about your employee's state of mind and well-being. Hughes Johnson notes that a one-on-one should always begin by "asking how someone is doing--checking in really matters." [12] Grove firmly agrees: "The supervisor should also encourage the discussion of heart-to-heart issues during one-on-ones, because this is the perfect forum for getting at subtle and deep work-related problems." [13]
+
+It's by attending to the logistical details above that you create an environment in which employees are willing to truly tell you how they're doing and be candid with you on "heart-to-heart" issues. Holding formal one-on-ones that are rarely cancelled or rescheduled and for which both of you are fully prepared goes a long way toward creating the psychological safety that's necessary for real openness. This doesn't mean that you should avoid contentious issues, as I've noted previously:
+
+Psychological safety entails candid and direct communication. It requires asking and answering hard questions. It does not mean "being nice." It does not mean avoiding difficult conversations or fraught topics to ensure that no one experiences distress. To the contrary, a setting in which people are reluctant to be candid and direct for fear of triggering any distress in others is psychologically unsafe. [14]
+
+I opened with the idea that better one-on-ones can be a great source of leverage for a leader, and I'll close with Grove's thoughts on the same subject:
+
+What is the leverage of a one-on-one? Let's say you have a one-on-one with your subordinate every two weeks, and it lasts one and a half hours. Ninety minutes of your time can enhance the quality of your subordinate's work for two weeks, or for some eighty-plus hours, and also upgrade your understanding of what [they're] doing. Clearly one-on-ones can exert enormous leverage. [15]
+
+ 
+
+Footnotes
+
+[1] 1x 10x 100x (On Leverage)
+
+[2] High Output Management, page 73 (Andy Grove, 1st edition, 1983)
+
+[3] Ibid.
+
+[4] Beyond Simple Multi-Tasking: Continuous Partial Attention (Linda Stone, 2009)
+
+[5] Growth, Profitability and Return on Attention
+
+[6] Grove, pages 73-74.
+
+[7] Better Working Relationships
+
+[8] Grove, page 75.
+
+[9] Scaling People: Tactics for Management and Company-Building, page 399 (Claire Hughes Johnson, 2023)
+
+[10] For more on coaching as a leadership tool (and its limitations), see the following:
+
+- Connect, Reflect, Direct...Then Ask (On Coaching)
+
+- How Great Coaches Ask, Listen and Empathize
+
+- Investment vs. Attachment
+
+[11] Grove, pages 75-76.
+
+[12] Hughes Johnson, page 399.
+
+[13] Grove, page 77.
+
+[14] Safety Is a Resource, Not a Destination
+
+[15] Grove, page 77-78.
+
+ 
+
+Photo by World Bank Photo Collective.
+
+
+===== END ED BOT ESSAY 4200 =====
+===== BEGIN ED BOT ESSAY 4201 =====
+---
+title: Defensiveness Is in the Eye of the Beholder
+url: https://edbatista.com/2023/09/defensiveness-is-in-the-eye-of-the-beholder.html
+slug: defensiveness-is-in-the-eye-of-the-beholder
+published: 2023-09-17T14:06:22
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+A theme in my practice is defensiveness, which I define as an unwillingness to accept responsibility for setbacks, characterized by a disproportionately hostile, anxious or evasive response to critical feedback. When it arises as a topic I'm usually working with a client who's figuring out how to deal with a defensive employee or colleague, but occasionally I have a client who's been accused of defensiveness and is wondering what to do in response.
+
+The key word in the definition above is "disproportionate." When someone is slightly hostile, anxious or evasive in response to critical feedback, we don't think of them as "defensive." Critical feedback is stressful under the best of circumstances. [1] So when someone responds with curiosity and calm we view that as a sign of maturity and professionalism, but a moderately negative response is normal and expected.
+
+And yet we also expect this negative response to be temperate and short-lived. It's only when the other person's hostility, anxiety or evasion seem excessively emotional or unduly persistent that we label them as "defensive." This is highly contextual, determined by the surrounding cultural norms, our relationship with the other person, and our individual standards. What qualifies as defensiveness is truly in the eye of the beholder. So what are the implications of all this, and what can we do about it?
+
+When You're Dealing with a Defensive Person
+
+Don't call them "defensive."
+
+Don't even use the word, as it will only make the situation worse. Bear in mind that they don't think of themselves as "defensive"--no one ever does--so being labeled as such will feel to them like an unjustified accusation and amplify the negative emotions they're already having difficulty managing. You may be perfectly justified in thinking of them as defensive, but keep it to yourself, at least for the moment.
+
+In the present moment, de-escalate.
+
+Defensiveness emerges in response to unexpected bad news, and you and your counterpart may be facing an immediate crisis. In this moment your task is to help them de-escalate their threat response and regain the ability to regulate their emotions. [2] Slow down--choose your words thoughtfully, make decisions judiciously, be mindful of how you might be contributing to their sense of threat. [3] In some circumstances, encouraging the other person to discuss what they're feeling can help them down-regulate those feelings. [4]
+
+As soon as possible, make it a learning opportunity.
+
+When the sense of urgency has abated--but before so much time has passed that the details have grown hazy--make use of this situation as a learning opportunity for the other person. At this point it may be useful to acknowledge that you perceived their response as defensive, but don't stop there. Offer behaviorally-specific feedback that allows the other person to gain a new perspective on their response and understand why you experienced it as counter-productive. [5]
+
+In the meantime, clarify your own lessons.
+
+There's undoubtedly ample learning here for you as well. Why did this bad news come as such a surprise to the other person? How did you share it with them? If you hired them, why did you fail to identify their defensiveness in the process? [6] How successful were you at de-escalating their defensiveness? Did you inadvertently make it worse, and if so, how? And if you're repeatedly encountering defensiveness over time, that merits a look in the mirror. Just because defensiveness is in the eye of the beholder doesn't mean it's always a fair or reasonable perception.
+
+When You've Been Accused of Defensiveness
+
+Don't make it worse by rejecting the label.
+
+You almost certainly don't feel defensive, nor is that how you would describe your behavior, and it's unfortunate that the other person has chosen to label you this way. But reflexively responding, "I'm NOT defensive!" will only be perceived as further evidence of your defensiveness. Remember that defensiveness is in the eye of the beholder, and the fact that you feel unfairly maligned has no bearing on the other person's belief in the validity of their perspective.
+
+If you haven't heard this very often, it's a learning opportunity.
+
+It's likely that the behaviors being perceived as "defensive" are the result of your surprise and disappointment at encountering an unexpected setback. If you've enjoyed sustained success in your career, this may be the first time that you've experienced a meaningful failure. And if you've rarely (or never) been called defensive before, you're learning that your responses to setbacks are perceived as problematic by this person at this moment. As challenging as it may seem, this presents you not only with an opportunity to transform setbacks into fruitful experiences [7], but also to accelerate your overall growth and development. [8]
+
+If you've heard this repeatedly, take it very seriously.
+
+Learning opportunities sometimes come at a cost, and being called defensive can be career-limiting if the label sticks. When I'm working with a client who's hiring to fill a role, I encourage them to test for defensiveness in the interview process because defensive people can have such a corrosive effect on company culture, and it's difficult if not impossible to get them to change. [9] If this person has perceived you as defensive multiple times, it's a signal to invest in your working relationship. [10] And if you've been called defensive at multiple points in your career, consider whether a failure to take responsibility is holding you back professionally. [11]
+
+No matter what, it's feedback, and feedback is data.
+
+Being called defensive is a form of feedback, and like much feedback, it can be stressful, confusing and unwelcome. As I've noted before, feedback isn't a "gift" that we should automatically express appreciation for, but it is potentially valuable data that merits investigation to assess its utility. [12] You're not obligated to agree with this feedback, nor are you required to take any particular action in response, but consider the extent to which you trust this person's judgment and value their opinion of you. Should you conclude that they're trustworthy and acting in good faith, thank them for taking the risk to speak up, and ask them to tell you more. [13]
+
+Footnotes
+
+[1] For more on feedback and stress, see the following:
+
+- Make Getting Feedback Less Stressful
+
+- Why Some Feedback Hurts (and What to Do About It)
+
+[2] The Tyranny of Feelings
+
+[3] How Leaders Create Safety (and Danger)
+
+[4] Talking About Feelings
+
+[5] How to Deliver Critical Feedback
+
+[6] Surfacing Defensiveness (Three Questions for Candidates)
+
+[7] The Ruling Out of Possibilities (On Failure)
+
+[8] Learning How to Learn
+
+[9] Surfacing Defensiveness (Three Questions for Candidates)
+
+[10] Better Working Relationships
+
+[11] The Trium Group on Responsibility
+
+[12] Feedback Is Not a Gift
+
+[13] Risk Management (The Importance of Speaking Up)
+
+Photo by West Point.
+
+
+===== END ED BOT ESSAY 4201 =====
+===== BEGIN ED BOT ESSAY 4202 =====
+---
+title: Currencies (On Motivating Different People)
+url: https://edbatista.com/2023/09/currencies-on-motivating-different-people.html
+slug: currencies-on-motivating-different-people
+published: 2023-09-10T17:04:13
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader who's seeking to increase employee motivation. In this context it's important to bear in mind the work of Frederick Herzberg, a 20th century psychologist who had a profound influence on our understanding of motivation in organizational life. Herzberg offers a sharp critique of the conventional approaches to motivation, which he refers to as "kicks in the ass" or KITA. These aren't only negative, in the form of criticism or threats--they can also be positive, in the form of desirable rewards:
+
+Let us consider motivation. If I say to you, "Do this for me or the company, and in return I will give you a reward, an incentive, more status, a promotion, all the quid pro quos that exist in the industrial organization," am I motivating you? The overwhelming opinion I receive from management people is, "Yes, this is motivation." I have a year-old schnauzer. When it was a small puppy and I wanted it to move, I kicked it in the rear and it moved. Now that I have finished its obedience training, I hold up a dog biscuit when I want the schnauzer to move. In this instance, who is motivated--I or the dog? The dog wants the biscuit, but it is I who want it to move. Again, I am the one who is motivated, and the dog is the one who moves. In this instance all I did was apply KITA frontally; I exerted a pull instead of a push. When industry wishes to use such positive KITAs, it has available an incredible number and variety of dog biscuits (jelly beans for humans) to wave in front of employees to get them to jump. [1]
+
+Herzberg is exaggerating for comic effect here--I don't think he ever kicked his dog. [2] But his larger point holds: rewards like dog biscuits and jelly beans may result in movement, but that's not the same thing as motivation. This doesn't mean rewards are irrelevant as incentives, but a key in deploying them effectively is understanding that there are two different types of motivation, intrinsic (deriving from the work itself) and extrinsic (deriving from by-products of the work or aspects of the environment in which work occurs). As I've written before,
+
+Herzberg's research suggests that job satisfaction and dissatisfaction aren't endpoints on a single spectrum, but two distinct scales. Satisfaction is derived from sources of intrinsic motivation such as a sense of achievement, recognition, responsibility, and opportunities for growth. In contrast, sources of extrinsic motivation (also known as "hygiene factors") such as working conditions, compensation, status, and security generate dissatisfaction if they're perceived as inadequate. [3]
+
+But this understanding only gets a leader so far. Intrinsic motivators increase job satisfaction, and a sufficiency of extrinsic motivators prevent job dissatisfaction--but what does this look like in practice? If you're a leader seeking to increase employees' motivation, what can you do? Leadership experts Allan Cohen and David Bradford offer some suggestions. [4] In Influence Without Authority they articulate a set of principles and frameworks to support the development of stronger working relationships and more effective collaboration. [5] Although the title indicates that they're writing for people who lack directive control, I find their ideas highly relevant in my work with leaders. My clients are typically in senior positions, but their employees expect a high degree of latitude and autonomy, and leadership in these settings rarely involves "giving orders." [6]
+
+One of Cohen and Bradford's most useful concepts related to motivation is what they call currencies: "resources that can be exchanged [as] the basis for acquiring influence." The list below is adapted from Chapter 3 in Influence Without Authority, "Goods and Services: The Currencies of Exchange." I've followed Cohen and Bradford's general schema, while modifying some of their terminology.
+
+Inspiration-Related
+
+1. Vision: A compelling view of the company's future and a description of how someone could contribute to its accomplishment.
+
+2. Excellence: Opportunities to work at the highest standards of achievement.
+
+3. Values: Opportunities to pursue moral or ethical virtues through work.
+
+Task-Related
+
+4. Resources: Additional budget, personnel, technology, space, etc.
+
+5. Challenge: Opportunities to pursue difficult goals and develop enhanced skills and capabilities.
+
+6. Assistance: The ability to delegate unwanted duties or obtain support in facing difficulties.
+
+7. "Air Cover": Public or private help in influencing decision-makers and overcoming resistance.
+
+8. Speed: Confidence that requests and inquiries will be met with a rapid response.
+
+9. Information: Access to restricted or private organizational knowledge.
+
+Position-Related
+
+10. Recognition: Public or private acknowledgment of effort, accomplishments or abilities.
+
+11. Visibility: Opportunities to be known by and interact with senior figures.
+
+12. Reputation: A positive image that opens doors to additional opportunities.
+
+13. Status: Participation in select groups or events.
+
+14. Contacts: The ability to join or build a larger or more valuable network.
+
+Relationship-Related
+
+15. Inclusion: Feelings of closeness and emotional intimacy with specific individuals or groups.
+
+16. Understanding: Opportunities to voice concerns and feel heard.
+
+17. Kindness: Thoughtful and timely expressions of support during difficulties.
+
+Personal
+
+18. Gratitude: Expressions of appreciation in the form of thanks, deference, or a recognition of indebtedness.
+
+19. Ownership: An intrinsically fulfilling sense of control and responsibility.
+
+20. Affirmation: Reinforcement of a person's values, beliefs, sense of identity or self-worth.
+
+21. Comfort: The minimization of headaches, hassles, interruptions or embarrassment.
+
+If you're seeking to increase employee motivation, Cohen and Bradford's inventory offers a wide range of potential interventions--and here's where it's important to apply Herzberg's insights. Any number of the currencies above can be dispensed like "dog biscuits or jelly beans," but will the result be motivation or merely movement? When people move in response to a promised reward, that's a form of compliance, but motivation springs from a deeper level of commitment. And as I've written before,
+
+Compliant people remain so only as long as they aren't too dissatisfied, but the absence of punishment and the promise of rewards doesn't generate sustained motivation. Committed people are motivated, and the fulfillment they find in the pursuit of their aims makes them more likely to persist in the face of difficulties. [7]
+
+Herzberg indicates that the most significant intrinsic motivators are "[a sense of] achievement, recognition for achievement, the work itself, responsibility, and growth or advancement," while the most significant extrinsic motivators are "company policy and administration, supervision, interpersonal relationships, working conditions, salary, status, and security." [8] Some of Cohen and Bradford's currencies fall readily into one category or the other, but in many cases the distinction is unclear or may be highly contextual.
+
+None of this is to suggest that intrinsic motivators are somehow superior, but recall that Herzberg originally dubbed extrinsic motivators "hygiene factors" to express his finding that sufficiency prevented dissatisfaction, but a surplus didn't necessarily yield more satisfaction. This is where I see many leaders make a category error--they're surprised when increases in compensation or status don't result in sustained motivation, and yet that's common with extrinsic factors that are subject to the process of hedonic adaptation. [9]
+
+But all of this guidance needs to be assessed in light of the needs and preferences of the specific individuals you're seeking to motivate. Herzberg's work can be viewed as a map to help you navigate these issues, and yet, as with all findings from social psychology, "the map is not the territory." [10] Hopefully Cohen and Bradford's inventory expands the possibilities under your consideration, but what ultimately matters isn't whether a given currency is intrinsic or extrinsic in an abstract sense, but the value it holds for a particular employee.
+
+ 
+
+This is a companion piece to the following:
+
+- Compliance vs. Commitment (On Behavior Change)
+
+- Mind the Gap (On Leading Senior Executives)
+
+Footnotes
+
+[1] One More Time: How Do You Motivate Employees? (Frederick Herzberg, Harvard Business Review, originally published 1968, republished 2003)
+
+[2] I don't really know anything about how Herzberg felt about dogs. But he helped liberate Dachau as 22-year-old U.S. Army sergeant, an undoubtedly searing experience that influenced his interest in motivation, and I'd like to think that such a man would only be kind to animals.
+
+[3] Compliance vs. Commitment (On Behavior Change)
+
+[4] David Bradford has been an important mentor to me.
+
+[5] Influence Without Authority (Allan Cohen and David Bradford, 2nd edition, 2005)
+
+[6] Force Isn't Power
+
+[7] Compliance vs. Commitment (On Behavior Change)
+
+[8] Herzberg, 1968/2003
+
+[9] Stop Trying to Be "Good Enough" by "Getting Better"
+
+[10] The Map Is Not the Territory
+
+ 
+
+Photo by Philip Brewer.
+
+
+===== END ED BOT ESSAY 4202 =====

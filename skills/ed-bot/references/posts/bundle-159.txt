@@ -1,0 +1,204 @@
+===== BEGIN ED BOT ESSAY 3746 =====
+---
+title: Conversations with Ourselves
+url: https://edbatista.com/2012/06/conversations-with-ourselves-self-coaching-and-self-engagement.html
+slug: conversations-with-ourselves-self-coaching-and-self-engagement
+published: 2012-06-20T04:00:00
+updated: 2025-09-24T11:59:35
+source_body: wordpress-html
+---
+
+Self-coaching starts with self-engagement, which entails both a fundamental attitude toward ourselves and an ongoing process of engaging ourselves in conversation.
+
+The attitude involves:
+
+- Seeing ourselves as a work-in-progress and being open to learning and growth. [1]
+
+- Adopting a mindset about ourselves that supports these goals. [2,3]
+
+- And obtaining some critical distance in order to observe and reflect upon our experiences. [4]
+
+The process will take different forms for each of us and will evolve over time, but the essential features include:
+
+- A consistent commitment. Activities we participate in on a regular basis typically have greater impact than those we conduct intermittently. We're likely to get more value from walking a mile a day than from walking seven miles on Saturday, just as we're likely to benefit more from meditating for 10 minutes a day than from meditating for an hour on Sunday. This isn't to say that all such practices must occur daily, but it's important to find the rhythm that best suits each practice, and then take steps to turn that rhythm into a habitual pattern. [5]
+
+- An active dialogue. The key here is rendering our abstract thoughts more concrete via some form of writing. I don't prescribe any particular format, because it's important for each individual to decide what works best: a weekly review, a few words at the end of the day, sporadic essays, a private diary or a website like this. But there's ample research that supports the value of journal writing in any form. [6]
+
+This may sound like a lot of work and either narcissistic or isolating. As for the work, coaching certainly requires effort, and self-coaching is no different. But while self-coaching does involve the pursuit of intentional practices, as they become more integrated into our routines the level of deliberate effort required to sustain them diminishes. For better and for worse, we are creatures of habit. [7]
+
+As for concerns about narcissism and isolation, effective self-coaching requires us to be candid about our faults and shortcomings, to actively solicit feedback from others, and to be open to their influence. We have to navigate the perpetual tension between clear-eyed self-assessment and empathetic self-acceptance. And while self-coaching is a self-directed process, it's also profoundly social. It's not a solitary experience that occurs outside our relationships, but, rather, one in which we share aspects of our personal reflections and inner dialogue with others, who become members of our "coaching team, even if only for a single interaction. [8]
+
+Footnotes
+
+[1] Learning How to Learn
+
+[2] The Meaning of Mindset
+
+[3] Setbacks, Mindset, and the Fundamental Attribution Error
+
+[4] Perception, Understanding, and Self-Awareness
+
+[5] Building Blocks (A Tactical Approach to Change)
+
+[6] The Value of Journal Writing
+
+[7] Conscious Competence in Practice
+
+[8] Self-Coaching is SOCIAL
+
+Updated March 2021.
+
+Photo by Lian Xiaoxiao.
+
+
+===== END ED BOT ESSAY 3746 =====
+===== BEGIN ED BOT ESSAY 3747 =====
+---
+title: Building the Emotional Intelligence of Groups
+url: https://edbatista.com/2012/06/building-the-emotional-intelligence-of-groups.html
+slug: building-the-emotional-intelligence-of-groups
+published: 2012-06-19T01:04:30
+updated: 2025-09-24T11:59:35
+source_body: wordpress-html
+---
+
+Study after study has shown that teams are more creative and productive when they can achieve high levels of participation, cooperation, and collaboration among members. But interactive behaviors like these aren't easy to legislate. Our work shows that three basic conditions need to be present before such behaviors can occur: mutual trust among members, a sense of group identity (a feeling among members that they belong to a unique and worthwhile group), and a sense of group efficacy (the belief that the team can perform well and that group members are more effective working together than apart)... At the heart of these three conditions are emotions. Trust, a sense of identity, and a feeling of efficacy arise in environments where emotion is well handled, so groups stand to benefit by building their emotional intelligence. [1, emphasis mine]
+
+The passage above from Vanessa Urch Druskat and Steven Wolff's "Building the Emotional Intelligence of Groups
+
+I've written before about the critical importance of safety, trust and intimacy as foundations for a group's capacity to support learning and change, and Druskat and Wolff's work confirms this perspective. [2]
+
+Much of my work with leaders involves helping them establish mutual trust, group identity and group efficacy in various settings: among their executive teams, within functions, and across the organization as a whole. And in my experience as a coach I've found that groups that establish these conditions not only perform more effectively but also provide members with a greater sense of meaning and fulfillment, a critical advantage given that extrinsic rewards such as compensation or status tend to have diminishing impact over time.
+
+It's simply more intrinsically rewarding to participate in such a group--a critical factor whenever the extrinsic rewards of group participation are unclear. Finally, as a coach I deeply appreciate Druskat and Wolff's framing of emotion not as a "necessary evil" but as a fundamental component of any human system. Even through emotionally intelligent individuals and groups must work to regulate their emotions in order to express them most effectively--see below--that's not at all the same as suppressing those emotions.
+
+Science journalist Daniel Goleman popularized the term "emotional intelligence" the 1990s, and Druskat and Wolff draw on his work  it to define what it means for a group to be emotionally intelligent:
+
+A team with emotionally intelligent members does not necessarily make for an emotionally intelligent group... Creating an upward, self-reinforcing spiral of trust, group identity, and group efficacy requires...a team atmosphere in which the norms build emotional capacity (the ability to respond constructively in emotionally uncomfortable situations) and influence emotions in constructive ways...
+
+[In Emotional Intelligence] Goleman explains the chief characteristics of someone with high EI; he or she is aware of emotions and able to regulate them--and this awareness and regulation are directed both inward, to one’s self, and outward, to others. "Personal competence," in Goleman’s words, comes from being aware of and regulating one's own emotions. "Social competence" is awareness and regulation of others' emotions.
+
+A group, however, must attend to yet another level of awareness and regulation. It must be mindful of the emotions of its members, its own group emotions or moods, and the emotions of other groups and individuals outside its boundaries. [3]
+
+Druskat and Wolff identify an extensive set of norms that 1) create awareness of emotions and 2) help regulate emotions at the individual, group and cross-boundary levels. Laid out in a table on page 87 of the original HBR article, this list is a great resource. In addition to some basic truisms ("Take time away from group tasks to get to know one another.") it includes a number of more challenging concepts ("Assume that undesirable behavior takes place for a reason. Find out what that reason is. Ask questions and listen. Avoid negative attributions.")
+
+The critical question that Druskat and Wolff leave unaddressed, however, is how to motivate people to actually do any of this often difficult work when the costs will be paid by individuals now (not only in the form of time and effort, but also in feelings of self-consciousness or discomfort), while any potential benefits will be enjoyed by the group later. Asking people to read an HBR article and telling them that "study after study has shown that they'll be more creative and productive" probably isn't going to cut it.
+
+I don't mean to be flippant--it's a real dilemma that I face as an experiential educator and as a practitioner in industry. I try to leverage what I know about joyful learning to get a group pointed in a helpful direction, but ultimately the group's ability to develop the norms that support emotional intelligence is dependent on individual members' emotional investment in the group experience itself.
+
+This process may start with some social pressure or even outright coercion--for example, strongly urging or even mandating members' attendance at group events early in its life-cycle. If those initial group experiences create a sense of emotional investment, then it becomes much easier to encourage individual members to identify and establish norms that will support the group's collective emotional intelligence. But if those initial experiences fail to trigger an emotional investment, then appeals to enhanced productivity will likely fall on deaf ears, and increased levels of social pressure or coercion will create a backlash.
+
+I don't know what will happen to the group I describe above, but I do know that they've successfully begun the process of transforming from a collection of emotionally intelligent individuals to an emotionally intelligent group, and the feelings of trust, safety, intimacy, identify and efficacy that characterize such a group will serve as an essential foundation to help them achieve their goals.
+
+Appendix: Group EQ Workshop
+
+Pre-Reading
+
+- Safety, Trust, Intimacy
+
+- Safety, Risk, Learning and Growth,
+
+- Let's Get Weird (Unusual Events and Creativity)
+
+Exercise 1: Positive Attributions
+
+Have the group focus for several minutes on one member at at time, relying on individuals to volunteer rather than going in a circle. Use a timer to stay on track. During each round the other members express out loud any positive attributions that come to mind as they reflect on this person. Designate a note-taker, if there's no facilitator, who types up in real time the list of words and phrases shared for each person and then emails the entire list immediately to the full group. Allow a few minutes for the members to review this list, and then have an open discussion about the emotions evoked in the process of sharing, receiving, and reviewing these attributions.
+
+Exercise 2: Vulnerability Stories
+
+Have each member share a personal story with the group that brings up some form of vulnerability, ranging from embarrassment to shame. Each person has 4 minutes to relate their story--pick the time depending on the size of the group and use a timer to stay on track. Focus less on the events and more on the feelings being evoked. Then the group has 2 minutes to share any responses to the story.
+
+Exercise 3: Group Norms
+
+Have group members complete this Group Norms Worksheet. In an open space that's sufficiently large to accommodate the group, create a spectrum on the floor with 7 points that corresponds to the dimensions on the worksheet. (Curve the line so that the endpoints are visible to each other.) Then have members share their individual responses non-verbally by arraying themselves along the spectrum. Progress slowly from one dimension to the next, allowing sufficient time for members to observe where they're positioned relative to others in the group. It's generally best to run through the entire set of norms to generate data and then debrief afterwards. In a larger group, pre-assign partners so members can focus on another person, and begin the debriefing process in 1:1 conversations among these pairs before moving on to a full group discussion.
+
+The overall goal is to allow the group's members to have set of emotional experiences together, which typically triggers a sense of investment in the group, while also illustrating various skills necessary to both express and regulate emotions effectively.
+
+Revised May 2020.
+
+Footnotes
+
+[1] Building the Emotional Intelligence of Groups, page 83 (Vanessa Urch Druskat and Steven Wolff, Harvard Business Review, March 2001)
+
+[2] Safety, Trust, Intimacy
+
+[3] Druskat and Wolff, page 82
+
+For Further Reading
+
+Safety, Risk, Learning and Growth
+
+Let's Get Weird (Unusual Events and Creativity)
+
+
+===== END ED BOT ESSAY 3747 =====
+===== BEGIN ED BOT ESSAY 3748 =====
+---
+title: Living in the Tension (Self-Assessment and Self-Acceptance)
+url: https://edbatista.com/2012/06/living-in-the-tension-self-assessment-and-self-acceptance.html
+slug: living-in-the-tension-self-assessment-and-self-acceptance
+published: 2012-06-18T05:00:00
+updated: 2025-09-24T11:59:35
+source_body: wordpress-html
+---
+
+1) If we don't ask ourselves "How could I have done better?" we don't learn, and we don't grow.
+
+2) If, at some point, we don't STOP asking how we could have done better & simply accept our performance (& ourselves), we're trapped, paralyzed by our inability to let go and move forward.
+
+3) We have to live in the perpetual tension between (cold-eyed) self-assessment & (warm-hearted) self-acceptance.
+
+I met with a prospective coaching client a few weeks ago, a woman who was referred to me by a former client with whom I did some particularly meaningful work. Even though I firmly believe that coaching is a highly personalized service, clients need to trust their instincts when choosing a coach, and (without a doubt) I'm not the right coach for everyone, I wanted this meeting to go well because of my relationship with my former client. In a way, I didn't want to let him down.
+
+And the meeting with the prospective client went...fine. We had a thoughtful conversation about the issues that were leading her to consider coaching, and I appreciated her candor and her eagerness to actually have a coaching conversation rather than just talk about coaching.
+
+But ultimately it felt that we weren't quite clicking, and although we parted very amicably, I wasn't surprised not to hear back from her. Not surprised, but a little disappointed with myself. Looking back on our conversation, I could identify several key moments when my desire to "do well" actually led me astray--a classic example of bad coaching, driven by my attachment to a "successful" outcome.
+
+It's been useful to reflect back on that conversation and consider what I would do differently, and I've learned quite a lot as a result. But it's also been important to let go and move on. I'm still disappointed--I think I could have been a good coach to this person, although I have to defer to her judgment on the matter--but at this point further reflection would be unhealthy rumination.
+
+I'm not suggesting it's easy to draw that line--it's damn hard, especially for a perfectionist like me. But I arrived at the tweets that led to this post after realizing that I was ruminating--and expanding on those thoughts in this post has been a helpful way to balance my desire to learn from my failures with a sense of self-acceptance.
+
+For an overview of my self-coaching framework, see A Self-Coaching Guide for Leaders at All Levels.
+
+For all my posts on this topic, see my Self-Coaching category.
+
+Photo by West Point Public Affairs. Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3748 =====
+===== BEGIN ED BOT ESSAY 3749 =====
+---
+title: The Five Stages of Procrastination
+url: https://edbatista.com/2013/02/the-five-stages-of-procrastination.html
+slug: the-five-stages-of-procrastination
+published: 2013-02-16T14:14:24
+updated: 2025-09-24T11:59:33
+source_body: wordpress-html
+---
+
+Denial
+
+"I have plenty of time--I'll get it done this weekend!"
+
+Anger
+
+"Dammit, it's way too nice out to stay inside and work--I'm outta here!"
+
+Bargaining
+
+"I'll get started as soon as I clean the house. How can I write surrounded by all this clutter?"
+
+Depression
+
+"Why did I ever say yes to this project? I'm an idiot."
+
+Acceptance
+
+(Sighs, sits down and opens laptop.)
+
+ 
+
+Photo by Thomas Abbs.
+
+
+===== END ED BOT ESSAY 3749 =====

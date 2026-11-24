@@ -1,0 +1,108 @@
+===== BEGIN ED BOT ESSAY 3133 =====
+---
+title: The King is Dead
+url: https://edbatista.com/2005/02/the_king_is_dea.html
+slug: the_king_is_dea
+published: 2005-02-02T11:36:42
+updated: 2005-02-02T11:36:42
+source_body: wordpress-html
+---
+
+OK, he's not dead. But Andrew Sullivan is closing up shop. New features will be up each week, and he'll still post occasionally. And he claims he'll be back "full-steam" in 9 months, but he sounds tired:
+
+Much as I would like to do everything, I've been unable to give the blog my full attention and make any progress on a book (and I'm two years behind). It's not so much the time as the mindset. The ability to keep on top of almost everything on a daily and hourly basis just isn't compatible with the time and space to mull over some difficult issues in a leisurely and deliberate manner. Others might be able to do it. But I've tried and failed. Besides, this is my fifth year of daily blogging - I was doing this when Clinton was president and Osama bin Laden was largely unknown - and I've always thought it's a good idea to quit something after around five years or so. Before it becomes a chore. Before you become numb.
+
+It's a well-deserved break, and even if he never comes back full-time--my money's against it--Sullivan's done more to legitimize blogging than anyone else. AndrewSullivan.com isn't the biggest blog out there anymore--at about 430,000 visitors a week these days, he's running well behind Daily Kos (2.3 million weekly visitors), Instapundit (1.3 million), Little Green Footballs (750,000), PowerLine (670,000), Talking Points Memo (650,000), Eschaton (630,000), and even Wonkette (460,000). (And these are only the Blogads numbers for political blogs--I'm not even counting bigfoot bloggers like Mickey Kaus, Kevin Drum, or Jeff Jarvis, whose readerships have probably also surpassed Sullivan's as well.)
+
+But all of them owe a debt to Sullivan. And it's not just his advocacy of the medium--he's also blazed a path for people like myself who don't feel particularly well-represented by the reigning ideologies on the Right or the Left.
+
+Sullivan's a social liberal who takes courageous stands for personal freedom but refuses to mouth PC platitudes; he's a champion in the fight for liberty and against terrorism who never shrinks from holding the Bush Administration to account; he voted for Kerry but had no illusions about the man's gross shortcomings; and he's just a sassy, snarky writer with a keen bullshit detector, and we always need more of those.
+
+He'll be missed. (It better be a damn good book, Andrew.)
+
+
+===== END ED BOT ESSAY 3133 =====
+===== BEGIN ED BOT ESSAY 3134 =====
+---
+title: Twenty-Six BILLION Dollars!
+url: https://edbatista.com/2005/02/twentysix_billi.html
+slug: twentysix_billi
+published: 2005-02-01T21:33:54
+updated: 2005-02-01T21:33:54
+source_body: wordpress-html
+---
+
+That's my back-of-the-envelope estimate of the amount U.S. nonprofits spent on technology in 2004. It took some "heroic assumptions" to get there, as my old finance prof would say, so if you can pick apart some of the flaws in this analyis, go for it--but I think I'm in the ballpark.  Here's how I got there:
+
+1) 2004 U.S. GDP = $11.7 trillion (U.S. Dept. of Commerce)
+
+2) Nonprofit sector expenditures as a percentage of GDP (1995) = 7.5% (PDF) (Johns Hopkins Univ.)
+
+3) Assumption that the 7.5% figure has remained constant.  (The JHU study is the best data I found, but other accounts suggest this is reasonable and possibly conservative.)
+
+4) Extrapolated 2004 nonprofit sector expenditures = $11.7 trillion x 7.5% = $877.5 billion
+
+5) Technology spending as a percentage of GDP = Between 2% and 4%; let's say 3% (Rough guess based on U.S. Dept. of Commerce figures)
+
+6) Assumption that nonprofits' overall technology spending is consistent with the rest of the U.S. economy.  (This is the heroic leap.)
+
+7) Extrapolated 2004 nonprofit sector technology spending = $877.5 billion x 3% = $26 billion
+
+OK--so what?  Well, at the very least I think it's sufficient to justify the attention being paid to last year's IPOs by Blackbaud and Kintera, currently valued at $572 million and $224 million, respectively.  (Today, anyway--check back tomorrow.)
+
+
+===== END ED BOT ESSAY 3134 =====
+===== BEGIN ED BOT ESSAY 3135 =====
+---
+title: Adaptive Path
+url: https://edbatista.com/2005/02/adaptive_path.html
+slug: adaptive_path
+published: 2005-02-23T17:50:15
+updated: 2005-02-23T17:50:15
+source_body: wordpress-html
+---
+
+My post below on Jesse Garret's Ajax primer led me to take a closer look at Garret's company, Adaptive Path.  They're a user experience design shop, and they have some great resources on their site, ranging from paid reports on topics like "How Labels Affect Usability and Branding" ($20) and "How ROI Changes User Experience" to free articles on topics like "Making a Better CMS" and "Metadata for the Masses".  Very cool.
+
+
+===== END ED BOT ESSAY 3135 =====
+===== BEGIN ED BOT ESSAY 3136 =====
+---
+title: Ajax
+url: https://edbatista.com/2005/02/ajax.html
+slug: ajax
+published: 2005-02-23T17:22:00
+updated: 2005-02-23T17:22:00
+source_body: wordpress-html
+---
+
+No, not the Dutch soccer team.  Or the household cleanser.  Ajax is Asynchronous Javascript + XML, and Jesse Garret of Adaptive Path has a great primer on this new approach to web applications.  The bottom line is that Ajax is enabling slick, fast  applications like Google Maps (zoom in, zoom out, grab the image and shake it around--it's fun) and Google Suggest (start typing and watch the suggested search terms change before your eyes.)
+
+Real geeks will want to read the whole thing, but even non-geeks like me should find this summary of interest:
+
+Ajax isn’t a technology. It’s really several technologies, each flourishing in its own right, coming together in powerful new ways. Ajax incorporates:
+
+- standards-based presentation using XHTML and CSS;
+
+- dynamic display and interaction using the Document Object Model;
+
+- data interchange and manipulation using XML and XSLT;
+
+- asynchronous data retrieval using XMLHttpRequest;
+
+- and JavaScript binding everything together.
+
+The classic web application model works like this: Most user actions in the interface trigger an HTTP request back to a web server. The server does some processing — retrieving data, crunching numbers, talking to various legacy systems — and then returns an HTML page to the client...
+
+This approach makes a lot of technical sense, but it doesn’t make for a great user experience. While the server is doing its thing, what’s the user doing? That’s right, waiting. And at every step in a task, the user waits some more...
+
+An Ajax application eliminates the start-stop-start-stop nature of interaction on the Web by introducing an intermediary — an Ajax engine — between the user and the server. It seems like adding a layer to the application would make it less responsive, but the opposite is true.
+
+Instead of loading a webpage, at the start of the session, the browser loads an Ajax engine — written in JavaScript and usually tucked away in a hidden frame. This engine is responsible for both rendering the interface the user sees and communicating with the server on the user’s behalf. The Ajax engine allows the user’s interaction with the application to happen asynchronously — independent of communication with the server. So the user is never staring at a blank browser window and an hourglass icon, waiting around for the server to do something.
+
+Every user action that normally would generate an HTTP request takes the form of a JavaScript call to the Ajax engine instead. Any response to a user action that doesn’t require a trip back to the server — such as simple data validation, editing data in memory, and even some navigation — the engine handles on its own. If the engine needs something from the server in order to respond — if it’s submitting data for processing, loading additional interface code, or retrieving new data — the engine makes those requests asynchronously, usually using XML, without stalling a user’s interaction with the application.
+
+Do I understand all of this?  No--just enough to realize that it has significant potential to make web apps faster and better-looking.  Very cool.
+
+
+===== END ED BOT ESSAY 3136 =====

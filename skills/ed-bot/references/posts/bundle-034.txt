@@ -1,0 +1,64 @@
+===== BEGIN ED BOT ESSAY 3213 =====
+---
+title: Toothpaste for Dinner
+url: https://edbatista.com/2005/05/toothpaste_for_.html
+slug: toothpaste_for_
+published: 2005-05-13T22:51:35
+updated: 2005-05-13T22:51:35
+source_body: wordpress-html
+---
+
+Were truer words ever spoken?
+
+
+===== END ED BOT ESSAY 3213 =====
+===== BEGIN ED BOT ESSAY 3214 =====
+---
+title: Quick Hits
+url: https://edbatista.com/2005/05/quick_hits.html
+slug: quick_hits
+published: 2005-05-13T17:37:19
+updated: 2005-05-13T17:37:19
+source_body: wordpress-html
+---
+
+Some folks I've just started reading:
+
+- Bill Burham: Big bold ideas, from The Death of Compiled Applications to Is Open Source Becoming Over-Sourced?
+
+- The gang at Corante's Many 2 Many, particularly Ross Mayfield of Socialtext
+
+Good stuff to wrap your brain around.
+
+
+===== END ED BOT ESSAY 3214 =====
+===== BEGIN ED BOT ESSAY 3215 =====
+---
+title: Del.icio.us Documentation
+url: https://edbatista.com/2005/06/delicious_docum.html
+slug: delicious_docum
+published: 2005-06-15T14:27:37
+updated: 2005-06-15T14:27:37
+source_body: wordpress-html
+---
+
+Beth Kanter has written a fantastic little "cheatsheet" for del.icio.us.  (PDF)  Very helpful.  And her running dialogue on tagging and social bookmarking with Alexandra Samuels has been great reading.
+
+delicious tagging
+
+
+===== END ED BOT ESSAY 3215 =====
+===== BEGIN ED BOT ESSAY 3216 =====
+---
+title: Grant McCracken
+url: https://edbatista.com/2005/06/grant_mccracken-2.html
+slug: grant_mccracken-2
+published: 2005-06-15T00:49:06
+updated: 2005-06-15T00:49:06
+source_body: wordpress-html
+---
+
+Grant's moved his blog and his new book, Culture and Consumption II, will be out soon. (Apparently you can order it on Amazon, but it won't ship for several weeks, and yes, it's a sequel of sorts to the original Culture and Consumption.)
+
+
+===== END ED BOT ESSAY 3216 =====

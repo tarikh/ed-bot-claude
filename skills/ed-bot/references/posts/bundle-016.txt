@@ -1,0 +1,88 @@
+===== BEGIN ED BOT ESSAY 3141 =====
+---
+title: Email Man(n)
+url: https://edbatista.com/2005/02/email_mann.html
+slug: email_mann
+published: 2005-02-19T23:14:11
+updated: 2005-02-19T23:14:11
+source_body: wordpress-html
+---
+
+Merlin Mann has not one but two great posts on how to manage email more effectively.  Hat tip to Jeffrey Veen.
+
+
+===== END ED BOT ESSAY 3141 =====
+===== BEGIN ED BOT ESSAY 3142 =====
+---
+title: sIFR
+url: https://edbatista.com/2005/02/sifr.html
+slug: sifr
+published: 2005-02-19T22:38:23
+updated: 2005-02-19T22:38:23
+source_body: wordpress-html
+---
+
+I don't fully (read: at all) understand the underlying technology, but given my interest in good design, I can't help but feel that sIFR (Scalable Inman Flash Replacement) represents a big step forward for the online experience by offering an open source "standards-compliant way to deliver rich typographical text in a flexible manner to over 90% of web users."  (It was introduced in August 2004 and updated in December.)
+
+Geeks will want to read everything sIFR creator Mike Davidson has to say (there are lengthy comments threads as well.)  Ambitious non-geeks like me might find this synopsis of interest:
+
+The following explains the sIFR process:
+
+- A page is requested and loaded.
+
+- Javascript detects if Flash 6 or greater is installed.
+
+- If no Flash is detected, the page is drawn as normal.
+
+- If Flash is detected, the HTML element of the page is immediately given the class “hasFlash”. This effectively hides all text areas to be replaced but keeps their bounds intact. The text is hidden because of a style in the stylesheet which only applies to elements that are children of the html.hasFlash element.
+
+- The javascript traverses through the DOM and finds all elements to be replaced. Once found, the script measures the offsetWidth and offsetHeight of the element and replaces it with a Flash movie of the same dimensions.
+
+- The Flash movie, knowing its textual content, creates a dynamic text field and renders the text at a very large size (96pt).
+
+- The Flash movie reduces the point size of the text until it all fits within the overall size of the movie.
+
+The rest of you will simply be happy to know that the geeks are working hard to make the web look better.  Hat tip to Jeffrey Veen.
+
+
+===== END ED BOT ESSAY 3142 =====
+===== BEGIN ED BOT ESSAY 3143 =====
+---
+title: More Offline Blogging
+url: https://edbatista.com/2005/02/more_offline_bl.html
+slug: more_offline_bl
+published: 2005-02-19T22:03:19
+updated: 2005-02-19T22:03:19
+source_body: wordpress-html
+---
+
+In addition to ecto (which does come in a Windows version, TypePad's outdated advice notwithstanding), TypePad recommends Zempt and w.bloggar.  And I need something--I love TypePad, but the editing interface is not the best (and it's actually worse in Firefox, but I just can't see going back to IE.)
+
+
+===== END ED BOT ESSAY 3143 =====
+===== BEGIN ED BOT ESSAY 3144 =====
+---
+title: PopUps (The Good Kind)
+url: https://edbatista.com/2005/02/popups_the_good.html
+slug: popups_the_good
+published: 2005-02-19T18:29:18
+updated: 2005-02-19T18:29:18
+source_body: wordpress-html
+---
+
+I was under the impression that if you wanted to create a customized popup in TypePad (say, for an image of the San Francisco Giants' Mays Field), you had to be using an Advanced Template in order to have direct access to the CSS where you'd do some funky technical shit.
+
+Not so, dope.
+
+You can create a popup of any size and with a range of features (with or without scroll bars, for example), using simple code right in an ordinary post.  Here's the code for the popup above:
+
+<a onclick="window.open(this.href,'_blank', 'width=600,height=350,scrollbars=no,resizable=no,toolbar=no,directories=no,
+location=no,menubar=no,status=no,left=0,top=0'); return false" href="https://edbatista.com/vivabatista/images/2005/02/
+Mays%20Field%20Aerial%20View.jpg">Mays Field</a>
+
+(Note that there's a line break between the 'directories' and 'location' attributes to get the code to display properly here.  That break must be removed to make the code work in an actual page.)
+
+Now, just because I was able to get it to work, don't think for a minute that I really know what I'm doing.  I don't fully understand all the attributes, or what'll happen if you change 'no' to 'yes', but it doesn't really look all that tough to figure out, now, does it?
+
+
+===== END ED BOT ESSAY 3144 =====

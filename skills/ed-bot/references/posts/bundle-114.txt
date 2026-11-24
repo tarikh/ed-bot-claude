@@ -1,0 +1,301 @@
+===== BEGIN ED BOT ESSAY 3566 =====
+---
+title: Grant McCracken on the Elements of Reinvention
+url: https://edbatista.com/2008/03/grant-mccracken-2.html
+slug: grant-mccracken-2
+published: 2008-03-18T11:11:43
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+When we sit down to make change happen, when we seek to reinvent our organizations (and ourselves), what dynamics characterize that process?
+
+Grant McCracken has come up with a short list based on his recent work on a "reinvention exercise" with "a large American corporation."  I intend to refer back to this regularly in my own work, so I'm pulling out the key phrases that caught my attention, but you really should read the whole thing:
+
+1. Furiously Framing and Reframing
+
+...a really liquid kind of problem solving.  We are are framing and reframing and reframing yet again...until the wisdom of this little crowd becomes apparent.
+
+2. Tagging
+
+Vivid pictures and phrases get the job done...  Good ideas have no hope of surviving to maturity and adoption unless (or until) they are well tagged.
+
+3. Pattern Migration
+
+There are wonderful moments when someone will say, "look, here's something we know about this context.  I wonder if we could transfer this to another problem set."
+
+4. Scaling Up, Scaling Down
+
+At one moment, we were dealing with the biggest possible problem sets in the broadest possible ways.  The next, we have zeroed down to a very particular problem.
+
+5. Messier Models
+
+We saw people insisting on messier models in order to honor some of the messiness in the world in the model.  The bigger point to make here is that as the world gets messier, more multiple, more various and changeable, discourse about change is beginning to take on these structural properties.
+
+6. Acknowledging Fear
+
+For the first time, I saw people building models of process that acknowledge the emotional difficulties inherent in the change making process.  Everyone always feels the pain of entertaining new ideas and having to give up old verities, but this used to be a very private condition.  Now people are openly acknowledging it.
+
+7. New Language like "Chunking"
+
+When problem sets are really messy and heard to read, "chunking" is useful.  It's a way of saying let's call this [thing] a something. Because we are chunking we are not obliged to say or to know what it means.  We are just saying "there's something here we need to look at."
+
+8. Porousness
+
+People are now prepared to acknowledge that the corporation is no longer a free standing, discrete entity.  It is customary to hear people dealing with the fact that the corporation has loose boundaries.
+
+Grant's conclusion after coming up with this list?
+
+All of these new intellectual inclinations and practices suggest I think that the corporation is learning to live with dynamism by learning how to practice dynamism.
+
+Three of these dynamics jump out at me and seem closely intertwined: tagging, messier models, and acknowledging fear.  Grant's reference to the importance of tagging ideas reminds me of Howard Gardner's emphasis on "representational redescriptions" in the influence process:
+
+A change of mind becomes convincing to the extent that it lends itself to representation in a number of different forms, with these forms reinforcing each other...
+
+"Messy models" reminds me of Pema Chödrön's embrace of imperfection:
+
+[T]rying to tie up all the loose ends and get it together is death, because it involves rejecting a lot of your basic experience.  There is something aggressive about that approach to life, trying to flatten out all the rough spots and imperfections into a nice smooth ride... Death is wanting to hold on to what you have and to have every experience confirm you and congratulate you and make you feel completely together.
+
+And I'm particularly struck by Grant's inclusion of fear as a key factor to be addressed (or at least acknowledged) in any reinvention or change management process.  (He goes a step further and references any "emotional difficulty" in the text, but I agree that "fear" made for a better headline.)  Our inability to sense, legitimize and express our emotions in the workplace creates a huge gap between our collective and our individual experiences. For example, I'm scared or angered by your proposal, but I can't effectively communicate those feelings at work, so you never truly understand my position--and we're left wondering why we make so little progress!
+
+A link I see among these three dynamics is an acceptance of the fact that our brains work in ways that are often described as "irrational" (or at the very least run counter to many notions of rationality):
+
+Ideas stick when they're made vivid and colorful--and even the best ideas will die if not made sticky.
+
+The world is messy and complicated--and models that incorporate the mess are actually more useful to us than reductive, straightforward ones.
+
+And we're scared and angry--a lot!--and pretending those feelings aren't there doesn't make them go away.
+
+Much of my work as a coach and group facilitator involves helping people better understand and express feelings that typically get ignored in a professional setting, and Grant's observations suggest to me that this is precisely what we need to do more of when we're involved in any change-making process.
+
+Logrolling: I encourage you to pre-order Grant's new book, which is due out in May, but be warned that I consider him a friend and an inspiration.
+
+Photo by Pop!Tech 2004. © All rights reserved.
+
+
+===== END ED BOT ESSAY 3566 =====
+===== BEGIN ED BOT ESSAY 3567 =====
+---
+title: William James on Experiential Learning
+url: https://edbatista.com/2008/03/william-james.html
+slug: william-james
+published: 2008-03-05T21:53:38
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+A few months ago I read Robert Richardson's William James: In the Maelstrom of American Modernism, and I'm still absorbing the lessons to be learned from this incredibly rich intellectual biography. In the book's penultimate chapter, Richardson quotes from James's Some Problems of Philosophy:
+
+The intellectual life of man consists almost wholly in his substituting a conceptual order for the perceptual order in which his experience originally comes.
+
+The profound meaning of this quote for me is rooted in the fact that my work hinges upon the unique ability of experiential learning to expand both our self-awareness and our behavioral repertoire, and (by extension) upon the inability of conventional modes of instruction to achieve the same results.  Richardson continues:
+
+For this aspect of his later thinking, James has been called anti-intellectual. A better description of his real position would be anti-abstraction; best would be to recognize it as the culmination of a lifelong protest on behalf of experience. This is not a new position for James, of course. It is the same clear opposition to Plato, who denigrates perceptual knowledge as mere sense impressions, and contrasts them with ideas, which are true and eternal. Jame's life work had been to reverse this polarity, to answer Plato.
+
+From Wikipedia (as of today, anyway):
+
+Plato...argues...that knowledge is always proportionate to the realm from which it is gained. In other words, if one derives their account of something experientially, because the world of sense is in flux, the views therein attained will be mere opinions. And opinions are characterized by a lack of necessity and stability. On the other hand, if one derives their account of something by way of the non-sensible forms, because these forms are unchanging, so too is the account derived from them.
+
+I appreciate Plato's appeal to the instructor: If real knowledge is based on constant universal truths and unaffected by individual sense-impressions, the process of imparting knowledge suddenly become much more efficient. As an instructor, all I have to do is tell you what you need to know. And I can tell everyone the exact same thing.
+
+But that model is much less useful in a field where there are few (if any) universal truths, which is the case in my areas of expertise: executive coaching, leadership development and group facilitation. I can't tell anyone anything and have confidence that real learning will occur. I can disclose my own sense-impressions, but the choice to view them as relevant and meaningful remains in the hands of the learner. Ultimately all I can do as an instructor is act on hunches, ask questions, and make observations, and hope they register with the learner as lasting sense-impressions and that the learner infuses them with meaning. And that meaning must be created out of their own, personal experiences as a leader or in a group.
+
+I don't want to overstate the case against Platonic ideals; after all, I propose pseudo-universal truths all the time with the intention of using them as teaching tools. But I realize that the map is not the territory, and the purpose of these tools is simply to help us better understand and make meaning of our own sense-impressions, our own experiences.
+
+
+===== END ED BOT ESSAY 3567 =====
+===== BEGIN ED BOT ESSAY 3568 =====
+---
+title: Howard Gardner on Influence
+url: https://edbatista.com/2008/03/gardner.html
+slug: gardner
+published: 2008-03-04T10:02:21
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+As I continue to think further about influence and power, Howard Gardner's Changing Minds offers an extremely helpful conceptual framework, one that I see as a counterpart to Robert Cialdini's "Weapons of Influence" (discussed at length in Cialdini's Influence: The Psychology of Persuasion.) From Gardner's 2006 edition:
+
+[W]hat...factors might cause an individual to shift his or her perspective[?]... I have identified seven factors--sometimes I'll call them levers--that could be at work in these and all cases of a change of mind...
+
+Reason
+
+A rational approach involves identifying of relevant factors, weighing each in turn, and making an overall assessment. Reason can involve sheer logic, the use of analogies, or the creation of taxonomies.
+
+Research
+
+Complementing the use of argument is the collection of relevant data... But research need not be formal; it need only entail the identification of relevant cases and a judgment about whether they warrant a change of mind.
+
+Resonance
+
+Reason and research appeal to the cognitive aspects of the human mind; resonance denotes the affective component. A view, idea or perspective resonates to the extent that it feels right to an individual, seems to fit the current situation, and convinces the person that further considerations are superfluous.
+
+Representational Redescriptions (Redescriptions, for Short)
+
+A change of mind becomes convincing to the extent that it lends itself to representation in a number of different forms, with these forms reinforcing each other... Particularly when it comes to matters of instruction...the potential for expressing the desired lesson in many compatible formats is crucial.
+
+Resources and Rewards
+
+[T]he provision of resources is an instance of positive reinforcement... Individuals are being rewarded for one course of behavior and thought rather than another. Ultimately, however, unless the new course of thought is concordant with other criteria...it is unlikely to last beyond the provision of resources.
+
+Real World Events
+
+Sometimes an event occurs in the broader society that affects many individuals, not just those who are contemplating a mind change. Examples are wars, hurricanes, terrorist attaches, economic depressions--or, on a more positive side, eras of peace and prosperity...
+
+Resistances
+
+[W]e develop strong view and perspectives that are resistant to change... [A] mind change is most likely to come about when the first six factors operate in consort and the resistances are relatively weak.
+
+Taken together, Gardner's "seven levers" and Cialdini's "six weapons" form a reasonably comprehensive conceptual model of influence--the central "layer" in my Influence Pyramid. If these models are our starting point for understanding not just how influence works but also how we as individuals can be more influential, we can then move "down" the pyramid to consider 1) our self-awareness and our impact on others and 2) our internal beliefs about power, or "up" the pyramid to 3) translate these strategic concepts into tactical tools and 4) test them empirically.
+
+Note that by focusing on Cialdini and Gardner, I don't mean to imply that their conceptual models are the only ones worth studying, but they're the most compelling ones I've encountered to date. (And to Gardner's comments on redescriptions above, they also both translate well into different formats--in that regard, they're even more...influential.)
+
+
+===== END ED BOT ESSAY 3568 =====
+===== BEGIN ED BOT ESSAY 3569 =====
+---
+title: Harvard Business Review on Executive Coaching
+url: https://edbatista.com/2009/02/hbr.html
+slug: hbr
+published: 2009-02-16T23:01:48
+updated: 2025-11-04T19:52:17
+source_body: wordpress-html
+---
+
+Harvard Business Review's Diane Coutu and Carol Kauffman surveyed 140 executive coaches (including Rebecca Zucker, who gave me some great advice when I made my own transition into coaching), and they've generated a set of resources from the data that both coaches and clients will find useful:
+
+- A  32-page report on the current state of executive coaching.
+
+- An overview article at HBR.org (which is included in the report noted above.)
+
+- And a short summary on Coutu's HBR blog. (The HBR.org article and the blog post both include links to podcasts by Coutu and Kauffmann.)
+
+A few highlights from the full report that jumped out at me [with headings added in block quotes for clarity]:
+
+The Future [of Executive Coaching]
+
+Coaching exists to help executives find solutions, yet the field of coaching must solve a few problems itself. Most of [the coaches surveyed] told us that coaching as a process is highly effective but that the field feels as if it is in "adolescence." Many of [the coaches surveyed] were concerned that a lack of entry barriers leaves the profession vulnerable to being discredited by charlatans. Many also felt that action was needed to winnow out bad or ineffective coaches. Some of [the coaches surveyed] suggested that an emphasis on more rigor in practice and more research on effectiveness is needed...
+
+I couldn't agree more.
+
+[Assistance Provided to Coachees]
+
+[M]ost of the time, coaches are facilitating transitions either into a firm or upwards within the same organization, or developing capabilities of high-potentials, or are working to enhance interactions of a team. A full 87% reported that they address derailing behaviors, and 81% act as a sounding board on strategic matters...
+
+Coaches reported that 48% of the time they are hired to develop high potentials or to facilitate transitions; 26% to act as a sounding board; and 12% to address a derailing behavior. Only about 3% of coaches said they were hired to address issues in a coachee's non-work life. These results suggest that the field is shifting its focus from remedial work with problem individuals who exhibit unacceptable behaviors to the facilitation of higher performance with top-functioning executives.
+
+This shift in the field at large is also reflected in my role as a Leadership Coach at Stanford's Graduate School of Business, where I work with students individually and in small groups to help them further develop their leadership and interpersonal skills.  By definition, every one of the students I work with is likely to be regarded by future employers as "high potential," and although in a few instances we identify and address possible derailing behaviors, in the vast majority of cases I'm helping students "facilitate [even] higher performance."
+
+[Duration of Coaching Engagements]
+
+Respondents reported a great range in the typical duration of their coaching engagements, from as little as one month to more than three years. By far the most popular timeframe, selected by 45%, was the 7- to 12‑month range.
+
+[Percent of Coaches Rating the Following Tools "Extremely Important"]
+
+Coaching Tool
+Coaches Rating
+
+"Extremely Important"
+
+Interviewing
+86%
+
+360-degree feedback collection
+77%
+
+Shadowing
+46%
+
+Peer support groups
+46%
+
+Cultural assessment
+42%
+
+Psychometrics
+39%
+
+Communications evaluation (such as videotaping)
+25%
+
+Intelligence tests
+3%
+
+I'm intrigued by a few points in the table above.  For example, who are the 14% of coaches who don't think interviewing is extremely important?  And what, exactly, is a "cultural assessment"?  That said, I see my practice accurately reflected here, with an emphasis on direct interviews and 360-degree feedback.  I don't shadow clients, nor I do require participation in peer support groups (although I encourage clients to make use of them when they can.)  I find certain psychometric tools valuable as a starting point for discussion, but I've seen them mis-used as often as I've seen them used effectively.  And although I believe video-recording can be helpful when working on public speaking and other tactical communication skills, I don't find it as useful when working on in-depth personal development.  Finally, I value IQ as much as I do EQ, but my assumption is that every client is smart enough to do their job well.
+
+[What Makes Someone Coachable?]
+
+Change readiness and being actively engaged in the process were the most frequently cited factors that contribute to making a person coachable...[cited by 32% and 28%, respectively, of the coaches surveyed.]  Many coaches felt that the rest of the qualities emerged from the coaching process; they were not prerequisites for coaching.  [These other qualities included clear goals, emotional intelligence, courage, sense of psychological safety, humility, ambition, commitment to the organization, and communication skills.  None were cited by more than 10% of the coaches surveyed as a factor in making someone coachable.]
+
+Again, I agree--a client who's ready to change and is fully engaged in the coaching process is likely to succeed, no matter what other qualities they lack.  And no amount of EQ, courage or ambition will compensate for an unwillingness to change or a sense of disengagement with the coaching process.
+
+How much importance should buyers of coaching services attach to each of the following in their selections of coaches?
+
+Criteria
+Coaches Rating "Important"
+
+or "Extremely Important"
+
+Experience coaching in similar setting
+65%
+
+Clear methodology
+61%
+
+Quality of client list
+50%
+
+Experience as a coachee
+36%
+
+Background in organizational development
+35%
+
+Ability to measure return on investment
+32%
+
+Certification in a proven coaching method
+29%
+
+Experience working in a similar setting
+27%
+
+Status as a thought leader in the field
+25%
+
+Experience as a psychological therapist
+13%
+
+Background in executive search
+2%
+
+I find the data in this table fascinating.  I'd love to talk further with the coaches who apparently believe they can accurately measure their clients' return on investment in a coaching engagement, particularly given that the latest research that I'm familiar with on the topic cites the absence of meaningful ROI metrics as a key problem facing the profession.  I'm skeptical of anyone who claims to have this data at their disposal.
+
+I'm also surprised to see that 27% of the coaches surveyed believe that similar work experience is so important.  I believe that a fundamental tenet of coaching is that an over-reliance on the coach's own work experience transforms the relationship from a coaching engagement into a consulting engagement or a form of mentorship.  As a coach, I don't believe that I have the answers for a client--instead, I have the ability to ask the right questions that will allow each client to find the answers that are right for them, and that skill has grown not out of my prior work experience but in my ongoing work as a coach.
+
+Finally, I'm struck by Coutu and Kauffman's thoughtful comparison of coaching to consulting (on the one hand) and therapy (on the other), which is of particular interest given my recent reflections on Gestalt therapy concepts that I see at work in the coaching process. Here's an excerpt from a table in the HBR.org article:
+
+Coaching
+Coaching & Therapy
+Therapy
+
+Focuses on the future
+Paid to ask the right questions
+Focuses on the past
+
+Fosters individual performance in a business context
+Tackles difficult issues at work and home
+Diagnoses and treats dysfunctionality
+
+Helps executives discover their own path
+Focuses on individual behavioral change
+Based on medical ethics
+
+As I noted in my post, "there's a clear parallel between [coaching and therapy]," but "good coaches are aware of the distinction." I think Coutu and Kauffman's work highlights this distinction while reinforcing my point that "there's [not] always a bright line distinguishing the two [disciplines]."
+
+Many thanks to Diane Coutu, Carol Kauffman, and the 140 coaches they surveyed for these resources.
+
+Illustration by Joshua Gorchov © Harvard Business Review.
+
+
+===== END ED BOT ESSAY 3569 =====

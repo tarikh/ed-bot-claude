@@ -1,0 +1,198 @@
+===== BEGIN ED BOT ESSAY 3814 =====
+---
+title: The Communication Funnel
+url: https://edbatista.com/2014/09/the-communication-funnel.html
+slug: the-communication-funnel
+published: 2014-09-08T10:47:01
+updated: 2025-10-12T16:04:20
+source_body: wordpress-html
+---
+
+The communication funnel is a concept I regularly discuss with coaching clients, most of whom are senior leaders in constant contact with their direct reports and/or managing virtual teams.
+
+We prioritize immediacy and convenience in our communication, so we start with the fastest and easiest channels at our disposal--text, chat or email. But these channels lack bandwidth, so they're poorly-suited to conveying nuance and complexity.
+
+The obvious solution when a dialogue stalls at one level is to step up to a higher level. Stop texting and send an email. Stop emailing and talk by phone or video. Get off the phone and wait to talk until we're face-to-face.
+
+On occasion this isn't feasible--there's truly an urgent need to complete the dialogue now. But much more often this perceived need is an illusion. Our ability to assess the situation clearly is clouded by anxiety, fear and excitement--emotions that are compounded by organizational cultures that lead us to expect immediate responses. We become emotionally triggered and lose perspective.
+
+(And, of course, this illusory desire for immediacy is driven by trillion-dollar industries that stoke, fulfill and profit from our need for speed.)
+
+The key is managing those emotions that keep us stuck in a stalled, unproductive dialogue. How can we do this? Four suggestions:
+
+1. Turn off unnecessary alarms.
+
+The functions on our phones and other devices that beep, blink and thrust red numbers in our faces are designed to capture our attention and create a sense of urgency. They play a critical role in keeping us stuck. But how often are any of these interruptions truly urgent? Almost never. Turn them off to avoid being unnecessarily triggered and to minimize anxiety, fear and excitement.
+
+2. Reframe the situation.
+
+Concepts such as David Rock's SCARF model and Chris Argyris' Ladder of Inference can help us step back and view our immediate experience from a new perspective. This process of reframing is a well-established psychological technique derived from cognitive behavioral therapy, but it's important to apply it early in a potentially stressful situation, before we're triggered and reactive.
+
+3. Acknowledge our emotions.
+
+Emotions play a critical role in decision-making and rational thought, and they can also easily lead us astray in stressful situations. Acknowledging what we're feeling in the moment can help us manage our emotions by regulating their appropriate expression, rather than trying to suppress them, which almost always fails. This starts with expanding our emotional vocabulary, but it also involves developing working relationships and organizational cultures within which we can express what we're feeling.
+
+4. Build our capacity for mindfulness.
+
+Over time we can increase our ability to manage our emotions and focus our attention in a productive direction, and the key is our capacity for mindfulness--non-judgmental awareness and acceptance of our immediate experience. Meditating for just a few minutes a day has been shown to have a powerful impact, and other reflective practices such as journaling and time in nature can play a role as well. Further, regular physical exercise and good sleep hygiene allow us to be more attuned to our emotions and comprehend them more fully without being governed by them.
+
+Photo by Je.T.
+
+
+===== END ED BOT ESSAY 3814 =====
+===== BEGIN ED BOT ESSAY 3815 =====
+---
+title: Should You Get an MBA?
+url: https://edbatista.com/2014/09/new-post-at-hbr-should-you-get-an-mba.html
+slug: new-post-at-hbr-should-you-get-an-mba
+published: 2014-09-04T09:29:25
+updated: 2025-09-24T11:59:30
+source_body: wordpress-html
+---
+
+At least once a month an ambitious and hard-working person in their 20s asks me, "Should I get an MBA?" I earned my MBA from Stanford’s Graduate School of Business in 2000, and since 2007 I’ve been a coach, instructor and lecturer at the GSB, helping hundreds of students develop their leadership and interpersonal skills. Here’s how I respond to those inquiries. First, it’s critical to determine whether your expectations for an MBA are aligned with what the degree will likely do for you. MBA programs offer three different types of benefits, all of which vary tremendously from one school to another.
+
+1. Practical leadership and management skills. Management education has changed significantly over the last few decades. Previously it focused on quantitative analysis in areas such as finance and operations, with little emphasis on other aspects of organizational life. As a result MBAs were often seen as bean-counters myopically focused on data and out of touch with the challenges managers face in the real world.
+
+MBA programs responded by expanding their offerings in areas such as strategy, organizational behavior and leadership. B-school curricula are still intensely quantitative, but as Stanford Dean Garth Saloner told McKinsey, "The [quantitative] skills of finance and supply chain management and accounting and so on, I think those have become more standardized in management education, have become kind of what you think of as a hygiene factor: Everybody ought to know this."
+
+Business schools have realized that it’s not sufficient to provide quantitative and analytical training, because within a few years of leaving school (or even immediately upon graduation) their alumni will add value more through their ability to lead and manage others than through their talents as individual contributors. And effectiveness in these more senior roles requires an entirely different interpersonal skill set. Saloner goes on to note that, “the softer skill sets, the real leadership, the ability to work with others and through others, to execute, that is still in very scarce supply.”
+
+But the ability to provide quality training in these areas is unevenly distributed across MBA programs. The best schools have made leadership and interpersonal skills a high priority—Stanford now offers twelve sections of Interpersonal Dynamics to more than 400 students each year, making this labor-intensive course our most popular elective. Second-tier schools are making an effort to catch up, but high-caliber programs in these fields are difficult to establish . Harvard’s Bill George has said, "I don’t think you can teach leadership, I think you can learn about it" through experiential activities that bring students together to help them understand their strengths and limitations, provide feedback and promote self-awareness, and these activities require a very different approach from traditional lecture methods.
+
+I’m not suggesting that the quantitative and technical skills that an MBA provides aren’t useful—they absolutely are. But they’re also increasingly available through other venues that individuals can access on their own at a much lower cost. The special advantage of an MBA program is the opportunity to develop leadership and interpersonal skills with a group of peers in a sequence of experiential courses informed by current research. So ask yourself:
+
+- Do the MBA programs I’m considering provide practical leadership and management training?
+
+- How well-established are these courses? How much support do they have from the school? How much support do they have from the surrounding community?
+
+- What do alumni say about their experiences in these courses? How have they benefited from this training?
+
+- And what alternative means are available to me to develop these practical skills?
+
+2. A credential that sends a signal to the marketplace. No career paths absolutely require an MBA—it’s an optional degree and is nothing like a JD, an MD or the other credentials that professions such as law and medicine make mandatory. There are many senior people in general management roles, in consulting and even in financial services who don’t have an MBA—so don’t assume that the credential will necessarily serve a meaningful purpose in your chosen field.
+
+As a coach I have two different “markets”—my students at Stanford and my private clients, who are primarily senior leaders, and in both settings my degree sends a useful signal. New students feel more comfortable knowing that I’ve been in their shoes (albeit 15 years ago), and prospective clients trust that I understand the complexities of their world and the challenges they face.
+
+But it’s not a given that an MBA will have this effect. In my first job after business school I interacted with a very diverse range of communities, and while I never misled anyone about the fact that I had an MBA, I didn’t advertise it either. I knew that some people in my field had negative impressions of MBAs, and I needed a chance to prove myself as an individual before being stereotyped. My particular version of this experience may have been unusual, but by no means is it unique—there are many fields and organizations in which MBAs are viewed with skepticism and even disdain.
+
+In addition, the nature of the signal being sent depends on the specific MBA program’s reputation, and this is not simply a matter of prestige. Harvard, Stanford, and Wharton routinely top lists of U.S. business schools, but they also have a reputation for entitlement and arrogance. While some firms seek out graduates from elite schools, others avoid them out of a concern that they will be difficult to work with and disruptive to the established culture. So ask yourself:
+
+- What market am I in now? What markets might I seek to enter in the future?
+
+- Who’s interested in my services? How might this change if I had an MBA?
+
+- How are MBAs perceived in these markets? What signals does an MBA send in these markets? What stereotypes (both positive and negative) might I face as an MBA?
+
+- What is the specific reputation of the MBA programs I’m considering? How are these schools and their alumni viewed within my desired markets?
+
+- And what alternative means are available to me to send the signals I desire to communicate?
+
+3. Membership in a learning community and access to an alumni network. Business school emphasizes working in groups, and MBA students often learn as much from their peers as they do from faculty, so it’s important to consider who you’ll be working alongside for two years. Those same people will become your fellow alumni, and access to that network is one of the most valuable benefits an MBA program can offer.
+
+Of course, alumni networks aren’t created equal. Larger MBA programs yield larger networks. Certain networks are concentrated in specific geographic areas or in specific industries. And some B-school experiences create networks that are particularly active sources of mutual support.
+
+I’ve benefited tremendously from the support of my fellow GSB alumni during two major professional transitions. In my job search after graduation and later when I began exploring executive coaching as a career path, other Stanford alumni were extraordinarily generous with their time and insights, and there’s no way I could have succeeded without their help.
+
+All this said, there’s a misperception about the importance of socializing in business school as a means of cultivating these ties. To be sure, my students devote a substantial amount of time and energy to elaborate social activities, and I often find myself amused at the lengths to which they go to entertain themselves. However, while it’s true that I’m middle-aged and boring, and a quiet night at home is my idea of a good time, I was pretty boring even as a student, and I didn’t spend much time at parties or other social events.
+
+But I didn’t need to in order to benefit from the GSB network—the school’s relatively small size and communal culture help ensure that graduates feel a sense of obligation to help fellow alumni. And the fact that I can’t pay back the many people who helped me is motivation to “pay it forward” by doing as much as I can to support recent alumni seeking help from me. So ask yourself:
+
+- What do I know about the students at the MBA programs I’m considering? Are they like-minded peers? Do I see myself learning alongside them?
+
+- What do I know about the alumni networks of these programs? How active are they? Are they concentrated in geographic areas and professional fields of interest to me?
+
+- What support does a school provide to its alumni network and to individual alumni? Do alumni return frequently to participate in events and activities at the school?
+
+One final point on diversity: I have no doubt that my experience in business school was made substantially easier by the fact that I’m a straight, white, American man with an Ivy League undergraduate degree. Even as MBA programs have sought to attract more diverse student populations in recent years, B-schools are still disproportionately filled with people like me. And even at Stanford, which prides itself on its inclusiveness, I know that women, gays and lesbians, people of color, students from outside the U.S., and non-native English speakers can feel isolated in business school and find the MBA experience more difficult and stressful. I hope to encourage people from a wide range of backgrounds to consider business school as an option, and it feels important to acknowledge this current state of affairs if anything is to change.
+
+ 
+
+Originally published at Harvard Business Review. Photo courtesy of HBR.
+
+
+===== END ED BOT ESSAY 3815 =====
+===== BEGIN ED BOT ESSAY 3816 =====
+---
+title: Ignoring Bandits and Building Resilience
+url: https://edbatista.com/2014/08/ignoring-bandits-and-building-resilience.html
+slug: ignoring-bandits-and-building-resilience
+published: 2014-08-26T06:00:00
+updated: 2025-09-24T11:59:30
+source_body: wordpress-html
+---
+
+In Bouncing Back, a profoundly thought-provoking book that draws upon concepts from philosophy, psychology and neuroscience to promote resilience and well being, therapist Linda Graham relates the following story from Buddhist tradition:
+
+A master monk is meditating in a temple with other monks. Suddenly a fierce bandit storms into the temple, threatening to kill everybody. The other monks flee, but the master monk remains, calmly meditating. Enraged, the bandit shouts, "Don't you understand? I could run you through with my sword and not bat an eye!" The monk calmly replies, "Don't you understand? I could be run through by your sword and not bat an eye." [1]
+
+I see a connection here with my recent Harvard Business Review post, which emphasizes the importance of ignoring the unimportant in order to focus our time and attention on those people and issues that truly matter. [2] We often approach this process as an intellectual task of prioritization, but it's a fundamentally emotional experience. The choice to ignore certain people and issues in favor of others stirs up a complex range of emotions--particularly anxiety, fear and guilt--that can be difficult to manage and can easily cause us to make decisions that aren't in our best interests.
+
+Graham's master monk is an exemplar of emotion management who points the way for mere mortals like the rest of us. In the face of a bandit's sword, he values devotion to his meditative practice above all else. He chooses where to focus his time and attention, and even the threat of losing his life isn't sufficient to deter him from the pursuit of his goals. Being distracted by fear and allowing the bandit to determine where he should focus his attention would be the greater loss.
+
+I'm not suggesting that we should be suicidally cavalier when confronted with legitimate threats. But I do believe that we often see sword-wielding bandits where there are none, and when we do, we scatter like so many lesser monks, allowing the perceived threat to determine our course of action.
+
+So what can we do? There's no single step to automatically enhance our capacity for emotion management, but there are many ways we can begin the process, as I noted in my HBR post:
+
+Adjust our mental models to reflect emotions' importance and the role they play in rational thought and decision-making. Our beliefs shape our experience.
+
+Take better care of ourselves physically. Regular exercise and sufficient sleep demonstrably improve our ability to both perceive and regulate emotion.
+
+Engage in some form of mindfulness routine. Meditation, journaling and other reflective practices enhance our ability to direct our thoughts, helping us sense emotion more acutely, and provide a new perspective on our experiences, helping us make sense of those emotions.
+
+Expand our emotional vocabulary—literally. Having a wider range of words to describe what we’re feeling not only helps us communicate better with others, but also helps us to more accurately understand ourselves. [3]
+
+A specific practice that's relevant here, which Graham discusses in her chapter on "Developing Somatic Intelligence," is priming our brains to remain calm in a crisis. As Graham notes, "Priming simply means preparing the brain to feel a certain emotion or a physiological state that could be adaptive in an anticipated situation." [4] She recommends three specific versions of priming:
+
+- Begin each day with some form of loving, physical connection--hug someone, even ourselves.
+
+- Also begin each day by recalling a memory or a hoped-for future experience that evokes a sense of well-being.
+
+- Train ourselves to recognize when we're agitated and have lost our equanimity, and then take a moment to breathe, feel our heart beating, and calm ourselves before proceeding.
+
+Graham discusses some of the research behind this process, and neuroscientist Richard Davidson's The Emotional Life of Your Brain goes much further in explaining the neurological impact of similar mindfulness practices. [5] Here are three additional practices aimed specifically at the work of prioritizing and triage:
+
+Triage under optimal conditions: Determining what we should pay attention to (and what we should ignore) is a mentally and emotionally taxing task, and we should undertake it when our reserves of mental and emotional control are at their highest. Too often we tackle this important work when we're already stressed--do it early in the day or after a break instead.
+
+Reflect on the benefits: Our natural negativity bias is enhanced under stress, and when we choose to ignore demands for our time and attention, we fixate on the disadvantages and things that might go wrong. [6] But freeing up our time and attention for truly important people and issues inevitably yields benefits--the return on our investment of those precious resources is greater when we spend them accordingly. Spending a few minutes reflecting on the benefits we expect to realize by dedicating ourselves to our most important tasks can strengthen our resolve.
+
+Challenge our threat response: Our brains and bodies can respond to certain interpersonal experiences just as if we were facing a physical attack, a phenomenon known as social threat. But when we experience any form of threat response--also known as a "fight, flight or freeze response"--our cognitive abilities are substantially diminished. It's important to recognize the telltale signs of our own threat response, which can range from a racing heart and sweaty palms to feelings of aggression or defensiveness, and to arrest the process as early as possible. Sometimes what looks like a sword-wielding bandit is just a shadow or a wisp of smoke.
+
+ 
+
+Footnotes
+
+[1] Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being, page 229 (Linda Graham, 2013)
+
+[2] The Most Productive People Know Who to Ignore
+
+[3] Ibid.
+
+[4] Bouncing Back, page 230
+
+[5] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[6] "Negativity Bias, Negativity Dominance, and Contagion" (Paul Rozin and Edward B. Royzman, Personality and Social Psychology Review, 2001)
+
+ 
+
+Video still from Akira Kurosawa's Seven Samurai.
+
+
+===== END ED BOT ESSAY 3816 =====
+===== BEGIN ED BOT ESSAY 3817 =====
+---
+title: Team Effectiveness
+url: https://edbatista.com/2014/08/team-effectiveness.html
+slug: team-effectiveness
+published: 2014-08-25T21:05:18
+updated: 2025-09-24T11:59:30
+source_body: wordpress-html
+---
+
+Last week I conducted a workshop in San Francisco on Team Effectiveness with a group of senior managers at a technology company. They were able to acknowledge right from the start that their communication as a team could be improved, and in my experience that's always a positive (and important) sign.
+
+The condensed deck above includes the slides covering the various concepts we discussed, but the slides related to the exercises we conducted have been removed. Thanks to everyone who participated--I felt privileged to be there.
+
+
+===== END ED BOT ESSAY 3817 =====

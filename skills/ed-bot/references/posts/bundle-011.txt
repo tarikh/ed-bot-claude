@@ -1,0 +1,104 @@
+===== BEGIN ED BOT ESSAY 3121 =====
+---
+title: Broken...And How To Fix It
+url: https://edbatista.com/2005/02/broken.html
+slug: broken
+published: 2005-02-14T09:10:00
+updated: 2005-02-14T09:10:00
+source_body: wordpress-html
+---
+
+Just to ward off any accusations of kissing up to Microsoft (see below), here's a shot from their campus.  If you can figure out how to get to Buildings 8-11 or 40-43, you're doing better than I am.
+
+This example of a bad user experience comes courtesy of Mark Hurst, founder of the user experience consulting firm Creative Good, and publisher of both Good Experience and This Is Broken.  The former is a thought-provoking newsletter on a range of user experience issues, while the latter is a fascinating blog documenting bad user experiences, ranging from that Microsoft campus sign to lousy keyboards to horrible customer service.  (Submit your own!)
+
+Apparently "This Is Broken" was inspired by Seth Godin, Hurst's former employer.  Good Lord, that man is everywhere!
+
+
+===== END ED BOT ESSAY 3121 =====
+===== BEGIN ED BOT ESSAY 3122 =====
+---
+title: The New PR
+url: https://edbatista.com/2005/02/the_new_pr.html
+slug: the_new_pr
+published: 2005-02-14T09:05:00
+updated: 2005-02-14T09:05:00
+source_body: wordpress-html
+---
+
+It's too easy to bust on Microsoft--so today, a bouquet.  Thanks to Jeff Jarvis and The Economist, I recently learned about Robert Scoble, a techie and well-known blogger who's now employed by Microsoft as "technical evangelist."
+
+In this capacity, Scoble's basically an in-house blogger--sort of a corporate ombudsman, to use an old newspaper term.  He has an insider's access, but writes from an outsider's perspective--well, as outside as you can get when you're on the payroll.
+
+According to The Economist, Scoble has "succeeded where small armies of more conventional public-relations types have been failing abjectly for years: he has made Microsoft, with its history of monopolistic bullying, appear marginally but noticeably less evil to the outside world, and especially to the independent software developers that are his core audience. Bosses and PR people at other companies are taking note."  In fact, Bruce Lowry, Director of PR for Novell, "can imagine blogs completely replacing press releases within ten years."
+
+So far, so good.  Blogs are (or at least appear to be) immediate and spontaneous, honest and personal--everything that traditional PR is not.  And that's what makes them powerful tools in corporate communication efforts.  But those boring press releases and and staged events are that way for a reason--spontaneity and honesty can get you in trouble.
+
+Stanford Law prof Joseph Grundfest, quoted in The Economist, says its "only a matter of time" before blogging missteps lead to lawsuits.  And Googling "fired blogger" yields 412,000 hits, in the wake of the high-profile firing of UK blogger Joe Gordon by bookseller Waterstone's.  (Guess they haven't heard about the new transparency.)
+
+Microsoft's clearly ahead of the curve on this trend and deserves credit for their efforts.  But will the lawyers shut down the party before it gets out of hand?  Will "official bloggers" become co-opted and morph into online flacks?
+
+
+===== END ED BOT ESSAY 3122 =====
+===== BEGIN ED BOT ESSAY 3123 =====
+---
+title: Uh, Where Are We Again?
+url: https://edbatista.com/2005/02/uh_where_are_we.html
+slug: uh_where_are_we
+published: 2005-02-14T09:00:00
+updated: 2005-02-14T09:00:00
+source_body: wordpress-html
+---
+
+Two geography-related marketing moves are in the news at the moment: First, the Anaheim Angels (nee the California Angels, nee the Los Angeles Angels) recently changed their name a third time to the Los Angeles Angels of Anaheim.  (Bonus cross-cultural note: that's Los Angeles de Los Angeles de Anaheim in Spanish.  Catchy!)
+
+This news didn't go down well with anyone.  Not with the city of Anaheim, which claims to have provided $30 million in public  subsidies to support the renovation of the team's ballpark, and which filed an (unsuccessful) lawsuit to block the name change.  Not with the city of Los Angeles, which filed a brief in support of Anaheim's suit.  And not with the L.A. Dodgers, who filed a similar brief and are fighting back with a "This Is L.A. Baseball" ad campaign of their own.
+
+But with all that opposition, there must have been something in it for Angel's owner Arte Moreno.  As he told MLB.com on Friday,
+
+"[The name change] gives us an opportunity to market the whole region...All of our media comes from the L.A. metro area -- all the papers, all the TV, all the radio. The Los Angeles Times is the fourth-largest newspaper in the U.S....  Anaheim is  300,000-plus people, Orange County is 3 million, and the [Los Angeles] metro area is 16 1/2-plus million people... If you want to have a competitive franchise and an affordable experience for kids and families, you have to figure out how you're going to economically support it... How are we going to be able to take the franchise to the next step? By trying to bust out of the small- to mid-market team mold and move into a large market."
+
+Moreno, who bought the Angels in 2003 to became the first Latino owner of a U.S. pro sports franchise, has garnered a lot of positive press over the last two years for keeping ticket prices low--and even cutting beer prices-- while simultaneously spending what it takes to land stud free agents like Vlad Guererro (who, if there were any justice in this world, would be a San Francisco Giant today.)  He's also a savvy marketer, having sold Outdoor Advertising for $8.3 billion in 1999.  So even though this is looks like a terrible move from an aesthetic perspective--face it, the tacked-on "of Anaheim" is just a joke--I actually support the change.
+
+Why?  1) The logic of marketing a 16-million person metro area instead of a 300,000-person exurb is unassailable.  2) Moreno's not gouging the fans or stiffing his players, but somebody has to pay.  3) Given his track record, I trust that he knows what he's doing when it comes to separating people from their disposable income.  Besides, anything that pisses off the Dodgers can't be all bad.
+
+In contrast, I'm not so sanguine about the second name-change story in the news.  California State University, East Bay, nee Cal State Hayward, recently decided to change its name in order to "reflect [their] growing regional role and proud East Bay heritage."
+
+Just like the Angels, Cal State East Bay has changed names relatively frequently--three times between 1957 and 1972--although "Cal State Hayward" served them well for over 30 years.  And just like the Angels' recent move, this change has prompted plenty of opposition as well.  The city of Hayward, the local Chamber of Commerce, and the Hayward public schools all perceive the move as a slap in the face, and some alumni are grumbling as well.  (The university's maintaining a name change news and FAQ page, which, to their credit, includes criticism as well as measures of support for the change.)
+
+There are certainly some legitimate reasons for the change--the university has a campus in Concord and runs some programs in Oakland, about 25 and 15 miles to the north of Hayward, respectively.   But when you consider that Hayward's median household income in 2000 was just 82% of of the comparable figure for the rest of the region (a significant drop from 1980, when the two figures were essentially the same), it raises suspicions that the university's real motive is to distance itself from a relatively blue-collar city in the image-conscious Bay Area.  (Income details are on pages 23 and 24 of the city's Census 2000 Summary.)
+
+Cal State's goals aren't that different from the Angels'--they both want a better, more marketable image--and at a time when California's once-proud higher ed system takes a beating in the state budget every year, I'm sympathetic to their plight.  But in this case, I don't support the change.
+
+Like "LA Angels of Anaheim," the renamed Cal State East Bay is also an aesthetic loser.  "East Bay" is just too casual for an actual university--it sounds like a bad nighttime soap on Fox.  But unlike Moreno's move, it's hard to see the real benefits of the switch.  In local parlance, "East Bay" connotes year-round sunny weather (that's good); housing costs that are slightly less extortionate (also good, until you ask why); and a certain ambience that realtors call like to call "unpretentious." (The East Bay landed two cities, Oakland and Richmond, on last year's list of the 25 most dangerous cities in the U.S..  Now that's publicity!)
+
+On the whole, I can't see what Cal State has gained other than irritating their local community and their alumni donor base--not exactly a marketing masterstroke.  Maybe they should ask Arte Moreno what to do.
+
+
+===== END ED BOT ESSAY 3123 =====
+===== BEGIN ED BOT ESSAY 3124 =====
+---
+title: Brand You 2
+url: https://edbatista.com/2005/02/brand_you_2.html
+slug: brand_you_2
+published: 2005-02-12T07:54:11
+updated: 2005-02-12T07:54:11
+source_body: wordpress-html
+---
+
+Following up on yesterday's post, in a more personal vein... To paraphrase a colleague of mine who recently saw this site and my personal site for the first time: "They're so evocative--your voice and your personality come through so clearly.  Why wasn't that the case with N-TEN'?"
+
+N-TEN is the Nonprofit Technology Enterprise Network, and for the last four years, I served as N-TEN's first Executive Director.  N-TEN's mission is to help the nonprofit sector use technology more effectively, and it essentially operates as an association that brings together a diverse range of constituencies--nonprofits, consultants, vendors, funders and others.
+
+During my tenure at N-TEN, it grew from a one-man staff, with an office in my living room and no members, to a four-person staff, bolstered by about half-a-dozen contractors, with a membership of some 350 organizations and an additional 300-odd individuals spread out across the U.S. and beyond.  Although N-TEN's now big enough to be sustainable, for several years it was touch-and-go, and I was very focused on growth and reaching new constituents.
+
+As a result, the identify that I established both for N-TEN and for myself was one that assuaged critics, established connections with new constituencies, and developed relationships with prospective members.  That emphasis on diplomacy and bridge-building opened a lot of doors for N-TEN, but it also defined the organization as an essentially ecumenical forum.
+
+N-TEN has reached the point where it needs to do more than provide a forum--it needs to take stands on issues that matter to its members--it needs to have a voice.  At the same time, I've been increasingly eager to speak my mind more freely, to be more candid and less diplomatic.  But paradoxically, although my personal goals parallel those of N-TEN, I decided to step down as Executive Director.
+
+One of the reasons is potential brand misalignment, the same issue I discussed yesterday.   The success that N-TEN and I enjoyed over the past four years was due in part to the mutually reinforcing identities that the organization and I had established.  But both N-TEN and I are now engaged in the process of re-making ourselves, to an extent--we're finding new voices.  (As I've said to a number of colleagues, "I've been a bandleader for four years, and now I'd like to pick up an instrument of my own.")  To meet these challenges, we'll both need to focus less on relationship-building and more on critical thought, analysis, and advocacy.
+
+But the mutual reinforcement that worked so well for N-TEN and myself in the past could have worked against us in the future as we sought to do different things.  I decided that the process would be easier, both for N-TEN and for myself, if we approached it separately, and it's looking like a sound strategy so far.  My successor as N-TEN's Executive Director, Joe Baker, is a great guy who's just the right person to build on the organization's accomplishments while leading it in a new direction.  And I'm having more fun than I've had in a long time--I feel intellectually liberated and much more free to be myself.  There's certainly some risk involved, but it just felt like the right time to roll the dice.
+
+
+===== END ED BOT ESSAY 3124 =====

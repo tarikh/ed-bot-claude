@@ -1,0 +1,94 @@
+===== BEGIN ED BOT ESSAY 3423 =====
+---
+title: Crystal Springs
+url: https://edbatista.com/2006/06/crystal_springs.html
+slug: crystal_springs
+published: 2006-06-24T18:39:00
+updated: 2006-06-24T18:39:00
+source_body: wordpress-html
+---
+
+Crystal Springs Reservoir is about 20 miles south of San Francisco, a bucolic gem right in the heart of the Bay Area. Although the 23,000 acre watershed operated by the S.F. Water Department and Public Utilities Commission contains miles and miles of trails that remain off-limits to the public (an outrage that the S.F. Chronicle's Tom Stienstra has covered on a regular basis), you can access the Sawyer Camp Trail at its southern terminus near the middle of the reservoir, just north of Hwy. 92. Apparently it runs all the way up to San Bruno, but we just took a brief stroll today. If you squint at the lower left corner of the pic above, you can see a faint telephone pole.
+
+It's a strange, lonely thing, long since stripped of any wires it once carried. I love relics like this, artifacts of the Bay Area's historical transition from outpost to demi-metropolis. You see it in rundown fences and isolated posts on mountaintops, you see it enshrined in monuments, you see it everywhere once you start to look for it.
+
+
+===== END ED BOT ESSAY 3423 =====
+===== BEGIN ED BOT ESSAY 3424 =====
+---
+title: I Was An Anticorporate Rebel
+url: https://edbatista.com/2006/06/i_was_an_antico.html
+slug: i_was_an_antico
+published: 2006-06-23T10:17:00
+updated: 2006-06-23T10:17:00
+source_body: wordpress-html
+---
+
+I was a Chuck Taylor devotee for many years, from high school to college to art school back to college, before finally giving them up at some point in my mid-20s. Today's Wall Street Journal has an article by Stephanie Kang on Nike's efforts to extend the brand beyond its traditional image to appeal to more fashionable tastes. (Nike acquired Converse in 2003.) Kang dutifully finds a grumpy old skooler who keeps it real by dumping on the new models: "What's happening is that Converse has now gotten greedy... That's why these are not as cool." Whatever. The guy probably thought Converse was selling out when they unveiled the fantastically fugly day-glo orange model that I loved so dearly back in 1987.
+
+The upmarket, fashion-forward Chucks being rolled out now won't be a huge success, but they're not intended to be--their purpose is to generate publicity (like right now) around the fact that Chucks don't just come in the six basic flavors (black, navy, white, "optical" white, red and all-black), but in 471 varieties. And despite the grumbling of Kang's man in the street, I think that's wonderful. Let a thousand sneakers bloom. But our old skooler seems hopelessly entangled in the faux-utilitarian iconography that Chucks used to stand for. As Kang writes,
+
+Even as Converse lost favor with pro players, it stumbled on a new fan base to court: Rockers Joey Ramone and Kurt Cobain were among the first slacker heroes to wear Chucks, influencing the footwear of millions of anticorporate rebels for years to come.
+
+Let's ignore Kang's slightly slippery grasp on punk and pop-culture history and stipulate the point she's trying to make: Chucks used to be cheap gear for proles, or rich rockstars who wanted to maintain a prole image, or anyone who was "keepin' it real." So how will Nike navigate these challenging waters?
+
+The suits are following the script--"It's such an iconic shoe that we're trying not to overextend it," coos Nike CEO Mark Parker--but that hardly seems necessary. If you're really an anticorporate rebel today, you're not buying Chucks--you're buying fair-trade, no-marketing sneaks made from organic hemp and recycled rubber. And if you think your Chucks are making a statement against the Man, you're delusional. Although perhaps the delusional market segment is a big concern for Nike, I don't know.
+
+There's a larger story to be told here about 1) the end of authenticity--or, more accurately, the end of perceived, manufactured and marketed "authenticity," 2) the resulting decoupling of phony and ineffectual connections between the personal and the political, and 3) the individual's liberation from the herd--not just within the mainstream, but even (and especially) within smaller, often politicized sub-cultures. Whew--but that's a whole more than I have time for today.
+
+
+===== END ED BOT ESSAY 3424 =====
+===== BEGIN ED BOT ESSAY 3425 =====
+---
+title: My Attention Data at Work
+url: https://edbatista.com/2006/06/my_attention_da.html
+slug: my_attention_da
+published: 2006-06-22T15:38:42
+updated: 2006-06-22T15:38:42
+source_body: wordpress-html
+---
+
+Attention data, simply enough, is any data that reflects what you're paying attention to. Although I'm writing less frequently about technology on this site these days, I just can't help it on occasion, and the two attention-data-powered widgets below are cases in point. The first one is a list of the most popular websites in my "clickstream," my personal browsing history. The data is captured using my Attention Recorder, an open source extension for the Firefox browser, shared with an account I've opened at Root Markets, my Root Vault, and displayed here via a little code embedded in this post. (Disclosure: I'm the Executive Director of AttentionTrust, the nonprofit that distributes the Recorder, and AttentionTrust was co-founded by Seth Goldstein, CEO of Root.)
+
+I've also embedded the code in the in the right-hand sidebar, just below I'm Listening To..., which is a list of the musical artists I've listened to most frequently over the past week.
+
+The same principle's at work here--the data about the songs I play in iTunes is captured using a plugin from Last.fm, shared with my Last profile, and displayed here via some code provided by Last.
+
+OK, so what? Well, this is interesting to me for any number of reasons: It's a way for me to express myself, to voice my preferences for certain websites and certain musical artists, without requiring any action on my part other than going about my daily business. I visit sites, I play music, and that data is automatically captured, shared and published.
+
+It's also noteworthy that this is behavioral data (i.e. the sites I actually visit, and the music I actually listen to), not articulated data (i.e. the sites I say I visit, and the music I say I like.) It's honest; it's real.
+
+And it's the foundation for an ecosystem--an "attention economy"--within which people are capturing and exchanging their attention data with each other, driving a whole host of personalized discovery and recommendation systems.
+
+tags: attention attentiontrust attention+trust attention+data attention+economy root+vaults last.fm
+
+
+===== END ED BOT ESSAY 3425 =====
+===== BEGIN ED BOT ESSAY 3426 =====
+---
+title: Happy Birthday, Slate
+url: https://edbatista.com/2006/06/happy_birthday_.html
+slug: happy_birthday_
+published: 2006-06-19T10:52:28
+updated: 2006-06-19T10:52:28
+source_body: wordpress-html
+---
+
+Slate turned 10 over the weekend, an event that makes me realize both how much things have changed over the past decade and how quickly the time has flown by.  I don't read many general interest sites, but I remain loyal to Slate, partly out of habit, partly because of writers like Christopher Hitchens, Dahlia Lithwick, and Dana Stevens, and partly because I enjoy watching one of our oldest online institutions continue to evolve--and, I might as well add, despite disappointing gaps in coverage (sports and music, for starters) some deadwood that should be cleared away (the Explainer, anyone?  Dear Prudence?) and a baffling refusal to effectively integrate reader feedback, which remains segregated in the navigation-challenged Fray.
+
+Michael Kinsley's look back at Slate's founding highlights just how far we've come:
+
+My original idea, believe it or not, was a publication that you would download and print out once a week. It would have been an inferior version of a print magazine—a bunch of pages stapled together (if you had a stapler nearby).
+
+By the time Slate was launched, we had moved beyond that primitive once-a-week notion. I remember, with some embarrassment, the eureka moment when it dawned on me that an online magazine doesn't have to publish an entire issue at once. Pretty soon, I even figured out that you didn't need to have "issues" at all.
+
+It's worth remembering how Kinsley's move out to Seattle was initially received by most members of the media establishment in Washington and New York ten years ago: they thought he was nuts.  But to me and many others who weren't particularly interested in technology but who were plenty interested in political and cultural journalism, it was an intriguing signal.
+
+I started using email in earnest in 1994, to collaborate with some colleagues on a volunteer consulting project and to plan a motorcycle trip with a friend on the East Coast, and a year later I was just beginning to learn more about the wider world of the Internet.  It was fascinating, but as a non-techie I found the tools hard to use and found it even harder to uncover meaningful information related to the things I really cared about--politics, literature, music, food, art, sports, history.
+
+But the news about Michael Kinsley's project with Microsoft caught my attention.  I admired him as a political and cultural thinker, and I respected him as a thoughtful highbrow with a populist bent.  If someone like Kinsley was getting involved, perhaps the Internet could begin to reflect the richness of the world around us, and perhaps it could be accessible by ordinary, non-technical people.  Of course, many people have contributed to Slate's success, and millions more have participated in the transformation of the Net, but I still mark Kinsley's commitment to the weird, experimental vision of online publishing as an important moment.  Kinsley hasn't been involved in running Slate for five years or so, but I hope he feels a sense of pride and accomplishment, not only for helping to launch a still-running and occasionally-profitable venture, but for helping people like me to see technology's non-technical potential.
+
+tags: slate michael kinsley
+
+
+===== END ED BOT ESSAY 3426 =====

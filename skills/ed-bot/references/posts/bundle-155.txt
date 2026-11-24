@@ -1,0 +1,110 @@
+===== BEGIN ED BOT ESSAY 3730 =====
+---
+title: Hit the Brakes or Step on the Gas? (Resistance and Motivation)
+url: https://edbatista.com/2012/12/hit-the-brakes-or-step-on-the-gas-resistance-and-motivation.html
+slug: hit-the-brakes-or-step-on-the-gas-resistance-and-motivation
+published: 2012-12-13T09:56:14
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+Some recent work with clients and students and several personal experiences have me thinking about the opposing forces of resistance and motivation that we feel when we're on the brink of a meaningful decision. The tension between these forces can result in uncertainly and paralysis--we don't know whether to heed our resistance and hit the brakes or tap into our motivation and step on the gas, so we drift along and let things happen.
+
+When we're stuck this way, it can be helpful to explore the underlying sources of our resistance and motivation and assess their utility: Are these factors useful to us or not? And in this process it's critical to recognize that resistance and motivation both have "shadow sides," unhelpful dimensions that are likely to lead us astray and need to be challenged.
+
+Useful sources of resistance include healthy prudence, trusted intuition, satisfaction with our present situation and a need for rest or calm. Unhelpful sources of resistance include simple lethargy or inertia, a lack of confidence or resilience, and excessive caution or risk-aversion. All these factors tend to slow us down and encourage us to opt out and say no.
+
+Useful sources of motivation include healthy ambition, aspirational goals, a drive to overcome obstacles and a sense of determined "grit." (For more on grit, see research by Penn's Angela Duckworth.) Unhelpful sources of motivation include unchecked drives, unchallenged beliefs that tell us we "must" do something, compulsions and social pressure. All these factors tend to speed us up and encourage us to opt in and say yes.
+
+I'm not suggesting that there's a simple or foolproof way to locate the "utility threshold" and readily distinguish between the helpful and unhelpful forms of resistance and motivation; it's a complex and subjective process. But a good starting point is simply stepping back and reminding ourselves that these forces come in both flavors, and sometimes we need to tap into and unleash our motivation--step on the gas--while at other times we need to respect and heed our resistance--hit the brakes.
+
+
+===== END ED BOT ESSAY 3730 =====
+===== BEGIN ED BOT ESSAY 3731 =====
+---
+title: Self-Coaching Session at Flixster
+url: https://edbatista.com/2012/12/self-coaching-session-at-flixster.html
+slug: self-coaching-session-at-flixster
+published: 2012-12-07T10:12:02
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+Yesterday I had the chance to give a talk on self-coaching to a group at Flixster, and a modified version of my slide deck is above. Thanks to the awesome Hannah Knapp and her colleagues for a great experience--I really enjoyed it.
+
+
+===== END ED BOT ESSAY 3731 =====
+===== BEGIN ED BOT ESSAY 3732 =====
+---
+title: The Layer Cake of Working Life
+url: https://edbatista.com/2012/08/the-layer-cake-of-working-life.html
+slug: the-layer-cake-of-working-life
+published: 2012-08-29T04:00:00
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+In my work with a client in recent weeks it became evident that he was seeking to effect change at several different levels in his professional life, and it was important for us to be clear about which level he was addressing in any given moment:
+
+At the Structural level are the big-picture circumstances of our working lives: Our career path, our professional identity, our organizational affiliations and all the other ways in which we might answer the question, "What do you do?"
+
+At the Contextual level are those factors related to our current situation: Our specific role and job description, our explicit and implicit responsibilities, and the obligations and expectations we bring to our reporting relationships (up, down and sideways).
+
+At the Interpersonal level are the issues that arise within every unique configuration of individuals: Our relationships with peers, superiors and subordinates, not only one-on-one, but also in any permanent or temporary groups.
+
+Finally, at the Internal level is our intrapersonal response to all of the above: The mental models, attitudes and beliefs we use to interpret and make sense of our professional lives (and selves); the emotions that accompany and underlie these conceptions; and any self-coaching practices we might employ to influence these responses.
+
+How might you put this framework to use? One guideline is "start low." As you move up from Internal to Structural, the scope of change that can be effected increases, but the degree of control that you can exert is diminished. So when change is desired it's useful to start at the Internal level to see what you can accomplish on your own. Perhaps nothing needs to change other than your mental models, beliefs or emotional state.
+
+Starting low also insures that you don't skip a step and drag unresolved issues along with you in the process. For example, you may need to change careers to find fulfillment--a big Structural shift--but if the cause of your desire for change lies at the Internal or Interpersonal layer, you'll eventually encounter the same problems again on your new path.
+
+It's also useful to remember that you're always evolving on all levels at once, and changes on any one level will affect the others. Change in yourself will affect your interpersonal relationships. Changes in your relationships will affect how you fulfill your role and responsibilities. And changes in those contextual factors will affect your fit with your organization and your professional identity. 
+
+Finally, note that the boundaries between these levels are amorphous and are by no means clear or discrete. I'm not suggesting that desired changes fall neatly into one level and not another. But hopefully this model allows you to more accurately diagnose where change would be most useful and to target your efforts accordingly.
+
+ 
+
+I've written a subsequent version of this post specifically for senior leaders:
+
+Some Baggage We Take with Us (On Leaving a Leadership Role)
+
+Revised May 2024.
+
+
+===== END ED BOT ESSAY 3732 =====
+===== BEGIN ED BOT ESSAY 3733 =====
+---
+title: We're Leaky (Emotional Signals and Cognitive Dissonance)
+url: https://edbatista.com/2012/08/were-leaky-emotional-signals-and-cognitive-dissonance.html
+slug: were-leaky-emotional-signals-and-cognitive-dissonance
+published: 2012-08-27T05:00:00
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+As Vickie Gray has noted, "Holding back your feelings doesn’t keep them hidden, it just makes your behavior incoherent." [1] Which reminds me of something I first heard from either David Bradford or Mary Ann Huckabay at Stanford many years ago: "We're leaky."
+
+When we try to suppress our feelings, we "leak" in all sorts of ways that send powerful signals to those around us. Our body language, tone of voice, facial expressions, eye contact (or lack thereof) and countless other non-verbal cues shout to the world "SOMETHING'S UP!!!" even as we insist, "Everything's fine."
+
+And when it comes to sensing others' emotional signals, we're like one of those remarkable pigs that can smell a truffle three feet underground. [2] As a species we've evolved an exquisitely sensitive set of receptors tuned to the emotions of those around us. So not only do we convey emotions quite readily no matter what's actually said (even when we say nothing at all), but other people are much more perceptive than we typically realize. We're leaking, and we're fooling no one.
+
+But just because we can apprehend others' feelings doesn't mean we can comprehend them. As neuroscientist Joseph LeDoux has written, the pathways through which we experience emotions are a "quick and dirty processing system." [3] We sense something, but we can't quite make sense of it. We feel, but we don't understand.
+
+And this is where things can get incoherent very quickly. Nature abhors a vacuum, and we can't stand the cognitive dissonance that results when we sense another person's emotional state, but we don't understand the rationale for their behavior. So we fill in the gap and invent an explanation that removes the dissonance. Sometimes we're right, and sometimes we're very, very wrong.
+
+The key is simple in theory but sometimes very difficult to put into practice: Acknowledging and disclosing our emotions fills in the cognitive gaps and allows others to clearly understand what we're feeling. Of course, this is harder when we're tired, stressed, vulnerable, threatened, or experiencing emotions that we're reluctant to share, such as embarrassment or shame. So it's essential to practice. Talking about feelings doesn't come naturally to many of us, but like any learned skill, it gets easier with repetition.
+
+ 
+
+Footnotes
+
+[1] @VGrayAuthor (Vickie Gray, 2012)
+
+[2] Truffle hunting demonstration with a pig [0:20 video] (11hblog, YouTube, 2009)
+
+[3] The Emotional Brain: The Mysterious Underpinnings of Emotional Life, page 163 (Joseph LeDoux, 1998)
+
+Photo © 2011 J. Ronald Lee via Flickr.
+
+
+===== END ED BOT ESSAY 3733 =====

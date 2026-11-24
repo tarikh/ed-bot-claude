@@ -1,0 +1,438 @@
+===== BEGIN ED BOT ESSAY 4007 =====
+---
+title: Attention Surplus Disorder (Anxiety and Distraction)
+url: https://edbatista.com/2018/08/attention-surplus-disorder-anxiety-and-distraction.html
+slug: attention-surplus-disorder-anxiety-and-distraction
+published: 2018-08-13T05:00:00
+updated: 2026-08-09T15:40:20
+source_body: wordpress-html
+---
+
+Anxiety and Attention
+
+At one time or another most of us have felt overwhelmed by anxiety or unable to stop worrying obsessively. Sometimes there’s a specific focus and a vivid response--we wake up in the night with a start, our mind racing, fixated on a recent argument or a stalled project or an avoidable mistake. Sometimes the experience is more generalized--a gnawing sensation distracts us, and our mind drifts away into a black cloud of concern.
+
+I see this pattern regularly in my work with clients and students--as well as in my own life--and I’ve come to think of it as attention surplus disorder. We habitually devote excessive amounts of attention to the objects of our anxiety, far out of proportion to the results we can reasonably expect that attention to yield. (It's important to distinguish between everyday anxiety and acute anxiety that may require clinical treatment or medication; for dealing with the latter, a list of anxiety resources can be found at the bottom of this post.)
+
+I’ve written about attention repeatedly over the past decade [1] and I even teach a class on the topic [2] because I believe that attention is our most precious resource. Attention is finite: we can focus intensely for a very limited amount of time each day before we feel fatigued. Attention can’t be sub-divided: misguided ideas about multi-tasking notwithstanding, we can truly pay attention to just one thing at a time. [3] What we call multi-tasking is really continuous partial attention, or rapidly shifting our focus from one object to another, and it typically works only with basic tasks requiring minimal cognitive effort. [4]
+
+And attention is tremendously powerful: whether we’re laboring at a task, reflecting and learning, or interacting with others, the amount of attention we can bring to bear on that experience usually determines how effective we are at accomplishing our goals. So when anxiety causes us to devote a surplus of this precious and limited resource to objects unworthy of our attention, we undermine ourselves in any number of ways.
+
+Attention Magnets and Mental Control
+
+There are two underlying dynamics at work here: 1) the power of emotion to capture our attention, and 2) the difficulty of controlling our thoughts and directing our attention. As I wrote in 2015, "psychologist Victor Johnston describes emotions as 'discriminant hedonic amplifiers,' meaning that they boost various signals in our mental landscape, drawing our attention toward certain issues and events and away from others. In other words, emotions are attention magnets." [5,6] This is one of the most important functions served by emotions; they nudge us (and sometimes shove us) in directions that are likely to ensure our continued survival, toward sources of health and happiness and away from threats to our safety or enjoyment.
+
+Note the emphasis on likely; as neuroscientist Joseph LeDoux has written, emotions are a "quick and dirty processing system" that allow us to rapidly assess the potential impact of a given situation on our health and happiness, but our intuitive emotional response to a given situation isn’t always accurate. [7] Emotions don’t work in opposition to our logic; work in recent decades by neuroscientists such as LeDoux and Antonio Damasio, among others, has made it clear that emotions play a crucial role in our reasoning process, and the quality of our decisions generally improves when we're in more in tune with our feelings. [8]
+
+But not always--and anxiety that fails to serve a useful purpose is a perfect example of the power of emotion. In many cases we know that our concern is misplaced, or at least disproportionate to the risk we face from the object of our anxiety--but that knowledge offers only limited resistance to the power of anxiety.
+
+The second dynamic at play when we’re distracted by anxiety is the profound difficulty of controlling our thoughts and directing our attention toward certain objects and away from others. The late Harvard psychologist Daniel Wegner was an authority on this process, known as mental control. [9] His research shows that conscious efforts to evoke or avoid specific mental states and direct our attention can work, but they can also backfire, particularly when we’re trying to suppress thoughts, resulting in the "the very mental states we are trying to avoid."
+
+And yet we must constantly filter out and ignore vast amounts of information. As neuroscientist and psychologist Ian Robertson has noted, "We have to inhibit the billions of bits of irrelevant information assailing our senses in order to concentrate on the fragments of information which are crucial for us at a particular point in time." [10] This highly selective focus is what makes it possible for us to complete any task, from driving a car to writing a sentence to having a conversation. But it’s a process that requires substantial cognitive effort under the best of circumstances, and when we’re tired or stressed our capacity for mental control is substantially impaired.
+
+Mindset and Change
+
+Our anxieties often take advantage of both of these dynamics, seizing us in their powerful grip when our ability to resist them is at a low ebb. So what can we do? First it's important to embrace what Stanford psychologist Carol Dweck calls a growth mindset, a view of ourselves in which we see our skills and abilities as subject to development, rather than a fixed mindset, in which we view such traits as inherent and impossible to change. [11] Dweck’s research shows that people with a growth mindset are more resilient when experiencing a setback and more persistent in the face of obstacles, and both of these qualities can be valuable assets when seeking to overcome anxiety. As I've written before, Dweck's work suggests that it's possible to adopt a growth mindset, and this begins with simply being aware of the difference between the two mindsets. [12,13]
+
+We can also pay attention to our inner dialogue and look for signs of a fixed mindset, particularly any messages regarding our difficulty in dealing with anxiety. When we hear such messages, it’s important to challenge their accuracy and not simply accept them at face value. Substantial research in recent years has shown that our brains continue to develop throughout our entire lives, and this property of neuroplasticity insures that change is almost always possible, even though it’s often difficult. [14,15]
+
+Once we see ourselves as capable of change, there are a number of steps we can take to manage our emotions more effectively and mitigate anxiety’s ability to capture our attention. Note that emotion management is different than suppression; the latter is a futile (and even counterproductive) effort to ignore our feelings or deny their existence, while the former is a productive strategy of active engagement.
+
+Emotion Management
+
+Emotion management starts with heightening our ability to sense what we’re feeling. Emotions such as anxiety begin as physiological events--the release of neurotransmitters in our brain or visceral muscular contractions--before they register in our consciousness. The shorter the gap between those events and our conscious awareness of what we’re feeling, the more control we can exert over how we are likely to respond to those feelings. Practices such as regular exercise, sufficient sleep, and meditation help us attune to our bodies and the physiological manifestations of our anxiety. [16,17,18]
+
+Once we can better sense our emotions as physical experiences, we can improve our ability to comprehend them, to label them with the appropriate words that allow us to translate what we’re (literally, physically) feeling into (conceptual) feelings. One simple way to start is to expand our emotional vocabulary. [19] It’s critical to distinguish the subtle variations in our feelings, particularly when identifying their depth and intensity. When we label all anxiety as a form of fear, and fail to differentiate among, for example, tension or nervousness or excitement, we frame the situation in a particular way, which has an impact on our behavioral response. Saying to ourselves, "I’m tense," or "I’m nervous" or "I'm excited" can put us in a very different state of mind than saying, "I’m scared."
+
+An improved emotional vocabulary allows us to more clearly articulate what we’re feeling to others, which serves several purposes. Research by neuroscientists Matthew Lieberman, Naomi Eisenberg and others has shown that talking about our feelings allows us to better manage difficult emotions such as anxiety by reducing activity in the regions of the brain associated with those emotions. [20] Openly stating what we’re feeling is also critical in helping others understand us and respond appropriately. We’ve evolved a finely-tuned ability to be aware of others’ emotions, but we can’t necessarily interpret the precise nature and cause of those feelings. When we’re anxious it’s essential to talk about it, which will tend to both make it easier for us to regain control over the emotion and invite others to provide support. Note that our ability to hold these conversations is a function of the surrounding cultural context. Different relationships, families, organizations, and nations have vastly different attitudes toward emotions, so it’s important to establish norms that make it acceptable for us to talk about our anxieties.
+
+Sensing, comprehending, and articulating our emotions more effectively ultimately allow us to express those feelings in more productive ways. Anxiety pulls us off course when we’re not attuned to its physical symptoms, when we label it incorrectly, or when we elect not to talk about it with others. When we’re anxious but unaware, when we mistake anxiety for deeper fears, or when we sit alone with our feelings, we’re more likely to seek comfort in counterproductive behaviors, including obsessive rumination. Improved emotion management helps us choose healthier outlets for our anxiety--a long walk, a heartfelt conversation, or just a good cry.
+
+Healthy Distractions
+
+In addition to loosening anxiety’s grip through improved emotion management, we can improve our attention management by strengthening our ability to control and direct our thoughts. Health journalist Lea Winerman covered a presentation by Wegner at the 2011 convention of the American Psychological Association, in which he described several strategies for mental control. [21] In the moment Wegner recommends that we minimize multi-tasking, which diminishes our cognitive load, frees up finite working memory and increases our ability to focus. In my work as a coach it’s evident that leaders who are able to ignore low-value demands on their time and focus on more important tasks are better able to manage the inevitable stresses and anxieties that accompany leadership roles. [22]
+
+The leaders I’ve worked with who’ve successfully guided their organizations through times of crisis also emphasize the importance of minimizing interruptions in order to devote their full attention to the task at hand. When we try to tackle multiple tasks at once or allow unwanted distractions to clutter our mental landscape, not only are we likely to perform less effectively, we also make it more difficult to direct our attention toward productive work and away from fruitless worry.
+
+Wegner also suggests identifying an "absorbing distractor" that will prevent us from becoming fixated on a more problematic focal point. If we can arrest our anxiety before we’re deeply in its grip, we can redirect our attention elsewhere away from the object of our concern. This can involve substituting an immersive activity for worrying, such as intense exercise or a stimulating cognitive task, or it can involve re-focusing our anxiety on a more useful object--an alternative issue that we have more control over.
+
+Over time, Wegner recommends that we build our capacity to resist distraction by committing to address unwanted thoughts during some designated period. Winerman notes that chronic worriers who set aside 30 minutes a day during which they were free to worry experienced less anxiety during the rest of their day. A related option is some form of journaling, which can be particularly helpful in processing emotions such as anxiety. [23] The class I teach at Stanford, The Art of Self-Coaching, as well as other classes I've taught in the past, such as Interpersonal Dynamics and Leadership Labs, all involve putting students through a range of challenging situations and then asking them to write about their experience, which serves in part to help them manage any difficult feelings that have been triggered. [24,25,26] And many of the leaders I coach in my practice find that taking just a few minutes in the morning or evening to jot down some notes is sufficient in helping them process the events of their day and avoid unnecessary worry.
+
+Finally, Wegner also notes that meditation and other mindfulness techniques help with mental control, a view that has become increasingly mainstream as researchers such as Jon Kabat Zinn of the University of Massachusetts Medical School [27] and neuroscientist Richard Davidson of the University of Wisconsin [28] have demonstrated its beneficial effects. In 2009 I heard Harvard Business School professor and former Medtronic CEO Bill George discuss his 30-year commitment to a daily meditation practice, and today it’s something I discuss with most of my clients and students. [29]
+
+A popular misconception about meditation is that it involves relaxing into some sort of bliss, but I find it more useful to think of it as a "mental workout." [30] Our minds wander constantly as a steady stream of thoughts enter and exit consciousness, and most meditation practices involve a steady--and difficult--process of returning our attention to a focal point, such as the breath, after every distracting thought. Just we grow stronger by lifting weights repeatedly, the intensive effort that meditation requires builds our capacity to notice when we’re distracted and re-direct our attention, a critical skill when seeking to avoid unproductive anxiety.
+
+The title of this post was inspired by Sam Anderson's "In Defense of Distraction," a thought-provoking piece that continues to inform my work on this topic:
+
+The truly wise mind will harness, rather than abandon, the power of distraction. Unwavering focus--the inability to be distracted--can actually be just as problematic as ADHD. Trouble with "attentional shift" is a feature common to a handful of mental illnesses, including schizophrenia and OCD. It’s been hypothesized that ADHD might even be an advantage in certain change-rich environments. Researchers have discovered, for instance, that a brain receptor associated with ADHD is unusually common among certain nomads in Kenya, and that members who have the receptor are the best nourished in the group. It’s possible that we’re all evolving toward a new techno-cognitive nomadism, a rapidly shifting environment in which restlessness will be an advantage again. The deep focusers might even be hampered by having too much attention: Attention Surfeit Hypoactivity Disorder. [31]
+
+Footnotes
+
+[1] Other posts of mine on attention:
+
+- The Art of Self-Coaching: Attention (@StanfordBiz Class of 2016 Reunion) (2017)
+
+- To Stay Focused, Manage Your Emotions (2015)
+
+- Growth, Profitability and Return on Attention (2015)
+
+- The Marshmallow Test for Grownups (2014)
+
+- Rubbernecking (Stop Wasting Attention) (2013)
+
+- Spending Attention (2013)
+
+- What Are You Paying Attention To? (2009)
+
+[2] The Art of Self-Coaching, Class 3: Attention and The Art of Self-Coaching: Attention (Stanford GSB Class of 2016 Reunion)
+
+[3] You're Not Multi-Tasking, You're Half-Assing
+
+[4] Continuous Partial Attention (Linda Stone)
+
+[5] To Stay Focused, Manage Your Emotions
+
+[6] Why We Feel: The Science of Human Emotions, page 156 (Victor Johnston, 2000)
+
+[7] The Emotional Brain: The Mysterious Underpinnings of Emotional Life, page 163 (Joseph LeDoux, 1998)
+
+[8] Antonio Damasio on Emotion and Reason
+
+[9] Mental Control and Ironic Processes (Daniel Wegner, a summary of The Handbook of Mental Control, edited by Wegner and James Pennebaker, 1992)
+
+[10] Mind Sculpture: Unlocking Your Brain's Untapped Potential, page 114 (Ian Robertson, 2000)
+
+[11] What Is Mindset (Carol Dweck, 2006-2010)
+
+[12] Learning How to Learn
+
+[13] How can you change from a fixed mindset to a growth mindset? (Carol Dweck, 2006-2010)
+
+[14] What is neuroplasticity and why is it so important? (Duncan Banks, The Conversation, 2016)
+
+[15] Why Change Is Hard
+
+[16] Get Moving! (Exercise for Busy People)
+
+[17] A compilation of readings on sleep
+
+[18] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[19] Vocabulary of Emotions
+
+[20] Talking About Feelings
+
+[21] Suppressing the "white bears" (Lea Winerman, Monitor on Psychology, Volume 43, No. 9, October 2011)
+
+[22] The Most Productive People Know Who to Ignore
+
+[23] The Value of Journal Writing
+
+[24] The Art of Self-Coaching at Stanford
+
+[25] Interpersonal Dynamics at Stanford
+
+[26] Teaching Leadership with Stanford's Leadership Fellows
+
+[27] History of MBSR [Mindfulness Based Stress Reduction] (University of Massachusetts Medical School: Center for Mindfulness in Medicine, Health Care, and Society)
+
+[28] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[29] Bill George on Leadership at the Stanford Faculty Club
+
+[30] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[31] In Defense of Distraction, page 7 (Sam Anderson, New York, 2009)
+
+For Further Reading on Anxiety
+
+When a Stress Expert Battles Mental Illness (Brad Stulberg, Outside, 2018)
+
+Dealing With Anxiety: Exploring the Patterns that Fuel the Anxious Process (Sarah Sarkis, 2017))
+
+Why Anxiety Is So Persuasive--and Pervasive (Sharon Salzberg, On Being, 2018)
+
+The Worry Cure (Robert Leahy, 2006)
+
+Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+Anxiety Disorders (National Institute of Mental Health)
+
+The Anxiety Algorithm (Adam Julian Goldstein, 2020)
+
+Photo by Joel Penner.
+
+
+===== END ED BOT ESSAY 4007 =====
+===== BEGIN ED BOT ESSAY 4008 =====
+---
+title: The Fine Art of Levelling
+url: https://edbatista.com/2018/08/the-fine-art-of-levelling.html
+slug: the-fine-art-of-levelling
+published: 2018-08-06T05:00:00
+updated: 2025-09-24T11:58:10
+source_body: wordpress-html
+---
+
+A challenge every leader faces is the difficulty of levelling, i.e. hiring a new manager over a direct report. The employee may want to maintain the reporting relationship because they value access to the leader or because it conveys a higher status (or both.) The employee may be attached to their particular role and the responsibilities it carries. And even in the best of circumstances, levelling an employee may still feel (or look) like a demotion. So taking this step always comes with the risk that the employee will accept the move grudgingly, and that their resentment may hinder their performance or undermine their relationship with the new manager. And yet there are reasons why a leader may prefer to run this risk rather than simply terminate an employee who's no longer fulfilling the requirements of their role.
+
+In many cases a performance gap has emerged not as a result of any shortcomings on the part of the employee, but simply because the company's growth has changed the nature of the job, and a different or more comprehensive set of skills are now required. The employee may also be someone who joined the company at an earlier, riskier stage, and as a result the leader may feel particularly loyal to them and be reluctant to see them leave.
+
+Occasionally the employee being levelled is one of the few remaining from an earlier stage in the company's life, and the leader may not just feel loyal toward them, but also believe that retaining the employee in some capacity will sustain a community from which everyone benefits (including the leader).
+
+The leader also has to take into account the likely impact on the employees' peers--simply terminating the employee in these circumstances can create a climate of fear and anxiety, eroding overall performance. (At the same time, waiting too long to take action can cause peers to resent the lagging employee or signal a tolerance for ineffectiveness and a lack of accountability.)
+
+The best outcome is that the employee not only accepts but agrees with the leader's decision. It's a stretch to expect someone to respond with enthusiasm, but in some cases even that's possible. In my experience here are the factors that contribute to a successful levelling:
+
+1. Data
+
+There's evidence of a performance gap, indicating the employee's inability to fulfill the requirements of the role. The leader and the employee don't need to agree completely on the cause of the gap--it's not uncommon for an employee to feel that they have the potential to close it through growth and development, while the leader is less confident (or is unable to wait). But it's important that both the leader and the employee can observe the data together and agree that a gap exists and the employee isn't able to fill it at present. Optimally the leader and the employee are both tracking this data over time, so that when it becomes necessary to make a change it doesn't come as a surprise.
+
+So what can leaders do?
+
+- Insure that all parties have access to the data being used to assess performance, as well as the subjective interpretations of that data.
+
+- Share negative feedback early so the employee has the opportunity to refute the perception of underperformance or make adjustments in response.
+
+2. Non-Defensiveness
+
+The employee possesses the emotional maturity to respond to the move without defensiveness. This isn't a quality people either possess or lack, and it can certainly be developed over time. It cannot, however, be developed quickly under pressure, which is why it's essential to look for it in the hiring process and to cultivate it as a management practice.
+
+So what can leaders do?
+
+- Encourage people to stretch themselves on a regular basis and increase their comfort with discomfort.
+
+- Establish and maintain a culture in which people speak up when there's bad news, to normalize the experience and model and promote healthy responses.
+
+3. Trust
+
+The employee trusts the leader's intentions. They may disagree with the leader's judgment in making the move, but they believe that the leader has their best interests at heart and is not levelling them out of caprice or personal animus. The leader has a great deal of influence over this factor, but only if they've been investing in the relationship over time--last-minute efforts to gain trust will rightly be seen as self-serving and may even have the opposite effect, eroding trust when it's needed most.
+
+So what can leaders do?
+
+- Make a consistent effort to express care and interest in employees as individuals, a process that can begin with small talk.
+
+- Be mindful of the many ways in which they create safety and danger, even (and especially) inadvertently, and work to minimize the risk of a threat response on the employee's part.
+
+4. Learning
+
+The employee believes that they can learn from the incoming manager. Of course, this is contingent on the leader's effectiveness at hiring a new manager who's not only highly experienced, but who also has the ability to impart that knowledge to others.
+
+So what can leaders do?
+
+- Hire people who are open to learning and view themselves as works-in-progress.
+
+- Assess managers on their ability to coach employees.
+
+5. Role Clarity
+
+Both the employee's new role and the distinctions between that role and their former role are clearly defined and commonly understood. There may be peer groups to which the employee no longer belongs and meetings in which they no longer participate, and this is known in advance and accepted by them. This is one reason why it's particularly difficult to level C-suite executives and anyone else who reports to the CEO--membership in that group is often an important source of status in an organization, and being excluded from it can be experienced as a highly visible demotion.
+
+So what can leaders do?
+
+- Carefully consider the implications for the employee's membership and participation in all possible sub-groups.
+
+- Be prepared to have difficult conversations about these changes early on--deferring them until after the move has been finalized generally leaves all parties worse off.
+
+6. Grace
+
+The leader handles every aspect of the process in a graceful way that preserves the employee's status and insures that they feel respected and appreciated. This includes joint assessment by the leader and the employee of the performance data, the steps by which a final decision is made and the employee is informed, the selection of the new manager, and the announcement of the move to the rest of the organization and other stakeholders.
+
+So what can leaders do?
+
+- Check their sense of urgency and slow down, particularly in direct interactions with the employee. (Note how much easier this becomes when there's a practice of sharing negative feedback early.)
+
+- Clearly communicate how decisions will be made at each step so that both parties can determine whether and how to advocate for their point of view.
+
+ 
+
+Photo by H. Matthew Howarth.
+
+
+===== END ED BOT ESSAY 4008 =====
+===== BEGIN ED BOT ESSAY 4009 =====
+---
+title: Time and Tradition
+url: https://edbatista.com/2019/07/time-and-tradition.html
+slug: time-and-tradition
+published: 2019-07-01T13:48:16
+updated: 2025-09-24T11:58:09
+source_body: wordpress-html
+---
+
+One of the values of tradition--rituals we re-enact, places we return to--is the sense of timelessness it evokes. This is an illusion, of course, but it can be a useful one.
+
+For the last week my evening entertainment has been watching the sun set from a hill a few miles north of the small town of Gualala on the Mendocino coast. Amy and I have spent a lot of time in this area in recent years, in part because of its spectacular beauty, but also because our attachment to tradition has come to outweigh our interest in novelty. I know there's an immense world out there that I haven't seen--many of my clients and students are inveterate globetrotters, I'm glad they take such pleasure in discovery, and I enjoy hearing about their adventures. But I find myself repeatedly choosing to deepen my investments in ongoing traditions--to repeat familiar experiences and return to familiar places--rather than seeking out the unknown.
+
+This is in part a function of my professional identity. After the health and happiness of Amy and my family, the most important thing in my life is the experience of being a coach. I find it immeasurably fulfilling to sit down with a client or student and hold a conversation that will be useful to them, and I've learned over time that I do my best work when there's as little variation as possible in my routines and surroundings.
+
+But it's also a function of my stage of life. My friend and colleague Joe Dunn recently remarked that in our 40s we become "old young people," but in our 50s we're suddenly "young old people," and I feel that acutely. I have a heightened awareness of mortality not as some abstract state of future nonexistence, but as the palpable, tangible, immediate experience of decline. And I'm deeply ambivalent about this state of affairs. I miss much about my younger self and am startled when he fails to appear in the mirror, replaced by a stranger who merely approximates him. But he was also impossibly foolish, egotistical, callous, scared. Today I'm weaker, more frail, slower to heal. I'm also wiser, kinder, braver. It's not lost on me that as my animal self has deteriorated I've become a much better human being.
+
+A perhaps inevitable consequence of this awareness of mortality is a richer appreciation for life--a feeling of gratitude for all that experience has to offer. I don't feel the need to try to hang on to it indefinitely--in contrast, I believe that acknowledging life's impermanence is what makes it meaningful. But I do want to savor it fully, as long as it lasts. And for me that comes through tradition--the repetition of simple, familiar experiences.
+
+The sense of timelessness this evokes isn't really an illusion--I'm clear-eyed about the relentlessness of time's march. But it is a respite--a chance to pause and be present while maintaining that clear-eyed view. It brings to mind a line from Ernest Becker's The Denial of Death: "The fear of death must be present behind all our normal functioning, in order for the organism to be armed toward self-preservation. But the fear of death cannot be present constantly in in one's mental functioning, else the organism could not function." [1] Tradition helps me maintain that balance--to savor a moment, while also acknowledging its passing.
+
+It's no accident that I'm writing this on our last full day in Gualala. I'm not ready to leave, not ready for this journey to end. But as I wrote just a few weeks ago,
+
+Every community of which we're presently a member will someday become a "lost world"—lost to us as we depart and move on, or lost to everyone as the community as a whole comes to an end. We tend to resist acknowledging this reality. It reminds us of mortality and can evoke feelings of sadness at the impending loss or a sense of frantic urgency as we try to stave it off.
+
+But as a result we miss unique opportunities to appreciate these communities while they're in existence and to fully grasp what it means to inhabit them with a particular group of fellow human beings. [2]
+
+I'm reminded of traditions I experienced as a younger person, never dreaming that they would come to an end and those communities would become lost worlds as well: Vacations at the beach with my parents and brothers, holiday dinners at my grandparents, summer camp in the mountains with friends, track practice with teammates after high school, classmates in college who turned in our papers and then convened over pitchers of beer, familiar faces at the raucous dinner parties that Amy and I hosted in our first apartment. I wouldn't have wanted that boy, that young man, to be concerned with thoughts of mortality. What purpose could it have served? But as a "young old person" I value going through life eyes open, fully aware of all the endings yet to come.
+
+Amy and I have had a favorite restaurant for years--we loved the people, the food, the whole feeling of the place. We went so often we even found a favorite table, and the host was gracious enough to reserve it for us. A few months ago we learned that it was closing--a sad experience we've lived through before. [3] But this time we had enough advance notice that we could make a number of reservations, visiting three times in the final weeks. And our awareness that this tradition was ending, that this too would become a lost world, allowed us to soak up the moment, fully appreciating that it was ending.
+
+So today is our last full day here, and although I expect to return in the future, this particular trip will become yet another lost world. And knowing it's ending will only heighten my appreciation for the traditions we've established in this little community we've built: the short hike to the beach and the steep climb back, ping pong matches in which no one keeps score, a call with a client while deer creep from the trees, one final sunset.
+
+ 
+
+Thanks to Joe Dunn.
+
+Footnotes
+
+[1] The Denial of Death, page 16 (Ernest Becker, 1973)
+
+[2] Lost Worlds
+
+[3] Carpe Diem (RIP, Moss Room)
+
+
+===== END ED BOT ESSAY 4009 =====
+===== BEGIN ED BOT ESSAY 4010 =====
+---
+title: Cautionary Tales (Authenticity at Work)
+url: https://edbatista.com/2019/06/cautionary-tales-authenticity-at-work.html
+slug: cautionary-tales-authenticity-at-work
+published: 2019-06-26T07:45:15
+updated: 2025-09-24T11:58:09
+source_body: wordpress-html
+---
+
+Photo by Alan Levine
+
+A Cautionary Tale
+
+I've learned much from Jeff Pfeffer's essential work on power [1], and in his book Leadership BS he tells a story about one of his former Stanford MBA students:
+
+A woman...has been promoted to head her own marketing analytics team... A peer has gone to their mutual boss and suggested that her unit be moved under him--a smart way for him to not only expand his domain but also get more talent working in his unit so the unit’s performance will appear better in the future.
+
+"What was your response to all of this?" I ask. Her reply: to use her learning and ideas from a leadership course on interpersonal dynamics, colloquially referred to as "touchy-feely," to attempt to repair the relationship with her peer. "Why did you do that?" I inquire. "Because," she responds, "I have been taught to build relationships of authenticity and trust at work." When I ask how her efforts went, she comments that of course they didn’t work at all, because her peer was not interested in "repairing a relationship" or behaving with trust and authenticity; he was interested in taking over her team for his own advantage--a not uncommon situation.
+
+When she went to her boss and later to the head of HR...their response was to do nothing except to sensibly remind her that she needed to become able to effectively look after herself. Today that woman works for another organization in a different part of the country. [2]
+
+When I taught Interpersonal Dynamics at Stanford--the course commonly referred to as "Touchy Feely"--one of the assigned readings on my syllabus was an excerpt from Leadership BS that included this story, and I emphasized its importance by reading this passage aloud at the beginning of my class on "Self-Disclosure and Authenticity." [3] After recounting this anecdote to my students, I told them that if they allowed something like this to happen in their careers because of what they learned in my class, then I would have failed them as a teacher, because they would have missed the point I was trying to make.
+
+A simplistic caricature of Touchy Feely, reflected in its affectionate nickname, is that it supposedly teaches students to be trusting, open and candid--i.e., "authentic"--under all circumstances, and this approach is perceived to be at odds with the supposed ethos of Pfeffer's Paths to Power course, which itself can be caricatured as promoting a distrustful, ruthless, mercenary approach to achieving professional success. Neither caricature accurately reflects these different but complementary courses, and the danger posed by such caricatures isn't confined to classrooms at Stanford, as demonstrated by the experience of Pfeffer's former student.
+
+I believe firmly in the value of authenticity at work, and at the same time I'm under no illusions about the risks that exist when people fail to understand precisely what it means and how it should be employed in their professional lives.
+
+What Is Authenticity?
+
+As I've written before, the topic of authenticity often comes up in my coaching practice with leaders, who can struggle to "be authentic," given the many competing (and even conflicting) demands they face. [4] One key to resolving this challenge is to understand the nature of the "authentic self"--the topic of my earlier piece--and another lies in clarifying just what we mean by "authenticity." Wharton professor Adam Grant has offered one such definition:
+
+We are in the Age of Authenticity, where "be yourself" is the defining advice in life, love and career. Authenticity means erasing the gap between what you firmly believe inside and what you reveal to the outside world. As Brené Brown, a research professor at the University of Houston, defines it, authenticity is "the choice to let our true selves be seen..."
+
+But for most people, "Be yourself" is actually terrible advice. If I can be authentic for a moment: Nobody wants to see your true self. We all have thoughts and feelings that we believe are fundamental to our lives, but that are better left unspoken. [5]
+
+Grant goes on to make a connection between authenticity and the concept of "self-monitoring," which refers to our ability to modify our interpersonal behavior and to sense the expressive behaviors of others. In the 1980s psychologists Richard Lennox and Raymond Wolfe designed a still widely-used instrument to determine whether people are "high" or "low" self-monitors. [6] High self-monitors readily pick up on social cues from others and adjust their behavior in response, while low self-monitors are either less attuned to such cues or less interested in conforming to others' expectations (or both). Grant continues, linking to relevant research to bolster his points:
+
+Low self-monitors criticize high self-monitors as chameleons and phonies. They’re right that there’s a time and place for authenticity. Some preliminary research suggests that low self-monitors tend to have happier marriages and lower odds of divorce. With your romantic partner, being authentic might lead to a more genuine connection...
+
+But in the rest of our lives, we pay a price for being too authentic. High self-monitors advance faster and earn higher status, in part because they’re more concerned about their reputations. And while that would seem to reward self-promoting frauds, these high self-monitors spend more time finding out what others need and helping them. In a comprehensive analysis of 136 studies of more than 23,000 employees, high self-monitors received significantly higher evaluations and were more likely to be promoted into leadership positions. [7]
+
+Further cautionary tales. Apparently when we're "authentic" we put our professional prospects at risk--that is, if our definition of authenticity entails a lack of self-monitoring. But Grant's piece led to a direct response from Brown, who took issue with his characterization of her position:
+
+I question...the reductionist nature of Grant’s conclusions on authenticity and the misrepresentation of my work...
+
+The definition of authenticity that I use in my work (The Gifts of Imperfection and Daring Greatly) is long and nuanced. Grant pulled nine words out of context. Why? Because using the central part of my definition of authenticity would have bankrupted his entire argument that authenticity is the mindless spewing of whatever you’re thinking regardless of how your words affect other people.
+
+In my research I found that the core of authenticity is the courage to be imperfect, vulnerable, and to set boundaries.
+
+For all of us who try to put this definition into practice on a daily basis, I would argue that authenticity requires almost constant vigilance and awareness about the connections between our thoughts, emotions, and behaviors. It also means staying mindful about our intentions. Real authenticity actually requires major self-monitoring and isn’t, as Grant proposes, the lack of self-monitoring. In fact, setting boundaries is, by definition, self-monitoring--it’s thinking about what you’re sharing, why you’re sharing it, and with whom you should be sharing it. [8, emphasis original]
+
+You Can't Trust a Predator
+
+Photo by Yin
+
+In my class on "Self-Disclosure and Authenticity" I showed the image above after reading the story about Jeff Pfeffer's unfortunate student. Some people gasped with concern until they realized that the lion was safely behind glass, and the child wasn't at risk. My point was that we can't trust predators--while there's certainly value in being more trusting, open and candid, i.e. "authentic," there are many circumstances under which we need to be cautious and thoughtful about what we disclose, and there are some people with whom we shouldn't share any information that could be used to our disadvantage. As Brown makes clear, authenticity involves setting boundaries, and sometimes this is absolutely necessary to keep ourselves safe.
+
+Brown's response seems to have prompted Grant to reconsider, and in a follow-up post he qualified his initial comments, with additional links to relevant research:
+
+I'm not a fan of being inauthentic. Authenticity is a virtue. But just as you can have too little authenticity, you can also have too much... Virtues have a Goldilocks flavor: they can be too hot or too cold. The goal is to develop just the right amount of each one. That’s true for authenticity. Have too little, and you’ll be seen as a faker, a liar, or a jerk. It’s bad for your career—not to mention your chances of achieving morality or even decency. The big question is: what are the costs of being too authentic? So far, social scientists have pointed to at least three possibilities.
+
+(1) Failing to grow. INSEAD professor Herminia Ibarra finds that if you’re deeply concerned with being true to yourself, you’re at risk for sticking rigidly to that self instead of evolving and changing.
+
+(2) Over-sharing. In her inspiring book Daring Greatly, Brené Brown has written thoughtfully about how vulnerability is not the same as oversharing. But evidence suggests that oversharing is more likely when authenticity is important to you. In two studies, psychologist Gwendolyn Seidman found that people who are motivated to express their true selves post more personally revealing and emotional content on Facebook. Other researchers have suggested that people who want to be seen authentically are more likely to share information that jeopardizes their professional relationships. Aiming to be highly authentic leads us to filter less.
+
+(3) Feeling inferior. Studies in companies and controlled experiments show that people are less creative and less helpful when they work for highly authentic leaders who have a strong sense of their values. I’ve watched this happen with highly authentic Fortune 500 CEOs and military generals: their junior colleagues don’t feel courageous or vulnerable enough. They stay silent, even though that’s the exact opposite of what authentic leadership is supposed to promote. [9]
+
+Still more cautionary tales, all worthy of our attention (and I've previously cited Ibarra's work to highlight the importance of tolerating discomfort in order to grow.) [10] But Grant's emphasis on the risks of individual self-expression reminds me of Rob Goffee and Gareth Jones' perspective:
+
+No leader can look into a mirror and say, "I am authentic." A person cannot be authentic on his or her own. Authenticity is largely defined by what other people see in you. [11]
+
+What Brown, Goffee and Jones highlight is that authenticity isn't an individual characteristic; it's an interpersonal experience that occurs in the context of a relationship. We are not--we cannot be--authentic in a vacuum or at a remove from others. To "be authentic" in isolation is meaningless. To "be yourself" without taking the context into account isn't authenticity--it's narcissism. While authenticity certainly entails some degree of self-disclosure, and while we may choose "to let our true selves be seen" in some way, for these actions to have value we must do so in a way that's mindful of the impact on others (and ourselves.)
+
+So what does this entail? What allows us to be authentic at work while mitigating the risks? The key is raising our self-awareness. As Bill George and his co-authors have written, "First and most important, [authentic leaders]...see themselves not as passive observers of their lives but rather as individuals who can develop self-awareness from their experiences." [12] Such self-awareness isn't an accidental by-product of experience, but the result of deliberate efforts to test hypotheses and assess the outcomes. As Brown notes above, "real authenticity actually requires major self-monitoring," and this can derive from a number of sources:
+
+- Journaling about our experiences helps us process our memories and identify mental models more effectively (and this need not be time-consuming--just 30 seconds is sufficient.)
+
+- Building relationships with colleagues who can observe us at work, offer candid feedback, and serve as self-coaching partners.
+
+- Paying attention to the warning signs that are encouraging us to slow down and proceed more deliberately.
+
+- Observing the norms of the surrounding organizational culture, particularly when we're in a new role, and conforming just enough.
+
+- And while I obviously have a vested interest, I highly recommend working with a coach. (I've worked with mine for the better part of the past 20 years.)
+
+ 
+
+This is a companion piece to Leadership and Authenticity.
+
+Thank you to Adam Grant, Brené Brown and Jeff Pfeffer.
+
+Footnotes
+
+[1] Power: Why Some People Have It and Others Don't (Jeff Pfeffer, 2010)
+
+[2] Leadership BS: Fixing Workplaces and Careers One Truth at a Time, pages 42-43 (Jeff Pfeffer, 2015)
+
+[3] Interpersonal Dynamics, Class 3: Self-Disclosure and Authenticity
+
+[4] Leadership and Authenticity
+
+[5] Unless You're Oprah, "Be Yourself" Is Terrible Advice (Adam Grant, The New York Times, June 4, 2016)
+
+[6] Revision of the Self-Monitoring Scale (Richard Lennox and Raymond Wolfe, Journal of Personality and Social Psychology, 1984, and discussed further in Self-Monitoring and Self-Monitoring and Authenticity)
+
+[7] Unless You're Oprah, "Be Yourself" Is Terrible Advice (Adam Grant, The New York Times, June 4, 2016)
+
+[8] My response to Adam Grant’s New York Times Op/Ed (Brené Brown, LinkedIn, June 5, 2016)
+
+[9] The Dangers of Being Authentic (Adam Grant, LinkedIn, June 5, 2016)
+
+[10] Leadership and Authenticity
+
+[11] Managing Authenticity (Rob Goffee and Gareth Jones, Harvard Business Review, 2005)
+
+[12] Discovering Your Authentic Leadership (Bill George, Peter Sims, Andrew McLean and Diana Mayer, Harvard Business Review, 2007)
+
+For Further Reading
+
+The Value of Journal Writing
+
+Corn Mazes and Mental Models
+
+The 30 second habit with a lifelong impact (Robyn Scott, The Startup, 2014)
+
+Self-Coaching Is SOCIAL
+
+The Importance of Yellow Lights
+
+The Importance of Slowing Down
+
+Conform to the Culture Just Enough
+
+How to Find (and Choose) a Coach
+
+
+===== END ED BOT ESSAY 4010 =====

@@ -1,0 +1,116 @@
+===== BEGIN ED BOT ESSAY 3209 =====
+---
+title: Opening the Kimono
+url: https://edbatista.com/2005/05/opening_the_kim.html
+slug: opening_the_kim
+published: 2005-05-19T12:54:50
+updated: 2005-05-19T12:54:50
+source_body: wordpress-html
+---
+
+A former colleague of mine loved to use the phrase "opening the kimono" as a vivid metaphor for organizational openness and transparency, sharing internal processes with the outside world.  Michael Gilbert's kimono is flapping in the breeze as he shares the well-documented workflow that makes his prolific online publishing possible.
+
+As always, he has interesting thing to say about the software he uses, but the real value for me was in these complex but elegant flow charts describing his content preparation and content distribution processes.
+
+I've worked closely with Michael in years past, and let's just say the man rarely lacks confidence in his abilities.  But like some old ballplayer said, "It ain't braggin' if you can do it."
+
+UPDATE: Inspired by Michael Gilbert's flow charts, Beth Kanter maps out her own workflow for a blog she maintains.  Because web-publishing and content management tools are getting more user-friendly all the time, this increased focus on workflow seems right on.  Those of us helping nonprofits and other organizations deploy these tools need to pay as much attention to their workflow as we do to application training.
+
+
+===== END ED BOT ESSAY 3209 =====
+===== BEGIN ED BOT ESSAY 3210 =====
+---
+title: Net Promoters
+url: https://edbatista.com/2005/05/net_promoters.html
+slug: net_promoters
+published: 2005-05-19T06:02:07
+updated: 2005-05-19T06:02:07
+source_body: wordpress-html
+---
+
+Mark Hurst posted yesterday on Fred Reichheld's concept of Net Promoters, which can be defined as the number of customers/donors/users who are willing to promote your organization to their friends and colleagues compared to the number of people who aren't--or who may even slag you off.
+
+When Reichheld, a former Bain bigwig, first started, er, promoting this concept about a year ago, it was seen as something of a departure from his previous work on customer loyalty.  Britton Manasco had a nice synopsis on Corante a while back that quoted Reichheld:
+
+"[Customer] retention rates have not progressed over the last decade. Where the rubber meets the road, customers are not demonstrating loyalty.... No one defined what loyalty was. There was no measurement, no link to profitability or growth. There was a lack of definition. What is loyalty? If what you mean is putting up with lousy value or service, do you want stupid customers?"...While [Reichheld] still believes companies should measure customer profitablity, he thinks they should also be identifying the "promoters" and "detractors" among their customers. Obviously, the objective is to increase the number of promoters..."The median ‘net promoter score’ is just above 10%," says Reichheld in Direct Magazine. "Most companies have 10% more promoters than detractors. But the best companies have 80% more. The net of promoters minus detractors doesn't show up in profit and loss statements, but detractors destroy your future and make your employees feel lousy.
+
+Mark considers the implications of this concept for your marketing efforts:
+
+Good experience sells itself. Note that "net promoter" says nothing - absolutely nothing - about how well your service is marketed via TV ads, promotional giveaways, or other traditional channels. It's the customers themselves who do the selling - and only then based on the actual experience they had. The best TV ad in history, plus a bad customer experience, equals a bad referral and a poor "net promoter" metric.
+
+This is not to recommend pulling all advertising budgets, and it's not predicting the end of advertising. Those traditional channels will be with us for the long-term; it's the budget for customer experience that I think should, and inevitably will, see a change for the better.
+
+I think this is an important step in the evolution of the by-now-cliched concept of viral marketing.  "Viral" just described how the process worked--people carried your message to their friends and colleague.  But thinking about your promoters makes you consider who is doing this and why they're doing it. Mark's absolutely right to focus on the quality of customer experience as the fundamental driver of this process.  (His site isn't called Good Experience for nothing.)
+
+In my world, nonprofits far too often view the quality of customer/donor/client/user experience as a secondary issue--something that would be nice to have, but not something they're willing to invest resources in (or even think seriously about.)  This is reflected in the shoddy, make-do quality of so many nonprofit events, publications and websites.  And it's not just a function of tight budgets--we've all seen massive companies waste gobs of money on websites and other services that provide terrible user experiences, and I've certainly seen lean, thoughtful, grassroots organizations deliver outstanding user experiences on miniscule budgets.
+
+Money helps, but its presence doesn't insure success, and its absence doesn't insure failure.  And as per Mark's comments, intelligent investments in user experience may be the best way to get around an inadequate marketing budget.  There's nothing prohibiting cash-constrained nonprofits from becoming positive net promoter organizations, but the first step toward that +80% level Reichheld cites is simply recognizing that user experience matters.  You should always be looking at your organization from the perspective of your donors, volunteers, advocates, and other "customers."  What can you do that would make them feel respected, listened to, satisfied, even thrilled?
+
+This ain't rocket science, but it's striking to see how many organizations still don't get it, and continue to look at the world from the inside out, from their perspective, rather than trying to look at their organization from the outside in, from their users' perspectives.  But that may be a luxury they can't afford any longer.
+
+
+===== END ED BOT ESSAY 3210 =====
+===== BEGIN ED BOT ESSAY 3211 =====
+---
+title: What if Goliath Kicked David's Ass?
+url: https://edbatista.com/2005/05/what_if_goliath.html
+slug: what_if_goliath
+published: 2005-05-16T17:53:13
+updated: 2005-05-16T17:53:13
+source_body: wordpress-html
+---
+
+David's victory over Goliath was a triumph of speed and agility over brute strength, and small organizations everywhere have depended on being able to beat their bigger, better-funded competitors to the punch.  But what if Goliath had been strong and fast?  Grant McCracken (who's been on fire lately) thinks we'll be seeing a lot more speedy innovation from the Goliaths of consumer goods packaging, and that leaves us both wondering how that'll affect marketing in general:
+
+What happens to the competitive landscape when this is so? Big brands will stream better than small ones. We may think of them as big pipes, capable of carrying a vast amount and diversity of brand meanings. Little brands, new to the world, will “stream” at their peril. They will need constancy to stake their claim to a place in the marketplace.
+
+Clearly, this reverses the traditional relationship. Now big brands will be the changeable ones. Little brands will be boring, stodgy, and a little predictable. They will be forced to give away the very dynamism on which new entries traditionally depend. Hmm. How then will little brands manage to come up? What will the advantage of littleness be?
+
+If little brands lose the ability to appeal to new markets and steal share from big brands on the basis of innovation, they're going to have to stop playing offense and start playing defense.  They're going to have to focus on the customers/donors/users they currently have, get to know them in excruciating detail, and meet their every need with a relentless focus on customer/donor/user satisfaction.  As big brands up the innovation ante, acquisition costs for new customers/donors/users will rise, and retention will be everything.
+
+(This echoes a point Joseph DePalma made the other week on his Marketing Blog, and I think it's just as true for small nonprofits as it is for small companies.  Full disclosure: Joseph was nice enough to send a good bit of traffic my way recently, but no blogrolling here.  No ethics were harmed in the creation of this post.)
+
+
+===== END ED BOT ESSAY 3211 =====
+===== BEGIN ED BOT ESSAY 3212 =====
+---
+title: Power to the Donor
+url: https://edbatista.com/2005/05/power_to_the_do.html
+slug: power_to_the_do
+published: 2005-05-14T00:40:00
+updated: 2005-05-14T00:40:00
+source_body: wordpress-html
+---
+
+Fundable is an piece of a larger puzzle that's starting to come together.  In their own words:
+
+Fundable is a new service that lets groups of people pool money to raise funds or make purchases.  Here's how it works:
+
+- 100 people want to go in on a purchase.  One of them creates a Fundable group action.
+
+- Each person joins the group action by paying $10 through PayPal [or a credit card], making a total of $1,000.
+
+- This $1,000 gets "turned on" only if everyone contributes $10 within two weeks.  Otherwise, Fundable refunds all money.
+
+- The person who organized the group action makes sure that everyone receives what he or she paid for.
+
+Distributed fundraising!  Why would this catch on?  I can think of three reasons:
+
+- People want to give, but they don't want to be on your email list, because they're not going to read your boring newsletter, and they don't trust you to keep their address out of the wrong hands.  Don't call them; they'll call you.
+
+- People want their gift to be more than a drop in the bucket.  When they give as a group, everyone's a major donor, and they know they're having a major impact.
+
+- People are more and more comfortable with anonymous aggregation of resources (legal and otherwise).  First Napster, now Grokster, Flickr, and the like.
+
+There are still a few missing pieces that people will need to bring to the table themselves--communications tools so "group leaders" can tell their friends, content management tools to make a "group action" page more informative and compelling--but these are trivial tasks for the early adopters who are likely to be "group leaders."
+
+And if this does catch on, how would it affect online fundraising?  I think at least some answers can be found in the ongoing discussion about blogs/websites that's kept me and a few other folks occupied this past week.  If power continues to shift to the donors (and it's happening in every other market; why wouldn't it happen here as well?), then the established model of keeping donors metaphorically captive in your house list and prodding them into action using email newsletters and alerts is going to become less effective over time.
+
+You're going to have to pull them to your site with frequently updated, compelling content (i.e. authentic, interactive conversations), you're going to have to talk to them and answer their questions, and you're going to have to do it all in a highly visible, discoverable way.  In short: your site better look like a blog.
+
+(Yeah, that's right: I said "blog," when just the other day I declared the term "obsolete."  Eh, so sometimes it's useful.  Write me a letter and I'll refund your subscription.)
+
+Hat tip to Lifehacker.
+
+
+===== END ED BOT ESSAY 3212 =====

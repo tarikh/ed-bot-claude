@@ -1,0 +1,370 @@
+===== BEGIN ED BOT ESSAY 4103 =====
+---
+title: When Executives Clash
+url: https://edbatista.com/2021/05/when-executives-clash.html
+slug: when-executives-clash
+published: 2021-05-19T16:18:27
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+A situation that often comes up in my coaching practice is the CEO with two executives who are at odds with each other. Entrepreneur and investor Ben Horowitz offers some advice to leaders facing this challenge that I've found extremely useful [1]:
+
+Once your organization grows to a certain size, members of your team will from time to time complain about each other. Sometimes this criticism will be extremely aggressive. Be careful about how you listen and the message that it sends. Simply by hearing them out without defending the employee in question, you will send the message that you agree. If people in the company think that you agree that one of your executives is less than stellar, than information will spread quickly and without qualification. As a result, people will stop listening to the executive in question and the executive will soon become ineffective.
+
+There are two distinct types of complaints that you will receive:
+
+- Complaints about an executive's behavior.
+
+- Complaints about an executive's competency or performance.
+
+Generally, the best way to handle the first type of complaint is to get the complaining executive and the targeted executive in the room together and have them explain themselves. Usually, simply having this meeting will resolve the conflict and correct the behavior and improve the relationship (if it was actually broken.) Do not attempt to address behavioral issues without both executives in the room. Doing so will invite manipulation and politics.
+
+Complaints of the second type are both more rare and more complex. If one of your executives summons the courage to complain about the competency of one of their peers, then there is a good chance that either the complainer or the targeted executive has a major problem. If you receive this type of complaint, you will generally have one of two reactions: they will be telling you something that you already know, or they'll be telling you shocking news.
+
+If there are telling you something that you already know, then the big news is that you have let the situation go too far. Whatever your reasons for attempting to rehabilitate the wayward executive, you have taken too long, and now your organization has turned on them. You must resolve the situation quickly. Almost always, this means firing the [targeted] executive. While I've seen executives improve their performance and skill sets, I've never seen one lose the support of the organization and then regain it.
+
+On the other hand, if the complaint is new news, then you must immediately stop the conversation and make clear to the complaining executive that you in no way agree with their assessment. You do not want to cripple the other executive before you reevaluate his performance. You do not want the complaint to become a self-fulfilling prophecy. Once you've shut down the conversation, you must quickly reassess the employee in question. If you find he is doing an excellent job, you must figure out the complaining executive's motivations and resolve them. Do not let an accusation of this magnitude fester. If you find that the employee is doing a poor job, there will be time to go back and get the complaining employee's input, but you should be on a track to remove the poor performer at that point. [1]
+
+So if you're a leader in this position, and you find Horowitz's advice as compelling as I do, now what? How might you put any of this into practice?
+
+Addressing Behavior
+
+- Facilitate a conversation to improve the working relationship.
+
+- Identify potential work style differences.
+
+- Offer guidance on how to deliver critical feedback.
+
+- Clarify the distinction between intent and impact.
+
+- Note the importance of vulnerability in resolving conflict.
+
+Addressing Competence and Performance
+
+- Don't wait.
+
+- Consider the impact of role clarity.
+
+- Consider the impact of organizational structure.
+
+- If necessary, be prepared to level them.
+
+- Further, be prepared to fire them, while considering what you owe them and what you don't.
+
+ 
+
+Footnote
+
+[1] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, pages 152-154 (Ben Horowitz, 2014)
+
+ 
+
+Photo by Sharon Mollerus.
+
+
+===== END ED BOT ESSAY 4103 =====
+===== BEGIN ED BOT ESSAY 4104 =====
+---
+title: How to Use a Knife (On Being Fierce)
+url: https://edbatista.com/2021/05/how-to-use-a-knife-on-being-fierce.html
+slug: how-to-use-a-knife-on-being-fierce
+published: 2021-05-18T16:48:29
+updated: 2025-10-06T12:35:48
+source_body: wordpress-html
+---
+
+You're like a dull knife, just ain't cutting.
+
+You're just talking loud, and saying nothing.
+
+~James Brown [1]
+
+Developer and entrepreneur Paul Graham recently posted an essay entitled "Fierce Nerds":
+
+The fierce nerds are a small but interesting group. They are as a rule extremely competitive — more competitive, I'd say, than highly competitive non-nerds... Fierce nerds also tend to be somewhat overconfident, especially when young... Another quality you find in most fierce nerds is intelligence. Not all nerds are smart, but the fierce ones are always at least moderately so. If they weren't, they wouldn't have the confidence to be fierce. [2]
+
+Most of my clients are founder/CEOs with a technical background. I don't know that they would identify as "fierce nerds," but they're certainly very competitive, confident, and intelligent, so I'm familiar with the type and experienced in working with them. Having described this type, Graham then offers readers who do identify as fierce nerds some advice:
+
+I have some good news, and some bad news. The good news is that your fierceness will be a great help in solving difficult problems... The bad news is that if it's not exercised, your fierceness will turn to bitterness, and you will become an intellectual playground bully... How do you avoid this fate? Work on ambitious projects...
+
+Another solution may be to somehow turn off your fierceness, by devoting yourself to meditation or psychotherapy or something like that. Maybe that's the right answer for some people. I have no idea. But it doesn't seem the optimal solution to me. If you're given a sharp knife, it seems to me better to use it than to blunt its edge to avoid cutting yourself. [3, my emphasis]
+
+While coaching isn't therapy [4], there are certainly parallels, and many of Graham's readers might include coaching in the "something like that" category. I can't speak for therapists, but the purpose of coaching isn't to blunt the sharp knife, but to learn to how to use it. Whether my clients identify as "fierce nerds" or not, we're often working on the impact of their fierceness, and our goal is never to "turn it off," but to ensure that it's deployed with intention to desired effect. What does this look like in practice?
+
+Cultivate the Capacity for Emotion Regulation
+
+Emotions matter, in countless ways. They alert us to potential opportunities and threats. They're essential inputs into the process of logical reasoning. They allow us to rapidly process vast amounts of data from multiple sources in parallel, without having to rely on the vastly slower process of conscious deliberation. And they enrich the human experience immeasurably: What would it be like to live without joy--or without grief?...
+
+[But] a simplistic interpretation of the idea that "emotions matter" is "My feelings are justified, because they are my feelings. My feelings at this moment take precedence over all other considerations. I have the right to express my feelings any way I see fit. And if I believe that you are causing my feelings, you are obligated to modify your behavior in order to align with my desired emotional state." [5]
+
+Understand the Difference Between Force and Power
+
+I'm not saying that forceful, expressive behavior is always unhelpful. As I've noted before, some research suggests that people with angry facial expressions are perceived as "threatening, competent, powerful, and dominant," and another study indicates that angry people may perform better in confrontational tasks. But this research applies specifically to overtly and explicitly hostile situations--in other words, anger is useful when we're in a fight.
+
+And in my experience very, very few scenarios in organizational life can truly be classified as "fights." Plenty of professional confrontations feel like fights--but they're not really fights. Far more common are what I call "power struggles among nice people," and executives who show up in such contests acting like they're in a fight almost always lose. They misread the situation and make a host of tactical errors because force isn't power--and when we confuse the two we can actually give away power and put ourselves at a disadvantage. [6]
+
+Wield Authority Gracefully
+
+We can view an employee with "authority issues" not as an angry person, but an anxious one. They're unsure of their own ability to create order and safety, and uncomfortable with the power required to do so. They're in awe of the leader who can create order and safety by wielding power effectively, desperate to do so on their own, and fearful that they will fail. They are profoundly stuck, and when they cannot exert agency by moving forward, they will do so by remaining firmly in place...
+
+An empathetic response to resentment and resistance entails viewing such behavior as an attempt by the employee, however misguided, to achieve a more comfortable relationship with power--not only that of the leader, but also their own. This doesn't mean that the leader is precluded from providing critical feedback, but this will always be more effective when delivered from an empathetic stance (which includes asking, "In what ways am I part of the problem?") [7]
+
+A book that helped inspire my decision to launch my coaching practice in 2006 was Susan Scott's Fierce Conversations, and she characterizes such interactions as follows:
+
+Focus on results. Deep-seated accountability.
+
+Naming and addressing the issues truthfully and effectively.
+
+The timely resolution of periodic leadership challenges.
+
+Effectively confronting attitudinal, performance or behavioral issues. [8]
+
+A dull instrument won't achieve these outcomes. A substantial degree of fierceness is necessary to even be willing to have such a conversation. But a sharp knife in untrained hands is a clumsy weapon, as dangerous to the person holding it as it is to someone on the receiving end. In the hands of someone who's been willing to do the work, however, such a blade becomes a scalpel, whose sharpness makes it all the more effective.
+
+Graham seems to be suggesting that the fierce can either A) blunt themselves to avoid harm or B) act without forethought or inhibition and view any consequences as the cost of being fierce. If that's an accurate characterization of his position, this strikes me as a false dichotomy. I'm firmly committed to the idea that we can remain passionately fierce and reap all the benefits articulated by Scott above while also taking care to avoid unnecessary harm to ourselves and to others.
+
+Footnotes
+
+[1] Talking Loud and Saying Nothing (James Brown, 1972)
+
+[2] Fierce Nerds (Paul Graham, 2021)
+
+- To be clear, I've also found Graham's work quite moving.
+
+[3] Ibid.
+
+[4] Therapy Referrals
+
+[5] Excerpted from The Tyranny of Feelings
+
+[6] Excerpted from Force Isn't Power
+
+[7] Excerpted from Authority and Control in Organizational Life
+
+[8] Fierce Conversations: Achieving Success at Work & in Life, One Conversation at a Time, pages xx-xxi (Susan Scott, 1999 edition, revised 2004)
+
+Photo by Chef Matt Rock.
+
+
+===== END ED BOT ESSAY 4104 =====
+===== BEGIN ED BOT ESSAY 4105 =====
+---
+title: Authority and Control in Organizational Life
+url: https://edbatista.com/2021/05/authority-and-control-in-organizational-life.html
+slug: authority-and-control-in-organizational-life
+published: 2021-05-09T14:49:45
+updated: 2026-07-06T11:51:32
+source_body: wordpress-html
+---
+
+Do they have authority issues, or do we have control issues?
+
+~Collins Dobbs [1]
+
+Most of my clients are CEOs of growing companies, and most of the rest are executives in similar organizations, and a recurring theme in my practice is a conflict between a leader and one of their employees. The potential causes of such conflicts are endless, ranging from differences in communication and working styles [2] to disagreements over decision rights [3], but in many cases there's also a clash between one person's relationship with authority and the other's need for control. Each person's perspective is contingent on their role: The leader who's frustrated by the employee's resistance may characterize them as having "authority issues," while the employee who's frustrated by the leader's micro-management may characterize them as having "control issues." But such shorthand obscures more than it explains. What do these characterizations really mean?
+
+Our Relationship with Authority
+
+A useful starting point here is the concept of transference. Coined by Freud (Übertragung) to describe patients' feelings of attachment and fascination toward their therapists, transference can occur in all domains of life and in all relationships with authority figures. The anthropologist and philosopher Ernest Becker, drawing upon Freud's work, described transference as "a taming of terror," a process that we first undergo in childhood but which we reenact repeatedly as adults. [4] As I've written before,
+
+As young children we emerge from infancy and experience the world as a chaotic and terrifying place. Parents and caregivers appear to us as awe-inspiring figures with the power to tame chaos and create order and safety, and while our relationship with authority may evolve considerably on our journey to adulthood, we often "transfer" our attachment to other powerful figures who promise to relieve our anxieties. [5]
+
+An employee need not view a leader as a parental figure to rely upon them to "tame chaos and create order and safety," particularly in early-stage ventures that face existential threats on all sides. And yet reliance on a leader for this purpose can readily cause feelings of ambivalence, as Becker noted: "The transference object becomes the focus of the problem of one's freedom because one is compulsively dependent on it." [6] In most cases such feelings are manageable, resulting in little more than occasional friction, but in some cases an employee experiences persistent resentment and reflexive resistance, i.e. "authority issues."
+
+The cross-cultural scholar Angeles Arrien offers a compelling explanation for the underlying processes in such situations. In The Four-Fold Way: Walking the Paths of the Warrior, Teacher, Healer and Visionary, Arrien explores these universal archetypes, and she suggests that our interpersonal problems often stem from our inability to fully inhabit a given archetype when necessary:
+
+When we have an authority issue with someone, we have not fully owned the Warrior archetype, and we are projecting our authority onto someone else rather than claiming it. People with authority issues are drawn to effective leaders, and have a tendency either to over-idealize them or to compete with them. Behind every individual who has an authority issue is the unwillingness to claim personal responsibility, and often an unconscious desire to have someone else be responsible. [7]
+
+This is consistent with Becker's interpretation: "In the transference we see the grown person as a child at heart, a child who distorts the world to relieve his helplessness and fears, who sees things as he wishes them to be for his own safety." [8] From this perspective we can view an employee with "authority issues" not as an angry person, but an anxious one. They're unsure of their own ability to create order and safety, and uncomfortable with the power required to do so. They're in awe of the leader who can create order and safety by wielding power effectively, desperate to do so on their own, and fearful that they will fail. They are profoundly stuck, and when they cannot exert agency by moving forward, they will do so by remaining firmly in place.
+
+Our Need for Control
+
+What's happening on the other side of this relationship? What's going on with the leader? Pioneering psychotherapist Alfred Adler theorized that a "will to conquer" the cosmos is the fundamental human motivation [9], and work by psychologists over the past century indicates that a desire to exert influence and determine outcomes is widespread and pervasive. [10] Recent research by a team from Columbia and Rutgers suggests that this need for control is inherently biological, not merely a socialized preference. [11]
+
+But individuals clearly differ with regard to their desire to be influential and act autonomously, a concept termed the "desirability of control" by psychologist Jerry Burger in the 1970s. [12] Subsequent work by Burger showed that differences in the need for control have a significant impact on behavior and attitudes, and that people who score high on this scale are more likely to become leaders:
+
+People with high desire for control were found to have a higher aspiration level, to respond to challenges with increased effort, to persist longer at difficult tasks, and to make attributions for task outcomes that facilitate future striving for achievement. [13]
+
+The need for control is related to another concept in psychology known as "explanatory style": the habitual way we explain the world around us in order to make sense of our circumstances. [14] A key element in our explanatory style is our "locus of control," which is either internal or external. People with an internal locus of control have a heightened sense of personal agency and efficacy, believing that events are responsive to their active influence. People with an external locus of control have a diminished sense of agency and believe that events are the result of luck, fate or other impersonal forces.
+
+Some research suggests that leaders are more likely to have an internal locus of control [15] and that this orientation leads them to seek to exert greater influence over subordinates, although primarily through persuasion rather than directive authority. [16] And so we find that a high need for control and a strong sense of personal agency often motivate people to seek out and obtain leadership positions.
+
+This may seem self-evident , but bearing it in mind can help us get a new perspective on a leader's "micro-management," because the very qualities that propel someone into leadership can become counter-productive as the context around them evolves. As I've written before, "a consistent theme in my practice is the importance--and the difficulty--of transitioning from a hands-on leader who personally gets things done to someone who leads in a different way in order to be more effective as the organization scales... [The] leader who continues to lead by doing more often becomes less effective and may even undermine the organization as it grows larger and more complex." [17]
+
+There's a direct parallel here: We can view the leader with "control issues" not as a domineering person, but, again, as an anxious one. The high need for control and strong sense of personal agency that have contributed to their past success must be translated into new and unfamiliar behaviors to fit the evolving context. They must not only delegate more work, they must also delegate more important work to more experienced employees and allow them to work more autonomously. And at a certain stage in an organization's development, this entails leading leaders, who likely have a high need for control themselves.
+
+What We Can Do About It
+
+So when we find ourselves in a conflict involving "authority issues" or "control issues," what can we do? The key is cultivating the capacity for empathy, a term that's often misunderstood. Theresa Wiseman, a medical professor and researcher at the University of Southampton, has explored the concept of empathy because of its importance for nursing and medical care, and she's identified four defining attributes:
+
+1. The ability to see the world as another person sees it.
+
+2. The ability to understand another person’s feelings.
+
+3. The ability to suspend judgment.
+
+4. The ability to communicate this understanding, which is essential "if empathy is to be felt." [18]
+
+Note that empathy is not equivalent to sympathy, as Wiseman explains: "Sympathy involves 'feeling sorry' for the other person or imagining how we would feel if we were experiencing what is happening to them. Empathy differs in that we try to imagine what it is like being that person and experiencing things as they do, not as we would." [19] Further, empathy need not entail agreement, as I've written before:
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [20]
+
+What might this look like for a leader facing an employee's resentment and resistance? Here Angeles Arrien offers some valuable insights:
+
+Any authority issue reveals an individual who is behaving like a victim. For example, when an authority figure does not meet an individual's idealized expectations, a victim will counter with blame, judgment, and attack; or will respond with disappointment, avoidance, and withdrawal. The victim who uses blame is beginning to reclaim personal authority in a convoluted way, using leadership skills to attack or self-justify. The victim who uses withdrawal or avoidance is unsuccessfully attempting to reclaim personal authority.
+
+A person who claims personal authority is no longer a victim. As we claim our own authority, these convoluted ways of owning power are disengaged. We begin to value collaboration with colleagues and honor people who demonstrate effective leadership skills. [21]
+
+So an empathetic response to resentment and resistance entails viewing such behavior as an attempt by the employee, however misguided, to achieve a more comfortable relationship with power--not only that of the leader, but also their own. This doesn't mean that the leader is precluded from providing critical feedback, but this will always be more effective when delivered from an empathetic stance (which includes asking, "In what ways am I part of the problem?") [22]
+
+And what might this look like for an employee dealing with a leader's micro-management? Here it's essential to recognize the consequences of our habitual inability to "empathize up," as I've noted before:
+
+Our failure to empathize up makes it more likely that we experience a threat response when interacting with superiors, even in the absence of overtly hostile behavior on their part, and once a threat response is triggered it become even more difficult to empathize with them. At that point we’re deeply attached to the explanation we’ve crafted to explain their behavior, and it’s highly unlikely that we’ll be able to slow down and consider alternative explanations until the interaction is over and we’ve calmed down. [23]
+
+So an empathetic response to micro-management entails viewing such behavior not as mistrust on the part of the leader or a lack of faith in the employee's capabilities, but merely as a blind spot, a failure to recognize that the context has changed and that strategies which have succeeded in the past have now outgrown their usefulness. Here, too, the employee's ability to offer critical feedback from an empathetic stance is immensely important. ("In what ways am I part of the problem?")
+
+Throughout such exchanges, note the necessity of vulnerability. I emphasize vulnerability in my practice [24] and my teaching [25] for this precise reason: Expressions of vulnerability are the most reliable means of evoking empathy in the midst of conflict. This doesn't mean that we should make ourselves vulnerable in ways that are unsafe--as I've noted before, "there are many circumstances under which we need to be cautious and thoughtful about what we disclose, and there are some people with whom we shouldn't share any information that could be used to our disadvantage." [26]
+
+But if we never make ourselves vulnerable, we never learn how to test for safety in a given relationship, and we miss opportunities to make it safer by expanding its capacity for vulnerability. What might this look like for a leader and an employee? A starting point is simply acknowledging their anxiety--but the leader must go first. [27]
+
+Footnotes
+
+[1] My friend and colleague Collins Dobbs posed this provocative question to me many years ago.
+
+[2] Work Style Differences
+
+[3] Leadership, Decision-Making and Emotion Management
+
+[4] The Denial of Death, page 145 (Ernest Becker, 1973/1997)
+
+[5] Leadership and Transference
+
+[6] Becker, page 146
+
+[7] The Four-Fold Way: Walking the Paths of the Warrior, Teacher, Healer, and Visionary, pages 34-35 (Angeles Arrien, 1993)
+
+[8] Becker, page 129
+
+[9] "Individual Psychology" (Alfred Adler, Chapter 21 in Psychologies of 1930, edited by Carl Murchison, 1930)
+
+[10] Feeling of Control Viewed as Central in Mental Health (Daniel Goleman, The New York Times, October 7, 1986)
+
+- "Researchers are finding that the sense of being in control, and the desire for such control, are more crucial and pervasive aspects of personality than psychologists had previously realized... 'We have a deep need to feel competent, to be in control of our environment; it is one of the primary motives in behavior,' said Jerry Burger, a psychologist at the University of Santa Clara."
+
+[11] Born to Choose: The Origins and Value of the Need for Control (Lauren Leotti, Sheena Iyengar and Kevin Ochsner, Trends in Cognitive Science, October 2010)
+
+- "Belief in one’s ability to exert control over the environment and to produce desired results is essential for an individual’s well being. It has been repeatedly argued that the perception of control is not only desirable, but it is likely a psychological and biological necessity... Converging evidence from animal research, clinical studies, and neuroimaging work suggest that the need for control is a biological imperative for survival."
+
+[12] The Desirability of Control (Jerry Burger and Harris Cooper, Motivation and Emotion, 1979)
+
+- An online version of Burger and Harris's instrument has been made available by University of Texas psychologist Raj Raghunathan: Desirability of Control.
+
+[13] The Effects of Desire for Control on Attributions and Task Performance (Jerry Burger, Basic and Applied Social Psychology, 1987)
+
+- This quote from Burger's 1987 paper describes research conducted previously and discussed in detail here: Desire for Control and Achievement-Related Behaviors (Jerry Burger, Journal of Personality and Social Psychology, 1985)
+
+[14] The concept of explanatory or attributional style originated in research on depression in the 1970s by a team of psychologists including Martin Seligman, who became closely associated with the concept. For a useful overview, see What Are Attributional and Explanatory Styles in Psychology? (Elaine Houston, Positive Psychology, 2019)
+
+[15] Locus of Control, Leader Behavior and Leader Performance Among Management Students (Carl Anderson and Craig Eric Schneier, Academy of Management Journal, 1978)
+
+- Consultant and coach Steve Nguyen provides an extensive overview of management literature on leadership and locus of control.
+
+[16] The Role of Locus of Control in Leader Influence Behavior (Avis Johnson, Fred Luthans and Harry Hennessey, Personnel Psychology, 1984)
+
+[17] How to Scale: Do Less, Lead More
+
+[18] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[19] Ibid.
+
+[20] The Difficulty of Empathizing Up
+
+[21] Arrien, page 35.
+
+[22] How to Deliver Critical Feedback
+
+[23] The Difficulty of Empathizing Up
+
+[24] Brené Brown, Vulnerability, Empathy and Leadership
+
+[25] The Art of Self-Coaching, Class 6: Resilience & Vulnerability
+
+[26] Cautionary Tales (Authenticity at Work)
+
+[27] Resolving a Protracted Conflict
+
+For Further Reading
+
+The Tyranny of Feelings
+
+Better Working Relationships
+
+Abilene: Loneliness and Belonging in Organizational Life
+
+The Importance of Slowing Down
+
+How Great Coaches Ask, Listen and Empathize
+
+Safety, Trust, Intimacy
+
+Learning How to Learn
+
+Conscious Competence in Practice
+
+Photo by Defence Images.
+
+
+===== END ED BOT ESSAY 4105 =====
+===== BEGIN ED BOT ESSAY 4106 =====
+---
+title: On Speaking Up and Shutting Up
+url: https://edbatista.com/2021/05/on-speaking-up-and-shutting-up.html
+slug: on-speaking-up-and-shutting-up
+published: 2021-05-02T17:17:25
+updated: 2025-10-05T21:59:19
+source_body: wordpress-html
+---
+
+It took me a long time to realize that A) the impulse to stay quiet is a signal to speak up, and B) the impulse to say one more thing is a signal to stfu.
+
+— Ed Batista (@edbatista) February 23, 2019
+
+Recent work on emotion regulation [1] reminded me of this simple insight--and helps to explain why it can be such a challenge to put it into practice. The impulse to stay quiet and the impulse to say one more thing are invariably emotional responses. They obviously have a cognitive dimension as well, and whenever such impulses take hold of us we no doubt have our reasons. But the determination to allow such impulses to govern our behavior is fundamentally emotional.
+
+We feel inhibited by something, or emotionally aroused by something else: The moment, the setting, the topic at hand. The person or people we're talking with, something they said earlier, the presence or absence of observers, our relationships with everyone involved. Our inhibition is often experienced as a sense of foreboding, wariness, anxiety, even dread. "Safer to stay quiet," we tell ourselves, and so we keep our mouths shut. Our arousal is often experienced as an irrepressible urge, an unshakeable conviction in the necessity and justice of what we're about to say. "I must speak up," we tell ourselves, and so we do.
+
+The belief that emotion and reasoning work in opposition to each other is widely held--and fundamentally wrong. Neuroscience research has made it clear that among the various functions emotions serve, they are essential inputs to the process of logical reasoning. [2] Emotions allow us to make use of much larger amounts of data in the course of this process than we can access through the relatively slow mechanism of conscious cognition. But emotions are a "quick and dirty processing system," in the words of NYU neuroscientist Joseph LeDoux [3], and USC neuroscientist Antonio Damasio also makes clear that "uncontrolled or misdirected emotion can be a major source of irrational behavior...[and] seemingly normal reason can be disturbed by subtle biases rooted in emotion." [4]
+
+This is essential to bear in mind when we feel the impulse to stay quiet and the impulse to say one more thing: While emotions are necessary inputs for logical reasoning, by no means are they unerring guides to effective action, and in some circumstances they reliably lead us to act against our best interests. And in addition to this common thread it's also helpful to understand the differences between these two impulses.
+
+The impulse to stay quiet is rarely a purely personal phenomenon. While our individual psychology inevitably plays a role, there are almost always group dynamics that contribute to our inhibition. The human system we're operating within at that moment--the relationship, the event, the group, the culture--is unsettled by our voice in some way and is acting to protect itself by repressing us. This need not take the form of heavy-handed censorship or overt hostility--it's often expressed in warm and pleasant tones. But when the system realizes that our contribution could be embarrassing or threatening, particularly to someone in power, it reliably enacts a "defense routine," in management thinker Chris Argyris' phrase, to ward off the embarrassment or threat. [5] Thus the impulse to stay quiet--and the vital importance of resisting the system's repression by speaking up. [6]
+
+The impulse to say one more thing is undeniably influenced by the surrounding human system as well, especially if it's one in which we've felt repressed in the past. But in this instance we've felt free to share our voice and have been participating actively. The person or people we're talking with have been listening, receptive, open to our influence--and yet somehow it's not enough for us. We want something more from them, and we want it now, and we feel a frantic sense of urgency to get those needs met. The interchange is winding down--it may have even ended--when we suddenly extend it at the last second, our words tumbling out in a rush. We feel triumphant!--and then it's obvious that we should have kept out mouths shut. Our final contribution was unnecessary and even counter-productive, and our urge to express it was nothing more than impatience and narcissism. Thus the impulse to say one more thing--and the vital importance of mindful self-restraint.
+
+Footnotes
+
+[1] The Tyranny of Feelings
+
+[2] For more on the nature and purpose of emotion:
+
+- Descartes' Error: Emotion, Reason and the Human Brain (Antonio Damasio, 2005)
+
+- The Emotional Brain: The Mysterious Underpinnings of Emotional Life (Joseph LeDoux, 1998)
+
+- The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+- Why We Feel: The Science of Human Emotions (Victor Johnston, 2000)
+
+[3] LeDoux, page 163
+
+[4] Damasio, page 53
+
+[5] Overcoming Organizational Defense: Facilitating Organizational Learning, page 25 (Chris Argyris, 1990)
+
+[6] Risk Management (The Importance of Speaking Up)
+
+Photo by Melissa Weise.
+
+
+===== END ED BOT ESSAY 4106 =====

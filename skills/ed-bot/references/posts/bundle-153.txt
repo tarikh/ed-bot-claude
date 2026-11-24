@@ -1,0 +1,234 @@
+===== BEGIN ED BOT ESSAY 3722 =====
+---
+title: In Defense of Normal (A Coaching Manifesto)
+url: https://edbatista.com/2012/02/in-defense-of-normal.html
+slug: in-defense-of-normal
+published: 2012-02-14T13:16:40
+updated: 2025-11-16T20:00:52
+source_body: wordpress-html
+---
+
+By definition, coaching and other services aimed at helping people be more effective and fulfilled as professionals must challenge established norms, from clients' internal mental models to the surrounding organizational culture. But even as we're challenging these norms, coaches and our clients must also find ways to work within them.
+
+In a word, for coaching and other interventions to achieve their goals they must be perceived as normal--stimulating and thought-provoking, certainly, but also applicable under everyday conditions. But too often coaching and related services are perceived as special--applicable only under unusual circumstances or too far beyond everyday norms to be practical or sustainable.
+
+I'm not suggesting this balance is easy to maintain--it may be one of the hardest tasks coaches and our clients face. But it's also one of the most important. If we fail to challenge our mental models, our organizational cultures and our working relationships, there's no learning, no change, no growth. But if we fail to work effectively within that context--even as we challenge it--we're finished before we start.
+
+Here's how I strive to find that balance in my own work as a coach with my clients and my MBA students at Stanford:
+
+1. The Normal Coach
+
+While it's essential that I stretch myself as a coach and challenge myself to make full use of the tools at my disposal, it's equally important to avoid coaching jargon and catchphrases, to respond naturally in coaching conversations, and to be myself without disappearing into the role. I aim to be a person who coaches, not a "Coach." In other words, be normal.
+
+Being normal myself allows coaching to be seen as a normal form of helping and interacting, rather than as something special or extraordinary. As Edgar Schein writes in Helping (one of the best books I can recommend for any coach or leader):
+
+The cultural stereotype of helping is to be an expert or doctor. We have, in a sense, overlearned to play these roles... [But] starting in the expert or doctor role creates the potential for both the client and the consultant to fall into traps as a result. [1]
+
+The dilemma for coaches isn't merely that the expert or doctor roles are such vivid archetypes--it's that both coaches and clients can collude in the portrayal of coach-as-expert or coach-as-doctor because it plays into everyone's secret desire to be seen as special in one way or another. The portrayal of the coach as special implies that the client is also special, with special needs that can only be addressed via this special process.
+
+When I'm merely normal as a coach, not only am I more accessible when working directly with clients and students, it's also easier for those clients and students to envision themselves as coaches, to step into the coaching role and to coach each other, making it much more likely that the work we've begun will continue after I'm gone.
+
+One further point on jargon from activist Abbie Hoffman, who advises anyone seeking to foster change to "Be very conscious of your language":
+
+It cannot be stressed too strongly how much language shapes your environment. Language should be action-oriented, exciting, creative, simple and upbeat... You can't afford the luxury of being boring or of creating a language that the average person cannot understand. Avoid, for example, using initials for the full name of an agency. Even if all the people you are addressing know that EPA stands for Environmental Protection Agency...say the full name. Why? As a reminder not to slip into the language of the bureaucracy. Those in power can, but not the challengers. [2]
+
+The equivalent of Hoffman's bureaucratic acronyms are the catchphrases my coaching colleagues and I use all too liberally. But every time we take one of those linguistic shortcuts, we miss an opportunity to help our clients understand and describe the work we do together in simple, straightforward terms that can be readily communicated to others.
+
+2. The Normal Client
+
+While it's my duty to challenge my clients' mental models and assumptions and to fully leverage my skills as a coach in the process, I also have an obligation to avoid pathologizing my clients and to accept them as they are. [3] In other words, they're normal.
+
+In the words of the authors of Co-Active Coaching, "From the...coach's perspective, nothing is wrong or broken, and there is no need to fix the client." Further, coaches must regard our clients as "creative, resourceful and whole." The latter phrase can certainly sound like jargon, but let's call it "colorful" instead and make use of it for now. [4]
+
+I'm also influenced by Kurt Lewin's 3-stage model of change in which our existing behavioral patterns must be "unfrozen" before meaningful change can occur, and we then "refreeze," creating a set of new patterns, altered but consistent with our previous ones. Turning again to Edgar Schein, who's written in an extensive discussion of Lewin's theory:
+
+The main point about refreezing is that new behavior must be to some degree congruent with the rest of the behavior and personality of the learner or it will simply set off new rounds of disconfirmation that often lead to unlearning the very thing one has learned. [5]
+
+This has crucial implications for how I view my clients: For any change that occurs through the coaching process to be sustainable for a client, it must be "to some degree congruent with the rest of [their] behavior and personality." And for this to be possible, I must view my clients as normal--as creative, resourceful and whole.  (This is a corollary to Schein's point above on the helping role: If I portray myself as the doctor or expert, I'm implicitly defining my client as a patient or as inept; in other words, no longer normal but rather a problem to be fixed.)
+
+And while I make an important distinction between coaching and therapy, I've found great value in the thinking of Uri Merry and George Brown, who applied the principles of Gestalt therapy to the practice of organizational change. As Merry and Brown make clear, "When we speak of using Gestalt therapy with organizations or at the organization level, the fact remains that we ultimately are going to be using this approach with individuals or groups of individuals," and, again, the implications for how I view my clients are profound:
+
+A Gestalt therapy approach to management development...[employs]...a focus on recognition and mobilization of the individual's strength and powers...an emphasis on strengthening the person's competence and autonomy...[and]...an emphasis on increasing the individual's competence. [6]
+
+Strength, power, competence, autonomy--i.e. normal.
+
+3. The Normal Organization
+
+Finally, just as I must challenge my clients while also viewing them as intrinsically normal, we both have to adopt the same basic attitude toward the organizational context that surrounds them. It's critical that each client and I assess how their organizational culture and their working relationships influence their individual effectiveness and fulfillment--failing to assign appropriate responsibility to the situational context is a classic example of the fundamental attribution error. [7]
+
+But just as I can't pathologize my clients, we can't pathologize their organizational context (and I have to be mindful of the occasional temptation to collude with a client in that process.) All behavior is adaptive in some way, and organizational cultures are merely manifestations of the cumulative adaptations made by every individual. In this sense, even the most dysfunctional organization is, in its way, normal.
+
+The implications of this are significant for both the client and myself. While we need to challenge the organizational context, hold it sufficiently accountable and seek to change it where necessary, we also need to conform to it just enough. In this I've been influenced by Rob Goffee and Gareth Jones' approach:
+
+[Leaders must] read the organizational context. This involves understanding the complex social architecture to which the leader must adapt in order to obtain traction in the organization.
+
+The crucial word here is adapt. Leaders must conform enough if they are to make the connections necessary to deliver change. Leaders who succeed in changing organizations challenge the norms--but rarely all of them, all at once. They do not seek out instant head-on confrontation without understanding the organizational context. Indeed, survival (particularly in the early days) requires measured adaptation to an ongoing, established set of social relationships and organizational networks. [8]
+
+This applies not only to my clients but also to me; I must conform just enough to the organizational context to gain traction as a coach and agent of change. If I challenge it too aggressively, I'll be rejected out of hand--and if I conform too readily, I'll be of minimal value to my client.
+
+To be clear, I'm not excusing or condoning toxic levels of dysfunction. My aim in viewing organizational behavior as fundamentally adaptive and normal is helping my clients gain the traction they need to change the context and the perspective required to adapt to it without undermining themselves. And in some truly toxic organizations, a client's efforts to conform, even minimally, would be counterproductive, and I'd do them (and myself) a disservice if I ignored this reality. In those cases we can opt to stand and fight, while recognizing the effort is likely to fail, or let go and move on with our lives--but in my experience such situations are rare in the extreme.
+
+Thanks, Michael
+
+This "Defense of Normal" was inspired by Michael Bungay Stanier, who recently challenged his colleagues to look in the mirror:
+
+I suspect many managers look at people who’ve drunk the coaching Kool-Aid and go...
+
+They’re slightly weird. I don’t want to be like that.
+
+Somehow coaching has become Coaching, a peculiar and slightly unnatural way of behaving. It’s like a fetish. Fine if it’s practiced between two consenting adults in private, but just don’t include me in it.
+
+But Peter Block said it best: "Coaching isn’t a profession, but a way of being with each other." [9]
+
+Footnotes
+
+[1] Helping: How to Offer, Give, and Receive Help, pages 54, 64 (Edgar Schein, 2009)
+
+[2] "How to Fight City Hall" (Abbie Hoffman, originally published in Parade, 1984, currently available in The Best of Abbie Hoffman, 1993)
+
+[3] Corn Mazes and Mental Models
+
+[4] Co-Active Coaching: Changing Business, Transforming Lives (Henry Kimsey-House, Karen Kimsey House, Phillip Sandahl and Laura Whitworth, 2011)
+
+[5] Kurt Lewin's Change Theory in the Field and in the Classroom: Notes Toward a Model of Managed Learning (Edgar Schein, 1995)
+
+[6] The Neurotic Behavior of Organizations (Uri Merry and George Brown, 1987, cited in Gestalt Coaching)
+
+[7] Setbacks, Mindset and the Fundamental Attribution Error
+
+[8] Why Should Anyone Be Led by You?, pages 109-110 (Rob Goffee and Gareth Jones, 2006)
+
+[9] The Evolution of Coaching (Michael Bungay Stanier, 2012)
+
+Photo by John Voo.
+
+
+===== END ED BOT ESSAY 3722 =====
+===== BEGIN ED BOT ESSAY 3723 =====
+---
+title: Tiny Gestures (and Emotional Bids)
+url: https://edbatista.com/2012/02/tiny-gestures-and-emotional-bids.html
+slug: tiny-gestures-and-emotional-bids
+published: 2012-02-13T00:01:00
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+A brief follow-up on the theme of safety and trust I discussed last week: Very rarely (if ever) do we establish these qualities in a relationship in a single dramatic act. Much more often safety and trust are established over a series of interactions through countless tiny gestures. These gestures take the form of one person making some effort to connect--an emotional bid--and another person responding in any way that acknowledges that effort.  Examples include:
+
+- I disclose something about myself, and you express interest or reciprocate.
+
+- I express curiosity about you, and you share something about yourself.
+
+- I display emotion in any way, and you acknowledge it.
+
+- I make a joke, and you laugh or smile.
+
+- I make small talk, and you respond.
+
+Note that embedded in each exchange is the potential to "up the ante"--to respond to the small risk taken by the person who initially made the bid by taking a slightly larger risk in return. For example, in disclosing something about myself, I take a small risk, and you can simply acknowledge that risk by expressing interest, or you can meet that risk by disclosing something similar about yourself, or you can take a slightly larger risk by disclosing something more personal. Our mutual level of risk-taking determines the cumulative impact of these tiny gestures over time.
+
+As these tiny gestures accumulate--as we put out emotional bids and they're met with a response--we build the trust that allows us to take greater risks. Having acknowledged each other, we become more candid and forthcoming. This involves greater candor in affirmation, self-disclosure and feedback (which is really just another form of self-disclosure.)
+
+The next stage allows greater freedom to challenge and confront each other, as we feel sufficiently safe and trusting to express negative feelings and openly engage in conflict. But the process then folds back on itself, as the increased levels of safety and trust that come through conflict allow for even more meaningful expressions of appreciation, care and love.
+
+These larger, more complex interactions don't necessarily occur because of the many tiny gestures that preceded them, but they couldn't happen without them either.
+
+Photo by Danielle deLeon.
+
+
+===== END ED BOT ESSAY 3723 =====
+===== BEGIN ED BOT ESSAY 3724 =====
+---
+title: Taking the Plunge (Safety, Risk, Learning and Growth)
+url: https://edbatista.com/2012/02/safety-risk-learning-and-growth.html
+slug: safety-risk-learning-and-growth
+published: 2012-02-09T09:11:29
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+I've written before about the importance of safety [1] as the foundation for the risk-taking and experimentation that are essential precursors to learning and change [2]. In any setting where we're seeking to grow and develop, it's essential that we feel safe with each other and trust each other. In the absence of safety, trust and emotional intimacy, our efforts to learn and grow will be severely hampered. And this applies everywhere--not only in explicit learning environments such as the classroom, a workshop or a coaching relationship, but also in our day-to-day organizational and personal lives.
+
+But safety and trust aren't ends in and of themselves. The process starts with safety and trust, but it doesn't end there. The safer and more trusting we feel, the more risks we can take, the more we learn and grow. Ultimately safety and trust are valuable resources that become even more useful when we push (and extend) their limits.
+
+Obviously there's a balance that must be maintained. Safety and trust are highly dynamic qualities, and the risks we take in service of learning and growth can strain or even damage the safety and trust that have been established up to that point. But if we cling too tightly to safety and trust once they've been established, we'll fail to take the risks that are necessary to support growth and learning.
+
+I see this process in action every day in my work as a coach. A few months ago a client made a glancing reference to the fact that he and his wife had begun fertility treatments. This is obviously a highly personal topic, and potentially a sensitive one as well. Our conversation was focused on another issue at that moment, and I felt an impulse to respect his privacy and to let the remark pass without further comment. But I also realized that at some level this was an emotional bid [3], and that by making it my client had created an opportunity for us to connect--but in order to do so, I had to take a risk.
+
+I paused the flow of our conversation and acknowledged the importance of the topic he had mentioned. I said that I knew the process was challenging and stressful, and I empathized with him and his wife. I also shared that while Amy and I have chosen not to be parents and are comfortable with that choice, at the same time I'll always feel a pang of regret that I won't experience fatherhood--an emotional bid of my own. The whole interchange took just a minute or two, and yet it left us feeling much closer and more trusting--and the key was making use of the safety we had established in our previous conversations to step into some small (but increasing) risks.
+
+And it doesn't always go smoothly. Last week I participated in an exercise at Stanford that involved having our students focus on a tightly-kept personal secret, presented them with opportunities to share the secret or withhold it, and then assess how they felt at various points throughout the process. I'm purposely omitting details to respect the privacy of the class, but believe me when I say that it's an emotionally arousing experience that intentionally pushes the limits of the safety and trust we've established with our students. We've conducted this exercise for many years and found it extremely useful, but this year it was unusually intense for some students, who found the feelings it evoked difficult to manage. While it was important to acknowledge the challenge this experience presented for some students, and we'll assess the cause of this year's results, I remain convinced of the value of the exercise.
+
+Powerful learning involves being challenged in fundamental ways, and at crucial moments we have to take the plunge and step into the risk. We may--and will--make mistakes by pushing too far, but it's also a mistake not to push at all. And yet one final point on that note: Even though I believe in the importance of pushing the limits of safety and trust to support greater learning and growth, I've also realized that I can't complacently rely on my own definition of "safety." We all have different comfort zones, and I need to be keenly attentive to the stress levels of my clients and students in challenging situations. This requires a heightened sense of empathy and a recognition that even--and especially--when pushing the limits of safety and trust, these qualities are the foundation of any learning relationship and are never to be taken lightly.
+
+ 
+
+Many thanks to my Austrian colleagues Joachim Schwendenwein and Liselotte Zvacek for pushing me to think further about the downsides of excessive safety and insufficient risk-taking.
+
+Footnotes
+
+[1] Safety, Trust, Intimacy
+
+[2] Neuroscience, Joyful Learning and the SCARF Model
+
+[3] Human Velcro (Hooks and Loops)
+
+Photo by ariel wants a chip.
+
+
+===== END ED BOT ESSAY 3724 =====
+===== BEGIN ED BOT ESSAY 3725 =====
+---
+title: Skin in the Game
+url: https://edbatista.com/2012/02/skin-in-the-game.html
+slug: skin-in-the-game
+published: 2012-02-07T08:42:17
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+Work that's truly rewarding compels us to commit fully to the endeavor. We have skin in the game, you might say, like an investor putting their own capital on the line. In this sense, coaching my clients and students isn't just (or even) a job, it's a deeply personal experience in which I take real risks in the service of meaningful gains. And I suspect the same is true for you and your work, in one way or another.
+
+But while having skin in the game allows us to do our best work, it also exposes us to risk. When we succeed it's all the more gratifying, and when we struggle, it's all the more disheartening. And I've had some challenges recently that have led me to reflect both on how I manage my response in the moment and on how I recover from setbacks over time. I've found myself relying on the following principles:
+
+Own Up To It
+
+I'm not afraid of making mistakes--I've learned that striving for perfection is actually playing it safe, aiming too low and doing a disservice to my clients and students. But I still feel the sting of embarrassment and shame when I do make a mistake, and my first impulse in response to those emotions is to reject them and distract attention from their source. And yet I've also learned that I need to resist that impulse, not only to walk my talk as a coach, but also to grow as a human being.
+
+I've observed and experienced this dynamic over and over again: When we screw up as leaders, the most important step we can take is to acknowledge reality, admit our mistake, own up to it. No matter what else we want to say, no matter what other factors influenced our actions, everything starts with that acknowledgment, and no real progress will be made until it occurs.
+
+This week I became impatient during a group exercise and forcefully interrupted a student, who felt angry and hurt as a result. Thankfully, she felt enough trust in me to express those emotions, and I was able to hear her and express my embarrassment, which allowed her to hear why I had become impatient in the first place. It wasn't my most skillful moment as a coach, but it was a successful repair that allowed the two of us to move forward.
+
+Ask For What You Need
+
+I'm used to being a source of support and guidance for other people--it's one of the characteristics that led me into coaching. But while that role is deeply fulfilling to me, it's also a potential trap. If I limit myself to supporting others, I can't understand or communicate what I need when I'm struggling myself. This makes it all the more important to slow down, look inside, and articulate what I need.
+
+I know I'm no exception in this regard. The best leaders and mentors I've known are people who put others' needs before their own, who make sure their troops are fed before they sit down to eat. But the very best of them are also able to step out of that pattern and to ask for help. I'm not particularly good at this, but I'm learning.
+
+Tonight Amy asked me if there was anything she could do to help me cope with a dark mood that had descended upon me, and initially my mind was blank. "No," I said, "I can't think of anything." But I kept at it and realized that I didn't want her to do anything--I didn't want encouragement or problem-solving. I just wanted empathy--I just wanted her to say, "I'm sorry; that sounds really shitty." I don't need to hear that often or for long, but when I need it, I really need it--and it's much easier for Amy to provide it when I ask for it explicitly.
+
+Take Care of Yourself
+
+This is easy in principle and very hard in practice. By definition people with skin in the game thrive on challenges, and when things get tough we get excited. That attitude helps me overcome obstacles, but it also leads me down some blind alleys. The paradox with coaching--and with any meaningful work--is that it doesn't necessarily yield to sheer effort. When I'm struggling as a professional I can't just muscle through it, and sometimes I need to do just the opposite--ease up, lower my stress levels, take care of myself.
+
+I've learned from people like Bill George, who's "meditated regularly for thirty years, not as a religious or spiritual practice, but as a personal discipline to relieve stress." I've also learned from hard experience that when I let work push exercise off the my daily schedule--once a regular response in times of struggle--I condemn myself to a cycle of overstress and underperformance. I'm also (finally) listening to recent research on the importance of sleep, not only for effective performance but also for long-term health.
+
+The past few days I've been unusually tired, and rather than push myself beyond that limit, I've listened to my body and have gone for walks rather than hitting the gym, or have simply meditated instead. I've also prioritized sleep over work--like leaving this post undone last night and coming back to it this morning. Finally, I have allowed work to push regular sessions with my own coach off the calendar, a situation that'll be rectified this week.
+
+Keep Calm and Carry On
+
+I'm only half-joking--I deeply believe in the power of mindset to shape our reality and, subsequently, our performance. Having skin in the game means that we're subject to high highs and low lows, and it's important to keep those experiences in perspective. In part that ability is a function of life experience--I first read this quote from David Bradford 6 years ago, and it's stuck with me:
+
+If you live long enough, you realize that you can fall off the horse and get back on again... Failure is inevitable, and what's important is how you handle it, not how you avoid it.
+
+But "life experience" is in a way just shorthand for mindset--having failed, and struggled, and simply made mistakes for many years now, I'm no longer up-ended when this occurs. I may be responsible for these events, and I expect to hold myself accountable for them, but I don't view them as intrinsic character flaws.
+
+This isn't to say I'm not subject to grey moods and feelings of frustration or even despair, and when those feelings strike I think it's healthy to acknowledge them. But where I once might have gotten stuck in those moods for longer than was useful, I now find it possible to feel them and let them go, a process that's supported by all the steps mentioned above and also by writing posts like this.
+
+ 
+
+Photo by gingerpig2000.
+
+
+===== END ED BOT ESSAY 3725 =====

@@ -1,0 +1,213 @@
+===== BEGIN ED BOT ESSAY 3271 =====
+---
+title: Defining Blogs and Wikis
+url: https://edbatista.com/2005/06/defining_blogs_.html
+slug: defining_blogs_
+published: 2005-06-30T20:33:18
+updated: 2005-06-30T20:33:18
+source_body: wordpress-html
+---
+
+A few weeks ago a number of us participated in an ongoing discussion that started off with a rejection of the term "blog" but ended up with a nice summary of a blog's characteristics.  Oddly enough, Boris Mann of Bryght was having very similar thoughts just a few months previous:
+
+...I tend to define a blog by its features and functionality. These generally include:
+
+- Easy web publishing: unlike static individual HTML pages of the past, all blog tools allow for the easy creation, editing, and publishing of web content
+
+- Content in reverse chronological order: the newest information is at the top
+
+- Each piece of content has a unique URL: (also called a permalink) this means that every piece of content can be directly linked to, and directly quoted/discussed
+
+- Interactive: comments, trackback, or some other form of interactivity is supported directly
+
+- Syndicated content: a weblog outputs its content in a feed of one or more syndication formats, like RSS; this allows for notification of new content (e.g. subscribe to the feed instead of manually checking the page for changes) as well as aggregation (e.g. show content from other sites in multiple places, all linking back to the original)
+
+Boris also has a concise summary of a blog's primary benefits in a business environment:
+
+- Search Engine Ranking: the inherent characteristics of blogs lead to "organic" search engine optimization, resulting in high rankings for topics that are covered
+
+- Promotion: whether it be an individual, company, product, service, or brand, blogging about it will help to promote it
+
+- Interaction: a blog facilitates easy interaction through comments and the interconnected nature of online conversations; this makes it a good tool to communicate with customers, connect with other people in your industry, and put a "human" face on a business.
+
+Best of all, Boris pays explicit tribute to the Blogfathers: Levine, Locke, Searls and Weinberger:
+
+A lot of the concepts of a wider, more open marketplace based on communication, conversation, and collaboration was written about in 1999's Cluetrain Manifesto. Today's tools, such as blogs and wikis, are supporting many of the concepts described in that book.
+
+A gross understatement, but accurate nonetheless.
+
+As a bonus, Boris also points to an old but still very useful post by Roland Tanglao on the technical distinctions between blogs and other sites, that includes a nifty diagram.  Roland's money quote:
+
+[Blogs'] 'magic sauce' is the RSS file and the pings and the fact that blog systems automate the tedium of archiving, constructing HTML pages and linking them together.
+
+blogging boris mann cluetrain roland tanglao
+
+
+===== END ED BOT ESSAY 3271 =====
+===== BEGIN ED BOT ESSAY 3272 =====
+---
+title: From Web 1.0 to Web 2.0
+url: https://edbatista.com/2005/06/from_web_10_to_.html
+slug: from_web_10_to_
+published: 2005-06-30T17:25:33
+updated: 2005-06-30T17:25:33
+source_body: wordpress-html
+---
+
+Hat tip to Marnie Webb for pointing to this pithy summary by Troy Angringon of what's happening as we move from Web 1.0 to Web 2.0.  I'll condense it further below, but you really should read the whole thing, particularly because he wraps up with a hilarious 17-step approach to websites that begins as follows:
+
+- why do I need a website? I don't need a website
+
+- Okay, I need it as a business card at a minimum so I'll   just put up a one-pager
+
+- Hmmm, make that a brochure site with sections because I   have a lot of stuff to talk about
+
+- Boy, this is a lot of work to keep this thing running
+
+OK, so here are Troy Angringon's Web 1.0 and 2.0 characteristics in condensed table form:
+
+From Web 1.0
+To Web 2.0
+
+Pages (i.e. actual HTML files)
+Database soup & on-the-fly HTML
+
+Human readable
+Machine and human readable
+
+Content and format are integral
+Content is separated from format/design
+
+Indexed haphazardly
+Indexed instantaneously
+
+High threshold to get content in place
+Low threshold to get content in place
+
+Difficult to tell what's changed on the site
+Readily apparent what's changed on the site
+
+Push via email list
+Pull via RSS
+
+Not scalable
+Hugely scalable
+
+ 
+
+ 
+
+web 2.0 troy angrignon
+
+
+===== END ED BOT ESSAY 3272 =====
+===== BEGIN ED BOT ESSAY 3273 =====
+---
+title: Three Questions with Stowe Boyd
+url: https://edbatista.com/2005/06/three_questions_1-2.html
+slug: three_questions_1-2
+published: 2005-06-30T04:00:00
+updated: 2005-06-30T04:00:00
+source_body: wordpress-html
+---
+
+Next up in the series of Three Question Interviews is Stowe Boyd, President and COO of Corante, as well as a regular blogger at Corante's Get Real. Stowe and Hylton Jolliffe, the CEO and Founder of Corante, were recently named to the AO/Technorati Open Media 100. (I'm a little skeptical of lists like this, but Stowe, Hylton and their colleagues at Corante deserve the honor--there's something worth reading there every day, and they're launching new blogs all the time.)
+
+1) Corante is described
+
+as "the world's first blog media company." As everyone else in the
+
+media world is rushing into the blogosphere, is this a sustainable
+
+means of differentiation for you, or will your corporate identity have
+
+to evolve?
+
+I guess I have
+
+already shifted my description of Corante -- 'a social media company
+
+focused on thought leadership in high tech and science and their impact
+
+on business and society -- so, yes, we will have to push onto other differentiation.
+
+2) In addition to your work managing and writing for Corante, you also
+
+consult to organizations interested in starting blogs. What's the
+
+biggest mistake you see organizations making in this process?
+
+Starting the writing without first reading. We need to start on 'the good foot'
+
+-- connection to a community of interested participants in the ongoing
+
+conversation about whatever topic. It could take months to get fully
+
+'read in' on that discussion, and most companies aren't willing to
+
+wait, to get into the mix. So, they start writing, and are amazed that
+
+they have no readers, no connection.
+
+3) You've maintained the personal blog that used to serve as home base
+
+for your consulting work. What role does that blog fulfill for you now?
+
+A Working Model is my personal blog, now, where i write about stuff that doesn't fit at Get Real, like politics, popular culture, and karate.
+
+Bonus Personal Question: You just earned your provisional black belt in
+
+Shito Ryu Karate. What got you involved in karate in the first place?
+
+I decided that it was dumb to bring my kids to the class and sit there
+
+reading a book, so I signed up. My kids dropped out (although my older
+
+son, Keenan, is back, now) but I kept with it. Its a great physical
+
+discipline, and good for the head: very different from what I do for a
+
+living. Its also very social, since you are learning with and through
+
+the actions of many folks in the class. I recently won a push up
+
+contest with some teenagers, and I am 52 in September, so the benefits
+
+are really obvious.
+
+stowe boyd corante get real
+
+
+===== END ED BOT ESSAY 3273 =====
+===== BEGIN ED BOT ESSAY 3274 =====
+---
+title: Three Questions with Grant McCracken
+url: https://edbatista.com/2005/06/three_questions_2-2.html
+slug: three_questions_2-2
+published: 2005-06-29T04:00:00
+updated: 2005-06-29T04:00:00
+source_body: wordpress-html
+---
+
+Grant McCracken is one of my absolute favorite bloggers. His site declares, "This Blog Sits at the Intersection of Anthropology and Economics," but even that broad mandate doesn't do justice to the full range of topics he tackles. He typically writes an essay each day, and his work is notable for its depth and thoughtfulness--qualities often lacking in the blogosphere. His readers are equally thoughtful, and his comments section is outstanding--Grant usually jumps into the fray as well. Here's Three Questions with Grant:
+
+1) You've consulted to corporations and taught at Harvard Business School, but you're an anthropologist by training. (Having spent my previous career in nonprofits, I found my own experience in business school to be profoundly dislocating at times.) What's most interesting to you about contemporary business culture?
+
+I guess the $64,000 question for me is what happens to business culture as it speeds up and becomes more dynamic. I think the ordinary business is going to have to act a lot like the most daring business today. I don't think anthropology has ever seen a culture that looks like this. Should be interesting.
+
+2) You just published a new book, Culture and Consumption II. (It wasn't available on Amazon until yesterday or I'd have read it by now.) What effect do you hope it has on your readers?
+
+Culture and Consumption II is a chance to get at the anthro and econ thing in a more systematic way instead of the "short order stuff" I am doing on the blog. I hope the whole thing will look a little less implausible.
+
+3) I particularly enjoy your style of blogging: one extended post, focusing on a single topic, almost every day. Was this style a conscious choice for you?
+
+I don't know where the format come from. I think I think in essays and doing more than one seemed like too much work. Essay, minimum unit. Essay, maximum unit.
+
+Bonus Personal Question: I notice that Chuck Klosterman's on your current reading list. Who's your favorite heavy metal band?
+
+I am not really a heavy metal fan. But I love Klosterman. What a talent!
+
+grant mccracken anthropology culture and consumption II culture and consumption chuck klosterman
+
+
+===== END ED BOT ESSAY 3274 =====

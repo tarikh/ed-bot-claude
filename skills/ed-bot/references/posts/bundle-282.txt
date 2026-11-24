@@ -1,0 +1,324 @@
+===== BEGIN ED BOT ESSAY 4239 =====
+---
+title: Guidelines for Better Virtual Events
+url: https://edbatista.com/2024/10/guidelines-for-better-virtual-events.html
+slug: guidelines-for-better-virtual-events
+published: 2024-10-07T19:39:34
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+We've optimized our space and equipment for virtual work.
+
+We're on time, ready to go, in the right frame of mind. This may entail leaving a prior event early to take a break and avoid going back-to-back.
+
+We keep our cameras on and ensure that we're well-lit. Facial expressions convey meaningful data that's important to share.
+
+We keep our microphone on and don't mute ourselves. Laughter, murmurs, sighs, gasps and other sounds are also meaningful data worth sharing.
+
+We wear headphones or ensure that we're in a private space where the conversation won't be overheard by others.
+
+We turn off all other applications and notifications to ensure that we're not interrupted and our attention remains focused on the conversation.
+
+We don't multi-task. Our phones are out of sight for the duration of the conversation.
+
+We don't use chat or text to hold sidebar conversations with other participants. With the exception of breakout rooms, all communication is equally available to all participants.
+
+We strive to find the balance between leaving space for others to complete a thought, and interrupting to express ourselves in the moment.
+
+ 
+
+Thanks to Lisa Stefanac for her insights derived from teaching Interpersonal Dynamics virtually at the University of Chicago Booth School of Business.
+
+Photo by David Fulmer.
+
+
+===== END ED BOT ESSAY 4239 =====
+===== BEGIN ED BOT ESSAY 4240 =====
+---
+title: The Antidote to "Manager Mode" is Actual Management
+url: https://edbatista.com/2024/09/the-antidote-to-manager-mode-is-actual-management.html
+slug: the-antidote-to-manager-mode-is-actual-management
+published: 2024-09-02T21:53:53
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+This is not the solution.
+
+Management as a concept seems to have fallen into disrepute. In a recent essay Paul Graham described "manager mode" as the unpalatable alternative to "founder mode." But what is Graham really criticizing? He recounts a talk given by Airbnb CEO Brian Chesky:
+
+The theme of Brian's talk was that the conventional wisdom about how to run larger companies is mistaken. As Airbnb grew, well-meaning people advised him that he had to run the company in a certain way for it to scale. Their advice could be optimistically summarized as "hire good people and give them room to do their jobs." He followed this advice and the results were disastrous...
+
+The way managers are taught to run companies seems to be like modular design in the sense that you treat subtrees of the org chart as black boxes. You tell your direct reports what to do, and it's up to them to figure out how. But you don't get involved in the details of what they do. That would be micromanaging them, which is bad.
+
+Hire good people and give them room to do their jobs. Sounds great when it's described that way, doesn't it? Except in practice, judging from the report of founder after founder, what this often turns out to mean is: hire professional fakers and let them drive the company into the ground. [1]
+
+So Graham isn't criticizing actual management. He's criticizing the absence of management, which is an issue I've observed in my practice for years and wrote about in 2022:
+
+It's possible for a less-experienced CEO to get in the way of their senior leaders--but more typically I see the opposite problem. The CEO gives their executives a great deal of space, only to find several months or quarters later that they backed off too far, and some important objectives were neglected and fell into the gap. [2]
+
+Why does this happen? Why do otherwise capable CEOs fail to provide sufficient oversight to senior leaders? And why is Graham's critique of "manager mode" resonating with so many people? In large part because the historic critique of management practices--a decades-old phenomenon, not a recent one--has been so badly misunderstood and so poorly implemented that many leaders are now so fearful of being called a "micromanager" that they fail to provide sufficient management at all.
+
+The concept of "micromanagement" is associated with the work of MIT professor Douglas McGregor, a mid-20th century pioneer in the application of behavioral science to the challenges of organizational life. [3] McGregor offered a compelling critique of the conventional approach to management, which he dubbed "Theory X." He noted that Theory X manifests in both a "hard" version that extracts employee compliance through coercion and threats, and a "soft" version that renders employees pliable by catering to their desires for comfort and security.
+
+While we associate "hard Theory X" with the early industrial era, and it remains common in certain sectors and parts of the world, today we encounter "soft Theory X" almost everywhere in the information economy. But both hard and soft Theory X are rooted in a shared view of human nature: that people are "indolent...lack ambition, dislike responsibility [and] prefer to be led" and therefore must be "persuaded, rewarded, punished [and] controlled" in order to give best effort in pursuit of organizational goals. [4]
+
+McGregor's alternative, Theory Y, takes as its starting point an entirely different set of assumptions about people and their capabilities:
+
+People are not by nature passive or resistant to organizational needs. They have become so as a result of experience in organizations.
+
+The motivation, the potential for development, the capacity for assuming responsibility, the readiness to direct behavior toward organizational goals are all present in people. Management does not put them there. It is a responsibility of management to make it possible for people to recognize and develop these human characteristics for themselves.
+
+The essential task of management is to arrange organizational conditions and methods of operation so that people can achieve their own goals best by directing their own efforts toward organizational objectives.
+
+This is a process primarily of creating opportunities, releasing potential, removing obstacles, encouraging growth, providing guidance. It is what Peter Drucker has called "management by objectives" in contrast to "management by control."
+
+And I hasten to add that it does not involve the abdication of management, the absence of leadership, the lowering of standards, or the other characteristics usually associated with the "soft" approach under Theory X. [5, my emphasis]
+
+It should be obvious that putting these Theory Y principles into practice isn't easy. Finding ways to confront and overcome this difficulty is one of the central themes in my work with clients and in my writing on this site. But compounding the problem is that McGregor's complex and nuanced ideas have been dumbed down to mean "Hire good people and give them room to do their jobs," which often results in "the abdication of management [and] the absence of leadership"--precisely the outcomes that McGregor sought to avoid.
+
+There's a noteworthy and relevant parallel here with the work of Amy Edmondson, whose research has highlighted the importance of psychological safety in organizational life. Sadly, this concept has been misinterpreted to mean, "No one's feelings can get hurt," when it really means "No one should be punished for speaking up and sharing bad news." What has resulted are organizational cultures in which leaders are fearful of being direct and walk on eggshells to avoid giving offense, which are actually psychologically unsafe environments. [6]
+
+So what can we do? First, let's rehabilitate the concept of management. While excessive direction and control on the part of leadership is unlikely to yield the best results from highly-skilled knowledge workers, those workers still need to be managed. They need leaders who are actively involved in the process of determining 1) who will do what by when, 2) to a certain standard of quality, 3) with regular check-ins to assess progress, 4) and the ability to intervene and change course when necessary. That's not "micromanagement"--that's just management.
+
+And yet let's not over-correct in the process. Graham doesn't offer much detail in his definition of "founder mode," other than endorsing engagement with a wide range of employees beyond the leader's direct reports. But he does offer a warning, in his final footnote:
+
+I also have another less optimistic prediction: as soon as the concept of founder mode becomes established, people will start misusing it. Founders who are unable to delegate even things they should will use founder mode as the excuse. [7]
+
+At certain stages in a company's life, the leader must be intensely involved in the most minute details of every aspect of its operations. Some issues will remain under the leader's close scrutiny indefinitely, while others will come and go depending on the context, and the cultivation of the ability to know the difference is an essential leadership skill.
+
+But just as McGregor and Edmondson's ideas have been misunderstood and misconstrued, I fear that Graham's concept of "founder mode" will be misinterpreted as both an excuse and an obligation for leaders to operate this way well beyond the point of diminishing returns, contributing not to excellence, but to under-performance and personal overwhelm. I want to free leaders from the fear of being called a "micromanager" when they're simply providing the necessary elements of management. But I also want leadership to be a sustainable calling, not a ticket to burnout. [8]
+
+ 
+
+This is a companion piece to the following:
+
+- "Work Hard or Work Smart?" Is the Wrong Question (2017)
+
+- Accountability and Empathy (Are Not Mutually Exclusive) (2019)
+
+- The Judicious Imposition of Structure (2021)
+
+- Hard Problems in Soft Cultures (2022)
+
+Footnotes
+
+[1] Founder Mode (Paul Graham, 2024)
+
+[2] Mind the Gap (On Leading Senior Executives)
+
+[3] In The Micromanagement Disease: Symptoms, Diagnosis, and Cure (Public Personnel Management, 2010), Richard White makes a connection between McGregor's work on Theory X and the subsequent emergence of the term "micromanagement." White cites the Oxford English Dictionary's attribution of the first usage of "micromanagement" to a 1975 article in The Economist, but I haven't been able to verify this.
+
+[4] "The Human Side of Enterprise," page 6 (Douglas McGregor, Leadership and Motivation, 1966). This essay is McGregor's best-known and most influential work--it originated as a speech on the Fifth Anniversary of the School of Industrial Management at MIT (later known as the Sloan School) in 1957, and was published in the American Management Association's Management Review in November of that year. It subsequently formed the basis of his 1960 book The Human Side of Enterprise. My citations here are from a posthumous collection of McGregor's work issued by MIT two years after his death to commemorate his contributions.
+
+[5] Ibid, pages 15-16.
+
+[6] Safety Is a Resource, Not a Destination
+
+[7] Graham, 2024.
+
+[8] For more on leadership and sustained excellence:
+
+- Happy Workaholics Need Boundaries, Not Balance
+
+- Open Space, Deep Work and Self-Care
+
+- Investments, Not Indulgences
+
+ 
+
+Photo via TomEatonSA.
+
+
+===== END ED BOT ESSAY 4240 =====
+===== BEGIN ED BOT ESSAY 4241 =====
+---
+title: Why Your Bonus Plan Isn't Working
+url: https://edbatista.com/2024/08/why-your-bonus-plan-isnt-working.html
+slug: why-your-bonus-plan-isnt-working
+published: 2024-08-04T15:28:55
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+A major theme in my practice is executive compensation. Like all other professionals, my clients are seeking to obtain a fair return in exchange for their services, and they're also leaders who must offer competitive compensation to attract and retain top talent. In some conversations, we'll focus on a client's own financial requirements, and in others we'll address the needs of one or more employees, or the company's overall approach to compensation
+
+I don't provide comparable datasets or detailed guidelines for compensation plans, although I can refer my clients to people who do. [1] Instead, when working with clients on their individual compensation I'm generally helping them think about their overarching goals as well as their immediate negotiation strategy. [2] And when working with clients on employee compensation, my role is to help them consider the organizational implications of any particular choices they might make.
+
+In the latter case, we often wrestle with the issue of bonuses. Economic sociologist Viviana Zelizer describes the various forms bonuses can take:
+
+Advance inducements to make some major commitments (e.g. enlistment in the army), after-the-fact lump-sum rewards (e.g. veteran's bonuses, retirement bonuses), discretionary rewards by employers (e.g. Christmas bonuses), payments tied to extraordinary individual achievements (e.g. overfulfilling sales quotas, landing a big account, inventions that become company property), payments tied to collective performance (e.g. shares of company profits, group productivity rewards), and more. [3]
+
+Typically my clients hope to use a bonus to motivate and reward behavior that will lead to "extraordinary individual achievement" or yield improved "collective performance," although for a bonus to achieve these goals a set of conditions must be met. And a problem I often see in my practice is a bonus that's offered in the absence of one or more of these conditions, which renders it far less effective as a motivator and yields frustration on the part of employees, management, or both. Why does this happen, and if you're a leader in this situation, what can you do about it?
+
+A Lack of Clarity or Control
+
+The desired behavior must be sufficiently distinct from ordinary activity, and employees must have a degree of control over the intended outcome. The desired behavior need not be novel or innovative--it may simply entail "do more of what's already working." It's also not necessarily the case that management must provide explicit guidelines or instructions--that's rarely feasible with highly-skilled knowledge workers. But employees must grasp that something different is being asked of them, even if it's up to them to determine how to proceed.
+
+Should employees accept that challenge, they must also feel a sense of agency in the process. There has to be a connection between their expenditure of effort and the achievement of the goal. This doesn't mean that employees need to have total control over the outcome or that exogenous factors can't ever get in the way. But the more control they enjoy, the more effective the bonus as a source of motivation. And below a certain level of control, any bonus plan will likely be viewed as unfair and demotivating.
+
+The Wrong Risk Profile
+
+Employees must be comfortable with the concept of variable compensation, and optimally they prefer this to a fixed salary. Everyone's comfort level with risk varies, and this risk profile can play a significant role in our career choices. People with a relatively high tolerance for risk gravitate toward fields that offer variable payouts, largely because they're attracted by the potential upside, but in some cases because they find the uncertainty itself stimulating. They're gamblers, in a sense, and they like to bet on themselves.
+
+This risk profile is common among the entrepreneurs and investors who comprise the majority of my clients, but it can be found in most market-facing fields, particularly sales. (And most of my clients must sell in one way or another, from closing deals to raising funds.) But many people are uncomfortable with risk, and their caution may be heightened when it comes to financial matters. They're less interested in upside potential and more intent on downside protection.
+
+A bonus is of interest to this latter group to the extent that it's merely additive on top of already sufficient compensation--so it may not really serve leadership's goals at all. This isn't to say that bonuses never work outside of sales or similar roles. But the overall organizational culture must foster an appetite for risk, even in conventionally risk-averse functions.
+
+Hedonic Adaptation and Loss Aversion
+
+The bonus must be viewed as a quid pro quo for the desired behavior, not an expected function of employment. But a challenge is that we readily adapt to improved conditions and soon come to take them for granted, a process known as "hedonic adaptation." [4] Even if the above conditions are satisfied, when a bonus is paid out repeatedly it may well come to be expected by employees.
+
+It can help to maintain a clear delineation between base and variable compensation, although even then it's likely that at least some employees will come to view the bonus as a given. When that occurs, the absence of a bonus in the future will cause even greater unhappiness, the result of "loss aversion," our propensity to weight perceived losses more heavily than equal gains. [5]
+
+There isn't really a "solution" to these states, which are deeply rooted in human psychology. But it's important to be aware that they generate continuous upward pressure on ambitious employees' financial expectations, and leaders who fail to prepare for this eventuality are engaged in magical thinking. [6]
+
+On Currencies
+
+Even as I work with clients to help them optimize their compensation plans, I believe it's essential to bear in mind the work of the great 20th century psychologist Frederick Herzberg, who provided a sharp critique of conventional approaches to motivating employees, which he referred to as "kicks in the ass" or KITA. These kicks aren't only negative, in the form of criticism or threats--they can also be positive, in the form of desirable rewards:
+
+Let us consider motivation. If I say to you, "Do this for me or the company, and in return I will give you a reward, an incentive, more status, a promotion, all the quid pro quos that exist in the industrial organization," am I motivating you? The overwhelming opinion I receive from management people is, "Yes, this is motivation." I have a year-old schnauzer. When it was a small puppy and I wanted it to move, I kicked it in the rear and it moved. Now that I have finished its obedience training, I hold up a dog biscuit when I want the schnauzer to move. In this instance, who is motivated--I or the dog? The dog wants the biscuit, but it is I who want it to move. Again, I am the one who is motivated, and the dog is the one who moves. In this instance all I did was apply KITA frontally; I exerted a pull instead of a push. When industry wishes to use such positive KITAs, it has available an incredible number and variety of dog biscuits (jelly beans for humans) to wave in front of employees to get them to jump. [7]
+
+As I've written before,
+
+Herzberg is exaggerating for comic effect here--I don't think he ever kicked his dog. But his larger point holds: rewards like dog biscuits and jelly beans may result in movement, but that's not the same thing as motivation. This doesn't mean rewards are irrelevant as incentives, but a key in deploying them effectively is understanding that there are two different types of motivation, intrinsic (deriving from the work itself) and extrinsic (deriving from by-products of the work or aspects of the environment in which work occurs). [8]
+
+Bonuses and other forms of compensation are extrinsic motivators, which Herzberg called "hygiene factors." His research indicates that inadequate compensation causes tremendous job dissatisfaction, but above a certain amount (which varies for everyone), additional compensation doesn't yield greater satisfaction. I'm not suggesting that bonuses never work--that's obviously not the case. But should you find that your bonus plan is failing to deliver the desired results even in the presence of the conditions described above, it may be worth considering what other "currencies" your employees value that you may be failing to provide. [9]
+
+Footnotes
+
+[1] For more detailed guidance, I recommend these experts on executive compensation:
+
+- Jody Thelander, J. Thelander Consulting and LinkedIn
+
+- Lanelle Santimauro, Compensation Consultant
+
+- Rob James, Pearl Meyer and LinkedIn
+
+[2] Culture, Compensation and Negotiation
+
+[3] A Humbler Bonus (Viviana Zelizer, The Huffington Post, 2009)
+
+[4] For more on hedonic adaptation:
+
+-
+The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does (Sonja Lyubomirsky, 2014): "Human beings have the remarkable capacity to grow habituated or inured to most life changes... What is particularly fascinating about this phenomenon, however, is that it is most pronounced with respect to positive experiences. Indeed, it turns out that we are prone to take for granted pretty much everything positive that happens to us." [pages 18-19]
+
+-
+The Laws of Emotion, pages 353-354 (Nico Frijda, American Psychologist, 1988): "One must, I think, posit a law of hedonic asymmetry, the law of asymmetrical adaptation to pleasure or pain: Pleasure is always contingent upon change and disappears with continuous satisfaction. Pain may persist under persisting adverse conditions."
+
+-
+We Won't Be Happy WHEN. We Could Be Happy NOW.
+
+-
+Pain, Suffering and Hedonic Adaptation
+
+- Stop Trying to Be "Good Enough" by "Getting Better"
+
+[5] For more on loss aversion:
+
+- Thinking, Fast and Slow, Chapter 26: "Prospect Theory" (Daniel Kahneman, 2011)
+
+- Loss aversion (Behavioral Economics)
+
+- Questions about the validity of loss aversion have emerged in the course of social psychology's replication crisis. For example, see Kahneman and Tversky’s "debatable" loss aversion assumption (Jason Collins, 2019). While acknowledging this controversy, I still find the concept a reasonable explanation for otherwise curious behavior.
+
+[6] The Traps We Set for Ourselves
+
+[7] One More Time: How Do You Motivate Employees? (Frederick Herzberg, Harvard Business Review, originally published 1968, republished 2003)
+
+[8] Currencies (On Motivating Different People)
+
+[9] Ibid.
+
+Photo by pictures-of-money.
+
+
+===== END ED BOT ESSAY 4241 =====
+===== BEGIN ED BOT ESSAY 4242 =====
+---
+title: The Ambiguous Role of Executive Chair
+url: https://edbatista.com/2024/07/the-ambiguous-role-of-executive-chair.html
+slug: the-ambiguous-role-of-executive-chair
+published: 2024-07-28T05:00:00
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+According to Spencer Stuart, the outgoing CEO becomes the Board's Executive Chair in over 40 percent of S&P 500 CEO transitions, and I've worked with several clients who followed this path. [1] In these cases everyone agreed in principle that the company would benefit from the continuity afforded by having the former CEO take on this special role, but what this meant in practice was often highly ambiguous.
+
+A degree of ambiguity is inevitable. Any standardized "job description" for such a specialized role will fail to meet a given company's unique needs. (This is also often true for Chief Operating Officers, another role that varies widely from one organization to another. [2]) But too much ambiguity makes it difficult for the parties involved to understand what it will take for this new arrangement to work.
+
+This can pose a particular challenge for the Executive Chair and the incoming CEO. The Chair may have played a large role in recruiting and selecting their successor, and if so it's likely that both parties said the right things about their future working relationship and were reluctant to jeopardize the deal by asking too many inconvenient questions. As a result sometimes very little is spelled out with any specificity before the Chair and CEO must begin working together, which can easily lead to misunderstandings.
+
+I don't believe there are best practices that an Executive Chair must follow in order to succeed, but here are a set of questions that a new Chair and an incoming CEO can explore to arrive at a shared definition of success:
+
+The Executive Chair and the CEO
+
+- What expectations do you both have for this relationship?
+
+- How clearly have those expectations been articulated?
+
+- How often will you communicate, and on what issues?
+
+- What decisions does the Chair expect to be consulted on?
+
+- How does the CEO (really) feel about this?
+
+- What decisions does the CEO expect to make autonomously?
+
+- How does the Chair (really) feel about this?
+
+- What will happen when you disagree?
+
+- How will any disagreements be resolved?
+
+- What role will the Chair play in assessing the CEO's performance?
+
+- If necessary, how open are you to working jointly with a coach?
+
+The Executive Chair and the Board
+
+- What role will the Chair play during Board meetings?
+
+- Will they facilitate or have any other special responsibilities?
+
+- How does the CEO (really) feel about this?
+
+- What role will the Chair play in between meetings?
+
+- Will they hold one-on-ones with other Directors?
+
+- If so, is this an option or an obligation?
+
+- And how does the CEO (really) feel about this?
+
+The Executive Chair and the Business
+
+- What ongoing responsibilities (if any) will the Chair have?
+
+- How much autonomy will they have to conduct these duties?
+
+- How accessible will the Chair be to other parties, such as investors, analysts, or the media?
+
+- What role will they play in those settings?
+
+- To what extent will they be empowered to speak for the company?
+
+- And how does the CEO (really) feel about this?
+
+ 
+
+Footnotes
+
+[1] 2023 CEO Transitions (Spencer Stuart, 2024)
+
+[2] The Mythical COO
+
+ 
+
+Photo by Kyle Taylor.
+
+
+===== END ED BOT ESSAY 4242 =====

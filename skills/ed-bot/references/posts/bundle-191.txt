@@ -1,0 +1,174 @@
+===== BEGIN ED BOT ESSAY 3874 =====
+---
+title: Two Sides of Trust
+url: https://edbatista.com/2016/03/two-sides-of-trust.html
+slug: two-sides-of-trust
+published: 2016-03-24T17:42:39
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+The issue of trust comes up regularly in my practice. All of my clients are managing complicated relationships with colleagues, co-founders, senior execs, board members, and other key players who have the potential to add significant value if things go well and to do serious damage if things go poorly.
+
+Trust is a critical factor in these relationships. A baseline level of trust is necessary before we even enter into such a relationship with someone, but trust is a highly dynamic quality: What takes years to establish can be wiped out in seconds. So when our level of trust with someone is uncertain or yet to be fully established, it's important to clarify the issue by asking two questions:
+
+1. Do I trust their intentions?
+
+2. Do I trust their judgment?
+
+The answers can help us decide how to proceed. When we trust someone's intentions but doubt their judgment, it's usually easier. We can provide clearer guidance, offer more support, and strive to avoid miscommunication, while also determining whether their lack of judgment is a fatal flaw, a fixable problem, or an illusion based on inaccurate data.
+
+When we trust someone's judgment but doubt their intentions, it's usually harder. We can limit our engagement with them and minimize our exposure to risk, while also determining whether their bad intentions are truly malevolent, merely opportunistic, or just a misunderstanding.
+
+(When we doubt their intentions and their judgment, it may be time to end the relationship and move on.)
+
+These questions are also worth considering when we're seeking to establish trust with someone (instead of assessing whether or not we trust them.) The work of Harvard's Amy Cuddy is relevant here, and she and her colleagues Matthew Kohut and John Neffinger have noted,
+
+When we judge others--especially our leaders--we look first at two characteristics: how lovable they are (their warmth, communion, or trustworthiness) and how fearsome they are (their strength, agency, or competence). Although there is some disagreement about the proper labels for the traits, researchers agree that they are the two primary dimensions of social judgment. Why are these traits so important? Because they answer two critical questions: "What are this person's intentions toward me?" and "Is he or she capable of acting on those intentions?" [1]
+
+So when our trustworthiness is being assessed, we find ourselves on the receiving end of the questions above:
+
+1. Do they trust my intentions?
+
+2. Do they trust my judgment?
+
+And a problem noted by Cuddy is that most leaders seek to establish their competence first (demonstrating trustworthy judgment) rather than establishing their warmth first (demonstrating trustworthy intentions):
+
+A growing body of research suggests that the way to influence—and to lead—is to begin with warmth. Warmth is the conduit of influence: It facilitates trust and the communication and absorption of ideas. Even a few small nonverbal signals—a nod, a smile, an open gesture—can show people that you’re pleased to be in their company and attentive to their concerns. Prioritizing warmth helps you connect immediately with those around you, demonstrating that you hear them, understand them, and can be trusted by them. [2]
+
+I'm reminded of interactions I had with several of my MBA students at Stanford the first time I taught Interpersonal Dynamics (aka Touchy Feely), our most popular elective. [3] I wanted my students to have a good experience, in part because the course was so meaningful for me when I took it as a student in 1999. The course ended well, but I know that several students felt a lack of trust with me early on. In most cases I was able to overcome that gap--but not in all--and to an extent this was a function of choices I made that emphasized my competence as an instructor, rather than my intentions as a person.
+
+I've learned this lesson before in other leadership and teaching roles, but what I missed this time was the impact of being a differentiated authority figure with people who are stressed and anxious. The greater the emotional distance as a function of our role and the setting, the harder we have to work at the outset to convey our warmth and good intentions (and yet how often it pays off.)
+
+I'm also reminded of a conversation I had years ago with Clinton Moloney of the Trium Group, who shared with me this definition of trust:
+
+Trust = Motive + Reliability + Competence
+
+This formulation obviously informs my thoughts above--I prefer intentions to motive, and judgment to competence, but the concepts are close parallels. [4]
+
+ 
+
+Footnotes
+
+[1] Connect, Then Lead (Amy Cuddy, Matthew Kohut and John Neffinger, Harvard Business Review, 2013)
+
+[2] Ibid.
+
+[3] A Brief History of T-Groups
+
+[4] Clinton Moloney on Trust
+
+- Clinton didn't claim to be the originator of the formula above--I simply heard it from him first. The ever-thoughtful Charles Green has shared some background on the formula's history and its antecedents.
+
+ 
+
+Photo by Dean Hochman.
+
+
+===== END ED BOT ESSAY 3874 =====
+===== BEGIN ED BOT ESSAY 3875 =====
+---
+title: Can't Decide? Flip for It
+url: https://edbatista.com/2016/03/cant-decide-flip-for-it.html
+slug: cant-decide-flip-for-it
+published: 2016-03-22T05:00:00
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+In my work as a coach I'm often asked to help clients wrestle with big decisions, and I typically advise people to stop worrying about them. I'm not being flippant--to paraphrase former Sun Microsystems CEO Scott McNealy, "It's important to make good decisions. But I spend much less time and energy worrying about 'making the right decision' and much more time and energy ensuring that any decision I make turns out right."
+
+My attitude stems in part from the fact that by the time a client brings a decision to a coaching conversation, it's likely that they're weighing two equally good options that offer significantly different sets of pros and cons--what we call a tradeoff decision. At this point the answer isn't going to be found in the data. The individual has already made lengthy lists and gone over the various tradeoffs endlessly, and they still can't make up their mind.
+
+The answer is to stop using the mind--or, more specifically, to break the logical logjam by abandoning reason. I tell my client that we're going to conduct a thought experiment to which they need to fully commit themselves: They're going to flip a coin and allow the random outcome of that coin toss to determine this decision. Heads, they take the job in New York; tails, they stay in San Francisco. Heads, they accept the offer for their company; tails, they turn it down. Heads, they fire that difficult VP; tails, they give them another chance. The bigger the decision, the higher the stakes, the more important it is to psychologically commit to the experiment--to be prepared to allow a random event make the decision for them.
+
+This makes most clients feel ambivalent--it seems childish to evade responsibility for making the call, and yet the idea of letting fate take the decision out of their hands offers a sense of respite. But they usually agree to try it. So they flip the coin, there's a moment of intense anticipation, they reveal whether it's heads or tails... And just as their "decision" is made clear, I ask them, "How do you feel?" Typically they're experiencing one of two emotions: relief or regret. And that reaction tells them what the real decision should be. [1]
+
+There's a connection here with the conceptual model of System 1 and System 2, a way of "thinking about thinking" that was popularized by Nobel Prize-winning psychologist Daniel Kahneman [2], but which was originally coined a decade earlier by Keith Stanovich and Richard West [3]. This model suggests that we possess two distinct, parallel systems for reasoning: System 1 is automatic, unconscious, fast, and cognitively efficient, while System 2 is controlled, conscious, relatively slow, and cognitively burdensome. It's inaccurate to characterize System 1 as "emotion" and System 2 as "reason," because emotion plays a role in both processes. As Kahneman has written, "System 1 continuously generates suggestions for System 2: impressions, intuitions, intentions, and feelings. If endorsed by System 2, impressions and intuitions turn into beliefs, and impulses turn into voluntary actions. When all goes smoothly, which is most of the time, System 2 adopts the suggestions of System 1 with little or no modification." [4]
+
+In one of the responses to their paper, Stanovich and West describe the work of numerous colleagues who, "conceptualized emotions as interrupt signals supporting goal achievement. They see emotions as System 1 constructs that are particularly important in the characterization of systems whose behavior is governed by neither fixed action patterns nor impeccable rationality... The basic idea is that emotions serve to stop the combinatorial explosion of possibilities that would occur if an intelligent system tried to calculate the utility of all possible future outcomes." [5]
+
+In other words, emotions can serve as crucial inputs in the decision-making process, serving as biasing mechanisms that help us choose when the possibilities are too numerous or complex to for us to rely upon reason alone. [6] This isn't to say that emotions are always an accurate guide to the best decision, of course, but in the situation I've described here, the problem isn't an excess of emotion, but its opposite--insufficient emotion that's needed as an "interrupt signal" to break through the logical logjam.
+
+The drama of the coin flip--the uncertainty of the outcome and even the momentary thrill of irresponsibility that it fosters--creates a heightened emotional moment that allows us to tap into deeper System 1 impulses that can augment and inform--or disrupt--System 2.
+
+ 
+
+ 
+
+Footnotes
+
+[1] This method of decision-making is widely attributed to Freud, although I can't find a shred of reliable evidence. Still, it makes for a charming story.
+
+[2] Thinking, Fast and Slow (Daniel Kahneman, 2011)
+
+[3] Individual differences in reasoning: Implications for the rationality debate? (Keith Stanovich and Richard West, Behavioral and Brain Sciences, 2000)
+
+[4] Of 2 Minds: How Fast and Slow Thinking Shape Perception and Choice (Daniel Kahneman, Scientific American, 2012 [an excerpt from Thinking, Fast and Slow])
+
+[5] Stanovich and West.
+
+[6] Antonio Damasio on Emotion and Reason
+
+Photo by Marcy Leigh.
+
+
+===== END ED BOT ESSAY 3875 =====
+===== BEGIN ED BOT ESSAY 3876 =====
+---
+title: Feedback and Coaching with the @StanfordBiz ECG
+url: https://edbatista.com/2016/03/feedback-and-coaching-with-the-stanfordbiz-ecg.html
+slug: feedback-and-coaching-with-the-stanfordbiz-ecg
+published: 2016-03-17T12:52:35
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+Last night I did a workshop on interpersonal feedback and coaching skills with Stanford's Entrepreneurial Commitment Group, a select network of early stage venture founders who meet monthly during the course of the year. I did a similar event with the ECG in 2014, and it was rewarding to see some familiar faces and to meet some new founders who just joined the group this year.
+
+A condensed version of my slide deck is above. Thanks to the many coaches, educators, psychologists, neuroscientists and management thinkers who have influenced my approach to these topics. There are too many to list them all, but the ones whose work is referenced here include Antonio Damasio, Brené Brown, Carole Robin, David Bradford, David Rock, Edgar Schein, John Gottman, Joseph LeDoux, Mary Ann Huckabay, Richard Francisco, Scott Bristol, and Victor Johnston.
+
+Thanks to the ECG members for their enthusiasm and hard work last night, and thanks to the incomparable Alex Tauber and Nancy Gross, who invited me to get involved and whose efforts keep the ECG community thriving year after year.
+
+
+===== END ED BOT ESSAY 3876 =====
+===== BEGIN ED BOT ESSAY 3877 =====
+---
+title: Are We Rowing or Rafting?
+url: https://edbatista.com/2016/03/startup-leadership-are-we-rowing-or-rafting.html
+slug: startup-leadership-are-we-rowing-or-rafting
+published: 2016-03-16T05:00:00
+updated: 2025-10-10T14:14:00
+source_body: wordpress-html
+---
+
+Last year I proposed that startup leaders assess the composition of their team and the emerging organizational culture by asking "Are we video-gaming or ditch-digging?" This post poses a related question aimed at helping leaders adapt their management style to the task at hand and match people with suitable roles and projects: Are we rowing crew or whitewater rafting?
+
+When powered by a team of skilled rowers, racing shells makes rapid progress toward the finish line. They move quickly and efficiently, although to be truly effective they require calm conditions and a clearly defined goal, and they have to be pointed in the right direction at the start, because they can't navigate sharp turns. (Don't even think about trying to reverse course.)
+
+Although river rafts are also a form of water transport, they couldn't be more different from racing shells. Rafts can handle the most turbulent whitewater, and they're much less effective in calm conditions where they're harder to propel. As a result they're easy to turn and can even reverse course when necessary, but are generally better suited to exploring than racing.
+
+Early-stage startups can alternate rapidly between rowing and rafting, and early-stage leaders need to sense what mode is required in a given moment in order to manage the team accordingly. Sometimes it's a rowing race, and the team needs to find the shortest path to the finish line, with everyone pulling together in unison. And sometimes it's whitewater rafting, and the team needs to creatively explore the best ways to survive the surrounding turmoil and chaos.
+
+As the company grows, different roles and functions begin to take on different identities, typically related to their operational responsibilities. Some individuals and sub-groups spend more time rowing, while others spend more time rafting. These distinctions aren't definitive, however; even hard-core ops teams need to do some exploring on a raft now and then, and even blue-sky strategists need to drive toward a finish line once in a while.
+
+The key for later-stage leaders is knowing what mode a team will typically operate in, hiring execs with the appropriate mindset and skills, and then stepping back or getting hands-on, depending on the situation. A team of rowers may need to be managed closely at the outset, to ensure that they're headed in the right direction, and then they may need to be left alone to make meaningful progress. A team of rafters may need some time and space at the outset to explore various possibilities, and they may need closer guidance later on to ensure that the exploring doesn't continue indefinitely.
+
+Alternately, a team of rowers may need help making progress through rougher waters, and a team of rafters may need some propulsive energy if they're entering a calm stretch, particularly if their immediate managers lack those skills personally.
+
+A challenge startup leaders often face is the exec whose skillset was the right fit for the role when they were hired, but who's now failing to evolve with the company's needs. They're a talented whitewater rafter, but what's needed today is focus and efficiency. Or they're great in a racing shell, but what's needed today is creative thinking in a chaotic environment. There's no simple solution, but the best startup leaders are able to coach their executives and help them grow along with the company, while also being prepared to fire team members when necessary in a way that's minimally disruptive and traumatic.
+
+For Further Reading
+
+Startup Leadership: A Greater Us
+
+Startup Leadership: Are We Video-Gaming or Ditch-Digging?
+
+Startups as Human Systems
+
+Startup Leadership (A compilation of related posts.)
+
+Photos: Rowers by Christopher Schmidt. Rafters by ariel wants a chip.
+
+
+===== END ED BOT ESSAY 3877 =====

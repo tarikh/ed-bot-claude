@@ -1,0 +1,144 @@
+===== BEGIN ED BOT ESSAY 3379 =====
+---
+title: Steven Johnson, Reality TV and Texas Ranch House
+url: https://edbatista.com/2006/05/steven_johnson_.html
+slug: steven_johnson_
+published: 2006-05-03T10:31:07
+updated: 2006-05-03T10:31:07
+source_body: wordpress-html
+---
+
+Steven Johnson's Everything Bad Is Good For You (a brilliant book that I find myself referring to constantly) is subtitled "How Today's Popular Culture Is Actually Making Us Smarter," and one of the examples he cites is (gasp!) reality television:
+
+The conventional wisdom is that audiences flock to reality programming because they enjoy the prurient sight of other people being humiliated on national TV... But for the most successful reality shows--Survivor or The Apprentice--the appeal is more sophisticated...
+
+As each show discloses its conventions, and each participant reveals his or her personality traits and background, the intrigue in watching comes from figuring out how the participants should best navigate the environment that's been created for them. The pleasure in these shows comes not from watching other human beings humilated on national television; it comes from depositing other human beings in a complex, high-stakes environment where no established strategies exist, and watching them find their bearings. That's why the water-cooler conversation about these shows invariably tracks in on the strategy displayed on the previous night's episode...
+
+Bingo. And today there's a flavor of reality programming to fit every cultural palate, from lowbrow, gross-out/thrill-seeking shows like Fear Factor and schadenfraude-fests like Blind Date, to the quasi-educational, historical-fish-out-of-water series like Texas Ranch House that have become a staple on public television.
+
+I love shows like Texas Ranch House, and Johnson zeroes in on their primary appeal: second-guessing the participants' strategic choices in a complicated social environment. I've often thought these shows could serve as management training tools by providing engaging examples of successful (and not-so-successful) interpersonal techniques.
+
+Texas Ranch House (currently halfway through its eight-episode run on PBS) is a textbook case in this regard. The ranch "owner," real-life San Francisco hospital administrator Bill Cooke, may yet succeed in rounding up and selling enough cattle to insure the ranch's survival, but at this point things aren't looking good, in no small part because of Cooke's missteps as a manager.
+
+Cooke's cowboys think he's putting his family's creature comforts ahead of their professional needs and that his submissive attitude toward his wife is jeopardizing the ranch's future. At the same time, Cooke's wife thinks the cowboys are exploiting her husband's desire to be liked and that their complaints are fueled by sexism and petty resentments. Even Cooke's daughters are unhappy and want to go home. The guy's in a tight spot, and I find it impossible to tear myself away--not because I'm enjoying Cooke's difficulties, but because I keep thinking to myself (or actually yelling at the screen), "Why didn't you do [this or that] instead?!?"
+
+But I'm not just venting and feeling superior--I'm actually taking away some valuable insights. Cooke's fundamental problem is that although his natural management style is conciliatory and team-oriented, he never invested the time and energy required to forge his family and his cowboys into a united team. Instead, they've split into two competing tribes, with him caught in the middle. He can't choose one group over the other, and in any event he lacks the force and authority to compel one group to submit to his will. But neither can he effectively ask either group to make necessary compromises, because they feel little allegiance to the team as a whole or to him as their leader. (Of course, it doesn't help that his style of delivering bad news is reminiscent of Office Space's Bill Lumberg [sound clip].) They may be negative lessons, but there's a lot to learn in there.
+
+Returning to "Everything Bad Is Good For You," Johnson makes the link between our interest in reality television and our professional environments even more explicit:
+
+Reality shows...challenge our emotional intelligence... They are, in a sense, elaborately staged group psychology experiments... The shows seem so fresh to today's audience because they tap this crucial faculty of the mind in ways that ordinary dramas or comedies rarely do--borrowing the participatory format of the game show while simultaneously challenging our emotional IQ.
+
+...[C]ountless studies have demonstrated the pivotal role that emotional intelligence plays in seemingly high-minded professions: business, law, politics. Any profession that involves regular interaction with other people will place a high premium on mind reading and emotional IQ. Of all the media available to us today, television is uniquely suited for conveying the fine gradients of these social skills... Reality programming has simply recognized that intrinsic strength and built a whole genre around it.
+
+The management training field is full of stultifying, poorly produced videos and other training tools intended to represent real-life situations. Why not substitute highly engaging reality programming instead? PBS programs like Texas Ranch House have lesson plans for teachers that cover topics such as cattle drives and 19th century music at a middle school level. It would be a snap to develop some materials for grown-ups that cover topics such as leadership, team-building and conflict resolution. You know, I'm only half-joking.
+
+tags: steven johnson texas ranch house reality television office space
+
+
+===== END ED BOT ESSAY 3379 =====
+===== BEGIN ED BOT ESSAY 3380 =====
+---
+title: Debord, Stewart, Colbert
+url: https://edbatista.com/2006/05/debord_stewart_.html
+slug: debord_stewart_
+published: 2006-05-02T09:08:35
+updated: 2006-05-02T09:08:35
+source_body: wordpress-html
+---
+
+In an astute assessment of Stephen Colbert's White House Correspondents Association performance [1], Michael Scherer identifies Colbert and his contemporary and mentor Jon Stewart as the latest and most politically influential public figures in a lineage that stretches back to the French situationist Guy Debord:
+
+Obviously, Colbert is not the first ironic warrior to train his sights on the powerful. What the insurgent culture jammers at Adbusters did for Madison Avenue, and the Barbie Liberation Organization did for children's toys, and Seinfeld did for the sitcom, and the Onion did for the small-town newspaper, Jon Stewart discovered he could do for television news. Now Colbert, Stewart's spawn, has taken on the right-wing message machine.
+
+In the late 1960s, the Situationists in France called such ironic mockery "détournement," a word that roughly translates to "abduction" or "embezzlement." It was considered a revolutionary act, helping to channel the frustration of the Paris student riots of 1968. They co-opted and altered famous paintings, newspapers, books and documentary films, seeking subversive ideas in the found objects of popular culture. "Plagiarism is necessary," wrote Guy Debord, the famed Situationist, referring to his strategy of mockery and semiotic inversion. "Progress demands it. Staying close to an author's phrasing, plagiarism exploits his expressions, erases false ideas, replaces them with correct ideas." [2]
+
+This analysis explains perfectly why Stewart and now Colbert have had such a significant impact on our political culture--and it also explains why I'm so annoyed by Stewart's shrugging, "Hey, I'm just a comedian" disclaimers.
+
+As Scherer makes clear, Stewart essentially plagiarized the network news, and now Colbert's doing the same with talk-show pundits. They're taking an established cultural form and turning it against itself. And this plagiarism primarily serves to highlight the fundamental falsehood of the original. It's an intensely political act that can also be side-splittingly funny--although Colbert's White House Correspondents performance was over-long and poorly paced--but the humor can't be separated from the underlying critique.  If Stewart really were just a comedian, he wouldn't be nearly as funny.
+
+But Scherer's Salon piece doesn't follow through on the implications of invoking Debord, and it's worth taking a longer look at the man's profoundly unfunny ideas. Like many radical critics of contemporary society, Debord never came up with an alternative vision that could be implemented. And his pessimistic worldview was surely influenced by the depression and personal problems that led to his suicide in 1994. But these factors don't eliminate the analytical brilliance of many of his insights. From 1967's Society of the Spectacle:
+
+1. In societies dominated by modern conditions of production, life is presented as an immense accumulation of spectacles...
+
+6. Understood in its totality, the spectacle is both the result and the goal of the dominant mode of production. It is not a mere decoration added to the real world. It is the very heart of this real society's unreality. In all of its particular manifestations--news, propaganda, advertising, entertainment--the spectacle represents the dominant model of life...
+
+9. In a world that is really upside down, the true is a moment of the false. [3]
+
+This says a lot to me about Stewart and Colbert's success and influence. Stewart was not a news anchor, of course, just as Colbert was not a pundit, but decades of immersion in the ultimate society of the spectacle have taught us that even "real" news anchors and pundits are acting out roles, and so Stewart and Colbert had license to do the same. And their actual message, well-understood by their audiences, is in direct opposition to what they appear to be saying. The true is a moment of the false. So by taking on these roles, Stewart and Colbert have become them.
+
+No matter how much Stewart demurs, he is now a "real" anchor and Colbert is clearly on his way to becoming a "real" pundit. Some critics--and even Stewart himself--like to use the fact that an increasing number of people rely on Stewart's "Daily Show" as their primary source of news as an example of cultural decline. I think that's true, but it's not because people are stupid, which is the subtext of that argument; it's because people are smart. They're sufficiently smart and media-savvy to know that A) Stewart is an incisive political commentator, and B) the "real" broadcasts and talk shows are not only boring and patronizing, they're also at least part bullshit--they're spectacles.
+
+Debord would probably see Stewart and Colbert's success as yet another spectacle, and I understand that logic. Stewart and Colbert aren't working on radical journals to circulate among a few dozen of their similarly disaffected friends. They're reaching millions of people through television and mass-market books and having a significant impact on the culture at large (and presumably making millions of dollars in the process.) They are, in fact, spectacles themselves.
+
+If you inherently distrust the spectacle, as Debord did, this is probably a recipe for despair. Stewart and Colbert have embraced Debord's critical methods, but their successful use of those methods means that they've also embraced the apparatus of the spectacle. That success has come because of--not despite--their highly critical and politicized perspective, but the society of the spectacle has no trouble absorbing that critique, because it does nothing to challenge the spectacle itself.
+
+Fair enough, but I can't help but take a more optimistic perspective. (Not that it's hard to have a sunnier worldview than Debord's.) Yes, we're all deeply embedded in the society of the spectacle, and that's never going to change. But Stewart and Colbert's success in employing the apparatus of the spectacle to mount substantive challenges to established political and media hierarchies suggests that the spectacle itself is inherently neutral. There's no tautology that will inevitably lead the society of the spectacle back into the dark heart of fascism--in fact, the spectacle can be an effective anti-fascist tool.
+
+The spectacle is also, quite obviously, a source of great satisfaction and an object of intense fascination. We love spectacles; that's what makes them so successful. And if, as I do, you accept the idea that spectacles can be employed for salutary purposes as well as malign ones, then the issue boils down to one's view on consumer capitalism--which, I'd argue, will always triumph over competing worldviews largely because of its superior ability to create compelling spectacles.
+
+Does consumer capitalism fundamentally respond to and fill--or manufacture and exploit--our individual desires? If you believe the latter, then you're back in the boat with Debord; consumer capitalism's mastery of the spectacle has turned us all into sheep waiting to be fleeced. If you believe the former, then life's not perfect, but it's a lot rosier; for better and for worse, we get the society/politics/culture we deserve.
+
+I'm not naive about the influence of advertising or other tools at capitalism's command, but I'm firmly in the former camp. And so even though I disagree with a number of Stewart and Colbert's positions (and even though Stewart's disingenuous denials of political influence drive me nuts), I'm thrilled by their existence and success.
+
+By putting Debord's critical methods into practice on some of the biggest stages our society has to offer, Stewart and Colbert are casting a harsh spotlight on the extent to which the object of their ridicule--not just news broadcasts and talk-show pundits, but our entire political and media culture--relies on insincerity, on falsehoods, and on the gullibility of the audience. In contrast, Stewart and Colbert are saying to their audience, "We're smart enough to know how smart you are, and together we're all going to have a laugh at those idiots' expense."
+
+This thrills me primarily because my foundational belief is that people should be free to make choices for themselves, and if you believe that people are smart and not stupid, it's a short step from there to respecting their freedom. (That actually puts me at odds with any number of liberal supporters and conservative critics of Stewart and Colbert, but that's a post for another day.)
+
+Many thanks to Michael Scherer for framing this discussion around Guy Debord. I've been intrigued by Stewart and Colbert and the success of their form of political discourse for some time now without being able to fully understand why, and seeing them as Debord's spiritual descendants is a brilliant insight.
+
+ 
+
+Footnotes
+
+[1] Stephen Colbert Roasts Bush at 2006 White House Correspondents Dinner (YouTube, 2006)
+
+[2] The truthiness hurts (Michael Scherer, Salon, 2006)
+
+[3] Society of the Spectacle (Guy Debord, 1967)
+
+
+===== END ED BOT ESSAY 3380 =====
+===== BEGIN ED BOT ESSAY 3381 =====
+---
+title: At Strybing Arboretum
+url: https://edbatista.com/2006/04/at_strybing_arb.html
+slug: at_strybing_arb
+published: 2006-04-30T21:50:34
+updated: 2006-04-30T21:50:34
+source_body: wordpress-html
+---
+
+I saw a hawk catch a snake today at Strybing Arboretum. The hawk first settled into a tall pine with its prize, but hectoring blue jay forced it out into another tree, where it struggled with the unwieldy meal. More shots in my SF album.
+
+
+===== END ED BOT ESSAY 3381 =====
+===== BEGIN ED BOT ESSAY 3383 =====
+---
+title: A Word to the IvyWise
+url: https://edbatista.com/2006/04/a_word_to_the_i.html
+slug: a_word_to_the_i
+published: 2006-04-28T09:47:00
+updated: 2006-04-28T09:47:00
+source_body: wordpress-html
+---
+
+I'm not a parent, and my nieces and nephews aren't yet in high school, so I'm pretty much out of the loop with regard to what it takes to get into a competitive college these days.  Thus my surprise at learning about the "admissions packaging" industry, represented by such groups as IvyWise, whose services start with the "Nursery School Package" and range all the way through grad school.
+
+I fully support the idea that experienced professionals can help a kid explore and understand their interests and abilities, so that the admission process isn't simply about getting into the "best" school but about getting into the school and starting down the life path that's best-suited to that particular kid.
+
+But the recent plagiarism furor surrounding young author Kaavya Viswanathan, an IvyWise client who's now a sophomore at Harvard, suggests that "admissions packaging" can go beyond helping a kid understand herself better in order to present herself more effectively to an Admissions Committee.  These services don't just "package" people--they invent them.  There can be a kernel of truth in these exercises--Viswanathan was actually interested in writing, and ultimately a book was written (although apparently by committee)--but taken to extremes, they're fundamentally phony and inauthentic.
+
+OK, so why does a childless guy like me care?  I'm never going to be an IvyWise client.  I care because this isn't just about getting into college or one kid's plagiarism.  It's about the fact that we are now marketing ourselves more self-consciously and at ever-younger ages, and because marketing--and packaging in particular--can have such a powerful impact, we owe it to our authentic selves and to the audiences we're seeking to reach to do so responsibly.
+
+Malcolm Gladwell described Louis Cheskin's concept of "sensation transference" in Blink,
+
+[M]ost of us don't make a distinction--on an unconscious level--between the package and the product.  The product is the package and the product combined.
+
+Sleazy marketers and flim-flam artists of all stripes have abused this process so thoroughly over the years that it sounds shady, a type of trickery.  But nevertheless it works--as Gladwell reports, marketers have demonstrated that ice cream tastes better if it comes in a cylindrical container instead of a rectangular one, brandy tastes better if it comes in a decanter instead of a wine bottle, and margarine tastes better if it's colored yellow instead of white.
+
+It's one thing to rely on superior packaging to transform food; it's another to use the same process to transform ourselves.  I'm not railing against the practice--it's here to stay, and I'm sure it can be of real value when applied appropriately.  But there's a line that separates a more effective presentation of our authentic self from the creation of an inauthentic self intended to make a more favorable impression than our authentic self ever could.  And if we cross that line, and grab whatever brass ring we thought would elude our authentic self, what have we won?  And at what cost?
+
+tag: kaavya viswanathan louis cheskin malcolm gladwell
+
+
+===== END ED BOT ESSAY 3383 =====

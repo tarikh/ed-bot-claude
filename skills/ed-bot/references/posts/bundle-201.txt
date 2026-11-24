@@ -1,0 +1,264 @@
+===== BEGIN ED BOT ESSAY 3914 =====
+---
+title: Monuments to Our Inadequacy
+url: https://edbatista.com/2016/12/monuments-to-our-inadequacy.html
+slug: monuments-to-our-inadequacy
+published: 2016-12-30T05:00:00
+updated: 2025-10-10T18:03:26
+source_body: wordpress-html
+---
+
+Perspective matters. Take the field full of manure above, for example. We could view it as an overwhelming amount of shit, or as a rich source of fertilizer.
+
+A friend was bemoaning the state of her workspace, which was full of unorganized piles, both physical and digital. This happens to me as well--I'm not a natural organizer, I have to work to stay on top of the information streams in my life, and sometimes I simply have more important things to do. [1] So shit piles up. This isn't optimal, and I've learned that I need to find a balance between maintaining order and allowing myself some freedom, and if I let things go for too long the clutter becomes a source of distraction. But my friend was beating herself up for her disorderly space, and it occurred to me that she was viewing these piles not merely as a failure of organization, but as character flaws, as signs of some fundamental incapability. She had transformed them into monuments to her inadequacy.
+
+We should view ourselves with clarity and hold ourselves accountable, and sometimes this requires a self-administered kick in the ass. But it's important to do this with care and compassion for ourselves, because when a kick in the ass turns into habitual self-criticism, when we view evidence of our shortcomings as monuments to our inadequacy, we tend not to respond well. [2] We either rebel against the critical voice, rejecting its prudent but poorly-delivered advice, or we feel defeated by it, losing hope in our ability to overcome the difficulty. In either case, the transformation of evidence into monuments is counter-productive.
+
+Evidence is the starting point of an investigation and invites our curiosity. We may choose to accept the evidence and act upon it, but we retain our sense of agency. Monuments are finished products, indifferent to our inquiries and impassive in the face of our efforts. We cannot choose to accept or reject a monument--its existence is a fact that simply imposes itself upon us.
+
+So when assessing our own effectiveness and exploring the possibility of change, we should by all means gather evidence and inspect it closely, while taking care to avoid constructing any monuments. [3] Those piles of shit just might be rich sources of fertilizer.
+
+Thanks to Stowe Boyd, whose post on Erosion, Streams and Piles planted the seed for this one, which sprouted just seven years later.
+
+Footnotes
+
+[1] Importance vs. Urgency
+
+[2] Three More Horsemen (How We Self-Sabotage)
+
+[3] Why Change Is Hard
+
+Photo by NIOSH.
+
+
+===== END ED BOT ESSAY 3914 =====
+===== BEGIN ED BOT ESSAY 3915 =====
+---
+title: You Make Me Feel... (On Language and Responsibility)
+url: https://edbatista.com/2016/12/you-make-me-feel-on-language-and-responsibility.html
+slug: you-make-me-feel-on-language-and-responsibility
+published: 2016-12-29T05:00:00
+updated: 2025-10-10T18:04:16
+source_body: wordpress-html
+---
+
+A recent conversation with a client reminded me of the power of language to shape our experience--and of the importance of taking responsibility for our experience. My client was describing a difficult conversation with an employee, one in which there were strong feelings on both sides. "He made me feel terrible," my client said. There's nothing unusual about that sentence--we say things like that all the time, at least in English:
+
+He made me feel terrible.
+
+She makes me so frustrated.
+
+You're making me really unhappy.
+
+Statements like this can serve a useful purpose--particularly when we're able to express them in the moment--because they clarify and reveal our emotional state. Anytime we can articulate our feelings toward another person rather than require them to make guesses based on our behavior, communication is more accurate and effective. [1,2]
+
+But statements like this also contain a fatal flaw, one that often makes communication more difficult: Saying that someone else "makes us feel" an emotion suggests that they are responsible for our emotional state, and that's highly problematic. When another person's statements and behavior trigger an emotional response in us, it's inaccurate to presume that the other person is the responsible party and that we're an innocent bystander.
+
+We're not passive recipients of the data through which we interpret and make sense of the world. We play an active role in every stage of the process as we gather, interpret, and respond to that data, which includes other people's statements and behavior. A useful model to illustrate this dynamic is the "Ladder of Inference," developed by Chris Argyris, a longtime professor at Harvard Business School, building on the work of linguist (and U.S. senator) S.I. Hayakawa and philosopher Alford Korzybski. [3]
+
+Consider the four steps in this process:
+
+- From all observable data, we select specific data to focus upon.
+
+- We interpret this data and invest it with meaning.
+
+- We develop theories and beliefs that explain our interpretation.
+
+- We take action on the basis of our theories and beliefs.
+
+Now apply this model to an interpersonal interaction that's triggering an emotional response in us, and consider the responsibility we bear at each stage:
+
+- We determine which of the other person's statements and behavior to focus on. Note that there's also a vast amount of data that we're simultaneously ignoring, and the choices we make (consciously and unconsciously) regarding what to pay attention to (and what to ignore) are profoundly influenced by our cognitive biases. [4]
+
+- We interpret the other person's statements and behavior in order to render it meaningful. There are always different possible interpretations, but the ones we assign to this data are derived from our mental models, the constructs that we've developed to make sense of and navigate the world. [5]
+
+- We develop theories and beliefs regarding the other person's motives and intentions to explain our interpretations. As with our interpretations, the belief structure that guides our actions is informed by our mental models and our (highly subjective) memories of our experiences with this person and others.
+
+- Finally, we act on the basis of this conceptual framework that we've created. Note that our emotional responses are actions even when we don't express them outwardly. Emotions are physiological events, starting with the release of neurotransmitters in our brain that trigger a cascading series of bodily reactions: changes in our heart rate, blood pressure, respiration, hearing, and vision, to name just a few. These internal responses contribute to our conscious awareness of an emotional state, which we may then express outwardly in ways large and small, from facial expressions and body language, to our manner of speaking, to the actual content of our statements.
+
+Clearly we're responsible in any number of ways when we have an emotional response to another person, and when we say, "You make me feel..." we're shirking our responsibility and foisting it onto the other person. At that moment we're acting like a victim. The Trium Group's definitions of a "responsible mindset" and a "victim mindset" are highly applicable here:
+
+Responsible Mindset
+
+I view myself as an integral factor in all situations. Every situation occurs and unfolds as it does in some measure as a direct outcome of my actions, non-actions and interpretations. I believe there is always something I can do to affect the situation.
+
+Victim Mindset
+
+I view myself as separate and disconnected from situations as they occur. Circumstances and events happen to me. I believe there is nothing I can do to affect the situation. [6]
+
+And Stanford professor Jeff Pfeffer has this to say about responsibility, in a paper that refers to work by Trium on the topic:
+
+Responsibility entails feeling efficacious and believing one has some obligation to make the world, including the organizational world, in which one lives a better place... [The] responsibility mindset is simply seeing oneself as an actor affecting, or trying to affect, what goes on rather than being in a more passive role of having things happen to oneself. [7]
+
+Which brings me back to the coaching client I mention above. My clients are senior leaders who are responsible for building a culture, and, to Pfeffer's point, they're committed to making their organizations better, a process in which their interactions with others are critical. And while they're realistic about the limits on their agency, they recognize that as leaders they have both an opportunity and an obligation to take responsibility for their role in effective (and ineffective) interactions. In all cases, no matter who we are, this starts with how we frame the experience.
+
+Footnotes
+
+[1] Five Levels of Communication
+
+[2] We're Leaky (Emotional Signals and Cognitive Dissonance)
+
+[3] Racing Up the Ladder of Inference
+
+[4] Seeing What's Not There (The Importance of Missing Data)
+
+[5] Corn Mazes and Mental Models
+
+[6] The Trium Group on Responsibility
+
+[7] "Changing mental models: HR's most important task" (Jeffrey Pfeffer, Human Resource Management, May 2005)
+
+Photo by Jonty.
+
+
+===== END ED BOT ESSAY 3915 =====
+===== BEGIN ED BOT ESSAY 3916 =====
+---
+title: Importance vs. Urgency
+url: https://edbatista.com/2016/12/importance-vs-urgency.html
+slug: importance-vs-urgency
+published: 2016-12-28T05:00:00
+updated: 2025-10-11T17:47:42
+source_body: wordpress-html
+---
+
+The idea of contrasting Importance and Urgency is nothing new. Dwight Eisenhower supposedly came up with the concept [1], presumably in the mid-20th century, although I haven’t yet found any compelling evidence, and Stephen Covey later popularized it in The Seven Habits of Highly Effective People. [2]
+
+I was first exposed to the idea in 1999 in Joel Peterson’s classroom at Stanford, and I’ve been reflecting on it for the last decade because it’s a topic that comes up constantly in my work with coaching clients and MBA students. [3] Why is it so significant? First, let’s clarify what we mean:
+
+Important activities are truly meaningful and fulfilling--to you, to the people who matter to you, to your organization, or to some cause that you believe in. They’re not necessarily time-dependent; they can be accomplished almost anytime, and if they go undone for a short stretch no one may even notice.
+
+Urgent activities have a deadline attached to them that matters to someone—although not necessarily to you. They are time-dependent, at least in someone’s mind, and if they go undone that someone is going to be unhappy. They’re not necessarily meaningful or fulfilling, and accomplishing them may not actually make a significant difference.
+
+When we appreciate the difference between importance and urgency, we can categorize our activities and items on our to-do lists (and items that other people want to put on our to-list) according to this 2x2 matrix, which illustrates some simple but powerful distinctions.
+
+Important But Not Urgent activities are like brushing our teeth (or exercise or meditation): There are no real consequences if we skip a day, but if that becomes a trend we’ll miss out on significant benefits and may run into serious problems. These activities tend to matter much more to us than to others.
+
+As a result we need to take particular care to protect them on our calendars—without strong boundaries to preserve the necessary time, they’ll get pushed off and left behind. We also need to cultivate consistent habits around these activities in order to build sustainable commitments—if we have to stop and think each time we contemplate pursuing them, we’ll follow through much less often. But we’ll inevitably falter, and the key is getting back on track as soon as possible.
+
+Unimportant & Not Urgent activities are mindless exercises in watching our time and attention run down the drain. They have a role to play when we’re stressed or depleted, and it’s unhelpful to try to banish them from our lives, but we need to put limits on them and be sure to avoid engaging in them as a form of "pseudo-work."
+
+This is when we imagine we’re doing meaningful work, but we’re really just fooling ourselves and play-acting at being productive. Far better to engage in some actual, honest mindless recreation, because at least then we’re enjoying and replenishing ourselves. The key is to insure that we don’t get stuck in these activities—they’re often intentionally designed to captivate us when we’re susceptible to their appeal, and it can be difficult to break away when we’ve exhausted their benefits.
+
+Unimportant But Urgent activities matter to someone else, but not to us. We feel pressure to complete them (not only from others, but also from ourselves), and yet doing so will make a minimal difference in our efforts to achieve our goals. We can’t neglect them entirely, but we must be ruthless about triaging and prioritizing.
+
+There are multiple issues to navigate here: Dismissing these activities entirely runs the risk of offending the people to whom they matter—and yet if we strive to never give offense we allow others to dictate where we should direct our attention and spend our time. We live immersed in a sea of devices and systems that are designed to interrupt us constantly—and yet if we turn our back on these tools entirely we may miss out on their benefits. And perhaps most importantly, even though we know intellectually that these issues are unimportant, we’re highly sensitive to the anxiety and other feelings generated by a sense of urgency—and yet being keenly attuned to our emotions is a critical skill in professional life.
+
+Important & Urgent activities are like fire alarms: They capture our attention automatically, and we mobilize to address them immediately. The problem is that other people want all the items on their agenda to be treated this way. The key is recognizing that very few items on our agenda actually fall into this category.
+
+There’s little risk of failing to respond to fire alarms and dealing with the blaze that triggered them—but particularly in competitive environments or high-profile roles where the cost of failure is real, there’s a significant risk of treating everything like a fire drill, and this is a certain path to eventual underperformance and burnout.
+
+Embedded in this framework is an inherent tension that results in a constant battle: The time and attention we would otherwise devote to Important But Not Urgent activities is often sacrificed to address Unimportant But Urgent matters. One challenge is that we’re the only ones who care about the former, while the latter have many advocates. Further, research on a dynamic known as the "mere urgency effect" can lead us to prioritize urgent tasks even when it's irrational to do so, in part because a sense of urgency captures our attention:
+
+People’s tendency to procrastinate on what is important to finish what is urgent goes beyond rational inferences, reflecting a basic psychological preference. In particular, we find that the limited time frame embedded in urgent tasks...elicits attention, diverting focus away from the magnitudes of task outcomes. [4]
+
+So what can we do? There’s no simple answer to the dilemmas posed here, but there are several practices that can help:
+
+Make Time for Reflection
+
+If we don’t stop on a regular basis to consider what’s truly meaningful and fulfilling to us—and to identify the important activities that allow us to realize that meaning and feel a sense of fulfillment—our calendars and our to-do lists will reflect the priorities of others, not our own. More specifically, research suggests that pro-actively reserving time for important-but-not-urgent work yields significant improvements in time management, productivity, greater focus, and diminished stress. [5]
+
+Engage in Consistent Self-Care
+
+The ability to grasp the distinctions above, to determine where activities truly belong, and to gracefully communicate these decisions to others rests on a solid foundation of self-care. Engaging in meditation (or other forms of mindfulness), regular exercise, and good sleep hygiene, while minimizing unnecessary stress all contribute to our ability to do this work more effectively.
+
+Address Our Emotions
+
+The practices above will also help us manage our emotions, and we can take this a step further by addressing our emotions directly. Much of our counterproductive behavior, from wasting time in "pseudo-work" to neglecting important tasks in favor of urgent ones, has its roots in an emotional response. This isn’t to suggest that feelings are "bad" and logic is "good"—our emotions are essential inputs into our reasoning process, not an opposing force. But we’re better able to make use of our emotions when we’re aware of them and able to assess their validity. This entails feeling them within ourselves (literally—most emotions are physiological events before they register in consciousness), labeling them with accurate terminology, and articulating them to others in safe, trusting relationships.
+
+Footnotes
+
+[1] The Eisenhower Matrix
+
+[2] The 7 Habits of Highly Effective People, page 160 (Stephen Covey, 1989/2013)
+
+[3] Joel Peterson on What's Important
+
+[4] The Mere Urgency Effect (Meng Zhu, Yang Yang and Christopher Hsee, Journal of Consumer Research, February 2018)
+
+[5] Pro-Time Pilot Study [PDF] (Charlotte Blank and Laurel Newman, Maritz, March 2019)
+
+Thanks to Ethan Mollick for references to the research in footnotes 4 and 5.
+
+Photos:
+
+- Toothbrush by Tamaki Sono.
+
+- Sink by Dean Hochman.
+
+- Email by Steve Boese.
+
+- Alarm by David Mulder.
+
+
+===== END ED BOT ESSAY 3916 =====
+===== BEGIN ED BOT ESSAY 3917 =====
+---
+title: Three More Horsemen (How We Self-Sabotage)
+url: https://edbatista.com/2016/12/three-more-horsemen-how-we-self-sabotage.html
+slug: three-more-horsemen-how-we-self-sabotage
+published: 2016-12-27T05:00:00
+updated: 2025-10-11T17:49:52
+source_body: wordpress-html
+---
+
+University of Washington social psychologist John Gottman has described a set of behaviors as "the Four Horsemen," referring to a symbol of the apocalypse in the Book of Revelation. These four interpersonal dynamics have a predictable and powerful negative impact on a relationship and are often indicators of worse problems to come:
+
+- Criticism: Presenting a problem as though it were the result of the other person's defective personality.
+
+- Contempt: The suggestion that you're superior in some way to the other person.
+
+- Stonewalling: A refusal to engage and provide feedback.
+
+- Defensiveness: Denial of responsibility for any part of a problem. [1,2]
+
+Gottman notes that although these dynamics are counter-productive over the long term, we tend to fall back upon them during stressful experiences because we find them soothing. They often lower the heart rate, particularly in men, but this doesn't make them effective conflict-management strategies--the key is finding better ways to soothe ourselves when under stress.
+
+In my work as a coach and teacher I see these dynamics not only in interpersonal relationships with others, but also in our relationship with ourselves, where they show up as three forms of self-sabotage:
+
+Self-Criticism: Viewing a problem as the result of our defective personality.
+
+This is a version of the "fixed mindset" in Stanford psychologist Carol Dweck's framework, which Maria Popova describes as the belief that "our character, intelligence, and creative ability are static givens which we can’t change in any meaningful way." [3] When we make a mistake or suffer a setback, we see it as an inevitable function of the limitations of our intellectual or emotional capabilities.
+
+The key here is adopting the alternative view in Dweck's model, a "growth mindset," which, Popova continues, "sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities." Dweck's research indicates that simply being aware of these two perspectives can help us begin to move from a fixed mindset to a growth mindset. This doesn't mean that we blithely ignore our failures or that we fail to hold ourselves accountable. But we can take a different approach and be less self-critical by recognizing that our brains are malleable and capable of change throughout our lives, by focusing on what can be learned from any mistake or setback, and by emphasizing the importance of persistence and grit in the process.
+
+Self-Contempt: The belief that we're inferior in some way to others.
+
+This is a deeper, more profound form of self-criticism. Rather than simply viewing ourselves as inept or incapable in some way, we feel that we're less deserving of support, happiness, fulfillment or love. In this state we're alienated from ourselves, and when others express appreciation or affection toward us, we feel uncomfortable and may go to great lengths to avoid hearing them or prevent others from sharing them with us.
+
+The key here is accepting ourselves [4] and feeling compassion for ourselves. [5] One starting point is addressing the often ineffective means by which we're pursuing fulfillment and meaning in our lives. As I've written before, "When we feel that we're not 'good enough'--not successful enough, not accomplished enough, not rich enough, not attractive enough, simply not enough--our efforts to break out of that state of mind by 'getting better' are doomed to fail." [6] A psychological dynamic known as hedonic adaptation insures that we quickly take for granted almost all significant improvements or accomplishments; ambitious goals can spur us to action, but they can also leave us demotivated and overwhelmed; and we naturally compare ourselves to others to assess our progress, which can often cause us to feel worse about ourselves. While large-scale life changes may be necessary, small-scale habitual activities may have an even bigger impact on our sense of well-being. [7,8]
+
+Denial: A refusal to engage ourselves and take responsibility.
+
+The interpersonal version of stonewalling and defensiveness involves a refusal to discuss difficult issues or to take responsibility for our contribution to the problem. Behaviorally this can range from slippery evasiveness to a full-blown, door-slamming, angry retreat. The intrapersonal version of these dynamics is denial--we refuse to acknowledge a difficult issue to ourselves, and we avoid thinking about it or dealing with it, which insures that we need not face up to our responsibility for it. This begins with mild procrastination and harmless diversions, but it can escalate to much more serious levels of unhealthy behavior.
+
+The key here is coming to terms with the underlying emotions that we're in flight from. Typically there's some embarrassment, guilt, or shame triggering our denial, which is really an attempt to avoid having to confront those unpleasant feelings. This is an understandable but futile response--denial rarely succeeds indefinitely, and it usually makes things worse when a reckoning becomes unavoidable. A starting point is engaging ourselves in various forms of dialogue--reflecting, journaling, talking with people we trust [9]--which will help us better manage those unpleasant feelings and begin to take responsibility for the situation. [10]
+
+Thanks to Scott Bristol, who first introduced me to Gottman's research at Stanford in his sections of Interpersonal Dynamics, aka Touchy Feely, many years ago.
+
+Footnotes
+
+[1] The Seven Principles for Making Marriage Work, Chapter 2: How I Predict Divorce (John Gottman and Nan Silver, 2000)
+
+[2] The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling, The Gottman Institute (Ellie Lisitsa, 2013)
+
+[3] Fixed vs. Growth: The Two Basic Mindsets That Shape Our LIves (Maria Popova, 2014)
+
+[4] I Love Myself (Self-Coaching and Acceptance)
+
+[5] Self-Compassion, the work of University of Texas psychologist Kristin Neff.
+
+[6] Stop Trying to Be "Good Enough" By "Getting Better"
+
+[7] Lyubomirsky's Person-Activity Fit Diagnostic
+
+[8] Understanding the "Pie Chart" in The How of Happiness
+
+[9] Conversations with Ourselves (Self-Coaching and Self-Engagement)
+
+[10] The Trium Group on Responsibility
+
+Photo by Paulo Brandão.
+
+
+===== END ED BOT ESSAY 3917 =====

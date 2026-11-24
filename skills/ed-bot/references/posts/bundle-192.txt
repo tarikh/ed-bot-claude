@@ -1,0 +1,330 @@
+===== BEGIN ED BOT ESSAY 3878 =====
+---
+title: First Impressions
+url: https://edbatista.com/2016/03/first-impressions.html
+slug: first-impressions
+published: 2016-03-15T05:00:00
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+Precedents matter. What you do and say early on in a relationship (romantic or business) sets the expectation; hard to change. (via @ramit)
+
+— Ben Casnocha (@bencasnocha) October 12, 2015
+
+I made a note of this tweet from Ben Casnocha last Fall and am reminded of it as I prepare to meet a new group of students at Stanford when Spring Quarter begins in a few weeks. As a coach and teacher, I begin new professional relationships all the time. (I started seeing my wife in 1986, so it's been a few decades since I began--or ended--a romantic relationship.) But even without an academic calendar delivering new students to their door, most leaders I work with also have to manage an endless series of first impressions.
+
+The nature of this dynamic changes as we get more senior, of course. Early in our career we often try to make a "good impression" at the outset of a relationship by sensing what the other party is looking for and demonstrating our ability to provide it, and there's certainly some value in learning to convey the basics: warmth, caring, competence. But soon enough we realize that there's also a cost to be paid if we continue to prioritize making a good impression over making an accurate one. [1] Because the very idea of a "good impression" connotes a certain flexibility and responsiveness that can be useful to convey when we're just grateful for the opportunity, and counterproductive when we need to truly be ourselves in order to add value.
+
+The critical thing to notice early on in a relationship is the extent of the vacuum that surrounds us, reflecting how little we know about each other. What are your intentions? What are your capabilities? Are you trustworthy? Will you have my back? Who ARE you? And this vacuum causes anxiety, which we seek to dispel immediately by gathering data--and in the absence of data we make shit up, as my colleague Carole Robin says.
+
+So we rapidly extrapolate from the first few data points generated in a new relationship, a sub-conscious process that begins within 1/10 of a second [2], and lacking real knowledge we create theories to explain the other party, their behavior, and their choices, rapidly racing up the ladder of inference. [3] And then our confirmation bias causes us to look for (and find!) more data that fits our theories.
+
+A theme in my work is the importance of slowing down, and that's particularly important early in a relationship. [4] We often find new people stimulating, so initial interactions can be exciting or stressful (or both.) In this state we're less effective at taking in data and less effective at interpreting it correctly, so it's essential to be mindful of the data we're gathering and the data we might be leaving out, and to challenge any theories we're constructing on the basis of that data. [5]
+
+The most useful stance is one of curiosity--and not only about the other person, but also about ourselves and our reactions to them. Notice what actions we're taking or considering. Notice the theories, beliefs, and emotions underlying those actions. Notice the interpretations that give rise to those ideas and feelings. Notice the data that we're interpreting. Notice what we notice...and what we ignore. How interesting, how curious. [6]
+
+The longer we can maintain this stance of curiosity, the more data we can gather and the more accurate our theories. And yet we can't just sit back and be passive observers in this process until we feel we understand the other person sufficiently to act with confidence. That would be weird and creepy, of course, but more significantly we'd miss the opportunity to take advantage of the point Ben makes above--our initial statements and actions in a relationship set precedents that have weight and are hard to undo. This is both a challenge and an opportunity. The challenge is that it's easy to guess wrong--we come in too flexible, or too authoritative, or we just misunderstand the other person and wind up setting precedents that don't serve the relationship. But with effort and practice, we can take advantage of the opportunity to set the right precedents, to begin relationships in the right way, with the right balance of flexibility and authority and mutual understanding.
+
+This isn't rocket science, but it does require:
+
+- A sense of self-awareness, even (and especially) when stressed or energized.
+
+- A recognition that small moments matter.
+
+- A commitment to regular practices that build our capacity for attention management and emotion regulation: meditation (or some form of mindfulness), exercise, good sleep, and stress reduction. [7]
+
+ 
+
+Thanks to the 2015-16 Leadership Fellows I worked with at Stanford this year. They asked me to reflect on my contributions to their effectiveness as a group, and one item on that list was "Paying attention to first things," a concept that helped inspire this post.
+
+Footnotes
+
+[1] The cost of making a good impression instead of an accurate one escalates as we grow more senior. For more, see It's Time to Stop Interviewing.
+
+[2] How Many Seconds to a First Impression? (Eric Wargo, Association for Psychological Science, 2006)
+
+[3] The "ladder of inference" is a model first developed by Chris Argyris, building on the work of S.I. Hayakawa and Alford Korzybski, and articulated further by William Isaacs and Rick Ross. For more, see Racing Up the Ladder of Inference.
+
+[4] The Importance of Slowing Down
+
+[5] Seeing What's Not There (The Importance of Missing Data)
+
+[6] "Notice everything and pay attention to things that puzzle. Pay attention to things that demand your attention and then refuse your understanding. Pay attention to the failure of attention." (Grant McCracken, Account Planners and Fearless Noticing, 2007)
+
+[7] In The Art of Self-Coaching I devised the (admittedly cheesy!) acronym MESSy to highlight the importance of mindfulness, exercise, sleep and reducing chronic stress. For more on these topics:
+
+Mindfulness
+
+- Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+- Arriving at Your Own Door: 108 Lessons in Mindfulness (Jon Kabat-Zinn, 2007)
+
+- Meditation Techniques for People Who Hate Meditation (Stephanie Vozza, Fast Company, 2014)
+
+- 26 Scientifically Proven Superhuman Benefits of Meditation (Jon Brooks, ComfortPit, 2014)
+
+- This is what eight weeks of mindfulness training does to your brain (Christian Jarrett, BPS Research Digest, 2016)
+
+Exercise
+
+- Get Moving! (Exercise for Busy People)
+
+- Walking lifts your mood, even when you don't expect it to (Christian Jarrett, BPS Research Digest, 2016)
+
+- The First 20 Minutes: Surprising Science Reveals How We Can Exercise Better, Train Smarter, Live Longer (Gretchen Reynolds)
+
+- Need A Self-Control Boost? Get Outside (Jessica Stillman, Inc., 2014)
+
+Sleep
+
+- Great Leaders Sleep Well--Why Rest Is Critical for Success (Ronnie Hendel-Giller, 2018)
+
+- There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm, Harvard Business Review, 2016)
+
+- You Can't Do Your Job if You Don't Sleep (Tony Schwartz, Harvard Business Review, 2012)
+
+- Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes, Harvard Business Review, 2016)
+
+- Senior Leaders Get More Sleep Than Anyone Else (Rasmus Hougaard & Jacqueline Carter, Harvard Business Review, 2018)
+
+- The Science of Sleep: Dreaming, Depression and How REM Sleep Regulates Negative Emotions (Maria Popova, The Marginalian, 2012)
+
+Stress
+
+- Trauma Stewardship: An Everyday Guide to Caring for Self While Caring for Others (Laura van Dernoot Lipsky with Connie Burk, 2009)
+
+- Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+- Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success (Brad Stulberg and Steve Magness, 2017)
+
+- Embracing Stress Is More Important Than Reducing Stress (Clifton Parker, 2015, discussing recent work by Stanford psychologist Kelly McGonigal)
+
+- How to Make Stress Your Friend [14-minute video] (Kelly McGonigal, 2013)
+
+
+===== END ED BOT ESSAY 3878 =====
+===== BEGIN ED BOT ESSAY 3879 =====
+---
+title: Committing a Microaggression While Teaching a Class on Microaggressions
+url: https://edbatista.com/2016/02/committing-a-microaggression-while-teaching-a-class-on-microaggressions.html
+slug: committing-a-microaggression-while-teaching-a-class-on-microaggressions
+published: 2016-02-02T16:57:11
+updated: 2025-10-12T14:40:54
+source_body: wordpress-html
+---
+
+This Quarter I'm teaching Interpersonal Dynamics (aka Touchy Feely) at Stanford, and it never fails to surprise me how much I learn when I'm ostensibly the teacher. [1] Today's class was on social identity, and a core component of the curriculum was Chester Pierce's concept of "microaggressions"--inadvertent actions by members of a dominant group that alienate or insult members of other groups, often by dismissing or failing to acknowledge the lived experience of the latter. [2,3]
+
+A central theme in my remarks was that the topics of social identity, stereotype threat, and microaggressions inevitably stir up strong emotions because they involve status differences and membership in distinct social groups, which increase the likelihood of a threat response. These emotions make such conversations hard to navigate, so we tend not to have them--which means that when we're compelled to have them we're unprepared, and then they often go badly. So we avoid them in the future, and a vicious cycle repeats itself.
+
+Pierce's work on microaggressions in the 1970s occurred in a cultural context when the nature of racism was changing from explicit discrimination, such as JIm Crow laws [4], to more subtle and less obvious expressions of implicit bias and prejudice. A new conceptual framework was needed to explain the continued experience of social identities being highlighted in ways that put certain groups at a disadvantage, even in the absence of overt or intentional prejudice. Thus, microaggressions.
+
+Something to that effect is what I intended to say in a brief aside in class. But I was more anxious than usual--in part because of the very nature of the topic, as my thesis would predict--and what came out at one point was, "Overt racism is largely gone." Now that's certainly not what I meant--but that's what I said, and that's what my students heard, and that right there is a textbook definition of a microaggression.
+
+My mind raced for a minute, and I went on autopilot as I decided what to do. I've been an experiential educator for long enough to know that embarrassing missteps like this are moments when I can walk my talk--I can own up to the misstep and confess my embarrassment (which is what I preach to my students and clients)--or I can keep my mouth shut and quietly back away, knowing that I'm well-insulated by many different forms of status and an active set of defense routines that make it unlikely that anyone will call me out. [5]
+
+I continued on with my remarks until I reached the point where I was about to send the class off to conduct an exercise in their breakout rooms. And I said something like this (I'm paraphrasing, but it's pretty close):
+
+As one of my colleagues has reminded me, the beauty of teaching this class is that when we screw up we get to be transparent about it. If I wind the clock back ten minutes, I'm aware that I said something like "Overt racism is gone," and that's not what I meant to say. I'm a little nervous speaking on this topic, and it's the first time that I've given this lecturette, and I misspoke. I know that the nature of racism has changed over the years in many ways, and at the same time I know that as an old white guy a lot of things happen to other people that don't happen to me. There are a lot of things that I don't see, but I'm well aware that racism still exists.
+
+It didn't feel good to say it, but there were no "feel-good" options at that moment, just "feel-bad" or "feel-less-bad." And it felt less bad to own up to committing a microaggression while teaching a class on microaggressions. And I feel a duty to be even more public about it here, in part because I hope some good may come of it.
+
+Postscript
+
+A few further thoughts that occurred to me over the course of this evening: Not only was my statement a classic microaggression, at that moment I was in the grip of a classic stereotype threat as described by Steele. I'm an old white guy lecturing on social identity and talking about racism, and I'm anxious about making a misstep that inadvertently highlights my own social identity or reveals my own implicit bias--and that anxiety becomes a self-fulfilling prophecy, undermining my trust in myself and diminishing my ability to navigate this emotionally charged topic.
+
+I'm also anxious about confirming stereotypes about old white guys (particularly those who are presumptuous enough to lecture on stereotype threat), and yet, of course, I am stereotyped as an old white guy all the time and usually it's to my benefit. So it's all the more distressing when I'm suddenly confronted with a negative stereotype about my social identity triggered by my own actions.
+
+Finally, it's worth noting that I'm capable of making a misstatement like that only because my social identity shields me from the endless manifestations of implicit and explicit bias that so many people I care about must face daily, but which typically occur outside my immediate awareness--sometimes because my presence prevents them from happening, and sometimes because I'm just blind to them.
+
+We know that talking about feelings makes them easier to manage, and I experienced a version of that in class today--and I'm confident that the energy I have to write about this topic now (at a time when I've had very little energy for writing at all) is in part a way to continue working through the emotions that this stirred up in me. Feeling all the feels. [6]
+
+Here are the readings that were on my 2016 syllabus for this class:
+
+- Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do About It, Claude Steele (Chapters 5 and 7)
+
+- Why Critics of the "Microaggressions" Framework Are Skeptical, Conor Friedersdorf, The Atlantic
+
+- Microaggressions Matter, Simba Runyowa, The Atlantic
+
+- The Atlantic articles are companion pieces that should be read together.
+
+- The Power of Talk: Who Gets Heard and Why, Deborah Tannen, Harvard Business Review
+
+Optional Readings
+
+- Why Your Customers' Social Identities Matter, Guy Champniss, Hugh Wilson and Emma Macdonald, Harvard Business Review
+
+- Managing Multicultural Teams, Jeanne Brett, Kristin Behfar and Mary Kern, Harvard Business Review
+
+- Geert Hofstede on the Dimensions of Cultural Difference
+
+Footnotes
+
+[1] Teaching Touchy Feely at Stanford GSB
+
+[2] For more on social identity:
+
+- Experiments in Intergroup Discrimination (Henri Tajfel, Scientific American, 1970)
+
+- Social Identity Theory (Gazi Islam, Encyclopedia of Critical Psychology, 2014)
+
+- Getting to "Us" (George Halvorson, Harvard Business Review, 2014)
+
+[3] The concept of microaggressions was first coined in 1970 by Chester Pierce, a professor of education and psychiatry at Harvard Medical School, and achieved wider prominence in 2007 when Derek Wing Sue, a professor of psychology at Columbia, co-authored a paper on the subject, which he expanded into a book in 2010. Subsequently the concept has been hotly debated as its application has spread more broadly, most notably on college campuses, and the two Atlantic articles 2015 (and included above on my 2016 syllabus) provide cogent perspectives on its strengths and weaknesses:
+
+- Why Critics of the ‘Microaggressions’ Framework Are Skeptical (Conor Friedersdorf, The Atlantic, 2015, 9 pages)
+
+- Microaggressions Matter (Simba Runyowa, The Atlantic, 2015, 7 pages)
+
+This debate has recently expanded to include criticism of shortcomings in microaggression research, a view that Sue has rebutted:
+
+- Microaggressions: Strong Claims, Inadequate Evidence (Scott Lilienfeld, Perspectives on Psychological Science, 2017)
+
+- Lilienfeld, a professor of psychology at Emory University, expresses concern that microaggression research rests on core premises that remain unproven. He calls for a moratorium on microaggression training programs while further research tests the validity of these underlying premises.
+
+- The Unwisest Idea on Campus (Comment on Lilienfeld) (Jonathan Haidt, Perspectives on Psychological Science, 2017)
+
+- Haidt, a professor of social psychology at NYU's Stern School of Business, supports Lilienfeld's concerns about microaggression research. He notes that the concept goes against current psychological thought on the importance of cognitive reappraisal in the face of negative experiences, and that certain personality traits, notably negative emotionality, are correlated with a greater likelihood to perceive microaggressions in ambiguous circumstances.
+
+- The scientific evidence for microaggressions is weak and we should drop the term, argues review author. (Alex Fradera, British Psychological Digest, 2017)
+
+- A summary discussion of Lilienfeld's 2017 paper and related concepts.
+
+- Microaggressions and "Evidence": Empirical or Experiential Reality? (Derek Wing Sue, Perspectives on Psychological Science, 2017)
+
+- Sue responds directly to Lilienfeld's critique, noting the limitations of psychological science to encompass experiential reality and expresses concern that an over-emphasis on internal validity in microaggression research runs the risk of ignoring the lived experience of marginalized groups.
+
+[4] What Was Jim Crow? (Ferris State University)
+
+[5] Risk Management (The Importance of Speaking Up)
+
+[6] Talking About Feelings
+
+Photo by Igor Spasic.
+
+
+===== END ED BOT ESSAY 3879 =====
+===== BEGIN ED BOT ESSAY 3880 =====
+---
+title: Why I Read Fiction Again (And What I Read in 2015)
+url: https://edbatista.com/2016/01/why-i-read-fiction-again-and-what-i-read-in-2015.html
+slug: why-i-read-fiction-again-and-what-i-read-in-2015
+published: 2016-01-03T23:09:05
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+I was a voracious reader as a kid. I knew how to read before I ever went to school, thanks to my parents and the first few seasons of Sesame Street, and the habit stuck with me for decades. And then...I stopped. More accurately, I didn't stop reading--I read as much as I ever did--but I stopped reading fiction. I read the odd novel once in a while, or a story in The New Yorker, but most of my reading was "professional" in nature, focused on topics intended to help me be a better coach, a better teacher.
+
+And while I certainly grew in some ways as a result, I stopped growing in other, equally important ways. The relationships I developed with fictional characters (and their authors) as a reader were more meaningful to me than I'd realized, and I came to feel their absence more acutely.
+
+So last year as I prepared to take a leave from my work at Stanford over the summer, I asked my wife if she would provide me with a reading list. If you know Amy, you understand this request--she's the voracious kid reader who never quit. She reads 150 novels a year, every year. Hell, she read dozens of novels a year when she was 5th in her class in law school. So she was pretty excited--and here's what I read in 2015, thanks to her:
+
+A Way of Life, Like Any Other, Darcy O'Brien
+
+Cutting for Stone, Abraham Verghese
+
+The Luminaries, Eleanor Catton
+
+The Siege of Krishnapur, J.G. Farrell
+
+Troubles, J.G. Farrell
+
+The Singapore Grip, J.G. Farrell
+
+Augustus, John Williams
+
+Stoner, John Williams
+
+The Go-Between, L.P. Hartley
+
+The Balkan Trilogy, Olivia Manning
+
+The Levant Trilogy, Olivia Manning
+
+I, Claudius, Robert Graves
+
+Claudius the God, Robert Graves
+
+A Good Man in Africa, William Boyd
+
+Any Human Heart, William Boyd
+
+An Ice Cream War, William Boyd
+
+So having spent half a year re-immersed in fiction, here are three things I've learned:
+
+Fiction Teaches Empathy
+
+Recent research suggests that empathy can be taught--and this was readily apparent to me after my return to fiction-reading. Perhaps more than any other representation of human experience, fiction puts the reader inside another person's psyche, with uniquely privileged access to their inner thoughts, feelings and perceptions. John Williams allowed me to be Caesar Augustus, looking back with equanimity on a life of triumph and failure. Olivia Manning allowed me to be a wartime English bride trapped in Eastern Europe and a failed marriage as the Nazis advance. J.G. Farrell allowed me to be a man in hand-to-hand combat who survives by the slimmest margin of dumb luck. The act of reading fiction--good fiction, at least--is the definition of empathy: understanding and sharing another person's experience.
+
+Fiction Prompts Reflection
+
+The importance of reflection in the learning process isn't news to me--hey, I teach this stuff. (Stephen Colbert puts it more eloquently than I could at 5:13.) But over this past year I was struck by fiction's power to bring me up short and stop my usual headlong progress toward the next thing. I was reminded that while good books are page-turners, the very best books compel us to put them down every few pages--sometimes to fully digest what we're taking in, at other times because the words on the page take us elsewhere, and we have to follow our own thoughts before we can return to those of the character. But in either case fiction isn't a distraction from deeper thought, but a gateway into it.
+
+Fiction Rewards Persistent Effort
+
+Reading fiction takes work--sometimes a lot of work over many days in a row. Olivia Manning's The Balkan Trilogy was the second book Amy gave me last summer, and when she plopped the 944-page volume in front of me I'm pretty sure I said, "You have got to be kidding me." And the first few days were a bit of a slog, but I trusted Amy's judgment enough to persist, and soon enough I was hooked. Toughing it out through difficult passages in order to enjoy the rewarding experience that can come only after some hardship was a hallmark of the best fiction I read last year. The books that were a breeze to read from start to finish certainly lightened my mood, but they rarely transported me to great heights, and I came to appreciate the payoff that usually followed persistent efforts.
+
+And?
+
+The punchline, of course, is that all of these tasks--cultivating my capacity for empathy, engaging in reflective thought, repeated efforts at focusing my attention--are precisely the practices that allow me to continue to grow and develop as a coach and teacher. I can't say that I'm more effective than I was a year ago--that's for my clients and students to decide. But I feel more effective, more capable, better equipped. And I'm certainly a richer person.
+
+So I'm keeping at it, and I've asked Amy to continue the recommendations into 2016. Currently I'm reading Rose Tremain's Restoration. Next up, Vassily Grossman's Life and Fate--all 896 pages of it.
+
+Photo by David D.
+
+
+===== END ED BOT ESSAY 3880 =====
+===== BEGIN ED BOT ESSAY 3881 =====
+---
+title: Pain, Suffering, and Hedonic Adaptation
+url: https://edbatista.com/2015/10/pain-suffering-and-hedonic-adaptation.html
+slug: pain-suffering-and-hedonic-adaptation
+published: 2015-10-15T12:20:40
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+The man pictured above is Bob Timberg, whose face was extensively burned when a vehicle in which he was riding hit a land mine. This occurred in February 1967, when Timberg was a 26-year old U.S. Marine Corps officer just 13 days from finishing a year-long tour of duty in Vietnam.
+
+Timberg spent months recovering in military hospitals, enduring more than 30 reconstructive surgeries on his face, including several that were conducted, by necessity, without anaesthesia. He eventually became a successful journalist and author, including serving as the White House correspondent for the Baltimore Sun, but his life has been filled with difficulties, ranging from children recoiling at the sight of his disfigured face to the dissolution of his marriage, which he describes as the result of his poor treatment of his ex-wife.
+
+After publishing his memoir in 2014 Timberg was interviewed by NPR's Dave Davies, and I was deeply struck by this exchange near the end of the conversation [1]:
+
+DAVIES: When you're talking about why you finally decided to write your memoir, you describe this moment when you look in the mirror and look at your face and really focus on it and say, "Enough already. I've been this way since 1967--forty years, and it's time for this crap to end. The joke is over. It's not funny anymore." You say it's time to return to normal--for your face to heal. I mean, obviously, physically you couldn't do that. But I'm wondering, has telling the story in this book changed your feeling about that at all? Do you look at your face and feel differently?
+
+TIMBERG: I probably do. I mean, I know nothing's going to change, and what I do know is that I've made whatever peace I'm ever going to make with it. And I don't walk around thinking people are staring at me. If I suddenly notice little kids staring at me, I just wave to them and smile which, in a way, means I've come a long way as opposed to, you know, screaming at their parents. And often--more often than not--a little kid will smile and wave back... I think that in some bizarre way, whatever life had in store for me, I pretty much have lived it. I mean there were some bumps along the way but, you know, it's OK. [2]
+
+There were some bumps along the way, but it's OK.
+
+I read that and think about Timberg and feel a surge of emotions. Empathy for him and his struggles. Sadness at the thought of so many others whose lives have been similarly affected. Gratitude for my current state of health and well-being. And a sense of hope and optimism, because Timberg is a tremendously powerful example of the process of hedonic adaptation. I first encountered this concept in the work of Sonja Lyubomirsky, a professor of psychology at UC Riverside [3], although it dates back to research from the 1970s by Philip Brickman of Northwestern, among others. [4] As Lyubomirsky writes in The How of Happiness:
+
+Why do life changes account for so little [of the difference in individuals' levels of happiness]?  Because of a very powerful force that psychologists call hedonic adaptation...
+
+Human beings are remarkably adept at becoming rapidly accustomed to sensory or physiologic changes. When you walk in from the bitter cold, the warmth of the crackling fire feels heavenly at first, but you quickly get used to it and may even become overheated... This experience is labeled physiological or sensory adaptation. The same phenomenon, however, occurs with hedonic shifts--that is, relocation, marriages, job changes--that make you happier for a time, but only a short time...
+
+Although we may achieve temporary boosts in well-being by moving to new parts of the country, securing raises, or changing our appearances, such boosts are unlikely to be long-lasting. The primary reason...is that people readily and rapidly adapt to positive circumstantial changes...
+
+So the bad news about hedonic adaptation is that it ultimately dampens your happiness and satisfaction after any positive event or uplift. But there is good news, too. I would argue that human beings are actually lucky to have the ability to adapt quickly to changing circumstances, as it's extremely useful when bad things happen. Some studies of hedonic adaptation show, for example, that we have a phenomenal ability to recover much of our happiness after a debilitating illness or accident. [5]
+
+Case in point, Bob Timberg. To be sure, it took 40 years for him to reach a point where he could look back at his life and say, "There were some bumps along the way, but it's OK." But if he can do it, even after all the physical and psychological trauma he's experienced, I suspect that the rest of us are likely to adapt to the pain and suffering that life inevitably has in store for us.
+
+ 
+
+Footnotes
+
+[1] Blue-Eyed Boy: A Memoir (Bob Timberg, 2014)
+
+[2] Bob Timberg interviewed by Dave Davies for NPR's Fresh Air (2014)
+
+[3] Understanding "The Pie Chart" in The How of Happiness
+
+[4] "Lottery Winners and Accident Victims: Is Happiness Relative?" (Philip Brickman, Dan Coates and Ronnie Janoff-Bulman, Journal of Personality and Social Psychology, 1978)
+
+[5] The How of Happiness, pages 48-51 (Sonja Lyubomirsky, 2007)
+
+
+===== END ED BOT ESSAY 3881 =====

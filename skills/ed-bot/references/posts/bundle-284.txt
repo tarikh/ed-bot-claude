@@ -1,0 +1,332 @@
+===== BEGIN ED BOT ESSAY 17657 =====
+---
+title: Raise or Sell? (Or Quit?)
+url: https://edbatista.com/2026/01/raise-or-sell-or-quit.html
+slug: raise-or-sell-or-quit
+published: 2026-01-24T16:54:29
+updated: 2026-01-27T20:45:23
+source_body: wordpress-html
+---
+
+Many of my clients are early- or mid-stage founder/CEOs, and I also work with pairs of co-founders or other members of the founding team. In many cases they've raised enough capital to allow them to make substantial investments in the business, and they're generating sufficient revenue to validate the initial concept and point the way to product-market fit.
+
+But they're not quite there yet, which means that the business continues to face existential threats, and the venture may still fail. Nothing is guaranteed. So at regular intervals my clients must ask themselves, "Do we raise another venture round and keep building, or do we sell to a strategic acquirer or private equity?"
+
+These aren't mutually exclusive options, and it can be possible to run a dual process, but even when that's feasible it's burdensome and time-consuming. There are no simple answers, but there are a number of issues and questions that I discuss with clients to achieve greater clarity. My comments here are by no means exhaustive, but if you're facing this choice, they should highlight areas for further exploration.
+
+Autonomy
+
+Founders are usually "pirates" who relish the opportunity to disrupt established industries, do things differently, and be the captain of their own vessel in the process. [1] This defiant attitude has sustained every startup that went on to ultimate success, but it has also led countless founders to go down with the ship. A critical factor is whether the founders will be able to retain control after the next round, and, if not, the nature of their relationship with new Board members. [2]
+
+Alternatively, founders can find happiness in a role within an acquirer or working for a PE board, but they can also be deeply miserable. Much depends on the organizational culture within the acquirer or the culture of the new Board (which can be impossible to discern in advance) and on the length of any lockup or earnout periods.
+
+The degree of autonomy enjoyed by founders who cede Board control or who sell a portion or all of their company varies widely. Investor-led Boards or acquirers often afford founders a great deal of latitude. But it's worth noting that it can be difficult to make these commitments contractual obligations. Much will depend on the trustworthiness of assurances from investors and acquirers.
+
+- How much autonomy and independence do you enjoy today?
+
+- How important are these qualities in your professional life?
+
+- What would induce you to accept less?
+
+- How likely is it that you'll retain control after another round?
+
+- Under what conditions would you be willing to work for someone else?
+
+- What might cause you to quit?
+
+- What do you know about your prospective investors and acquirers, specifically their approach to management and their organizational culture?
+
+- How might you learn more?
+
+- How have they built trust with you? How have they undermined trust?
+
+Finances
+
+Founders are rarely motivated solely by financial goals, but the potential to realize significant wealth is usually a factor in the decision to launch a new venture and in subsequent decisions to persist or alter course. Raising a new round may be necessary to enable a promising business to fulfill its potential, and dilution may be more than offset by subsequent growth. But it can be daunting to sit underneath an even bigger pref stack, knowing that this may decrease the likelihood of material returns for common shareholders.
+
+Selling entails a preference for the risk-adjusted return of the acquisition offer, but that's an emotional calculation as much as a financial one. The ability to achieve certain goals today (paying off personal debts, buying a home, saving for family obligations) may relieve a great deal of stress and anxiety. But the abandonment of even larger goals for the future can feel like a distasteful compromise, a loss of nerve, or even outright failure.
+
+Both a new round and a transaction hold the possibility of a secondary offering or carveout to provide founders and valued employees with liquidity. VCs can be of two minds here–some view secondary as sending a negative signal regarding founders' confidence or determination, while others want founders to be focused on the business and undistracted by personal finances. Acquirers' willingness to create a carveout (and to offer cash rather than equity) hinges on their perception of the extent to which founders and valued employees are necessary to continue growing the business (and for how long).
+
+- What are your immediate financial obligations?
+
+- What's your capacity to meet them?
+
+- What are your longer-term financial aspirations?
+
+- How much money would feel like a win?
+
+- What are sources of financial stress, if any, both immediate and long-term?
+
+- What would you be willing to sacrifice to alleviate this stress?
+
+- What do you know about your investors' attitude toward secondaries?
+
+- How might you learn more?
+
+- How necessary are you (and any key employees) to the company's success?
+
+- In what ways are you uniquely valuable? In what ways are you replaceable?
+
+The Narrative
+
+Humans are meaning-making creatures, and the vehicle for this process is narrative. [3] A narrative is a reductive model of reality that links a series of data points to form a coherent story that allows us to interpret the past and present, and, as a result, anticipate the future. A company's narrative can matter a great deal to the founders, not only because it affects the subsequent opportunities available to them, but also because it shapes how they "make sense" of and feel about their own lives.
+
+As with financial outcomes, raising another round may make a more extreme narrative more likely, for better and for worse. The odds of glory go up, and so do the odds of ignominy. That said, sometimes the story of founders' willingness to "take a big swing" matters as much as whether they hit or miss. Here, too, a company's narrative is a subjective emotional matter, not just an objective financial one. Many acquisitions aren't remunerative transactions for the founders or other common shareholders, but they present an otherwise valuable narrative: We built something that someone wanted to buy.
+
+- What narrative did you have in mind when you launched the company?
+
+- How has the company's trajectory aligned with or deviated from that narrative?
+
+- What is the company's narrative today?
+
+- How might raising another round or selling affect the narrative, for better and for worse?
+
+- How might these options affect your personal narrative, the story of your life and career?
+
+Investors
+
+Investors have rights that may influence or even dictate founders' decisions regarding the direction or disposition of the company. But formal obligations may be less important than founders' intrinsic motivation to fulfill stakeholders' expectations. This isn't because founders are saints. Founders care about stakeholders because investors (and employees, discussed below) believe in the company, and their commitments are often an expression of faith in the founders' themselves.
+
+Investors can have competing incentives. Venture capitalists must outperform the market over time to meet the expectations of their limited partners, but most of their investments lose money, and the majority of their returns are derived from a small number of high-performing deals. This can lead them to put pressure on founders to raise another round rather than sell for a modest return (or none at all, if they invested recently.) At the same time, VCs often want to maintain a reputation for being founder-friendly in order to maintain access to the best deals, so they may support a sale, especially if they expect the founders to launch a subsequent venture and hope to participate in it.
+
+Founders sometimes believe a sale will satisfy investors by returning their original capital, but this depends entirely on who those investors are and their risk appetites. If the founders did a friends and family round, those investors are often unprepared to lose their money, and returning it may be very important to them (and to the health of their relationships with the founders.) But professional investors may have a very different point of view. As noted above, they may strongly prefer that the founders persist in the venture, even if the chance of success is minimal. They won't complain about getting their money back, but it won't make up for the loss of potential upside.
+
+- What do you know about your investors' incentives?
+
+- What do you know about their expectations for your company?
+
+- What is their role and seniority within their firms, and how might these factors affect their risk tolerance?
+
+- If you raised capital from friends and family, what is their risk appetite?
+
+- To what extent would you rely on any of these investors for capital in a future venture?
+
+Employees
+
+Most employees have far fewer rights than investors, but founders may still feel highly motivated to meet their expectations, both because employees are often drawn from founders' personal networks and because employees have just a single career and can't spread the risk of a startup role across a portfolio of investments. Founders may also hope to hire employees again in a future venture.
+
+If the team has grown beyond a certain size, there are likely to be differences between senior and junior employees, although there's no specific cutoff point, and these distinctions are rough approximations. Senior employees (and some very early stage junior employees) stand to realize meaningful wealth from their equity and tend to value it more highly. They're more likely to have the resources to go without a role for a period of time and may even welcome a break from employment. And when they chose this role, they typically had a wider range of options available to them. In most cases, the opposite holds true for junior employees.
+
+This doesn't mean that senior employees will always prefer the riskier option, or that junior employees are always more risk-averse, but these may be tendencies within the team. Nor is it the case that a new round is necessarily riskier for all employees than a sale. A strategic acquirer may view any number of functions as redundant and eliminate them. And private equity ownership will likely seek to wring new efficiencies out of the business by cutting costs.
+
+- What do you know about your employees' expectations?
+
+- How would you assess their collective risk appetite?
+
+- Are there any specific individuals whose perspectives are uniquely important because of their seniority, their tenure, or their role?
+
+- While maintaining confidentiality, how might you learn more about their point of view?
+
+Bankers
+
+Everyone complains about investment bankers, and yet the profession seems to be in no danger of disappearing, so rather than reflexively dismissing them it's worth understanding the circumstances under which they add value. If founders are determined to raise a new round and a sale is off the table, there's no role for a banker. But if a sale is preferred or if a dual process is a possibility, a banker can be extremely useful.
+
+It's a banker's job not only to be familiar with the universe of potential acquirers, but also to have established relationships with decision-makers, not just gatekeepers. Further, a banker should have insights into factors that might influence a given acquirer's willingness or reluctance to enter into a transaction. This extends beyond business strategy and includes internal turnover or personal issues among an acquirer's team.
+
+Bankers are financially motivated to close a deal, which can raise questions about the alignment of incentives. And while the mere act of hiring a banker can signal a willingness to sell, potentially driving the price down, bankers are highly experienced negotiators–see below–so employing one as a go-between can more than make up the difference.
+
+- How extensive is your knowledge of potential acquirers?
+
+- How deep are your relationships with decision-makers?
+
+- If those relationships are lacking, how much time and effort would it take to develop them?
+
+- How would you test prospective bankers' understanding of your industry and your potential value to an acquirer?
+
+Negotiations
+
+Whether it's with venture investors in a new round or with strategic acquirers or PE firms, this process will involve extensive negotiations. And as I've written before, we can distinguish between two different negotiating "cultures":
+
+In a list-price culture, there’s a high degree of transparency and very little flexibility. An opening offer may not be take-it-or-leave it, but there’s relatively little gamesmanship in the process. There may be some room for negotiation on the margins, but the basic requirements necessary to close a deal are clear and straightforward, and it’s reasonably obvious when the two parties are sufficiently close to reach agreement and when they’re not.
+
+In a haggling culture, the opposite is true. There’s very little transparency and a great deal of flexibility. Opening offers are never take-it-or-leave-it, and gamesmanship abounds. Everything is up for negotiation, and the basic requirements necessary to close a deal are uncertain and highly dynamic. It’s rarely apparent whether the two parties are sufficiently close to reach agreement, because their currently stated positions may bear little relation to their actual willingness to reach a deal. [4]
+
+It would be an oversimplification to equate founders with the "list-price" culture and to identify everyone else as "hagglers," but there are some parallels. In my experience most founders find negotiating unpleasant, and they prefer list-price transactions, which may mean they don't get much experience. This can be unfortunate, because all of the other parties in this process, from VCs to corporate M&A execs to PE partners to investment bankers, are essentially negotiating every day. The starting point for founders is simply to be better prepared for this environment.
+
+- What are your strengths and weaknesses as a negotiator?
+
+- In what ways do you identify with the "list-price" culture?
+
+- In what ways do you identify with the "haggling" culture?
+
+- How do these identities contribute to your strengths and weaknesses?
+
+- Where do you see opportunities to gain more negotiating experience?
+
+- How might other parties assist you in the process?
+
+Quitting?
+
+As noted above, "the business continues to face existential threats, and the venture may still fail. Nothing is guaranteed." In these circumstances, almost all founders I've known want to find a way to continue. The question they ask themselves is how to keep going, and not whether they should. Founders typically possess a degree of optimism and determination that can border on the reckless. But this "reality distortion field" is what enabled them to dream up the new venture in the first place and to envision themselves as its successful leader.
+
+There is an inner logic here, as I've written before: "There's a positive correlation between optimism and effective leadership, in part because the optimistic leader has a contagious effect on others, rendering success more likely." [5] And yet at the same time there's a risk that the optimistic, determined leader has a blind spot, a danger cited by adventure writer Jon Krakauer in his analysis of the disastrous expeditions on Mount Everest in May 1996:
+
+The sort of individual who is programmed to ignore personal distress and keep pushing for the top is frequently programmed to disregard signs of grave and imminent danger… In order to succeed you must be exceedingly driven, but if you're too driven you're likely to die. [6]
+
+Very few founders face the risk of literal death should their companies fail. But founders can sometimes identify with their companies so deeply that the prospective end of the venture can feel like death. This may lead founders to keep going, to "push for the top," and in the process expose themselves and others to any number of unjustifiable risks, both professional and personal. There are worse fates than shutting down a business. The key to surviving a storm on Mount Everest is to pick a turnaround time that will allow you to return to safety if necessary. I've explored at length elsewhere how founders can do the equivalent. [7]
+
+- What do you imagine might happen if you shut down the company?
+
+- What about this prospect makes you anxious or fearful?
+
+- If you did shut down the company, who else would be disappointed or upset?
+
+- How might your desire to avoid these feelings–your own and those of others–influence your risk appetite?
+
+- If you did shut down the company, how much time and money would be required to conduct an orderly process?
+
+- If you put that time and money at risk--and the gamble fails--what might happen?
+
+- How might the absence of an orderly winddown affect you and others?
+
+Footnotes
+
+[1] Pirates in the Navy
+
+[2] Not Your Friends, Not Your Enemies, Not Your Boss.
+
+[3] The Importance of Shared Narrative
+
+[4] Culture, Compensation and Negotiation
+
+[5] The Traps We Set for Ourselves
+
+[6] Into Thin Air: A Personal Account of the Mt. Everest Disaster, page 233 (Jon Krakauer, 1997)
+
+[7] Why Some Entrepreneurs Don't Know When to Quit
+
+Photo by Art Purée.
+
+
+===== END ED BOT ESSAY 17657 =====
+===== BEGIN ED BOT ESSAY 18113 =====
+---
+title: Working with the "Difficult" Co-Founder
+url: https://edbatista.com/2026/06/working-with-the-difficult-co-founder.html
+slug: working-with-the-difficult-co-founder
+published: 2026-06-05T06:22:32
+updated: 2026-06-06T21:07:52
+source_body: wordpress-html
+---
+
+Most of my clients are founder/CEOs, and many of them have one or more co-founders. Most of these co-founders are outstanding colleagues and company builders, but a pattern I see in my practice is the co-founder who's viewed as "difficult" in some way and who poses a special challenge to the CEO. (This isn't to say that CEOs are easy to work with. See below.)
+
+"Difficult" co-founders come in a variety of types, and below are five that I've observed, in descending order of frequency and ascending order of difficulty:
+
+1. The Buccaneer
+
+As Reid Hoffmann has noted, startup founders are like pirates: "They both lack formal processes, and are willing to question and even break rules to 'steal' from incumbents (market share and booty respectively)… They act quickly and decisively, and are willing to take risks because they know that the default outcome is failure and the death of the company." [1] But piracy doesn't scale--there's no such thing as a pirate fleet. This isn't to say that startups should become "naval bureaucracies," but a degree of discipline is necessary to support consistent growth. [2]
+
+Some co-founders find it difficult to navigate this transition. The Buccaneer wanted to start a company because they prize autonomy, challenge established norms, and resist formal processes. And these are all necessary qualities in a startup, until they begin to prevent the routinization of operations across product lines, market segments, or time zones. Then the Buccaneer becomes an obstacle to progress, or even an agent of chaos, with the CEO following them around trying to rein them in or clean up after them.
+
+How to work with a Buccaneer:
+
+- Honor their contributions. The company couldn't have launched without them, and this can be overlooked at scale.
+
+- Harness their energy. Their disruptive impact can be a force for good when directed at pockets of stagnation or emerging bureaucracy.
+
+- Clarify their motivation. Some Buccaneers are strictly "zero-to-one" pirates, but many can change when they realize that they're impeding the company's growth.
+
+2. The Olympian
+
+Co-founders generally have exacting standards and set a high bar for excellence. This is one of the reasons they're part of the founding team. Their discernment allows them to make keen judgments on subjects from product and design to hiring and culture, and their determination to be the best can prevent a company from making expedient decisions that are shortcuts to mediocrity.
+
+These qualities are superpowers, but, as I've written before, every superpower has a shadow side, a flaw that accompanies the gift. [3] The Olympian pursues excellence in such a way that it becomes an impediment to long-term success. All decisions must emerge from first principles, every hire must be world-class, no compromises are ever acceptable. While a CEO values the Olympian's exactitude, when applied indiscriminately it becomes a drag on productivity. Rigor has its place, but it's necessary to employ it judiciously and make appropriate tradeoffs.
+
+How to work with an Olympian:
+
+- Understand them. Learn more about the source of their rigor and why it matters so much to them.
+
+- Deploy them deliberately. Focus their discernment on efforts where it will make a meaningful difference.
+
+- Demonstrate your own commitment to excellence. Prove to them that you won't lower standards whenever it's convenient.
+
+3. The Soloist
+
+Many startup disciplines require a capacity for introspection and the ability to work independently, occasionally for long stretches of time. Some people are drawn to these disciplines for this very reason, perhaps because they find interpersonal relationships taxing or perplexing. In a startup's earliest stages, these qualities can be assets on a founding team, enabling members to cover a range of activities independently and maximizing the team's overall productivity.
+
+But eventually the co-founders' collective efforts are insufficient, and gaps emerge. Additional people are needed to augment the co-founders' capacity and expertise. [4] But here the Soloist struggles, unable or unwilling to collaborate or delegate. They insist that workstreams flow through them, and they become a critical bottleneck, operating in isolation while others wait for the results.
+
+How to work with a Soloist:
+
+- Educate them. Show them that their preferred way of working is holding the company back and that interpersonal and collaboration skills can be learned.
+
+- Channel them. Redefine their role so that they can function in a leadership capacity with a narrower scope.
+
+- If necessary, level them. [5] Convert them into an individual contributor so that their working style doesn't impede the leadership team.
+
+4. The Free Spirit (or Hot Mess)
+
+Startup founders sometimes live colorful lives. They can be Free Spirits who value novelty and spontaneity and who feel comfortable with risk, and these qualities have likely played a meaningful role in their decision to pursue a startup. This is by no means a bad thing, as illustrated in one of Apple's most famous campaigns: "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently." [6]
+
+Yet these qualities may not be limited to a co-founder's professional life, and they can be taken to extremes. The Hot Mess has a personal life that is sufficiently complicated and disorderly that it impairs their ability to fulfill their responsibilities as co-founder. Sometimes this is evident from the start, and the CEO and others make a calculated gamble that the pros will outweigh the cons, but those odds can shift. And sometimes this is a new development, a function of unanticipated changes resulting in behavior that's destabilizing and unsustainable.
+
+How to work with a Free Spirit (or Hot Mess):
+
+- Empathize with them. They're likely struggling to regain control over their lives, and a little encouragement can go a long way.
+
+- Get support. Ensure that they're engaging qualified experts and that they're following through with recommended interventions or treatment.
+
+- Set limits. They're undoubtedly likeable and even charming, but ultimately you must hold them accountable should their actions threaten the company.
+
+5. The Rival
+
+Sometimes on a co-founding team it's obvious who should be the CEO. They may have come up with the idea and recruited the other co-founders, or they may be uniquely qualified on the basis of their prior experience. But even when this decision is made amicably, it's typical that as a company succeeds the CEO becomes a far more visible figure both internally and externally, and the other co-founders may eventually feel overshadowed and unappreciated.
+
+In other cases it's not at all clear who should be CEO, and one or more co-founders may feel that they have a rightful claim to the position. Outright antagonism is rare--that tends to break teams apart at this stage--but power struggles are common, and the person who emerges as CEO won that contest. [7] The other co-founders may have begrudgingly agreed to this arrangement, but the seeds of discontent have been sown. Whatever the origins of this attitude, the Rival resents the CEO's prominence and may feel that they're more qualified for the job.
+
+How to work with a Rival:
+
+- Assess the rivalry. Making an underappreciated co-founder feel more significant and valued may be all that's needed.
+
+- Be candid and direct. Resentment usually manifests in counterproductive behavior that merits direct feedback (and ask for feedback as well.) [8]
+
+- Be prepared to escalate if necessary. Sometimes Rivals can't be reasoned with and have to be removed. [9]
+
+Postscript: Who's "Difficult"?
+
+While I'm sympathetic to the difficulties CEOs face, I coach enough co-founders, executives, and investors to know that CEOs themselves are often extremely difficult. This is a function of a number of factors. Power exerts a disinhibiting effect on behavior, and CEOs can act heedlessly without being aware of it. [10] Leaders typically have a high need for control, and CEOs can act in ways that others perceive as excessively directive or forceful. [11] And people rarely offer direct feedback to authority figures, contributing to a CEO's blind spot. [12]
+
+So if you're a CEO dealing with a "difficult" co-founder, consider how you might be contributing to the difficulty. All behavior is adaptive, and when you encounter someone whose behavior you find problematic, you have to understand what they're adapting to. It might be you.
+
+Footnotes
+
+[1] Uber Needs to Transition from "Pirate" to "Navy" (Reid Hoffman, LinkedIn, 2017)
+
+[2] Pirates in the Navy
+
+[3] Superpowers and Shadow Sides
+
+[4] Capacity, Methodology, Innovation (On Hiring)
+
+[5] The Fine Art of Levelling
+
+[6] The Crazy Ones (TBWA/Chiat/Day, 1997)
+
+[7] Power Struggles Among Nice People
+
+[8] For more on feedback:
+
+- How to Deliver Critical Feedback
+
+- Make Feedback Normal
+
+[9] On Firing a Senior Team Member
+
+[10] On the disinhibition of power:
+
+- Power is not only an aphrodisiac, it does weird things to some of us (Vicky Haddock, SFGate, 2006)
+
+- "Disinhibition is the very root of power," said Stanford Professor Deborah Gruenfeld, a social psychologist who focuses on the study of power. "For most people, what we think of as 'power plays' aren't calculated and Machiavellian--they happen at the subconscious level. Many of those internal regulators that hold most of us back from bold or bad behavior diminish or disappear. When people feel powerful, they stop trying to 'control themselves.'"
+
+- Powerful People Take More Risks (Haas News, 2006)
+
+[11] The Effects of Desire for Control on Attributions and Task Performance (Jerry Burger, Basic and Applied Social Psychology, 1987). Also see Authority and Control in Organizational Life.
+
+[12]  Watch That Next Step (CEO Problems)
+
+Photo by Tony Harrison.
+
+
+===== END ED BOT ESSAY 18113 =====

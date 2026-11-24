@@ -1,0 +1,210 @@
+===== BEGIN ED BOT ESSAY 3157 =====
+---
+title: Branding National Security
+url: https://edbatista.com/2005/03/branding_nation.html
+slug: branding_nation
+published: 2005-03-30T22:09:58
+updated: 2005-03-30T22:09:58
+source_body: wordpress-html
+---
+
+In the March 21st New Yorker, Jeffrey Goldberg has a piece titled "The Unbranding," which addresses the difficulties faced by potential Democratic presidential candidates on national security issues in a post 9/11 world.  The article focuses on Joe Biden, but Richard Holbrooke actually has the best lines:
+
+[Holbrooke] seemed displeased when I asked whether the Democrats had a credibility problem on defense issues, and he finally said, "Look, the answer is, we have to do an unbranding."  By this he meant that the Democrats had to do a better job of selling to the American people what he believes is already true--that the Democrats are every bit as serious on the issue as Republicans.  "We have to brand more effectively.  It's marketing."
+
+...Holbrooke suggests that the Republicans have boxed in the Democrats, by stealing their ideas.  "The Republicans, who always favored bigger defense budgets--we were the soft-power people, the freedom-and-democracy people--now seek to own both the defense side and the values side of the debate," Holbrooke said.  He believes that if the Iraq war actually does bring about the hoped-for results it might help the Democrats.  "We'd be better off as a country and as a party if Iraq is a success and we get it behind us.  The Democrats can then talk about their traditional strengths, domestically and internationally."
+
+I'm sympathetic to Holbrooke's plight, but I doubt that he and his fellow "national-security Democrats" will make much headway before 2008.  Too many people on the left seem to be quietly (or not so quietly) hoping for setbacks in Iraq, convinced that they can use those setbacks as ammunition against Bush.  It ain't gonna happen--the electorate is in it for the long haul, and they have clearly indicated that they'll support the administration's anti-terrorism policies without "going wobbly."  It's conceivable that further domestic attacks would turn the tide against Bush, as the Madrid bombing did to Aznar in Spain--but I think they'd have the opposite affect and harden American resolve.
+
+But more fundamentally, the Republicans have beem pummeling the Democrats on national security ever since the Communists took over China in 1949, and I don't see any signs that a) the GOP is planning to give up this advantage, or b) the Dems have the ability to "unbrand" themselves on this issue, Holbrooke's advice notwithstanding.
+
+The entire discussion raises the question of whether a political party--an institution that communicates so many subtle yet powerful messages through symbols and implicit cues, an institution that is so intensively "branded"--is even capable of "unbranding" itself in this way.
+
+Looked at from that perspective, Holbrooke's reasoning seems contradictory.  On the one hand, he's asserting that the Democrats are "every bit as serious" (in Goldberg's words) as the Republicans about national security, and they just need to do a better job of getting that message across.  But on the other hand, he's admitting that the Democrats' are perceived as weak on national security, and they'd be better off if Iraq went swimmingly so the debate could shift to, say, Social Security reform.
+
+I agree with Holbrooke that the Democrats need to do something.  But the answer is not flashier PR campaigns about their patriotic fervor, or frantic attempts to guide the debate back into safe domestic waters.  If the Democrats are to truly undertake the massive job of "rebranding" themselves, they're going to have to do better than that.
+
+The most fascinating political rebranding effort I've ever seen is underway right here in California.  Almost singlehandedly, Arnold Schwarzenegger has heroically reversed the image of the state's Republicans.  As recently as 1999, the California GOP was led by Governor Pete Wilson, an almost comic caricature of the dour, bloodless, mean-spirited Republican.  But today Arnie's taking the best aspects of both parties' brands and combining them into something new.  The Democrats' social liberalism and love of freedom, and the Republicans' fiscal responsibility (at least until recently) and love of country are being united under the banner of the GOP, and the party of Bob Dornan and Dana Rohrabacher is being radically transformed.
+
+Schwarzenegger is succeeding not only because of his deep pockets and personal star-power, but also because the state GOP was a broken, dispirited failure, and they knew they had to remake themselves--they had to rebrand--if they were to stay relevant.  I don't think the Democrats have sunk so low on the national level--yet.  They still think they just need better publicity.  Sadly, it appears that they're going to have to lose a few more elections before they understand the difference between superficial PR and an actual brand that's not just skin-deep.
+
+
+===== END ED BOT ESSAY 3157 =====
+===== BEGIN ED BOT ESSAY 3158 =====
+---
+title: Home Sweet Home
+url: https://edbatista.com/2005/03/home_sweet_home.html
+slug: home_sweet_home
+published: 2005-03-28T22:27:47
+updated: 2005-03-28T22:27:47
+source_body: wordpress-html
+---
+
+After a week in DC learning the ropes at the new office, and a week in Chicago at N-TEN's Nonprofit Technology Conference (which was great, actually--like the first wedding after your own), today I finally settled into what I expect to be doing most of the time for the next few years--working from home.
+
+That's how I spent the bulk of 2001, my first year as N-TEN's first Executive Director, but things are a little different this time around.  The most important difference is one of the most prosaic: a wireless network.  Life's a lot easier when you're not shackled to a desk.  It's also nice having actual colleagues and an organizational infrastructure to plug into.  Back in 2001, I felt like I was making everything up as I went along, and although that sometimes had its rewards, it also had its frustrations.  Life got much better when I moved to a real office at the end of 2001, and better still when I was lucky enough to hire Holly Ross at the beginning of 2003 and finally had a real colleague.
+
+But I don't think it's going to take two years to hit my stride this time.  I still have a lot to learn, of course, but I feel a little more together, a little more on top of things.  At the moment, I'm sure that's partly because it's just so damn good to be back in California.  This morning Amy and I were up at the crack of dawn because she also started her new job today, but unlike me, she has a two-hour commute 🙁
+
+I walked her up to Cole Valley to catch Muni to Caltrain, and after seeing her off, I had a cup of coffee at Tully's and read the sports page, looking out on a scene pretty much like the one above.  And except for the All Steroids, All the Time atmosphere that's hanging over the Giants like a cloud about to burst, it was a damn fine way to start the day.  Sunshine, blue sky, caffeine.  Time to go to work.
+
+
+===== END ED BOT ESSAY 3158 =====
+===== BEGIN ED BOT ESSAY 3159 =====
+---
+title: From Surfer to Donor
+url: https://edbatista.com/2005/03/from_surfer_to_.html
+slug: from_surfer_to_
+published: 2005-03-25T17:17:05
+updated: 2005-03-25T17:17:05
+source_body: wordpress-html
+---
+
+Vinay Bhagat of Convio organized a great session at the NTC entitled "From Surfer to Donor: Developing an eCRM Strategy."  My hastily scribbled notes follow:
+
+Bradley Duff-Hudkins
+International Fellowship of Christians and Jews
+
+Targeted Online Fundraising
+IFCJ sends weekly newsletters, and two issues each month contain a hard financial ask. The ask is located in the letter from the organization's leader, which is inside the newsletter, not in the email itself.
+
+Metrics
+Newsletter open rate is 16.5%, and the average click-through rate (CTR) is 4.86%. The average gift for soft asks is $75, and the average gift for hard asks is $173.
+
+Results
+IFCJ has significantly increased their basic ask amount, and now never ask for less than $300 in online appeals. (The group that gave the most were asked for $400.)
+
+Testing Multiple Elements
+IFCJ regularly tests different components of their online appeals:
+1) Subject heading
+2) Recurring delivery
+3) Table of contents
+4) Header design
+
+Customized Opt-In Messages
+A new feature for for 2005, including the following:
+1) Daily updates from Israel tour
+2) Hebrew word of the day
+3) Prayer network
+
+These messages are advertised primarily in their weekly newsletter, with sign-up options on relevant landing pages within their site.
+
+Email Marketing Campaigns
+1) Rosh Hashana/New year's eCard to the people of Israel.  The card was delivered to the Prime Minister office, and was apparently quite a success, although I didn't catch the stats.
+
+2) "Eight Nights of Contact" for Hanukkah.  IFCJ was worried about overexposure, but that turned out not to be a concern.  The campaign included such elements as a virtual menorah (which was IFCJ's 17th most viewed page in 2004), and a downloadable dreidel (which was their 4th highest download for the year.)
+
+Constituent Surveys
+1) Drive traffic to site by posting survey results online.
+2) IFCJ's surveys page was their 4th most-viewed page in 2004.
+3) Survey results garner coverage from major media, driving traffic back to the site.
+
+Online Advocacy
+IFCJ had two online advocacy campaigns in 2004.  Over 1,200 constituents took action, but the campaigns signed up just a handful of new constituents--an effective tool to mobilize current members, but limited in its appeal to new ones.  The average gift from an advocate is $101.
+
+The average age of an IFCJ online donor is 50.
+
+2004 Results
+1) IFCJ grew email list from 18,900 to over 45,000.
+2) Raised more than $1 million, up from $447K in 2003
+3) They're on track to double again in 2005 to $2 million.
+4) They've even found some new major donors online ($25,000 in one case), despite the conventional wisdom that this doesn't happen.
+
+<><><>
+
+Garth Moore
+American Society for the Prevention of Cruelty to Animals
+
+Key Elements of Online Presence
+1) Attract visitors with timely content and features--react quickly to external events that might interest your audience and draw them to your site.
+2) Prominently display interaction features.
+3) Offer registration items for visitor information throughout the site.
+4) Interact with customized emails.
+5) Send renewal notices.
+
+How to Get Visitors to the Website
+1) Direct mail--it's expensive, but still worthwhile.  All direct mail pieces should have a specific URL to determine the response rate.
+2) Use email to ask your audience to join advocacy efforts or take other actions that bring them back to the site.
+3) Incorporate a tell-a-friend component in every message.
+4) Establish relationships with online partners and develop tie-in promotions.
+5) Search engine registration.
+
+ASPCA's typical offline constituent is a 45-65 year-old woman, divorced or widowed, with two or more cats.  This demographic is moving online quickly, despite past perceptions, and the ASPCA's online results bear this out.
+
+Site Maintenance
+Update home page 3x week.  Liven up features with bulleted content, rendered graphics and related content.  Look to see which features can offer more than just content.  Browsing public is smart enough to avoid brochure sites.
+
+Beyond Content: Interactivity
+ASPCA visitors are encouraged to take action frequently on the site.  Every page has registration functionality.
+
+The ASPCA's average site visit is 3.2 pages--plenty of opportunities to encourage interaction.
+
+Static content must be spruced up with interaction features
+
+Registration Items
+1) Site access to exclusive content or incentive items (virtual or free)
+2) Giveaways, like free magnets (37,000 people gave name, address, email address to get the magnet), or free animal rescue sticker.
+
+Users should leave as much info as you need to contact them regularly
+
+Registration Profiling
+The ASPCA ask about professional and social interests and uses this info to engage their members more effectively.  Profile data is regularly synched between online and offline databases to insure maximum effectiveness.  You must get this info to fully understand your members' interests, and it's not that hard to get--65% of ASPCA registrants complete the professional and social interest fields.
+
+Email Registration Features
+1) Offer free newsletters using program content.
+2) Measure open rates.
+3) Tailor giving messages for specific audiences as finely as possible.
+4) Include soft asks and donation links in each message.
+5) Send weekly mailings for everything, and don't worry about oversaturation.  If they want to unsubscribe, they will.
+6) You must maintain consistency and frequency--send the same messages on the same days every week.  The ASPCA hasn't missed their weekly email newsletter drop in four years.
+
+Email vs. Direct Mail
+Not only is email more efficient, offering immediate returns, but the ASPCA's average online gift is double their average offline gift, $44 online vs. $22 offline.
+
+Interact with Customized Email
+1) Tailor content and graphics based on the recipients' interests.
+2) Customize every message with the recipient's name, location and any other personal info they provide.
+3) Don't be scared to ask users for the information you need to initiate a relationship.
+4) Customization works.  For example, ASPCA members who are identified as dog lovers are three times more likely to scroll down and read a newsletter if they get a message with a dog graphic at the top.
+5) Personal interests can also be used to create customized content--not just different graphics, but completely different stories in the newsletter.
+6) Customized content can raise click-through rate up to 8-10%.
+
+Online/Offline Integration
+The ASPCA regularly synchs their online and offline databases, and 25% of their donors who have given offline but supplied an email address give when asked online.
+
+Online Donor Value
+<> 38.75% of the donors with an active email address donated with an average value of $53.55.
+
+Recent Successes
+1) 2004 online donations up 46% from 2003.
+2) 140,000 new site registrants in 2004.
+3) 250,000 current email newsletter subscribers.
+4) Q1 2005 will be their best non-holiday quarter ever.
+
+Overall Success
+1) ASPCA launched with Convio in 2001.
+2) Their housefile has grown more than 1,000% in four years, from 43,000 to nearly 500,000.
+3) They will raise more than $1 million online in 2004.
+4) They grew their "advocacy brigade" by more than 900%, from 17,000 to 177,000.
+
+Final Thoughts
+1) Put action alerts right on the home page--hot news that will encourage users to act immediately.
+2) Once a user is in your database, you must have a plan to immediately and consistently follow up and interact with them.
+3) Insure that registration and other interaction opportunities are spread throughout your site.
+
+
+===== END ED BOT ESSAY 3159 =====
+===== BEGIN ED BOT ESSAY 3160 =====
+---
+title: NTC Wiki
+url: https://edbatista.com/2005/03/ntc_wiki.html
+slug: ntc_wiki
+published: 2005-03-25T13:00:27
+updated: 2005-03-25T13:00:27
+source_body: wordpress-html
+---
+
+If you're attending the Nonprofit Technology Conference (and particularly if you're not), be sure to check out the NTC Wiki.  My fave page is the list of conference participants who are blogging the NTC.
+
+
+===== END ED BOT ESSAY 3160 =====

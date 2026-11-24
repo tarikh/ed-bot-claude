@@ -1,0 +1,448 @@
+===== BEGIN ED BOT ESSAY 3998 =====
+---
+title: Building Blocks (A Tactical Approach to Change)
+url: https://edbatista.com/2019/03/building-blocks-a-tactical-approach-to-change.html
+slug: building-blocks-a-tactical-approach-to-change
+published: 2019-03-16T09:52:54
+updated: 2025-10-09T09:00:00
+source_body: wordpress-html
+---
+
+We tend to think about change in broad, sweeping terms. We grow dissatisfied with some aspect of our lives or ourselves and we proclaim that THINGS WILL BE DIFFERENT FROM NOW ON. But having coached hundreds of senior leaders and MBA students at Stanford since 2006, I've observed that broad, sweeping change is rare--and this way of thinking about change is at odds with the practices that make successful change efforts more likely.
+
+Our preference for familiar patterns of behavior typically renders dramatic change unsustainable, and we readily revert back to the previous state. And the fantasy of the grand gesture obscures the boring reality that the path toward any desired change, no matter how lofty or ambitious, will be paved with innumerable small steps. Change generally involves making different choices, but we rarely resolve an important issue by making a single choice in isolation; successful change entails making the right choice over and over again.
+
+The difficulty of sustaining change over time, and the stark contrast between what we imagine change will be like and what it actually involves can leave us feeling demoralized and incapable--and so we give up. But if our conventional model of change hurts our chances of success, an alternative model can help. Instead of thinking of change as something grandiose, we can break it down into some simple building blocks:
+
+1. Turn goals into activities.
+
+2. Start small.
+
+3. Cultivate habitual routines.
+
+4. Identify assumptions and beliefs.
+
+5. Celebrate little wins.
+
+1. Turn goals into activities.
+
+Our vision of change as a broad, sweeping process is often connected to an ambitious goal that we find inspiring. But a big goal can be a form of shorthand--an overarching label that encompasses a range of related activities. And when we're seeking to act upon our intentions, the label can get in the way by making it harder to define progress or navigate around obstacles.
+
+As I entered my 40s I realized that I needed to take better care of myself and decided to "be healthier." But what did this mean in practice? How would I actually pursue this goal? I was highly motivated, but "being healthy" was too abstract to translate into action, and I eventually identified a set of specific activities that contributed to my well-being: regular exercise, a meditation practice, sufficient sleep, eating and drinking in moderation, and reflective study.
+
+Breaking down "health" into a set of related activities allowed me to see much more clearly where I was making progress and where I was falling short. I could also observe relationships among these activities and adjust accordingly, e.g. sleep and study were often inversely correlated, so I changed my calendar to make time for study earlier in the day.
+
+Further, meaningful change efforts often meet with resistance--we struggle to get started, our initial efforts are halting, the temptation to give up is constant. When we hit these barriers in the pursuit of one large goal, it can feel like all progress comes to a halt. But if we've identified a set of related activities that contribute toward our goal, we can continue to move forward in one area when we're stuck in others. Pursuing the goal of "being healthier" along multiple paths allowed me to make progress on at least one every day. (Over a decade later I still track my efforts in these areas, and while it's rare to engage in all of them on a given day, I usually accomplish most of them.)
+
+- What are your big, ambitious goals?
+
+- What specific, concrete activities would enable you to move toward them?
+
+2. Start small.
+
+While it's useful to pursue a limited set of activities in parallel, at the same time we have to manage our aspirations to insure that our appetite for change doesn't undermine our efforts. This sounds easy, but it can be hard to put into practice. My clients and students are ambitious people who hold themselves to high standards, so when they believe that it's time for change in their lives they typically want to START BIG and address multiple issues simultaneously. It can feel insufficiently challenging or even meaningless to define the scope of the process too narrowly.
+
+But when we try to implement too much change at once, we can set ourselves up for failure, and not only in the short run, but over the long term as well. If we seek to make change in multiple areas and fall short of our goals, we may come to think of ourselves as incapable of change. And the beliefs that we hold about our capacity for change have a significant impact on the outcomes of these efforts. Stanford psychologist Carol Dweck has identified two distinct "mindsets" from which these beliefs stem:
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits... In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. [1]
+
+Concentrating our efforts in specific areas and scaling up over time allows us to feel a sense of efficacy and accomplishment, which can reinforce our belief in our capacity to change and heighten our identification with a growth mindset. Conversely, spreading ourselves too thin at the outset of the process can lead us to flounder and backslide and can have the opposite effect.
+
+Experimenting at a small scale also helps us gather data that can prove useful if it ever becomes necessary to pursue larger, more comprehensive changes in our lives. Efforts to change can help us better understand our underlying assumptions and beliefs (discussed below), how we respond to setbacks, and what support we find most helpful. We learn best when we're slightly stressed but not overwhelmed, and changing at a smaller scale first allows us to be more thoughtful and intentional when the stakes are higher. [2]
+
+Finally, successful small changes may reduce the need for large-scale change. Our desire for change is often driven by unhappiness or a lack of fulfillment, and yet research suggests that a consistent commitment to small, intentional activities may have a bigger impact on those feelings than large, dramatic changes in life circumstances. [3,4]
+
+- Where could you focus your current efforts to change?
+
+- Where would it be easiest to start?
+
+- Where do you anticipate the highest returns on your initial investments of effort and attention?
+
+3. Cultivate habitual routines.
+
+Much of the change that we seek to bring about in our lives entails making different choices regarding activities that we want to engage in (or refrain from) more consistently, and the key to success in these efforts lies in developing and maintaining habitual routines. In William James' 19th-century master-work Psychology: Briefer Course, the founder of modern psychology discusses the "practical effects of habit":
+
+First, habit simplifies our movements, makes them accurate, and diminishes fatigue... Second, habit diminishes the conscious attention with which our acts are performed. [5]
+
+These dynamics are rooted in what Princeton psychologist Daniel Kahneman describes as "the law of least effort," which compels us to "gravitate to the least demanding course of action" in order to preserve our limited capacity for deliberation and active decision-making. [6] Journalist Charles Duhigg explores this concept further in The Power of Habit:
+
+Habits, scientists say, emerge because the brain is constantly looking to save effort. Left to its own devices, the brain will try to make almost any routine into a habit, because habits allow our minds to ramp down more often. This effort-saving instinct is a huge advantage. An efficient brain...allows us to stop thinking constantly about basic behaviors... [7]
+
+As a consequence, one of the most significant factors in whether we'll follow through on a desired change and engage in (or refrain from) a given activity now is whether we've done so before. It's easier to stick with an ongoing commitment and maintain momentum than it is to start a new process from scratch, because once a routine has been established fewer decisions are required to repeat the process and less mental effort is expended (and humans evolved to be "cognitive misers," in Kahneman's apt phrase.)
+
+There are a number of "habit trackers" that can help with this--see the Postscript below--and these tools operate on the same basic principle: Create a calendar to track your progress on a desired activity, and mark off each day you follow through on your commitment. The first such tool of this type that I learned about, Don't Break the Chain, was named after advice that Jerry Seinfeld is reported to have given to developer and former stand-up comic Brad Isaac:
+
+[Seinfeld] revealed a unique calendar system he uses to pressure himself to write. Here's how it works.
+
+He told me to get a big wall calendar that has a whole year on one page and hang it on a prominent wall. The next step was to get a big red magic marker.
+
+He said for each day that I do my task of writing, I get to put a big red X over that day. "After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain."
+
+"Don't break the chain," he said again for emphasis. [8,9]
+
+Despite Seinfeld's belief in the necessity of keeping a chain going, there are potential downsides that I've observed in a number of clients and students (and in my own life). While a growing chain can be motivating, if we feel that success is defined by maintaining a perfect record indefinitely, we may eventually view the activity as an onerous duty and come to resent it.
+
+And when a lengthy streak is broken, we may feel so demoralized that we're actually less likely to start a new one. Resilient and failure-tolerant processes that accommodate our shortcomings are often preferable to demanding-but-fragile ones that don't. As Voltaire reminds us, "The perfect is the enemy of the good." [10]
+
+- What different choices are you trying to make?
+
+- What habitual routines would be helpful in this process?
+
+- What tools could you use to track your progress?
+
+4. Identify assumptions and beliefs.
+
+We embark upon change efforts with the intention of altering our goals and strategies in order to obtain better results. But a limitation of this approach is that our goals and strategies are rooted in underlying ideas that go untested because we take them for granted, view them as universal truths or are unaware of their influence on our thinking.
+
+It's important to step back and identify the assumptions and beliefs that give rise to our goals and strategies in the first place. This process of "double-loop learning" was first articulated by Harvard Business School professor Chris Argyris, who illustrates the concept with a common household device:
+
+Single loop learning can be compared with a thermostat that learns when it is too hot or too cold and then turns the heat on or off. The thermostat is able to perform this task because it can receive information (the temperature of the room) and therefore take corrective action.
+
+If the thermostat could question itself about whether it should be set at 68 degrees, it would be capable not only of detecting error but of questioning the underlying policies and goals as well as its own program. That is a second and more comprehensive inquiry; hence it might be called double loop learning. [11]
+
+Most of our learning is "single-loop"--we make improvements within an existing system that rests on assumptions and beliefs that are implicit and unchallenged. In a "double-loop" process we expand the analytical frame to explicitly identify and question those assumptions and beliefs, and then modify our goals and strategies accordingly. This is easy to understand, but Argyris explains why it can be difficult to execute:
+
+Put simply, because many professionals are almost always successful at what they do, they rarely experience failure. And because they have rarely failed, they have never learned how to learn from failure. So whenever their single-loop learning strategies go wrong, they become defensive, screen out criticism, and put the "blame" on anyone and everyone but themselves. In short, their ability to learn shuts down precisely at the moment they need it the most. [12]
+
+Note the need for emotion regulation in this process. Meaningful change generally involves not only acknowledging the failure of our "single-loop" efforts in the past, but also admitting that some of our most closely-held ideas are wrong or outdated. In order to be able to revise and update these ideas, we must manage the defensiveness that arises when they're challenged. As Stanford professor David Bradford notes, "Failure is inevitable, and what matters is how you handle it, not how you avoid it." [13]
+
+Ten years after I began my initial efforts to be more physically active again, I was fitter and stronger than I'd been since I was a competitive athlete in high school--and then I began suffering a series of painful injuries. The pattern had to repeat itself several times before I finally realized that a powerful assumption of mine was that vigorous exercise would forestall the aging process indefinitely. It's been hard to admit that in my 50s I need to accept limits on my physical capabilities, and I've resisted it strenuously. Coming to terms with aging has stirred up a host of complex feelings, and the ongoing process of working through them has been essential in allowing me to adjust my goals and strategies related to health and wellness.
+
+- What underlying assumptions and beliefs are shaping your goals and strategies?
+
+- How might you make these ideas more explicit?
+
+- What experiments might you run to test the accuracy or continued relevance of these ideas?
+
+- What support will help you work through feelings that may be evoked as a result?
+
+- Note the value of journaling and coaching conversations in this process. [14,15]
+
+5. Celebrate little wins.
+
+A final benefit of this approach is that it creates many opportunities to experience little wins, which can have a surprisingly large and positive effect on our state of mind. But this won't happen by accident--it requires a willingness to celebrate and a degree of mindfulness. Returning to Duhigg's The Power of Habit:
+
+This process [of habit formation] within our brains is a three-step loop. First, there is a cue, a trigger that tells your brain to go into automatic mode and which habit to use. Then there is the routine, which can be physical, mental or emotional. Finally, there is a reward, which helps your brain figure out if this particular loop is worth remembering for the future.
+
+Over time, this loop--cue, routine, reward; cue, routine, reward--becomes more and more automatic. The cue and reward become intertwined until a powerful sense of anticipation and craving emerges. [16]
+
+While much of the literature on change stresses cues and routines, it's just as important to highlight the rewards--and yet we can be reluctant to do so. In my experience high-performing people often merely "check the box" when they've completed a task without allowing themselves to feel victorious or celebrate the milestone. This may spring from a fear that acknowledging the accomplishment will dampen their drive, but Harvard Business School professor Teresa Amabile and productivity researcher Steven Kramer note that the experience of making progress can serve as a stimulus:
+
+Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work. And the more frequently people experience that sense of progress, the more likely they are to be creatively productive in the long run. [17]
+
+Elsewhere Amabile and Kramer explain that a sense of progress can spur us on to reach new heights:
+
+When people make progress toward, or actually meet, personally meaningful goals, the good match between their expectations and their reading of reality allows them to feel good, grow their positive self-efficacy, get even more revved up to tackle the next job, and mentally move on to something else. Progress motivates people to accept difficult challenges more readily and to persist longer. [18]
+
+One of the reasons bad habits are so hard to break is because the reward is built in at a neurological level--consider the effects of nicotine, alcohol, or social media. [19] In contrast, the habits that we're striving to cultivate as a part of our change efforts are unlikely to have such a visceral impact on the brain. So we need to deliberately create positive experiences that generate a feeling of reward and a sense of progress.
+
+These experiences don't need to be elaborate or time-consuming, but we do have to remember to pause and take in the moment. This is one reason why habit trackers can be so useful: We can feel a small surge of pride each time we "add a link" to one of our chains--as long as the activity hasn't become an onerous obligation. And we can celebrate milestones on these calendars that make our progress visible and feel rewarded for our diligence--as long as we're not anxious about maintaining a perfect streak forever.
+
+- What little wins are you experiencing?
+
+- How will you track your progress toward these milestones?
+
+- What would it be like to celebrate them more fully?
+
+Putting It All Together
+
+Some recommendations to help you put this framework into practice:
+
+- Keep it simple. Identify an easy way to track your progress, and the simpler, the better. Any unnecessary complexity will make it less robust and more fragile. So use pen and paper, a spreadsheet, or a "habit tracker," such as Don't Break the Chain, Don't Break the Chain for iOS, Chains for web and iOS, Day by Day for Android, and Productive for iOS, among a host of others.
+
+- Design your environment. Assess the spaces around you to create the conditions that will nudge you in the direction of desired activities and away from undesired ones. This includes your physical environment as well as your calendar and other virtual settings. (For example, one of the most common changes made by my clients and students who want to spend less time on their phones or get better sleep is simply charging their phone outside their bedroom rather than on their nightstand.) Willpower is not enough. [20]
+
+- Ask for help. Let people who you trust know what you're trying to accomplish, and allow them to help you track your progress, nudge you in the right direction, and celebrate small wins together. When we voluntarily make such public commitments, we're more likely to follow through with our intentions. This stems from a desire to maintain a coherent identity and avoid the cognitive dissonance evoked when our behavior is inconsistent with our stated commitments. [21]
+
+- Get curious. When you fall short of your aspirations--as we inevitably do--be compassionate toward yourself [22] and remember that you're a work in progress. [23] Step back, look at the data, and get curious: What patterns do you see? What is there for you to learn? How might you modify your hypotheses in response and run the experiment differently now?
+
+Footnotes
+
+[1] What Is Mindset (Carol Dweck, 2010)
+
+[2] Neuroscience, Joyful Learning, and the SCARF Model (2010)
+
+[3] Understanding "The Pie Chart" in The How of Happiness (2017)
+
+[4] Lyubomirsky's Person-Activity Fit Diagnostic (2014)
+
+[5] Psychology: Briefer Course, Chapter X: Habit (William James, 1892)
+
+[6] Thinking, Fast and Slow, page 35 (Daniel Kahneman, 2011)
+
+[7] The Power of Habit, page 17 (Charles Duhigg, 2012/2014)
+
+[8] Don't Break The Chain / What
+
+[9] Jerry Seinfeld's Productivity Secret (Gina Trapani, 2007)
+
+[10] Voltaire and Patton on Perfection (2009)
+
+[11] Double Loop Learning in Organizations (Chris Argyris, Harvard Business Review, 1977)
+
+[12] Teaching Smart People How to Learn (Chris Argyris, Harvard Business Review, 1991)
+
+[13] On Failing and Trying Again (2006)
+
+[14] The Value of Journal Writing (2008, revised 2018)
+
+[15] Coaching Tools for Leaders
+
+[16] The Power of Habit, page 19 (Charles Duhigg, 2012/2014)
+
+[17] The Power of Small Wins (Teresa Amabile and Steven Kramer, Harvard Business Review, 2011)
+
+[18] The Progress Principle, page 91 (Teresa Amabile and Steven Kramer, 2011)
+
+[19] Nir Eyal: The psychology of building addictive products (Sylvia Li Sam, 2016)
+
+[20] Against Willpower (Carl Erik Fisher, Nautilus, 2017)
+
+[21] Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+[22] The work of Kristin Neff on self-compassion is immensely useful here.
+
+[23] Learning How to Learn
+
+For Further Reading
+
+Why Change is Hard
+
+Babies, Bathwater and Goal-Setting
+
+Think Small (The Value of Micro-Goals)
+
+William James on Habit
+
+Double-Loop Learning
+
+The Art of Self-Coaching, Class 2: CHANGE
+
+- Slides, readings and related materials from my course at the Stanford Graduate School of Business.
+
+The Art of Self-Coaching, Chapter 2: CHANGE
+
+- A set of related of posts that will ultimately be compiled in a single volume.
+
+Photo by Raúl Hernández González.
+
+
+===== END ED BOT ESSAY 3998 =====
+===== BEGIN ED BOT ESSAY 3999 =====
+---
+title: Personal History (1986-1998)
+url: https://edbatista.com/2019/02/personal-history.html
+slug: personal-history
+published: 2019-02-02T16:26:33
+updated: 2025-09-24T11:58:10
+source_body: wordpress-html
+---
+
+Amy discovered the photo above a few weeks ago, and it's stirred up a host of memories from a pivotal period in my life that I feel compelled to document here--I don't expect anyone to read all this, but I suspect I'll enjoy re-reading it myself some day. The photo shows the two of us in 1991 in our first apartment in San Francisco. It was $750 a month for a nice one-bedroom on the Panhandle. She was--and is--completely adorable, and I look at that face and fall in love all over again. I have no excuse for my haircut and no explanation for what we're doing with our hands.
+
+The Fender Bandmaster amp in the background was given to me by Charles Thompson, aka Black Francis of the Pixies, when he and I were dishwashers together in a Boston restaurant for a few months in 1986-87, while I was a student at the School of the Museum of Fine Arts and he was launching the band. Charles was friendly and funny and a good colleague in a shitty job, and I really wanted to see his band, but I was under 21 and didn't have a fake ID and the Boston clubs were strict about carding.
+
+By early 1988 I knew that art school and life in Boston had helped me grow up in some critically important ways, but I also wanted to continue my education in a more conventional setting. I'd spent my freshman year at Duke, and although I'd enjoyed aspects of it immensely and had close relationships with many people there, I felt that I had changed too much to go back and feel at home there again. I decided to apply to Brown, which affords students a great deal of freedom in charting their path, and although I considered some other schools, ultimately I applied only to Brown. It's not that I was confident of my acceptance--I wasn't--but I knew that if I were to return to school successfully I would have to retain the independence I'd enjoyed in Boston. I spent the summer of 1988 living with my (very patient and supportive) Mom and Dad and working construction, waiting and wondering what I would do if I didn't get in. Somehow, I did.
+
+After moving to Providence that fall I came up to Boston regularly, and I finally got to see the Pixies at the Rat in Kenmore Square in December 1988. I was practically sitting on the stage, and it was one of the greatest shows I've even seen. Kim Deal wore a dress and high heels and deftly dodged the crush of people. The previous year Amy and I and a pair of friends decided to skip the Hüsker Dü show at the Orpheum, and I will go to my grave regretting that decision, but at least I saw the Pixies at the Rat, and I'll hold on to that one forever.
+
+Amy and I were friends in high school and started seeing each other shortly after she graduated. I had decided to leave Duke before she and I got together, but I chose the SMFA because it was near Dartmouth, where Amy was headed. We were deeply committed to each other, but we were also teenagers, and I was obviously filled with uncertainty. With the benefit of hindsight, the turmoil we went through over the next few years was predictable, but at the time it was also quite painful.
+
+In early 1989, shortly after seeing the Pixies, I was thinking about calling Charles and asking him if I could travel with the band and help out in some way over the summer. I was a terrible guitar player, but I could tune, and I was willing to work for free. I have no idea if he would have said yes--I had his phone number, but didn't know him well. But then I realized that if he did say yes, I probably would have gone, and who knew how a summer apart would have affected me and Amy?
+
+So I never made that call, and instead Amy and I decided to spend the summer together in Washington D.C. She had her shit together and landed an internship at a law firm--it wasn't the greatest job in the world, but it paid enough to allow her to save for senior year, and it provided a grownup-looking line on a resume. I most definitely did not have my shit together and arrived in D.C. unemployed, eventually finding a job as a sandwich maker at a deli in Georgetown. To save the money I needed for senior year, I bought a bucket, a pole, and a squeegee, and after work I roamed the neighborhood offering to clean the storefront windows of local businesses, and eventually I developed a regular clientele.
+
+Washington was in the midst of a profound homelessness crisis in the late '80s, and as I walked to and from Georgetown and along my window-washing route I would pass dozens and dozens of people living without shelter. At the deli where I worked we threw out large boxes of unsold muffins at the end of each day, and eventually I convinced the managers to let me take them home with me so that I could distribute them to the people I passed--this also turned into a regular route.
+
+Amy and I made it through another challenging year as a couple--my fault--and shortly before graduation we decided to take a wild leap and move to San Francisco, which I had visited with my family years previously and remained a sort of magical place in my imagination. Most of our peers were headed to entry-level professional jobs in New York and Boston, and we weren't quite ready for that--we wanted to have an adventure in this city that seemed so welcoming to people who didn't quite fit into the ordinary categories elsewhere. It's not lost on us that two history majors would not be able to do this today--and that a great deal of privilege enabled us to do it then. So that summer we hitched a U-Haul trailer to my Camaro--yes!--and drove across the U.S., surviving on Denny's in the morning and Domino's at night.
+
+Once again, Amy had her shit together and followed her interest in public health education and her actual experience as an HIV peer educator at Dartmouth into a grownup job with the California Medical Association, which would ultimately lead her to law school, corporate practice, legal librarianship, and the leadership role she holds today as the director of the Zief Law Library at the USF School of Law.
+
+And once again, I did not have my shit together and was really at a loss as to what to do professionally. But my history degree qualified me to serve as a cub reporter for the (now-defunct, of course) San Carlos-Belmont Enquirer-Bulletin, an old-school local weekly that was part of a small chain of area papers owned by Jerry Fuchs, an equally old-school publisher. I landed the job by passing this test with Jerry: after asking me some perfunctory questions, he turned the tables and told me to interview him, then put me in a room with a typewriter and had me write up my notes as a feature on the spot. It was the most true-to-life job interview experience I've ever had.
+
+After a few months covering anything and everything in the charming, sleepy town of Belmont, Jerry promoted me to County Editor and allowed me to write about a broader range of issues affecting the region. My experience in Washington D.C. had stuck with me, and I was keenly aware of the extent of homelessness in San Francisco, and a little investigating made clear that the issue was also a problem on the Peninsula. Homelessness wasn't as visible as it was in SF because there were relatively few panhandlers, but if you knew where to look you could find the quiet streets where people were living out of cars and RVs, and even the occasional encampment.
+
+There was much I loved about being a journalist--I had a great deal of freedom in choosing what to write about and how to spend my time, and much older people in positions of authority treated me with respect (and answered my naive questions graciously), and seeing my name in print each week was always a thrill. The money was terrible, even then, and I had to write the occasional piece of hackwork on an important advertiser--it was very much a business, and I knew that.
+
+But I couldn't stop thinking about homelessness, and I wanted to work on the issue directly, not from the sidelines as a writer. I told Jerry I was quitting, and although as an old RFK supporter he understood my motives, he also made one last offer to try to keep me--he'd give me a weekly column. This was incredibly tempting, and I've often wondered what my life would look like today if I'd said yes. The most likely conclusion is that I would have had an amazing experience as a Bay Area writer in the '90s and '00s, only to be laid off in the '10s.
+
+So I sold my Camaro for $3,000 to finance a job search, eventually landing a role as the intake worker at a drop-in crisis center operated by Compass Community Services (then known as Travelers Aid.) The woman who interviewed me, Kathy Taylor Gaubatz, became one of my most important mentors and a personal role model, but (she told me years later), she almost didn't hire me because I wore a coat and tie to the interview, which (along with my total lack of experience) made her wonder if I'd be able to fit into a world where coats and ties looked out of place, to say the least.
+
+I spent a little over a year in that job--every day, at 9:00am and at 1:00pm, I would interview a long line of people seeking help ranging from a cot in a shelter to a long-term bed in a rehab center, from treatment for mental health issues to a bus ticket home. We could help some of them, but we couldn't help all of them. And even when we could help, we couldn't accommodate everyone, and I had to turn away most of the people I talked to, and I tried to do it with compassion and respect. I failed with one guy, though, and he spit in my face. I took the rest of that day off, and went to the childcare center that our agency operated in the Tenderloin, and I just hung out with the little kids and their teachers to decompress.
+
+Then I was hired by a coalition of the city's family and domestic violence shelters to help launch the Homeless Children's Network, which would provide therapy and counseling to children in these shelters (and which is still in operation). I was responsible for management and fundraising, and my counterpart who initially provided our services and ultimately led the clinical team was Erica Kisch, a gifted counselor and another special colleague.
+
+By the time we got HCN up and running, Kathy had become Compass's executive director, and she asked me to return as her first associate director, and later Erica joined us to manage the organization's main family shelter program. (Erica would eventually succeed Kathy and is still running Compass today.) Over the next three years we opened Clara House, a transitional housing program for families; expanded the childcare program that I mentioned earlier, enabling it to double in size; and were asked by the city to establish a centralized intake system for all family shelters. I raised over $1 million to help support this work, a sum that seems trifling today, but which had a big impact in that setting at the time, and I wore a bunch of different hats as I helped Kathy and the rest of our management team turn these projects from ideas into realities.
+
+I didn't have any formal training as a technologist, but thanks to my family and education I'd had more exposure to personal computers than the typical person working in social services in the 1990s, and I was reasonably adept at learning the often-clunky office productivity software of that era. I also began using email intensively in 1994 in order to plan a long-distance motorcycle trip with a friend who lived across the country. These experiences helped me see what a huge opportunity there was for nonprofit organizations to employ technology more effectively, in uses ranging from service delivery to fundraising.
+
+Then in 1996 I met Melinda Tuan, an MBA student at Stanford who was considering an internship at Compass, and the following year I visited the school's Graduate School of Business to attend a conference on entrepreneurship that Melinda had organized. At that conference I saw a passionate, blunt, and wickedly funny talk by Jed Emerson, who was the CEO of the Roberts Enterprise Development Fund, one of the first efforts to fund social ventures. (Melinda went on to work for Jed and later succeeded him at REDF, and Jed went on to become one of the leading thinkers in the world of impact investing.)
+
+I'd been thinking about graduate school but was leaning toward a public policy degree, when a conversation with Kurt Taylor, Kathy's husband, changed my perspective dramatically. He said something like, "You seem to enjoy starting new ventures and getting things done, and I don't think you want to write white papers--you should consider business school." With this in mind, and with the realization that mission-driven people like Melinda and Jed were welcome at Stanford, which was obviously a hotbed of entrepreneurship and technology, I decided to apply to business school. Many people who knew me found this inexplicable.
+
+Around this time Amy graduated fifth in her class at U.C. Hastings, which led to an offer to join the healthcare practice of a San Francisco firm. While I wasn't the best boyfriend in college, I take pride in being an outstanding law school husband. I had so much practice helping Amy prepare for the bar that I honestly believe that I would have had a 50/50 shot at passing it myself.
+
+While waiting to hear my fate, I quit my job at Compass and trained my successor as associate director--no matter what the B-schools thought of me, the application process had made me realize that after 7 years in social services it was time for something different. I was proud of the organizations I'd been a part of and the work we'd done, and I felt grateful for what I'd learned and the sense that I'd made a meaningful contribution. But I also knew that this wasn't the work of a lifetime for me, and if I stayed any longer the feelings of cynicism and futility that had begun to erode my commitment to that work would get the better of me.
+
+And then I got the call from Marie Mookini, Stanford's dean of admissions at the time, welcoming me to the GSB. I was surprised, but not nearly as surprised as I remain today, looking back more than two decades removed. As an MBA student I would discover organizational behavior with Roberto Fernandez and interpersonal dynamics with Mary Ann Huckabay, two of the most gifted teachers I've ever known (and I've been blessed with many); these were the foundational learning experiences that would eventually lead me into executive coaching. I would explore a rich variety of post-MBA paths, which was inevitable in the near-frenzied atmosphere of 1999-2000. I would graduate with offers from four startups, only to conclude that I didn't think I could give them my best effort, leading me to re-launch my job search in the summer of 2000. And I would return to my original reason for attending business school--helping nonprofits use technology more effectively--and eventually be asked to serve as the first executive director of the Nonprofit Technology Network. (My work in the nonprofit technology sector from 2000 to 2006, before I launched my coaching practice, deserves its own post, if I'm ever similarly inspired by a photo from the '00s.)
+
+This walk down memory lane has left me feeling a little wistful, mildly embarrassed, and profoundly grateful. Everyone mentioned above--especially Amy and my parents--played an essential role in the lengthy, uncertain process of helping a well-meaning but deeply confused young man finally get his shit together, and I will always be in their debt.
+
+
+===== END ED BOT ESSAY 3999 =====
+===== BEGIN ED BOT ESSAY 4000 =====
+---
+title: The Trap of Competition
+url: https://edbatista.com/2019/01/the-trap-of-competition.html
+slug: the-trap-of-competition
+published: 2019-01-28T05:00:00
+updated: 2025-10-08T21:10:13
+source_body: wordpress-html
+---
+
+We've evolved to think extensively about other people and to be keenly attuned to competitive dynamics. This gives us a tremendous advantage as a species--but can leave us deeply unhappy as individuals. What can we do about it?
+
+We think constantly about other people and our relationships with them. As UCLA neuroscientist Matthew Lieberman notes in Social: Why Our Brains Are Wired to Connect, our brains possess a "default network" that is activated whenever we're not consciously preoccupied with a specific task or train of thought, and the focus of that network's activity is "social cognition [which entails] thinking about other people, oneself, and the relationship of oneself to other people." [1]
+
+As a result we spend a significant amount of time observing and reflecting upon our interpersonal environment, which has a profound impact on our behavior as a species. Lieberman explains: "Evolution, figuratively speaking, made a big bet on the importance of developing and using our social intelligence for the overall success of our species by focusing the brain's free time on it... The repeated return of the brain to this social cognitive mode of engagement is perfectly situated to help us become experts in the enormously complex realm of social living... In essence, our brains are built to practice thinking about the social world and our place in it." [2, emphasis original]
+
+This intensive social orientation makes it possible for humans to work in large groups. Lieberman notes a hypothesis that the evolutionary advantage conferred on humans by our larger brains derives not from our enhanced abilities as individual problem-solvers, but from our skill at connecting and cooperating with others. Citing work by anthropologist Robin Dunbar which suggests that among humans "the largest effective, coherent social group...is around 150, the largest [group size] for any primate," [3] Lieberman continues:
+
+Our social nature is not an accident of having a larger brain. Rather, the value of increasing our sociality is a major reason for why we evolved to have a larger brain.
+
+What is so beneficial about living in larger groups? Why would evolution foster an increase in our typical group size by increasing the size of our brains? The most obvious advantage to larger groups is that predators can be strategically avoided or dealt with more successfully... That is a big advantage.
+
+The downside of larger groups is that there is increased competition for food and mating partners within the group. [emphasis mine] If you are on your own and you manage to find food, it's yours. The larger your group, the more likely it is that one of the others in your group will try to poach it. Primates with strong social skills can limit this downside by forming alliances and friendships with others in the group...
+
+When we reach Dunbar's number, a group of 150 individuals, there are more than 10,000 possible relationship pairs to consider. So we can begin to see why a bigger brain might come in handy. While there is tremendous upside to being part of a group, that is true only if you know how to play the odds and form the right coalitions to avoid the downsides of group living. It requires an expansive capacity for social knowledge. [4]
+
+So while our social orientation is critical in enabling our success as a species, it also poses a substantial challenge for each of us as individuals. We must navigate in-group competition, which becomes even fiercer in larger groups. We're hyper-aware of our relative social status and our shifting position within group hierarchies. And in order to accomplish these tasks effectively we're constantly scanning our interpersonal environment for potential threats and opportunities, which necessarily involves comparing ourselves to others--as UC Riverside psychologist Sonja Lyubomirsky writes in The Myths of Happiness, "Most of the time, it's impossible not to compare ourselves with others... Social comparisons arise naturally, automatically, and effortlessly." [5]
+
+There's a relationship here with a phenomenon known as social threat, or an interpersonal experience to which we respond as if it posed a literal threat to our physical safety. As I've written previously:
+
+When we encounter [a situation we deem threatening] we undergo a "threat response," commonly known as a "fight, flight or freeze response," triggering a cascading series of physiological and psychological events. When we interpret a situation as threatening on some level, certain neurotransmitters are released (notably adrenaline and cortisol), and our heart rate and blood pressure increase, along with a host of other responses that vary across individuals, and we enter a distressed emotional state which we typically experience as anxiety, fear, or anger.
+
+This heightened state of emotional and physiological arousal serves a useful purpose when we're truly facing a threat to our actual safety--we're primed to make fast decisions and to take rapid, forceful action. But for these same reasons it can result in counterproductive behavior in the face of a social threat. The problem is that when we're in the grip of a threat response we're cognitively impaired, and we don't process information as accurately. We may be primed to act quickly and forcefully, but we're also likely to misinterpret interpersonal cues, misjudge others' motives and intentions, and respond far too strongly than is useful. [6]
+
+Clearly our threat response evolved in order to keep us safe and free from harm by alerting us to potential dangers and mobilizing us to take appropriate action. But our distant ancestors faced existential threats on a regular basis, while today we employ the neurological apparatus we inherited from them in a very different environment. Few of us will ever participate in a competition for resources that we must win in order to survive--although we often invent such scenarios in the form of games and contests in which our threat response serves to heighten our competitive advantage. The problem is that we find it profoundly difficult to turn off these impulses, for all the reasons cited above, and so we constantly imagine that we're engaged in competitive struggles with others and strive to "get ahead" and to avoid "falling behind," even when the stakes are minimal or non-existent (e.g. traffic jams, checkout lines.)
+
+But we also engage in the same behavior when the stakes are much higher, such as in our professional lives, and this can have a corrosive effect on our levels of fulfillment and happiness. As Lyubomirsky continues in The Myths of Happiness:
+
+It's comparisons to other people that are primarily to blame for our feelings of inadequacy and discontent. For most of us, feelings of deficiency or not living up to some lofty standard stem from observing others' successes, real or imagined. Instead of asking ourselves, "Does my career (or productivity or income) meet my needs?" we ask, "How good is my career, my productivity, and my income compared with my neighbor's?" Instead of feeling personally richer and richer, we instead feel that we are attaining new levels of relative poverty. [7]
+
+So what can we do?
+
+A starting point is simply heightening our awareness of these dynamics. Being more mindful of the inevitability of social comparison can help us deal with the feelings of distress that occur when we feel behind or insufficient in some way. We can't control these emotions, nor would we want to--emotions' ability to disrupt conscious thought is what allows them to alert us to threats and opportunities so quickly. But we can be more effective at managing these feelings:
+
+- Understand the social comparisons we find particularly triggering and prepare ourselves for experiences that will bring them to mind or take steps to avoid them.
+
+- Recognize the signs of a threat response and act in the moment to down-regulate our distress (e.g. take slower breaths, get up and take a walk, or--most importantly--talk about our feelings with others). [8]
+
+- Build our capacity for self-regulation through such practices as meditation [9], regular exercise [10], and sufficient sleep [11].
+
+Further, we can ground ourselves in personal sources of meaning and accomplishment. As Lyubomirsky notes, "[W]hen we ask ourselves the question, 'How good (successful, smart, affable, prosperous, ethical) am I?' those of us who typically rely on our own internal, objective standards are happiest. Such habits render us less likely to be buffeted by the winds of external judgments and outside realities... By contrast, those of us who base our self-evaluations on comparisons with others are the unhappy ones... The goal...is to rely a little less on others when determining our self-worth and to rely a little more on our personal standards." [12]
+
+And perhaps at the most fundamental level, we can acknowledge that the competitive drive that has served us so well as a species has also created a series of traps for each of us as individuals. In The Courage to Be Disliked philosopher and psychologist Ichiro Kishimi and his student Fumitake Koga offer an introduction to the work of the pioneering psychotherapist Alfred Adler, a contemporary (and rival) of Freud. Kishimi and Koga provide a vivid critique of the impact of competition on our social relationships and our experience of the world:
+
+When one is conscious of competition and victory and defeat, it is inevitable that feelings of inferiority will arise. Because one is constantly comparing oneself to others and thinking I beat that person or I lost to that person... Before you know it, you start to see each and every person, everyone in the whole world, as your enemy... This is what is so terrifying about competition. Even if you're not a loser, even if you're someone who keeps on winning, if you are someone who has placed himself in competition, you will never have a moment's peace. You don't want to be a loser. And you always have to keep on winning if you don't want to be a loser. The reason so many people don't really feel happy while they're building up their success in the eyes of society is that they're in competition. Because to them, the world is a perilous place that is overflowing with enemies... [13]
+
+This is the trap of competition, one we may stumble into over and over again as a result of our default network's focus on other people, our keen awareness of relative social position, and our misperception of social threat. But rather than resign themselves to such a fate, Kishimi and Koga offer an alternative worldview:
+
+Once one is released from the schema of competition, the need to triumph over someone disappears. One is also released from the fear that says, Maybe I will lose. And one becomes able to celebrate other people's happiness with all one's heart. One may become able to contribute actively to other people's happiness. The person who always has the will to help another in times of need--that is someone who may properly be called your comrade... Now we come to the important part. When you are able to truly feel that "people are my comrades," your way of looking at the world will change utterly. No longer will you think of the world as a perilous place, or be plagued by needless doubts; the world will appear before you as a safe and pleasant place. [14]
+
+The challenge, of course, is how to release ourselves from "the schema of competition," and there's certainly no simple solution--this may be one of the most difficult tasks we face in life. But reading The Courage to Be Disliked has made me see that much of my work in recent years has explored this very topic and provides some provisional suggestions: Cultivate gratitude, set goals wisely, and live my values; truly acknowledge the shortness of life; and take nothing for granted.
+
+Footnotes
+
+[1] Social: Why Our Brains Are Wired to Connect, page 18 (Matthew Lieberman, 2013)
+
+[2] Social, pages 19-22
+
+[3] Social, page 32
+
+[4] Social, pages 33-34
+
+[5] The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132 (Sonja Lyubomirsky, 2014)
+
+[6] How Leaders Create Safety (and Danger)
+
+[7] The Myths of Happiness, page 132
+
+[8] Talking About Feelings
+
+[9] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[10] Get Moving! (Exercise for Busy People)
+
+[11] A compilations of readings on sleep
+
+[12] The Myths of Happiness, pages 134-135
+
+[13] The Courage to Be Disliked, pages 77-78 (Ichiro Kushimi and Fumitake Koga, 2018)
+
+[14] The Courage to Be Disliked, page 80
+
+For Further Reading
+
+Stop Trying to Be "Good Enough" by "Getting Better"
+
+On the Shortness of Life
+
+Gratitude Checklist
+
+Alain de Botton on Status Anxiety
+
+Photo by U.S. Army.
+
+
+===== END ED BOT ESSAY 4000 =====
+===== BEGIN ED BOT ESSAY 4001 =====
+---
+title: Rest Isn't Always Fun (and Fun Isn't Always Restful)
+url: https://edbatista.com/2019/01/rest-isnt-always-fun.html
+slug: rest-isnt-always-fun
+published: 2019-01-19T13:45:18
+updated: 2025-10-09T12:28:17
+source_body: wordpress-html
+---
+
+The value of rest is a major theme in my coaching practice, and I talk with leaders on a regular basis about how to replenish themselves while pursuing demanding and often-stressful career paths. I began thinking more deliberately about rest in 2011, when I started tracking whether or not I got a good night's sleep. I continue that practice today and find the resulting data useful, but as with all human behavior it helps to be mindful of the limits of logic when it conflicts with our emotions.
+
+A challenge is that we can confuse "rest" and "fun," when the two are often distinct and sometimes directly at odds. Restful activities that nourish us--a good night's sleep, a meditation session, some quiet reflection--are often dull and may be actively unpleasant if in the moment we have a high need for engagement or stimulation. (This is particularly true for meditation--many novices give up because they find the experience stressful, but as I've noted before, this difficulty is the point of the process.) Conversely, fun activities that we enjoy and find pleasurable can be depleting, leaving us happy and appreciative--but not well-rested.
+
+I'm not suggesting that we should always prioritize rest over fun--even if it were sustainable, that hardly sounds like a life worth living. But a clearer understanding of the difference between the two can help us make more thoughtful, less impulsive choices over time:
+
+- What nourishing activities am I avoiding because they're dull or even unpleasant?
+
+- What depleting activities am I pursuing because they're fun?
+
+- What would a healthier balance look like?
+
+Here's a PowerPoint file of the graphic above.
+
+For Further Reading
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+"Work Hard or Work Smart?" Is the Wrong Question
+
+Peak Performance (Brad Stulberg and Steve Magness) (my review)
+
+Great Leaders Sleep Well--Why Rest is Critical For Success (Ronni Hendel-Giller)
+
+There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm)
+
+Relax, Turn Off Your Phone, and Go To Sleep (Larry Rosen)
+
+You Can't Do Your Job if You Don't Sleep (Tony Schwartz)
+
+Sleep Is More Important Than Food (Tony Schwartz)
+
+Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes)
+
+Senior Leaders Get More Sleep Than Anyone Else (Rasmus Hougaard & Jacqueline Carter)
+
+Thanks to Anamaria Nino-Murcia for the inspiration.
+
+
+===== END ED BOT ESSAY 4001 =====

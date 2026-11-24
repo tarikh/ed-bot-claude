@@ -1,0 +1,174 @@
+===== BEGIN ED BOT ESSAY 3622 =====
+---
+title: Time Horizons
+url: https://edbatista.com/2009/07/horizons.html
+slug: horizons
+published: 2009-07-11T11:21:09
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+When we assess our lives--our fulfillment, our effectiveness, what's working, what's not--how far ahead do we look? How far ahead should we look? Is that time horizon a good fit for the issues under consideration? And what issues are most relevant to us in a given time horizon?
+
+The 10 time horizons above are the ones that generally work best for me. When I look beyond "Today" my next natural horizon is "This Week," and once I look past Friday the next signpost is a month-and-a-half out. And the "18 Month" horizon derives from the late Peter Drucker's philosophy on planning:
+
+A plan can usually cover no more than 18 months and still be reasonably clear and specific. So the question in most cases should be, Where and how can I achieve results that will make a difference within the next year and a half? [1,2]
+
+Each horizon is sufficiently distinct to provide a different perspective and raise a new set of issues, but they flow continuously from this immediate moment to my very last breath. That's not to say that I have a clear vision for each time horizon--not at all. (I'm a searcher, not a planner. [3])
+
+When looking ahead it's helpful to realize that I've moved from one horizon into the next. It prompts me to ask: Am I in the right timeframe? Should I take a step back--or jump even further ahead? Should my approach change? Am I still asking the right questions? Are the same issues in play?
+
+You might choose a different set of horizons, of course. Perhaps "This Month" makes more sense to you than "6 Weeks." Or perhaps 10 horizons is too many, and it's more useful to think in broader strokes.  For example:
+
+The key is that sometimes we're looking too far ahead when focusing closer in would be more useful, and sometimes we're staring down at our shoes when we really should lift our gaze.
+
+(To create your own time horizons, here's a PowerPoint version of this post.)
+
+Footnotes
+
+[1] Peter Drucker on Excellence, Careers and Planning
+
+[2] Managing Oneself (Peter Drucker, Harvard Business Review, 2005)
+
+[3] Are You a Searcher or a Planner?
+
+
+===== END ED BOT ESSAY 3622 =====
+===== BEGIN ED BOT ESSAY 3623 =====
+---
+title: Chris Anderson on "Free" at Global Business Network
+url: https://edbatista.com/2009/07/chris-anderson.html
+slug: chris-anderson
+published: 2009-07-10T00:00:20
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+I heard Chris Anderson speak tonight at the offices of the Global Business Network in San Francisco. He's promoting Free: The Future of a Radical Price and is tight with GBN co-founder and Chairman Peter Schwartz, who introduced Anderson and led the Q&A session, so this was presumably a friendly stopover on his media tour.
+
+Anderson opened with the story of how Jell-O was launched in the early 20th century: they went door-to-door and gave away richly illustrated Jell-O cookbooks, creating demand for the new product among consumers, who then flocked to grocery stores seeking it.  (It's similar to the story of King Gillette subsidizing the cost of razors to sell blades, which Anderson used to open his original Wired article on the topic in early 2008.)
+
+Anderson discussed the work of 19th century French economist Joseph Bertrand, who argued that in a competitive market, price falls to the marginal cost.  (A brief exploration of the Bertrand competition model suggests that Anderson is oversimplifying to make a point, but let's not quibble.)
+
+In Anderson's words, "The Internet is the first truly competitive market the world has ever seen," and in this environment we experience "the law of gravity online: If marginal cost is zero, and competition is unlimited, price will fall to zero."  Anderson's quick to note that he's not saying the price should be zero or things should be free; he's merely observing the dynamics at work in the market for any products or services that can be converted to bits.
+
+He also noted that it's not simply "free" vs. "paid" products and services, but rather free versions supported by advertising and "freemium" versions in which consumers and users pay to get something extra.  What will people pay for?  In Anderson's words...
+
+- People will pay to save time.
+
+- People will pay to lower risk.
+
+- People will pay for things they love.
+
+- People will pay for status.
+
+- People will pay if you make them (once they're hooked.)
+
+The key opportunity created by offering your products and services for free is that "free allows you to fully explore your customer space... How do we use free to increase our audience [for Wired] and convert some of them to a higher price?"  He noted that you can read Wired for free online, you can purchase single copies at newsstands for one price, and you can purchase a print subscription for yet another price.  But why be limited to just three prices?  "We need more prices... What is the $100 version of Wired?"  Referring to the recent uproar over the Washington Post's plans to host a "salon" for health care lobbyists at $25,000 a head, Anderson noted, "That wasn't the right answer, but it's a really interesting question: What is the $25,000 version of the Washington Post?"
+
+Appropriately, Anderson is offering "Free" at a range of prices: The hardcover book was $26.99 tonight (and it's $16.19 on Amazon as I write this.)  Almost all digital versions of the book are free, but most come a with a variety of limits on how long you can access the materials.  The unabridged version (6 hours) is free, but the abridged version (3 hours) is $9.99.  (Now you know how Hyperion prices 3 hours of your time.)
+
+And Anderson strongly believes in the future of books.  Printed materials will survive to the extent that they add value to the online version of the same content.  Anderson expects books, which are convenient for long-form content and "look nice on a shelf," to make it.  He expects newspapers to die (or at least to be radically reinvented.)  And magazines?  They'll eventually be replaced by Apple's version of the Kindle, but the rich graphic experience they offer will keep many of them safe for now.
+
+Anderson was asked about Malcolm Gladwell's dismissive review of "Free" in The New Yorker, in particular Gladwell's skewering of YouTube as a paragon of this new economic model.  From Gladwell's review:
+
+To recap: YouTube is a great example of Free, except that Free technology ends up
+
+not being Free because of the way consumers respond to Free, fatally
+
+compromising YouTube's ability to make money around Free, and forcing
+
+it to retreat from the "abundance thinking" that lies at the heart of
+
+Free. Credit Suisse estimates that YouTube will lose close to half a
+
+billion dollars this year. If it were a bank, it would be eligible for TARP funds.
+
+Anderson's not-quite-compelling response was that Gladwell underestimates the power of Google's economies of scale, his figures are off by a factor of 10, and "advertising always lags the audience" (i.e. they'll figure it out eventually.)  To Anderson's credit, he deftly acknowledged and defused the issue of his apparently inadvertant plagiarism from Wikipedia in "Free" by telling his questioner, who had apologized for asking such a tough question, that there were much tougher questions he could have asked, which prompted a chuckle from the audience.  A colleague said the Anderson-Gladwell dustup was "the nerd version of Biggie vs. Tupac."  Outstanding.  (I'll let him remain anonymous, unless he asks for attribution.)
+
+I was reminded of my "attention economy" experience with AttentionTrust and others by Anderson's comment that the 'net and its attendant armies of bloggers, videographers and garage bands has yielded an overabundance of content, and today our attention is the truly scarce commodity.  And just as many attention-focused projects touched on the related issues of reputation and identity, Anderson sees links there as well.  He believes that "Facebook and Twitter are establishing the first quantifiable reputation markets," although I'd argue that groups like Rapleaf, Opinity and Trufina tried to do just that a few years ago, leveraging data from credit reports to eBay seller status.
+
+Finally, one of Anderson's most interesting comments tonight was his assertion that "the key talent of the 21st century is self-promotion and creating celebrity...[and] the goal is to create celebrity, or reputation...and convert that into something that pays the rent." (On a cautionary note, he added, "And that business can be just as dirty as it sounds.")
+
+Although one example of this is Paris Hilton and the "fame-for-being-famous" that she embodies, the openness of the Internet means that today anyone can at least get their ideas into the marketplace.  That's no guarantee of success, of course--you'll still need some luck, even with good ideas and a talent for self-promotion.  But as Anderson notes, we're now able to tap into "the long tail of talent... The Internet has lowered the transaction costs of finding talent...[and] talent will find a way."
+
+This fascinates me as an executive coach, both on my own behalf and on behalf of my clients and students at Stanford Business School, because what Anderson is saying is that the rules are changing.  We used to rely solely on personal networks and resume credentials to locate and identify talent (and to be located and identified by others as talent.)  But in a more open marketplace of ideas, those filters are less and less useful as they screen out more "false negatives" (i.e. talented people unknown to us who lack traditional credentials) and allow through more "false positives" (i.e. people within our networks who possess traditional credentials but who aren't really all that talented.)
+
+From a personal perspective, my writing on this site on coaching, leadership, change and related issues over the past few years has given me a reputation as someone with something of interest to say on these topics--a reputation that can be quantified in data such as my feed subscribers (932 today), my site visitors (192 so far today), even my Twitter followers (302 at the moment, enjoying all 105 of my tweets to date.)  These aren't big numbers in any absolute sense, but they're big enough (particularly given how infrequently I post) to give me a sense that what I'm saying is being heard, a sense of presence.
+
+Calling this reputation "celebrity" would be a serious stretch, but that's a matter of degree.  And if you're interested in a topic such as "double-loop learning" or "ground rules for meetings" or the "definition of organizational effectiveness," you'll find me in Google's top 10 results for those terms (at least as of today), and that's certainly celebrity in a strange, narrow way.  (Hell, if you're just interested in "ed batista" I'm #1!)
+
+What's the connection with "Free"?  Well, even though I don't post that often, the hours invested in my writing here over the past few years would add up to a substantial amount of unpaid time.  And I publish everything here under a Creative Commons license that gives anyone the right to share and remix my materials as long as they attribute it to me with a link and make any resulting work freely available under the same license.
+
+So free work and free content have been the essential elements in developing a verifiable reputation and an identity as a trusted subject matter expert in my field, and I don't know how I could have done it any other way.  And seeing my own experience in this new light makes me wonder if I should be encouraging my clients and students to do more of the same.
+
+Thanks to Chris Anderson for a thought-provoking and entertaining talk, and many thanks to Andrew Blau, Nancy Murphy and their colleagues at GBN for being such gracious hosts.
+
+
+===== END ED BOT ESSAY 3623 =====
+===== BEGIN ED BOT ESSAY 3624 =====
+---
+title: A Little Perspective
+url: https://edbatista.com/2009/07/perspective.html
+slug: perspective
+published: 2009-07-08T17:44:43
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+My day was going badly--traffic jams and missed phone calls and rescheduled meetings. I wasn't blaming anyone but myself (and the unknown forces behind all that traffic), but I was feeling increasingly annoyed with the world, and I still had another 40 minutes to go in the car. I could tell that things were only going to get worse from here.
+
+And then, in a moment of inspiration, I had a little dialogue with myself:
+
+Do I need to continue down this path?  Do I need to push on?
+
+No.
+
+Could I turn around and go home?
+
+Yes.
+
+OK, then.  New plan for the day.
+
+I was on 280 in San Bruno, and I took the next exit to turn around and return to San Francisco. As I pulled off I saw signs for Golden Gate National Cemetery, a huge facility that I've driven past more than a thousand times but have never visited--until today.
+
+I took a short detour, passed through the gates and drove slowly up to the summit of a huge mound at the center of the cemetery.  The view today was almost identical to the photo above (thank you, Pargon), although the Memorial Day flags were gone.
+
+Looking out over the graves of 139,000 veterans was sobering, and it put my "bad day" in perspective very quickly. It was blustery and sunny, weather that makes me feel very much alive. Being surrounded by the memories of so many people who had sacrificed their lives while I could stand there and enjoy the sun and the wind helped me see just how meaningless and insubstantial my problems were and how much I have to be grateful for.
+
+So the first lesson I learned today was how easy it can be to stop and reverse course when things are not going well.  Sometimes persistence is called for, and sometimes it's a failure to consider all your options.
+
+And the second lesson was that even when things seem not to be going well, they really are. Really, they are.
+
+Photo by Pargon.
+
+
+===== END ED BOT ESSAY 3624 =====
+===== BEGIN ED BOT ESSAY 3625 =====
+---
+title: A Week in Point Reyes
+url: https://edbatista.com/2009/07/pt-reyes.html
+slug: pt-reyes
+published: 2009-07-03T12:08:22
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+Every year Amy and I try to get up to Point Reyes, and at the end of June we spent a week at a cottage up on the ridge in Inverness. We'd hike all day, pick up some amazing local produce (like Marin Sun Farms steaks), grill dinner on our back porch, and collapse, exhausted. And then do it all over again the following day.
+
+One of our favorite hikes up there is the Tomales Point Trail. This stand of cypress is all that remains of the Lower Pierce Point Ranch, about 2/3 of the way from the trailhead to Tomales Bluff.  I always wonder what it was like to live here 120 years ago:
+
+We made it all the way to the end (9.4 miles out and back), and it was so satisfying to rest on the hillside, eat a simple lunch of Molinari salami, bread and water, and watch the loons and pelicans and an occasional seal. (Or sea lion--I never really know.)
+
+The yellow lupine that looks so charming in the background was out of control this year. Chest-high and occasionally over our heads and sprawling across the last mile of the trail.
+
+Later in the week we went out to Tomales Point again to hike down to McClure's Beach:
+
+A great discovery this trip was the Estero Trail to Drake's Head (coincidentally, also 9.4 miles out and back.) We saw 4 people in a full day of hiking, and 2 of them were in the last 1/4 mile. (In addition to the cows scattered across this section of the park, we saw 2 coyotes, 2 mother deer with their fawns, scores of bat rays swimming in Drakes Estero, and a red dragonfly.) From the top of Drake's Head, 150 feet above the Limantour Estero:
+
+Another new destination was Marshall Beach. You have to drive 2.5 miles of gravel road to reach the trailhead, and from there it's only a 1.5 mile hike down to the beach, but here's the view of Tomales Bay (the beach is nestled in among the pines at right):
+
+As I learned last year, the four best happiness strategies for me are Increasing Flow Experiences, Taking Care of My Body, Practicing Acts of Kindness, and Expressing Gratitude. Although hiking isn't always challenging enough to be a flow experience, there were certainly stretches on the longer days where I felt a sense of meditative peace. It was a gloriously physical week, from the daily exertion to the deeply satisfying food. And although we were kind only to ourselves, I am profoundly grateful for the experience. (Thank you, Phil Burton.)
+
+
+===== END ED BOT ESSAY 3625 =====

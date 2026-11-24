@@ -1,0 +1,202 @@
+===== BEGIN ED BOT ESSAY 3870 =====
+---
+title: How to Not Fight with Your Spouse When You Get Home
+url: https://edbatista.com/2016/04/new-post-harvardbiz-how-to-not-fight-with-your-spouse-when-you-get-home-from-work.html
+slug: new-post-harvardbiz-how-to-not-fight-with-your-spouse-when-you-get-home-from-work
+published: 2016-04-22T15:49:41
+updated: 2025-10-12T14:36:57
+source_body: wordpress-html
+---
+
+My coaching clients have big jobs with many responsibilities that are often stressful, and many of their spouses and partners have similarly demanding careers. And yet one of the most challenging experiences in their day doesn’t occur at work, but in the first 15 minutes after they arrive home and greet each other.
+
+When that initial personal encounter at the end of the workday goes well, it can help both parties feel a sense of care and appreciation that helps them unwind and feel better prepared for the following day. And yet it so often goes badly, creating frustration and a sense of disappointment that can poison the rest of the evening. There are several factors that make this such a difficult situation for couples to navigate.
+
+Different Needs
+
+Both parties are likely to be in different mental and emotional states with differing sets of personal needs, and while this may seem self-evident, it’s striking how many couples forget this when they walk in the door. A common version of this is someone arriving home after a difficult day who needs some quiet and solitude before being ready to engage, only to meet a spouse or partner who arrived home earlier (or who spent the day there) and is eager to connect.
+
+Even if both people arrive home simultaneously, they may have had vastly different experiences during the day–-one person ran into a string of conflicts and had a terrible commute, while the other went from one triumph to another and enjoyed a peaceful journey home. And even if both people had similar days, they may simply need very different things in response to those experiences. Some people need to talk about their workday with a supportive listener, while others need time for quiet reflection. Some people need entertainment, some need distraction, some need a drink, and some just need a hug.
+
+Different Recovery Times
+
+Richard Davidson, a neuroscientist at the University of Wisconsin, has spent decades studying the relationship between our emotions and various brain structures and neurological systems, and he's found that people vary widely with regard to the speed with which we recover from adverse experiences. [1] Davidson calls this quality "resilience," but I refer to it as "recovery time," as we commonly define the former term more broadly when discussing our overall response to stress and challenges. [2]
+
+Davidson’s research shows that people with different recovery times have different patterns of activity in their brains. In practice, this means that someone who had an objectively horrible day at work may be in a good mood by the time they step out of the office, yet someone who encountered fewer challenges may still feel their impact well into the evening.
+
+While the disadvantages of an excessively slow recovery time are obvious, it’s important to note that faster recovery times aren’t always better. People who appear to recover extremely quickly from negative experiences may feel compelled to do so because they find the resulting feelings of distress and discomfort intolerable and need to distance themselves psychologically. As a consequence, it can be harder for them to learn from mistakes and setbacks, and they may find themselves out of step with those around them.
+
+Different Cultures
+
+"Every relationship is a cross-cultural experience," according to John Gottman, a psychologist at the University of Washington whose research has focused on marriage and committed relationships. Gottman notes that even "if we come from the same country, the same part of the country, the same race, and the same religion, we come from…families that have defined meaning in very different ways. When we build a relationship together, we must decide on our own meanings." [3]
+
+But while couples may take the time to understand and evaluate their respective life goals and philosophies before embarking on a shared existence together, they rarely stop to think about the more mundane aspects of domestic life and what it means to build a cross-cultural relationship in those domains. That’s why spouses and partners may have significantly different interpretations and expectations about what it means to “come home” and how people are expected to interact on such an occasion.
+
+So what can we do?
+
+First, recognize that these differences exist and legitimize them. It’s unrealistic and unhelpful for couples to expect that they’ll automatically be in sync when they arrive home. Different needs, different recovery times, and different cultures all combine to make it more likely that couples will be out of sync when they first encounter each other at the end of the workday.
+
+Next, identify your needs as individuals and make time to talk about this issue as a couple (but not when you first walk in the door--set some time aside). This may seem like a trivial or even silly issue to take so seriously, and yet a consistent failure to recognize the importance of this encounter is precisely why so many couples find it so stressful. A little planning and some candor about what you need go a long way.
+
+Finally, be aware that a degree of emotion regulation is necessary. We tend to approach our spouses and partners with the expectation that we can just "be ourselves," without worrying about how we'll be perceived or our impact on them. And yet a consequence of this approach is that we take all the interpersonal skills that we work so hard to apply as leaders and managers, and we throw them out the window as we get close to home, just when they’d be most useful.
+
+Footnotes
+
+[1] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live—and How You Can Change Them, pages 44-48 (Richard Davidson and Sharon Begley, 2012)
+
+[2] Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+- For a discussion of Graham's work, see Ignoring Bandits and Building Resilience.
+
+[3] Principia Amoris: The New Science of Love, page 277 (John Gottman, 2014)
+
+For Further Reading
+
+What Do You Need Right Now? (Advice, Listening, A Hug?)
+
+The Tyranny of Feelings
+
+Intent vs. Impact (When Communication Goes Awry)
+
+Originally published at Harvard Business Review. Photo courtesy of HBR.
+
+
+===== END ED BOT ESSAY 3870 =====
+===== BEGIN ED BOT ESSAY 3871 =====
+---
+title: The Toyota Production System for Relationships
+url: https://edbatista.com/2016/04/the-toyota-production-system-works-for-relationships-too.html
+slug: the-toyota-production-system-works-for-relationships-too
+published: 2016-04-04T05:00:00
+updated: 2025-10-12T14:37:18
+source_body: wordpress-html
+---
+
+The innovations of the Toyota Production System (TPS) are well-documented in the management literature and standard features of business school curricula everywhere. [1] These concepts are usually discussed in the context of industrial operations, but I also see their applicability to interpersonal issues that my clients and students deal with every day.
+
+The TPS term jidoka means "automation with a human touch." [2] Rather than ignoring problems and plowing ahead mindlessly, Toyota assembly lines are designed to stop themselves, so that higher-order thinking can be applied to better understand and address the problem before production is resumed. Here's how Toyota describes the sequence of events:
+
+- A machine detects a problem and communicates it.
+
+- A situation deviates from the normal workflow.
+
+- The line is stopped.
+
+- Manager/supervisor removes the cause of the problem.
+
+- Improvements incorporated into the standard workflow.
+
+- Good products can be produced.
+
+The obvious advantage is that line workers (and the machines they operate) are able to correct problems immediately, at the source, rather than ignoring defective or substandard output, and these small interventions add up to an ongoing process of continuous improvement. But what this requires is a larger organizational willingness to stop production, repeatedly, and to trust that these "interruptions" will ultimately result in not only a better product, but also a more efficient and profitable operation overall.
+
+While we have to change the terminology a bit, this concept can be applied quite readily to almost any interpersonal interaction, from a one-on-one conversation to a fairly large meeting. Here's how I've seen this "interpersonal jidoka" work in high-functioning systems:
+
+- The people involved are trained to sense and respond to communication problems, both conceptual and emotional.
+
+- A communication problem disrupts the normal workflow of the interaction.
+
+- Anyone involved in the process is empowered to stop the forward progress of interaction toward its current goal (such as an agenda item.)
+
+- Everyone involved in the interaction is invited to talk about the communication problem (a meta-conversation, if you will.)
+
+- Improvements in communication (at both the 1:1 and group levels) are identified and implemented.
+
+- Better interactions can be had.
+
+Put more simply, the knowledge work equivalent of jidoka is the ability to stop a meeting's rush to agenda-completion and name a communication problem that's getting in the way of actual resolution. And just as in industrial operations, this requires a larger organizational willingness to tolerate "interruptions" and to trust that the result will be a better product and greater efficiency in the long run.
+
+As with most of the work I do as a coach and teacher, this is easy to grasp conceptually and often very difficult to put into practice. No one wants to get in the way of "progress," particularly when everyone just wants the meeting to end so they can get back to doing "real work." With that in mind, here are three ways to apply these ideas:
+
+- Establish norms that help the group both acknowledge and regulate emotion. [3] (And be aware that a collection of emotionally intelligent people don’t automatically comprise an emotionally intelligent group.)
+
+- Make it explicitly acceptable for anyone to pause the conversation in order to assess how it’s going. (Sometimes "talking about how we’re talking" is the very best use of the group’s time.)
+
+- Finally, recognize that these interventions work most effectively in a feedback-rich culture. [4]
+
+We don't get the organizational culture we deserve--we get the culture we tolerate. And when we habitually fail to interrupt dysfunctional interactions to address the underlying communication problems--when we fail to apply interpersonal jidoka--we collude in the perpetuation of bad meetings and organizational theater.
+
+Footnotes
+
+[1] For example, Decoding the DNA of the Toyota Production System (Steven Spear and H. Kent Bowen, Harvard Business Review, September-October 1999) and Toyota Motor Manufacturing, U.S.A, Inc. (Kazuhiro Mishina, Harvard Business School, 1992/1995)
+
+[2] Toyota Production System
+
+[3] Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven B. Wolff, Harvard Business Review, March 2001)
+
+- Group Norms Worksheet adapted from the HBR article above.
+
+[4] Building a Feedback-Rich Culture (Ed Batista, Harvard Business Review, 2013)
+
+For Further Reading
+
+Five Levels of Communication: When an interaction begins to go in circles, the conversation is often stuck at one level and must go deeper to achieve resolution. This almost always involves discussing emotions that feel risky or vulnerable to express.
+
+Risk Management: The Importance of Speaking Up: If something feels risky to say, saying it will carry a short-term cost--and not saying it will carry a long-term cost.
+
+Originally published at Harvard Business Review. Photo courtesy of HBR.
+
+
+===== END ED BOT ESSAY 3871 =====
+===== BEGIN ED BOT ESSAY 3872 =====
+---
+title: Meredith Whipple Callahan on Mindsets
+url: https://edbatista.com/2016/03/meredith-whipple-callahan-on-mindsets.html
+slug: meredith-whipple-callahan-on-mindsets
+published: 2016-03-30T10:56:50
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+Meredith Whipple Callahan is a fascinating thinker and a former MBA student at Stanford, where we got to know each other a few years ago. She recently posted the chart above in What's Behind Your Beliefs?, a discussion of "foundational mindsets" that I find quite thought-provoking. While acknowledging the debt owed to psychologist Carol Dweck for her work on "fixed vs. growth" mindsets, Meredith argues that "Dweck’s focus on the growth/fixed mindset alone limits what mindsets can help us see. Ultimately, there are a handful of foundational mindsets that drive our orientation to the world."
+
+I agree that "mindset" transcends the "growth/fixed" dichotomy, and we're missing out on a bigger conversation if we stop there. In addition to Dweck's framework, my definitions of mindset include:
+
+- The overarching idea that what we think--and particularly what we think about ourselves--influences how we perceive the world around us and how we experience that world.
+
+- The process of understanding cognitive biases and principles of neuroscience in order to leverage them and turn them to our advantage, rather than be buffeted about by them.
+
+- An awareness of our existing mental models, beliefs and assumptions, many of which are the result of past learning experiences and which may not have been re-examined or updated in the interim.
+
+Meredith describes the 13 "foundational mindsets" above as "fundamental orientations to the world upon which many of our functional, everyday beliefs are built"--seven that describe "how the world works" and six that describe "how we engage with that world." I find this a compelling mental model of existence, although whenever I encounter such a model I'm reminded of Alford Korzybski's warning--"A map is not the territory it represents"--and his encouragement to avoid generalizing and look at the specifics of each situation.
+
+I also feel that some of these dimensions seem more balanced--there are pros and cons to both sides, but each have their merits--while others seem as though there's a moral imperative to be on one side rather than the other. That surely has more to do with my own baggage than with Meredith's intention, but it's worth noting because any discussion of mindset framed by Dweck's work incorporates the idea that a fixed mindset is to be avoided and a growth mindset is to be cultivated. I've seen this dichotomy induce anxiety when people encounter Dweck's concept of mindset and actually inhibit their ability to learn and grow. I think the key is self-compassion and avoiding moral judgments--change is hard, and while a little anxiety can be a useful spur to action, too much gets in the way.
+
+Those concerns notwithstanding, I see Meredith's framework as a very useful tool for analysis and problem-solving, and she maps out the first steps. After outlining the dimensions above in her post, Meredith invites us to review them and then ask these powerful questions:
+
+- For each pair, under which mindset do I most commonly operate?
+
+- Was this a conscious choice, or did I adopt it without consideration?
+
+- Where did this mindset come from?  Are there patterns of mindsets that come from my family, my religion, my culture, or my country?  What in my experience leads me to operate under this mindset?
+
+- What actions do I take based on these foundational mindsets?
+
+That last question leads us directly to Chris Argyris's concept of the ladder of inference, and a recognition that we take action on the basis of our theories and beliefs--our mindsets--and those theories and beliefs then influence the data we gather in order to interpret and make sense of the world and our experience in it.
+
+So when we find ourselves stuck or facing a challenging situation, these foundational mindsets offer a number of different points of intervention. Just as Dweck's model allows us to learn from failures, overcome setbacks, and take on more risk by recognizing the limits we impose on ourselves through a fixed mindset, Meredith's framework invites us to look at many other ways that our mindsets influence how we see the world, how we see ourselves, the beliefs we adopt as a result, and the actions we take in turn.
+
+Image © Meredith Whipple Callahan. Used by permission.
+
+
+===== END ED BOT ESSAY 3872 =====
+===== BEGIN ED BOT ESSAY 3873 =====
+---
+title: The Art of Self-Coaching @StanfordBiz Spring 2016
+url: https://edbatista.com/2016/03/the-art-of-self-coaching-stanfordbiz-spring-2016.html
+slug: the-art-of-self-coaching-stanfordbiz-spring-2016
+published: 2016-03-28T05:00:00
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+Here's the 2016 syllabus for The Art of Self-Coaching, the course I designed and taught for the first time last year at the Stanford Graduate School of Business. It's largely consistent with my 2015 syllabus, although there are some new readings, and I'll be making a few changes in how we work with the material in the classroom.
+
+I'm eager to meet the next group of 36 students who'll be joining me on this journey--our first class is this Friday at 8am!
+
+(And I'm cautiously optimistic that 2016 will also see the completion of my manuscript on this topic.)
+
+As the class progresses I'll post my slides to this site's page for The Art of Self-Coaching course, where you can also find references to the course readings, other materials, and related posts of mine.
+
+
+===== END ED BOT ESSAY 3873 =====

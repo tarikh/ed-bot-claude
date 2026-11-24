@@ -1,0 +1,248 @@
+===== BEGIN ED BOT ESSAY 3958 =====
+---
+title: How to Think (More on Open Space and Deep Work)
+url: https://edbatista.com/2017/10/how-to-think-more-on-open-space-and-deep-work.html
+slug: how-to-think-more-on-open-space-and-deep-work
+published: 2017-10-09T05:00:00
+updated: 2026-02-27T14:14:01
+source_body: wordpress-html
+---
+
+Most of my coaching clients are senior leaders in rapidly growing companies, and they often find themselves in the midst of a difficult transition. Previously they were in a position to add value by doing--because they knew the most about the product, or were closer to the customer, or were more experienced than their colleagues, they could simply execute more effectively than everyone around them. But as the company has grown larger and more complex, and as they've hired people with greater expertise and stronger functional skills, they find that they're no longer able to add value in the same way. As I've written before,
+
+Instead of simply doing more, sustaining our success as leaders requires us to redefine how we add value. Continuing to rely on our abilities as individual contributors greatly limits what we actually contribute and puts us at a disadvantage to peers who are better able to mobilize and motivate others. In other words we need to do less and lead more. [1]
+
+A consequence of this shift for my clients is that they often need to re-learn how to think. This may sound absurd--they're obviously intelligent people whose capacity for strategic thinking has helped them succeed in highly competitive environments. Why would they suddenly need to re-learn this fundamental skill?
+
+In the early stages of a company's development every problem is potentially fatal. [2] Startup leaders have very little room for error, but at least they can be less discriminating about which problems to address: All of them. As a company grows, the problems leaders face become more nuanced: There are fewer existential risks and more distractions. Leaders who've succeeded by putting out every fire now need to understand that some fires give off a lot of smoke but can safely be deferred (or even ignored), while others will burn down the entire company if left unattended. A different approach to problem-solving is required here, and the leader who continues to try to address every single one quickly finds themselves overwhelmed, working harder than ever while making less progress.
+
+But focusing on the most important problems (and ignoring the merely distracting ones) is just the first step. Such problems rarely lend themselves to the straightforward reasoning that my clients have employed so successfully in the past. This isn't to say that logic is irrelevant, but it's insufficient. In the past these leaders had to come up with the right answers--now they have to make sure they're asking the right questions. And in most cases the answers will no longer be found in the data--problems like this are now solved by more junior people, and the ones that land in a leader's lap rarely have clear-cut, quantitative solutions. In such cases leaders generally need longer blocks of uninterrupted time, free from distractions, to think creatively and to augment logical reasoning with intuition and inspiration.
+
+And yet this highlights another challenge: A leader's attention is an extremely valuable resource, one that is constantly in demand. [3] The larger the organization, the more people who want the leader's attention, and not necessarily for legitimate reasons: People want the leader in their meeting simply because the leader's presence makes it a more important meeting. And this only gets worse as the leader grows more senior and takes on more visible roles.
+
+So if you're a leader, and this sounds familiar, what can you do? Once you've recognized that your previous approach to problem-solving is no longer sufficient to meet your needs, you now have to create the space in which you can truly think:
+
+Duration
+
+How much time do you need to think? Note that strategic thought isn't necessarily a linear process. A client of mine regularly schedules 4-hour blocks of time for this work, primarily because it takes about 2 hours for him to get into the right state of mind. If he tried to force the process into a 2-hour block, the effort would be wasted, but because he gives himself enough time to "warm up," the second half of that 4-hour block is tremendously productive.
+
+Your specific needs may be different, but you probably require more time to think than you needed in the past:
+
+The type of reflective thought that allows us to solve hard problems (and to even understand the nature of these problems in the first place) generally requires some time to allow our minds to wander and to make unexpected associative connections. Creative solutions rarely come when commanded--instead, we spot glimpses of them on the margins of conscious thought, and we invite them to join us. [4]
+
+Frequency
+
+How often do you need to think? This is somewhat contingent on the answer to the question above; if you need more time in an unbroken block, other responsibilities will make it harder to protect that time on your calendar. A solution adopted by many of my clients is to schedule varying lengths of time for this work at varying intervals: For example, two hours on Monday morning, 30 minutes at the end of every day, a half-day once a month, and a full day once a quarter.
+
+There's no one-size-fits-all solution, but the key is what I call defensive calendaring: looking out into the future and putting these events on your calendar first, before other commitments make it impossible to find the time you need. [5] Note that strategic thinking is one of those important-but-not-urgent activities that won't happen unless you make it a priority. [6]
+
+Environmental Conditions
+
+What conditions support your best thinking? A characteristic of environments that help almost all of us think more effectively is freedom from distractions--and in an era of open offices (or no office at all), shared calendars, and ubiquitous messaging, it's increasingly difficult to find such a space, particularly for a leader whose attention everyone is seeking to capture. We all have individual preferences, but a theme I observe in my clients' approach to strategic thinking is the need for boundaries. This is a topic I've often discussed regarding the relationship between work and other domains of life, but it's equally relevant when it comes to protecting strategic thinking from other forms of work. [7]
+
+For shorter stints of time it may be impractical to leave the office, so it's important to have access to spaces in the building in which you won't be interrupted. (A trend I've observed among my clients here in San Francisco is a move back to private offices, particularly when this transition is made easier by relocating offices, and one reason is the need for space that's more conducive to effective thinking.) But whenever possible it can be uniquely valuable to get out of the building entirely--a hike, a bike ride, or a trip to the spa may be optimal, but even a walk around the block will suffice if that's all you can do. And be aware that physical boundaries don't help when we allow ourselves to be constantly interrupted--it's essential to create a cognitive boundary as well, so at these times disconnect and unplug as much as possible.
+
+Allies and Co-Conspirators
+
+You can't do this work entirely alone. You'll need allies, partners who can sit with you (or walk alongside) and play an active role in your thought process. Sometimes it'll help to enlist a colleague who knows you and your business well; at other times it'll be important to get a fresh perspective from an outsider. You'll do much of this work by yourself--don't try to do it all.
+
+You'll also need co-conspirators, people who can help create and protect the time and space you need to do this work. This obviously includes executive assistants and other administrative staff, and if you have people in these roles it's critical that they understand how important this time is and how staunchly it must be defended. But anyone who's invested in your success as a leader can play a part in this process, and you can help by conveying to them why you'll be unavailable or slower to respond at certain times.
+
+Finally, bear in mind that it's unlikely that you'll reach some magical moment in your career when your calendar's clear, your inbox is empty, your to-do list is done, and it's suddenly easy to create the space you need to think. You're probably going to have to do this the hard way, with a busy calendar, a full inbox, and a list of undone tasks staring you in the face. So start small, see what works, and keep experimenting. [8]
+
+This is a companion piece to Open Space, Deep Work and Self-Care.
+
+Footnotes
+
+[1] Doing Less, Leading More
+
+- Also, see How to Scale: Do Less, Lead More
+
+[2] Early-Stage Survival and Later-Stage Success
+
+[3] Three Critical Tasks: The Work of Senior Leaders
+
+[4] Open Space, Deep Work and Self-Care
+
+[5] Investments, Not Indulgences
+
+[6] Importance vs. Urgency
+
+[7] Happy Workaholics Need Boundaries, Not Balance
+
+[8] Building Blocks (A Tactical Approach to Change)
+
+Photo by Philippe Put.
+
+
+===== END ED BOT ESSAY 3958 =====
+===== BEGIN ED BOT ESSAY 3959 =====
+---
+title: Seneca on the Importance of Rest and Relaxation
+url: https://edbatista.com/2017/10/seneca-on-the-importance-of-rest-and-relaxation.html
+slug: seneca-on-the-importance-of-rest-and-relaxation
+published: 2017-10-02T05:00:00
+updated: 2025-10-09T10:44:39
+source_body: wordpress-html
+---
+
+Seneca's "On Tranquility of Mind" is an astonishing document, full of wisdom that remains highly relevant to my coaching clients and MBA students (and to me) although it was written nearly 2,000 years ago. [1] Taking the form of a letter to Serenus, a close friend of Seneca's who commanded Rome's police and firefighting forces and who sought Seneca's advice on how to live a better life, this far-ranging essay closes with a resolute defense of rest, relaxation, long walks, and even moderate drinking:
+
+The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions... Our minds must relax: they will rise better and keener after a rest. Just as you must not force fertile farmland, as uninterrupted productivity will soon exhaust it, so constant effort will sap our mental vigor, while a short period of rest and relaxation will restore our powers. Unremitting effort leads to a kind of mental dullness and lethargy. Nor would men's wishes move so much in this direction if sport and play did not involve a sort of natural pleasure; though repeated indulgence in these will destroy all the gravity and force of our minds. After all, sleep too is essential as a restorative, but if you prolong it constantly day and night it will be death. There is a big difference between slackening your hold on something and severing the link...
+
+We must indulge the mind and from time to time allow it the leisure which is its food and strength. We must go for walks out of doors, so that the mind can be strengthened by a clear sky and plenty of fresh air. At times it will acquire fresh energy from a journey by carriage and change of scene, or from socializing and drinking freely. Occasionally we should even come to the point of intoxication, sinking away into drink but not being totally flooded by it; for it does wash away cares, and stirs the mind to its depths, and heals sorrow just as it heals certain diseases... But there is a healthy moderation in wine, as in liberty... [W]e must not do this often, in case the mind acquires a bad habit; yet at times it must be stimulated to rejoice without restraint and austere soberness must be banished for a while...
+
+When [the mind] has scorned everyday and commonplace thoughts and risen aloft on the wings of divine inspiration, only then does it sound a note nobler than mortal voice could utter. As long as it remains in its senses it cannot reach any lofty and difficult height: it must desert the usual track and race away, champing the bit and leaving the driver in its course to a height it would have feared to scale by itself. [2]
+
+What's striking is how closely this perspective aligns with what we've learned in recent decades about human performance: Working all-out indefinitely leads to sub-optimal results. [3] Consistent rest is essential for growth and improvement. [4] And regular physical activity contributes to our effectiveness in other domains. [5] But these principles can often be simple to grasp and fiendishly difficult to put into practice. So what can we do?
+
+Thinking about "rest and relaxation" can evoke the concept of a "balanced" life, but as I've noted before, I find "boundaries" a far more useful metaphor: "While balance requires an unsteady equilibrium among the various demands on our time and energy, boundaries offer a sustainable means of keeping things in their proper place." [6] We can support our need for rest and relaxation by establishing boundaries to designate specific times and places for these purposes. Most of my clients are CEOs of rapidly-growing technology companies, and a common theme in my work with them is the value of "getting away" at regular intervals; for some this means an actual vacation (often their first in years), but it's equally likely that they'll benefit simply from designating specific hours during a typical week as time to be spent with family, exercising, or reflecting. But note that even when we've allowed ourselves to go "off-duty," we may still find our attention drawn back to work or other taxing obligations. The key is establishing a psychological boundary to insure that we're truly resting and relaxing, and not merely going through the motions while we worry about the work going undone while we're gone. This ultimately requires the ability to manage our attention, and the best way to build that capacity is through a consistent meditation practice. [7]
+
+It's also important to recognize that we're unlikely to reap the benefits promised by Seneca unless we build in some habits and routines to support a commitment to rest and relaxation. The more we have to stop and consider an intended course of action, the less likely we are to follow through. This may require some "defensive calendaring," blocking out time for rest and relaxation in advance, rather than struggling to find open space for it after all our other commitments have been met. Or it may mean scheduling activities like exercise or meditation at consistent times during the day, triggering an automatic response in ourselves and sending signals to others that these activities take precedence at that time.
+
+Most fundamentally, we have to be aware that rest and relaxation are always important and never urgent. [8] No one will be upset or unhappy with us if we fail to take a break during an intense period of work, or if we skip a workout or meditation session. It will be our responsibility to protect the time that we've dedicated to these activities from other demands, and there will never be a shortage of "urgent-but-not-necessarily-important" work that others will want us to prioritize over our own rest and relaxation. And to be clear, this doesn't become easier as we move up into more senior roles--it becomes more difficult, because more and more people want the leader's attention, and because people don't empathize up. [9]
+
+But as William James wrote in 1892 in discussing the importance of consistent action in building habits, "No matter how full a reservoir of maxims one may possess, and no matter how good one's sentiments may be, if one has not taken advantage of every concrete opportunity to act, one's character may remain entirely unaffected for the better. With mere good intentions, hell is proverbially paved." [10]
+
+A few additional thoughts on drinking, a subject that comes up regularly in my work with clients and students: Alcohol can serve a useful function in a comprehensive approach to rest and relaxation, and it's important to bear in mind how easy it can be to develop an unhealthy relationship with drinking. Among Seneca's recommendations alcohol poses a unique challenge not only because of its complex (and highly individualized) impact on our mind and body, but also because of its pervasive presence in society. Holly Glenn-Whitaker's work on the problems with our concept of "alcoholism" is full of insights on this topic. [11]
+
+Footnotes
+
+[1] On Tranquility of Mind (Seneca, circa 46-62)
+
+[2] Dialogues and Letters, pages 56-58 (Seneca, translated by C.D.N. Costa)
+
+[3] "Work Hard or Work Smart?" Is the Wrong Question
+
+[4] Peak Performance
+
+[5] Get Moving! (Exercise for Busy People)
+
+[6] Happy Workaholics Need Boundaries, Not Balance
+
+[7] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[8] Importance vs. Urgency
+
+[9] The Difficulty of Empathizing Up
+
+[10] Psychology, Briefer Course, Chapter X: Habit, page 148 (William James, 1892)
+
+[11] Hi, my name is Holly. And I'm not an alcoholic. (Holly Glenn-Whitaker, Hip Sobriety, 2014)
+
+For Further Reading
+
+Letters from a Stoic (Seneca, circa 65)
+
+On the Shortness of Life
+
+The Antidote: Happiness for People Who Can't Stand Positive Thinking, Chapter 2: What Would Seneca Do? (Oliver Burkeman, 2013)
+
+Photo by James Russell.
+
+
+===== END ED BOT ESSAY 3959 =====
+===== BEGIN ED BOT ESSAY 3960 =====
+---
+title: Twenty-Five Years Ago Today
+url: https://edbatista.com/2017/09/twenty-five-years-ago-today.html
+slug: twenty-five-years-ago-today
+published: 2017-09-19T13:50:38
+updated: 2025-10-09T10:50:05
+source_body: wordpress-html
+---
+
+I'm keenly aware of how much hard work goes into a marriage, and Amy and I have busted our asses for a quarter-century to try to do right by each other. We've succeeded more often than we've failed, which is why we're still here, but I've certainly stumbled many times along the way. I think it's important to acknowledge that effort and not to contribute to the illusion that marriage is all about picking the right person, and then it's "happily ever after."
+
+Yet one of the most meaningful rewards for that hard work is the opportunity to look back and feel this tremendous sense of love and pride and accomplishment that comes only when we've overcome a big challenge. I look at the picture above and am reminded not only that we had a fantastic wedding, but also how much we've we've grown in the 25 years since that day. And a lot of growth was necessary to make it this far--those innocent young people above really have no idea what they're getting into.
+
+I've been lucky enough to have some unpleasant experiences in recent years, and I mean that very sincerely--these difficulties have left me with a deep sense of gratitude for all the gifts that I've enjoyed in this existence. I don't maintain this attitude 24/7--I get cranky and irritable and lose my appreciation for life all the time. But then something happens, and I'm reminded of just how grateful I should be--grateful to be here, grateful to not be in pain, grateful for my family, grateful for my clients and students and the work I get to do with them, grateful for Amy. And I feel like Raymond Carver in "Gravy":
+
+No other word will do. For that’s what it was. Gravy.
+
+Gravy, these past ten years.
+
+Alive, sober, working, loving and
+
+being loved by a good woman. Eleven years
+
+ago he was told he had six months to live
+
+at the rate he was going. And he was going
+
+nowhere but down. So he changed his ways
+
+somehow. He quit drinking! And the rest?
+
+After that it was all gravy, every minute
+
+of it, up to and including when he was told about,
+
+well, some things that were breaking down and
+
+building up inside his head. "Don’t weep for me,"
+
+he said to his friends. "I’m a lucky man.
+
+I’ve had ten years longer than I or anyone
+
+expected. Pure gravy. And don’t forget it."
+
+I am profoundly grateful for the past 25 years--the good times, the tough times, it's all been gravy. And it really was a fantastic wedding.
+
+
+===== END ED BOT ESSAY 3960 =====
+===== BEGIN ED BOT ESSAY 3961 =====
+---
+title: Peak Performance
+url: https://edbatista.com/2017/09/peak-performance.html
+slug: peak-performance
+published: 2017-09-08T07:00:00
+updated: 2025-09-24T11:58:12
+source_body: wordpress-html
+---
+
+A few years ago I began to take notice of the work of Brad Stulberg, an author and coach who’s done an extensive amount of research into the science of optimal health and human performance. Brad’s articles in Outside and New York magazines consistently introduced me to innovative and intriguing ideas about how to perform at higher levels in any number of domains, and I found myself eager to read more.
+
+Then a few months ago I had an opportunity to meet Brad in person and truly appreciated his thoughtful perspective on coaching and personal effectiveness. Afterwards Brad was gracious enough to send me a copy of his book Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success, co-written with Steve Magness, an elite track coach. As eager as I was to read it, the press of other responsibilities (and an already-lengthy reading list) kept me from cracking Peak Performance until I took it with me on a recent cross-country flight. I found it so deeply compelling that I finished it by the time I returned to SFO, and I can’t recommend it highly enough.
+
+As an executive coach and someone who teaches MBAs at Stanford, I’m constantly exploring material that might be of interest to my clients and students, much of which pertains to improving performance in one way or another. Having been exposed to so much literature in this field, I can say with confidence that Peak Performance is one of the best books of its kind, an outstanding resource that's likely to provide each reader with thought-provoking ideas about how to approach life a little differently and improve their effectiveness as a result.
+
+Peak Performance is comprised of three sections that interrelate but address distinct bodies of material. In Section 1, The Growth Equation, Brad and Steve explore the book’s foundational idea: Stress + Rest = Growth. This core concept is neatly articulated by these bullets in the conclusion:
+
+Systematically grow by alternating between stress and rest.
+
+- Stress yourself.
+
+- Seek out “just-manageable challenges” in areas of your life in which you want to grow.
+
+- Cultivate deep focus and perfect practice.
+
+- Work in discrete blocks.
+
+- Nurture a growth or challenge mindset.
+
+- Have the courage to rest.
+
+- Grow your mindful muscle with meditation so that you can more easily choose rest.
+
+- Apply your growing mindful muscle in everyday life.
+
+- Take smart breaks and let your subconscious go to work.
+
+- Prioritize sleep.
+
+- Take extended time off.
+
+There are so many parallels to my own approach to coaching here: Growing by expanding our comfort with discomfort. The importance of deep work and self-care. The value of a growth mindset. The necessity of a mindfulness practice (and the specific benefits of meditation.) The ways in which boundaries and other limits on work actually support superior performance.
+
+So perhaps it's no surprise that I find Brad and Steve's work so compelling. But what makes Peak Performance such a useful addition to my library is the balance that Brad and Steve strike between vivid examples that bring these ideas to life and in-depth discussions of relevant research findings from psychology, neuroscience, exercise physiology and related fields.
+
+A few caveats: Brad and Steve write authoritatively about the parallels between physical performance and our experience in other domains of life, but if stories about athletes (and specifically runners) aren't your thing, this aspect of the book may eventually feel repetitive. Section 2 on Priming and Section 3 on Purpose are valuable in and of themselves and entirely consistent with Section 1's discussion of stress and rest (which comprises more than half the book), but they also feel less thorough and more subjective. Section 2, which addresses such topics as the power of routines, the impact of mood and environment on performance, and the social dynamics of motivation is persuasive but covers this vast swath of material relatively quickly.
+
+And Section 3, which addresses the impact that a sense of purpose can have on our performance, draws heavily on the process of clarifying personal values developed by the founders of JoolHealth. I don't have any objection to this approach, but two others I've found even more useful are the VIA Survey of Character Strengths (developed by Martin Seligman, one of the originators of the positive psychology movement), and the Life Journey Map (developed by Scott Bristol, one of my mentors.) None of these caveats detract from the overall value of the book, but I found it helpful to assess each of the three sections on its own merits, rather than expect Sections 2 and 3 to replicate Section 1.
+
+Shortly after finishing Peak Performance I had a conversation with a coaching client, a CEO who's in the process of realizing that compulsive overwork is undermining his effectiveness by preventing him from being at his best in important conversations, and that a more diligent commitment to rest and self-care will allow him to bring all of his intellectual and interpersonal skills to bear when the stakes are highest. It occurred to me that he would find this book of value, and I recommended it--and he had already started it. No coincidence.
+
+
+===== END ED BOT ESSAY 3961 =====

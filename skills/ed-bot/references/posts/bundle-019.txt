@@ -1,0 +1,77 @@
+===== BEGIN ED BOT ESSAY 3153 =====
+---
+title: Sigur Ros
+url: https://edbatista.com/2005/02/sigur_ros.html
+slug: sigur_ros
+published: 2005-02-16T16:32:53
+updated: 2005-02-16T16:32:53
+source_body: wordpress-html
+---
+
+It's hard--almost impossible--to do Sigur Ros justice in a bloggy little review. It would take a much better writer than the one you have here.
+
+Dreamy, to the point of feeling like I'm in a dream. Sorry, but that's the best I can do.
+
+
+===== END ED BOT ESSAY 3153 =====
+===== BEGIN ED BOT ESSAY 3154 =====
+---
+title: Usability Rules of Thumb
+url: https://edbatista.com/2005/02/usability_rules.html
+slug: usability_rules
+published: 2005-02-16T16:04:30
+updated: 2005-02-16T16:04:30
+source_body: wordpress-html
+---
+
+Jakob Nielsen's Ten Usability Heuristics are a valuable counter to the Dilbert Defense.  Developed in 1990 and revised in 1994, they're still perhaps the most concise description of how systems should conform to people's needs, rather than the other way around.  My favorite:
+
+Match between system and the real world
+The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
+
+(Thanks to Merlin at 43 Folders.)
+
+
+===== END ED BOT ESSAY 3154 =====
+===== BEGIN ED BOT ESSAY 3155 =====
+---
+title: Information Architecture
+url: https://edbatista.com/2005/04/information_arc.html
+slug: information_arc
+published: 2005-04-13T23:30:52
+updated: 2005-04-13T23:30:52
+source_body: wordpress-html
+---
+
+Re-reading this post, I buried the lede: the Information Architecture Wiki's Defining the Damn Thing (said thing being information architecture itself.)  A great piece of collective writing, rich with images (for us visual thinkers), some mordantly funny, and some just dense with information.
+
+OK, here's the background: Searching for a concise definition of "information architecture" led me to the Information Architecture Institute.  (I ransacked their definitions to come up with "the organization, labeling and presentation of information."  Neither elegant nor comprehensive, but it served my immediate need--go argue in the Comments.)  The IA Institute seems like a worthy group--plenty of heavy hitters on their Board of Directors--and I look forward to learning more about them.  They can be defensively boosterish at times ("This work is both a science and an art."), but that comes with the territory for any association, as I know all too well.
+
+(To digress, they're sadly unsophisticated when it comes to their own systems and promotional efforts.  The Membership Signup page is buried, and once you get there, you're told nothing about what you're getting for your $40.  Oh, and if you want to pay online but don't like PayPal, well, tough.  OK, enough griping from a former association executive director.  But really, folks, it's not that hard to do it better.)
+
+But the IA Institute ultimately led me to the IA Wiki (which, by the way, is a perfect example of how a (collectively edited) wiki differs from a conventional site.  They both deal with the same topic, many of the same people are involved on both sides, but they feel radically different.  While the IA Institute is slightly stuffy, the IA Wiki conjures up the Wild West, a comic book--anything but an professional association.  There's a valuable lesson in the contrast between the two.)
+
+And the IA Wiki led me to...well, that's where you came in.  Lots to think about here.  Too much, for the time being.
+
+
+===== END ED BOT ESSAY 3155 =====
+===== BEGIN ED BOT ESSAY 3156 =====
+---
+title: Intranets and Wikis and Blogs, Oh My!
+url: https://edbatista.com/2005/04/intranets_and_w.html
+slug: intranets_and_w
+published: 2005-04-13T22:11:46
+updated: 2005-04-13T22:11:46
+source_body: wordpress-html
+---
+
+At my new job, we're trying to get our collective heads around the somewhat thorny question of what knowledge sharing platform (or, more likely, platforms) will best meet our needs.  We've had an intranet for the past few years, and like most intranets, it's very good at some things (static document repository) and appallingly bad at others (dynamic sharing of new information from outside the company.)  The intranet's evil twin (from my long-distance, VPN-dependent perspective) is our public folder, which usually has just what you're looking for...if you know where to find it.
+
+We've just added a wiki, and although I'm a big fan of the medium, it's not yet winning rave reviews.  The fluidity that makes wikis such a great collaborative tool in an open intellectual market (a la the Wikipedia, where an idea's true value is eventually established by an Editorial Board of thousands) can be a hindrance in a small organization where accuracy has critical business implications, where it can be important to track changes across versions, and where we have Editorial Board of...two dozen.  There are also some minor annoyances like poor search capability and inadequate file storage--easily solved if you have the technical know-how, but those folks usually have better (i.e. revenue-generating) things to do.
+
+And we're spending an increasing amount of time thinking about and working on blogs for our clients, although as far as I know I'm the only one blogging extracurricularly (and calling my pathetic post-employment output blogging is a stretch.)
+
+I'm confident we'll soon figure out each tool can and can't do to meet out needs--there are more than enough smart people around for that.  But the real challenge, the problem that intellect alone can't solve, is the establishment of an appropriate knowledge-sharing culture that knits all these tools together effectively, that surfaces and shares tacit knowledge (because there's never enough explicit documentation in a small organization), and that's sufficiently structured to insure that we all get with the program, while also being sufficiently flexible to insure that the tools evolve to fit actual behavior.  That, my friends, is a lot harder than picking the right software.
+
+
+===== END ED BOT ESSAY 3156 =====

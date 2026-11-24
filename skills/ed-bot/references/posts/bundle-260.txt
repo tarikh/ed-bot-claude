@@ -1,0 +1,489 @@
+===== BEGIN ED BOT ESSAY 4151 =====
+---
+title: Holding Our Breath (On Maslow's Hierarchy)
+url: https://edbatista.com/2022/11/holding-our-breath-on-maslows-hierarchy.html
+slug: holding-our-breath-on-maslows-hierarchy
+published: 2022-11-09T20:56:46
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+I've written before about the Hierarchy of Needs, a influential theory developed by the eminent 20th century psychologist Abraham Maslow. [1] According to this framework, human needs are ordered by their "prepotency" or their ability to command our attention and influence our behavior. This hierarchy begins with physiological needs, such as hunger, thirst and sleep:
+
+Undoubtedly these physiological needs are the most prepotent of all needs. What this means specifically is that in the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others. A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else. [2]
+
+But what happens to [a person's] desires when there is plenty of bread and when [their] belly is chronically filled? At once other (and higher) needs emerge and these, rather than physiological hungers, dominate the organism. And when these in turn are satisfied, again new (and still higher) needs emerge, and so on. This is what we mean by saying the basic human needs are organized into a hierarchy of relative prepotency. [3, emphasis original]
+
+As indicated by the first passage above, the needs that emerge once physiological needs are met are the following:
+
+- Safety: "Security; stability; dependency; protection; freedom from fear, from anxiety, and chaos; need for structure, order, law, limits; strength in the protector... [The safety needs] may serve as the almost exclusive organizers of behavior, and we may then fairly describe the whole organism as a safety-seeking mechanism." [4]
+
+- Belongingness and Love: "If both the physiological and the safety needs are fairly well gratified, there will emerge the love and affection and belongingness needs, and the whole cycle already described will repeat itself with this new center. Now the person will feel keenly, as never before, the absence of friends, or a sweetheart...or children. [They] will hunger for affectionate relations with people in general... Now [they] will feel sharply the pangs of loneliness, of ostracism, of rejection, of friendlessness, of rootlessness." [5]
+
+- Esteem: People "have a need or desire for a stable, firmly based, usually high evaluation of themselves, for self-respect, or self-esteem, and for the esteem of others. These needs may therefore be classified into two subsidiary sets. These are, first, the desire for strength, for achievement, for adequacy, for mastery and competence, for confidence in the face of the world, and for independence and freedom. Second, we have what we may call the desire for reputation or prestige (defining it as respect or esteem from other people), status, fame and glory, dominance, recognition, attention, importance, dignity or appreciation. [6]
+
+- Self-Actualization: "Even if all these needs are satisfied, we may still often (if not always) expect that a new discontent and restlessness will soon develop, unless the individual is doing what [they], individually [are] fitted for... What a [person] can be, [they] must be. This need we may call self-actualization... This tendency might be phrased as the desire to become more and more what one idiosyncratically is, to become everything that one is capable of becoming. The specific form that these needs will take will of course vary greatly from person to person. [7]
+
+Often inaccurately displayed as a pyramid--a figure never used by Maslow himself--the hierarchy of needs is better represented as a ladder, which evokes the image of hands and feet on multiple rungs simultaneously. [8] Yet while we can envision and pursue higher needs when lower needs aren't entirely fulfilled, this becomes difficult if not impossible when lower needs go unmet. There's an easy way to demonstrate this:
+
+Hold your breath, for as long as you can, while timing yourself.
+
+I just did and lasted 1 minute and 15 seconds. I haven't tried that since I was a kid in a swimming pool somewhere, and as I began I truly intended to give it my best effort--in part, of course, because some vestigial, childish part of me thought it would be "impressive," although who I was trying to impress is unclear. I was determined to hit the 1-minute mark, which was a little challenging, and once I did I thought momentarily of shooting for 2:00--but within seconds I realized that was going to be impossible. At 1:10 I had abandoned all pretense of appearing "impressive" and was just thinking about the breath I finally took 5 seconds later, to my immense relief.
+
+And that is Maslow's hierarchy in action. When my physiological need for oxygen was being fully met, it was easy to think about higher-order social and symbolic needs. Even as my oxygen supply was being depleted, I still gave some thought to those higher needs, striving to hold out a little longer. But eventually the "prepotency" of my most fundamental need exerted itself and took control--thankfully.
+
+Why engage in this trivial exercise? Because it vividly illustrates some aspects of Maslow's theory that have significant implications for our lives in the real world:
+
+Our needs aren't mutually exclusive, nor do we pursue them in a fixed sequence. The need for safety doesn't emerge only after all of our physiological needs are met, and higher needs don't emerge only when we're completely secure. As lower needs are met more fully, we can climb further up the ladder, but we're usually reaching for higher rungs no matter where we stand.
+
+Yet we rapidly descend the ladder when fundamental needs go unmet. Holding your breath to induce hypoxia may seem silly, and few people reading this will experience persistent hunger. But some of us will experience chronic pain--I have myself, several times. [9] Others will struggle with insomnia, an issue that comes up regularly in my practice. And still others will feel profoundly unsafe, even imperiled. On these occasions it's essential to reestablish a firm footing before we begin climbing again.
+
+But we will continue to strive upwards, which is a function of evolutionary psychology. Lower needs lose their power as motivators and eventually disappear from consciousness when they're fully met. (If you actually tried holding your breath earlier, you probably felt a surge of gratitude when that first wave of oxygen hit your lungs. What a pleasure it was to breathe! How long did that last?) This dynamic bears a close relationship with a concept known as hedonic adaptation: We adapt to changed conditions more readily than we anticipate, and we tend to take any improvements for granted. [10]
+
+This is a feature for the species that often feels like a bug in our individual lives. Once our physiological and safety needs are sufficiently fulfilled, we re-organize our lives around the need for belonging. With sufficient social connection, we focus on obtaining self-esteem and the regard of others within that community. It's readily apparent why evolution has solved for these needs, in this order, and why this benefits the species while often leaving us feeling unfulfilled or inadequate in some way. (Evolution has never cared much about our peace of mind.)
+
+The concept of self-actualization--the final rung on Maslow's ladder--doesn't fit so neatly into this schema, and its purpose seems to transcend such utilitarian calculus. It's clear that whole, secure people who live in connection with others and enjoy their esteem will be more biologically successful than those who lack similar advantages. But it's not at all clear what evolutionary advantage is conferred through self-actualization, what purpose is served by "becoming everything that one is capable of becoming." Perhaps that's the question that Maslow is asking us each to answer.
+
+ 
+
+Footnotes
+
+[1] For more on my thinking on Maslow and his work, see the following:
+
+- Tumbling Down Maslow's Hierarchy
+
+- Hard Problems in Soft Cultures
+
+- Organizational Development: Is Humanism Overrated?
+
+[2] Motivation and Personality, 2nd edition, pages 36-37 (Abraham Maslow, 1970)
+
+[3] Ibid, page 38.
+
+[4] Ibid, page 39.
+
+[5] Ibid, page 43.
+
+[6] Ibid, page 45.
+
+[7] Ibid, page 46.
+
+[8] Who built Maslow’s pyramid? A history of the creation of management studies’ most famous symbol and its implications for management education, page 91 (Todd Bridgman, Stephen Cummings, John Ballard, Academy of Management Learning and Education, 2019). I'm precluded by the Digital Millennium Copyright Act (DMCA) from linking directly to a freely-available version of this paper, but you can search for it on the Victoria University of Wellington's open access repository, which is located outside the U.S. and not subject to the DMCA.
+
+[9] On Pain and Hope
+
+[10] For more on hedonic adaptation, see the following:
+
+-
+The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, page 120 (Sonja Lyubomirsky, 2014)
+
+-
+The How of Happiness, pages 48-51 (Sonja Lyubomirsky, 2007)
+
+-
+Lottery Winners and Accident Victims: Is Happiness Relative? (Philip Brickman, Dan Coates and Ronnie Janoff-Bulman, Journal of Personality and Social Psychology, 1978)
+
+ 
+
+Photo by Jerry Crowley.
+
+
+===== END ED BOT ESSAY 4151 =====
+===== BEGIN ED BOT ESSAY 4152 =====
+---
+title: Hard Problems in Soft Cultures
+url: https://edbatista.com/2022/11/hard-problems-in-soft-cultures.html
+slug: hard-problems-in-soft-cultures
+published: 2022-11-07T17:58:00
+updated: 2026-04-06T15:55:19
+source_body: wordpress-html
+---
+
+Photo of "The Albanians" by Marcel Oosterwijk.
+
+The philosophy of management by direction and control--regardless of whether it is hard or soft--is inadequate to motivate because the human needs on which this approach relies are today unimportant motivators of behavior. Direction and control are essentially useless in motivating people whose important needs are social and egoistic [i.e. related to self-esteem and reputation]. Both the hard and the soft approach fail today because they are simply irrelevant to the situation.
+
+People deprived of opportunities to satisfy at work the needs that are now important to them behave exactly as we might predict--with indolence, passivity, resistance to change, lack of responsibility, willingness to follow the demagogue, unreasonable demands for economic benefits. It would seem that we are caught in a web of our own weaving.
+
+~Douglas McGregor, 1957 [1]
+
+1. Organizational Culture Today
+
+A few years ago one of my clients was a C-level executive at a technology company that had met with early success but was now falling short of its goals. My client had deep expertise in their particular function, and they were hired into their role with the understanding that they would serve as a change agent, helping the company adopt new ways of operating in order to improve performance. They had strong support from senior management, positive relationships with the rest of the executive team, and substantial resources at their disposal. And even with all of these advantages, the process of fostering change was a profound struggle. Today I believe it's fair to say they would characterize their effort as a failure.
+
+What happened? What got in the way? The most significant obstacle was the culture--the ways of working together and the norms that define acceptable behavior which emerge early in a group's existence and rapidly evolve from subtle preferences to clearly-established practices. [2] And despite all the platitudes about excellence and performance, and the heartfelt desire by many people to actually live up to those platitudes, at bottom this culture didn't want to change--it preferred the comforts of mediocrity. While the specifics are unique, this is a type of culture that I've seen often in my work as a coach to senior leaders, one that poses a particular set of challenges for anyone seeking to enhance a company's effectiveness, and one that is newly relevant in today's economic and political environment.
+
+The complex relationship between culture and performance has recently become the subject of heightened scrutiny. Profitability has rapidly replaced growth as a metric of success, and leaders are responding accordingly, with layoffs, hiring freezes and other cost-cutting measures. This strategic shift has prompted a wave of commentary in the media and among management thinkers expressing concern about the negative impact not only on individual employees, but also on the cultures of the affected organizations. A central point seems to be that leaders pursuing this approach are making a fundamental error that will ultimately damage their culture and undermine performance.
+
+I share some of these concerns. I believe layoffs should be conducted in a thoughtful, humane manner that affords departing employees as much dignity and grace as possible. I agree with the late Intel CEO Andy Grove that employees must not be afraid to speak up and share bad news, a fear that he characterized as "poison." [3] I care deeply about the role of empathy in organizational life, not because it's "nice," but because I think it contributes to productive working relationships and, ultimately, value creation. [4] And I've worked with many clients who've suffered in dysfunctional organizations. [5] In nearly two decades as an executive coach, I haven't seen any evidence that harsh, unforgiving cultures motivate talented knowledge workers to give their best effort.
+
+But what some of these media reports and management thinkers seem to miss is that a host of organizations today are falling short of their potential not because their cultures are too hard, but because they're too soft--and the latter can be as dysfunctional as the former. I've talked with many leaders who are hesitant to hire candidates from a number of well-known companies because those organizations reliably foster low standards and a sense of complacency. A capable professional I know left a job at a high-profile company that paid in the mid-six figures because the environment was so unambitious and stultifying.
+
+A major theme in my practice is helping leaders of growing companies develop cultures that attract and retain the best talent while avoiding the common pitfalls that plague so many late-stage organizations. [6] And although Andy Grove wanted every employee to feel free from the fear of reprisal for speaking up, he also believed that a healthy "fear of losing" was needed for companies to "sharpen their survival instinct." [7] I know many leaders who are striving to ignite a similar competitive spirit in their organizations and feel thwarted by a suffocating culture of mediocrity.
+
+It's tempting to view problems with organizational culture as by-products of contemporary trends, but that's a narrow-minded view, the equivalent of old people (like me) perennially complaining about "Kids these days!" There are certainly some specifics unique to the 21st century [8], but the underlying problem has been with us for much longer, and to truly understand this we need to look to the history of management and one of its greatest theorists, Douglas McGregor. [9]
+
+2. Theory X and Theory Y
+
+A host of changes in management practice swept the business world in the mid-20th century, and one of the most important concepts in this context is known as "Theory Y," developed by McGregor during his career at MIT's Sloan School of Management. McGregor referred to conventional management as "Theory X":
+
+With respect to people, [Theory X management] is a process of directing their efforts, motivating them, controlling their actions, modifying their behavior to fit the needs of the organization. Without this active intervention by management, people would be passive--even resistant--to organizational needs. They must therefore be persuaded, rewarded, punished, controlled--their activities must be directed... Behind this conventional theory there are several additional beliefs--less explicit, but widespread:
+
+- The average man is by nature indolent—he works as little as possible.
+
+- He lacks ambition, dislikes responsibility, prefers to be led.
+
+- He is inherently self-centered, indifferent to organizational needs.
+
+- He is by nature resistant to change. [10]
+
+It's readily apparent how Theory X informed the labor practices of the early industrial era. Operating under the assumptions of Theory X, traditional businesses focused on increasing production with minimal concern for the people doing the producing. Such organizational cultures could be characterized as "produce-or-perish," in which people were rewarded strictly for performance, and productivity was maximized by imposing punishments for failure to meet certain standards or follow specified procedures. [11] But this "hard" version of Theory X inevitably yields problems in labor relations, McGregor noted:
+
+Restriction of output, antagonism, militant unionism, subtle but effective sabotage of management objectives. This approach is especially difficult during times of full employment. [12, emphasis mine]
+
+Unemployment in the United States plunged from an all-time high of 24.9 percent in 1933 during the Great Depression to a record low of 1.2 percent in 1944 at the height of World War II. [13] After a brief postwar increase, it dropped to 2.5 percent in 1953 and fluctuated for the next two decades but remained under 4 percent as late as 1969. During the anemic 1970s unemployment rose to a peak of 10.8 percent in 1982, but then dropped again until the financial crisis of 2008, peaking briefly at 10.0 percent the following year. And it's dropped ever since, despite a momentary surge due to the pandemic in 2020, and the latest figure for October 2022 is 3.7 percent. [14]
+
+Undoubtedly many factors contributed to the abandonment of "hard Theory X" management practices, at least for knowledge workers in the developed world, but relatively low unemployment in the postwar era has to be counted among them. And yet the "produce-or-perish" approach to management is just one version of Theory X. The alternative adopted by most organizations in response to changing conditions continued to assume that employees are "indolent, lack ambition and dislike responsibility," but offered proverbial carrots instead of sticks. McGregor characterized this as "soft Theory X," in which management emphasizes employees' security and comfort in the hope that improved productivity will result:
+
+The methods for directing behavior involve being permissive, satisfying people’s demands, achieving harmony. Then they will be tractable, accept direction. [15]
+
+But there are also problems with this "soft Theory X" approach, as McGregor noted in 1957, and which we continue to observe today in any number of ostensibly enlightened organizations:
+
+It leads frequently to the abdication of management--to harmony, perhaps, but to indifferent performance. People take advantage of the soft approach. They continually expect more, but they give less and less. [16]
+
+McGregor's solution to this dilemma was to propose an entirely different approach to management, neither "hard" nor "soft," which rejects the underlying assumptions of Theory X and substitutes an alternative set of concepts rooted in findings from social psychology. He called this Theory Y:
+
+People are not by nature passive or resistant to organizational needs. They have become so as a result of experience in organizations.
+
+The motivation, the potential for development, the capacity for assuming responsibility, the readiness to direct behavior toward organizational goals are all present in people. Management does not put them there. It is a responsibility of management to make it possible for people to recognize and develop these human characteristics for themselves.
+
+The essential task of management is to arrange organizational conditions and methods of operation so that people can achieve their own goals best by directing their own efforts toward organizational objectives.
+
+This is a process primarily of creating opportunities, releasing potential, removing obstacles, encouraging growth, providing guidance. It is what Peter Drucker has called "management by objectives" in contrast to "management by control."
+
+And I hasten to add that it does not involve the abdication of management, the absence of leadership, the lowering of standards, or the other characteristics usually associated with the "soft" approach under Theory X. [17, my emphasis]
+
+The passage in bold above is critically important and yet often overlooked. Theory Y is not a "soft" version of Theory X, in which management drops the sticks in favor of an endless supply of carrots and hopes for the best. While the "hard" version of Theory X is obviously useless with knowledge workers who enjoy mobility in a low-unemployment environment, the "soft" version that so many organizations have adopted as an alternative is equally problematic. Why?
+
+3. Maslow's Hierarchy
+
+Here we turn to yet another groundbreaking figure from the 20th century, psychologist Abraham Maslow, a close contemporary and colleague of McGregor's. [18] In the 1940s Maslow developed a highly influential concept known as the "Hierarchy of Needs." [19] This theory proposes that human needs are organized in a series of sequential steps, starting with the most basic--and urgent--and ascending to more refined mental and emotional requirements:
+
+- Physiological needs, such as hunger, thirst and sleep.
+
+- Safety: "Security; stability; dependency; protection; freedom from fear, from anxiety, and chaos; need for structure, order, law, limits; strength in the protector."
+
+- Belongingness: "Love and affection and belongingness needs... [The] hunger for affectionate relations with people."
+
+- Esteem: "A need or desire for a stable, firmly based, usually high evaluation of themselves, for self-respect, or self-esteem, and for the esteem of others."
+
+- Self-Actualization: "Even if all these needs are satisfied, we may still often (if not always) expect that a new discontent and restlessness will soon develop, unless the individual is doing what [they], individually [are] fitted for... What a [person] can be, [they] must be. This need we may call self-actualization." [20]
+
+Maslow didn't believe that the various levels of this hierarchy are mutually exclusive, or that higher needs emerge only after lower needs are entirely satisfied. [21] But he made clear that that the higher needs are felt more intensely when lower needs are largely met:
+
+A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else... But what happens to [a person's] desires when there is plenty of bread and when [their] belly is chronically filled? At once other (and higher) needs emerge and these, rather than physiological hungers, dominate the organism. And when these in turn are satisfied, again new (and still higher) needs emerge, and so on. [22, emphasis original]
+
+This highlights the fundamental limitation of "soft Theory X" management in a era of generally low unemployment for knowledge workers (which is unlikely to end anytime soon, recent economic news notwithstanding.) Most knowledge workers' primary needs for the physiological requirements of life and for safety are met in a modern economy. This is not always the case, as I noted in late 2020:
+
+Why does [Maslow's hierarchy] matter? More specifically, why does it matter today? It matters because in the current environment many people aren't moving up the ladder, they're moving down, and I see a version of this in my coaching practice. Most of my clients are CEOs, and all of them are high-status professionals for whom work fulfills many different needs, which is also true for the vast majority of their employees. And from the perspective of my clients and their colleagues the current environment has created a profound sense of unease as needs that had been largely fulfilled long ago are now making themselves felt again, in some cases for the first time in years. [23]
+
+Further, of course, there are many people whose primary needs may go unmet in times of economic distress: white- and blue-collar workers in industries undergoing disruption, people who lack the education or training to participate in the modern economy, and billions of others in the developing world. But while the concerns of these groups are of tremendous social and political importance, the vast majority of well-educated, highly-trained employees in the organizations I encounter have been living and working under very different conditions in "soft Theory X" cultures.
+
+The dilemma encountered by organizations that have pursued a "soft Theory X" approach is that an endless supply of carrots only provides a surfeit of material for lower needs that employees have largely fulfilled, while doing little or nothing to meet their higher needs for belonging, esteem and self-actualization. "Soft Theory X" leaders who express disbelief at the complacent cultures in their organizations despite the lavish compensation and perks enjoyed by their employees are witnessing exactly what McGregor predicted over half a century ago, as spelled out in the passage that opens this essay:
+
+The philosophy of management by direction and control--regardless of whether it is hard or soft--is inadequate to motivate because the human needs on which this approach relies are today unimportant motivators of behavior... People deprived of opportunities to satisfy at work the needs that are now important to them behave exactly as we might predict--with indolence, passivity, resistance to change, lack of responsibility, willingness to follow the demagogue, unreasonable demands for economic benefits. [24]
+
+So what can be done? I'm hardly in a position to offer a definitive solution to one of the most important challenges we face in contemporary life--but I have some suggestions.
+
+4. Bootcamps and Daycares
+
+In 2019 I highlighted the problems of both "hard Theory X" and "soft Theory X" by contrasting their respective emphasis on accountability and empathy:
+
+In a high-accountability, low-empathy culture there's a strong emphasis on production and minimal regard for people's needs. Rewards are allocated strictly for performance, and productivity is maximized through punishments for failure to follow clearly defined rules. This Bootcamp approach to management has been common throughout human history, and it remains the norm in many industries today....
+
+In a low-accountability, high-empathy culture [aka a Daycare] meeting employees' needs is a paramount priority, resulting in warm relationships, a comfortable, friendly atmosphere and a relatively relaxed pace. Management maximizes employees' security and comfort in the hope that improved productivity will be the result. [25]
+
+The problem is that most leaders believe that they're obligated to choose one approach or the other--they must either hold people accountable in a Bootcamp or empathize with them in a Daycare (and accept one or the other set of problems articulated by McGregor.) This is a false dichotomy, and yet it is consistently reinforced by the pre-existing culture. It's as difficult for a Bootcamp leader to actively empathize with their employees as it is for a Daycare leader to hold them accountable.
+
+So how do you get to Paradise? How do you build a high-accountability, high-empathy culture? How might you bring McGregor's Theory Y to life? McGregor himself knew how hard this would be: "It is no more possible to create an organization today which will be a fully effective application of this theory than it was to build an atomic power plant in 1945." [26] But he was speaking 65 years ago, and I'm hopeful that today we're in a better position to try. The key lies with three ideas that are conceptually simple but tremendously difficult to put into practice:
+
+- Update your models: If, like many leaders, you believe you can either hold people accountable or empathize with them, the starting point is recognizing that this is merely a model, a working theory about how to interact with your employees most effectively--and it's one you can change.
+
+- Accountability is not bullying: We often assume accountability entails a combative stance in an antagonistic interaction, with the goal of enforcing compliance--but that's not holding someone accountable, that's bullying them.
+
+- Empathy is not agreement: Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified.
+
+This is a companion piece to the following:
+
+- "Work Hard or Work Smart?" Is the Wrong Question (2017)
+
+- Accountability and Empathy (Are Not Mutually Exclusive) (2019)
+
+Footnotes
+
+[1] "The Human Side of Enterprise," page 14 (Douglas McGregor, Leadership and Motivation, 1966). This essay is McGregor's best-known and most influential work--it originated as a speech on the Fifth Anniversary of the School of Industrial Management at MIT (later known as the Sloan School) in 1957, and was published in the American Management Association's Management Review in November of that year. It subsequently formed the basis of his 1960 book The Human Side of Enterprise. My citations here are from a posthumous collection of McGregor's work issued by MIT two years after his death to commemorate his contributions. For more on McGregor, see footnote 9.
+
+[2] Consultant and professor Michael Watkins provides a more thorough definition in What Is Organizational Culture? (Harvard Business Review, 2013):
+
+Culture is consistent, observable patterns of behavior in organizations...
+
+Culture is a process of "sense-making" in organizations [which] moves the definition of culture beyond patterns of behavior into the realm of jointly-held beliefs and interpretations about "what is..."
+
+Culture is a carrier of meaning. Cultures provide not only a shared view of "what is" but also of "why is." In this view, culture is about "the story" in which people in the organization are embedded, and the values and rituals that reinforce that narrative...
+
+Culture is a social control system. Here the focus is the role of culture in promoting and reinforcing "right" thinking and behaving, and sanctioning "wrong" thinking and behaving. Key in this definition of culture is the idea of behavioral "norms" that must be upheld, and associated social sanctions that are imposed on those who don’t "stay within the lines..."
+
+Culture is a form of protection that has evolved from situational pressures. It prevents "wrong thinking" and "wrong people" from entering the organization in the first place.
+
+[3] Andy Grove on the Right Kind of Fear
+
+[4] For more on my thinking about empathy in organizational life:
+
+- The Strategic Importance of Empathy (2020)
+
+- Resolving a Protracted Conflict (2019)
+
+- Accountability and Empathy (Are Not Mutually Exclusive) (2019)
+
+- The Difficulty of Empathizing Up (2017)
+
+- Brené Brown, Vulnerability, Empathy and Leadership (2014)
+
+- The Strategic Importance of Empathy (2010)
+
+[5] For more on my thinking about dysfunctional cultures:
+
+- How to Feed a Monster (Leading in Elite Organizations) (2017)
+
+- Dysfunction Isn't Heroism (2017)
+
+- Surviving in a Toxic (Or Merely Dysfunctional) Culture (2013)
+
+[6] For more on my thinking about leadership in productive cultures:
+
+- The Judicious Imposition of Structure (2021)
+
+- Pirates in the Navy (2018)
+
+- "Work Hard or Work Smart?" Is the Wrong Question (2017)
+
+- How to Scale: Do Less, Lead More (2017)
+
+[7] Andy Grove on the Right Kind of Fear
+
+[8] 12 Companies with the Most Luxurious Employee Perks (Paul Schrodt, Money, 2017)
+
+[9] McGregor was a fascinating figure, in part because his life story seems so unlikely. Born in Detroit in 1906, he earned an initial engineering degree in Burma, and then dropped out of an American engineering school to work as a gas station attendant and to help with a family enterprise that provided food, career guidance and spiritual support to unemployed workers. (The McGregor Fund is still in operation today.) He returned to school and went on to graduate studies in psychology at Harvard before becoming one of the first professors at MIT's Sloan School of Management, where he did his best-known work. Sadly, he died of a heart attack in 1964, age 58.
+
+[10] McGregor, page 6.
+
+[11] The term "produce-or-perish" is derived from work by psychologists Robert Blake and Jane Mouton, whose Mouton-Blake Managerial Grid was published in Harvard Business Review in 1964: Breakthrough in Organization Development. There are many connections between McGregor's work and Blake and Mouton, and for more on the latter, see Historical Background: The Mouton-Blake Managerial Grid in Accountability and Empathy (Are Not Mutually Exclusive).
+
+[13] McGregor, page 6.
+
+[13] Unemployment Rate by Year Since 1929 Compared to Inflation and GDP (Kimberley Amadeo, The Balance, 2022)
+
+[14] U.S. Bureau of Labor Statistics
+
+[15] McGregor, page 6.
+
+[16] Ibid, page 7.
+
+[17] Ibid, pages 15-16.
+
+[18] Maslow, born just two years after McGregor, taught at Brandeis, near Boston, in the 1950s and 60s while McGregor was at MIT, and Maslow's ideas had a deep and abiding influence on McGregor's work, most notably in the formulation of Theory Y. It's not clear to me how they met, but their philosophies and worldviews were deeply aligned, and it's not surprising that they were personally acquainted. It's also plausible that they crossed paths through their involvement with T-groups, which were in the process of becoming popular in the management training and social psychology circles of the era, including a hotbed at MIT. Warren Bennis discussed Maslow's influence on McGregor and their shared impact on the development of T-groups (aka "sensitivity training") in his sidebar to An Uneasy Look at Performance Appraisal, a 1957 article by McGregor that Harvard Business Review re-published in 1972. Bennis also noted that McGregor's book The Human Side of Enterprise was still selling 30,000 copies a year over a decade after its publication.
+
+[19] Motivation and Personality (Abraham Maslow, 1970). Maslow first published "A Theory of Human Motivation" in the American Psychological Association's Psychological Review in 1943. This paper remained essentially intact as a foundational chapter in Motivation and Personality, his first and most influential book, not only in the 1st edition of 1954, but also in the definitive 2nd edition of 1970 and the posthumous 3rd edition of 1987.
+
+[20] Ibid, pages 39-46.
+
+[21] This attitude is sometimes reflected in the portrayal of Maslow's hierarchy as a pyramid, but he never employed that figure in his own work (although he didn't correct this misimpression, which helped popularize his ideas.) Instead, Maslow used a ladder, which evokes the image of hands and feet on multiple rungs simultaneously. These ideas are discussed in a thought-provoking paper that reinforces the value of Maslow's work while rejecting its customary presentation: Who built Maslow’s pyramid? A history of the creation of management studies’ most famous symbol and its implications for management education, page 91 (Todd Bridgman, Stephen Cummings, John Ballard, Academy of Management Learning and Education, 2019). Note that I'm precluded by the Digital Millennium Copyright Act (DMCA) from linking directly to a freely-available version of this paper, but you can search for it on the Victoria University of Wellington's open access repository, which is located outside the U.S. and not subject to the DMCA.
+
+[22] Maslow, pages 36-38.
+
+[23] Tumbling Down Maslow's Hierarchy
+
+[24] McGregor, page 14.
+
+[25] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[26] McGregor, page 16.
+
+Why "The Albanians"?
+
+It's worth asking why I chose to illustrate this post with the photo below (by Marcel Oosterwijk) of "The Albanians," the immense mosaic that adorns the National Historical Museum in Tirana, Albania's capital. I studied the history of Eastern Europe with Tom Simons, a former U.S. Ambassador to Poland, and he impressed upon me a tremendous appreciation for the historical struggles of the Albanian people, particularly under the regime of Enver Hoxha, the authoritarian dictator whose 40-year rule encompassed the creation of "The Albanians" in 1980. Hoxha's brand of socialist utopianism strikes me as a form of magical thinking that's as unrealistic as "soft Theory X"--albeit much less productive, and far more oppressive.
+
+
+===== END ED BOT ESSAY 4152 =====
+===== BEGIN ED BOT ESSAY 4153 =====
+---
+title: Emotional Speed Bumps
+url: https://edbatista.com/2022/11/emotional-speed-bumps.html
+slug: emotional-speed-bumps
+published: 2022-11-05T14:41:36
+updated: 2025-09-24T11:58:02
+source_body: wordpress-html
+---
+
+A major theme in my practice is emotion regulation--helping clients better manage their inner emotional experience, and then articulate and express what they're feeling in ways that allow them to accomplish their goals more effectively. [1] Much of that work involves down-regulating strong negative emotions: anger, fear, grief.
+
+But sometimes we're tripped up not by strong emotions, but by weak ones. We're not enraged, just annoyed. We're not terrified, just worried. We're not overwhelmed, just sad. These weak feelings rarely lead us to take significant steps that trigger profound remorse, but they often cause us to feel stuck in some way, making it more difficult to obtain a desired outcome or resulting in expenditures of time or effort that we later regret.
+
+I've come to think of these feelings as "emotional speed bumps"--they create a slight barrier between us and a goal or a preferred activity, raising the necessary activation energy just enough that we fail to move forward. And in the process, while held in place, we fall prey to unproductive impulses--nothing catastrophic, just poor uses of our attention--or we procrastinate on a task that can be deferred, perhaps indefinitely, when we would have been better off addressing it.
+
+Something--or someone--evokes annoyance, or worry, or sadness, and although these feelings aren't strong enough to derail us, they do disrupt us and distract us. We avoid that task at the top of our to-do list. We don't send that important message or have that tough conversation. We don't get up off the couch and take a walk or go to the gym. Instead, we pursue something easier. We find something on our to-do list that makes us feel "productive." We spend a little too much time on social media. We watch one more episode, or have one more drink, or go for one more level in the game. There are no tragedies here, no great losses--but eventually, at some point, we look back and wish we'd done things a little differently. What helps? Raising our awareness and taking action.
+
+Raising Our Awareness
+
+While awareness is rarely sufficient to drive change on its own, it's the necessary first step. You may already feel self-aware in some important ways--for example, you may have a clear sense of your strengths and weaknesses, your values, and the conditions under which you do your best work. [2] But that big-picture perspective doesn't necessarily translate into in-the-moment awareness of low-intensity emotions.
+
+Some of those feelings may be right on the margins of consciousness--in which case they can still affect your behavior. [3] In this context it's important to distinguish between regulation and suppression. The former involves decoupling feelings and subsequent reflexive behavior, while the latter essentially entails pretending that we're not feeling what we're feeling. We can suppress emotions for brief periods of time, and, in some circumstances--such as a dire threat to our physical safety--this is a useful strategy. But we can't suppress emotions for long, and even making the attempt can be counter-productive. [4]
+
+The key is increasing our conscious awareness of low-level feelings so that we can be intentional about the resulting behavior. There's no simple solution, but there are several practices that enable us to be more attuned to our emotions and to be more deliberate about our subsequent choices. A cheesy acronym I like--the only one I use in my practice--is getting MESSy:
+
+- Mindfulness: The goal of mindfulness here isn't stress reduction, but simply being more effective at noticing what we're feeling.
+
+- Exercise: Regular physical activity attunes us to the physiological manifestations of emotion and allows us to sense an emotional response sooner.
+
+- Sleep: Ample research shows that when we' re not well-rested our ability to sense and regulate emotion is impaired.
+
+- (Reducing Chronic) Stress: Chronic, low-level stress diminishes our ability to regulate emotion, and there are often stressors we can minimize with some modest changes in our daily routines. [5]
+
+Taking Action
+
+We often assume that our attitude determines our behavior, and that we act as we do because of underlying feelings. But this view of ourselves poses a challenge when a "speed bump" lies between our current state and a preferred alternative. We may conclude that our feelings are keeping us from engaging in desirable behaviors (or compel us to engage in undesirable behaviors), and somehow we're helpless bystanders, prisoners of our own psychology. We know we should act differently, but we don't feel like it.
+
+However, rather than being a one-way causal relationship, it's a two-way street: While our attitude obviously informs and influences our behavior, our behavior also informs and influences our emotions in a dynamic and cyclical process. To be clear, we can't simply will ourselves out of profound dysfunction caused by strong negative emotions. But we do have much more power than we typically realize to consciously choose behaviors that will affect our attitude and influence the "speed bumps" that can get in the way of our goals and objectives. [6]
+
+This shouldn't be interpreted as a command to "Stop whining and suck it up." Occasionally, yes, that's exactly what we need to hear, but such dictates are often counter-productive--even when we're just talking to ourselves. Rather, the key is to avoid relying on willpower, a finite and unreliable resource [7], and instead construct a robust and predictable set of routines that will make it more likely we'll follow our intentions, take action, and thereby influence our feelings. [8]
+
+William Faulkner supposedly said, "I only write when inspiration strikes. Fortunately it strikes at 9:00 every morning." [9] He didn't wait until he felt like writing--if it was 9:00, it was time to write. You may not require such a rigid schedule, but one of the values of a predetermined routine is that it makes it easier to follow through with commitments we've made (to others or ourselves), whether or not we feel like it. Another writer, Steven Pressfield, contrasts the "amateur," who works when they feel like it, with the "pro," who has a very different point of view:
+
+When we turn pro, everything becomes simple. Our aim centers on the ordering of our days in such a way that we overcome the fears that have paralyzed us in the past. We now structure our hours not to flee from fear, but to confront it and overcome it. We plan our activities in order to accomplish an aim. And we bring our will to bear so that we stick to this resolution. This changes our days completely. It changes what time we get up, and it changes what time we go to bed. It changes what we do and what we don't do. It changes the activities we engage in and with what attitude we engage in them. It changes what we read and what we eat. It changes the shape of our bodies. [10]
+
+ 
+
+Footnotes
+
+[1] For more on emotion regulation:
+
+- The Tyranny of Feelings
+
+- Attitude and Behavior
+
+- The Smoke Detector Principle (Why We Overreact)
+
+- To Stay Focused, Manage Your Emotions
+
+[2] From Peter Drucker's Managing Oneself:
+
+Most people, especially highly gifted people, do not really know where they belong until they are well past their mid-twenties. By that time, however, they should know the answers to the three questions: What are my strengths? How do I perform? and, What are my values? And then they can and should decide where they belong. Or rather, they should be able to decide where they do not belong.
+
+[3] For example, see Effects of subconscious and conscious emotions on human cue–reward association learning (Noriya Watanabe and Masahiko Haruno, Scientific Reports, 2015)
+
+[4] For more on the impact of suppressing emotions:
+
+- Emotion regulation: Affective, cognitive and social consequences (James Gross, Psychophysiology, 2002)
+
+- Consequences of Repression of Emotion: Physical Health, Mental Health and General Well Being (Jainish Patel and Prittesh Patel, International Journal of Psychotherapy Practice and Research, 2019)
+
+[5] For more on these MESSy practices:
+
+- Mindfulness
+
+- Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+- Changing Our Brains, Changing Ourselves (Lea Winerman interviewing Richard Davidson, American Psychological Association Monitor, 2012)
+
+- Exercise
+
+- Get Moving! (Exercise for Busy People)
+
+- Walking lifts your mood, even when you don't expect it to (Christian Jarrett, BPS Research Digest, 2016)
+
+- Sleep
+
+- There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm, Harvard Business Review, 2016)
+
+- Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes, Harvard Business Review, 2016)
+
+- (Reducing Chronic) Stress
+
+- How to Make Stress Your Friend [14-minute video] (Kelly McGonigal, 2013)
+
+- Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+[6] Adapted from Attitude and Behavior
+
+[7] Against Willpower (Carl Erik Fisher, Nautilus, 2017)
+
+[8] Building Blocks (A Tactical Approach to Change)
+
+[9] Quote Investigator
+
+[10] Turning Pro: Tap Your Inner Power and Create Your Life's Work, page 72 (Steven Pressfield, 2012) I discuss Pressfield's work further in Leadership as Professional Practice.
+
+ 
+
+Photo by Andrew Rivett.
+
+
+===== END ED BOT ESSAY 4153 =====
+===== BEGIN ED BOT ESSAY 4154 =====
+---
+title: Leader as Shock Absorber
+url: https://edbatista.com/2022/10/leader-as-shock-absorber.html
+slug: leader-as-shock-absorber
+published: 2022-10-27T01:00:00
+updated: 2025-10-05T16:41:12
+source_body: wordpress-html
+---
+
+One of a leader's most important functions is serving as a shock absorber, soaking up forces generated by one part of the organization (or from outside the organization) and distributing them elsewhere, and doing so in such a way that the entire system operates more effectively. This is a simple metaphor, but it has some implications that are worth making explicit:
+
+A shock absorber cushions the blow--it doesn't prevent the flow of force.
+
+If a shock absorber tried to prevent force from flowing, it would A) collapse and then B) wreak havoc on the system. A useful shock absorber serves a dampening effect, diminishing a force's intensity or frequency before passing it along. But it doesn't try to stop force from being transmitted throughout the system. The controlled movement of force through a system is what makes the system useful.
+
+The equivalent for a leader is translating forces from within and beyond the organization into forms of energy that can be productively absorbed by the intended targets.
+
+A shock absorber pushes back--in both directions.
+
+An effective shock absorber doesn't just act as a conduit, passing force along to adjacent elements in the system. It also generates resistance, which increases in proportion to the force being applied. This resistance is tempered so it won't exceed pre-determined limits, and it's bi-directional--it flows up as well as down.
+
+The equivalent for a leader is knowing when and how to offer resistance, not only to colleagues and subordinates but also to superiors and external stakeholders.
+
+A shock absorber is, above all else, resilient.
+
+A well-designed shock absorber will last a long time over rough terrain, and not because it's tough, but because it's resilient. A resilient component deforms under pressure while retaining its internal consistency, later returning to its original form. Iron is tough, but it's not resilient--when it reaches its breaking point it shatters into pieces.
+
+The equivalent for a leader is acknowledging the stress of leadership, obtaining useful forms of support well before they're needed, and committing to self-care practices that foster high performance.
+
+For Further Reading
+
+On Translation
+
+- How to Deliver Critical Feedback
+
+- Leadership Word of the Day: DISAPPOINTED
+
+- The Rubber Band Effect
+
+On Resistance
+
+- Force Isn't Power
+
+- Power Struggles Among Nice People
+
+- Andy Grove on the Right Kind of Fear
+
+On Self-Care
+
+- Investments, Not Indulgences
+
+- Open Space, Deep Work and Self-Care
+
+- "Work Hard or Work Smart?" Is the Wrong Question
+
+
+===== END ED BOT ESSAY 4154 =====

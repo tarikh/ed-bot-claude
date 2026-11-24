@@ -1,0 +1,424 @@
+===== BEGIN ED BOT ESSAY 4203 =====
+---
+title: We Don't Get What We Deserve...
+url: https://edbatista.com/2023/08/we-dont-get-what-we-deserve.html
+slug: we-dont-get-what-we-deserve
+published: 2023-08-30T10:00:16
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+We don't like to acknowledge this. It feels unfair, an injustice. I talk with clients every day about perceived injustices, some grievous, even outrageous. But in my capacity as coach I don't do my clients much good by merely validating their grievances or affirming their outrage.
+
+Sometimes that's a starting point. Leaders need to vent like anyone else, and their colleagues may be unsympathetic (or implicated in the injustice), and their family and friends may not really understand the problem. But empathetic listening has its limitations, and when we reach those limits in a given conversation, I'll remind my client of this fundamental truth:
+
+We don't get what we deserve. We get what we negotiate.
+
+This isn't to deny the injustice, or to dismiss my client's feelings of grievance and outrage, or to excuse the actions of others that may have caused or contributed to the situation. Nor do I lack empathy--this isn't code for "Tough shit. Try harder."
+
+To the contrary, empathy plays an essential role here. I must empathize with my clients' sense of injustice to be an effective coach to them. More importantly, my clients must empathize with their presumptive adversaries--but here's another fundamental truth: Empathy isn't agreement.
+
+Empathizing with adversaries does not mean agreeing with them or abandoning our efforts to change the situation. It means getting out of our self-centered mindset and fully inhabiting an alternative view in order to be a more effective agent of change.
+
+Because whenever we think, "I'm not getting what I want, but I deserve it," we diminish our agency and make it less likely that we'll achieve that desired outcome. We make ourselves victims of circumstance, and if the world has anything to teach us it is that victims may deserve justice, but that has very little bearing on whether justice will be done.
+
+Empathizing with adversaries does mean seeing the world as they see it, understanding their emotions in response, and suspending our judgment about the accuracy of their view or the validity of their feelings. And the intent is to make use of this data in negotiating with them.
+
+To be clear, we should think of "negotiations" more broadly than we usually do. Negotiations don't occur only in rare or special circumstances, such as compensation discussions or peace treaties. Life is an endless series of negotiations, particularly in our professional relationships.
+
+Many people are uncomfortable with negotiating--they view it as unseemly or grasping--so they don't engage in deliberate practice, and they never improve their skills. And when they inevitably run into a savvy negotiator, they lose--which makes them feel uncomfortable, and the cycle continues.
+
+But we need not assume that negotiations require a zero-sum, winner-take-all attitude, or that they're characterized by distrust or rancor. This is a caricature, one that enables people who are uncomfortable with negotiating to justify their discomfort. And yet in my experience very few negotiations benefit from this approach. (Some do, of course, but not many.)
+
+So if you find yourself unhappy with a situation, feeling that an injustice has been done, and yet unclear on how to move forward, what can you do?
+
+Consider your beliefs about yourself and how you respond to adversity.
+
+- Learning How to Learn
+
+- The Tyranny of Feelings
+
+- The Value of a Good Fight
+
+Consider your beliefs about power, influence and negotiation.
+
+- Power Struggles Among Nice People
+
+- Force Isn't Power
+
+- Culture, Compensation and Negotiation
+
+Engage in deliberate efforts to develop your skills and learn from experience.
+
+- Conscious Competence in Practice
+
+- Comfort with Discomfort
+
+ 
+
+This piece is perhaps another way of saying Make It Better.
+
+Photo by Jernej Furman.
+
+
+===== END ED BOT ESSAY 4203 =====
+===== BEGIN ED BOT ESSAY 4204 =====
+---
+title: Fear of the Empty Chair, Part 2 (On Hiring)
+url: https://edbatista.com/2023/08/fear-of-the-empty-chair-part-2-on-hiring.html
+slug: fear-of-the-empty-chair-part-2-on-hiring
+published: 2023-08-27T17:54:48
+updated: 2026-08-14T16:40:24
+source_body: wordpress-html
+---
+
+In Fear of the Empty Chair, Part 1, I discuss the factors that cause leaders to delay a necessary termination. A mirror image of this fear can affect leaders during a hiring process, one that causes them to rush. They're so concerned about a role going unfilled that they make missteps or discount potential red flags along the way. Sometimes this is the result of inexperience, but even long-tenured leaders can be affected. What do leaders driven by a "fear of the empty chair" overlook or ignore when hiring? And if you're a leader preparing to make a hire, what can you do about it?
+
+Cognitive Biases
+
+There's ample research on the limitations of job interviews in predicting performance. [1] A particular problem is the unstructured interview, in which the interviewer lacks specific questions designed to elicit responses about the candidate's real-life experiences to test for a desired set of characteristics. The unstructured interview moves randomly from one topic to the next, with the candidate guessing what the interviewer wants to hear and eagerly seizing on any points in common. And the results are readily subject to cognitive biases, the mental shortcuts that preserve our limited capacity for logical reasoning at the cost of systematic errors:
+
+- Confirmation bias: Searching for and promoting data consistent with pre-existing hypotheses about a candidate, while rejecting disconfirming data.
+
+- Halo effect: Viewing a candidate's attributes more positively (or negatively) than is merited on the basis of positive (or negative) impressions of other attributes.
+
+- Stereotypes: Assumptions about a candidate's fitness based on similarities to (or differences from) the interviewer's often vague assumptions about an "ideal candidate." [2]
+
+Leaders will obviously continue to rely on interviews, despite their drawbacks. This isn't irrational behavior--even unstructured interviews have benefits [3], and structured interviews can be difficult to implement. [4] However, as organizational psychologist Robert Dipboye has noted, "The evidence is compelling that the inclusion of formal job analyses, standardized questioning of applicants, and behavioral rating scales improve the validity and reliability of interviewer judgments." [5]
+
+If you're a leader who's feeling a sense of urgency about making a hire, it will likely be worth the effort to slow down and take the advice of Nobel Prize-winning psychologist Daniel Kahneman: 1) Create a structured set of questions to prevent you from simply pursuing the questions that you find most interesting, 2) Use the time available in an interview to obtain as much information as possible about the candidate's life in their normal environment, 3) Do not make decisions solely on the basis of your global evaluations, and 4) Rely upon statistical summaries of separately evaluated attributes. [6]
+
+Defensiveness
+
+More specifically, hiring processes should screen for defensiveness, which I define as an unwillingness to accept responsibility for setbacks, characterized by a disproportionately hostile, anxious or evasive response to critical feedback. When one of my clients has an under-performing employee, defensiveness is almost always an issue. Jean Leslie and Ellen Van Velsor of the Center for Creative Leadership studied "derailed" executives who left their organizations non-voluntarily or were plateaued at a level short of expectations. The two leading factors in such cases were "inability to develop or adapt" (61 percent) and "poor working relations" (57 percent), and in my experience defensiveness is a primary contributor to both. [7]
+
+But a candidate is unlikely to show signs of defensiveness during hiring, when they're striving to be their best selves, so if you're a leader making a hire it's up to you to test for it. Here are three questions to ask candidates during the process, and in this order (although not all three may be necessary):
+
+1. Tell me about a time when things went wrong.
+
+If the candidate can't answer this question thoughtfully, that's an initial red flag, suggesting that they're unwilling to be forthright about their setbacks or unable to observe and interpret such situations without experiencing distress. But some candidates will provide an adequate answer while leaving themselves out of the story, blaming the setback on the failings of others or inescapable misfortune. In these cases, proceed to the next question:
+
+2. Tell me about a time when you made a mistake.
+
+The wording here is deliberate, providing the candidate with an opportunity to take responsibility for a setback without using unduly fraught language. We all "make mistakes," and only the most defensive among us will refuse to admit it. Still, some candidates will respond with an example in which the consequences of their mistake were relatively trivial, providing little data on their capacity to acknowledge and learn from serious missteps. In these cases, proceed to the final question:
+
+3. Tell me about a time when you failed.
+
+The wording here is also deliberate, inviting the candidate to identify a situation in which they bore personal responsibility for a meaningful setback. Some candidates who were less forthcoming in response to the first two questions will finally avail themselves of this opportunity--and others will not, providing examples of inconsequential "failures," or evading the idea that they failed, finding others to take the blame.
+
+If a candidate's unable to provide a satisfactory response to any of these questions, consider that a likely sign of defensiveness. And if you're still bullish on their candidacy, ask whether your eagerness to fill the role might be distorting your judgment. [8]
+
+Leverage
+
+Once the top candidate has been identified, the leader has to close them, sometimes requiring multiple rounds of negotiation across a range of issues. The leader's goal shouldn't be to extract the most concessions possible from the candidate. By adopting such an aggressive stance, not only do they run the risk of losing the best candidates over relatively minor differences, they also increase the likelihood that a qualified candidate will accept the role begrudgingly, or that only less-qualified candidates will remain available, in either case sowing the seeds of future difficulties.
+
+But it can be equally problematic when a leader is so anxious to fill a role that they give up their leverage in the negotiation, making concessions that they later regret. When the dust settles after the hire's completed, the result is an employee who's one of the following:
+
+- Over-compensated: This can take the form of excessive base pay or equity grants, but it may also reflect unsound management practices, such as poorly-structured variable or bonus plans. Even confidential information about compensation rarely remains so indefinitely, and any arrangements that are outside the company's norms have the potential to wreak havoc should other employees come to feel that they're now under-compensated or have been treated unfairly.
+
+- Over-titled: They candidate is really a Director, but they held out for VP. Or they're really a VP, but they held out for C-level. Or the role shouldn't even have a hierarchical title, but the leader felt obligated to award one to close the candidate. As I've written before, "at first...titles may seem cheap--I've even had clients call them 'free.' But not only are those hidden costs eventually revealed, they also tend to escalate--so supposedly 'free' titles ultimately become very expensive." [9]
+
+- Over-scoped: This isn't to say that the candidate is unqualified per se, but, rather, that their ambitions extend beyond their current capabilities, and they negotiated for a set of duties that will stretch them to the point of failure.
+
+Again, the solution isn't to adopt a bare-knuckles negotiation style and pick a fight over every single issue. But if you're a leader in the midst of making a hire, pay close attention to how you feel about the prospect of losing the candidate and the extent to which such feelings might be causing you to underplay the leverage you hold in the negotiations. In this context it can be helpful to better understand your strengths and weaknesses as a negotiator. There's no one right approach, but in my experience there are two distinct negotiating "cultures":
+
+In a list-price culture, there's a high degree of transparency and very little flexibility. An opening offer may not be take-it-or-leave it, but there's relatively little gamesmanship... In a haggling culture, the opposite is true. There's very little transparency and a great deal of flexibility. Opening offers are never take-it-or-leave-it, and gamesmanship abounds. [10]
+
+A challenge in hiring is that you and the candidate probably haven't negotiated before, so you may come from opposing cultures without realizing it, which is a recipe for miscommunication:
+
+When a list-price leader meets a haggling candidate, the leader may be surprised by a seemingly outrageous counter-offer, and the candidate may be surprised by the leader's rigid inflexibility. And when a haggling leader meets a list-price candidate, the leader may be surprised by the candidate's apparent lack of responsiveness, and the candidate may be surprised by the insultingly low opening offer. [11]
+
+Short-Term Pain vs. Long-Term Pain
+
+As I noted in Part 1, a theme here is the belief that the short-term pain will be greater than the long-term pain. When filling an empty role, the short-term pain is evident: Important work is going undone. This includes not only the work that is the purview of the role, but also the work that the leader must defer or forego in order to dedicate time and energy to the hiring process.
+
+It's also not uncommon for leaders to find hiring itself a somewhat painful experience. Even when recruiters or other employees are available to source a pool of candidates and conduct the initial screens, the leader must ultimately spend a substantial amount of time in later rounds with candidates who won't work out--and in many early stage companies the leader is doing all this work on their own. And some leaders enjoy negotiating, but many find it onerous at best. In most cases, the leader is driven to seek relief and put an end to the short-term pain by selecting a candidate and closing them quickly.
+
+However, as I also wrote in Part 1, what gets left out of this equation is the possibility that the long-term pain might outweigh the short-term pain, and perhaps by a substantial margin. Candidates who breezed through a series of unstructured interviews might look the part but be woefully underqualified. Candidates whose defensiveness wasn't surfaced during the process (or, worse, was ignored) will almost certainly fail to fulfill their potential. Candidates who extracted outsized concessions in their negotiation may be overmatched by the role or create perceptions of unfairness, undermining trust in management.  And someone who fits any of these criteria may well need to be managed out or terminated abruptly. The long-term pain of a poor hire is nearly limitless.
+
+If you're a leader preparing for or in the middle of an important hire, you're undoubtedly feeling some pressure to fill the role. But managing your "fear of the empty chair" and tolerating some short-term pain in order to create a more structured interview process, test deliberately for defensiveness, and carefully assess your leverage as you conduct negotiations may well spare you from much more pain in the long run.
+
+This is a companion piece to the following:
+
+Daniel Kahneman on Conducting Better Interviews
+
+Fear of the Empty Chair, Part 1 (On Termination)
+
+Fear of the Empty Chair, Part 3 (On Attrition)
+
+Footnotes
+
+[1] For more on the shortcomings of interviews, see the following:
+
+- Stubborn Reliance on Intuition and Subjectivity in Employee Selection (Scott Highhouse, Industrial and Organizational Psychology, 2008)
+
+- Belief in the unstructured interview: The persistence of an illusion (Jason Dana, Robyn Dawes and Nathanial Peterson, Judgment and Decision Making, 2013)
+
+- Overconfidence in personnel selection: When and why unstructured interview information can hurt hiring decisions (Edgar Kausel, Satoris Culbertson and Hector Madrid, Organizational Behavior and Human Decision Processes, 2016)
+
+- The Utter Uselessness of Job Interviews (Jason Dana, The New York Times, 2017)
+
+[2] For more on cognitive biases in interviewing, see Structured and Unstructured Selection Interviews: Beyond the Job-Fit Model (Robert Dipboye, Research in Personnel and Human Resources Management, 1994) and How Cognitive Biases Make Interviews Unreliable (Huy Tran, TRG International, 2016).
+
+[3] Dipboye, page 112:
+
+Unstructured approaches allow for richer communication among interviewers and between interviewer and the applicant (Daft & Lengel, 1986); as a consequence, those involved in the selection process can achieve greater reductions in the equivocality associated with hiring decisions (Weick, 1979). Second, the political behavior that can emerge with an unstructured procedure can prove valuable in resolving conflict over underlying objectives and alternative job candidates. Third, when knowledge of cause-effect is incomplete and there is no consensus on standards, fairness becomes more of an issue, and the interactional quality of an unstructured interview can provide for greater procedural justice. Fourth, the overall fit of the individual to the job context becomes more important in these situations and as discussed earlier, unstructured procedures seem to provide a better basis for achieving a good fit to this broader context. Finally, it is in these ambiguous situations that the personal commitment of those conducting the interviews is especially important to the ultimate success of the decision, and through providing autonomy, an unstructured procedure may help build this commitment...
+
+[4] Ibid, page 113:
+
+There are several ways that a structured selection process can conflict with the existing system, and as a consequence can be rejected or destructured. In the search for personal satisfaction, interviewers deviate from guidelines by incorporating task characteristics such as variety and autonomy. In the attempt to achieve a good fit to the organization, interviewers stray from the job-related attributes to consider the personality, values, and goals and to allow recruiting, socialization, rind self-selection. Other deviations occur as a consequence of power tactics, such as building coalitions or controlling the decision process. In the attempt to be fair, interviewers deviate from the one-way interrogation."
+
+[5] Ibid, page 94.
+
+[6] Daniel Kahneman on Conducting Better Interviews
+
+[7] A Look at Derailment Today: North America and Europe, page 11 (Jean Leslie and Ellen Van Velsor, Center for Creative Leadership, 1996)
+
+[8] Adapted from Surfacing Defensiveness (Three Questions for Candidates).
+
+[9] Very Cheap, Then Very Expensive (On Job Titles)
+
+[10] Culture, Compensation and Negotiation
+
+[11] Ibid.
+
+Photo by Votchitsev Viacheslav.
+
+
+===== END ED BOT ESSAY 4204 =====
+===== BEGIN ED BOT ESSAY 4205 =====
+---
+title: Fear of the Empty Chair, Part 1 (On Terminations)
+url: https://edbatista.com/2023/08/fear-of-the-empty-chair.html
+slug: fear-of-the-empty-chair
+published: 2023-08-23T15:41:51
+updated: 2026-08-14T16:42:19
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader who's been delaying a hard decision. [1] This can be particularly challenging when it involves terminating an employee. Sometimes this reluctance is well-founded, but my clients often look back on these scenarios and wish they'd been more decisive and less hesitant. [2] Instead, they were held back by a set of concerns that in hindsight don't seem to justify their prior inaction. What's behind this "fear of the empty chair"? And if you're a leader in similar circumstances, what can you do about it?
+
+Self-Doubt
+
+Some of my clients are relatively new to leadership roles, and they don't fully trust their intuition. Termination decisions should not be made purely (or even primarily) on an intuitive basis, nor is our intuition is always accurate. [3] But few difficult decisions are made on the basis of objective data alone--when the data is that clear, the decision is easy. In termination decisions there's always some data--the missed quarter, the botched project, the critical feedback--and it's the leader's responsibility to interpret that data and determine its significance.
+
+This involves a degree of intuition, but it's not some sort of mystical process. Economist and psychologist Herbert Simon offers a straightforward definition: "The situation has provided a cue; this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition." [4] If you're wrestling with self-doubt, the first step is creating an environment that's free from distractions, so you can tune into your intuition more accurately. [5] The key over time will be tracking your decisions to assess when your intuition pays off and when it's subject to cognitive biases that lead you astray. [6]
+
+Guilt
+
+Alternatively, a leader may be clear that termination is the right decision, but they're held back by feelings of guilt. They may have hired the employee, and even offered inducements to convince them to accept the role. The employee may be a friend, family member, or classmate, and termination may damage or end the personal relationship. Or the leader may feel that they've let the employee down by failing to provide appropriate resources or guidance.
+
+Guilt is a powerful motivator of prosocial behavior, in large part because we go to great lengths to avoid the actions that induce this unpleasant feeling. [7] But we may also fail to take necessary actions to prevent the feeling from arising in the first place. If guilt is holding you back from following through on what you believe to be the right course of action, the key is emotion regulation. This doesn't mean suppressing those feelings, as I've noted before:
+
+Suppression is essentially an act of make-believe--we pretend we're not feeling what we're feeling and hope to distract ourselves until the feeling passes... In contrast, emotion regulation involves improving our ability to sense, comprehend, articulate and express what we're feeling, and we develop those skills by getting closer to our emotions, not by distancing ourselves from them. [8]
+
+Once you've determined how to prevent guilt from serving as an obstacle, there's still a valuable learning opportunity here for you: If you hired this person, what red flags did you miss or discount? If you have (or had) a relationship with them outside of work, how will you balance your personal and professional relationships in the future? If you failed to provide necessary resources or guidance, how will you alter your approach to management?
+
+Obstinacy
+
+Leaders are often persistent, and that's generally an admirable quality--but at some point a capacity to endure difficulties becomes irrational obstinacy. One way to prevent this is to recognize and write off sunk costs. An under-performing employee usually represents a substantial sum of time, effort and money. Meaningful amounts of these resources were expended to source a pool of candidates, identify the best prospects, select and close one, and onboard them. And the longer they've been in the role, the more resources that have been directed toward their training and management.
+
+Tallying up these resources often fuels a hope that they can be recovered through improved performance and long-term retention. But it's essential to view such expended resources not as investments that may yield a return, but as sunk costs, a concept explored by professors of management Jeffery McMullen and Alexander Kier in their research on why entrepreneurs persist in striving toward goals when the rational choice is to quit:
+
+An uncompleted goal prevents production costs from being treated as sunk because they are mentally categorized as investments rather than expenses until evidence overwhelmingly disconfirms the likelihood that they will produce the expected return... Sunk costs and time invested are costs of abandonment that grow from delay, further increasing the desirability of outcome attainment for decision makers who do not want to appear wasteful. [9]
+
+If you find yourself resisting an otherwise rational decision to terminate an employee, consider the extent to which you remain hopeful that the resources expended over the course of their employment might somehow be recovered. Now write down the value of those resources to zero, and take a fresh look at the situation. Rather than asking yourself how those resources could be recovered, ask yourself whether you should continue trying.
+
+Optics
+
+Perceptions matter, particularly for a growing company that may be facing a great deal of uncertainty. In this context leaders must attend closely to the narratives that surround the company and actively shape them through storytelling, as I've written before:
+
+Why is [storytelling] such an important aspect of leadership? Because reality is socially constructed, and the vehicle for that process is narrative. There are few ground truths in social structures, organizational life, or interpersonal experience. Once we get beyond the realm of physics, the "truth" is what we believe to be true, and when enough people, or the right people, profess their belief in a given narrative its influence is as irresistible as gravity. The converse also holds, of course: when enough people, or the right people, withdraw their belief in a given narrative, it has no influence at all. [10]
+
+The departure of an employee contributes to a company's narrative and may well be perceived negatively, particularly if they're a senior executive or have strong relationships with other employees or external stakeholders. This is one reason why terminations should be handled in a way that affords the affected employee as much grace and dignity as possible, maximizing the possibility that the leader and employee can agree on a shared public narrative that explains their departure. This narrative will undoubtedly be simplified--public discourse doesn't afford much room for nuance or complexity. But this isn't always possible, even when both parties make a good-faith effort.
+
+In such cases leaders often overemphasize the risk of bad publicity resulting from a termination and resist taking needed action. But in my experience people are increasingly skeptical about such claims, recognizing that adverse publicity about a company in the media or on review websites represents the subjective viewpoint of the claimant, not objective truth. Further, leaders often discount the possibility that the narrative attached to an unwilling departure may be a net positive for the company, signalling a commitment to high performance or accountability for professional behavior.
+
+If you're a leader who's reluctant to pursue a necessary termination because of concerns over optics, first consider how you might reach agreement with the employee on a shared public narrative. This shouldn't be false or misleading, but it will leave out certain details and focus on others in order to serve both parties' interests. This is why departing executives so often profess a desire to "spend more time with the family"--this is never the whole truth, but it is almost always true.
+
+If agreement on a shared public narrative proves impossible, consider how you might judiciously communicate with your stakeholders. To be clear, in almost all cases you should not make public details regarding the employee's performance or behavior in order to justify your decision. This will generally be perceived as a violation of privacy and undermine trust in you and the company. But in some cases you can comment on general standards of performance or behavior, without sharing any details related to this particular situation. Or you may have an opportunity to simultaneously announce other, happier departures with a degree of fanfare, while electing not to comment on the termination. Silence is also a form of communication. [11]
+
+Short-Term Pain vs. Long-Term Pain
+
+An element in all of these rationales is the belief that the short-term pain will be greater than the long-term pain. Sometimes the leader doesn't even acknowledge the possibility of long-term pain--they imagine that an under-performing employee can be retained indefinitely without causing irreparable damage. More typically, the leader is aware that allowing an under-performing employee to continue in their role will cause long-term pain, but they resist taking action because the short-term pain of a termination seems so much more evident and troublesome.
+
+Moving forward with a termination will compel the leader to overcome any lingering self-doubt and trust their intuition. It will require a confrontation with any feelings of guilt and taking responsibility for their contributions to the situation. It will entail admitting the futility of recovering all resources expended on the employee's behalf and writing them off as sunk costs. It will be necessary to struggle to craft a shared public narrative, or to run the risk of adverse publicity if this proves impossible. All of this work will be painful.
+
+In many cases leaders are also concerned about a gap in continuity, which will generate even more short-term pain. The terminated employee's duties will have to be delegated, and it may fall to the leader to take them on. Or this may simply not be possible, causing pain for customers or other stakeholders. Shortening or eliminating the gap in continuity will require an expedited search for a replacement, which is often arduous work under the best of circumstances. There will be no shortage of pain.
+
+But what gets left out of this equation is the possibility that the long-term pain might outweigh the short-term pain, and perhaps by a substantial margin. An under-performing employee can take a toll on everyone around them, not just their manager, and left unchecked this can cause very painful problems. The employee's poor performance or unprofessional behavior is rarely evident only to the leader, and the leader's inaction will be noted and raise questions. The best employees may choose to leave, while others may lower their own standards of performance. And as education experts Steve Greunert and Todd Whitaker have noted, "The culture of any organization is shaped by the worst behavior the leader is willing to tolerate." [12]
+
+In encouraging you to weigh the risk of long-term pain more carefully and perhaps overcome your reluctance to move forward, please note I'm not suggesting you act rashly or terminate an employee over a trivial offense or a single setback. Very few mistakes are truly fatal, and the ability to grow and learn from failure is a vitally important quality to cultivate in organizational life. [13] But it's also worth considering that your under-performing employee is also suffering, and allowing them to remain in the role is not merciful, but cruel. As the great management thinker Peter Drucker once wrote, "I have never seen anyone in a job for which he was inadequate who was not slowly being destroyed by the pressure and the strains, and who did not secretly pray for deliverance." [14]
+
+This is a companion piece to the following:
+
+Merciful Exits (On Under-Performing Executives)
+
+On Firing a Senior Team Member
+
+Fear of the Empty Chair, Part 2 (On Hiring)
+
+Fear of the Empty Chair, Part 3 (On Attrition)
+
+Footnotes
+
+[1] Kicking the Can Down the Road (On Hard Decisions)
+
+[2] Don't Wait
+
+[3] For more on intuition, see Strategic decisions: When can you trust your gut? (Interview with Daniel Kahneman and Gary Klein, McKinsey Quarterly, 2010)
+
+[4] What is an "Explanation" of Behavior? (Herbert Simon, Psychological Science, 1992)
+
+[5] How to Think (More on Open Space and Deep Work)
+
+[6] For more on decision tracking, see Creating a Decision Journal (Shane Parrish, Farnam Street, 2014) and Decision Journal (Shane Parrish). For more on cognitive biases, see When Heuristics Go Bad (On Cognitive Biases).
+
+[7] For more on the value of guilt, see Guilt and Helping (Christian Miller, 2010) and Avoiding and Alleviating Guilt Through Prosocial Behavior (Mica Estrada-Hollenbeck and Todd Heatherton, Chapter 20 in Guilt and Children, 1998).
+
+[8] The Tyranny of Feelings
+
+[9] Trapped by the Entrepreneurial Mindset: Opportunity Seeking and the Escalation of Commitment in the Mount Everest Disaster, page 679 (Jeffery McMullen and Alexander Kier, Journal of Business Venturing, 2016)
+
+[10] The Importance of Shared Narrative
+
+[11] "No matter how one may try, one cannot not communicate. Activity or inactivity, words or silence all have message value... The mere absence of talking or of taking notice of each other is no exception to what has just been asserted." (Paul Watzlawick et al, Pragmatics of Human Communication, page 49, 1967)
+
+[12] School Culture Rewired: How to Define, Assess, and Transform It, page 36 (Steve Gruenert and Todd Whitaker, 2015)
+
+[13] The Ruling Out of Possibilities (On Failure)
+
+[14] The Effective Executive, page 89 (Peter Drucker, 1966)
+
+Photo by Votchitsev Viacheslav.
+
+
+===== END ED BOT ESSAY 4205 =====
+===== BEGIN ED BOT ESSAY 4206 =====
+---
+title: Are the Best Salespeople the Best Sales Leaders?
+url: https://edbatista.com/2023/08/are-the-best-salespeople-the-best-sales-leaders.html
+slug: are-the-best-salespeople-the-best-sales-leaders
+published: 2023-08-20T10:49:18
+updated: 2025-10-05T16:22:10
+source_body: wordpress-html
+---
+
+Not necessarily--and sometimes they're terrible. A common figure in my clients' companies is the high-performing salesperson who aspires to sales leadership, is promoted to a managerial role, and promptly fails to meet expectations. In some cases this stumble motivates them to improve their managerial skills, but just as often they have to be replaced, and occasionally they drag the entire sales org down with them. I'm not merely relying on observations from my practice--this dynamic has been documented in the management literature:
+
+Using detailed microdata on sales workers in U.S. firms, we provide the first large-scale empirical evidence showing that firms prioritize current performance in promotion decisions at the expense of promoting the best potential managers. Our findings are consistent with the "Peter Principle," which, in its extreme form, states that firms promote competent workers until they become incompetent managers. In particular, we show that high-performing sales workers are more likely to be promoted, but that prior sales performance negatively predicts managerial performance. [1]
+
+And by sales expert Bruce Sevy, who advises companies on their talent strategies:
+
+GrowthPlay has assessed hundreds of thousands of candidates for sales and sales management roles and we do this in a way that lets us empirically assess a person’s fit to both roles. What we found is more than a bit counter-intuitive. First, only about one out of every six candidates who is a strong fit for a sales role is also a strong fit for a sales management role. Perhaps equally surprisingly, as many as five out of every seven candidates who are poor fits for sales roles are strong fits for sales manager roles. [2]
+
+And by sales SaaS founder Steli Efti, an exceptional salesman himself:
+
+My style of pitching only worked for me. It was a unique way of doing things for a unique person. And by trying to inspire my team to do the same instead of coaching them on the fundamentals, I was taking good, hardworking, ambitious people and setting them up for failure. [3]
+
+What's happening here? There are three underlying factors:
+
+- The characteristics that support exceptional sales performance don't correlate with exceptional sales leadership.
+
+- But many ambitious salespeople remain motivated by status, titles and managerial responsibilities.
+
+- So companies strive to retain top salespeople through promotions while mitigating the costs of their mismanagement.
+
+Part 1: Why (So Many) Great Salespeople Can't Lead
+
+David McClelland was a prominent social psychologist in the 20th century, and his "motivational needs theory" explains the surprising disconnect between exceptional sales performance and exceptional sales leadership. [4] McClelland's research suggests that people have three primary needs--for achievement, power, and affiliation--and that an individual's combination of needs renders them more or less suitable for different professional roles. People with a high need for achievement tend to make outstanding salespeople, as sales expert Sevy underscores:
+
+At the heart of every great sales person you will find a strong achievement motive... What’s special about the achievement motive is that it’s only ever really satisfied by personal accomplishment. It’s not enough that the team did well, I have to excel. And the achievement motive simply adores sales. Sales is the perfect environment for achievement. Sales has everything achievement needs to take root, grow and flourish. [5]
+
+So sales as a profession attracts high achievers, but such people don't make the best leaders. Their emphasis on individual excellence and personal autonomy can cause them to view colleagues as obstacles rather than resources. They prioritize activities that require their direct involvement over building systems that enable groups to accomplish more at scale.
+
+In contrast, great leaders are much more strongly motivated by power. To be clear, as McClelland and his co-author David Burnham note, "Power motivation refers not to dictatorial behavior but to a desire to have impact, to be strong and influential." [6]. The best leaders recognize that power in organizational life is realized through others, and there's a necessary tradeoff between accomplishments achieved through individual effort, and the ability to have extensive influence without being directly involved.
+
+Such leaders also have a relatively low need for affiliation--put simply, they care about power more than being liked. This doesn't mean that they're unpleasant or abrasive, but they're not going to let a desire for interpersonal harmony get in the way of accumulating or exerting the power that's necessary to accomplish their goals.
+
+What does all this look like in practice? In my work with clients I've observed three primary ways in which their highly-effective salespeople typically fail as sales leaders: They're poor systematizers, unable to distill their methods into a teachable playbook. Or they're reluctant delegators, slow to hand off accounts and quick to re-insert themselves at the slightest sign of trouble. Or they're people-pleasers, scared to offer critical feedback and hesitant to hold under-performers accountable. (These failings are distinct but not mutually exclusive.)
+
+Part 2: Why (Some) Great Salespeople Want to Lead Anyway
+
+Not every stellar salesperson aspires to a leadership position, and one of the most valuable resources a company can have is a sales star who just wants to get rich. They don't want to manage, they don't want to teach, and they don't really want to talk to anyone who's not a prospect. Give them the tools they need, and get out of their way.
+
+And yet so many great salespeople yearn for more--why? The specifics vary, but the single most important reason is status, a topic discussed by contemporary philosopher Alain de Botton:
+
+The predominant impulse behind our desire to rise in the social hierarchy may be rooted not so much in the material goods we can accrue or the power we can wield as in the amount of love we stand to receive as a consequence of high status. [7]
+
+Great salespeople will get rich, but in some organizations (and in some domains of life) they won't be viewed as high status. I first realized this when I was an MBA student at the Stanford Graduate School of Business many years ago, where I was astonished to learn that there were no classes on sales. I eventually grasped that sales was viewed as a low-status function, presumably a consequence of the fact that there's no such thing as a PhD in Sales. The GSB has since added courses on sales to the curriculum, but it remains a surprisingly marginal discipline in academia relative to its vital importance in commerce.
+
+Our desire for status isn't just the result of egomania or insecurity, although these can be exacerbating factors. Even the most well-adjusted among us are subject to social comparison, the psychological process by which we gauge our success in life relative to the accomplishments of those we consider peers. [8] Net worth plays a significant role here, but it's not always visible--and obvious displays of wealth will be viewed as low-status in certain settings.
+
+But title, headcount, and managerial responsibility are the self-evident manifestations of status that accompany a leadership role. The great salesperson who's not content with getting rich and desires higher status, either within the organization or in their personal life, will invariably strive for a promotion--sometimes to their detriment.
+
+Part 3: How Companies Respond (and What You Can Do Differently)
+
+As a consequence of these factors, companies reliably promote the highest-performing salespeople into leadership roles--but why? Are they acting irrationally? Not according to the research cited above:
+
+Finding evidence of the Peter Principle does not imply that firms make mistakes. Alternative promotion policies that maximize managerial match quality may lead to the loss of incentive benefits associated with existing promotion policies. Indeed, a promotion policy that favors top sales workers may provide a variety of incentive benefits that justify the costs of managerial mismatch. [9]
+
+Further, as Sevy notes, "No salesperson worth their salt wants to work for a manager who hasn't 'carried a bag.' This is understandable--who doesn't want a manager who has the experience and battle scars to understand what I'm going through? But it leads to the common but mistaken belief that you can't lead a sales team unless you carried a bag." [10]
+
+My clients who have promoted a great salesperson into a leadership role are by no means unaware of the risk that this person will under-perform as a sales leader--this is often one of our main discussion topics. But they also have to take into account the possibility that the great salesperson who's not promoted (or who's levelled under a proven sales leader) may well become a flight risk, seeking higher status elsewhere.
+
+So if you're a CEO or another leader who oversees sales, what might you do differently? How can you keep ambitious salespeople happy while minimizing the likelihood that they'll flame out as sales leaders? The starting point is simply acknowledging that great sales performance alone is no guarantee of great sales leadership and may actually be a risk factor. Then consider the following:
+
+Promote differently.
+
+In addition to sales performance when making promotions, be sure to assess candidates' managerial abilities. One measure cited in the research is their willingness to collaborate, as determined by the number of colleagues with whom a salesperson shares credit on deals. Collaboration is positively correlated with subsequent managerial performance but is generally not a consistent factor in promotions. And yet in companies where sales managers lead relatively larger teams--and where the cost of poor management would be more significant--collaboration is weighted more heavily in promotion decisions, resulting in better sales management. [11]
+
+You can employ any number of alternative metrics or incentives, from peer feedback to team compensation, but the overarching goal is ensuring that your salespeople know that promotions are contingent not only on their personal performance, but also on their ability to positively influence others' performance. Note that this isn't about rewarding likeability--great salespeople can summon that quality at will--but, rather, about creating an environment in which high achievers are motivated to look beyond their individual scorecard.
+
+Manage differently.
+
+As high achievers, great salespeople value autonomy and will resist anything they perceive as "micro-management" after being promoted into a leadership role. But management isn't micro-management, and you can't simply make a promotion and hope for the best. As I've written before, "It's possible for a less-experienced CEO to get in the way of their senior leaders--but more typically I see the opposite problem. The CEO gives their executives a great deal of space, only to find several months or quarters later that they backed off too far, and some important objectives were neglected and fell into the gap." [12]
+
+Even--and especially--if you're not an experienced salesperson yourself, you can still offer your sales leader meaningful guidance and support in the form of active management. But this may well entail revamping your understanding of what it means to manage, a topic I've discussed previously:
+
+Senior leaders manage people who sit much closer to the problems being solved and who may have more expertise in their functional area than the leader. Directive guidance from a senior leader can be counterproductive by preventing execs and employees from making full use of their own knowledge or from taking responsibility for a problem they would rather leave to the leader. Such an approach also keeps senior leaders involved with tactical details and distracts them from larger strategic issues, which is a particular concern in rapidly growing or changing organizations. An alternative approach for the senior leader is to employ coaching skills to help direct reports come up with their own solutions to the problems they face. [13]
+
+Provide status differently.
+
+Finally, consider how to fulfill a great salesperson's legitimate need for status in ways other than a promotion. Leadership experts Allan Cohen and David Bradford discuss the concept of "currencies," resources that can be exchanged as a basis for mutual influence. [14] Of greatest significance here are what they call "position-related currencies," such as public recognition for accomplishments, visibility throughout and beyond the organization, a reputation for competence, a sense of belonging to a group of insiders, and opportunities to expand one's network.
+
+These currencies are precisely the forms of status that cause a great salesperson to desire a promotion, but they can usually be made available via means other than a leadership role. A challenge in some technology-centric companies is that Product and Engineering are the dominant power centers, while Sales is viewed as less important. Occasionally this is a rational arrangement--product-led growth isn't always a fantasy--but it often reflects a set of biases, as I once observed at Stanford. The key is managing the balance of power across functions, so that your best salespeople don't feel that a leadership role is the only path to high status.
+
+Footnotes
+
+[1] Promotions and the Peter Principle (Alan Benson, Danielle Li & Kelly Shue, National Bureau of Economic Research, 2018). For a concise summary of the research that resulted in this paper, see The Best Salespeople Don't Make the Best Managers (Alex Verkhivker, Chicago Booth Review, 2017).
+
+[2] Why Great Salespeople Make Terrible Sales Managers (Bruce Sevy, Forbes, 2016)
+
+[3] Why Great Salespeople Make Terrible Managers (Steli Efti, Close, 2018)
+
+[4] For a discussion of motivational needs theory and its broader implications for organizational life, see McClelland and Burnham on Power and Management. Their original work is best summarized here: Power Is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, originally written 1976, revised 1995, republished 2003).
+
+[5] Sevy doesn't mention McClelland or motivational needs theory in his Forbes piece, but I suspect that he drew specifically on this concept and (understandably) chose not to make an academic reference in an article for general readers.
+
+[6] McClelland and Burnham, HBR.
+
+[7] Status Anxiety, page 6 (Alain de Botton, 2005)
+
+[8] For more on social comparison, see the following:
+
+- Social: Why Our Brains Are Wired to Connect, pages 33-34 (Matthew Lieberman, 2013)
+
+- The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132 (Sonja Lyubomirsky, 2014)
+
+[9] Benson, Li & Shue, NBER.
+
+[10] Sevy, Forbes.
+
+[11] Benson, Li & Shue, NBER.
+
+[12] Mind the Gap (On Leading Senior Executives)
+
+[13] Coaching and Feedback Tools for Leaders
+
+[14] Influence Without Authority, Chapter 3 (Allan Cohen and David Bradford, 2005)
+
+Image via moviememe1978. If you don't recognize Alec Baldwin as Blake in Glengarry Glen Ross, then you owe it to yourself to watch his (very NSFW) monologue, written by David Mamet:
+
+
+===== END ED BOT ESSAY 4206 =====

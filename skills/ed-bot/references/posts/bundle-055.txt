@@ -1,0 +1,210 @@
+===== BEGIN ED BOT ESSAY 3300 =====
+---
+title: Fauxtilitarian Design
+url: https://edbatista.com/2005/12/fauxtilitarian.html
+slug: fauxtilitarian
+published: 2005-12-17T16:26:27
+updated: 2005-12-17T16:26:27
+source_body: wordpress-html
+---
+
+Hummer is taking out full-page ads for the Alpha, which features the "Duramax 6600 Turbo Diesel" engine and the "Allison 1000" transmission, making it "the new benchmark in off-road exotic vehicles." It's a new benchmark, alright--the very latest in phony utility. It's fauxtilitarian!
+
+I love solidly-built, well-designed objects that are intended to be used hard and last a lifetime. And I'm as susceptible as the next consumer to the lure of an aspirational purchase. But when Hummer's touting the "Duramax 6600" on the back of the Wine Spectator (see the Dec. 15 issue), well, fauxtility has officially exhausted itself as an aesthetic. I'm expecting a return to flashy superficiality any day now.
+
+tag: fauxtilitarian
+
+
+===== END ED BOT ESSAY 3300 =====
+===== BEGIN ED BOT ESSAY 3301 =====
+---
+title: Welcome, Randal Pinkett Fans (and Non-Fans)
+url: https://edbatista.com/2005/12/welcome_randal_.html
+slug: welcome_randal_
+published: 2005-12-16T21:54:22
+updated: 2005-12-16T21:54:22
+source_body: wordpress-html
+---
+
+Apparently TV's not dead yet.  Thousands--well, hundreds--OK, dozens--of people have stopped by this site in the past few weeks to read a brief interview I conducted with Randal Pinkett, the latest Apprentice, back in July.  (It's the Live Web in action, really--Google "randal pinkett" and that post is #11.  Crazy.)  At any rate, welcome, and if you're interested in design, technology, advocacy and/or nonprofits--the topics I usually cover, and the focus of my interview with Randal-- feel free to subscribe.
+
+Oh yeah--the controversy surrounding the finale?  Randal should've said:
+
+Mr. Trump, like you, I believe it's essential to hire the very best people
+
+possible.  And I believe Rebecca has proven that she would be an outstanding
+
+contributor to the Trump organization.  Mr. Trump, I'm honored that you hired me
+
+as your Apprentice, and I'd like to take this moment to make my first decision
+
+in your employ.  (Turns to Rebecca)  Rebecca, I'm incredibly impressed with your
+
+drive, intelligence and capability, and I'd like to hire you as MY
+
+Apprentice.
+
+I wish Randal had made a different choice, but hey, I wouldn't have come up with that on the spot either.  And Trumpy shouldn't have put him in that position to start with.
+
+
+===== END ED BOT ESSAY 3301 =====
+===== BEGIN ED BOT ESSAY 3302 =====
+---
+title: Doc Searls Closes Syndicate
+url: https://edbatista.com/2005/12/doc_searls_at_s.html
+slug: doc_searls_at_s
+published: 2005-12-14T19:39:40
+updated: 2005-12-14T19:39:40
+source_body: wordpress-html
+---
+
+Doc Searls' closing keynote at Syndicate was an inspiring talk.  It was a natural extension of the ideas he first laid out in "Saving the Net," the Nov. 16 article in Linux Journal that Doc called the longest and most important piece he's ever posted online.  I've interspersed my headers with direct quotes and slide text from Doc's presentation to try to render the hour-long talk as a reasonably concise blog post--it's still long, so follow the jump:
+
+The Live Web vs. the Static Web
+
+The Live Web is branching off from the Static Web.  Think of the branch as one between time and space.
+
+The Static Web is about space.  That's why we have sites and locations with addresses that we architect, design or construct.  We want to get traffic there, and the information highway runs through it.
+
+The Live Web is about time.  People's time, to be specific--people who write and author pages that they publish to be browsed and read (and syndicated.)
+
+The live web isn't a fork.  It's a branch, a main one, but it's still the same tree, growing from the same trunk.
+
+The Live Web and Independent, Provisional Production
+
+Think of the Live Web as one big Declaration of "Independents" (i.e. independent producers, like most of us.)
+
+Chris Locke wrote in Cluetrain: "We are not seats or eyeballs or end users or consumers.  We are human beings, and our reach exceeds your grasp.  Deal with it."  He was speaking with the voice of markets against marketing.
+
+What we saw for the first time was the human side of the web.  It’s a human place, about human beings, not about real estate, and it’s in a human voice.  You know the human voice, you recognize the human voice when you hear it.
+
+Life isn’t finished.  Nor are the goods it produces on the Live Web.  Industrial publishers create finished works.  This is inherently what publishing is about.  This is a good thing.  It is no longer the only thing.  Independent publishers—bloggers—create provisional works, works in progress.
+
+Think of blogging and syndication and mix/mashups as rolling snowballs downhill.  You roll out an idea.  Others add to it, and keep it rolling.  If it grows and gets somewhere, it’s not just yours.  And it has a lot of leverage if it really gets rolling.
+
+On the Live Web, productions matters more than consumption.  It’s actually about re-producing.  On the Live Web the challenge for producers is to work with other producers, not to find consumers.
+
+The value chain is turning into the value constellation.  Not the value solar system--there's no single, central Sun.  There are only stars here.
+
+The wide open space around value constellations is freedom.  Stars shine in freedom and independence.
+
+Needles & Haystacks vs. Organization from the Ground Up
+
+The Static Web is a haystack.  Here's one straw: https://www.domainname.com/chaoticgarbage. DNS organizes everything between // and /, but everything east of the first / is chaos (which is why search engines exist).
+
+The Live Web is getting organized, and it's happening From the ground up.  (Or the stars out.)  Every blog post has an implicit organization: https://blogname.com/year/month/day/post.
+
+The Live web is Chronological.  It's about time.
+
+It's also about authors, and what the authors do in time.  The blog name is human, or it comes from one.  The Live Web also has a categorical organization, thanks to tags.  Which are also made by humans.
+
+The organization comes from the individual; it's made by humans
+
+Live Web search is radically different from Static Web search, even if the results look kind of the same.  Google and Yahoo obviate the haystack nature of the Static Web by  crawling and indexing the whole of it and finding the needles we want in there.
+
+Live Web search engines (including Google's and Yahoo's) listen and respond to syndicated feeds.  They’re looking for signs of life.  There not looking for real estate features on the landscape—they're saying, "Here's what's alive!"
+
+The Live Web is lively and topical.  The Live Web is an ecosystem of participation.  If you're not participating, it's like you're not alive.
+
+If you're searching on PubSub and you have a set of keyword combinations--parenthetically, I don't really subscribe to indivuals anymore, but to topics of interest--you just keep hitting the refresh button, and you see what's happening right now.
+
+Live Web Business Models: I Want My Advertising
+
+So what about business models? 
+
+The Live Web exposes many of advertising's near-fatal flaws.  The biggest one: the mute button.  Advertising is zapped by mute and skip-arrow buttons.  No reader or viewer or listener would pay to receive advertising.
+
+Which means advertising is entirely a convention of top-down, from-to supply-controlled media. It's also highly inefficient.  The old joke is that marketers know half of their ad budget is wasted, but they don't know which half.  The truth is that it's all wasted.
+
+The Live Web promises the Holy Grail of advertising: demand for it.
+
+I want to be able to speak to the marketplace and have it come back to me with stuff that I need.
+
+Advertising has to mature to something that's always useful, always helpful, always participatory, always in demand.  We're talking 100% click-throughs.
+
+Necessity Is...
+
+Markets are made two ways: Necessities mother inventions, and inventions mother necessities.  (If it weren't for the latter, we wouldn’t have Silicon Valley, and we wouldn't be in this room.)  The Live Web makes necessities that mother inventions that mother necessities.  (So do natural markets in the physical world.)
+
+Getting Meta: Identity and XRI
+
+Identify is the most important thing that has to be worked out.  If Cluetrain's promise is going to be fulfilled, we need to fix this problem.
+
+Kim Cameron, Doc's old friend now working on Microsoft's post-Passport identity system, always talked "meta."  What did he really mean mean?
+
+For example, a URL is an abstraction of an IP address, which is an abstraction of a MAC address.  Is there another abstraction layer possible or necessary for the Live Web?
+
+Let’s look at itags and XRI.  (Extensive technical quotes from Drummond Reed, XRI/dataweb guru). XRI is about the dataweb the way HTTP is about the fileweb.
+
+The promise of XRI is a world of living data, including static files; 100 % click-through for "advertising"; rich tags; meaningful credit for work; independence-driven copyright; voluntary and mutually good relationships; the obsolescence of brute conversion, and security not from the middle ages (e.g. let's get beyond moats and drawbridges.)
+
+Fighting the Good Fight
+
+The meta-point: we need to save and spread the Live Open Spaces.  And they ARE threatened.  Right now.
+
+There’s a war going on between two different concepts of the Net. The mainstream media makes it seem as though the fight is between the cable companies and the phone companies.  It's not.  It's a fight between two entirely different metaphors for the Net.
+
+Is the Net just pipes through which providers pump content to consumers?  Or is it a wide open space where free markets and free culture can thrive in too many ways to imagine?
+
+To carriers and copyright absolutists, its the former.  To techies, it’s the latter.  Guess who has a greater effect on legislation?
+
+As enemies of freedom, carriers are to spammers as bombs are to popguns.
+
+We need the carriers.  There’s lots of business made possible for carriers by providing real symmetrical broadband to homes and businesses.
+
+But they feel threatened by something they don’t understand.  And we work with them.  And we work around them.
+
+We have to get as smart about politics as we are about tech and business.
+
+It's not about left vs. right--it's about freedom vs. slavery.  It's about independence vs. dependence.
+
+It’s about opening and protecting markets.  "Free market" does not mean "your choice of silo."  It means your freedom to do whatever with whomever.
+
+<><><>
+
+Many thanks, Doc, for a great talk and a great event.  More to come soon, I'm sure.
+
+tags: syndicate syndicate conference doc searls
+
+
+===== END ED BOT ESSAY 3302 =====
+===== BEGIN ED BOT ESSAY 3303 =====
+---
+title: Jonathan Schwartz Keynote at Syndicate
+url: https://edbatista.com/2005/12/jonathan_schwar_1.html
+slug: jonathan_schwar_1
+published: 2005-12-14T10:35:37
+updated: 2005-12-14T10:35:37
+source_body: wordpress-html
+---
+
+Doc Searls interviewed Sun President & COO Jonathan Schwartz as the Day 2 keynote here at Syndicate. Most of their discussion focused on hardware, business models, DRM and other topics better covered elsewhere. But what little Schwartz had to say about blogging was compelling. He's adamant about the need to eliminate almost all the distinctions between internal communications among employees and external communications with customers, partners and other stakeholders, and he clearly sees blogs as the best way to make that happen:
+
+There's very little communication internally that you want to keep private.
+
+Intranets are such an anachronism...they’re going to die.
+
+The dividing line between what's internal and what's external is diffusing, and the utility is dying away.
+
+The defensive approach is "Don't give employees [blogs]—they’ll leak information." The offensive approach is, "Give them [blogs]...they can communicate and create more opportunities."
+
+Schwartz also talked about how Sun used blogs to proactively address criticism of the company from competitors and others:
+
+Blogging has played an enormously important part in the revitalization of Sun’s reputation...
+
+Rather than spend $150 million on an ad campaign, let’s just start speaking in our own
+
+voices [on our blogs]. And guess what? Authenticity wins out.
+
+If you are authentic, if you communicate consistently, you can basically counter anything anyone says about you.
+
+This resonated with an earlier comment he made:
+
+Doc Searls: So transparency is the fulcrum on the lever now?
+
+Jonathan Schwartz: Authenticity is the fulcrum.
+
+tags: syndicate syndicate conference doc searls
+
+
+===== END ED BOT ESSAY 3303 =====

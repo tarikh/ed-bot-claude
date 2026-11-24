@@ -1,0 +1,336 @@
+===== BEGIN ED BOT ESSAY 4195 =====
+---
+title: Talking with Colleagues About Divisive Topics
+url: https://edbatista.com/2023/11/talking-with-colleagues-about-divisive-topics.html
+slug: talking-with-colleagues-about-divisive-topics
+published: 2023-11-07T22:32:11
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+A theme in my practice in recent years is the leader who's aware that a number of their employees have strong feelings about a divisive topic, often a pressing social or political issue. The leader may or may not share these feelings, and the issues may or may not directly affect the business, but there's an evident gap between what people are feeling and what's being openly discussed. And this state of affairs is creating a sense of uncertainty and discomfort within the organization that could affect the team's working relationships and ability to perform.
+
+This presents the leader with some difficult questions: Should we address the issue? Should we discuss our feelings? If so, where and how would we do that? What's the purpose of such a discussion? What are our goals and objectives? What's the agenda, and how should it be determined? And what role should I play in the process? If you're a leader in this situation, here are some areas to explore and recommendations to consider:
+
+1. Risk
+
+People are often reluctant to address divisive topics in a work setting. Sometimes this is a mistake, because the suppressed feelings may leak out in counterproductive ways. And sometimes this is the right decision, because exploring a divisive topic in a group almost always involves some risk. There's the risk of further inflaming heightened emotions, leaving people more upset and distracted than they were before.
+
+There's the risk of failing to reach any sort of resolution in the time available, leaving people feeling incomplete and frustrated. And there's the risk of open conflict between colleagues, who may find their working relationship damaged. This doesn't mean we should avoid directly addressing divisive topics, but it's important to be aware that such efforts carry risks and to have a plan to mitigate them.
+
+2. Resistance
+
+If you're prepared to address these risks, one of the first steps to take is anticipating resistance from your employees, which can range from mild reluctance to outright refusal. Resistance should generally be viewed as a form of self-protection that stems from anxiety, so it's essential to avoid taking any steps that people might experience as coercive. This will only affirm their anxiety and redouble their resistance. Even if people feel obligated to participate in order to appear compliant, they will remain guarded and wary. At best, the discussion will be an empty, superficial exercise, and you will have lost trust in the process.
+
+This doesn't mean that you must always defer to resistance, but you need to meet it with thoughtfulness and care, not force. And it's surprisingly easy for leaders to be perceived as acting more forcefully than they intended. [1] A little social pressure--a "nudge"--is tolerable, but no one should ever feel "shoved" or compelled to participate in ways that make them feel less safe.
+
+3. Safety
+
+The paradox is that talking about the divisive topic may ultimately make it a safer environment, so it can be worth taking the risk to make the effort. The key is ensuring that people feel as safe as possible along the way, although what is meant by "psychological safety" is often profoundly misunderstood, a topic I've addressed before:
+
+Psychological safety entails candid and direct communication. It requires asking and answering hard questions. It does not mean "being nice." It does not mean avoiding difficult conversations or fraught topics to ensure that no one experiences distress. To the contrary, a setting in which people are reluctant to be candid and direct for fear of triggering any distress in others is psychologically unsafe. [2]
+
+A deep-seated problem with many formal programs intended to address divisive topics in recent years is that they mandate a particular point of view on an issue. Participants are expected to adhere to the officially sanctioned doctrine. Questions are viewed as resistance, and resistance isn't tolerated. As a consequence, these events are little more than theatrical performances. They may enforce compliance, but they never build commitment. [3]
+
+4. Intentions
+
+Sometimes it's our intention to enforce compliance--that's why so many mandatory HR programs are designed the way they are. But if you have other goals in mind for this discussion, it's necessary to clarify those intentions and get people aligned around them. Because of past experience with mandatory HR programs, people may assume that the purpose of the discussion is to obtain (or dictate) a group consensus about the issue. Or they might assume that the goal is to problem-solve and recommend a solution.
+
+But neither of these outcomes is feasible for a meaningful discussion on a divisive issue of any consequence. If you want everyone to be in agreement, you'll get hollow HR theater. And if you think you and your employees need to "solve" a weighty social or political issue, you're setting everyone up for failure and frustration. I'm not suggesting you can't accomplish something important--you can. There's a significant goal within reach for you and your team in almost all circumstances: empathy.
+
+5. Empathy
+
+Medical professor and researcher Theresa Wiseman has explored the concept of empathy because of its importance for nursing and healthcare. She identifies four defining attributes of empathy:
+
+- The ability to see the world as another person sees it.
+
+- The ability to understand another person’s feelings.
+
+- The ability to suspend judgment.
+
+- The ability to communicate this understanding, which is essential "if empathy is to be felt." [4]
+
+Note that empathy is not sympathy, which Wiseman makes clear: "Sympathy involves 'feeling sorry' for the other person or imagining how we would feel if we were experiencing what is happening to them. Empathy differs in that we try to imagine what it is like being that person and experiencing things as they do, not as we would." [5] Similarly, empathy is not agreement, a point I've made previously:
+
+We typically associate empathy with agreement, and we act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [6]
+
+6. Emotions
+
+It's inevitable that this will be an emotional discussion. The primary reason you're having it is your awareness that people have strong feelings about this divisive topic that they're not expressing with colleagues, and you're concerned that if people continue to suppress such feelings it may exacerbate the climate of uncertainty and discomfort. But a critical counterpart to emotional expression is the capacity for emotion regulation. [7]
+
+In almost all professional settings we err on the side of regulation--one way of distinguishing between professional and personal relationships is that the former are usually much more regulated than the latter, and this is an essential feature of most organizational cultures. Cultures are defined by behavioral norms, and in this discussion you're likely seeking to alter the norms that govern emotional expression without suspending them entirely. [8]
+
+It's hard to create an environment that simultaneously invites greater emotional expression while supporting the necessary emotion regulation that will allow everyone to return to work when it's over. Hard, but not impossible, and this is why it's so important to mitigate the risks, meet resistance with understanding, and work to ensure safety. These are the conditions under which people are willing to be vulnerable, and expressions of vulnerability in a safe environment are the most reliable means of evoking empathy. [9]
+
+7. An Invitation
+
+If you're ready to proceed, consider the collective capacity of your team to handle such a discussion, and ask your key leaders to share their impressions. If you and your leaders are in sufficient agreement, initiate your efforts by extending an invitation, and asking people if they'd like to join you in a discussion. Make it opt-in and not mandatory, and make it clear that people are truly free to opt out, and that no one is obligated to attend. As I note above, it's fine to "nudge" people to attend, but no one should feel "shoved"--this will make it a safer environment for everyone.
+
+Convey your intentions in this invitation. The goal is not to obtain consensus or to get everyone to agree on any particular position. The goal is not to "solve" the problem. The goal is empathy. This will require people to make disclosures, to explain the world as they see it, and to talk about their feelings. This will require listening to understand those feelings, and the suspension of any judgments that may arise along the way. This will require expressing that understanding, in words that ensure that others feel heard. This will not require agreement. Setting these expectations will help people decide how and whether to participate, and will enable them to aim toward a successful outcome.
+
+8. The Agenda
+
+Consider how you want to develop the agenda. You could simply craft it and present it to your employees--this will be simplest, but it may also be a missed opportunity to build commitment. An alternative could be to invite the most interested members of your team to join you in a working session to co-create the agenda. This will also help ensure that you surface ideas about what people would like to do with the time, rather than simply making assumptions about what they think would be best. Yet another option would be to conduct a survey to gather input. However you determine your agenda, circulate it in advance. This will also help people determine whether and how to participate, and will make it feel safer by giving people visibility into what will happen.
+
+9. Logistics
+
+- Timing: You don't want people to feel rushed, and you don't want it to last too long. An hour is probably the minimum, but two will probably feel taxing--90 minutes may be a good compromise.
+
+- Configurations: Consider having people participate in multiple configurations over the course of the discussion, such as pairs or small groups, in addition to the full group. This is one area in which working virtually on a platform like Zoom offers advantages, because you can move people into pairs or small groups and back into the main room very easily. The pairs and small groups can be assigned in advance, or chosen by the participants, or selected at random, but you'll want people to be prepared for the process.
+
+- Facilitation: The presence of an outside facilitator for such a discussion has pros and cons. They're not a member of the organization, which may make people feel less safe, but they may also be perceived as a source of expertise. Their presence will enable you to participate more freely, but if you're not aligned you may get in each other's way. I encourage clients to consider facilitating such discussions themselves, while recognizing that at times it's valuable to have an experienced partner.
+
+10. Next Steps
+
+Finally, be prepared to think of this as an ongoing dialogue, not necessarily a one-time event. The feelings evoked, both positive and negative, may not be fully resolved in a single session. There may be an appetite, and even a need, to continue the conversation. Consider how much time and energy you'll be able to devote to this effort, if any, beyond an initial discussion.
+
+ 
+
+This is a companion piece to Talking With Colleagues About Suffering.
+
+Footnotes
+
+[1] The Blue Problem (Communication and Power)
+
+[2] Safety Is a Resource, Not a Destination
+
+[3] Compliance vs. Commitment (On Behavior Change)
+
+[4] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[5] Ibid.
+
+[6] The Difficulty of Empathizing Up
+
+[7] The Tyranny of Feelings
+
+[8] Group Dynamics: Norms and Emotion
+
+[9] Brené Brown, Vulnerability, Empathy and Leadership
+
+ 
+
+For Further Reading
+
+CONNECTIONS: Meaningful Virtual Conversations
+
+ 
+
+Photo by Adam Cohn.
+
+
+===== END ED BOT ESSAY 4195 =====
+===== BEGIN ED BOT ESSAY 4196 =====
+---
+title: My Appearance with Daniel and Greg at OnGrowth
+url: https://edbatista.com/2023/10/my-appearance-with-daniel-and-greg-at-ongrowth.html
+slug: my-appearance-with-daniel-and-greg-at-ongrowth
+published: 2023-10-18T12:11:10
+updated: 2025-10-04T13:43:31
+source_body: wordpress-html
+---
+
+Serial entrepreneur Daniel Kivatinos and founder and Stanford PhD Greg Wientjes have hosted the OnGrowth podcast since 2017, and I was honored when they asked me to join them recently. It was a really fun conversation that covered a wide range of topics: my career at Stanford as an MBA student and Lecturer, the launch of my coaching practice, the difference between coaching and therapy, challenges faced by leaders in my practice, and what it's like to work with me. Our 60-minute conversation is available on the following platforms:
+
+- YouTube
+
+- Apple Podcasts
+
+- Google Podcasts
+
+- Spotify
+
+Many thanks to Daniel and Greg for having me, and to the mentors and colleagues I mentioned: Andrea Corney, Carole Robin, David Bradford, Evelyn Williams, Garth Saloner, Mary Ann Huckabay, Rebecca Zucker, Ricki Frankel, Scott Bristol, and Vince Stehle. Thanks as well as the 1,000+ Stanford MBAs I had the honor of working with from 2007 to 2021.
+
+
+===== END ED BOT ESSAY 4196 =====
+===== BEGIN ED BOT ESSAY 4197 =====
+---
+title: Talking with Colleagues About Suffering
+url: https://edbatista.com/2023/10/talking-with-colleagues-about-suffering.html
+slug: talking-with-colleagues-about-suffering
+published: 2023-10-15T16:05:12
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader who's aware or senses that a colleague is suffering and would like to offer support but is unsure how to broach the topic--and a version of this occurs in my own work. In most cases when a client is suffering in some way our coaching sessions provide them with a setting in which they can express those feelings freely. But at times it's clear to me that a client is suffering and yet it's not the focal point of their agenda, or even on the agenda at all.
+
+It's not my place to determine our agenda--that's the client's job--but it's not uncommon for people to want to talk about something while also feeling ambivalent about raising the topic. If I ignore my intuition and defer to their stated agenda, we might miss a meaningful opportunity. And yet the client must always feel a sense of agency in our work together.
+
+It's complicated, but at least I have the benefit of being a coach, and in my relationships with clients it's expected that at times we'll explore troubling and even painful topics. But my clients may not have that kind of social contract with their colleagues, making it hard to know how to proceed when they sense that a co-worker is suffering. If you're in this situation, here are some suggestions:
+
+Take the Initiative
+
+Some people prefer to suffer in private, or they may be reluctant to discuss it with colleagues. They may resist or even resent our efforts to address the topic, and we should be careful to avoid "inflicting help." [1] But most of us tend to err on the side of caution, and while we tell ourselves we're "being sensitive," this also reflects our fear and anxiety. We're afraid that our efforts will be rebuffed, and we'll feel embarrassed. So instead we sit back and wait, hoping that when they need our help they'll ask for it.
+
+Sometimes this is true...and sometimes it's not. The suffering person may in fact feel embarrassed themselves, and they may want us to relieve them of the burden of initiating the conversation. They may wonder if we see their suffering at all, or if we even care. Or they may conclude that this isn't the kind of relationship, or the kind of company, where we talk about such things.
+
+So find the courage to take the initiative. This will be fraught, and it will feel risky, and sometimes you'll get it wrong. But you'll only improve your ability to sense the right time and to find the right language with practice. [2] Extend the invitation, and don't be discouraged if it isn't accepted at first. Try again later. Don't insist--the other person has to feel in control--but by signaling your interest you make it easier for them to respond when they're ready.
+
+Normalize Vulnerability
+
+Acknowledging suffering often evokes a sense of vulnerability in both parties. This is almost certainly true for the person who's suffering, who may believe that such acknowledgment is a form of weakness that will leave them feeling exposed and unsafe. They may worry that they'll be seen as less competent or capable, or that they'll be considered "emotional," a liability in many professional settings.
+
+But this is also likely true for the leader seeking to offer support, particularly when it's unclear if such support will be welcome. The leader may lack experience in having these conversations, or this may be a new frontier in their relationship with this individual. Or the person's suffering may be apparent while the underlying cause is unknown, compounding the leader's uncertainty about whether or how to proceed.
+
+The paradox is that in most settings expressions of vulnerability trigger an empathetic response, a mechanism that may be rooted in our evolutionary psychology. [3] This isn't guaranteed, of course, and it's necessary to take small steps at first and read the signs with care. A starting point is conveying any trepidation you might feel and letting the other person know that it's OK if they feel similarly.
+
+Understand What's Needed
+
+Leaders often rise to their position on the basis of their effectiveness as problem-solvers, and that's an identity as much as a skillset. In some circumstances colleagues are seeking a solution that will solve the problem, but much of the time there's none to be found, or at least not one that the leader can provide. This is certainly true of our greatest difficulties--a grievous illness, the loss of a loved one, a global crisis. [4]
+
+If you find yourself in such a discussion there are many ways to offer useful help and support, but it's important to understand what the other person actually wants. Even when you don't have a definitive solution, they may still value your advice on how to address or think about the problem. But note the tendency of problem-solvers to offer advice, even when it hasn't been asked for.
+
+Before jumping in to share your perspective, be sure to slow down and listen. The experience of truly feeling heard is surprisingly rare in organizational life, where people often listen in order to reply. Put your advice on hold, at least until it's requested, and just be fully present. You may find that this is sufficient.
+
+And you may also find that something more is called for, even--and perhaps especially--when there's no advice to give and listening isn't enough. The other person may simply need a literal or virtual hug, which can be daunting territory to navigate in organizational life. While it's essential to be aware of and respect another person's boundaries, we can be so cautious about avoiding offense that we inadvertently appear callous. Tone of voice and body language can go a long way toward expressing the sentiment. A murmur, a sigh, a moment of silence, or holding our hand to our chest can speak volumes.
+
+Why Bother?
+
+All of this work is easier if we take steps early in our professional relationships to lay a foundation for more meaningful dialogue later on. One of the most straightforward ways for a leader to accomplish this is by scheduling regular one-on-ones with direct reports, honoring that commitment by minimizing cancellations or rescheduling, and ensuring that employees feel a sense of ownership over the agenda. [5] And yet it will still require effort and a modicum of risk, and a leader may well ask, Why bother?
+
+One very pragmatic reason is that people who are suffering are incapable of doing their best work. They may be in the grip of a threat response, aka a "fight, flight or freeze response," which will impair creative thinking and render them more risk-averse and prone to distraction. [6] Talking about their distress and anxiety can play a significant role in helping them manage these feelings, enabling them to redirect their focus to other matters. [7]
+
+I would add that our professional relationships have the potential to be sources of belonging and connection [8], not merely vehicles for value creation, and we realize this potential fully only when we're willing to have hard conversations. This doesn't mean that companies are "families"--I agree with Shopify CEO Tobias Lütke that this is an inappropriate metaphor, and that colleagues are best-served by viewing each other as fellow members of an elite team who earn their positions by virtue of their performance. [9]
+
+Cultivating the ability to have hard conversations about suffering develops a set of skills that are equally valuable in hard conversations about performance: the courage to speak up, a sense for the right timing and the right language, comfort with vulnerability. This is yet another reason why "accountability and empathy are not mutually exclusive." [10]
+
+ 
+
+This is a companion piece to Talking with Colleagues About Divisive Topics.
+
+Footnotes
+
+[1] Inflicting Help
+
+[2] Conscious Competence in Practice
+
+[3] Forget Survival of the Fittest: It Is Kindness That Counts (Dacher Keltner interviewed by David DiSalvo, Scientific American, 2009)
+
+[4] This section is adapted from What Do You Need Right Now? (Advice, Listening, A Hug?).
+
+[5] How to Have Better One-on-Ones
+
+[6] Neuroscience, Leadership and David Rock's SCARF Model
+
+[7] Talking About Feelings
+
+[8] Abilene: Loneliness and Belonging in Organizational Life
+
+[9] Shopify CEO email to managers: We are not a family (Tobias Lütke, internal email, 2020, shared by Lukas Naugle, LinkedIn, 2021)
+
+[10] Accountability and Empathy (Are Not Mutually Exclusive)
+
+ 
+
+Photo by Christopher Matson.
+
+
+===== END ED BOT ESSAY 4197 =====
+===== BEGIN ED BOT ESSAY 4198 =====
+---
+title: Fear of the Empty Chair, Part 3 (On Attrition)
+url: https://edbatista.com/2023/10/fear-of-the-empty-chair-part-3-on-attrition.html
+slug: fear-of-the-empty-chair-part-3-on-attrition
+published: 2023-10-08T19:37:17
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+In Fear of the Empty Chair, Part 1, I discuss the factors that cause leaders to mistakenly delay a necessary termination. In Part 2 I explore why leaders rush to fill an empty role when they should actually slow down. Here I address a third, related situation in which a leader's misplaced concerns can contribute to suboptimal outcomes: the unwanted departure of a valued employee, which I'll call attrition.
+
+Leaders strive to avoid attrition for understandable reasons. Valued employees represent a substantial investment of time and effort, ranging from recruiting and hiring to onboarding, training, and management. They possess hard-earned institutional knowledge. And they've demonstrated their trustworthiness and sound judgment.
+
+So a theme in my practice is how a leader can retain valued employees in order to ensure that the organization will continue to benefit from these qualities. But such retention efforts can go awry when a leader is so concerned about a potential departure that they make choices they later regret. What issues tend to arise in these circumstances, and if you're in a similar situation, what can you do about them?
+
+Fighting Inflation
+
+When a leader learns that a valued employee is thinking about leaving, they may feel that they're in a negotiation that they must win, and their response is to offer more: a bigger compensation package, a higher-status title, a broader scope of responsibilities.
+
+In many cases these negotiations conclude successfully, and leader and employee resume their productive partnership, albeit on modified terms. But sometimes that "must-win" attitude causes a leader to offer too much. They retain the employee, but on inflated terms: a compensation package dramatically higher than the employee could command elsewhere, a title that outstrips their real level of expertise or authority, responsibilities that they're unable to truly fulfill.
+
+If you're a leader in this position, what can you do? How can you fight inflation? The first step is assessing your attitude toward the negotiation. Roger Fisher and William Ury, founders of the Harvard Program on Negotiation, suggest an approach to ensure that you don't "win" a negotiation on inflated terms:
+
+The reason you negotiate is to produce something better than the results you can obtain without negotiating. What are those results? What is your BATNA--your Best Alternative to a Negotiated Agreement? That is the standard against which any proposed agreement should be measured. This is the only standard which can protect you both from accepting terms that are too unfavorable and from rejecting terms it would be in your interest to accept... If you have not thought carefully about what you will do if you fail to reach an agreement, you are negotiating with your eyes closed. [1]
+
+When you take a "must-win" approach, you assume that you have no BATNA, increasing the likelihood that you'll retain your employee on inflated terms. You'll "win" today but may well lose in the long run. I'm not suggesting that you make no effort to retain a valued employee, but, rather, that you reassess your options and calibrate the terms on offer accordingly. You may well find that what your employee really wants are other "currencies" that are less subject to inflation. [2]
+
+Short-Term Pain vs. Long-Term Pain
+
+As was the case in Part 1 and Part 2 of this series, a challenge leaders face when they learn that a valued employee is considering a transition is the assumption that the short-term pain will be greater than the long-term pain. This belief is at the root of a leader's assumption that they have no BATNA and must avoid attrition at all costs, so it's necessary to challenge its accuracy.
+
+Seeing a valued employee leave will undoubtedly cause short-term pain in a variety of ways: the loss of their individual capabilities, a potentially expensive and time-consuming search, the prospect of a gap in continuity, and important work going undone. But leaders sometimes fail to appreciate that their efforts to avoid short-term pain may make the long-term pain even worse.
+
+Retaining an employee on inflated terms can have far-reaching effects. Compensation packages don't always remain confidential, and when significant discrepancies come to light other employees will be rightfully upset. Titles are by definition visible, and raising one person's status can make others feel that they've been demoted, triggering a cascade of discontent. [3] And employees who are "over-scoped" tend to under-perform, making it necessary to level them [4] or manage them out. [5]
+
+If you're a leader facing the departure of a valued employee, balance the value of their retention against the costs of the means required to do so. And some of these costs may not be evident for a length of time, requiring you to project into the future and think well beyond this specific individual.
+
+Irreplaceable?
+
+The anxiety leaders experience in the face of attrition is exacerbated when they imagine that the employee is "irreplaceable" in some way, and on occasion this fear has merit. I've worked with many leaders whose valued employees included co-founders, personal friends, or family members. Those unique individuals couldn't be replaced, nor could the unique relationships the leader enjoyed with them. Leaders may also view an employee as truly mission-critical, fearing that their departure would permanently impair company performance or even, in extreme cases, cause it to fail.
+
+If you're a leader facing the departure of someone you're close with, I appreciate your desire to avoid the loss of that person and your working relationship with them. And yet in my experience it's vital that a leader grow more comfortable with the inevitability of such departures. You can't replace unique individuals, but accepting that colleagues will come and go over time allows both you and the organization to be more adaptable in the face of change.
+
+More generally, if you're concerned about company performance I'm not in a position to tell you that your anxiety is misplaced. It's conceivable that a particular employee is so essential to your business that you'll struggle to succeed without them, especially if you're at a very early stage of development. Should they depart, there will be some short-term pain, to be sure. But I launched my coaching practice in 2006, and I've never seen a company fail because of the departure of any one individual. I've concluded that organizations are often far more resilient than leaders think they are.
+
+Optics
+
+Even when leaders recognize that a valued employee isn't irreplaceable, they may be concerned about how a departure will be perceived by fellow employees, customers, investors, and other stakeholders. Leaders are right to pay close attention to the potential optics, as I wrote in Part 1 of this series, on terminations:
+
+Perceptions matter, particularly for a growing company that may be facing a great deal of uncertainty. In this context leaders must attend closely to the narratives that surround the company and actively shape them through storytelling... The departure of an employee contributes to a company's narrative and may well be perceived negatively, particularly if they're a senior executive or have strong relationships with other employees or external stakeholders.
+
+This is even more pertinent with attrition, and an unwanted departure may well raise questions about the company's future prospects and your capabilities as a leader. But the solution may not be to induce the person to stay--again, the costs may outweigh the benefits. As with terminations, the key is agreeing upon a shared public narrative that helps others make sense of this potentially troubling development, and this is generally easier to accomplish in the case of attrition.
+
+The narrative shouldn't be false or misleading, but it will focus on certain reasons for the employee's departure at the expense of others. This allows the narrative to serve both parties' purposes, but it's also a function of the fact that all public discourse has a limited capacity for nuance and complexity. A shared public narrative must be true, but it need not encompass the whole truth.
+
+The Risk of Changing Minds
+
+Optimally a leader has some awareness that a valued employee is considering a transition, enabling them to intervene before any decisive commitments have been made. But sometimes a leader is completely surprised by an employee's sudden resignation or announcement of a new position. This may prompt a frantic effort to undo what's been done.
+
+Not only is this likely to yield inflated terms, but there's also an inherent risk in trying to change someone's mind here. The employee was reluctant to be candid with the leader, or the leader was oblivious to the employee's discontent, or both. Reversing course won't necessarily change the circumstances that led to this outcome. I'm not suggesting that you should never try to talk someone out of leaving if they've tendered their resignation or accepted another role, but you should be circumspect about the possibility that it might happen again.
+
+When a departure is unavoidable, the leader may seek to negotiate a lengthy transition. This can offer some benefits, but it will also come at a cost. Even a well-meaning employee will find it difficult to give best effort beyond a reasonable length of time, and people underestimate how quickly and dramatically motivation and power dynamics can change once an impeding departure has been made public. If you're a leader in this situation take care not to pressure a departing employee to agree to a transition period that's too long.
+
+An Ounce of Prevention...
+
+...is worth a pound of cure, as an astute letter-writer observed in one of Benjamin Franklin's newspapers. [6] Similarly, while efforts to "cure" unwanted departures can be quite expensive and even counter-productive, efforts to prevent them in the first place are generally much more economical. What does this look like in practice?
+
+At the individual level, as a leader you should know the extent to which each of your direct reports are satisfied with their responsibilities, their compensation, and all other aspects of their role. Barring a sudden, unexpected change in an employee's life that may impact their feelings about work, if you're surprised to learn that a direct report is "loose in the socket," that's a managerial failure.
+
+This is one reason not to have too many reports--while some employees will openly express dissatisfaction, many will not, and the leader needs to create the conditions for a more candid dialogue and actively inquire about an employee's fulfillment (or lack thereof.) The best means to accomplish this is holding regular one-on-ones that go beyond a tactical agenda and make sufficient room for an employee's concerns. [7]
+
+At the team level, you should have a contingency plan for the potential departure of any given member. This involves maintaining a network of potential candidates, relationships with search firms, and an up-to-date assessment of skip-levels' capacity to replace their manager on an interim or permanent basis. And at the organizational level, a more strategic approach to People leadership can help a company increase retention, raise awareness of impending departures, and be better prepared to replace outgoing employees. [8] You should certainly strive to retain valued employees, but you need not live in fear of the empty chair.
+
+ 
+
+This is a companion piece to the following:
+
+Fear of the Empty Chair, Part 1 (On Terminations)
+
+Fear of the Empty Chair, Part 2 (On Hiring)
+
+Footnotes
+
+[1] Getting to Yes: Negotiating Agreement Without Giving In, page 100 (Roger Fisher and William Ury, 1992)
+
+[2] Currencies (On Motivating Different People)
+
+[3] Very Cheap, Then Very Expensive (On Job Titles)
+
+[4] The Fine Art of Levelling
+
+[5] Merciful Exits (On Under-Performing Executives)
+
+[6] On Protection of Towns from Fire (The Pennsylvania Gazette, published by Benjamin Franklin, 1735)
+
+[7] How to Have Better One-on-Ones
+
+[8] The Truly Strategic People Leader
+
+ 
+
+Photo by Votchitsev Viacheslav.
+
+
+===== END ED BOT ESSAY 4198 =====

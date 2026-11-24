@@ -1,0 +1,514 @@
+===== BEGIN ED BOT ESSAY 4059 =====
+---
+title: How to Deliver Critical Feedback
+url: https://edbatista.com/2020/07/how-to-deliver-critical-feedback.html
+slug: how-to-deliver-critical-feedback
+published: 2020-07-19T12:56:25
+updated: 2025-10-06T17:50:28
+source_body: wordpress-html
+---
+
+Critical feedback is essential in improving professional performance, but all too often the ways we think about and provide feedback are inadequate or even counter-productive:
+
+- We call feedback "a gift." (It's not.) [1]
+
+- We think anonymous feedback is preferable. (It's not.) [2]
+
+- We fail to appreciate how stressful feedback can be. (It is.) [3]
+
+So if we want our critical feedback to be truly useful to the recipient and not merely an exercise in self-indulgence, we owe it to our colleagues to be more thoughtful and intentional in how we deliver it. A valuable model in this context is known as "supportive confrontation," developed by David Bradford [4] and Allan Cohen and discussed at length in their book Power Up. [5] It involves a series of three escalating approaches to feedback conversations, followed by a fourth step that should be included in most circumstances:
+
+- This is the effect of your behavior on me.
+
+- Your behavior is not meeting your apparent goals or intentions.
+
+- Your behavior may meet your goals, but it is very costly to you.
+
+- In what ways am I part of the problem?
+
+But before we consider how to deliver our feedback, it's worth asking why we're motivated to provide it in the first place. As Peter Block has noted, "the wish to get others to be different is a wish to control them, which in itself creates its own resistance," and I see this dynamic frequently in my coaching practice. [6] Organizational life is sometimes nothing more than a series of power struggles, with leaders and employees alike striving to exert control as a means of easing their anxiety. This doesn't imply that our critical feedback for a colleague is invalid or inaccurate--but such feedback does reflect a wish on our part for them to be different, and we should be honest with ourselves about the extent to which this is influenced by our need for greater control in this particular relationship.
+
+In addition, much critical feedback stems from differences in working styles, and as Bradford and Cohen note, "There is nothing inherently superior about one style of behavior or the other; in fact, diversity is required for high performance in a complex, interdependent world. One style can be useful for some problems and limiting for others." [7] While our preferred style may in fact be more effective in a given situation, we should also be honest with ourselves about the extent to which our critical feedback may simply reflect our preference for behavior that feels familiar and comfortable. As I wrote recently, "feedback always says as much about the giver as the recipient. It's filtered through their reality-distortion fields, reflecting their personal values and priorities." [8] In some cases we may be best served not by seeking to change the other person's behavior through feedback, but by letting go of our preferences and recognizing the value of a wider range of working styles. [9]
+
+All that said, there are obviously many circumstances in which critical feedback is necessary if we are to effect change in our working relationships and help colleagues achieve their professional goals, and in these situations I find Bradford and Cohen's framework immensely useful. Section 1 below discusses a range of concepts at length, while Sections 2-4 provide shorter additions to the model, followed by a 12-point summary.
+
+1. This Is the Effect of Your Behavior on Me
+
+The first step in supportive confrontation involves the simplest feedback model: When you do [X], I feel [Y].
+
+It's important to be specific about behavior [X], rather than speak in broad generalities. In some cases this is best accomplished by providing feedback promptly, so that the details are more easily recalled and agreed-upon by both parties. In the absence of a shared understanding of the specific behavior, feedback conversations can devolve into arguments about what did or did not occur. However, note that situations that result in critical feedback often trigger strong emotions, and, further, feedback conversations themselves can feel threatening, particularly when we don't have them regularly. [10] When we're in the grip of such feelings our ability to communicate effectively can be impaired--this applies to both the feedback giver and the recipient--so it may be preferable to allow some time to elapse before initiating the conversation.
+
+It's equally important to be specific regarding emotion [Y], which sounds easy but can be surprisingly difficult in the moment. We may lack a precise word for the relevant feeling, or the other party's definition for that emotion may not be the same as ours, increasing the risk of misunderstanding. So it can be very useful to expand our emotional vocabulary, particularly if our family, our cultural background, or our education and training haven't emphasized a wide range of nuanced feeling-words. [11]
+
+There are several reasons for disclosing our feelings in this model. First, emotions are attention magnets--their fundamental purpose is to orient us to potential threats and opportunities, so when we employ the appropriate feeling-words (neither too strong nor too weak) our feedback will automatically capture and hold the other party's interest. Also, disclosing our emotions is less likely to evoke a defensive response than making attributions about the other party's motives. As David Bradford and Mary Ann Huckabay have written:
+
+Most of us act like amateur psychologists in that we try to figure out why others act as they do. If you interrupt me (a behavior) and I feel annoyed (the effect on me), I try and understand why you would do that. So I make an attribution of your motives (it must be that you are inconsiderate)...
+
+As common as this attribution process is, it also can be dysfunctional. Note that my sense-making is a guess. That is my hunch as to why you act the way you do. I am "crossing over the net" from what is my area of expertise (that I am annoyed at your behavior), to your area of expertise (your motives and intentions). My imputation of your motives can always be debated, ("You don't listen." "Yes, I do." "No you don't.") whereas sticking with my own feelings and reactions is never debatable. ("I felt irritated by your interruption just now." "You shouldn't feel that way because I didn't mean to interrupt you." "Perhaps not, but I feel irritated nonetheless.") [12]
+
+So when we "cross the net" and guess at the other party’s motives, we create a plausible explanation that helps us understand their behavior, but we run the risk of being wrong--a risk that's heightened when we're in the grip of strong emotions. And if we do guess wrong, the other party will feel misunderstood, and our feedback will be perceived as unfair or inaccurate, resulting in defensiveness. The solution is to "stay on our side of the net" and stick with what we know--how we feel in response to the other party's behavior--and avoid making guesses about their motives or intentions.
+
+Note that in English we commonly use "I feel..." statements not to express emotion, but to assert beliefs as if they were facts. When "I feel..." is followed by "like..." or "that..." the resulting disclosure is not an emotion, but an assertion, which may or may not be true. "When you show up late to our meetings, I feel like you don't care" is not an expression of emotion--it's an asserted belief about the other person's state of mind. The key is to always follow "I feel..." with an actual emotion. "When you show up late to our meetings, I'm unsure about your commitment, and I feel disappointed and irritated."
+
+But there are several caveats to the use of emotions in this context. First, although emotions are attention magnets, note that magnets can repel as well as attract. Three lessons I learned from Scott Bristol, one of my mentors at Stanford, are relevant here:
+
+- Expressions of anger readily capture our attention because they signal a potential threat, but we generally turn away from others' anger and distance ourselves from it as soon as possible to manage our distress.
+
+- In contrast, we turn toward most expressions of vulnerability, such as fear and hurt.
+
+- Most expressions of anger are manifestations of a deeper (and often unexpressed) fear or hurt. [13]
+
+We often lack experience in expressing vulnerability in organizational life, and it may feel awkward or risky to do so. The key is to "translate" our feelings into language that conforms sufficiently to the surrounding organizational culture while still making use of the concepts noted above. As I've written before:
+
+"Vulnerability" comes in an endless number of forms, and each culture has a set of norms that define acceptable expressions of vulnerability by a leader. If you deviate too far from these norms, the culture won't be able to accommodate your behavior--and if all you do is conform to those norms, you'll fail to help the culture evolve and will miss opportunities to take advantage of your prior training. The key...is to conform just enough. [14]
+
+This is where a more subtle emotional vocabulary can be particularly useful. It may feel too heavy-handed to express "fear" or "hurt," but "concern" or "disappointment" may be just right. And while expressions of anger should always be handled with care, "irritation" or "frustration" will likely be more than sufficient. (Note that the challenge isn't coming up with these terms now, while you're reading this, but in the heat of the moment, when you're delivering your feedback. Practice helps.)
+
+Finally, it's important to recognize that even though we can accurately report on our feelings, we shouldn't assume that the other party will necessarily care--nor should they feel obligated to. While I firmly support the movement over the last century toward a more humane, empathetic approach to management, and I believe that empathy is essential in good working relationships, I'm equally firm in asserting that empathy is not agreement:
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [15]
+
+Emotions do not justify themselves. Our concern, disappointment, irritation or frustration may be entirely misplaced, and we should not expect others to respond to our feedback simply because it incorporates our feelings. If we want to effectively leverage the power of emotion to motivate others to respond to critical feedback, we have a responsibility to invest in the relationship--a process that begins well before the need for a feedback conversation. If we want them to care about our feelings, they have to know that we care about theirs.
+
+2. Your Behavior Is Not Meeting Your Apparent Goals or Intentions
+
+But even the most carefully constructed critical feedback may be insufficient to motivate change, particularly if the other party isn't interested in our feelings or views them as unjustified. The next step in Bradford and Cohen's framework is to identify and reference the other party's goals:
+
+The second approach to supportive confrontation is to show the other person how the particular behavior does not help advance his or her interests. That is powerful leverage for change. Most behavior is goal directed, intended to produce a desired result. A person who is behaving in a way that fails to achieve those results is more likely to take feedback seriously. [16]
+
+One of the underlying drivers here is the powerful impulse to appear consistent with our stated commitments. As psychologist Robert Cialdini has noted, "most people, once they take a stand or go on record in favor of a position, prefer to stick to it. Other studies reinforce that finding and go on to show how even a small, seemingly trivial commitment can have a powerful effect on future actions." [17] In part this is the result of cognitive dissonance, a psychological state first described by Leon Festinger:
+
+If a person knows various things that are not psychologically consistent with one another, he will, in a variety of ways, try to make them more consistent. Two items of information that psychologically do not fit together are said to be in a dissonant relation to each other. The items of information may be about behavior, feelings, opinions, things in the environment and so on... Cognitive dissonance is a motivating state of affairs. Just as hunger impels a person to eat, so does dissonance impel a person to change his opinions or his behavior. [18]
+
+Illustrating how the other party's behavior is at odds with their stated goals can be a powerful motivator--when we're aware of those goals and our knowledge is accurate and up-to-date. A challenge for leaders is that they often assume they understand an employee's goals without knowing much about what the employee truly cares about. So it can be helpful to restate our understanding of the other party's goals or to simply ask for clarification. At the same time, the other party may not fully understand our goals in providing them with critical feedback, particularly if this isn't a routine practice. As I've written elsewhere, "Our intent is transparent to us, so we assume that it's equally clear to others and that our message is being received in that same spirit." [19] A candid exploration of both parties' goals can be profoundly illuminating.
+
+3. Your Behavior May Meet Your Goals, But It Is Very Costly to You
+
+In some cases the other party's behavior enables them to achieve their goals, but at a cost that goes well beyond our negative emotional response. Or they may achieve short-term goals at the expense of longer-term goals that are apparent to us but not to them. For example, we may be less willing to collaborate with them or less open to their influence in the future. We may doubt their trustworthiness or their integrity, and other colleagues may have a similar reaction. As Bradford and Cohen note, "A poor reputation is very costly." [20]
+
+If the other party remains unmoved by our initial feedback and views it as the unavoidable consequence of accomplishing their goals, we may be able to evoke a degree of cognitive dissonance and motivate change by disclosing these additional costs, although this should be done with great care. It's all too easy for this to be perceived as a counter-productive threat or to put us in the position of either speculating about others' reactions or violating their confidentiality.
+
+I frequently see this in my practice when a leader has critical feedback for an employee who is pursuing their personal goals while failing to appreciate the negative consequences for other colleagues or for the organization. In some cases this results from the employee's peers or direct reports sharing their own critical feedback with the leader because they're reluctant to share it directly with the employee. The leader can easily amplify their initial feedback by sharing this broader perspective or disclosing additional data from colleagues, but this requires a great deal of subtlety and tact. A challenge is that this can easily trigger a threat response--often called a "fight, flight, or freeze response"--which inevitably hampers effective communication.
+
+The key here is psychological safety--when the other party feels sufficiently safe, we can raise the stakes in a feedback conversation by discussing the hidden costs of their behavior without overwhelming them, which Bradford and Cohen implicitly acknowledge:
+
+Diagnosing the many negative consequences doesn’t require that they all be dumped on the other person at once. It is best to reveal the minimum number of consequences that will motivate the other to enter into joint problem-solving. But knowing many different costs provides more potential sources of influence leverage, so one can escalate as needed. [21]
+
+A useful framework in this context is David Rock's SCARF Model, which identifies the potential sources of "social threat"--interpersonal experiences to which we respond as if they pose a literal threat to our physical safety. [22] I've written previously about how leaders can make use of the SCARF Model to create a safer environment when seeking to promote change [23], and those same principles can be applied here:
+
+- Status: The mere act of offering feedback can be perceived as diminishing the other party's status, so we should take care not to inadvertently bolster our own through behavior (such as interrupting) or other symbols (such as physical location or even camera angles, when meeting virtually.)
+
+- Certainty: While small talk serves an important function [24], uncertainty about the nature of the feedback and its consequences can be diminished by getting to the point without being unduly abrupt. This is easier when we hold feedback conversations on a consistent basis and when critical feedback is expected rather than surprising.
+
+- Autonomy: The other party should feel a sense of agency, which we can heighten by determining that they're truly ready to hold the conversation, by giving them a degree of choice in its timing, and by ensuring that they feel free to take a break if necessary. Merely asking, "Can I give you some feedback?" is insufficient here, particularly if we're in a leadership role. Almost everyone will automatically answer "Yes" whether that's true or not.
+
+- Relatedness: This refers to the extent to which we view others as members of the same social group, and offering feedback can heighten the sense of "social distance" between ourselves and the other party. This gap can be closed by emphasizing points of connection, such as shared interests or a common identity as employees, but these efforts can seem inauthentic in the short run. The only real solution is to convey our interest in the other person by actively investing in the relationship over time.
+
+- Fairness: Critical feedback will often be perceived as unfair or unjust, resulting in defensiveness, and one way to mitigate this is to avoid making assumptions and attributions and to stick with our internal response--to "stay on our side of the net," as noted above. But this is difficult when the costs of the other party's behavior involve the reactions of other colleagues, as Bradford and Cohen acknowledge: "Reporting the reactions of other colleagues can be helpful and motivating by making the wider costs clear, but it can also be abused if the response is a demand to know 'Who else said that?' [25] Assuming that we're not speculating about our colleagues' responses and we feel precluded from violating their confidentiality, we can simply encourage the other party to actively seek additional feedback elsewhere. And while I have a number of concerns about anonymity, when other colleagues have extensive critical feedback but are unwilling to share it--presumably due to their own lack of psychological safety--an anonymous 360 may be necessary. [26]
+
+4. In What Ways Am I Part of the Problem?
+
+All behavior is adaptive, and when we encounter behavior we view as problematic we should get curious about what the other party is adapting to--it may be us. So even in a conversation in which critical feedback has been accepted without defensiveness and amicable agreement has been achieved, it's worth including this step in the process. And in cases where steps two and three above have proven unsuccessful this step is absolutely essential.
+
+As Bradford and Cohen note, people don't operate in a vacuum: "Conventional discussion of behavior places its causes completely within the individual... But for most people most of the time, interactions with others heavily influence behavior." [27] This is particularly important when a senior leader has critical feedback for a subordinate, a common topic in my practice. As I once noted, "Powerful, charismatic leaders are like weather systems. They change the atmosphere, and people around them adjust accordingly." [28] Further, power can cause leaders to act more impulsively with fewer inhibitions. [29] These dynamics allow leaders to have significant influence in shaping the environment around them, but as a result it is necessary to recognize that undesirable behavior on the part of others may actually be an unintended consequence of the leader's own influence.
+
+Taking responsibility for our contributions can dramatically shift the tone of an otherwise contentious conversation, not only because the other party may appreciate our concession, but also because both parties are now free to acknowledge the others' influence, allowing for a much more thorough analysis of the factors underlying the problematic behavior. As Bradford and Cohen conclude:
+
+If either party to an interpersonal dispute that is being mutually reinforced can identify the pattern of reinforcement, that frees both of them to explore it. Naming it helps change the discussion from blame to problem solving about how to halt the pattern. [30]
+
+In Summary
+
+- Honestly assess your need for control in this relationship and your comfort level with working styles that may be different than yours or unfamiliar to you.
+
+- Invest in the relationship over time, convey your positive intentions, and earn the right to offer critical feedback.
+
+- Find the right moment--allow enough time to pass for heightened emotions to diminish, but not so much time that it becomes difficult to recall the details.
+
+- Describe the situation that triggered the feedback in terms that the other party will acknowledge as accurate and that focus on specific behaviors rather than general personality.
+
+- Describe your emotional response in terms that the other party will comprehend and that will be sufficiently consistent with the surrounding culture (of the organization and the relationship).
+
+- When you do [X], I feel [Y].
+
+- Stay on "your side of the net" by disclosing your emotional response and avoiding assumptions about their motives or intentions.
+
+- But bear in mind that "I feel like..." and "I feel that..." will convey beliefs and theories, not emotions.
+
+- Be sure you have an accurate and up-to-date understanding of the goals their behavior is intended to achieve.
+
+- Be sure they understand your goals in providing them with critical feedback.
+
+- Consider sharing the broader costs of this behavior to the other party.
+
+- Seek to understand how you've influenced the other party's behavior and take responsibility for your contributions.
+
+Finally, although throughout this post I've referred to a feedback conversation, effective feedback requires an ongoing dialogue, with consistent follow-up. Make feedback normal--not a performance review.
+
+Footnotes
+
+[1] Feedback Is Not a Gift
+
+[2] The Problem with Anonymous Feedback
+
+[3] Make Getting Feedback Less Stressful (Harvard Business Review, 2014)
+
+- Making Feedback Less Stressful (Harvard Business Review Webinar)
+
+- HBR webinar (1-hour video)
+
+- HBR's summary of my remarks (8-page PDF)
+
+- Webinar slide deck
+
+[4] Thank You, David Bradford
+
+[5] Power Up: Transforming Organizations Through Shared Leadership (David Bradford and Allan Cohen, 1998)
+
+[6] The Answer to How Is Yes: Acting On What Matters, page 113 (Peter Block, 2003)
+
+[7] Power Up, page 321.
+
+[8] Feedback Is Not a Gift
+
+[9] Work Style Differences
+
+[10] Make Getting Feedback Less Stressful (Harvard Business Review, 2014)
+
+[11] Vocabulary of Emotions
+
+[12] The Interpersonal Dynamics Reader, pages 4-5 (David Bradford and Mary Ann Huckabay, 1998)
+
+- Since its publication the Reader has been the primary text for the Interpersonal Dynamics course at Stanford, which I taught for several years after facilitating groups in the course for a decade. I've published my syllabus from the course, and I've also written a history of T-groups that includes a number of related resources, but the Reader is not publicly available.
+
+[13] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[14] Conform to the Culture Just Enough
+
+[15] The Difficulty of Empathizing Up
+
+[16] Power Up, page 331.
+
+[17] Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+[18] "Cognitive Dissonance" (Leon Festinger, Scientific American, October 1962, pages 93-94)
+
+[19] Intent vs. Impact (When Communication Goes Awry)
+
+[20] Power Up, page 332.
+
+[21] Power Up, page 332.
+
+[22] David Rock on Neuroscience, Leadership and the SCARF Model
+
+[23] How Leaders Create Safety (and Danger)
+
+[24] Bosses and Birthdays (The Importance of Small Talk)
+
+[25] Power Up, page 333.
+
+[26] The Problem with Anonymous Feedback
+
+- My colleagues Dan Oestreich and Stephanie Soler offer a number of thoughtful suggestions about how to administer a 360 process while accounting for the concerns I raise in the post.
+
+[27] Power Up, page 335.
+
+[28] Weather Systems (Power, Charisma and Leadership)
+
+[29] Drunk, Powerful, and in the Dark: How General Processes of Disinhibition Produce Both Prosocial and Antisocial Behavior (Jacob Hirsh, Adam Galinsky and Chen-Bo Zhong, Perspectives in Psychological Science, 2011)
+
+[30] Power Up, page 337.
+
+For Further Reading
+
+Better Working Relationships
+
+The Communication Funnel
+
+Setting the Table (Difficult Conversations)
+
+Seeing What's Not There (The Importance of Missing Data)
+
+Learning to Yield (Navigating Tough Conversations)
+
+The Problem with Positive Feedback
+
+Three Conversations (On Better Communication)
+
+Resolving a Protracted Conflict
+
+Talking About Feelings
+
+How We Connect (and Why We Might Not)
+
+Photo by Minda Haas Kuhlman.
+
+
+===== END ED BOT ESSAY 4059 =====
+===== BEGIN ED BOT ESSAY 4060 =====
+---
+title: Attitude and Behavior
+url: https://edbatista.com/2020/07/attitude-and-behavior.html
+slug: attitude-and-behavior
+published: 2020-07-14T16:39:15
+updated: 2025-10-08T13:46:25
+source_body: wordpress-html
+---
+
+We often assume that our attitude drives our behavior, and that we act as we do because of underlying thoughts and feelings. This way of understanding ourselves can pose a challenge when we perceive a conflict between the activities necessary to realize our goals and the thoughts or emotions associated with those activities at a given moment. We may conclude that our state of mind prevents us from engaging in desirable behaviors (or compels us to engage in undesirable behaviors), and as a consequence we feel like prisoners of our own psychology.
+
+We're unhappy, so we sink into lassitude and indulge our sorrows. We're demotivated, so we work halfheartedly or don't work at all. We're annoyed or angry with someone, so we avoid them--or we stumble into a confrontation. We know we should act differently, but we don't feel like it--and our common beliefs regarding the causal relationship between attitude and behavior put the former firmly in control of the latter.
+
+This isn't an entirely inaccurate picture. One of the most important functions of emotion is to interrupt conscious thought and orient us toward potential threats and opportunities, as the late psychologist Daniel Wegner noted:
+
+It is clear that emotion should not be very susceptible to willful control. If we could turn off all our emotions, feel no pain, never laugh, not be gripped by fear or despair, stop being excited, and so on, we could easily end up dead... Emotions are built in by evolution, not to be tampered with, because hundreds of generations of humans before us have survived their friends or acquaintances who were able to shut down their emotions. Disgust keeps us from eating icky things; sadness helps us notice our losses; fear reminds us to run from predators; joy keeps us coming back to our friends and sex partners. It is good, in other words, that when we feel an emotional state, our normal purposes and interests succumb to an influence beyond our control. The priority of emotions over will is important for our survival because it allows our plans to be interrupted by the immediate pressures of reality. [1]
+
+As a result, emotions are attention magnets [2], which alternately attract and repel us, and this elegant system, the result of millions of years of evolution, is a "feature" of human psychology, not a "bug." [3] This is consistent with what neuroscientists such as Antonio Damasio have learned in recent decades about the role emotions play in logical reasoning. Rather than acting antagonistically, emotion and reason usually work together in concert to enable us to make good decisions and navigate the world successfully. [4] Usually--but not always.
+
+The challenge is that emotions are a "quick and dirty" signal, in the words of neuroscientist Joseph LeDoux [5], which allow us to process vast amounts of information rapidly, but at the cost of occasional accuracy. Although "the priority of emotions over will" is necessary in order for us "to be interrupted by the immediate pressures of reality," in most instances our interpretation of "reality" is highly contingent and subject to any number of biases and distortions. [6] As noted above, we know we should act differently, but we don't feel like it--and at these times the power of our emotions may not serve us well. So what can we do?
+
+We can start by replacing the simplistic framework above with a more complex view of human psychology. Rather than being a one-way causal relationship, it's a two-way street: While our attitude obviously informs and influences our behavior, our behavior also informs and influences our thoughts and feelings in a dynamic and cyclical process:
+
+Psychologists and neuroscientists have struggled to determine the precise mechanisms by which this process occurs, [7] and there are limits to its efficacy. We can't simply will ourselves out of profound dysfunction caused by clinical depression, anxiety or trauma. But we do have much more power than we typically realize to consciously choose behaviors that will affect our attitude and influence the everyday emotions that can get in the way of our goals and objectives. And while science can't yet (and may never) identify the ways in which specific behaviors alter specific attitudes across the population at large, we can still apply the general principle and craft a set of experiments to best meet our individual needs.
+
+An important element in this process is known as cognitive dissonance: When our attitude and our behavior are inconsistent, we experience discomfort and even distress, and we modify either our attitude or our behavior to reduce the inconsistency. The original research on the subject was conducted by Leon Festinger, who noted that "cognitive dissonance is a motivating state of affairs. Just as hunger impels a person to eat, so does dissonance impel a person to change his opinions or his behavior." [8]
+
+So despite the power of our emotions, we need not allow our initial attitude to dictate our behavior. Instead we can leverage the power of cognitive dissonance by choosing to act differently, which in turn can shift our attitude. As Ignatius of Loyola put it nearly 500 years ago, "Perform the acts of faith, and faith will come." [9]
+
+More recent research has helped us learn more about how this process works in the brain, with one team of neuroscientists concluding that people who behave in ways that are in conflict with their attitudes "change their attitudes to be more consistent with the counter-attitudinal behavior. Dissonance has been shown to be a negative emotional state accompanied by autonomic arousal; it has been shown that people change their attitudes and restore consonance to specifically reduce the negative affect." [10]
+
+What does this look like in practice? While we can draw upon research from psychology and neuroscience, the limitations of this research require us to actively experiment in order to discover the specific behaviors that effectively alter specific attitudes for each of us as individuals. For example, the issues noted above occur commonly in my work with senior leaders--unhappiness and demotivation result in disengagement, or annoyance and anger result in avoidance or conflict--so I often talk with clients about experiments that involve the following:
+
+- Engaging in a range of "happiness strategies," small-scale intentional activities that can improve our sense of subjective well-being.
+
+- Committing to exercise routines, a mindfulness practice, and good sleep hygiene, all of which can enhance our capacity for emotion regulation and in some cases directly alter our moods.
+
+- Actively journaling and talking about our emotions.
+
+But the precise nature of these activities can vary tremendously from one individual to the next, and figuring all this out takes work--and we're not always willing to invest the effort. All too often we want to be told what to do--we want a shortcut. I frequently see this response in students who are looking for universal laws derived from research--I have to remind them that as human beings they're far too complex to be accurately represented by any model, no matter how sound. [11] There are no algorithms, only heuristics.
+
+Compounding the challenge, not only are our emotions not subject to willful control (a good thing, as Wegner reminds us), but a predictable set of problems are triggered when we seek to influence how we feel by deliberately engaging in desired behaviors (or refraining from undesired behaviors):
+
+It feels taxing. We have two distinct ways of thinking, known as System 1 and System 2, [12] and psychologist Daniel Kahneman describes the former as operating "automatically and quickly, with little or no effort and no sense of voluntary control," while the latter "allocates attention to the effortful mental activities that demand it... The operations of System 2 are often associated with the subjective experience of agency, choice, and concentration." [13] System 2 thinking is a finite mental resource, so we've evolved to experience it as taxing and fatiguing, which motivates us to preserve it for truly important activities. Efforts to direct our attention toward (or away from) certain activities or objectives consume System 2 processing, which is why this conceptually simple task can feel surprisingly difficult. There's no easy solution here, but a mindfulness practice can provide a "workout in attention management."
+
+It feels phony. Deliberately engaging in behaviors intended to alter our attitude can evoke a sense of inauthenticity or can lead others to experience us as insincere, which runs counter to the emphasis contemporary culture places on "being yourself." To be clear, I'm not suggesting that we should suppress difficult emotions--but emotion regulation is not the same thing as suppression, and we make a serious error when we define "authenticity" as "ease." Author Brené Brown is often viewed as a champion of authenticity, but she rejects the idea that this means simply "being yourself": "Authenticity requires almost constant vigilance and awareness about the connections between our thoughts, emotions, and behaviors. It also means staying mindful about our intentions. Real authenticity actually requires major self-monitoring..." [14] Active efforts to influence our attitude compel us to observe ourselves closely (or "self-monitor") and to experiment with new behaviors until they become integrated into our repertoires.
+
+It feels forced. When this process feels taxing we can build up our psychological stamina, and when it feels phony we can reframe our understanding of authenticity--but it's essential to enter into the experience willingly, with a sense of agency and choice, rather than as a duty or obligation. The neuroscience research cited above notes that when people "attribute their counter-attitudinal behavior to payment or coercion...conflict between behavior and prior attitudes is reduced, and [they] experience less cognitive dissonance and do not change their attitudes." [15] We can't compel a change in attitude--we can only invite it by establishing psychological safety, by creating the right conditions, and by treating ourselves with compassion.
+
+Footnotes
+
+[1] White Bears and Other Unwanted Thoughts: Suppression, Obsession, and the Psychology of Mental Control, page 123 (Daniel Wegner, 2nd edition, 1994)
+
+[2] To Stay Focused, Manage Your Emotions (Harvard Business Review, 2015)
+
+[3] "It's Not a Bug, It's a Feature" Trite--or Just Right? (Nicholas Carr, Wired, 2018)
+
+[4] Antonio Damasio on Emotion and Reason
+
+[5] The Emotional Brain: The Mysterious Underpinnings of Emotional Life, page 163 (Joseph LeDoux, 1998)
+
+[6] When Heuristics Go Bad
+
+[7] For example, an influential study suggested that the act of smiling could stimulate feelings of happiness, but these findings later failed to replicate, and yet it now appears that the failure may have been the result of changes in the experimental conditions. The initial work on "power posing," which suggested that altering one's physical stance could induce heightened feelings of confidence, also failed to replicate, and it does appear that there were substantial flaws in the original research. However, the "power pose" researchers also highlighted problems with the replication efforts, although one of them subsequently retracted her support for the concept. While the ongoing "replication crisis" should give us ample pause before we take any single study at face value, I don't believe it renders social science invalid, and it's up to us to be more thoughtful consumers of research as we put it into practice. (Further thoughts on this here.)
+
+[8] "Cognitive Dissonance" (Leon Festinger, Scientific American, October 1962, pages 93-94)
+
+[9] Cited in From Dawn to Decadence: 1500 to the Present, page 39 (Jacques Barzun, 2001)
+
+[10] Neural activity predicts attitude change in cognitive dissonance (Vincent van Veen, Marie Krug, Jonathan Schooler and Cameron Carter, Nature Neuroscience, 2009)
+
+[11] The Map Is Not the Territory
+
+[12] Individual differences in reasoning: Implications for the rationality debate? (Keith Stanovich and Richard West, Behavioral and Brain Sciences, Volume 23, Issue 5, October 2000)
+
+[13] Thinking, Fast and Slow, pages 20-21 (Daniel Kahneman, 2013)
+
+[14] My response to Adam Grant’s New York Times Op/Ed (Brené Brown, LinkedIn, June 5, 2016)
+
+[15] Van Veen, et al.
+
+For Further Reading
+
+Lyubomirsky's Person-Activity Fit Diagnostic
+
+- For more on recent research on happiness and well-being, see Understanding "The Pie Chart" in The How of Happiness.
+
+Get Moving! (Exercise for Busy People)
+
+Don't Just Do Something, Stand There! (Mindfulness for Busy People)
+
+A compilation of readings on sleep.
+
+The Value of Journal Writing
+
+Talking About Feelings
+
+Self-Monitoring and Authenticity
+
+Conscious Competence in Practice
+
+Why Change Is Hard
+
+Building Blocks (A Tactical Approach to Change)
+
+Three More Horsemen (How We Self-Sabotage)
+
+- For more on self-compassion, I recommend the work of University of Texas psychologist Kristin Neff.
+
+Books on related topics:
+
+The Antidote: Happiness for People Who Can't Stand Positive Thinking (Oliver Burkeman, 2013)
+
+How to Have a Good Day: Harness the Power of Behavioral Science to Transform Your Working Life (Caroline Webb, 2016)
+
+Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success (Brad Stulbert and Steve Magness, 2017)
+
+Photo by Steven Depolo.
+
+
+===== END ED BOT ESSAY 4060 =====
+===== BEGIN ED BOT ESSAY 4061 =====
+---
+title: Feedback Is Not a Gift
+url: https://edbatista.com/2020/07/feedback-is-not-a-gift.html
+slug: feedback-is-not-a-gift
+published: 2020-07-11T15:57:38
+updated: 2025-10-06T17:52:41
+source_body: wordpress-html
+---
+
+Feedback is a gift.
+
+We've been told this over and over, as if it were gospel. I've even preached it myself. [1] But as I noted some years ago, I stopped using this phrase because it "fails to acknowledge how difficult the experience of receiving feedback can be. This can lead us to ignore our stress levels in feedback conversations, or, worse, feel required to tough it out even when we’re distressed past the point of effective learning." [2] Feedback is often stressful, confusing or unwelcome. Some gift.
+
+The problem is compounded when we view feedback as inherently true, inscribed on tablets of stone and delivered from the mountaintop. [3] But if feedback isn't a gift, what is it? It's data. About our impact on a particular individual at a particular point in time. And while it may be "true" in the sense that the feedback-giver is accurately representing their perspective, that doesn't make it The Truth. Because feedback always says as much about the giver as the recipient. It's filtered through their reality-distortion fields, reflecting their personal values and priorities. Rather than reminding us of the scene above, feedback should really be viewed like this:
+
+The challenge, of course, is that we must bear these factors in mind while also remaining open to the possibility that there's potential value in any feedback we receive, even--and especially--when it's stressful, confusing or unwelcome. This is particularly important when we consider the impact of power dynamics, which may be explicit in hierarchical relationships but exist in all relationships and rather than being fixed are often contingent on the circumstances.
+
+The power we possess at a given moment distorts not only what others choose to tell us, but also what we choose to hear. The more power we have relative to someone else at a given moment, the more distortion there will be in the dialogue. So when we receive stressful, confusing or unwelcome feedback from someone with less power, we should take great care before rejecting it out of hand--it may not be The Truth, but it's still potentially useful data (and even if it's not entirely accurate data, it may be useful or of interest simply because it's rare.)
+
+This often comes up in my coaching practice in the context of a 360 review for a CEO or senior executive. I no longer conduct 360s, but I have in the past, and I still work with clients today to help them determine how to make use of their feedback in a 360 report conducted by another coach or consultant. This is often a stressful, confusing or unwelcome experience, typically because the client focuses on the negative feedback and ignores the positive, a predictable psychological response. [4] But, as I've noted elsewhere, the process of providing feedback anonymously can contribute to this dilemma--for example, 360 feedback providers often feel free to blame to the recipient for a problem, but rarely take responsibility for their own contribution to the situation. [5]
+
+And yet despite these inherent flaws in the 360 process, there may still be value in the data simply because a lack of psychological safety in the organizational culture or the working relationship has led the feedback provider to believe that they will be punished for speaking up and raising their concerns directly with the recipient. [6] So while we should acknowledge that the resulting data is likely to be distorted in order to determine whether and how to act upon it, the fact that it exists at all should be appreciated (and the distortion itself is valuable feedback, even if the giver doesn't realize it.)
+
+This perspective is at the heart of the impulse to call feedback "a gift." The idea is that it's better to have the data at our disposal than to be "unconsciously incompetent," blindly stumbling into unforced errors, and we should be grateful for the enlightenment. [7] But a further problem with the "gift" framing is that it can create a feeling of obligation to accept it. If feedback is a gift, it would be rude to refuse. And yet here the reminder that feedback is merely data can be useful in another way, because even when feedback is accurate, it's not a commandment that must be obeyed.
+
+The key here is to apply a "cost-benefit analysis" and assess the "return on investment" with regard to any prospective behavior change. At the heart of any piece of negative feedback is a request for change and a hope for a different way of working together. (This is often obscured by poor communication skills, heightened emotions, or a lack of practice, but it's as true for the clumsiest feedback as it is for the most graceful.) It's up to the recipient to determine the cost of the change being requested--including the cognitive effort required--and weigh it against the potential benefits--including the likelihood that other people might have similar feedback--and whether the resulting ROI is sufficient to be worth it.
+
+This alternative framing--feedback is data--allows us to be more judicious and intentional about whether and how we respond to it. And this matters because change is hard.
+
+Footnotes
+
+[1] Five Leadership Lessons
+
+[2] Make Getting Feedback Less Stressful (Harvard Business Review, 2014)
+
+[3] Exodus 31:18
+
+[4] Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen D. Vohs, Review of General Psychology, 2001)
+
+[5] The Problem with Anonymous Feedback
+
+[6] Make Your Employees Feel Psychologically Safe (Amy Edmondson interviewed by Martha Lagace, Harvard Business School Working Knowledge, 2018)
+
+[7] Conscious Competence in Practice
+
+Thanks to my friend and colleague Kevin Martin for the funhouse mirror metaphor.
+
+
+===== END ED BOT ESSAY 4061 =====
+===== BEGIN ED BOT ESSAY 4062 =====
+---
+title: The Truly Strategic People Leader
+url: https://edbatista.com/2020/06/the-truly-strategic-people-leader.html
+slug: the-truly-strategic-people-leader
+published: 2020-06-29T05:00:00
+updated: 2025-10-08T20:42:57
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs of growing companies, and most of them have a senior leader who's responsible for "people issues" in the organization: recruiting, hiring, training, retention, compensation and development, in addition to basic HR compliance and administration. Sometimes this role is awarded a C-level title--Chief People Officer--but more commonly it's Head of People or VP of People Operations. CPOs generally report to the CEO, but VPs and functional heads often report to a COO, CFO or another executive. And sometimes the senior leader ultimately responsible for people issues has a range of other responsibilities as well, in which case their title may be COO, SVP of Operations, or something similar. Whatever the title in a given organization, this is the role I'm referring to as a "People Leader."
+
+A common theme in my practice is helping CEOs reflect on the composition and performance of their executive teams, including their People Leaders, and I've had several clients who served in these roles themselves, so I've spent a significant amount of time considering the role of People Leader and assessing their impact and effectiveness. I've worked with a number of CEOs who hired or developed a truly strategic People Leader. I've worked with many more who were aiming for this goal. And I've worked with a few who had to terminate an inadequate or even toxic People Leader. All this has given me a perspective not only on the role of the People Leader, but also on the state of the People function in growing companies, why companies can lag in this area, and how to catch up when they fall behind.
+
+1. What makes a People Leader strategic?
+
+A truly strategic Chief People Officer is an incredible asset to a CEO. Consigliere, data maven, culture champion, team coach, senior closer. Note that tapping this power entails not only hiring a strategic THINKER, but also positioning People as a strategic FUNCTION.
+
+— Ed Batista (@edbatista) January 9, 2019
+
+Consigliere means "council member" in Italian, but the term was popularized in English decades ago by The Godfather and today refers to someone who serves as a trusted senior advisor to the head of an organization. A theme in my work with CEOs is that it's often a lonely job, and this can be heightened in later stages of the company's development as early employees are replaced by more experienced leaders. This transition makes the organization more effective, but it can also leave the CEO surrounded by highly skilled and ambitious people they barely know. While the CEO must develop good working relationships with these new C-level executives, in this context a truly strategic People Leader can play a special role as a thought partner and confidante.
+
+Data Maven: While effectiveness in the role obviously depends upon on strong interpersonal skills, that capacity is necessary but insufficient for strategic People leadership. As a company grows larger and more complex, the CEO will rely heavily on their People Leader's ability to manage engagement surveys, performance assessments, and periodic review platforms. The People Leader must not only oversee the process of selecting and deploying these tools, but to truly add value they need be able to help the CEO and other leaders interpret and act upon the resulting data. To play an even more strategic role, the People Leader should be able to understand and analyze relationships among the data from these sources and data derived from other areas of the business. And all of this entails the ability to assess statistical reliability, validity, and the extent to which general conclusions can be drawn from a given data set or body of research.
+
+Culture Champion: As I've noted before, "leaders are expected to scrupulously adhere to the organization's cultural norms and values, and their behavior is scrutinized for deviations." [1] This applies first and foremost to the CEO, but the next person under the microscope is often the company's senior People Leader. When leaders' behavior fails to conform with stated norms and values, employees rightly view the People function with distrust and cynicism. This is a common problem, of course--there's a reason why the Dilbert comic strip satirizing organizational life employs the villainous character Catbert as the director of human resources. [2] But when a company strives to live up to its stated commitments the senior People Leader can play a major role in championing productive behavior, both at the executive level and among employees. (A prominent example is Patty McCord, Chief Talent Officer at Netflix from 1998 to 2012. [3]) This requires an exceptional degree of personal probity on the part of the People Leader--a willingness to hold themselves to high standards, non-defensiveness in response to critical feedback, and a willingness to learn from their inevitable missteps.
+
+Team Coach: One of a CEO's most important tasks is managing the executive leadership team. [4] And as a company grows the people occupying the roles that comprise this team tend to change in ways that make them both easier and more difficult to manage. Experienced executives have generally learned to take feedback well and handle conflicts effectively. But they're also intensely ambitious and competitive, and they may put the interests of their individual careers or functional areas ahead of those of the company. It's equally true that as a company grows senior executives can find it difficult to influence a successful, prominent CEO or to enact necessary changes in established team norms. [5] A People Leader can act as an internal coach to all parties by observing and acknowledging communication patterns, by offering guidance and feedback, and by facilitating events and discussions aimed at improving team dynamics. But the essential quality here is trust, and the truly strategic People Leader grasps the vital necessity of ensuring that all parties have faith not only in their judgment but also in their intentions. [6]
+
+Senior Closer: Another critical responsibility of the CEO is making the final call on candidates for senior leadership roles, but here, too, a strategic People Leader can be an important ally in the process of sourcing, vetting and closing top prospects. Executive searches are expensive, lengthy processes, and an inability to close a desired candidate at a critical moment can be a costly failure for a growing company. Other members of the leadership team have a role to play in this process, but only a strategic People Leader is positioned to help both the CEO and the candidate reach agreement on issues such as scope, title, and compensation.
+
+But if what I'm describing here is the ideal scenario, it's clear that the reality in many companies looks quite different.
+
+2. Why do companies fall behind?
+
+Many CEOs will tell you that their employees are the company's most valuable resource, and yet many do not have a strategic People Leader--or they have one who's not treated that way. Why the gap between rhetoric and reality? In my experience companies get caught by surprise by the rapidly escalating complexity of People management, they fall behind in the development of a strategic People function, and it can be very difficult to catch up.
+
+As I note above, the effectiveness of the People Leader depends not only on their individual capabilities, but also on the extent to which the organization views People as a strategic function. And yet in the early stages of a company's development, it can be a poor use of limited resources to invest too heavily in the People function. Many startups understandably view HR as a hygiene factor--it's needed to ensure compliance with legal and regulatory obligations, and it provides employees with reliable payroll, access to benefits, and other essential services, but it does little to boost the company's competitive advantage or employees' intrinsic motivation.
+
+As a consequence HR becomes associated with other non-strategic administrative or operational elements in the organization. Early-stage HR administrators often split duties across functions--they're the Director of Operations, or even the Office Manager--or HR is outsourced to a third-party. This makes sense--until suddenly it doesn't. As I've written before, we're often unprepared for "the problems of success":
+
+We're usually at least somewhat prepared for things to go badly. We consider the various ways a given effort might fail; we assess the likelihood of failure; and we develop a set of contingency plans in accordance with those possibilities. But we can be caught by surprise when things go well. It's as if our negativity bias blinds us to the possibility that a given effort might not only succeed but even surpass our expectations. And then we find ourselves scrambling to cope with the various complications that result--the problems of success. [7]
+
+And it's the problems of success that often cause a company to fall behind in the transition from a compliance-oriented HR function to a truly strategic People function. Growth surges and fundraising goes better than expected, leaving an organization constrained not by insufficient demand or insufficient capital, but by insufficient talent, and there's a mad scramble to scale up. This entails not merely hiring more people, but hiring different people--experienced managers, senior executives, people with new skills that the organization hasn't needed in the past.
+
+This is where a compliance-oriented HR function rapidly becomes inadequate. Hiring managers lack the capacity or the expertise to screen prospects and close top candidates. Few aspects of the company culture have been made explicit, so new hires must discover the de facto norms and values for themselves, and onboarding is a shambles. Clear metrics to assess performance and tools to gather the necessary data are nonexistent, so underperformers are not identified (or, worse, retained because the hiring pipeline is barren.)
+
+Of particular importance in this context are issues related to diversity and inclusion. Early-stage companies often hire from personal networks, which can result in a workforce that essentially replicates itself. An organization seeking to recruit talent from a broader range of sources must not only improve hiring practices but also create a culture of belonging that acknowledges employees' multiple social identities while also fostering a company-wide sense of community. A compliance-oriented HR function will help mitigate discriminatory practices, but it won't necessarily contribute to a truly diverse workforce or an inclusive environment, nor will it take the initiative to establish equitable compensation structures.
+
+The CEO faces a special set of hiring and management challenges in a fast-growth environment. Senior executives come with high expectations, rendering negotiations around scope, status, title and compensation much more complex. [8] Top candidates for senior roles rarely need the job--the cost to them of making a sub-optimal career choice is usually much higher than waiting a few more months (or even years), so the process of closing them can be fraught and subject to failure. [9] And after senior executives have successfully been recruited, the CEO has to figure out how to lead and manage a group of people who may know more about their domains than the CEO does. A compliance-oriented Director of HR isn't going to be much help with any of this.
+
+3. How can companies catch up?
+
+The bad news is that it's very difficult to catch up quickly--the good news is that a number of steps can help a company avoid falling behind in the first place (or at least minimize the damage.)
+
+An obvious way to catch up is to simply hire an experienced People Leader with a mandate to upgrade the People function--but these individuals are relatively rare to begin with, and the ones willing to take on the task of transforming HR are even rarer. Making this hire successfully entails not only an extensive search, but also committing the resources necessary to attract top candidates. An alternative is to invest in a more junior person and empower them to grow into the role--this will inevitably take more time and increase the risk of failure, but it may be the only option for a mid-stage company that can't attract a proven candidate.
+
+But just as the best time to plant a tree was 20 years ago, the best way to catch up is to avoid falling so far behind in the first place. This requires the CEO to pay attention not only to the individual capabilities of their People Leader, but also to how they and their function are positioned within the organization. Expedient solutions in this area usually carry long-term costs, and any steps that position HR as a non-strategic function should be viewed as a form of "cultural debt." [10] It may still make sense, for example, for an early-stage startup to outsource HR or to delegate it to an Office Manager, but eventually that bill will come due and the cost of upgrading the People function (literal and figurative) will only increase over time. The prudent CEO will not allow expedient measures to dictate strategy for very long. [11]
+
+The People Leader's title and reporting line also send important messages regarding the value of their function. A Chief People Officer or VP of People who reports to the CEO is much more likely to play a strategic role than a Director of HR who reports to the COO or CFO. The relationship of the senior People Leader to the executive leadership team is also meaningful--in some companies they're a full-fledged member, while in others they occupy a lower-status auxiliary role, and in still others they merely provide occasional input.
+
+I'm not suggesting that every company needs to have a Chief People Officer or that the senior People Leader (whatever their title) must be viewed as the equivalent of a CTO or CFO at every stage of a company's development. Again, over-investing in this role too soon may be a poor use of limited resources. But a CEO who truly believes that employees are the company's most valuable resource and who wants a People Leader who's a strategic partner will pay close attention to the broader organizational context and actively promote the status of the role rather than inadvertently diminish it.
+
+The effective CEO will also attend closely to this working relationship, particularly if they're seeking to develop an less experienced leader who shows potential. A strategic People Leader must maintain a balance among a number of competing priorities and sets of stakeholders. They will be a party to innumerable interpersonal conflicts and power struggles, and yet they must remain above the fray. They will be privy to a vast amount of confidential information, some of which will trigger an ethical or legal duty to disclose. They must be trusted by everyone--including the Board. And they must be able to speak truth to power, with firmness and grace. But none of this occurs in a vacuum. These qualities will be heavily influenced by their relationship with the CEO and the extent to which they feel empowered by the CEO to act accordingly.
+
+Footnotes
+
+[1] Leader as Avatar
+
+[2] Catbert Comic Strips (Scott Adams, 1995-2020)
+
+[3] How Netflix Reinvented HR (Patty McCord, Harvard Business Review, 2014)
+
+[4] Three Buckets (On CEO Job Descriptions)
+
+[5] Rules Aren't Norms (On Better Meeting Hygiene)
+
+[6] Two Sides of Trust
+
+- For another view on the elements of trust, see Brené Brown's BRAVING framework [PDF].
+
+[7] The Problems of Success
+
+[8] List-Price vs. Haggling (Culture, Compensation and Negotiation)
+
+[9] When Offers Fall Apart
+
+[10] The Accumulation of Cultural Debt
+
+[11] Don't Wait
+
+Thanks to Anita Grantham, Daniel Heller, Holly May, and Liz Kosinski.
+
+Photo of Quan Am, the Vietnamese boddhisattva of compassion, by art@aditi.
+
+
+===== END ED BOT ESSAY 4062 =====

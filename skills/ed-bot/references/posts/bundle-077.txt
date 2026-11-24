@@ -1,0 +1,98 @@
+===== BEGIN ED BOT ESSAY 3397 =====
+---
+title: Bike Trip Across America
+url: https://edbatista.com/2006/06/bike_trip_acros.html
+slug: bike_trip_acros
+published: 2006-06-09T14:55:00
+updated: 2006-06-09T14:55:00
+source_body: wordpress-html
+---
+
+On Memorial Day 18-year old Kate Spelman and her dad Jim arrived home in Scituate, Massachusetts, wrapping up a three-month, 4,400-mile cross-country bicycle trip. (Kate's taking a year off before going to college.) Today Hannah Karp had a great interview in the Wall Street Journal with Kate, Jim and mom/wife Lynne, and one comment in particular really struck me:
+
+How did it change your relationship with your daughter?
+
+Jim: She invited me to join her in a journey, not shepherd her across the country. As a father--and a guy--that ain't easy. I struggled with that early on--how much to take charge and how much we are co-partners. If I allowed myself to think like a father it would have all come crumbling down. By the end, we were riding 100 miles a day and I'd be the one begging for a break.
+
+What a gift to his daughter and to himself, to be able to step out of his role as father, as leader, in order to allow her to step forward as an adult, and to allow them both to have this incredible experience together as partners. We get so locked into the roles that we play in life--we come to think that they define us, when it's often the other way 'round. 
+
+ 
+
+(You can learn more about the Spelmans in Jillian Fenimore's recent article in the Scituate Mariner and from the the Spelmans' blog Bike Trip Across America.)
+
+
+===== END ED BOT ESSAY 3397 =====
+===== BEGIN ED BOT ESSAY 3398 =====
+---
+title: A Little Feed-Cleaning
+url: https://edbatista.com/2006/06/a_little_feedcl.html
+slug: a_little_feedcl
+published: 2006-06-09T01:58:50
+updated: 2006-06-09T01:58:50
+source_body: wordpress-html
+---
+
+I'm not in love with Bloglines, but I still prefer it to the other feed readers (newsreaders, aggregators, whatever) I've tried in the past. (The best reading experience, best mobile access, and decent sharing options overcome the improved-but-still-lousy feed management interface.)
+
+But I've noticed that my list of subscriptions has grown somewhat stale lately--time for an update. First to go is the folder structure I originally set up (1. Heavy Rotation, 2. Regular Spins, 3. Occasional Listens...) that provided a rough ranking of a) how important various authors were to me and/or b) how frequently I felt compelled to check their feeds. That made a little more sense when I was managing my blogroll "by hand" and clicking through to visit sites "in person." I'd visit the sites in the top folder several times a day, those in the second folder once daily, etc.
+
+But now that I read most posts from within Bloglines and rely on the feeds themselves to tell me when there's something new, that structure's meaningless. It's also useless to rely on such a static structure to convey each author's importance to me, because their meaning and value are so dynamic and so dependent not only on the quality, frequency and subject matter of their posts, but also on my own needs and schedule. (What I really need is an intelligent system that will note what I'm actually reading and how often, and use that data both to tell others what I'm paying attention to and to recommend other content that I'd likely be interested in. Maybe some people should get cracking and do something about that.)
+
+So I'm scrapping the hierarchical folders, but I still want to group my subscriptions in clusters that correspond to my various feed-reading modes. For now I'm going to go with AttentionTrust (for my day job), Other Technology, Management, Culture, and Personal. Although I reserve the right to scrap the whole damn thing when a better system comes along.
+
+UPDATE: So far, so...well, better, if not actually good. Clustering feeds in themed folders is a much more effective way to deal with them--I can concentrate on a specific folder depending whether I'm working, focusing on personal interests, or just surfing. The estimable Geof Morris has recommended FeedLounge (again)--I do like what I see (tag your feeds, slick interface), but I don't feel like paying $5 a month (that's not an unreasonable amount, but I'm not that unhappy with Bloglines.) I also spent a little time getting reacquainted with Rojo and Google Reader, and they just don't work for me at all. So Bloglines it is.
+
+And to actually see the feeds I subscribe to, either click on "Feeds I Subscribe To" (brilliant, eh?) near the top of the left-hand sidebar, under my own subscription links, or scroll down near the bottom of the right-hand sidebar, where that list is displayed as a blogroll. For anyone so inclined, the former link will take you to a Bloglines page where you can export these subscriptions as an OPML file.
+
+tags: bloglines feeds rss
+
+
+===== END ED BOT ESSAY 3398 =====
+===== BEGIN ED BOT ESSAY 3399 =====
+---
+title: Hi Tom! (And Friends)
+url: https://edbatista.com/2006/06/hi_tom_and_frie.html
+slug: hi_tom_and_frie
+published: 2006-06-08T16:47:23
+updated: 2006-06-08T16:47:23
+source_body: wordpress-html
+---
+
+I haven't been blogging much over the past week, thanks to a dead laptop, so when I took a look at my stats a few minutes ago, I was surprised to see a big jump. What gives?
+
+It turns out that Tom Peters (yes, that Tom Peters) found his way here, liked what he saw, and encouraged his readers to drop by. And as Cathy Mosca notes, I've even been added to his blogroll. (I'm currently between Dave Barry and the esteemed Gary Becker & Richard Posner, which seems oddly fitting.)
+
+I'm honored by the visits, and I hope you find a reason to come back. (I actually just upgraded my feed subscription options at the top of the left-hand sidebar, so if you like what you see, you can keep up with my posts from the comfort of your newsreader or email inbox.)
+
+tag: tom+peters cathy+mosca
+
+
+===== END ED BOT ESSAY 3399 =====
+===== BEGIN ED BOT ESSAY 3400 =====
+---
+title: Resuscitated Laptop: Lessons Learned
+url: https://edbatista.com/2006/06/resuscitated_la.html
+slug: resuscitated_la
+published: 2006-06-08T15:00:45
+updated: 2006-06-08T15:00:45
+source_body: wordpress-html
+---
+
+Today I feel like a very lucky guy--even though I just spent over a week without the use of my (previously) trusty ThinkPad T40, it's up and running again and better than ever with a brand, spanking new 100GB hard drive.  I was able to keep working on my wife's A31, for which I'm very grateful, but 1) that's one very heavy laptop, and 2) I'd forgotten how much Windows 2000 sucks.
+
+But I learned quite a few important lessons over the past ten days, and I thought I'd set them down here in the hopes that I won't forget them and have to relearn them, no doubt painfully, at some point in the future.  So here goes:
+
+- Hold On With Both Hands: My old ThinkPad T23 was heavy enough that I'd always have to use both hands to pick it up (and that's doubly true for the A31.)  In contrast, the T40 is light enough that it's pretty easy to pick up with one hand.  Unfortunately, it's just heavy enough that when it's open and lifted that way, the frame flexes a little bit, which can cause serious problems over time.  (The X-series are so small and light that they don't flex when lifted, and the newer T-series apparently have a much more rigid internal frame that prevents any flexion.)  This quite possibly caused (or at least exacerbated) the failure of my T40's system board.
+
+- Always Call IBM First (Or, A Little Knowledge Is A Dangerous Thing): I initially thought the problem was related to my over-stuffed hard drive.  Performance had slowed to a crawl, and I actually got (and proceeded to ignore) several warnings about the lack of available disk space  (I said I'd get around to it, didn't I?)  The day before it finally failed, I'd ignored the most severe warning yet, so I assumed that the subsequent failure to boot was my well-deserved punishment.  I knew that upgrading to a larger drive wasn't going to be covered by my warranty, so I didn't bother to call IBM--I just found a local computer repair shop and asked them to take care of it.  Herrick and his colleagues at Ameritech cloned my drive and installed the new one, only to realize that the problem wasn't with the drive at all--it was with the system board.  The bad news: I'd wasted a lot of time by going to Ameritech.  The good news: A new system board was covered by my IBM warranty.  The lesson: Don't outsmart yourself--call IBM first.
+
+- The On-Site Warranty Is NOT Optional: When I'd originally purchased the T40 through IBM's refurbished program, I debated whether spending a few extra hundred dollars for the on-site service warranty was really worth it.  In the end, I decided to do it, and it was clearly the right decision.  It took me a few phone calls to IBM to determine that yes, it was the system board, and no, none of their fixes solved the problem, and yes, they had the part but it would be a day before they could get it to the Bay Area--but once I jumped through those hoops, things couldn't have gone more smoothly.  I was surprised and pleased to find that the repairman who came to my house was the same guy who had replaced a faulty display in my T20 at work about four years ago!  He's a very cool guy--he arrived on an Aprilia, I think a Caponord--and we had a good discussion while he worked.  We both agreed that the on-site service warranty is a great investment because 1) you really can't rely on local shops--the guys at Ameritech were nice enough (although a little slow), but they didn't even put all the screws back in when re-assembling my T40, and 2) when it's fixed, you know it's fixed--no shipping it back to the depot because they didn't do it right the first time.
+
+- Don't Always Believe the Manual (Or Support): Once the system board had been replaced, I still needed to upgrade my hard drive.  I bought a 100GB drive from Ameritech--the same one they'd initially cloned for me, but they'd already wiped it clean after determining that the problem was with the system board--and an EZ Gig Hard Drive Upgrade kit by Apricorn.  Following the directions apparently allowed me to clone my old drive onto the new one successfully, but the machine wouldn't boot.  I called Apricorn support, and they identified the problem, but their recommended solution sounded a little squirrelly.  So I tried using some common sense, and it worked out fine.  The bottom line: Don't boot and run the EZ Gig software directly from the CD, even though the manual advises you to do that for faster, uninterrupted cloning.  And specifically on T40s, don't disable the Pre-Desktop Area in BIOS Security, even though Apricorn will tell you that's what you have to do to clone a bootable disk.  Just run EZ Gig from within Windows--works like a charm.  More gory details are in a report I posted to the ThinkPad Open Forum.  Fascinating reading.
+
+So now I have a very roomy, very fast and very quiet new hard drive in my comfortable, familiar T40, and I'm very happy, as they say.  And if I do say so myself, I was pretty damn Zen about the whole mess.  Things could have gotten very ugly, and I could have really freaked out about it, but, somehow, I didn't.  Perhaps I've accidentally acquired some wisdom along the way.  And to minimize the chance of future freak-outs, I'm taking one final lesson to heart:
+
+tags: thinkpad ez+gig
+
+
+===== END ED BOT ESSAY 3400 =====

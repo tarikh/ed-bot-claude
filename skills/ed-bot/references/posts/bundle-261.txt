@@ -1,0 +1,407 @@
+===== BEGIN ED BOT ESSAY 4155 =====
+---
+title: The Balcony and the Dance Floor
+url: https://edbatista.com/2022/10/the-balcony-and-the-dance-floor.html
+slug: the-balcony-and-the-dance-floor
+published: 2022-10-26T12:34:12
+updated: 2026-03-03T09:44:06
+source_body: wordpress-html
+---
+
+In 2002 Harvard Kennedy School professors Ron Heifetz and Marty Linsky introduced a profoundly useful metaphor to the management literature:
+
+Any military officer knows the importance of maintaining the capacity for reflection, especially in the "fog of war." Great athletes must simultaneously play the game and observe it as a whole. We call this skill "getting off the dance floor and going to the balcony," an image that captures the mental activity of stepping back from the action and asking, "What's really going on here?"
+
+Leadership is an improvisational art. You may be guided by an overarching vision, clear values, and a strategic plan, but what you actually do from moment to moment cannot be scripted. You must respond as events unfold. To use our metaphor, you have to move back and forth from the balcony to the dance floor, over and over again throughout the days, weeks, months, and years. While today's plan may make sense now, tomorrow you’ll discover the unanticipated effects of today’s actions and have to adjust accordingly. [1]
+
+Heifetz and Linsky were addressing the need to assess organizational responses to a leader's efforts to initiate change over time and the importance of creating space in that process for regular reflection. While that is a theme in my practice [2], I also talk with leaders on a daily basis about a wide range of scenarios in which they must move between the balcony and the dance floor in the moment:
+
+- An executive team meeting
+
+- A pitch to a prospect or investor
+
+- A talk at an all-hands or a conference
+
+- A feedback conversation with a direct report
+
+- A Q&A session with employees or media members
+
+In all of these settings--and countless others--a leader must simultaneously be an active participant on the dance floor while also observing the proceedings from the balcony. The ability to act in the moment is essential--it's rarely possible to hit "Pause" in a contentious meeting or a hostile Q&A session and take time to reflect on why things are going badly. All this is easy to grasp conceptually, but it can be difficult to put into practice. If you're a leader striving to occupy both spots at once, what helps? From the balcony, you gather data from others as well as data from within, and then use that information to guide your steps on the dance floor.
+
+The Balcony, Part 1: Data from Others (aka Social Intuition)
+
+Neuroscientist Richard Davidson has developed a framework for understanding the relationship among specific patterns of neural activity in the brain, our internal emotional response, and our subsequent interpersonal behavior. [3] Davidson calls this model the "dimensions of emotional style," one of which is "social intuition":
+
+People differ dramatically in how attuned they are to nonverbal social cues. Extreme insensitivity to these signals is characteristic of people on the autism spectrum, who struggle to read facial expressions and other social cues, but people who fall well short of a clinical diagnosis can also be socially deaf and blind, with devastating consequences for personal and professional relationships. Conversely, acute sensitivity to the emotional state of others is central to both empathy and compassion, since being able to decode and understand social signals means we can response to them. [4]
+
+We all tend toward a given point on the social intuition scale on the basis of our inborn capabilities and formative experiences, but if you find yourself insufficiently attuned to others' thoughts and feelings you can increase your sensitivity. This is the result of what's known as "neuroplasticity"--your brain retains the potential for growth and change throughout your life. [5] A starting point in that process is simply heightening your awareness of the potential data at your disposal.
+
+The idea that precisely "93% of communication is non-verbal" is a myth that has been refuted by Albert Mehrabian, the UCLA psychologist whose research was the basis for that figure. [6] That said, a great deal of communication obviously occurs via facial expressions, body language, tone of voice, and vocables (which are sounds that aren't actual words but nonetheless convey meaning, such as "Mmmm," which generally indicates "Yes, continue.")
+
+It can be harder to gather and interpret such data while working virtually, but that doesn't mean it's impossible. Investing in the right equipment can help immensely, not only in reading the social cues of others but also in conveying your intended messages with greater accuracy and fidelity. [7]
+
+You can also improve your ability to focus on the various forms of non-verbal communication available to you in any given moment. This involves directing your attention, and the most effective tool for improved "attention management" is mindfulness meditation. As I've written before,
+
+Mindfulness...[is] merely the process of noticing what's happening around us, observing where our attention is going as a result, and sensing our cognitive, emotional and physical responses. A heightened sense of mindfulness allows us to direct our attention toward an intended object of focus and away from undesirable distractions... We can cultivate this ability through a number of practices, most notably meditation. A key is viewing meditation as a workout in attention management rather than as a break from the stress of daily life. [8]
+
+While I've addressed the needs of people seeking to increase their sensitivity to the thoughts and feelings of others because that's more common in my practice, it's also possible to be hyper-sensitive to such social cues, and in extreme cases they can become a source of distraction or cause crippling self-consciousness. Here, too, mindfulness meditation can help, and in this context there's a parallel with the work of Jon Kabat-Zinn, who has championed meditation as a means of managing the distracting and even overwhelming effects of chronic pain. [9]
+
+The Balcony, Part 2: Data from Within (aka Self-Awareness)
+
+As we gather data from others' non-verbal cues, we also need to gather data from within, which takes several different forms. "Self-awareness" is another dimension in Davidson's model, although he employs the term in a very specific sense, referring to the ability to perceive the physiological manifestations of emotion:
+
+Some people have a very hard time 'feeling' their feelings: It may take them days to recognize that they're angry, sad, jealous or afraid. At this extreme of the Self-Awareness dimension are people who are Self-Opaque. At the other end are Self-Aware people, who are acutely conscious of their thoughts and feelings and attuned to the messages their body sends them... This heightened sensitivity can be beneficial in several ways. It appears to play a crucial role in empathy, the ability to feel what others are feeling, and by allowing you to understand your own emotional state it can help you avoid misunderstandings... [10]
+
+Note that emotions are physiological events well before they register in consciousness. We take in a situation, interpret it in some way, and the meaning we ascribe to it yields a pre-conscious emotional response. As a consequence neurotransmitters are released, triggering a flurry of bodily activity--an elevated heart rate, or more rapid breathing, or "butterflies" in the stomach--and only then are we aware that we're "having a feeling." People who Davidson describe as "self-opaque" take longer to access this internal data and to associate it with an emotional state.
+
+But as with social intuition we can also be hyper-sensitive to our internal data, which at extreme levels can cause panic attacks or hypochondria. [11] Hyper-sensitivity on this dimension is more common in my practice, although it typically takes the form of anxiety or obsessive rumination. [12] In both cases, whether you're trying to increase or decrease your sensitivity to these physiological cues, Davidson again recommends mindfulness meditation:
+
+How can the same practice both increase and decrease Self-Awareness?... Mindfulness meditation...has a regulating effect on the mind. If you lack Self-Awareness, it can help make internal sensations more salient and vivid. If you are hyper-aware, feeling and hearing your internal signals all too vividly and loudly, it can bring about a kind of equanimity so you are not as bothered by this internal noise. That equanimity eventually helps the noise itself die down. [13]
+
+Self-awareness also involves other forms of internal data, such as intuition. While Davidson's concept of social intuition involves being attuned to the perceptions of others, we must also attend to our own. And we need not view intuition as some form of mysticism. Economist and psychologist Herbert Simon offers a straightforward definition: "The situation has provided a cue; this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition." [14]
+
+Note Simon's emphasis on expertise--psychologists Gary Klein and Daniel Kahneman have determined that intuition is more reliable in circumstances that are more predictable and which provide us with feedback on our decisions, so that we learn over time. [15] This is why experience in the settings described above, from team meetings to media sessions, is so useful--even if we can't consciously predict what will happen in any given moment, when we have a broad base of experience to draw upon we're more effective at sub-conscious pattern recognition.
+
+While we're well-served by acknowledging our intuition, we also need to be cautious before leaping to any specific conclusions on that basis. Years ago my colleague Bonnie Wentworth taught me to distinguish between A) an intuitive sense that something is happening and worth paying attention to, and B) my cognitive interpretation of just what is happening. Even when the latter isn't quite accurate, the former is usually worth exploring further.
+
+The Dance Floor (aka Self-Monitoring)
+
+Having gathered all this data, you now have to put it to use in your interactions with others--and in so doing move fluidly from the balcony to the dance floor and back again. But what does this mean in practice? One useful model is derived from a concept known as "self-monitoring." Psychologists Richard Lennox and Raymond Wolfe, building on earlier work by Mark Snyder, developed a 13-question instrument to measure this quality. [16] Their framework incorporates both aspects of the data-gathering process above, self-awareness and social intuition, and the first seven items in the instrument refer to one's "ability to modify self-presentation":
+
+1. In social situations, I have the ability to alter my behavior if I feel that something else is called for.
+
+2. I have the ability to control the way I come across to people, depending on the impression I wish to give them.
+
+3. When I feel that the image I am portraying isn't working, I can readily change it to something that does.
+
+4. I have trouble changing my behavior to suit different people and different situations.
+
+5. I have found that I can adjust my behavior to meet the requirements of any situation I find myself in.
+
+6. Even when it might be to my advantage, I have difficulty putting up a good front.
+
+7. Once I know what the situation calls for, it's easy for me to regulate my actions accordingly.
+
+The final six items in the instrument refer to one's "sensitivity to expressive behaviors of others":
+
+8. I am often able to read people's true emotions correctly through their eyes.
+
+9. In conversations, I am sensitive to even the slightest change in the facial expression of the person I'm conversing with.
+
+10. My powers of intuition are quite good when it comes to understanding others' emotions and motives.
+
+11. I can usually tell when others consider a joke to be in bad taste, even though they may laugh convincingly.
+
+12. I can usually tell when I've said something inappropriate by reading it in the listener's eyes.
+
+13. If someone is lying to me, I usually know it at once from that person's manner of expression.
+
+It's not necessary to formally complete the instrument to make use of the conceptual framework. [17] Simply review these items and consider the extent to which they already feel accurate for you, as well as where you might benefit from being more deliberate. (Items 4 and 6 are "reverse-scored," meaning that affirmative answers imply lesser capabilities.)
+
+Such heightened awareness won't automatically result in behavior change, but it's the necessary first step. That said, making the effort to track all this additional data and translate it into more effective interactions is likely to be fatiguing, at least at first. For a decade I helped train MBA students at Stanford in coaching principles and practices, which requires a increased degree of self-monitoring, and they inevitably experienced their first coaching sessions as exhausting. [18] But as I've noted before, persistence in any discipline tends to yield a degree of ease and increased stamina:
+
+With repetition we eventually relax, and the process becomes more automatic and require less deliberation.This doesn't mean that we lose all awareness of our abilities, but when engaged in an activity we don't need to focus intensely on our goal to hit the mark. [19]
+
+A final point on self-monitoring and authenticity, topics that psychologist Adam Grant and author and researcher Brené Brown explored in an online debate in 2016. Grant initially took a position that could be paraphrased as "authenticity is overrated," citing a set of studies showing that people who are high self-monitors generally experience better outcomes in professional life. [20] But Brown rejected Grant's premise that authenticity and self-monitoring are inversely related:
+
+In my research I found that the core of authenticity is the courage to be imperfect, vulnerable, and to set boundaries. ...I would argue that authenticity requires almost constant vigilance and awareness about the connections between our thoughts, emotions, and behaviors. It also means staying mindful about our intentions. Real authenticity actually requires major self-monitoring and isn't, as Grant proposes, the lack of self-monitoring. In fact, setting boundaries is, by definition, self-monitoring. [21]
+
+Being more deliberate about your behavior with the intention of guiding an interaction to a better outcome may feel novel or uncomfortable, but that certainly doesn't mean you're being "inauthentic." As I've written before, we may feel that way when we view our authentic self as something we discover, but I think it's more accurate (and more productive) to view our authentic self as something we create:
+
+When we're tackling new tasks or trying out new behaviors that cause discomfort or require fatiguing conscious thought, rather than interpret those feelings as signs of "inauthenticity" we can view them merely as evidence of inexperience. Note that this approach doesn't require us to persist indefinitely with everything that feels like a struggle--we may conclude that certain tasks or behaviors simply can't be added to our repertoire, or that the effort required is too great or the reward too meager. But we shouldn't be dissuaded from the attempt by fears that we're acting "inauthentically." [22]
+
+Footnotes
+
+[1] A Survival Guide for Leaders (Ron Heifetz and Marty Linsky, Harvard Business Review, 2002)
+
+[2] For more on creating space for reflection, see the following:
+
+- Open Space, Deep Work and Self-Care
+
+- How to Think (More on Open Space and Deep Work)
+
+[3] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live—and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[4] Ibid, page 51.
+
+[5] What is brain plasticity, and why is it so important? (Duncan Banks, The Conversation, 2016)
+
+[6] For more on Mehrabian and non-verbal communication, see the following:
+
+- Mehrabian and nonverbal communication (Olivia Mitchell)
+
+- "Silent Messages": A Wealth of Information About Nonverbal Communication (Albert Mehrabian)
+
+[7] Better Conditions for Working Remotely
+
+[8] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[9] For more on Jon Kabat-Zinn's work, see the following:
+
+- Arriving at Your Own Door: 108 Lessons in Mindfulness (Jon Kabat-Zinn, 2007)
+
+- Mindfulness Meditation for Pain Relief (Jon Kabat-Zinn, 2010)
+
+- Full Catastrophe Living (Jon Kabat-Zinn, 2013)
+
+[10] Davidson and Begley, pages 54-55.
+
+[11] Ibid, page 234.
+
+[12] Why You Can't Stop Thinking About Something
+
+[13] Davidson and Begley, page 237.
+
+[14] What is an "Explanation" of Behavior? (Herbert Simon, Psychological Science, 1992)
+
+[15] Strategic decisions: When can you trust your gut? (Olivier Sibony and Dan Lovallo interviewing Daniel Kahneman and Gary Klein, McKinsey Quarterly, 2010)
+
+[16] Revision of the Self-Monitoring Scale (Richard Lennox and Raymond Wolfe, Journal of Personality and Social Psychology, 1984). For a comparison between Lennox and Wolfe's scale and Synder's original work, see Snyder's Self-Monitoring Scale and Lennox and Wolfe's Revised Self-Monitoring Scale (John Roob, University of Nebraska-Lincoln, 1994).
+
+[17] Should you want to complete the instrument, while I'm unable to find a version of Lennox and Wolfe's revised scale that can be scored (or even a data set of results for comparison), you can complete Snyder's original Self-Monitoring Scale. Snyder's version has 25 true/false questions, while Lennox and Wolfe's 13 items are scored on a six-point Likert scale (0 = always false to 5 = always true). But as with any psychometric instrument, bear in mind that the map is not the territory.
+
+[18] Three Conversations (On Better Communication)
+
+[19] Conscious Competence in Practice
+
+[20] Unless You're Oprah, "Be Yourself" Is Terrible Advice (Adam Grant, The New York Times, June 4, 2016). I discuss the Grant-Brown debate further in Cautionary Tales (Authenticity at Work).
+
+[21] My response to Adam Grant’s New York Times Op/Ed (Brené Brown, LinkedIn, June 5, 2016)
+
+[22] Leadership and Authenticity
+
+Photo by Quinn Dombroski.
+
+
+===== END ED BOT ESSAY 4155 =====
+===== BEGIN ED BOT ESSAY 4156 =====
+---
+title: Jeff Pfeffer on Flattery
+url: https://edbatista.com/2022/10/jeff-pfeffer-on-flattery.html
+slug: jeff-pfeffer-on-flattery
+published: 2022-10-25T11:52:15
+updated: 2025-09-24T11:58:02
+source_body: wordpress-html
+---
+
+Flattery will get you everywhere.
+
+~Mae West [1]
+
+I'm a student of the work of Stanford professor Jeff Pfeffer for many reasons, including his rigorous pragmatism and no-bullshit attitude. (This is even reflected in the title of one of his books: Leadership BS.) [2] A client recently observed a pattern of obvious flattery being directed toward a high-status member of a group, and my client expressed some surprise that such seemingly insincere praise would have the desired effect. This brings to mind Pfeffer's comments on the subject:
+
+One of the best ways to make those in power feel better about themselves is to flatter them. The research literature shows how effective flattery is as a strategy to gain influence. Flattery works because we naturally come to like people who flatter us and make us feel good about ourselves and our accomplishments, and being likable helps build influence. Flattery also works because it engages the norm of reciprocity--if you compliment someone, that person owes you something in return just as surely as if you had bought the individual dinner or given a gift-because a compliment is a form of gift. And flattery is effective because it is consistent with the self­-enhancement motive that exists in most people...
+
+Most people underestimate the effectiveness of flattery and therefore underutilize it. If someone flatters you, you essentially have two ways of reacting. You can think that the person was in­sincere and trying to butter you up. But believing that causes you to feel negatively about the person whom you perceive as insincere and not even particularly subtle about it. More importantly, think­ing that the compliment is just a strategic way of building influence with you also leads to negative self-feelings-what must others think of you to try such a transparent and false method of influence? Al­ternatively, you can think that the compliments are sincere and that the flatterer is a wonderful judge of people--a perspective that leaves you feeling good about the person for his or her interpersonal perception skill and great about yourself, as the recipient of such a positive judgment delivered by such a credible source. There is simply no question that the desire to believe that flattery is at once sincere and accurate will, in most instances, leave us susceptible to being flattered and, as a consequence, under the influence of the flatterer. So, don't underestimate--or underutilize--the strategy of flattery. University of California-Berkeley professor Jennifer Chatman, in an unpublished study, sought to see if there was some point beyond which flattery became ineffective. She believed that the effectiveness of flattery might have an inverted U-shaped relationship, with flattery being increasingly effective up to some point but beyond that becoming ineffective as the flatterer became seen as insincere and a "suck up." As she told me, there might be a point at which flattery became ineffective, but she couldn't find it in her data. [3]
+
+I'm not suggesting that you should "suck up" to anyone, in part because such behavior is usually observed by others and may have an undesirable effect on them. (My client now has a new--and unflattering--perspective on the other members of the group noted above.) But Pfeffer challenges us to see the world not as we want it to be, but as it really is, and it's worth bearing in mind that we're highly susceptible to the effects of unscrupulous flattery even when we know it's insincere.
+
+ 
+
+Footnotes
+
+[1] Mae West (1893-1980) was an actress known for her risque persona and double entendres.
+
+[2] For more on what I've learned from Pfeffer, see the following:
+
+- Force Isn't Power
+
+- Cautionary Tales (Authenticity at Work)
+
+- What Do Great Leaders Do?
+
+- The Trium Group on Responsibility
+
+[3] Power: Why Some People Have It and Others Don't, pages 33-35 (Jeff Pfeffer, 2010)
+
+ 
+
+Photo of Mae West via tom-margie.
+
+
+===== END ED BOT ESSAY 4156 =====
+===== BEGIN ED BOT ESSAY 4157 =====
+---
+title: Group Dynamics: Very Loud (and Very Quiet) People
+url: https://edbatista.com/2022/10/group-dynamics-very-loud-and-very-quiet-people.html
+slug: group-dynamics-very-loud-and-very-quiet-people
+published: 2022-10-23T13:15:13
+updated: 2025-10-05T16:43:16
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader whose team includes a very talkative (or very reserved) member, whose participation deviates substantially from the group norm. Very talkative people may speak at great length, weigh in on every topic, or interrupt frequently, leaving others feeling frustrated or stifled. Very reserved people may participate rarely or not at all, leaving others feeling hesitant or anxious.
+
+It's absolutely not the case that members' participation should be equivalent, but groups generally have a limited capacity to tolerate divergence from normative behavior before experiencing distress. In part this is because the existence of agreed-upon norms help all members calibrate and regulate their own participation, and when the range of behavior in a group becomes too broad, it can no longer be said that a "norm" even exists. [1]
+
+And in many groups the potential to make a valuable contribution is evenly distributed--this may be the rationale for each member's inclusion in the group--but uneven patterns of participation undermine the group's effectiveness. This can be exacerbated by factors related to group tenure or social identity--for example, a long-term member may be much more vocal than new members, or a member who's a demographic minority may be much less vocal than the majority, especially if they're an "only" in some way. [2]
+
+If you're a leader with an unusually loud (or unusually quiet) team member, what can you do? First, assess your tolerance (and that of the other group members) for communication styles that differ from your own. Bear in mind that the goal is a more effective group, not simply one that's more comfortable for the majority. [3] Having done that that, what further steps can you take? You always have the following tools at your disposal.
+
+1:1 Dialogue
+
+You can speak individually with the very talkative (or very reserved) person about their participation in the group. But note that this isn't just about "providing feedback." While you are in a position to help this person understand the impact of their participation on how they're perceived by others and on the group as a whole, it's essential to bear in mind that an individual's behavior in a group is in part a function of the group environment. The failure to recognize this is one of the most common dynamics in social psychology--it's so prevalent that it's called the "fundamental attribution error": Ascribing causality to an individual when causality actually lies with the situation. [4]
+
+So it's essential to acknowledge the group environment and its potential impact on the individual's participation. (This can be a fruitful topic of discussion for the group as a whole--see below.) But a starting point can simply be learning more about what's going on with this person in other domains of work or life that might be affecting their participation in the group. This can lead into a discussion about what it's like for this person to be a member of the group, raising your awareness of their group experience.
+
+While it's often safer to navigate such potentially fraught topics in a 1:1 setting, there are two pitfalls to be aware of here: First, if this person is prone to defensiveness, a discussion about the group dynamic can be a way to avoid acknowledging the impact of their personal behavior. Awareness of the fundamental attribution error should temper the assignment of causation or blame, but it doesn't absolve individuals of all responsibility.
+
+Also, in your efforts to represent how others are perceiving this person's participation, you may (or may not) have direct input from other members of the group, and you may (or may not) have their permission to attribute their comments to them. Here you face some difficult choices: If you share input from other group members but preserve their anonymity, the person you're talking with may feel exposed and unsafe in the group. If you share input from other group members and reveal their identities, these other people may feel exposed and unsafe, or you may set off a round of follow-up conversations that they're not yet prepared to have. And if you don't share input from other group members, you may create the mistaken impression that you're the only one who's troubled by this person's participation.
+
+The ultimate solution is build a group that's sufficiently robust to hold such conversations in real time with all members present--again, see below. But the reality is that some groups never achieve this ideal, and others reach it only in rare moments--an exceptionally meaningful exercise at an offsite, or a heartfelt conversation over dinner. So while you work your way toward that ideal, the interim solution is to offer feedback based primarily on your own observations, while being rigorous about the format and process to maximize the likelihood of a productive response. [5]
+
+Structured Processes
+
+This involves using various cues and procedures to ensure that every member of the group participates while no member predominates. It need not be complex or cumbersome--simply telling the group, "I want to hear from everyone on this issue" is a type of structured process. It can also be distinct from the group's ordinary discussion--for example, one of the reasons to conduct a "check-in" at the beginning of a group experience is to elicit equivalent participation from all members and thereby set a precedent for subsequent interactions. [6]
+
+Structured processes can be used at any point in a group experience, although the initial cue alone may be insufficient, and you may have to take further steps to regulate participation levels as needed. Note that all such procedures come with a cost, which is why they should be employed judiciously:
+
+- Using a timer to limit participation reins in people who tend to run long. A cost is that such people may feel unduly constrained. [7]
+
+- Speaking in a predetermined order ensures that everyone participates. When meeting in-person, this can be as simple as "going around the table" (or the circle, as the case may be.) A cost is that people who are reluctant to participate may feel anxious as their turn approaches. An alternative can be participating "popcorn" style--you're free to speak up when you choose, but once you've spoken you have to wait until everyone has joined in before speaking again.
+
+- Using an object (when in-person) or relying upon a facilitator to designate the speaker will minimize interruptions. A cost is that the discussion can feel stilted or excessively inhibited.
+
+- Pausing and inviting everyone to take some written notes before resuming the discussion can help talkative members organize their thoughts while also spurring reserved members to speak up. Costs include the time consumed and the interruption to the previous flow of discussion.
+
+The idea isn't to become dependent on structured processes, but, rather, to weave them into the group experience as needed. And despite their various costs, their benefits include not only more balanced participation, but also a sense of novelty. When such processes are well-facilitated (which takes practice), groups can welcome the change from their habitual patterns of interaction.
+
+Direct Intervention
+
+This involves taking action in the moment to reduce participation by a talkative member (and evoke participation from the rest of the group) or evoke participation by a reserved member (and reduce participation by the rest of the group). An advantage of this approach is that it focuses on the individual whose uneven participation is affecting the group, without requiring a structured process separate and distinct from the group's normal discussion. A potential disadvantage is that the individual may feel unfairly singled out and have a negative response to your intervention.
+
+One solution is obtaining permission in advance from the individual under consideration, not only to avoid surprising them with your intervention, but also to ensure that they understand your motivation. It's essential that they feel supported by you as the leader rather than criticized, and an outcome of your 1:1 dialogue with them can be a shared strategy along these lines. A key is intervening subtly at first and escalating slowly to more direct measures.
+
+With a very talkative member, you can...
+
+- Ask the group for more input, hoping that others speak up.
+
+- Ask explicitly to hear from other group members.
+
+- Ask this individual to briefly pause to create space for others.
+
+- Interrupt this individual, particularly if they've interrupted someone else or are talking over others.
+
+With a very reserved member, you can:
+
+- Ask the group for more input, hoping that this member speaks up.
+
+- Ask explicitly to hear from this group member.
+
+- Ask others to briefly pause to create space for this individual.
+
+Such interventions are easy to describe in the abstract, but can be difficult to implement without creating a sense of awkwardness or embarrassment. And yet if you're never willing to accept the risk of stumbling, you'll never develop the skills necessary to intervene with grace and tact.
+
+But even though as the leader you'll always have a special role to play in the development of the group environment, you need not bear this responsibility alone--nor will you succeed if you try. At some point it will be both desirable and necessary to invite all members to assess the group's culture and norms and offer suggestions for improvement.
+
+Group Dialogue
+
+We can think of this as a "meta-conversation": a group discussion about how the group holds discussions. This is far more difficult work than most people realize, which is one reason why so many exercises conducted with this goal in mind fall flat at best. There is a basic conceptual challenge--group dynamics are complex, and relatively few people get much useful training in understanding them.
+
+But at a more fundamental level discussing a group's dynamics with the members of that group inevitably evokes a degree of self-consciousness and vulnerability, which often exacerbates the problematic behaviors that necessitated the discussion in the first place. It's a profoundly thorny dilemma--but one that's worth trying to untangle.
+
+One of the greatest benefits of a group dialogue is its efficiency. While separate 1:1 conversations with group members are useful, as noted above, that process is not only time-consuming but also subject to various degrees of distortion because other group members aren't present to correct misunderstandings or inaccuracies regarding their behavior and intentions.
+
+While specific topics to be addressed here include the optimal range of group participation, the impact on the group of non-normative behavior, and the impact of the group environment on non-normative individuals, it's useful to be aware of the general conditions necessary for any productive norm:
+
+- A set of shared beliefs about how individuals should behave.
+
+- Sufficient mutual esteem among members so that its withdrawal would be felt as a loss by any individual.
+
+- A willingness by members to openly acknowledge a norm violation by a peer.
+
+- A willingness by members to withhold esteem from a peer as a consequence of a norm violation. [8]
+
+So note the value of taking the time to build meaningful relationships among the group members before jumping into a "norms discussion." As I've written before,
+
+This is why relationship-building on a team is so important and why leaders who dismiss it as fluffy bullshit are missing a critical factor in the process of developing productive norms. It's not about "liking each other"--it's about the power of mutual esteem. [9]
+
+Finally, be aware that no single discussion will permanently resolve such a complex set of issues. We call them group dynamics because we expect them to change, and the patterns of behavior that support (or inhibit) effective group performance today may do the opposite in the future. As David Bradford, one of my mentors, used to say, the most productive group norm is a commitment to regularly revisit the group's norms.
+
+Footnotes
+
+[1] For more on the definition and establishment of norms, see Rules Aren't Norms (On Better Meeting Hygiene).
+
+[2] Research on the impact of group composition and diversity on performance is inconclusive--it's easy to find studies supporting almost any point you want to make on the subject. Two observations drawn from my experience are that 1) homogeneous teams experience less conflict but can be more prone to blind spots and "groupthink," and 2) heterogeneous teams can only make effective use of their diversity once they learn to manage conflict effectively (including, but not limited to, the topic under discussion here.)
+
+[3] Work Style Differences
+
+[4] This is the definition I learned in 1998 from Roberto Fernandez, my brilliant Organizational Behavior professor at Stanford. The initial work on the fundamental attribution error was done by Stanford psychologist Lee Ross: The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process (Advances in Experimental Social Psychology, 1977).
+
+[5] For more on effective feedback, see the following:
+
+- How to Deliver Critical Feedback
+
+- Feedback Is Not a Gift
+
+- Make Feedback Normal. Not a Performance Review.
+
+[6] Check in to LISTEN, Not Just to Speak
+
+[7] When using a timer, it's preferable to avoid a harsh or abrupt tone--I've used the sound of this Tibetan bowl in many different settings over the years:
+
+https://edbatista.com/wp-content/uploads/files/bowl.mp3
+Download: Tibetan Bowl
+
+[8] Rules Aren't Norms (On Better Meeting Hygiene)
+
+[9] Ibid.
+
+For Further Reading
+
+Group Dynamics: The Leader's Toolkit
+
+Group Dynamics: Norms and Emotion
+
+Freud on Startup (Conditions for Group Effectiveness)
+
+Huddle Up! (Building Group Cohesion)
+
+Symptoms of Group Strength
+
+Photo by Chris Christian.
+
+
+===== END ED BOT ESSAY 4157 =====
+===== BEGIN ED BOT ESSAY 4158 =====
+---
+title: The Rubber Band Effect
+url: https://edbatista.com/2022/10/the-rubber-band-effect.html
+slug: the-rubber-band-effect
+published: 2022-10-19T01:00:00
+updated: 2025-09-24T11:58:02
+source_body: wordpress-html
+---
+
+One of a leader's foremost responsibilities is predicting the likelihood of future events and planning accordingly. A leader's effectiveness at this task derives from a number of sources: time and space for strategic thinking, access to critical data, a knack for pattern-recognition--or the ability to hire others with the requisite skills and make use of their recommendations.
+
+As a result, good leaders spend a material portion of their time envisioning the future--weeks, months, and even years ahead of the people around them. They peer over the horizon and get a sense of what it might be like to live there. This capability can be a tremendous asset--but only when it's coupled with the ability to influence others to adopt and act upon that same vision. In the absence of this capability, even the most far-seeing leader will suffer the fate of Cassandra in Greek myth: Blessed with the gift of prophecy, doomed to never be believed.
+
+Imagine there's a rubber band connecting the leader with the people around them. When the leader travels forward in time to envision the future, the rubber band stretches. This produces a useful and necessary tension between the leader's vision and everyone else's current reality, which, under the right circumstances, can move people to adopt this vision of the future and begin to act accordingly. But if the leader runs too far ahead or pulls too hard in an effort to bring people along, the rubber band breaks. There's a rupture between the leader's vision of the future and everyone else's current reality, and the leader loses influence as a result.
+
+If good leaders spend time living in the future, great leaders perfect the skill of inducing others to join them there. Sometimes this entails active efforts to shape and influence others' views--but it also requires the ability to abstain from taking action when necessary. Because the foresighted leader not only assesses the likelihood of future events, but also pays close attention to current trends and the extent to which they are sweeping other people along in their wake, with or without further action by the leader.
+
+The great leader steps into the future just far enough to encourage the people around them to consider the possibility of this alternative reality, but not so far ahead that their vision is dismissed or ignored. The great leader allows the combined force of their vision of the future and the movement of current trends to bring people along without unnecessary force by the leader or undue stress on others. The rubber band stretches, but it does not break.
+
+Is this always possible? No, of course not. Events rarely align so neatly. But it's something to strive for, and here's how this process shows up every day in my coaching practice: The leaders I work with are tasked with looking into a volatile and uncertain future and placing high-stakes bets on what they believe to be the likely outcomes. They will inevitably be compelled to make decisions with imperfect and incomplete data. And they must do this while leading teams that include a number of people who are manifesting various forms of anxiety: aggression, panic, paralysis, denial.
+
+The metaphorical bands that bind the leaders in my practice to the people around them are fraying under the strain. They must not break. My clients must maintain sufficient tension to help move their organizations and their employees forward, without putting so much pressure on people and systems that the bands rupture. It is a delicate balance.
+
+ 
+
+For Further Reading
+
+Aggression, Panic, Paralysis and Denial
+
+How to Cross Antarctica (On Surviving Chaos)
+
+The Importance of Shared Narrative
+
+ 
+
+Adapted from Leadership in Crisis (FDR and the Rubber Band Effect).
+
+Photo by laogooli.
+
+
+===== END ED BOT ESSAY 4158 =====

@@ -1,0 +1,290 @@
+===== BEGIN ED BOT ESSAY 3818 =====
+---
+title: The Most Productive People Know Who to Ignore
+url: https://edbatista.com/2014/08/new-post-at-hbr-the-most-productive-people-know-who-to-ignore.html
+slug: new-post-at-hbr-the-most-productive-people-know-who-to-ignore
+published: 2014-08-20T08:07:28
+updated: 2025-10-06T20:21:23
+source_body: wordpress-html
+---
+
+A coaching client of mine is managing partner at a very large law firm, and one of the issues we've been working on is how to cope more effectively with the intense demands on his time--clients who expect him to be available, firm partners and other employees who want him to address their concerns and resolve disputes, an inbox overflowing with messages from these same people (and others!), as well as an endless to-do list. Compounding this challenge, of course, is the importance of making time for loved ones and friends, exercise, and other personal needs.
+
+When faced with potentially overwhelming demands on our time, we’re often advised to "Prioritize!" as if that’s some sort of spell that will magically solve the problem. But what I've learned in the process of helping people cope with and manage their workflow is that prioritizing accomplishes relatively little, in part because it's so easy to do. Let's define the term: Prioritizing is the process of ranking things--the people who want to take up our time, items on our to-do list, messages in our Inbox--in order of importance. While this involves the occasionally difficult judgment call, for the most part it's a straightforward cognitive task. When looking at a meeting request, a to-do list, or an email we have an intuitive sense of how important it is, and we can readily compare these items and rank-order them.
+
+Here’s the problem. After we prioritize, we act as though everything merits our time and attention, and we’ll get to the less-important items "later." But later never really arrives. The list remains without end.
+
+Our time and attention are finite resources, and once we reach a certain level of responsibility in our professional lives, we can never fulfill all the demands we face no matter how long and hard we work. The line of people who want to see us stretches out the door and into the street. Our to-do lists run to the floor. Our inboxes are never empty.
+
+What trips up so many of us is imagining that we can keep lowering that threshold--by working harder, longer, "smarter" (whatever that really means) in the futile hope that eventually, someday, we'll get to the bottom of that list.
+
+The key is recognizing that prioritization is necessary but insufficient. The critical next step is triage. Medical staff in a crisis must decide who requires immediate assistance, who can wait, who doesn't need help at all, and who's past saving. Triage for the rest of us entails not just focusing on the items that are most important and deferring those that are less important until "later," but actively ignoring the vast number of items whose importance falls below a certain threshold. What does this look like in practice?
+
+Reframing
+
+The first step is to reframe the issue. Viewing a full inbox, unfinished to-do lists, and a line of disappointed people at the door as a sign of our failure is profoundly unhelpful. This perspective may motivate us to work harder in the hopes of someday achieving victory, but this is futile. We will never win these battles, not in any meaningful sense, because at a certain point in our careers the potential demands facing us will always outstrip our capacity, no matter how much effort we dedicate to work.
+
+So the inbox, the list, the line at the door are in fact signs of success, evidence that people want our time and attention. And ultimate victory lies not in winning tactical battles but in winning the war: Not an empty inbox, but an inbox emptied of all truly important messages. Not a completed to-do list, but a list with all truly important items scratched off. Not the absence of a line at our door, but a line with no truly important people remaining in it.
+
+The Right Tools
+
+The next step is to stop using the wrong tools. We expend vast amounts of energy on "time management" and "personal productivity," and while these efforts can yield results at the tactical level, they’re futile when it comes to the strategic task of triage. Remember: this is not about making a list but deciding where the cut-off point is and sticking to it.
+
+Emotion Management
+
+Finally, we need to address the emotional aspect of triage, because it’s not merely a cognitive process. Actively ignoring things and saying no to people generates a range of emotions that exert a powerful influence on our choices and behavior. This is precisely what makes triage so difficult, and until we acknowledge its emotional dimension, our efforts to control our workflow through primarily intellectual interventions are unlikely to succeed.
+
+This process may well be occurring right now. A moment ago when you read the phrase, "no truly important people," above, you probably flinched a little and thought it was somewhat callous. I flinch when I read it, too, and I wrote it! But this understandable response is exactly why we devote time and attention to people who don’t truly merit the investment. There’s a fine line between effective triage and being an asshole, and many of us are so worried about crossing that line that we don’t even get close. [1]
+
+To triage effectively we need to enhance our ability to manage these concerns and other, related emotions (and "manage" does not mean "suppress"). As neuroscientist Antonio Damasio has written (and as everyone's experienced first-hand), emotions can undermine effective decision-making by "creating an overriding bias against objective facts or even by interfering with support mechanisms of decision-making such as working memory." [2]
+
+And this is exactly what happens to us when the active choice to ignore--the decision at the heart of triage--generates emotions that we fail to fully grasp. When confronted by overwhelming demands on our time, we may feel anxious, scared, resentful, or even angry, but we’re often not sufficiently aware of or in touch with these emotions to make effective use of them. They flow through us below the level of active consciousness, inexorably guiding our behavior, but in many cases--and particularly when under stress--we fail to recognize their influence and miss opportunities to make the choices that will best meet our needs.
+
+Improved emotion management is a complex undertaking, but there are a number of steps we can take that help:
+
+- Adjust our mental models to reflect emotions' importance and the role they play in rational thought and decision-making. Our beliefs shape our experience.
+
+- Take better care of ourselves physically. Regular exercise and sufficient sleep demonstrably improve our ability to both perceive and regulate emotion.
+
+- Engage in some form of mindfulness routine. Meditation, journaling and other reflective practices enhance our ability to direct our thoughts, helping us sense emotion more acutely, and provide a new perspective on our experiences, helping us make sense of those emotions.
+
+- Expand our emotional vocabulary--literally. Having a wider range of words to describe what we’re feeling not only helps us communicate better with others, but also helps us to more accurately understand ourselves.
+
+The ultimate goal is to expand our comfort with discomfort--to be able to acknowledge the difficult emotions generated by the need to triage so that we can face our endless to-do list, our overflowing Inbox, and the line of people clamoring for our attention and, kindly but firmly, say "No."
+
+Footnotes
+
+[1] Stanford professor Bob Sutton has written extensively on assholes in the workplace and their impact on other people and overall productivity:
+
+- The No-Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't (2010)
+
+- Building the Civilized Workplace (McKinsey Quarterly, 2007)
+
+- Memo to the CEO: Are you the source of workplace dysfunction? (McKinsey Quarterly, 2017)
+
+[2] Antonio Damasio on Emotion and Reason
+
+For Further Reading
+
+Corn Mazes and Mental Models
+
+Get Moving! (Exercise for Busy People)
+
+A compilation of readings and research on sleep
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+Vocabulary of Emotions
+
+Learning to Say "No" Is Part of Success
+
+Originally published at Harvard Business Review.
+
+Photo by Alex Proimos via Wikimedia.
+
+
+===== END ED BOT ESSAY 3818 =====
+===== BEGIN ED BOT ESSAY 3819 =====
+---
+title: A Power and Influence Primer
+url: https://edbatista.com/2014/08/a-power-and-influence-primer.html
+slug: a-power-and-influence-primer
+published: 2014-08-16T20:42:09
+updated: 2025-10-12T16:19:06
+source_body: wordpress-html
+---
+
+Much of my work as a coach involves helping leaders determine how they can most effectively wield power to best meet the needs of their organizations. And note that by power I mean not only the directive authority invested in their roles, but also the many forms of influence at their disposal. I often refer clients to the articles below, so I've compiled them here for easier access:
+
+Power is the Great Motivator: A classic HBR article based on David McClelland's motivational needs theory.
+
+McClelland and Burnham on Power and Management: A post of mine on McClelland's theory.
+
+Power Play: Stanford GSB Prof. Jeff Pfeffer in HBR on the topic that's at the center of his teaching and research.
+
+Self-Awareness, Empowerment and Choice [PDF]: An article by Patricia Day Williams from NTL's Reading Book for Human Relations Training.
+
+Interpersonal Power: A post of mine that references Williams' article.
+
+Three Definitions of Power: A short post in response to the question, "What does power mean to you?"
+
+Harnessing the Science of Persuasion: Robert Cialdini's classic HBR article on the subject of influence.
+
+Howard Gardner on Influence: A short post on Gardner's Changing Minds.
+
+The Influence Pyramid 2.0: A framework I developed to integrate and put into practice many of the concepts referenced here.
+
+Geert Hofstede on the Dimensions of Cultural Distance: See the section on "power distance."
+
+Why It Pays to Be a Jerk: Jerry Useem, The Atlantic. Useem, the longtime Senior Editor-at-Large of Fortune and previously a Research Associate at HBS, provides a thoughtful survey of recent research on influence by such figures as Wharton’s Adam Grant and Stanford's Jeff Pfeffer, among many others.
+
+A theme that often comes up in my work with women leaders is the unique challenges they face when wielding power (some imposed by external forces, others self-imposed):
+
+Women Need to Realize Work Isn't School: Whitney Johnson and Tara Mohr in HBR.
+
+Women, Men, Work and Emotion: A post of mine discussing Johnson and Mohr's work.
+
+Women and the Uneasy Embrace of Power: Pfeffer in HBR again. (Be sure to read the comments, which offer some thoughtful critiques of Pfeffer's perspective.)
+
+Update: Here are some academic papers that have influenced my perspective on power and, more specifically, its impact on our behavior when we obtain it:
+
+Power, Approach, and Inhibition (Dacher Keltner, Deborah Gruenfeld, and Cameron Anderson, Psychological Review, 2003)
+
+Powerful, Intoxicated, Anonymous: The Paradox of the Disinhibited: A brief article summarizing an in-depth paper on the ways power, intoxication, and anonymity can all have similarly disinhibiting effects on behavior.
+
+Photo by Jamie Jamieson.
+
+
+===== END ED BOT ESSAY 3819 =====
+===== BEGIN ED BOT ESSAY 3820 =====
+---
+title: Make Getting Feedback Less Stressful
+url: https://edbatista.com/2014/08/new-post-at-hbr-make-getting-feedback-less-stressful.html
+slug: new-post-at-hbr-make-getting-feedback-less-stressful
+published: 2014-08-08T10:44:52
+updated: 2026-08-14T15:45:11
+source_body: wordpress-html
+---
+
+Much of my work as a coach and teacher involves helping people improve their abilities to deliver feedback more effectively. It’s a critical skill, particularly for both leaders in flat organizations where giving orders is generally counter-productive and for anyone who needs to manage up or across by influencing their bosses or peers. And it’s a topic on which I’ve written extensively, not only in posts on this site [1] and for the Harvard Business Review [2], but also in the HBR Guide to Coaching Your Employees. [3]
+
+But a recent exchange with my colleague and former Stanford student Anamaria Nino-Murcia [4] made me realize that I’ve been neglecting the other half of this equation: How to receive feedback more effectively.
+
+First, we need to recognize that receiving feedback is inherently a stressful experience. As Sheila Heen and Douglas Stone of the Harvard Negotiation Project have written, "Even when you know that [feedback is] essential to your development and you trust that the person delivering it wants you to succeed, it can activate psychological triggers. You might feel misjudged, ill-used, and sometimes threatened to your very core." [5] And this is true even in feedback-friendly organizations, and it’s even worse in environments where feedback is infrequent and surprising.
+
+As a species, we have developed a "threat response," a cascade of physiological, emotional, and cognitive events that occur when we perceive a conflict. We typically refer to this set of reactions as a fight, flight, or freeze response. Recent neuroscience research has shown that our brains and bodies can respond to certain interpersonal situations the same way we react to literal threats to our physical safety. Psychologists refer to these experiences as "social threats."
+
+Executive coach David Rock conducted an extensive study of the relevant research and developed the SCARF model [6] to help identify interpersonal dynamics that are likely to trigger a social threat. What’s striking is how many of these dynamics are present in a typical feedback conversation:
+
+Status: Feedback often comes from leaders and managers who occupy a position of higher status in the relationship. And when feedback comes from a peer or subordinate, you may interpret their behaviors as the temporary assumption of a higher status role.
+
+Certainty: You may know little about the content of the feedback, particularly in an organization or a relationship where feedback is rarely offered. Even if you have a sense of what the conversation will be about, you can’t be certain about its specific content.
+
+Autonomy: You may feel required to participate in the conversation, especially if a manager has initiated it. And the increasing prevalence of a “feedback-rich culture” (which I’ve helped to promote) may make you feel obligated to participate in a feedback conversation anytime anyone wants to have one. This makes your participation feel less like a choice.
+
+Relatedness: As with status, when someone is providing feedback you may perceive them as temporarily assuming a more distant role, resulting in a diminished sense of personal connection or closeness.
+
+Fairness: You may well view feedback as unfair, particularly if the feedback giver makes inaccurate assumptions about the motives behind your behavior (as they often do.)
+
+These dynamics can trigger a social threat in every one of us. When we encounter people of higher status, when we experience uncertainty, when we feel less autonomy or freedom of choice, when we feel less connected to those around us, and when we believe that something is unfair we are more likely to experience a social threat. It’s no wonder that feedback can be so stressful!
+
+With this context in mind, here are the keys to receiving feedback more effectively.
+
+Reframe the experience.
+
+In the moment, you can use Rock’s SCARF model to better understand what’s happening, and employ your conscious awareness of those dynamics to diminish your sense of social threat. This is a long-established psychological technique derived from cognitive-behavioral therapy known as cognitive reappraisal or, more simply, reframing. Psychologists such as James Gross [7] and Rebecca Ray [8] of Stanford and Kevin Ochsner [9] of Columbia, among others, have shown that reframing can reduce stress levels and increase our abilities to manage negative emotions.
+
+In the context of a feedback conversation, you should remind yourself of the following:
+
+- Your perception that feedback is threatening is rooted in clearly understood neurological and psychological dynamics. The feeling of being threatened doesn’t automatically imply that you are facing a literal threat.
+
+- The person providing you with feedback isn’t necessarily assuming a position of higher status or lording their status over you. In most cases their intentions are simply to help you improve—even if they’re doing so ineffectively.
+
+- Even if you feel obligated to participate in the conversation, you are making the choice to respond to that pressure, and you do have some agency.
+
+- If you believe the feedback is unfair, note that you may be misunderstanding the feedback giver's motives--and they may have made some wrong assumptions about you as well. If this is the case, try stating your true intentions and point out how they differ from what the feedback giver has assumed.
+
+Note that reframing has its limits, and your capacity for feedback is finite. At certain points you’ll be unable to fully comprehend the other person’s comments, or you’ll become distracted by your own inner monologue, or you’ll simply feel overwhelmed or flooded with various emotions. These are signs that you’ve absorbed all the feedback that you can at the moment. When this happens you should pause the conversation so that you can make sense of what you’ve heard so far, and agree to continue only after you’ve had an opportunity to reflect.
+
+Build the relationship.
+
+Over time, you can develop closer relationships and build trust with the people who are likely to give you feedback. This will help you feel more comfortable.
+
+The work of John Gottman, a social psychologist at the University of Washington and a leading expert on relationships [10], suggests that the following steps can help:
+
+- Share more personal information about yourself so you and the feedback giver grow more familiar with each other. You could do this over a meal, of course, but that’s not always possible. At the start of the feedback conversation, just take a few seconds to disclose how you’re feeling before jumping into the business at hand.
+
+- Express more appreciation, even for small gestures. We tend to minimize signs of appreciation in our working relationships because we assume that the other person knows how we feel, or we fear that our appreciation will be misinterpreted. As a consequence, we miss opportunities to generate positive feelings and establish closeness — qualities that tend to make feedback conversations less stressful.
+
+- Notice when the other person is seeking your attention — this can be as obvious as an invitation to lunch and as subtle as a glance seeking to make eye contact — and respond to these “bids.” You may not be able to fulfill the other person’s need for your focused attention at a given moment, but simply acknowledging it can help build a deeper, more connected relationship.
+
+Develop a feedback-rich culture.
+
+While there’s much we can do individually and in our working relationships to improve the experience, the process of giving and receiving feedback will always be heavily influenced by the surrounding organizational culture. We should strive to create a culture in which feedback conversations are less stressful for all members of the organization. [11] Among other steps, this involves giving and receiving feedback more frequently so that it becomes a normal aspect of organizational life, making it OK to both postpone feedback conversations until a better time, and ensuring that senior leaders walk the talk by offering and inviting direct feedback on a regular basis.
+
+We often hear that feedback is "a gift" or "the breakfast of champions." I understand that the intention is to encourage us to be more open to feedback, but I've stopped using those phrases because they fail to acknowledge how difficult the experience of receiving feedback can be. [12] This can lead us to ignore our stress levels in feedback conversations, or, worse, feel required to tough it out even when we’re distressed past the point of effective learning. As board-certified neurologist and middle school teacher Judy Willis has written, "When stress activates the brain’s affective filters...the learning process grinds to a halt." [13]
+
+I’m a confirmed believer in the value of pushing ourselves outside our comfort zones in order to grow, and feedback is an essential element in that process. But we should step into these conversations with a keen understanding of how we respond to stress, a plan for managing our stress levels, and an awareness of when we become too stressed to absorb feedback and learn from it. It’s a certainty that we’ll encounter some poorly-delivered feedback that renders a stressful experience even more distressing, so we need to prepare ourselves to receive some difficult feedback in the moment and strive to make our working relationships and organizational cultures safer, more trusting, and more feedback-friendly.
+
+Footnotes
+
+[1] Give It To Me Straight (Effective Feedback)
+
+[2] Building a Feedback-Rich Culture (Harvard Business Review)
+
+[3] The HBR Guide to Coaching Your Employees (Revised Edition)
+
+[4] Anamaria Nino-Murcia
+
+[5] Find the Coaching in Criticism (Sheila Heen and Douglas Stone, Harvard Business Review, 2014)
+
+[6] Neuroscience, Leadership and David Rock's SCARF Model
+
+[7] Emotion regulation: Affective, cognitive and social consequences (James Gross, Psychophysiology, 2003)
+
+[8] Individual differences in trait rumination and the neural systems supporting cognitive reappraisal (Rebecca Ray, et al, Cognitive, Affective and Behavioral Neuroscience, 2005)
+
+[9] Cognitive Emotion Regulation: Insights From Social Cognitive and Affective Neuroscience (Kevin Ochsner and James Gross, Current Directions in Psychological Science, 2008)
+
+[10] Marital interaction and satisfaction: A longitudinal view (John Gottman and Lowell Krokoff, Journal of Consulting and Clinical Psychology, 1989)
+
+[11] Building a Feedback-Rich Culture
+
+[12] Feedback Is Not a Gift
+
+[13] The Neuroscience of Joyful Education (Judy Willis, Educational Leadership, 2007)
+
+Originally published by Harvard Business Review.
+
+Photo by John Twohig.
+
+
+===== END ED BOT ESSAY 3820 =====
+===== BEGIN ED BOT ESSAY 3821 =====
+---
+title: Brené Brown, Vulnerability, Empathy and Leadership
+url: https://edbatista.com/2014/08/brene-brown-vulnerability-empathy-and-leadership.html
+slug: brene-brown-vulnerability-empathy-and-leadership
+published: 2014-08-03T14:01:26
+updated: 2025-10-05T12:41:10
+source_body: wordpress-html
+---
+
+Brené Brown is a research professor at the University of Houston's Graduate School of Social Work, and she's dedicated her career to the study of such topics as vulnerability, empathy, courage and shame. Her 2010 TEDxHouston talk on The Power of Vulnerability has over 46 million views as of February 2020, and even though I've seen it myself nearly a dozen times I continue to find it inspiring and insightful.
+
+While Brown's message resonates with such a large audience because of the universality of her themes, she talks about vulnerability and empathy in a way that I believe has specific relevance for leaders, which is why I often make use of her work with my coaching clients and MBA students at Stanford. Here's the key passage in Brown's 2010 talk, in which she describes findings from her research on the extent to which different people feel love and belonging in their lives:
+
+[Something that people who have a strong sense of love and belonging] had in common was this: They fully embraced vulnerability. They believed that what made them vulnerable made them beautiful. They didn't talk about vulnerability being comfortable, nor did they really talk about it being excruciating... They just talked about it being necessary...
+
+The problem is--and I learned this from the research--that you cannot selectively numb emotion. You can't say, here's the bad stuff. Here's vulnerability, here's grief, here's shame, here's fear, here's disappointment. I don't want to feel these. I'm going to have a couple of beers and a banana nut muffin. (Laughter) I don't want to feel these... You can't numb those hard feelings without numbing the other affects, our emotions. You cannot selectively numb. So when we numb those, we numb joy, we numb gratitude, we numb happiness. And then we are miserable, and we are looking for purpose and meaning, and then we feel vulnerable, so then we have a couple of beers and a banana nut muffin. And it becomes this dangerous cycle. [1]
+
+So to fully experience positive emotions, we have to be open to our negative emotions. We have to resist the urge to numb ourselves and cultivate the ability to be vulnerable without feeling compelled to protect ourselves. We have to develop a sense of comfort with our discomfort.
+
+These concepts are of critical importance to leaders, who must not only manage their own emotions, but who also have a significant impact on the emotions of everyone around them (for better and for worse). Emotions are literally contagious--we sense them in others, pick them up and pass them on--and we're even more sensitive to the emotions of leaders and others we view as having high status.
+
+A leader who can leverage this dynamic effectively has a tremendous competitive advantage. They can acknowledge negative emotions (both their own and others) and manage or make use of them in a way that's healthy and productive, rather than A) seeking to repress or ignore them or B) letting them spiral out of control. And they can also more fully sense and express positive emotions (both their own and others), which can be a powerful source of influence and motivation.
+
+Brown's work on empathy is equally relevant here. Brown defines shame as "the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging," [2] but empathy, she notes, is the "antidote." The relationship between shame and empathy has been an ongoing theme in Brown's work:
+
+If you think about connection on a continuum...anchoring [one] end of of that continuum is empathy. It is what moves us toward deep, meaningful relationship. On the other side of the continuum is shame. It absolutely unravels our relationships and our connections with other people... Empathy is about being vulnerable with people in their vulnerability. [3]
+
+Again, a leader who can harness these dynamics enjoys a powerful advantage. We all experience some form of shame on a regular basis in organizational life, ranging from mild embarrassment to more profound remorse to true feelings of deep shame, and all of these emotions leave us feeling vulnerable. A leader who can meet vulnerability with empathy, who can feel compassion for themselves and for others in the wake of setbacks and mistakes, will be able to build connections and improve their working relationships at the most difficult moments and turn crises into learning experiences.
+
+I'm not suggesting that leaders should fail to hold themselves and others accountable when things go wrong, but our discomfort with shame and the vulnerability it generates often lead us to respond to setbacks in ways that actually undermine accountability--we distance ourselves from failures or hide the evidence or deny that anything's wrong at all. Leaders who truly want to learn from mistakes and hold themselves and others accountable must respond to vulnerability and shame with empathy and compassion.
+
+And yet a fundamental dilemma is that leadership roles constantly generate feelings of vulnerability, but we typically condition leaders to hide their vulnerabilities at all costs. This is why I believe it's so important that Stanford's MBA curriculum emphasizes leadership development through experiential learning and emotional intelligence, it's why I talk so much about emotions with leaders in my coaching practice, and it's why I try to step more fully into my own vulnerability, even--especially--when I don't want to.
+
+I'm realistic about the difficulty of creating organizations that embrace vulnerability and meet setbacks with empathy. But my experience with hundreds of leaders and Stanford MBAs over the past decade has convinced me that it's worth the effort, so I remain optimistic that these concepts will ultimately shape business culture for the better, and I'm grateful for the opportunity to participate in that work in my practice and at Stanford.
+
+Thanks to Brené Brown for her research, which has had a significant impact on my approach to coaching and teaching. Here's Brown's 2007 talk on shame and empathy:
+
+Footnotes
+
+[1] Transcript of Brown's 2010 talk
+
+[2] shame v. guilt (Brené Brown, 2013)
+
+[3] Shame and Empathy (Brené Brown, 2007)
+
+
+===== END ED BOT ESSAY 3821 =====

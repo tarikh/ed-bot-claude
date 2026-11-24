@@ -1,0 +1,250 @@
+===== BEGIN ED BOT ESSAY 3742 =====
+---
+title: Catalysis (Self-Coaching and Self-Intervention)
+url: https://edbatista.com/2012/06/catalysis-self-coaching-and-self-intervention.html
+slug: catalysis-self-coaching-and-self-intervention
+published: 2012-06-28T11:13:00
+updated: 2025-09-24T11:59:35
+source_body: wordpress-html
+---
+
+Catalysis: An acceleration of the rate of a process or reaction, brought about by a catalyst, usually present in small managed quantities and unaffected at the end of the reaction. A catalyst permits reactions or processes to take place more effectively or under milder conditions than would otherwise be possible. - Catalysis.org
+
+At some level self-coaching is all about change. Changing how we spend our time so we're more fulfilled, and changing our behavior so we're more effective. Doing more of what's working in our lives, and doing less of--or stopping entirely--what's not working. We may even want to change the direction of our lives in a more comprehensive way, and all large changes result from a series of smaller ones.
+
+Catalysts alter the rate of change in a reaction, and the catalysts in a self-coaching process are 1) the ongoing conversations with ourselves we've set in motion through self-engagement, 2) the goals that we’ve identified and clarified for ourselves, and 3) the heightened perception of our in-the-moment responses and the fuller understanding of ourselves we've obtained through increased self-awareness. Note that each of these elements has a social component as well: By inviting the people who matter to us into these ongoing conversations, we enrich the dialogue; by sharing our goals with them, we increase our level of commitment; and by asking for their feedback, we see ourselves from their perspective and understand ourselves in new ways.
+
+All of these catalysts can serve to make change easier--they can increase our willingness to change, or they can lower our resistance to change. Catalysts also change the conditions under which change is possible--we don’t need to wait until we're under duress or facing difficulties that might force change upon us. We can act sooner, at the moment of our own choosing, "under milder conditions."
+
+The changes that occur in a self-coaching process take the form of an endless series of pivotal moments when we intervene and take action (or choose NOT to act). On occasion these interventions are Large, Dramatic Gestures, but far more often they're small, quotidian steps--little things we do on a daily basis, or even many times a day, to nudge ourselves in the direction of our goals.
+
+A concept I find particularly useful in this context is Kurt Lewin and Edgar Schein's 3-stage change process (which I've discussed a number of times on this site.) In this model we start in a "frozen" state, automatically following our existing behavioral patterns; we "unfreeze" under the appropriate conditions, and our patterns are altered; and we then "refreeze" and enter a new state of automaticity.
+
+Self-coaching first involves becoming aware of our automatic behavior patterns and seeing all those moments when we choose not to intervene--when we simply obey our impulses to do (or NOT do) something. With the support of the catalysts noted above--and the people who've been a part of our self-coaching process--this awareness allows us to then consciously intervene and make different choices. We can take action, when previously we would have sat back. Or we can sit back, when previously we would have taken action. These interventions take the form of momentary, tactical acts of what we might call self-regulation, and taken as a whole they comprise a larger, strategic process of self-management.
+
+A timely example of this process at work: While I was writing this post Amy and I got into a fight--the details are beyond irrelevant, as they usually are, but suffice to say it was my fault initially, and then we each made it worse. As John Gottman's research makes clear, couples in successful long-term relationships continue to fight, and what's critical is that they learn how to fight effectively--they can fully express anger and frustration, but even in the heat of the moment, they're able to manage themselves, de-escalate the conflict, and eventually bring the fight to a close.
+
+Amy and I have had plenty of practice over the course of our 26 years together, and in this fight what allowed us to turn the tide, recover and re-connect with each other was our respective ability to intervene in our automatic behaviors. At critical moments, we both felt tempted to say something that we knew would have made things worse--and yet would have felt SO good to say. But we didn't just give voice to those thoughts and feelings, nor did we stifle them entirely--we worked hard to find a way to express them that did some justice to our perspective while minimizing their potential to further inflame the other. At other moments I just wanted to disengage--a common ploy that Gottman calls "stonewalling," which allows one party in a conflict to feel less stressed while tending to increase the stress of the other party--but I resisted that impulse and stayed present. And finally, eventually, we talked ourselves off the ledge and even had a conversation to assess how and why things went wrong.
+
+I'm not holding up my marriage or myself as a paragon of perfection here--there's plenty I can do to be a better husband and a better person, and I know that what I learned in this experience won't prevent our next fight from happening. But it's a meaningful example to me of self-intervention at both a tactical and a strategic level. In the moment, both Amy and I intervened with ourselves on multiple occasions to tactically self-regulate--in this case, to resist impulses to say or do things which sprang from automatic behavior patterns and yet which would have been counterproductive. And I believe that intervening repeatedly over time allows us to strategically self-manage: to change our patterns, to identify and adopt new, more effective behaviors, and ultimately to internalize these patterns so that future interventions require less effort or conscious intent.
+
+A closing thought: By choosing to illustrate this process with an example of an unwanted conflict, I don't want to give the impression that self-intervention is only about resisting automatic impulses and NOT doing something. On many occasions it's just the opposite--we need to overcome our inertia, get off our asses and DO something. More on that in a future post.
+
+For an overview of my self-coaching framework, see A Self-Coaching Guide for Leaders at All Levels.
+
+For all my posts on this topic, see my Self-Coaching category.
+
+Photo by christian.senger. Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3742 =====
+===== BEGIN ED BOT ESSAY 3743 =====
+---
+title: Coaching and the Cult of Done
+url: https://edbatista.com/2012/06/coaching-and-the-cult-of-done.html
+slug: coaching-and-the-cult-of-done
+published: 2012-06-27T11:09:00
+updated: 2025-09-24T11:59:35
+source_body: wordpress-html
+---
+
+In 2009 Bre Pettis and Kio Stark wrote "The Cult of Done Manifesto," a lean 163-word tract that has rightfully been celebrated around the web. I find it both professionally relevant and personally inspiring, and I also think it's an apt metaphor for the coaching process. [1,2]
+
+The Cult of Done Manifesto
+
+1. There are three states of being. Not knowing, action and completion.
+
+In Kurt Lewin and Edgar Schein's 3-stage change process, we start in a "frozen" state, automatically following our existing behavioral patterns ("not knowing"); we "unfreeze" under the appropriate conditions, and our patterns are altered ("taking action"); and we then "refreeze" and enter a new state of automaticity ("completion"). [3] All three states have their place; as exciting and rewarding as can be to change, we can't exist sustainably in an "unfrozen" state, and we need to return to a more predictable set of behavioral patterns. Coaching is about recognizing when our established patterns no longer serve us, taking action to initiate change [4], and returning to a revised set of patterns that help us achieve our goals more effectively.
+
+2. Accept that everything is a draft. It helps to get it done.
+
+We're always works in progress; we're never finished products. Accepting that we are drafts helps us accept ourselves, with all our flaws and foibles, without getting stuck. I'm not suggesting that we ignore those shortcomings, but rather that we not let them hold us back from taking active steps toward our goals. Coaching is about looking at life through the lens of the experiential learning process, and from that perspective everything we do is an experiment. [5]
+
+3. There is no editing stage.
+
+But this leads to a paradox: "Everything is a draft," and yet "there is no editing." So even if we look at life as a series of experiments, there are no rehearsals--we're live, every moment of every day, and we never truly get a moment back. We only have one shot at it. This creates a tension that can be exhilarating or paralyzing, and coaching is about how to live productively within this tension.
+
+4. Pretending you know what you're doing is almost the same as knowing what you are doing, so just accept that you know what you're doing even if you don't and do it.
+
+We're our own worst critics, and we rarely think we know "enough"--often because we're comparing ourselves to someone who knows "more," and we don't want to be accused of hubris. But in many cases if we wait until we know "enough" we'll miss a meaningful opportunity to contribute what we can, and no "expert" is going to come along and save us--we're it. Coaching is about accepting that we're good enough now [6], and realizing that when we lack confidence in our abilities our behavior shapes our attitude. [7]
+
+5. Banish procrastination. If you wait more than a week to get an idea done, abandon it.
+
+Decide for yourself if a week's time is the right sell-by date for an idea; personally, I let a lot of things gestate for much longer. But I agree with the underlying point when things are going slowly, and we're not making progress toward a goal, picking up momentum is key. Coaching is about generating and maintaining forward progress by abandoning imaginary ideal states, addressing practical realities, navigating around obstacles and finding new paths toward our goals.
+
+6. The point of being done is not to finish but to get other things done.
+
+It's about the journey, not the destination, and there's no finish line until we're truly finished. (That's not to say we shouldn't celebrate milestones along the way.) Coaching is about letting go of our attachment to an outcome while remaining deeply invested in the process. [8]
+
+7. Once you're done you can throw it away.
+
+So don't build a castle, put up 1,000 tents. [9] Coaching is about rapid-prototyping our lives, experimenting with a range of options, discarding the failures and doubling down on the ones that show promise.
+
+8. Laugh at perfection. It's boring and keeps you from being done.
+
+Perfection is worse than boring; it's stagnation. Perfection rarely motivates, and it often demotivates. It keeps us from accepting "good enough" and making it better. Coaching is about rejecting ideal visions of the perfect--the perfect day, the perfect job, the perfect life, the perfect self--and seeing "the perfect" for what it really is: the enemy of the good. [10]
+
+9. People without dirty hands are wrong. Doing something makes you right.
+
+Stepping up and taking action will always expose us to risk, and so we often choose to play it safe, staying on the sidelines and critiquing the efforts of others. But more often than not the greatest danger we really face is just the risk of embarrassment. Coaching is about overcoming that fear, taking action, and getting our hands dirty.
+
+10. Failure counts as done. So do mistakes.
+
+Seeing our failures and mistakes as learning opportunities is a crucial step in any effort to change and grow. [11] We will screw up, over and over, and every time we do our embarrassment and shame will threaten to overwhelm us. Hall of Fame baseball player Willie Stargell said, "My success is the product of the knowledge extracted from my failures," and coaching is about managing the emotions that spring from our failures and stepping up to the plate again (and again, and again). [12]
+
+11. Destruction is a variant of done.
+
+Sometimes we have to stop what we're doing, head off in a completely different direction, and start from scratch. But that's a costly process to repeat too often, and we may be better served by making more subtle and organic changes. Coaching is about recognizing when we can grow and when we truly need to take a leap.
+
+12. If you have an idea and publish it on the internet, that counts as a ghost of done.
+
+The distance between nothing and something (no matter how flawed) is infinite. In comparison, the distance between that actual something and some theoretical perfection is barely noticeable. [13] Coaching is about doing something, even if it's just a "ghost of done," and using that as the foundation for further action.
+
+13.Done is the engine of more.
+
+And ultimately coaching is about being more fulfilled and more effective. This isn't to say that we need to rely exclusively on a personal coach to achieve these goals; while coaches like me can play a unique and valuable role in the process, we can also learn to self-coach in a wide range of circumstances (and even those of us working directly with a coach will ultimately coach ourselves most of the time.) [14]
+
+Thanks to Bre Pettis and Kio Stark for the inspiration.
+
+Footnotes
+
+[1] Bre Pettis and Kio Stark
+
+[2] The Cult of Done Manifesto (Bre Pettis and Kio Stark, Medium, 2016, original 2009)
+
+[3] Why Change Is Hard
+
+[4] Building Blocks (A Tactical Approach to Change)
+
+[5] Experiential Learning
+
+[6] Stop Trying to Be "Good Enough" by "Getting Better"
+
+[7] Attitude, Behavior, Cognitive Dissonance, and Authenticity
+
+[8] Investment vs. Attachment
+
+[9] Don't Build a Castle; Put Up 1,000 Tents
+
+[10] Voltaire and Patton on Perfection
+
+[11] On Learning From Mistakes
+
+[12] Willie Stargell quote cited in "“I Think the Cure Is Worse than the Disease”: The Importance of Realistic Expectations and Self-Compassion" (Robert Brooks, 2011)
+
+[13] Measuring the Infinite
+
+[14] The Art of Self-Coaching
+
+Photo by Andrew Hurley.
+
+
+===== END ED BOT ESSAY 3743 =====
+===== BEGIN ED BOT ESSAY 3744 =====
+---
+title: Self-Development 2.0
+url: https://edbatista.com/2012/06/self-development-20.html
+slug: self-development-20
+published: 2012-06-26T04:00:00
+updated: 2025-09-24T11:59:35
+source_body: wordpress-html
+---
+
+Yes, I know, calling anything "2.0" these days is evidence of 1) lazy writing and 2) possible bullshit. I will cop to the laziness, but hear me out before you call bullshit.
+
+A revolution is coming in the world of coaching, career planning, health and wellness, and personal growth, and I'm excited to find myself in the middle of it. Social-oriented startups like HealthRally, Joyo, Lift and Qrew are building tools that will help people not only do a better job of pursuing their self-development goals, but also leverage the power of their personal and professional communities in the process.
+
+Research suggests that we're more likely to accomplish our goals when we...
+
+- Clarify our goals and get specific.
+
+- Communicate our goals openly with others.
+
+- Break down our goals into actionable steps.
+
+- Cultivate daily habits that support those steps.
+
+- Celebrate small victories.
+
+- And obtain support from people we care about.
+
+The tools and services being developed by the companies above allow you to do all these things, in one way or another, and to recruit your friends, family and colleagues as coaches, cheerleaders and advisors.
+
+As someone who's increasingly focused on self-coaching these days, I think this movement is incredibly important (and also just a lot of fun.) Interestingly, this feels like familiar territory for me. In the '90s I became aware of the potential for technology to transform how nonprofits deliver services, raise money and promote awareness, which led me to business school at Stanford and then to my stint as the first executive director of the Nonprofit Technology Network. A few years later I was bowled over by Seth Goldstein's prescient analysis of the power of user-generated metadata to take personalization to new levels of utility (and creepiness), which led to a brief tenure as executive director of AttentionTrust, a role I left to dedicate myself to coaching.
+
+There's a community here that's waiting to be organized, and I'd like to help it along. I've formed a Self-Development 2.0 Meetup, and I'm going to hold the first get-together in San Francisco sometime in July. Watch this site and look for tweets tagged #selfdev for more.
+
+Full disclosure: I've gotten to know the founders of Joyo, and the founder of Qrew is a former student of mine. I think very highly of them, I've met with them to discuss their businesses, and I may get formally involved at some point in the future, although I'm not today.
+
+Photo by familymwr. Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3744 =====
+===== BEGIN ED BOT ESSAY 3745 =====
+---
+title: Perception, Understanding, and Self-Awareness
+url: https://edbatista.com/2012/06/perception-and-understanding-self-coaching-and-self-awareness.html
+slug: perception-and-understanding-self-coaching-and-self-awareness
+published: 2012-06-25T04:00:00
+updated: 2025-09-24T11:59:35
+source_body: wordpress-html
+---
+
+The intellectual life of man consists almost wholly in his substituting a conceptual order for the perceptual order in which his experience originally comes.
+
+~William James [1]
+
+James biographer Robert Richardson has described the pioneering psychologist as mounting "a lifelong protest on behalf of experience," [2] and James' emphasis on the importance of our immediate sensory perceptions has a parallel in the self-coaching process. While a key step in effective self-coaching is an attitude and an ongoing process of self-engagement [3], this isn't an end in itself; the intended result is an increased sense of self-awareness. I use this term to mean both a heightened in-the-moment perception of our physiological and emotional responses to a situation and a developing understanding of who we are and how we operate as individuals based on those responses.
+
+Perception
+
+Note that our physiological and emotional responses are deeply intertwined. [4] An emotion often generates a set of physiological responses that we may perceive before we're even aware that we're having an emotional experience, and what we feel physically often provides important clues to what we're feeling emotionally. When working with someone who's having difficulty naming the emotions they're feeling in the moment, I may ask them to do a mental scan of their body--literally, what do they feel?--and the physical can often be a helpful avenue into the emotional.
+
+It can also be useful simply to expand our lexicon. The "emotional vocabulary" [5] I often share with clients and students lists eight primary emotional states: angry, caring, embarrassed, excited, happy, inadequate, sad, scared--and 52 synonyms. Note that this list shouldn't be construed as a definitive list of basic emotions. Psychologist Paul Ekman defines the six basic emotions as anger, disgust, fear, happiness, sadness, and surprise, while the late Sylvan Tompkins believed there are eight: anguish, disgust, fear, joy, interest, rage, shame, and surprise. [6] But whether we're scanning our physiological responses or naming our emotions, the goal is a heightened ability to sense ourselves in the moment and then to make sense of those perceptions.
+
+Understanding 
+
+Self-coaching is a form of experiential learning [7] and if perceiving ourselves more acutely in the moment is a form of reflecting on our experiences, then the act of understanding ourselves more fully as a result of those perceptions is a form of conceptualizing those experiences and distilling them into generalizable principles.
+
+Arriving at this understanding--a set of conceptions about ourselves as individuals that we believe in and can act upon--is a subtle, iterative and complex process. We need to hold this understanding provisionally and modify it repeatedly based on new data. We can't jump to conclusions, get locked into an unhelpful mindset [8], or cling too tightly to our mental models about ourselves. [9]
+
+For example, I've come to realize that at times I can act, speak and even move quickly, a dynamic that's exacerbated when I'm stressed, excited or just keenly interested in something. This is fine when I'm working alone, but it can make it difficult for others to stay connected with me, which undermines my ability to achieve my goals in any collaborative experience, particularly when speaking before an audience. I can talk too rapidly for people to follow what I'm saying, or my mind races ahead of my mouth, and I may not even finish my sentences, leaving my listeners trailing behind.
+
+This heightened self-awareness has helped me tremendously as a public speaker. Today I'm much more aware of the emotions I feel before speaking--nervous anticipation, excitement, even fear--and of the physiological responses that are the signatures of those emotions in me--a tingling in the pit of my stomach, sweaty palms, a burst of energy. And while I once interpreted those perceptions as signs of my ineptitude, I've developed a different understanding of myself--I care deeply about my work, I want my listeners to have a good experience, and as a result I put a lot of pressure on myself to do well. [10]
+
+I don't want to lose this feeling of urgency entirely--the elevation that comes with mild stress can be both enjoyable and extremely productive. But I've had to learn how to sense its presence, regulate it, and manage how I express it in order to be more effective. I've also learned that I can overdo that self-regulation and self-management--it's important to find a happy medium.
+
+My work with clients and students almost always involves increasing their self-awareness in both of the dimensions described above--perception and understanding--and it's not unusual for them to express some frustration that their newfound awareness doesn't immediately translate into change. In my experience as a coach, awareness is insufficient to motivate change on its own, but change rarely occurs without it. [11]
+
+ 
+
+Footnotes
+
+[1] Some Problems of Philosophy (William James, 1910. Available in Writings: 1902-1910.)
+
+[2] William James: In the Maelstrom of American Modernism (Robert Richardson, 2006)
+
+[3] Conversations with Ourselves
+
+[4] Antonio Damasio on Emotion and Reason
+
+[5] Vocabulary of Emotions [PDF]
+
+[6] For more on basic emotions, see Chapter 5 in Joseph LeDoux's The Emotional Brain. The list above, which I've adapted from one originally developed by David Bradford, Mary Ann Huckabay and Carole Robin at Stanford, is simply one that works well for me as a coach.
+
+[7] Experiential Learning Revisited
+
+[8] The Meaning of Mindset
+
+[9] Corn Mazes and Mental Models
+
+[10] Stagefright and Public Speaking
+
+[11] Building Blocks (A Tactical Approach to Change)
+
+Updated March 2021.
+
+Photo by Andrea.
+
+
+===== END ED BOT ESSAY 3745 =====

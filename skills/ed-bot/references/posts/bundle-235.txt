@@ -1,0 +1,404 @@
+===== BEGIN ED BOT ESSAY 4051 =====
+---
+title: Aggression, Panic, Paralysis, Denial
+url: https://edbatista.com/2020/09/aggression-panic-paralysis-denial.html
+slug: aggression-panic-paralysis-denial
+published: 2020-09-09T10:40:43
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+As I talk to leaders about the impact of the current environment on their own lives and those of their employees, friends and families, a common theme is the pervasiveness of a set of counterproductive emotional states: aggression, panic, paralysis, denial.
+
+Some people are moving assertively to win competitions or bolster their status, treating every issue as a zero-sum battle. Some people are overwhelmed by fear, struggling to calm themselves and put anxieties in perspective. Some people are unable to take necessary action, postponing decisions and avoiding hard conversations. Some people are acting as though everything will be "back to normal" soon. And still others who were coping well are now falling into one of these states as the weeks turn into months.
+
+We can view these states as manifestations of a threat response, more commonly described as a "fight, flight or freeze response." When we encounter a situation that we perceive as a threat, consciously or unconsciously, we employ one of these strategies: We mobilize to fight for survival or compete for scarce resources, we flee in search of safety, or we essentially "play dead," hoping that the danger will pass us by unobserved. (Psychologist Peter Levine notes that prey animals routinely survive being hunted by "freezing," and post-traumatic stress disorder in humans may result from our limited capacity to employ this strategy effectively. [1] This may be why my clients are seeing it manifest as paralysis or denial.)
+
+So when we observe these states in ourselves and in others, what will help?
+
+1. Awareness
+
+One of our emotions' most significant features is the ability to interrupt conscious thought and capture our attention--this is what enables them to alert us to potential threats and opportunities so quickly and effectively. But a consequence of this dynamic is that our emotions can be profoundly immersive--we can be swallowed up by a feeling, we can become the feeling, rather than maintaining a separate identity as someone having a feeling.
+
+Further, although neuroscientists such as Antonio Damasio have demonstrated that emotions are essential inputs into the process of logical reasoning, feelings are not always accurate guides to effective action. [2] As Damasio himself acknowledges, "uncontrolled or misdirected emotion can be a major source of irrational behavior." [3]
+
+So in the current environment it's vitally important to maintain a degree of awareness about our emotional state--to recognize feelings of aggressiveness, panic, paralysis or denial and be mindful of their influence on our choices. And when confronted with others' seemingly irrational behavior, we need to expand the frame and ask: What are they feeling? What emotions are underlying their choices? We may be able to help them recognize and manage these feelings more effectively.
+
+If you're a leader you can heighten awareness in your organization by legitimizing employees' emotional experience: Ask how people are feeling, listen attentively, and actively empathize. [4] And note that empathy is not agreement--you need not agree with someone's point of view or believe that the resulting feelings are justified in order to empathize with them. [5]
+
+At the root of these emotional states is a sense of threat, a perception that our survival is at stake or that we're in jeopardy of losing something meaningful. We each have a signature threat response, and we all respond differently to various stimuli, so part of the task here is expanding our understanding of our own response and the responses of those around us. Bringing this awareness to situations in which we might conceivably feel threatened can allow us to sense our response sooner and regulate our feelings more effectively. [6]
+
+2. Action
+
+Conscious awareness thus allows us to act more intentionally to counter any sense of threat we might be experiencing. As I've noted before, "We often assume that our attitude drives our behavior, and that we act as we do because of underlying thoughts and feelings...[but] rather than being a one-way causal relationship, it's a two-way street: While our attitude obviously informs and influences our behavior, our behavior also informs and influences our thoughts and feelings in a dynamic and cyclical process." [7]
+
+Psychologists and neuroscientists have yet to fully understand the mechanisms by which this process occurs, but we can still experiment to determine what specific behaviors might help us down-regulate our threat response. At times simply slowing down our breathing and our speech can be helpful. These prompts may also serve to remind us that any sense of urgency may be unwarranted, in which case the useful action is to pause and return to the issue at hand at a later time.
+
+As I recently noted, we can also respond to a sense of threat in the larger world by seeking to create "pockets of agency," smaller settings in our lives in which we experience ourselves as an intentional actor, rather than the subject who is acted upon. [8] The goal isn't to ignore the large-scale challenges we face, but to provide a respite from them in which we remind ourselves of our ability to act with intention.
+
+Further, we can take action over time to increase our capacity for emotion regulation. I use the acronym MESS to remind me of the importance of the following: mindfulness practices such as meditation; regular physical exercise; a consistent good night's sleep; and identifying unnecessary sources of chronic stress. An ample body of research has shown that investing in these practices can have a meaningful impact on our ability to down-regulate negative emotions and allow us to feel safer in the face of a threat response. [9]
+
+If you're a leader, pay close attention to ways in which you might inadvertently inhibit employees' ability to act independently or resist your influence--people may want to move more quickly or more slowly than you'd like on a given issue, or they may want to focus on a different set of priorities. I'm not suggesting that you should reflexively defer to these preferences, but before you rely on positional authority to overrule them, consider whether they might be efforts to manage a threat response. And note that your own commitments to mindfulness, exercise, sleep and stress reduction aren't indulgences--they're investments in your capacity to down-regulate negative emotions. [10]
+
+3. Acceptance
+
+A sense of safety is necessary for psychological well-being--in its absence we can feel overwhelmed by our vulnerability in an unpredictable and chaotic world. But we often pursue safety by seeking to exert control, making our surroundings more predictable and orderly, and the current environment has rendered many of the tools we employ for these purposes less accessible or even useless. While taking action as described above can help, such tactics are even more effective when employed within a larger stance of acceptance. Even as we strive to exert greater control in our lives, we can choose to recognize, as psychotherapist Sheldon Kopp asserted over 40 years ago, that control is an illusion. [11] This may sound paradoxical, but the ability to live with paradox is a necessary skill in the current environment.
+
+I've seen a version of this many times in my practice--in my experience as a coach a hallmark of effective startup CEOs is the capacity to tolerate cognitive dissonance, the profoundly uncomfortable position of holding in mind two realities that "are not psychologically consistent with each other," in the words of pioneering psychologist Leon Festinger. [12] As I've written before, these leaders "must be exuberant optimists, portraying a compelling vision of a successful future...[and] must also be keenly aware of the nearly endless list of risk factors and things that could go wrong, sometimes to the point of inducing anxiety." [13] The CEO who seeks to act with integrity and remain open to new data must accept this paradox and hold both realities in mind.
+
+I'm also reminded of Admiral James Stockdale's reflections on his experience as a prisoner of war. When Stockdale was asked by business author Jim Collins who among his fellow POWs were least likely to survive, he replied,
+
+Oh, it’s easy. I can tell you who didn’t make it out. It was the optimists... They were the ones who always said, "We’re going to be out by Christmas." Christmas would come and it would go. And there would be another Christmas. And they died of a broken heart... This is what I learned from those years in the prison camp, where all those constraints just were oppressive. You must never ever ever confuse, on the one hand, the need for absolute, unwavering faith that you can prevail despite those constraints with, on the other hand, the need for the discipline to begin by confronting the brutal facts, whatever they are. We’re not getting out of here by Christmas. [14]
+
+Startup CEOs face a metaphorical existential threat--if they fail, the company dies--while Stockdale and his fellow POWs faced a literal one. The current environment poses a wide range of metaphorical and literal threats to each of us--depending on our circumstances, both our livelihoods and our lives may be at risk. But whatever challenges we face, cultivating our tolerance for cognitive dissonance and increasing our ability to live with paradox will serve us well. This is what will allow us to maintain an "unwavering faith" that we will prevail, while simultaneously "confronting the brutal facts, whatever they are."
+
+That same capacity is also necessary if we are to feel sufficiently safe to go about our lives while accepting that control is an illusion and our efforts to exert control are inevitably inadequate responses to a chaotic, unpredictable world. This has always been the true state of affairs, yet many of us have papered it over or looked away, requiring the comfort of an illusion in order to function. A potentially useful aspect of the current environment is that we're being invited to see reality more clearly, which presents us with an opportunity to be less dependent on our illusions and, further, to acknowledge our mortality, which is the underlying source of the aggression, panic, paralysis and denial we see around us. As I've written before,
+
+While a fear of death is necessary to sustain life, we must maintain it just outside of consciousness in order to live--and this tenuous balance ultimately breaks down. The ability to effectively repress our awareness of mortality becomes increasingly difficult in midlife, not only as we experience it literally (the loss of a parent or other loved ones, a significant birthday, the evidence of our own aging), but also as we encounter the milestones...which highlight the passage of time. [15]
+
+This is the source of the current environment's power and its ability to evoke these emotional states. We usually experience reminders of mortality in smaller, more intimate configurations--in families, in relationships, as individuals--or later in life, when past experiences have enabled us to feel more prepared. Today we're being reminded of our mortality collectively, all at once, in multiple domains of life, and at every stage of life, whether we're prepared for it or not.
+
+So when we're confronted by aggression, panic, paralysis or denial--and when we experience these states ourselves--we can choose to meet them with resistance and frustration, or we can choose to meet them with empathy. We can recognize them as efforts to exert control, to feel safe, to transcend mortality. Such efforts are futile, of course, but they're also understandable--all life is characterized by a fierce will to live. Rather than fight to suppress these feelings in ourselves and others, we can accept them, see them for what they are, and let them go.
+
+ 
+
+This post is the second in a series on coping in the current environment:
+
+- Part 1: Pockets of Agency
+
+- Part 2: Aggression, Panic, Paralysis, Denial
+
+- Part 3: Tumbling Down Maslow's Hierarchy
+
+- Part 4: Wounded Creatures
+
+- Part 5: The Legitimacy of Loss
+
+- Part 6: Risk Calculus and Social Norms
+
+Footnotes
+
+[1] Waking the Tiger: Healing Trauma, Chapters 1 and 7 (Peter Levine, 1997)
+
+[2] Antonio Damasio on Emotion and Reason
+
+[3] Descartes' Error: Emotion, Reason, and the Human Brain, page 52 (Antonio Damasio, 2005)
+
+[4] How Great Coaches Ask, Listen and Empathize
+
+[5] The Art of Self-Coaching (Public Course), CLASS 4: EMOTION
+
+[6] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[7] Attitude and Behavior
+
+[8] Pockets of Agency
+
+[9] For more on these topics:
+
+Mindfulness
+
+- Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+- Arriving at Your Own Door: 108 Lessons in Mindfulness (Jon Kabat-Zinn, 2007)
+
+- Meditation Techniques for People Who Hate Meditation (Stephanie Vozza, Fast Company, 2014)
+
+- 26 Scientifically Proven Superhuman Benefits of Meditation (Jon Brooks, ComfortPit, 2014)
+
+- This is what eight weeks of mindfulness training does to your brain (Christian Jarrett, BPS Research Digest, 2016)
+
+- Eight weeks to a better brain (Sue McGreevy, The Harvard Gazette, 2011)
+
+- Changing Our Brains, Changing Ourselves (an interview with Richard Davidson)
+
+Exercise
+
+- Get Moving! (Exercise for Busy People)
+
+- Walking lifts your mood, even when you don't expect it to (Christian Jarrett, BPS Research Digest, 2016)
+
+- The First 20 Minutes: Surprising Science Reveals How We Can Exercise Better, Train Smarter, Live Longer (Gretchen Reynolds)
+
+- Need A Self-Control Boost? Get Outside (Jessica Stillman, Inc., 2014)
+
+Sleep
+
+- Great Leaders Sleep Well--Why Rest Is Critical for Success (Ronnie Hendel-Giller, 2018)
+
+- There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm, Harvard Business Review, 2016)
+
+- You Can't Do Your Job if You Don't Sleep (Tony Schwartz, Harvard Business Review, 2012)
+
+- Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes, Harvard Business Review, 2016)
+
+- Senior Leaders Get More Sleep Than Anyone Else (Rasmus Hougaard & Jacqueline Carter, Harvard Business Review, 2018)
+
+- The Science of Sleep: Dreaming, Depression and How REM Sleep Regulates Negative Emotions (Maria Popova, Brain Pickings, 2012)
+
+Stress
+
+- Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success (Brad Stulberg and Steve Magness, 2017)
+
+- Embracing Stress Is More Important Than Reducing Stress (Clifton Parker, 2015, discussing recent work by Stanford psychologist Kelly McGonigal)
+
+- How to Make Stress Your Friend [14-minute video] (Kelly McGonigal, 2013)
+
+- Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+[10] Investments, Not Indulgences
+
+[11] What Took You So Long? (Sheldon Kopp, 1979)
+
+[12] "Cognitive Dissonance" (Leon Festinger, Scientific American, October 1962, pages 93-94)
+
+[13] The Cognitive Dissonance of the CEO
+
+[14] The Stockdale Paradox (Jim Collins, 2017)
+
+[15] Not Every End Is a Goal (On Midlife Malaise)
+
+ 
+
+For Further Reading
+
+Feeling Safe in an Unsafe World
+
+ 
+
+Image: Four Horsemen of the Apocalypse by Viktor Vasnetsov, 1887.
+
+
+===== END ED BOT ESSAY 4051 =====
+===== BEGIN ED BOT ESSAY 4052 =====
+---
+title: Pockets of Agency
+url: https://edbatista.com/2020/09/pockets-of-agency.html
+slug: pockets-of-agency
+published: 2020-09-08T05:00:00
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+Although in casual usage we may consider "agency" and "ownership" synonymous, philosopher Shaun Gallagher makes a distinction between the two under certain circumstances:
+
+In the case of involuntary action...it is quite possible to distinguish between sense of agency and sense of ownership. I may acknowledge ownership of a movement--that is, I have a sense that I am the one who is moving or is being moved--and I can self-ascribe it as my movement, but I may not have a sense of causing or controlling the movement. That is to say, I have no sense of agency. The agent of the movement is the person who pushed me from behind, for example, or the physician who is manipulating my arm in a medical examination. Thus, my claim of ownership (my self-ascription that I am the one who is undergoing an experience) can be consistent with my lack of a sense of agency. [1]
+
+The significance of this distinction is heightened when we consider the relationship between our perceptions of autonomy, our sense of stress, and the likelihood of a threat response (often referred to as a "fight, flight or freeze response.") As I've written before, "Our perception of our ability to exert control over our environment has a substantial effect on our response to stress factors in our life. When we feel more autonomous, we're much more resistant to stress--and when we feel less autonomous, we can perceive the same set of circumstances as much more stressful." [2] These conditions render us more likely to experience a threat response, a state in which we're physiologically optimized to take swift, forceful action; we're emotionally primed to make snap judgments on the basis of fear and anger; and we're less effective at processing cognitive data.
+
+Even at the best of times, we must acknowledge limits on our agency and autonomy--we can control only so much, and our freedom of action extends only so far. But for many of us in the current environment these limits are both more sharply curtailed and more starkly visible. We have less control and less freedom of action, and we're even more aware of it--which means that many of us are feeling more stressed than ever.
+
+These dynamics can pose a particular challenge for my clients, almost all of whom are CEOs or senior executives in growing companies. In many cases they opted out of conventional careers to pursue a more entrepreneurial path precisely because they wanted a greater degree of control over their professional lives. The companies that they founded or joined didn't promise a predictable future, but they did offer high degrees of autonomy and independence--and yet a number of factors today are changing these parameters, leaving them feeling more subject to external forces and more vulnerable as a result.
+
+By Gallagher's definition, while we may continue to feel a sense of ownership over our experience in the current environment, most of us are feeling much less agency. So what can be done? Even--and especially--as we feel a loss of control in the world at large, we can strive to create "pockets of agency," smaller settings within our lives in which we can "cause or control the movement." I'm not suggesting that we categorically ignore larger issues, but, rather, that we engage with them in ways that are more deliberate and intentional--which includes setting them aside from time to time.
+
+Versions I've discussed with clients include:
+
+- A morning routine in which they pursue a specific set of tasks (such as exercise or writing) upon rising rather than automatically checking email, social media or the news.
+
+- An evening routine in which they turn off all screens at least 30 minutes before going to sleep, read from a hard-copy book or magazine, and charge their phones outside the bedroom.
+
+- A mindfulness routine in which they commit to meditation or a similar practice on a consistent basis. [3]
+
+- An exercise routine in which they commit to some degree of physical activity on a consistent basis. [4]
+
+Note the emphasis on routine--the less we have to think about whether or not we'll pursue a given activity, the more likely we are to follow through on our intentions. Also note the importance of disconnecting in these processes--as I've written before, "in an attention economy we're not merely consumers--we are also the product. A fundamental organizing principle of contemporary business is the capture, retention, and monetization of our collective attention--and this can put us at odds with the owners and orchestrators of the attention economy." [5] Social media and news platforms are carefully engineered to keep us clicking and doom-scrolling, and one of the most reliable ways of maintaining our engagement is by stoking the fears and anxieties that accompany our loss of control.
+
+And although the list above focuses on activities outside the purview of professional or social issues, it's also possible to establish pockets of agency within these domains as well, although it can be more difficult. For example, my work with CEOs has sometimes involved supporting their efforts to cultivate "small projects that allowed [them] to get [their] hands dirty and feel the satisfaction of watching things grow." [6]
+
+Creating pockets of agency won't entirely counteract the effects of the current environment, but that's not the intention behind the concept. The goal is simply to enhance our capacity to down-regulate the threat response that so often accompanies a loss of agency, to put us in a state of mind and body that will allow to make better decisions, to make our experience in this environment just a little more sustainable.
+
+ 
+
+This post is the first in a series on coping in the current environment:
+
+- Part 1: Pockets of Agency
+
+- Part 2: Aggression, Panic, Paralysis, Denial
+
+- Part 3: Tumbling Down Maslow's Hierarchy
+
+- Part 4: Wounded Creatures
+
+- Part 5: The Legitimacy of Loss
+
+- Part 6: Risk Calculus and Social Norms
+
+Footnotes
+
+[1] Philosophical Conceptions of the Self: Implications for Cognitive Science (Shaun Gallagher, Trends in Cognitive Sciences, February 2000)
+
+[2] Neuroscience, Leadership and David Rock's SCARF Model
+
+[3] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[4] Get Moving! (Exercise for Busy People)
+
+[5] A Better Information Diet
+
+[6] Three Buckets (On CEO Job Descriptions)
+
+ 
+
+Photo by bodellia.
+
+
+===== END ED BOT ESSAY 4052 =====
+===== BEGIN ED BOT ESSAY 4053 =====
+---
+title: Negotiating with Your Own Side
+url: https://edbatista.com/2020/08/negotiating-with-your-own-side.html
+slug: negotiating-with-your-own-side
+published: 2020-08-21T19:25:55
+updated: 2025-10-13T09:20:24
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs, and most of the rest are C-level officers or other executives reporting to a CEO, and a common theme in my practice is the difficulty of the occasional (but inevitable) negotiations that take place among members of the same management team. There's a particular set of challenges that arise at the outset of these relationships during the hiring process: extensive information asymmetry, the heightened emotions that can accompany professional transitions, and sometimes radically different approaches to negotiation.
+
+But there's an additional dilemma that occurs at subsequent stages of the relationship, after all parties have gotten to know each other and have worked together successfully for a period of time: They're used to sitting on the same side of the negotiating table, and it can feel strange or even unnerving to be facing each other instead.
+
+This is often less problematic in certain fields (such as investing) and functions (such as sales). These cultures explicitly acknowledge (or tacitly accept) that colleagues' interests aren't always aligned, and members of these cultures are comfortable adopting adversarial stances when necessary and resuming more collegial relationships when a deal has been reached. It's not personal, it's strictly business. [1]
+
+Yet in many settings executives can be profoundly uncomfortable when compelled to negotiate with their colleagues, and while this is sometimes a function of an individual's reluctance to assert themselves, there are often contextual factors related to the organization or the relationship. In operating environments (as opposed to some investment or professional services firms) the executive team's performance is highly interdependent--no individual leader can succeed unless everyone succeeds, and if anyone fails then everyone pays a price. The resulting esprit de corps can create a strong set of social norms that encourage leaders to put the good of the company before their personal interests.
+
+The relationships among an organization's leaders can also create an environment in which negotiations feel more difficult. Startup founders often draw upon personal networks when hiring early leaders, so management teams can include friends, family members and romantic partners. Some industries and firms have cultures that involve a extensive amount of socialization among members of the leadership team, resulting in close personal bonds. Again, these factors can create a set of social norms that discourage efforts by individual leaders to benefit themselves at the expense of the collective good.
+
+These situations often involve C-level officers or VPs dealing with a CEO, but CEOs are not immune. Founders in particular must often conduct negotiations with board members and other stakeholders, and they may feel pressure to take a lower salary and preserve as much of their equity as possible (rather than selling shares in a secondary transaction) in order to signal confidence in the business to employees, customers, and other capital providers.
+
+These dynamics can work to the advantage of the organization as a whole, and when value is distributed equitably, a more successful organization benefits all of its members. But the definition of "equitable" is a matter of perception, and so at times almost all individual leaders must engage in zero-sum contests with their organization in order to claim a share of the value being generated that feels proportionate to their contributions. And yet this process can be profoundly uncomfortable--so what can be done? Here are five steps to take:
+
+1. Normalize It
+
+Fraught negotiations of this type may occur relatively rarely over the course of a leader's career, which can heighten the sense of strangeness and discomfort when they do occur. But from my vantage point as a coach I see this pattern repeatedly in my practice, so a benefit I provide to my clients is simply reassuring them that what they're going through is normal and predictable. Bearing this in mind can make it easier to manage the difficult emotions evoked by the experience.
+
+This can be particularly important for a CEO negotiating with investors. While CEOs need to be effective negotiators, it's often an activity that they engage in for a period of time, and even CEOs who are skilled negotiators often feel a sense of relief when the process is over. In contrast, investors typically need to be outstanding negotiators, and it's a mindset through which they view the world that shapes their every interaction. In this context the CEO who's uncomfortable with the process can be at a profound disadvantage, and the key is to normalize the experience and become "comfortable with discomfort." [2]
+
+2. Consider the Culture
+
+We often fail to appreciate the impact of our social environment on our behavior, and in these circumstances it's particularly important to understand the role that culture can play. As I note above, in some fields and functions the culture accepts negotiations among colleagues, while other cultures expect individual members to subordinate their needs to maintain cohesion and harmony. Further, as I've written before, there are two fundamentally different approaches to negotiation that we can think of as distinct "cultures":
+
+In a list-price culture, there's a high degree of transparency and very little flexibility. An opening offer may not be take-it-or-leave it, but there's relatively little gamesmanship in the process. There may be some room for negotiation on the margins, but the basic requirements necessary to close a deal are clear and straightforward, and it's reasonably obvious when the two parties are sufficiently close to reach agreement and when they're not.
+
+In a haggling culture, the opposite is true. There's very little transparency and a great deal of flexibility. Opening offers are never take-it-or-leave-it, and gamesmanship abounds. Everything is up for negotiation, and the basic requirements necessary to close a deal are uncertain and highly dynamic. It's rarely apparent whether the two parties are sufficiently close to reach agreement, because their currently stated positions may bear little relation to their actual willingness to reach a deal. [3]
+
+The key is recognizing cross-cultural boundaries, which can be harder to spot when colleagues have worked together for a period of time and make unfounded assumptions about shared beliefs and values. Some of these differences are conveniently hidden by the need to collaborate on a day-to-day basis, and negotiations can illuminate unexpected cultural gaps. Highlighting these gaps may not be sufficient to bridge them, but when they remain unacknowledged they can readily lead to misunderstandings, making already difficult negotiations even harder.
+
+3. Seek Role Clarity
+
+In our professional relationships we occupy a set of roles, which aren't merely "titles" but interdependent identities that allow us to answer the question, "Who are we to each other?" and act accordingly. Role clarity allows a given relationship to function more effectively, and yet a degree of role confusion is expected in these circumstances simply because the working relationship is being modified in order to fulfill the goals of the negotiation. Further, as I note above, in some settings the professional relationship co-exists with a personal relationship or is characterized by a high degree of personal closeness.
+
+Also, the CEO who must negotiate with both executives and investors should make a careful distinction between these relationships and the inherent roles. CEOs and their executives are teammates in an operating environment, and no one wins unless everyone wins, which is why negotiations among those parties can't be allowed to become too rancorous or drag on too long. But CEOs and their investors are contingent partners whose interests are often aligned, but not always. Further, investors may approach every issue as a negotiation, in which case the process never really ends--this would be intolerable among teammates, but it can be perfectly normal among contingent partners.
+
+Given these factors, it may not be possible to obtain perfect role clarity, but, as with any cultural gaps, failing to acknowledge the degree of role confusion will only make the process more challenging. And at times simply naming the various roles encompassed by the relationship can enable the parties to deliberately inhabit the role that's most appropriate to the negotiation while holding other roles temporarily in abeyance.
+
+4. Look Inside
+
+While interpersonal factors such as cultural differences and role confusion invariably influence these negotiations, we also bring some individual baggage to the process derived from formative experiences in our professional and personal lives. There are often status distinctions in these situations, and we may be inclined to defer to those we perceive as higher status, or we may expect deference from those we perceive as lower status, and either tendency can make negotiations feel more uncomfortable. We may have been trained to be rewarded on the basis of our performance, rather than explicitly ask for what we want--or we may have been trained to advocate for ourselves aggressively and let other parties fend for themselves.
+
+It's particularly important to understand our strengths and weaknesses as a negotiator in this context not only because we're going to have to live with the results, but also because we may be back in the same negotiation with the same counterparts at some point in the near future. So real success entails that all parties feel sufficiently satisfied with the terms of the agreement and the process by which those terms were agreed upon. If we feel compelled to accept terms that aren't truly satisfactory, we may well begin planning to end the relationship prematurely--and if we extract terms that aren't truly satisfactory to the other party, they may well begin to do the same. By better understanding our tendencies as a negotiator, we can adjust our approach accordingly and obtain a better outcome for the long-term.
+
+5. When Necessary, Get Help
+
+In some cases the challenges posed by cultural gaps, role confusion, and personal characteristics are simply too great for two parties to overcome on their own. Specifically in negotiations between a CEO and one of their executives, the organization's People leader may be in a position to help. This is one reason why I encourage CEOs to invest in this function early, because this role can't be filled quickly under duress. [4]
+
+I'm not a cynic, but I am a pragmatic realist, so I think it's essential to acknowledge: We don't get what we deserve. We get what we negotiate. Allowing the discomfort that can accompany such negotiations to undermine our effectiveness in the process can be severely career-limiting--and increasing our "comfort with discomfort" can be a powerful engine for growth. [5]
+
+Footnotes
+
+[1] Scene from The Godfather (Directed by Francis Ford Coppola, produced by Albert Ruddy, screenplay by Mario Puzo and Francis Ford Coppola, Paramount Pictures, 1972)
+
+[2] Comfort with Discomfort
+
+[3] Culture, Compensation and Negotiation
+
+[4] The Truly Strategic People Leader
+
+[5] Comfort with Discomfort
+
+For Further Reading
+
+Conscious Competence in Practice
+
+Attitude and Behavior
+
+Photo by bedzine.
+
+
+===== END ED BOT ESSAY 4053 =====
+===== BEGIN ED BOT ESSAY 4054 =====
+---
+title: What Is My Vision of Myself?
+url: https://edbatista.com/2020/08/what-is-my-vision-of-myself.html
+slug: what-is-my-vision-of-myself
+published: 2020-08-15T18:23:19
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+Bec Stupak Diop is an artist and designer now living in Dakar, Senegal, although we met when she was working with Bay Area technology companies a few years ago. In a recent exchange she described the transformational journey that she'd undertaken since then, a process that began with this pivotal moment:
+
+I took a look at my life and asked some important questions: What is my vision of myself and how many hours of the day go toward that? How many hours take me away from that?
+
+It proved to be a very useful measure of how I spend my life. It's easy to draw! Just look at one day and see how many hours go toward aspects of your life that feel aligned and how many move away. Also, where do those hours fall in the day? I was squeezing my most favorite things into 2-3 hours from 5am-8am in the mornings, and then followed that with 8+ hours of nothing-very-interesting.
+
+I've been practicing leading my life through a lens of joy. What brings me joy? Do more of that.
+
+Important questions, indeed. Almost all of my clients are leaders in professional roles that they intend to occupy for the foreseeable future, and their positions are typically well-compensated and high-status. But those jobs are also demanding and stressful in ways that lead a number of clients to imagine alternatives.
+
+Occasionally I work with clients as they actively navigate a transition to a new chapter. More commonly I work with them as they redesign various aspects of their professional or personal lives to be more rewarding. And Bec's questions strike me as profoundly useful in that process, no matter what changes we might be considering.
+
+What is my vision of myself?
+
+Values in Action Survey of Character Strengths
+
+One of the few instruments I use in my practice and in The Art of Self-Coaching is the "Values in Action Survey of Character Strengths;" This instrument, commonly called the VIA, was developed under the leadership of the University of Pennsylvania's Martin Seligman, the founder of positive psychology, and the late Christopher Peterson, an influential psychologist at the University of Michigan. As Seligman and Peterson write in Character Strengths and Virtues, "We can now measure much of what is wrong with people, but what about what about those things that are right?"
+
+The Big Picture (Self-Coaching, Values and Vision)
+
+Our personal values serve as the foundation for our vision for ourselves. The concept of a "vision" is inherently fuzzy and susceptible to abuse--we've all read "vision statements" full of noble sentiments that are routinely ignored. But any good tool can be misused, and I want to rehabilitate this concept. I also want to distinguish between a vision and a goal. Goal-setting is an important step, providing both direction and motivation for the work that follows. [7] But even our most ambitious goals are components of a larger, more comprehensive vision. Our vision for ourselves should be more deeply rooted and enduring than any particular set of goals, and should be the product of far-reaching reflection.
+
+Developing Your Professional Vision
+
+Truly great professionals understand the difference between what should never change and what should be open for change, between what is genuinely sacred and what is not. This rare ability to manage continuity and change--requiring a consciously practiced discipline--is closely linked to the ability to develop a vision.
+
+Leadership and Authenticity
+
+Leaders are constantly 1) acting outside their comfort zones, 2) striving to meet the divergent needs of various groups, and 3) deciding what information should be disclosed and what should be withheld. Under these conditions it's no surprise that a leader may struggle to understand what it means to "be authentic." This challenge can be further compounded by our definition of the "authentic self" and the means by which we encounter it.
+
+How many hours of the day go toward that?
+
+Importance vs. Urgency
+
+Important activities are truly meaningful and fulfilling--to you, to the people who matter to you, to your organization, or to some cause that you believe in. They’re not necessarily time-dependent; they can be accomplished almost anytime, and if they go undone for a short stretch no one may even notice.
+
+Urgent activities have a deadline attached to them that matters to someone—although not necessarily to you. They are time-dependent, at least in someone’s mind, and if they go undone that someone is going to be unhappy. They’re not necessarily meaningful or fulfilling, and accomplishing them may not actually make a significant difference.
+
+Growth, Profitability and Return on Attention
+
+When considering different tasks, projects and opportunities, how should we decide where to focus our time and energy? If our attention is our most precious resource, how can we determine where to invest it and what returns we should expect?
+
+Happy Workaholics Need Boundaries, Not Balance
+
+Success is typically a function of our passion for work and accomplishment—my clients and students are generally "happy workaholics" who love what they do and wish there were more hours in the day to get things done. (I view myself this way as well.) The concept of life/work balance isn’t that helpful for us, because there’s always more work to do, we’re eager to do it, and we wouldn’t have it any other way. In some cases, particularly in junior roles early in our careers, this tendency can be exploited by a dysfunctional culture or an uncaring manager, and at those times we need to protect ourselves to avoid burnout. But as we advance professionally we’re less subject to those external forces, and we need to protect ourselves primarily from our own internal drive.
+
+How many hours take me away from that?
+
+The Trap of Competition
+
+We've evolved to think extensively about other people and to be keenly attuned to competitive dynamics. This gives us a tremendous advantage as a species--but can leave us deeply unhappy as individuals. What can we do about it?
+
+Not Every End Is a Goal (On Midlife Malaise)
+
+You're a senior leader in the prime of your career who's attained a degree of professional and personal success. You're keenly aware of the advantages you enjoy and feel grateful for the opportunity to do meaningful work that's well-compensated. You still have financial goals and would enjoy earning more, but that's no longer a primary driver. And yet despite these accomplishments it's not uncommon for you to feel a sense of restlessness or disenchantment. If so, you're similar to a number of my clients.
+
+Show Me Your Calendar and I'll Show You What You Value
+
+Money is a less meaningful measure of value than time. Money's relative nature makes it less helpful as a guide to what truly matters to each of us. Time, in contrast, is a more accurate metric. We all have the same number of hours in the day, days in the week, weeks in the year. And how we allocate that time says everything about what we value. I'm keenly aware that having (and lacking) money has a substantial impact on how we spend our time--and yet even when our decision to allocate time to an activity or task (or not) is influenced by our financial affairs, we're still saying something about what we value.
+
+Thanks to Bec Stupak Diop for the inspiration.
+
+Photo: Drake's Head, Point Reyes National Seashore.
+
+
+===== END ED BOT ESSAY 4054 =====

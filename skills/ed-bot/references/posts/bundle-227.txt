@@ -1,0 +1,472 @@
+===== BEGIN ED BOT ESSAY 4019 =====
+---
+title: Weather Systems (Power, Charisma and Leadership)
+url: https://edbatista.com/2019/05/weather-systems-power-charisma-and-leadership.html
+slug: weather-systems-power-charisma-and-leadership
+published: 2019-05-25T09:02:24
+updated: 2025-10-08T08:54:43
+source_body: wordpress-html
+---
+
+Powerful, charismatic leaders are like weather systems. They change the atmosphere, and people around them adjust accordingly. In many cases a leader's charisma played a role in enabling them to achieve a powerful position in the first place--and in most cases the trappings and rewards that accompany leadership roles contribute to an environment that enhances their power. Some of this is deliberate and intentional, but that doesn't mean it's inauthentic or should be characterized as manipulative.
+
+Yet the people working for such leaders--and the leaders themselves--need to maintain a degree of critical distance from this dynamic in order to observe it and assess its impact. They must be able to see the weather system and the leader's effect on the atmosphere because the leader's influence can trigger behavior the leader may not want, particularly excessive deference to the leader's wishes (both expressed and imagined).
+
+This isn't merely a function of the leader's active influence--it's a group dynamic in which all participants play a role, but it's usually an unconscious process. I've coached enough leaders who meet this description to know that they honestly want others to speak up and challenge them, but they're also blind to the ways they inadvertently punish resistance and reward deference. Resistance can feel irritating, and deference can feel soothing, so it takes self-awareness and emotion regulation for a leader to welcome the former and discourage the latter.
+
+People around the leader are also generally blind to their reflexive deference to the leader's charisma and hierarchical position. Note that I'm not talking about dictatorial leaders who demand obedience and intentionally punish resistance--in those cases people around the leader are well aware that deference is necessary to avoid the leader's displeasure and remain safe. In the cases I'm referring to the leader's overt influence isn't as obvious--it's a weather system, which is readily felt but not seen. And its invisibility means that the people around the leader often fail to see the effect on their own behavior.
+
+Even when the people around the leader do perceive this dynamic, there can be a collective reluctance to name it. The others are uncertain about whether or not the leader's behavior is intentional and how the leader will respond to an open discussion, and they're sheepish about acknowledging their own collusion in the process of deferring to the leader's influence. The result is a classic example of what the late Harvard Business School professor Chris Argyris called a "defensive routine":
+
+Whenever human beings are faced with any issue that contains significant embarrassment or threat, they act in ways that bypass, as best they can, the embarrassment or threat. In order for the bypass to work, it must be covered up...
+
+And because so many individuals use these actions frequently, the actions become organizational norms. The actions come to be viewed as rational, sensible, and realistic.
+
+The results are organizational defensive routines...actions or policies that prevent individuals or segments of the organization from experiencing embarrassment or threat. Simultaneously, they prevent people from identifying and getting rid of the causes of the potential embarrassment or threat. [1]
+
+So what can be done? A starting point for leaders and others is heightened self-awareness. What does this weather system feel like? How is it influencing peoples’ behavior? How are we colluding in avoiding embarrassment or threat?
+
+Leaders need to remind themselves that their influence can cause others to defer to their wishes (expressed and imagined), and while this may feel good in the moment, it does not necessarily support their long-term interests. Leaders also need to remember that this will occur even in the absence of conscious intent on their part--they need not actively assert themselves to have this effect on others. And leaders need to heighten their sensitivity to the unintended effects of their comments and behavior. Columbia Business School professor Adam Galinsky has noted that "the words of those with power loom large over those with less power," [2] a dynamic that a C.E.O I once worked with called "The Blue Problem":
+
+He had to be tremendously careful when offering any opinion on his company's products and services, because if he said something along the lines of, "Oh, I sort of liked that better when it was blue," it was heard by his colleagues as "CHANGE IT BACK TO BLUE!" [3]
+
+The people around a leader need to be aware of their reflexive deference to a leader's power and charisma. They need to remember that this need not require an adversarial relationship, feelings of hostility, or overt coercion on the part of the leader. It can happen even in genial interactions with leaders who are warm and caring--in these cases the perceived risk isn't that resistance will provoke a leader's anger, but that it will result in the leader's disappointment. Other people also need to acknowledge their agency and participation in this process--the responsibility does not lie with the leader alone, and silence will be interpreted by the leader as tacit approval.
+
+A next step for leaders is making it safer for others to resist, rather than defer. Harvard Business School professor Amy Edmondson notes that leaders can enhance psychological safety through very simple behaviors:
+
+Proactively invite input. Asking is the simplest and best way to get people to offer their ideas. Even if a leader has explained how error-prone the work is, people still have a threshold to overcome in speaking up with concerns or mistakes. To help them, simply ask questions...like: "What do you see in this situation?"...
+
+[And] respond appreciatively. Having explained the nature of the work and asked for input, if you bite someone’s head off the first time they bring bad news, that will kill the psychological safety pretty quickly... Responding appreciatively does not mean that you’re thrilled with everything that was said; it means that you recognize the courage it takes to come forward with bad news, or to ask a question when you’re unsure about something. [4]
+
+And a next step for others is recognizing that avoiding the risk of embarrassment or threat in the short-term increases the risk of other (potentially much worse) problems in the long-term. As I've written before, "We [don't] know the precise long-term cost that we will have to pay for NOT speaking up. We do know that censoring ourselves is stressful and generates negative feelings. We also know that we will inevitably blame those negative feelings on those who 'made us' censor ourselves." [5] The key is speaking up—skillfully.
+
+Footnotes
+
+[1] Overcoming Organizational Defenses, page 25 (Chris Argyris, 1990)
+
+[2] When You're in Charge, Your Whisper May Feel Like a Shout (Adam Galinsky, The New York Times, 2015)
+
+[3] The Blue Problem (Power and Communication)
+
+[4] Make Your Employees Feel Psychologically Safe (Amy Edmondson interviewed by Martha Lagace, Harvard Business School Working Knowledge, 2018)
+
+[5] Risk Management (The Importance of Speaking Up)
+
+Photo by Zooey.
+
+
+===== END ED BOT ESSAY 4019 =====
+===== BEGIN ED BOT ESSAY 4020 =====
+---
+title: Three Conversations (On Better Communication)
+url: https://edbatista.com/2019/05/three-conversations.html
+slug: three-conversations
+published: 2019-05-22T20:23:18
+updated: 2025-10-08T08:55:08
+source_body: wordpress-html
+---
+
+When we're talking with another person, three conversations are being held at once:
+
+1) The Script: The words being spoken and the other explicit verbal expressions that could be captured in a written document.
+
+2) The Silent Movie: All other forms of interpersonal signalling, largely visual or non-verbal, but often easy to miss and hard to interpret. Facial expressions, body language, tone of voice, the rhythm and cadence of speech, heavy or shallow breathing, eye contact (or lack thereof), incipient tears (or actual tears), etc.
+
+3) The Inner Dialogue: The conversation with ourselves about how the first two conversations are going.
+
+What are the implications of this for our effectiveness as communicators?
+
+When we focus on the Script at the expense of the Silent Movie, we miss out on an immense amount of potentially useful data. The idea that "93% of communication is non-verbal" is a myth that has been refuted by Albert Mehrabian, the UCLA psychologist whose research was the basis for that figure. [1,2] That said, as an executive coach I hold more than 750 extensive one-on-one conversations with my clients and MBA students every year, and it's eminently clear just how much being expressed beyond the parameters of the Script. A key step in becoming a better communicator is heightening our awareness of all the action that's taking place at every moment in the Silent Movie.
+
+But it's equally important to recognize the limits on our ability to accurately interpret this data. As I've noted before, human beings are driven to "craft an endless series of explanatory narratives that enable us to navigate the world, and we might call this primal urge the 'narrative engine'...but one of the dilemmas we encounter in this process is that it's nearly impossible to turn this engine off--we can't help but create a story to explain a given situation, even when the information at our disposal is incomplete or inaccurate." [3]
+
+The stories we invent to make meaning out of the data observed in the Silent Movie are largely intuitive, and psychologists Gary Klein and Daniel Kahneman have jointly explored the extent to which our intuitions are accurate:
+
+McKinsey Quarterly: Is intuition more reliable under certain conditions?
+
+Gary Klein: We identified two. First, there needs to be a certain structure to a situation, a certain predictability that allows you to have a basis for the intuition. If a situation is very, very turbulent, we say it has low validity, and there’s no basis for intuition... The second factor is whether decision makers have a chance to get feedback on their judgments, so that they can strengthen them and gain expertise. If those criteria aren’t met, then intuitions aren’t going to be trustworthy. [4]
+
+So the more predictable and less "turbulent" an interaction, the more accurate our intuitions tend to be. We can't always maximize the predictability of our interactions, but we can be more sensitive to the level of "turbulence" we're experiencing and remind ourselves to challenge our intuitions under those conditions. To paraphrase Bonnie Wentworth, a former colleague of mine at Stanford, we should trust our intuitive sense that something is there, but we should hold our cognitive interpretations of that data very lightly.
+
+On Klein's second point, note that interpersonal interactions are infinitely rich sources of feedback, and while on occasion we may interrupt a conversation to explicitly inquire about an intuitive judgment and test its accuracy, we're constantly engaged in this process in a more subtle, implicit way. We intuitively sense the need for a humorous remark--and wait for a smile or laugh to test our theory. We intuitively feel the need to make eye contact--and wait to see if it's reciprocated. We intuitively open our mouths to interject--and wait to see if the other person pauses in response. The challenge is having the mental capacity to track these "tests" and learn from them over time while maintaining interpersonal contact.
+
+Which brings us to the third conversation, the running Inner Dialogue we maintain with ourselves to assess our effectiveness in the other two domains. [5] This dialogue needs to take place at the right "volume"--if it's too quiet, we'll miss cues telling us to change course and modify our behavior to have the desired effect. But if it's too loud, we'll be paralyzed with self-consciousness and incapable of acting fluidly and naturally.
+
+When we begin to absorb more data from the Silent Movie, the volume of the Inner Dialogue often gets turned up as well, and the resulting cacophony can be overwhelming. For a decade I helped train MBA students at Stanford in coaching principles and practices, and they inevitably experienced their first coaching sessions as exhausting, largely because their Inner Dialogue was a nonstop barrage of anxiety and criticism. And just as inevitably, with practice they became less self-conscious and found the volume knob. [6]
+
+So in your next one-on-one, ask yourself:
+
+- What's playing in the Silent Movie?
+
+- How am I interpreting this data?
+
+- How predictable or turbulent is this interaction, and how might that affect the accuracy of my intuitions?
+
+- What feedback am I getting on my intuitions, and what can I learn from it?
+
+- Is my Inner Dialogue at the right volume?
+
+- How might I turn it up or down?
+
+Thanks to my friend and colleague Erik Bengtsson for a fruitful discussion on this topic.
+
+Footnotes
+
+[1] Mehrabian and nonverbal communication (Olivia Mitchell)
+
+[2] "Silent Messages": A Wealth of Information About Nonverbal Communication (Albert Mehrabian)
+
+[3] A Better Information Diet
+
+[4] Strategic decisions: When can you trust your gut? (Olivier Sibony and Dan Lovallo interviewing Daniel Kahneman and Gary Klein, McKinsey Quarterly, 2010)
+
+[5] Psychologists refer to this process as "self-monitoring," and an instrument developed in 1984 by Richard Lennox and Raymond Wolfe asks people to assess their "ability to modify self-presentation" as well as their "sensitivity to expressive behaviors of others."
+
+[6] Conscious Competence in Practice
+
+Photo by Sayan Battacharjee.
+
+
+===== END ED BOT ESSAY 4020 =====
+===== BEGIN ED BOT ESSAY 4021 =====
+---
+title: A Better Information Diet
+url: https://edbatista.com/2019/05/a-better-information-diet.html
+slug: a-better-information-diet
+published: 2019-05-14T16:27:48
+updated: 2025-09-24T11:58:09
+source_body: wordpress-html
+---
+
+PART I: HOW WE THINK
+
+To improve and maintain your capacity to get information, you have to understand how it comes to you.
+
+~Andy Grove, 1983 [1]
+
+We monitor what we eat and drink, optimizing our diet for health and performance, not just enjoyment--and yet we can be heedless about what we read, watch, and listen to. Our information diet is often the result of accident or happenstance rather than thoughtful planning. Even when we do choose deliberately, the intent behind much of our media consumption is simply to soothe or distract ourselves, not to nourish or enrich. It's like having french fries for every meal. There are steps we can take to enjoy a better information diet, but if we want to do more than simply construct a set of rules that we might follow for a period of time and then abandon (as with so many diet plans), it's useful to start with four principles related to how our brains operate.
+
+1. Ways of Thinking
+
+2. Emotions Are Attention Magnets
+
+3. The Narrative Engine
+
+4. The Inevitability of Social Comparison
+
+1. Ways of Thinking
+
+We have two distinct ways of thinking: the first is fast, intuitive and automatic, while the second is slow, reflective and deliberate. This "dual-process theory" is rooted in ancient perspectives on the human mind, but work by social psychologists beginning in the 1960s resulted in the terms "System 1" and "System 2," coined by Keith Stanovich and Richard West [2] and later popularized by Daniel Kahneman, who offers this summary:
+
+- System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control.
+
+- System 2 allocates attention to the effortful mental activities that demand it, including complex computations. The operations of System 2 are often associated with the subjective experience of agency, choice, and concentration. [3]
+
+While this model is a helpful metaphor, some qualifications are in order. The two "systems" refer to different modes of operating in the mind, not to literal brain structures--the brain is not like the digestive system or the circulatory system, with distinct organs serving clearly delineated functions. We know that various regions of the brain and neural networks are associated with various mental processes, but there's still much we do not understand about how the brain works.
+
+System 1 encompasses the innate perceptive faculties we're born with as well as a host of other skills that become automatic over time as a result of formative experience as well as deliberate training and education--this knowledge "is stored in memory and accessed without intention and without effort," and as a result these responses "are completely involuntary." [4] But System 2 operates in a very different way, as Kahneman notes:
+
+The highly diverse operations of System 2 have one feature in common: they require attention and are disrupted when attention is drawn away... You must pay attention, and you will perform less well, or not at all, if you are not ready or if your attention is directed inappropriately...
+
+The often-used phrase "pay attention" is apt: you dispose of a limited budget of attention that you can allocate to activities, and if you try to go beyond your budget, you will fail. [5]
+
+The relationship between System 1 and System 2 is highly dynamic. In general System 2 acts as an "acquiescent monitor," in Kahneman's phrase, assessing the constant stream of thoughts, feelings and potential actions generated by System 1 and allowing many to be expressed while suppressing others. At times System 2 takes over and actively resists our System 1 impulses by slowing down our mental processing and employing logical reasoning to determine how to proceed. But under certain circumstances these ways of thinking collude with each other:
+
+In the context of attitudes...System 2 is more of an apologist for the emotions of System 1 than a critic of those emotions--an endorser rather than an enforcer. Its search for information and arguments is mostly constrained to information that is consistent with existing beliefs, not with an intention to examine them. [6]
+
+The result is that in most cases we can rely upon our fast, automatic, and essentially inexhaustible System 1 processing to navigate the world successfully, while preserving our slow, effortful, and finite System 2 processing for those special circumstances that require deliberate focus and logical reasoning. The fact that System 2 processing is a limited resource has profound implications for our purposes here.
+
+We can experience the expenditure of System 2 processing as taxing, fatiguing and at times unpleasant, and this helps to insure that we don't waste it--we've evolved to be "cognitive misers." But this economy of effort also renders us prone to misjudgments, particularly under those circumstances when System 2 actively endorses our System 1 impulses by ratifying our feelings and reinforcing our existing beliefs rather than questioning their validity and accuracy.
+
+2. Emotions Are Attention Magnets
+
+We associate emotions with System 1 because they're typically automatic responses that operate outside of voluntary control, but it's inaccurate to think of System 1 as "emotional" and System 2 as "logical"; feelings and cognitions are involved in both forms of mental processing. Emotions are actually vital inputs in the reasoning process, although they can also interfere with logical reasoning at times, as we've all experienced. [7]
+
+And while much research on dual-process theory has focused on situations in which people make surprisingly sub-optimal choices, it's also inaccurate to think of System 1 as "irrational" and System 2 as "rational," or to view the deliberative results of the latter as always preferable to the intuitive results of the former. Sometimes that is the case, but both systems have their limitations and are subject to various cognitive biases. [8]
+
+These biases are generally the result of mental shortcuts that we take to conserve System 2 processing. Our cognitive economy preserves our finite stores of concentration and reasoning for circumstances when they're most likely to be of use, rather than employing them at the slightest provocation.
+
+One way these dynamics manifest themselves is in the relationship between emotions and attention. A critical function that emotions serve is the ability to interrupt conscious thought and rapidly alert us to potential opportunities and threats. As I've noted before,
+
+Psychologist Victor Johnston describes emotions as "discriminant hedonic amplifiers," meaning that they boost various signals in our mental landscape, drawing our attention toward certain issues and events and away from others. In other words, emotions are attention magnets. [9,10]
+
+As a result our relatively scarce store of attention is readily captured by objects that carry an emotional charge--we're most likely to be distracted by something that triggers a feeling, ranging from excitement and arousal to anxiety or disgust. At the same time, objects that fail to generate an emotional response will be difficult to focus on, and paying persistent attention to non-emotional stimuli will seem laborious and effortful in comparison.
+
+3. The Narrative Engine
+
+In this context another salient characteristic of the human mind is our fascination with stories, in the broadest possible sense of the word. A story is an explanatory narrative, a vehicle for sense-making that allows us to understand what's happening in a given situation. We're driven to create stories, to craft an endless series of explanatory narratives that enable us to navigate the world, and we might call this primal urge the "narrative engine."
+
+Our penchant for stories, like the ability of emotions to interrupt conscious thought, is highly adaptive for the species as a whole, but at times maladaptive for us as individuals. (Like so many of the psychological principles discussed here, it's a feature that occasionally acts like a bug.) The narrative engine generally allows us to successfully interpret a given situation, even one that is highly uncertain, and devise a range of potential responses that fit the story we've instantaneously created to explain the information at our disposal.
+
+But one of the dilemmas we encounter in this process is that it's nearly impossible to turn this engine off--we can't help but create a story to explain a given situation, even when the information at our disposal is incomplete or inaccurate. As Kahneman notes,
+
+When uncertain, System 1 bets on an answer, and the bets are guided by experience... [However,] System 1 does not keep track of alternatives that it rejects, or even of the fact that there were alternatives. Conscious doubt is not in the repertoire of System 1; it requires maintaining incompatible interpretations in mind at the same time, which demands mental effort. Uncertainty and doubt are the domain of System 2...
+
+System 1 is gullible and biased to believe, System 2 is in charge of doubting and unbelieving, but System 2 is sometimes busy, and often lazy...
+
+The measure of success for System 1 is the coherence of the story it manages to create. The amount and quality of the data on which the story is based are largely irrelevant. When information is scarce, which is a common occurrence, System 1 operates as a machine for jumping to conclusions...
+
+The confidence that people experience is determined by the coherence of the story they manage to construct from available information. It is the consistency of the information that matters for a good story, not its completeness. Indeed, you will often find that knowing little makes it easier to fit everything you know into a coherent pattern. [11]
+
+The consequences of this process are significant for our discussion here: The narrative engine leads us to view the world as a series of stories. We craft stories immediately on the basis of minimal data, no matter how scanty, and we find it very difficult to even envision the missing data that might result in an alternative explanation. [12] We discount data that doesn't fit our narrative, and when the coherence of our narrative is challenged by disconfirming data, we experience cognitive dissonance, a state that we find highly activating and energizing (albeit stressful and unpleasant.)
+
+4. The Inevitability of Social Comparison
+
+Theodore Roosevelt supposedly said, "Comparison is the thief of joy," and although the actual origin of that line is uncertain, it's an undoubtedly true statement. And yet this sound advice is so necessary because we've evolved to compare ourselves to other people constantly. Work by UCLA neuroscientist Matthew Lieberman and others suggests that our brains have a "default network" that is activated whenever we're not consciously preoccupied with a specific task or train of thought, and the focus of that network's activity is "social cognition [which entails] thinking about other people, oneself, and the relationship of oneself to other people." [13]
+
+This provided a critical advantage in our evolutionary history, enabling us to work together in much larger groups than other primates. However, as I've written before, it came with a downside:
+
+While our social orientation is critical in enabling our success as a species, it also poses a substantial challenge for each of us as individuals. We must navigate in-group competition, which becomes even fiercer in larger groups. We're hyper-aware of our relative social status and our shifting position within group hierarchies. And in order to accomplish these tasks effectively we're constantly scanning our interpersonal environment for potential threats and opportunities, which necessarily involves comparing ourselves to others--as UC Riverside psychologist Sonja Lyubomirsky writes in The Myths of Happiness, "Most of the time, it's impossible not to compare ourselves with others... Social comparisons arise naturally, automatically, and effortlessly." [14]
+
+While our propensity for social comparison can be the source of much unhappiness for us as individuals, it's a powerful drive that benefits the species. We can (and indeed we must) strive to manage it, but we can't simply turn it off at will.
+
+PART II: (WE ARE) PRODUCTS IN AN ATTENTION ECONOMY
+
+In the age of surveillance capitalism, the biggest corporations redirect the gaze, exploiting the psyche’s vulnerabilities for profit.
+
+~Franklin Foer, 2019 [15]
+
+A theme in my coaching practice and my teaching is that attention is our most precious resource, even more important than time. As I've written before, this is because, "time merely passes, while focused attention makes things happen. When we’re able to gather and direct our attention toward a particular task or interaction, we can have a significant impact in a minimal amount of time. But when we’re unable to bring our attention to bear on the work at hand, all the time in the world is insufficient." [16]
+
+The value of attention can also be assessed by the fact that we live today in an "attention economy." Value is derived from our collective attention, and what captures our collective attention is deemed valuable. Attention and value are increasingly indistinguishable. Entrepreneur Seth Goldstein realized this as early as 2005, just as Facebook was raising its Series A from Accel Partners, and one year before Jack Dorsey sent the first tweet, and he explored its implications in a series of articles that triggered my own interest in attention:
+
+What I see happening online [is that] meta-data (information about information) is creating significant economic value, from the many millions of Google and Overture keywords to the emerging class of Flickr, Del.icio.us and other tag-driven systems. Our browsing, clicking, searching and tagging behavior are the base metals which alchemists like [del.icio.us founder] Josh [Schachter] are turning into precious datastores. [17]
+
+This trend has only accelerated since 2005, of course, and as we now understand, in an attention economy we're not merely consumers--we are also the product. A fundamental organizing principle of contemporary business is the capture, retention, and monetization of our collective attention--and this can put us at odds with the owners and orchestrators of the attention economy. As human beings we've evolved to preserve the scarce resource of deliberate focus, expending it only on likely opportunities and threats--which means that those who would seek to harvest our attention must be mindful of the principles described above, and not necessarily to our benefit.
+
+As a result, information in the attention economy is carefully engineered to:
+
+- Engage System 1, which is "gullible and biased to believe," while avoiding extensive utilization of System 2, which can feel taxing and depleting: Content is short, simple and easily digested. Minimal context is necessary for understanding. Consistency with pre-existing beliefs is carefully maintained.
+
+- Trigger emotions in every possible way: Images are arousing or troubling or touching. Outrage and anxiety are stoked repeatedly, and then comfort is offered. Feelings are always ratified, never challenged.
+
+- Harness the power of the narrative engine: Just enough data is provided to construct a plausible story. Stories are left open-ended, and the question of "What happens next?" is teased constantly. All stories--fictional and non-fictional--fit within larger narratives consistent with pre-existing beliefs.
+
+- Invite social comparison: Representations of other other people are a primary form of content. Most representations are carefully manicured to induce a sense of anxiety. Some representations are deliberate vilifications to induce a sense of superiority. A sense of competition with others is heightened.
+
+When we observe our information environment under "surveillance capitalism" we see every one of these principles in action, all working toward the goal of capturing our attention. So what can we do? What steps can we take toward a better information diet?
+
+PART III: DESIGNING AN INFORMATION ECOSYSTEM
+
+We have focused on managing our time. Our opportunity is to focus on how we manage our attention.
+
+~Linda Stone, 2005 [18]
+
+Where you allow your attention to go ultimately says more about you as a human being than anything that you put in your mission statement.
+
+~Merlin Mann, 2009 [19]
+
+A clearer understanding of how our brains work and a heightened awareness of the attention economy provide a useful foundation. The next step involves making use of this data to design an ecosystem that helps us maintain a better information diet. This entails working on ourselves as well as structuring our environment in ways that leverage the four principles above.
+
+1. Ways of Thinking
+
+Recall that System 2 processing is a finite resource, so we've evolved to experience its extended utilization as taxing and depleting. This includes the act of intentionally choosing where to direct our attention. The key is expanding our capacity for what we might call meta-attention: the ability to pay attention to where our attention goes.
+
+- Treat attention like a resource that must be invested wisely.
+
+- Commit to a consistent mindfulness practice, which is a workout in attention management.
+
+- Stop multi-tasking--we think it makes us more productive, but it actually renders us chronically distracted. [20, 21]
+
+- Create the right conditions for strategic thought: A regularly-occurring block of time in an appropriate setting that's of sufficient duration for our needs.
+
+- Recognize the cognitive cost of communication interfaces that involve "continuous partial attention," a term coined by technology researcher Linda Stone: "In small doses, continuous partial attention can be a very functional behavior. However, in large doses, it contributes to a stressful lifestyle, to operating in crisis management mode, and to a compromised ability to reflect, to make decisions, and to think creatively." [22] We need not opt out of these channels and tools, but we must engage them thoughtfully.
+
+2. Emotions are Attention Magnets
+
+Because emotions are attention magnets, feelings are constantly triggered and exploited by the attention economy. This is particularly true of negative emotions such as anxiety or outrage, in part because such feelings are more powerful at driving behavior than positive ones. [23] We can't control our emotional responses, nor would we want to--the ability of emotions to interrupt our conscious intentions is one of their most important and necessary functions. But we do need to cultivate our capacity for emotion management--not to suppress our feelings, but to regulate them so that they can inform where we direct our attention while allowing us to make an active choice in the process.
+
+- Again, commit to a consistent mindfulness practice--better attention management allows us to sense and comprehend our emotions more clearly.
+
+- Get regular exercise, which helps us be more attuned to the physiological signs of emotion.
+
+- Get sufficient sleep--when we're better-rested we're more effective at emotion regulation and experience less anxiety.
+
+- Reduce sources of chronic stress, which hampers our ability to down-regulate a threat response.
+
+- Create the spaces necessary to talk about feelings and write about them, processes that help us manage emotions more efficiently than mere reflection.
+
+- Identify the ways in which our communication tools and devices are designed to trigger a emotional response (particularly anxiety and surprise) in order to provoke engagement, and switch off as many as possible.
+
+3. The Narrative Engine
+
+We're dependent on explanatory narratives to navigate the world, but the resulting fascination with stories leaves us vulnerable to cognitive biases and exploitation by those who would harvest our attention. The goal isn't to turn the narrative engine off--that's neither possible nor desirable--but to be more aware of its impact on our behavior.
+
+- Learn to see this process at work in all the media we consume; look for the storylines and narratives that content creators develop and suggest in order to capture our attention.
+
+- Recognize the mental models that we employ to co-create and make sense of these narratives, and note the intersection with the issues discussed above--we're more likely to be hooked by stories that are consistent with our pre-existing beliefs and that trigger an emotional response.
+
+- Identify the specific narratives and storylines that capture our attention without providing a truly substantive experience.
+
+- Heighten our sensitivity to the question, "What happens next?" (All too often, the answer is utterly meaningless, but our drive to complete the story makes it difficult to turn away.)
+
+4. The Inevitability of Social Comparison
+
+Just as we can't switch off the narrative engine, we can't prevent ourselves from registering our status relative to others--but we can be more mindful of the impact of this process on our emotional state and our behavior, particularly our patterns of information consumption.
+
+- Be aware of the competitive dynamics triggered via social comparison--and the illusory sense of anxiety and distress that results when we imagine that we're "losing."
+
+- Strive to "rely a little less on others when determining our self-worth and to rely a little more on our personal standards." [24]
+
+- Recognize that information in the attention economy--particularly that presented to us via social media networks--has been carefully engineered to promote deeper engagement via social comparison. User beware.
+
+CONCLUSION: FOCUS IS A LUXURY GOOD
+
+In an information-rich world, most of the cost of information is the cost incurred by the recipient.
+
+~Herbert Simon, 1971 [25]
+
+Because we have allowed our attention to be monetized, if you want yours back, you're going to have to pay for it.
+
+~Matthew Crawford, 2015 [26]
+
+Even as we make progress in designing a personal ecosystem that will help us maintain a better information diet, it's necessary to recognize that this is an inherently social process and thus subject to many interpersonal and cultural dynamics. The ability to focus is contingent on our freedom from distraction, and the absence of distractions allows us to more readily manage and direct (and own) our attention. But our attention is a (and today perhaps the) driver of value, and so our attention will be harvested at every possible opportunity, and if we want to retain it for our own purposes, we must be prepared to pay for the privilege.
+
+We see this in every domain of life. Wealthy neighborhoods are quiet and peaceful, as are expensive dwellings, as are the workspaces of the powerful. We pay in any number of settings to avoid ads, or we accept ads in return for "free" services--paid for, of course, with the currency of our attention. The right to not be interrupted--to maintain our focus--is now a luxury good. The question then becomes: How will you pay for it?
+
+ 
+
+This post integrates a set of ideas that I've been writing about for over a decade:
+
+- The Trap of Competition (2019)
+
+- Attention Surplus Disorder (Attention and Anxiety) (2018)
+
+- The Art of Self-Coaching: Attention (Stanford GSB Class of 2016 Reunion) (2017)
+
+- You're Not Multi-Tasking, You're Half-Assing (2016)
+
+- Seeing What's Not There (The Importance of Missing Data (2016)
+
+- To Stay Focused, Manage Your Emotions (2015)
+
+- Growth, Profitability and Return on Attention (2015)
+
+- The Marshmallow Test for Grownups (2014)
+
+- Rubbernecking (Stop Wasting Attention) (2013)
+
+- Spending Attention (2013)
+
+- Adult Thumb-Sucking (2012)
+
+- What Are You Paying Attention To? (2009)
+
+It's also directly related to one of the sessions in my course at Stanford:
+
+- The Art of Self-Coaching, Class 3: Attention
+
+Footnotes
+
+[1] High Output Management, page 49 (Andy Grove, 1983/1995)
+
+[2] Individual differences in reasoning: Implications for the rationality debate? (Keith Stanovich and Richard West, Behavioral and Brain Sciences, Volume 23, Issue 5, October 2000)
+
+[3] Thinking, Fast and Slow, pages 20-21 (Daniel Kahneman, 2013)
+
+[4] Thinking, Fast and Slow, page 22 (Daniel Kahneman, 2013)
+
+[5] Thinking, Fast and Slow, pages 22-23 (Daniel Kahneman, 2013)
+
+[6] Thinking, Fast and Slow, pages 103-104 (Daniel Kahneman, 2013)
+
+[7] Antonio Damasio on Emotion and Reason
+
+[8] When Heuristics Go Bad
+
+[9] To Stay Focused, Manage Your Emotions
+
+[10] Why We Feel: The Science of Human Emotions, page 156 (Victor Johnston, 2000)
+
+[11] Thinking, Fast and Slow, pages 80-87 (Daniel Kahneman, 2013)
+
+[12] Seeing What's Not There (The Importance of Missing Data)
+
+[13] Social: Why Our Brains Are Wired to Connect, page 18 (Matthew Lieberman, 2013)
+
+[14] The Trap of Competition, citing The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132 (Sonja Lyubomirsky, 2014)
+
+[15] "Attention Is the Beginning of Devotion" (Franklin Foer, The Atlantic, 2019)
+
+[16] To Stay Focused, Manage Your Emotions
+
+[17] Rocket Science, citing Media Futures, Part 4/5: ALCHEMY (Seth Goldstein, 2005)
+
+[18] Continuous Partial Attention (Linda Stone, 2002-2017)
+
+[19] As quoted in In Defense of Distraction (Sam Anderson, New York, 2009)
+
+[20] You're Not Multi-Tasking, You're Half-Assing
+
+[21] Multi-tasking: switching costs (American Psychological Association, 2006)
+
+[22] Continuous Partial Attention (Linda Stone, 2002-2017)
+
+[23] Bad Is Stronger Than Good (Roy Baumeister, Ellen Bratslavsky, Catrin Finkenauer and Kathleen Vohs, Review of General Psychology, 2001)
+
+[24] The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 134-135 (Sonja Lyubomirsky, 2014)
+
+[25] "Designing Organizations for an Information-Rich World" (Herbert Simon, in Computers, Communications, and the Public Interest, Martin Greenberger, editor, 1971)
+
+[26] The World Beyond Your Head: On Becoming an Individual in an Age of Distraction, page 12 (Matthew Crawford, 2015)
+
+For Further Reading
+
+The compiled work of Linda Stone (2002-2017)
+
+White Bears and Other Unwanted Thoughts, Chapter 1: Mental Control, and Chapter 5: The Remote Control of Thinking (Daniel Wegner, 1989)
+
+Bumping Into Mr. Ravioli: A theory of busyness, and its hero (Adam Gopnik, The New Yorker, 2002)
+
+In Defense of Distraction (Sam Anderson, New York, 2009)
+
+The False Question of Attention Economics (Stowe Boyd, 2010)
+
+- Technology writer Boyd offers a thoughtful counterpoint: "I am saying there is no 'answer’ to those that say we are overloaded, that we are being driven mad by or enslaved to the tools we are experimenting with, or that there is some attention calculus that trumps all other value systems. I suggest we just haven’t experimented enough with ways to render information in more usable ways, and once we start to do so, it will likely take 10 years (the 10,000 hour rule again) before anyone demonstrates real mastery of the techniques involved."
+
+Photo by Christian Kadluba.
+
+
+===== END ED BOT ESSAY 4021 =====
+===== BEGIN ED BOT ESSAY 4022 =====
+---
+title: Competence Isn't Power
+url: https://edbatista.com/2019/05/competence-isnt-power.html
+slug: competence-isnt-power
+published: 2019-05-13T18:39:38
+updated: 2025-10-08T08:56:20
+source_body: wordpress-html
+---
+
+In many of our formative experiences we’re taught that competence is an important (and perhaps our only) source of power. Being a competent student is necessary for academic advancement, just as being competent at our jobs is necessary for initial professional success. And this works just fine in the early stages of our lives and careers, but it becomes problematic when we continue to carry this mindset into more senior roles:
+
+- We may seek to demonstrate our competence by continuing to own responsibilities or execute tasks well past the point when they should have been delegated to others.
+
+- Leadership roles entail helping others learn and grow, and we may seek to teach by utilizing our superior expertise to highlight others’ incompetence, rendering them dependent and disempowered.
+
+- And a persistent need to be perceived as competent may prevent us from taking the risks that will be essential for our own continued development.
+
+I’m not suggesting that competence is irrelevant, but beyond a certain point it’s table stakes. It’s a necessary step on the path to mastery, and it won’t get us there. The key is to recognize when we’re clinging to our competence out of fear--that’s the signal to let it go. Once we take that step, we can begin to identify other sources of power and show up differently in a senior role:
+
+- Create greater value by doing less and leading more.
+
+- Teach by helping others discover their own power and act independently.
+
+- Take bigger risks, learn from our mistakes, and keep growing in the process.
+
+For Further Reading
+
+How to Scale: Do Less, Lead More
+
+McClelland and Burnham on Power and Management
+
+The Obstacle Is the Way
+
+Force Isn't Power
+
+Inspired by my friend Sage Cohen.
+
+Photo by Security.
+
+
+===== END ED BOT ESSAY 4022 =====

@@ -1,0 +1,151 @@
+===== BEGIN ED BOT ESSAY 3296 =====
+---
+title: Airport Express on Windows XP
+url: https://edbatista.com/2005/12/airport_express.html
+slug: airport_express
+published: 2005-12-21T22:35:15
+updated: 2005-12-21T22:35:15
+source_body: wordpress-html
+---
+
+I received an Airport Express as an early Christmas present from my Mom today.  (Thanks, Mom!)  According to Apple, even benighted Windows users such as myself can use this handy device to play iTunes through a home stereo, as a wireless access point, or as a print server.  All I wanted was to wirelessly connect my iTunes library to my home stereo, and that's certainly possible--I'm listening to Clifford Brown and Max Roach as I write this--but easy?  Well, not so much.  Assuming you can get the Airport Express connected to your stereo on your own, here's what you have to do to be able to play iTunes via your wireless network:
+
+First, I'll admit that I made things harder on myself by my refusal to "upgrade" to XP Service Pack 2.  I tend to think that "SP" stands for "Satan's Playground," and I'm sticking with SP 1, thanks very much.  However, that means that I had to jump through some additional hoops to get the Airport Express to work.  If SP 2 works for you, I suspect you'll have an easier time of it.
+
+Second, to allow my Win XP SP 1 machine to even see the Airport Express, I had to open Port 5353.  If I'm mucking about with "ports" I'm in far over my head, but it was too late to quit.  Thank the Lord for some UK outfit called iFelix--just follow their instructions.  (Note that iFelix has an extensive Airport configuration FAQ.  Good stuff, better than Apple's.)
+
+Third, now that you can see the Airport Express, use the surprisingly crappy Airport Admin Utility (which comes on the install CD) to enable AirTunes on the device.  (Given that this function is a centerpiece of their Airport Express marketing materials, one might think that Apple would enable this function from the get-go...but one would be wrong.)  After opening the Utility, select your device, click "Configure," go to the "Music" tab, and check "Enable AirTunes on this base station" AND "Enable AirTunes over Ethernet".  Click Update and OK out.
+
+Fourth, open iTunes and go to Edit > Preferences > Advanced, and select "Look for remote speakers connected with AirTunes".  Close and re-open iTunes, and you should see a new menu box in the lower right corner of the screen that will allow you to toggle between your computer's speakers and your Airport Express.
+
+So far, so good.  I can use the iTunes interface, I can fit more music on the laptop, and no more trudging across the room--one small step for man, one giant leap for couch potatoes.
+
+UPDATE: In the comments Mark McDonald links to what looks to be very handy step-by-step documentation for setting up an Airport Express on Windows XP.  Thanks, Mark!
+
+ 
+
+tags: airport express itunes ifelix
+
+
+===== END ED BOT ESSAY 3296 =====
+===== BEGIN ED BOT ESSAY 3297 =====
+---
+title: Last.fm: Attention Data in Action
+url: https://edbatista.com/2005/12/lastfm_attentio.html
+slug: lastfm_attentio
+published: 2005-12-20T00:40:13
+updated: 2005-12-20T00:40:13
+source_body: wordpress-html
+---
+
+Last.fm is one of my favorite "attention data" use cases.  After installing their plugin, your iTunes playlist metadata is shared with Last, which creates a set of charts that depict your listening habits, a list of recommended listens and reads, and a musical "neighborhood" filled with people who share your tastes.
+
+One of the uses for attention data that I often discuss when describing AttentionTrust is getting connected with people who share your tastes via a system that can parse your mutually shared data, and that's precisely what your Last.fm neighborhood does.
+
+Here are the 20 musical artists I've listened to most frequently as of Dec. 20th.  (It's actually the top 21, just so I could include a reference to Haywood.)
+
+And here are the top 20 overall artists for my closest Last.fm neighbor:
+
+We share four artists in our top 20 (Jets to Brazil, Mission of Burma, Pavement and Paul Westerberg), and I know you'd find a lot more if you explored our charts further.  So who's the guy with such good taste?  My brother.
+
+I mentioned Last to him over the summer, and he installed the plugin.  I forgot he was using it until a few weeks ago, when I was checking out my Last neighborhood and saw him hanging out among my musical compadres.  I didn't need Last to tell me that my brother and I like the same music, but I was surprised that our tastes were so similar.  Attention data: bringing families together since 2005.
+
+tags: attention attentiontrust last.fm
+
+
+===== END ED BOT ESSAY 3297 =====
+===== BEGIN ED BOT ESSAY 3298 =====
+---
+title: The LeeVees
+url: https://edbatista.com/2005/12/the_leevees.html
+slug: the_leevees
+published: 2005-12-19T23:26:03
+updated: 2005-12-19T23:26:03
+source_body: wordpress-html
+---
+
+Thanks to All Songs Considered's 2005 Holiday Show, I'm obsessed with the LeeVees' "Applesauce Vs. Sour Cream":
+
+Applesauce versus sour cream
+Applesauce or sour cream
+It’s the choice you’re gonna have to make
+Which to put on your potato cakes
+
+Applesauce versus sour cream
+Applesauce or sour cream, now
+It’s the choice you’re gonna have to make
+Tell your mom to fry not bake, now
+
+Life has many decisions
+It moves in all directions
+This is just one huge, enormous, big decision
+You have to make
+You have to make it
+
+(Alright, listen up)
+One has fruit
+And one has milk
+If you’re lactose-intolerant, then take a pill, now
+It’s the choice you’re gonna have to make
+The grease is startin’ to coagulate
+
+Your lawyer called, said everything’s fine
+Potato contracts have been signed, yeah
+I think your heart just skipped a beat
+You can’t wait for your greasy treat, now
+
+Life has many decisions
+It moves in all directions
+This is just one huge, enormous, big decision
+(You have to make)
+You have to make it
+(You must decide)
+
+Da da da dum
+Da da da dum
+Da da da dum dum da da dum
+
+Da da da dum
+Da da da dum
+Da da da dum
+
+You have to make
+You have to make it
+Jews have to make
+
+Listen up at All Songs Considered (RealPlayer required--ugh) or just buy it at iTunes. Best pop-punk Hanukkah song I've heard in many a year.
+
+tags: leevees hanukkah chanukkah latkes
+
+
+===== END ED BOT ESSAY 3298 =====
+===== BEGIN ED BOT ESSAY 3299 =====
+---
+title: The Gap: Destroying the Brand in Order to Save It
+url: https://edbatista.com/2005/12/the_gap_destroy.html
+slug: the_gap_destroy
+published: 2005-12-19T11:12:49
+updated: 2025-10-21T05:46:34
+source_body: wordpress-html
+---
+
+Slate's Seth Stevenson is dismayed that The Gap went to the trouble and expense of hiring Spike Jonze to shoot a way kewl spot touting their remodeled stores only to bury it in a short run in a handful of markets.  (Slate's showing the spot that actually aired in low- and high-bandwidth options [Windows Media], but Stevenson also links to a far superior, alternate version [Quicktime] apparently salvaged from the cutting-room floor by Jeffrey Wells.)
+
+The spot depicts the destruction of an ordinary Gap outlet at the hands of shoppers, staff and random passers-by, culminating in a dog wandering through the dusty, clothing-strewn, depopulated scene.  It's both thrilling and shocking, particularly the alternate version with the Edvard Grieg soundtrack.  In light of The Gap's recent poor performance, Stevenson thinks they're twiddling their thumbs:
+
+This is rearranging the track lighting on the Titanic. It's the entire Gap brand that needs a scrubbing, not just the stores. The Ad Age story quotes an analyst who says, "The Gap is now a category placeholder. It's the name everyone knows, but aren't real sure what it stands for anymore."
+
+So: You've got a brand that everyone's familiar with, which is half the battle. The next step, it seems, would be to reinvent the meaning of that brand. It sounds like what the company needs is a piece of marketing that suggests radical changes are afoot—that the Gap brand is about to tear itself down to its foundations and be reborn. Where could they possibly find something like that?
+
+Instead of running the "Dust" spot in just a couple of markets, and tying it exclusively to the remodeling effort, Gap should have used this ad as the centerpiece of a national campaign.
+
+That would be a breathtakingly big swing for the fences, and I'd guess that a sleeper cell in The Gap's marketing department agrees with Stevenson--the Jonze spot is too ambitious to really be about store remodeling--but cooler heads prevailed and nipped the idea in the bud.
+
+At 38, I'm old enough to remember The Gap's two-stage transformation, first from off-brand denim outlet to cooler-than-Levi's, and then on to world domination via sort-of-preppy, sort-of-hip GeneriClothes.  But a fundamental problem they face now is that the market's fragmented out from under them, and fewer people want to wear GeneriClothes these days--we're all pursuing our individual style muses.  (Except me--I'm hip enough to know that The Gap isn't, but not hip enough to care--demonstrated by my use of 1920s slang like "hip"--and I still love those worker jeans.)
+
+The Gap has become the transparent background music of fashion--the aesthetic you never see because it's everywhere (and thus effortless to imitate, undercut or adapt.)  I like expansive, dramatic gestures--even when they fail, you have a lot more fun making the attempt--and I'd love to see The Gap destroy its increasingly-meaningless brand in order to save it--but I'm hard-pressed trying to think of a big retailer that's pulled off a similar trick.  The New Coke conspiracy theories are the closest I can get, and that's thin ice for a corporate strategy (but I'd love to see the PowerPoint.)
+
+tags: the gap seth stevenson spike jonze
+
+
+===== END ED BOT ESSAY 3299 =====

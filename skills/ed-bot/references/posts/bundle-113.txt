@@ -1,0 +1,298 @@
+===== BEGIN ED BOT ESSAY 3562 =====
+---
+title: The Value of Journal Writing
+url: https://edbatista.com/2008/03/journal.html
+slug: journal
+published: 2008-03-26T11:01:12
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+As a coach I generally encourage the people I work with to keep a journal. With my MBA students at Stanford, of course, this is a formal requirement of my class. [1] But even if a journal is simply a series of informal, private notes, the common purpose is to insure that the learning continues after the end of the coaching session or the class experience.
+
+Each year I read nearly 1,000 of my students' journal entries, I write the equivalent of a journal entry after every coaching session with my clients, and I've kept a personal journal for decades (off and on, in many different notebooks). The sum of this experience has convinced me of the value of the practice, and it's entirely consistent with what I know about experiential learning. [2] But why does it actually work? What are the underlying processes that make journal writing a meaningful activity?
+
+The work of neuroscientist Joseph Ledoux suggests some answers. Ledoux's work has focused on memory, emotions and cognition, and he talked about memory with The Edge:
+
+Like many scientists in the field of memory, I used to think that a memory is something stored in the brain and then accessed when used. Then, in 2000, a researcher in my lab, Karim Nader, did an experiment that convinced me, and many others, that our usual way of thinking was wrong. In a nutshell, what Karim showed was that each time a memory is used, it has to be restored as a new memory in order to be accessible later. The old memory is either not there or is inaccessible. In short, your memory about something is only as good as your last memory about it. [3]
+
+So journaling 1) compels us to access our memories of an experience, 2) creates another, more recent memory of that experience, and 3) creates a physical record of those memories to which we can return in the future.
+
+Ledoux's work on emotion and cognition suggests an even more powerful reason for the value of journaling. A key theme for Ledoux is the distinction between emotional memories, which he defined in an interview with John Brockman as "implicit, or procedural memories that are in the brain's systems, but not reflected in consciousness" and cognitive, or explicit, memories, which he defined as "the kind of memory we usually have in mind when we use the word memory in everyday speech." [4]
+
+Some coaching sessions and experiential learning activities evoke intense emotions in the participants, but as Ledoux told Brockman,
+
+[T]he brain can produce emotional responses in us that have very little to do with what we think we're dealing with or talking about or thinking about at the time. In other words, emotional reactions can be elicited independent of our conscious thought processes. For example, we've found pathways that take information into the amygdala [a region of the brain associated with processing emotion] without first going through the neocortex, which is where you need to process it in order to figure out exactly what it is and be conscious of it. So emotions can be and, in fact, probably are mostly processed at an unconscious level. We become conscious and aware of all this after the fact. [5]
+
+So journaling after emotional experiences allows us to process them when we can understand them cognitively and (in some cases) consciously for the first time.
+
+But, of course, many otherwise valuable coaching sessions and experiential learning activities don't evoke strong emotions--is it helpful to journal in these cases as well?  Again, Ledoux's work suggests that it is. From another interview with Ledoux by Brenda Patoine of the Dana Foundation, which supports brain research:
+
+There is both an upside and a downside to the fact that emotional states make memories stronger. The upside is that we remember our emotional experiences to a greater extent than non-emotional ones. The downside is that we remember our emotional experiences to a greater extent than non-emotional ones. [6]
+
+So journaling after non-emotional experiences bolsters our memories of these experiences and helps to insure that they're not lost among our more powerful and long-lasting emotional memories.
+
+One final thought--Ledoux also discussed with Brockman the potent and even destructive power of emotional memories:
+
+Many people have problems with their emotional memories; psychologists' offices are filled with people who are basically trying to take care of and alter emotional memories, get rid of them, hold them in check. [7]
+
+Journal-writing is clearly no substitute for psychological treatment, but the experience of cognitively processing emotional memories in a journal entry can have some transformative power, allowing us not only to better understand those memories but also to better manage and make use of them.
+
+While many digital options are available, I'm a fan of journaling with pen and paper. It has its downsides--not searchable, not archivable, and the stuff does tend to pile up. But the upside is that it's a lot less tempting to edit and re-write, and I just get my thoughts out and move on. (One sentence today is worth a page tomorrow.) I'm not picky about pens, although I prefer blue ballpoints, but I truly love Moleskine notebooks.
+
+ 
+
+Footnotes
+
+[1] The Art of Self-Coaching
+
+[2] Experiential Learning Revisited
+
+[3] What Have You Changed Your Mind About? Why? (Joseph LeDoux, The Edge, 2008)
+
+[4,5] Parallel Memories: Putting Emotions Back Into the Brain (Joseph LeDoux interviewed by John Brockman, The Edge, 1997)
+
+[6,7] Sorting Out Memories and Emotion (Joseph LeDoux interviewed by Brenda Patoine, The Dana Foundation, 2007, originally published here)
+
+For Further Reading
+
+- Reflecting on Work Improves Job Performance (Carmen Nobel, Harvard Business School Working Knowledge, 2014)
+
+- Why You Should Make Time for Self-Reflection (Even If You Hate Doing It) (Jennifer Porter, Harvard Business Review, 2017)
+
+- Does Journaling Boost Your Well-Being? (Pelin Kesebir, Center for Healthy Minds, University of Wisconsin, 2017)
+
+- The 30 second habit with a lifelong impact (Robyn Scott, 2016)
+
+- 30 second habit app (Lori Hill)
+
+Revised July 2018.
+
+Thanks to Mark Oehlert for refererring me to the work of Joseph Ledoux.
+
+Photos by Rory MacLeod and culture.culte.
+
+
+===== END ED BOT ESSAY 3562 =====
+===== BEGIN ED BOT ESSAY 3563 =====
+---
+title: Cool Tools
+url: https://edbatista.com/2008/03/cool-tools.html
+slug: cool-tools
+published: 2008-03-26T00:15:41
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+I've been able to spend a little time recently digging into some social media tools to understand how they work as well as their potential value for someone like me, i.e. an executive coach and change management consultant with an abiding interest in technology.  So here's a quick rundown:
+
+Utterz is an extremely user-friendly service that allows you to capture and publish audio, video, pictures and text.  The site essentially creates a link between your phone, your camera or your webcam and the web at large.  You can call Utterz and use your phone to record an interview, snap a picture while you're at it, and publish the audio and the video not only to your Utterz page but also to just about any other site you designate on the fly--the audio's captured immediately, and you simply text the photo to Utterz.  You can do the same with video, but if you're like me, A) your phone's OK for stills but terrible for video, and B) uploading video via your carrier sucks up too much time and bandwidth.  No problem--just use your laptop's webcam and send the stream directly to Utterz, or upload a previously recorded video file.  (You can also opt to send all your Utterz videos to your YouTube account simultaneously.)  I see Utterz as a way to turn any conversation into an interview you can share with colleagues AND as a personal podcast for friends and family (depending on where I choose to send the files.) Very cool and stone cold simple.  Many thanks to my old--well, let's say former--colleague Holly Ross for the inspiration.
+
+Tumblr is sort of like Utterz but a bit more lightweight, which makes it both easier to use and slightly less useful--or, rather, useful in a different way.  It's another service that allows you to capture and publish links, text, and photos, and although it doesn't have built-in support for audio and video, it's really easy (especially via their Firefox bookmark button) to publish to your Tumblr page and to anyplace you can insert a little code.  I see it as a great way to share and promote links to articles, posts and photos that don't merit a full-on blog post but merit something more prominent than a del.icio.us tag.  Many thanks to Mark McGuinness for the (continued) inspiration--he's THE most tech-savvy executive coach I've met since I stopped working in technology to launch my coaching practice, and I learn something every time I stop by his site.
+
+And now for something completely different: Don't Break the Chain is a fun site supposedly inspired by the motivational wisdom of Jerry Seinfeld, according to Brad Isaac:
+
+[Seinfeld] told me to get a big wall calendar that has a whole year on one page and hang it on a prominent wall. The next step was to get a big red magic marker.
+
+He said for each day that I do my task of writing, I get to put a big red X over that day. "After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain."
+
+"Don't break the chain," he said again for emphasis.
+
+True?  Who cares.  It's a great story that translates brilliantly into a free web service.  Your "Chain" account serves as the online equivalent of Seinfeld's big wall calendar, and you use it to "X" out days on which you accomplish your given task.  (The image above indicates that I've gone running three straight days--no mean feat this past year.)  You can create multiple calendars to track different goals, you can customize the display a bit, and if you want the world to help hold you accountable, you can copy-and-paste a little code to publish your calendar anywhere you'd like. [Update, 2024: The Lifehacker page with the original Brad Isaac quote is no longer available, so that link now goes to the Internet Archive version. Niels Bohrmann also has a terrific piece on the Seinfeld Strategy.]
+
+Twitter is a service that's clearly useful for many people..but not me--at least not right now.  If Utterz makes it easier to blog audio and video, and if Tumblr allows you to turn your tags into a mini-blog, then Twitter is a sort of micro-blog, allowing you to send out even more ephemeral messages (up to 140 characters) via your phone or the web to your personal Twitter network.  The How? isn't an issue here--if you've used IM or sent a text message, you know how to use Twitter, but the Why? (or Why not?, in my case) is more complex.  I signed up for a Twitter account months ago, but it's never seemed useful to me.  This is primarily because my work as an executive coach involves a lot of face-to-face interactions that can't be interrupted, and my time online (or text-accessible) is limited as a result.  But I'm also aware that I need a certain amount of distance between the world and myself in order to think, to focus, to stay grounded.  I understand the appeal of feeling more connected with the people in my network via a steady stream of Twitter updates, and I could see myself using Twitter if others on my team did as well, because although most of our work with clients and students is face-to-face, we often work from separate locations--but until that happens, I'm content to opt out.  (See Common Craft's typically well-done Twitter in Plain English if you'd like to learn more.)  UPDATE: One day later, John Unger posts a Twitter manifesto, describing how he uses it--and he notes that his initial response was "Why the hell would I want to do that?"  It didn't change my mind about Twitter's utility to me at the moment, but it did open my eyes to the creative ways people are adapting the service to meet their needs.  UPDATE 2: OK, I give--with Mark McGuinness weighing in as well, I'll see if Twitter can add value despite my unusual schedule.
+
+Finally, even though the services rendered by Creative Commons are nothing like those described above (and even though I've been a CC user for years), my work on this post led me to realize that my CC license was out-of-date, and this seems like a good opportunity to point anyone unfamiliar with them in a helpful direction.  CC provides an alternative to copyright that allows people like me to share our writing, our photos, and any other type of content with the world under the restrictions of our choice.  For example, everything I post on this site is published under CC's "Attribution-Share Alike 3.0 United States" license, which means that you're free to copy, distribute and/or remix my work as long as you also 1) attribute it to me by linking to this site and 2) further distribute any remixed works under a similar license.  Almost all of the photos I use in my posts (including the one above) have been published under the same CC license as mine, and I'm both grateful for the right to access such highly creative work and hopeful that my contributions are as useful to someone else.
+
+Photo by Paul Schultz.  Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3563 =====
+===== BEGIN ED BOT ESSAY 3564 =====
+---
+title: Neuroscience, Coaching, Leadership and Learning
+url: https://edbatista.com/2008/03/neuroscience.html
+slug: neuroscience
+published: 2008-03-24T00:30:45
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+Inspired by the fascinating research being conducted by Matthew Lieberman, Naomi Eisenberger and other neuroscientists, some great neuroscience blogging by Stephanie West Allen, Jeffrey Schwartz and Roger Dooley, the work of Alvaro Fernandez and Co. at SharpBrains, and the prescient questions that Tom Wolfe has been asking for the past decade, I've become obsessed by the implications of neuroscience for the fields of executive coaching, leadership development and experiential learning.
+
+I'm well aware of the limitations of current brain-imaging technology and of the excesses of "neuro-hype" (well-documented in Haaretz by Ofri Ilani and Yotam Feldman--thanks to Roger Dooley for the reference), and I've expressed concerns myself about the rejection of sound humanistic principles by neuroscience boosters--and yet I remain convinced that neuroscience holds tremendous promise for coaches, organizational development consultants and experiential educators.
+
+I find Wolfe's work extremely compelling. In the articles and talks I link to above (and presumably in the upcoming book on neuroscience to which he occasionally alludes), Wolfe asserts that Homo sapiens have in some ways freed ourselves from genetic determinism by means of language and, more precisely, speech.* For at least the last 11,000 years (dating from the earliest evidence of agriculture), Wolfe claims, speech has allowed us to adapt to and overcome our environment far faster than our genes ever could. From Wolfe's recent interview with Steve Heilig for the S.F. Chronicle:
+
+Once you have speech, you don't
+
+have to wait for natural selection! If you want more strength, you
+
+build a stealth bomber; if you don't like bacteria, you invent
+
+penicillin; if you want to communicate faster, you invent the Internet.
+
+Once speech evolved, all of human life changed.
+
+And perhaps the most important change is that we're no longer merely the expression of our genetic heritage; our speech-sodden brains are far more plastic and malleable than our hard-wired genes would ever allow us to be. Advances in genetics in recent decades ultimately suggested that humans lacked free will--our fate was written in our genes. But Wolfe sees things differently--more from his Chronicle interview:
+
+I'm willing to say OK, we may
+
+have no free will, but speech creates so many variables that it doesn't
+
+really matter. No machines will ever truly fully figure the brain out,
+
+because the brain's performance is constantly altered or else
+
+constrained by this inanimate, rogue artifact you can't control,
+
+namely, speech. Laws you obey, scientific findings you assume to be
+
+correct, creeds you believe in, existing plans you go by, history as
+
+you understand it - these artifacts, once accepted, will affect your
+
+thoughts and behavior and use you more than you use them. Culture is just too big a variable to explain away with genetics...
+
+So what's the connection with my fields of executive coaching, leadership development and experiential education? If genetic determinism would have us believe that "Leaders are born, not made," then Wolfe's theories on the power of speech and the meaning of culture suggest just the opposite. We have "natural," genetically-defined tendencies that support or undermine our ability to lead and to be effective interpersonally, but those natural abilities don't define our actions in those spheres. We can learn, we can adapt and we can improve. Some leaders may be born with a genetic head start, but all truly effective leaders are made, not born.
+
+And just as Lieberman, et al's research on the impact of talking about feelings provides a scientific explanation for a practice that I've used in my own work countless times, Wolfe's theories and the neuroscience on which they're based suggest that many of the practices we employ in coaching, leadership development and experiential education are effective because they're consistent with--and take advantage of--the way our brains function. (And at the same time, neuroscience also has the potential to tell us which practices and techniques are ineffective and need to be updated or scrapped.)
+
+As noted above, I'm mindful of the limits of neuroscience, and I'd hate to see the genetic determinism of recent years replaced by a "neuro-determinism" that simply substituted brain scans for gene maps. But we're clearly at a point where humanistic professionals--executive coaches, OD consultants, experiential educators--need to incorporate neuroscience into their practices.
+
+* Wolfe actually suggests that we rename ourselves Homo loquax--"Talkative man"--a proposal that may have been inspired by Walter Miller's A Canticle for Leibowitz, in which Miller called us Homo loquax nonnumquam sapiens--"Talkative, and sometimes wise, man."
+
+
+===== END ED BOT ESSAY 3564 =====
+===== BEGIN ED BOT ESSAY 3565 =====
+---
+title: How Am I Doing? aka T-Group Feedback
+url: https://edbatista.com/2008/03/feedback.html
+slug: feedback
+published: 2008-03-19T04:00:00
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+Have you ever had a performance review conducted simultaneously by 13 people? It may sound terrifying, but I actually consider it one of the perks of my job. As a Leadership Coach at Stanford's Graduate School of Business, once or twice a year I serve as a co-facilitator for teams of MBA students enrolled in Interpersonal Dynamics. The class, casually known as "Touchy Feely," uses the T-group
+
+methodology developed by Kurt Lewin and the National Training Laboratory
+
+to help participants understand how they function in group settings, how
+
+they're perceived by others, and how they might modify their behavior to be more effective interpersonally.
+
+The role of facilitator in a T-group is an unusual and challenging one--it's highly differentiated at the outset, because the experience is so unusual for the students and they look to the facilitators for guidance. But the success of the group is dependent on the facilitators' ability to lead not through positional power or directive authority, but rather by modeling effective interpersonal behavior. We have to "walk our talk" and do what we ask every group member to do: identify and share learning goals, express ourselves fully, and develop and grow in the process. Of course, this isn't to say that the facilitators have mastered any of these practices--we've just had more experience with them in T-groups--and the most important modeling we do is making mistakes and repairing relationships.
+
+But as this process plays out over the course of the group and the facilitators participate fully as (undifferentiated) members, we retain a special responsibility for maintaining a sense of safety and a supportive learning environment in the group. This involves a delicate balancing-act between the ability to express myself candidly and spontaneously and a keen awareness of how my self-expression is affecting others in the group and the group as a whole.
+
+It's hard but highly rewarding work, and one of the greatest values I derive from it is the sense that my own self-development can help others. In fact, to be an effective facilitator I have to be committed to that process of self-development--I have to have some skin in the game--in order to be of service to the group. So I find myself eager to hear what the group has to say in our "final feedback" exercise, which comprises the class's last T-group session. Each person receives roughly 90 seconds of feedback from the other 13 people in the group, and that feedback is typically framed as (something like) "What I've appreciated about you..." and "What I wish for you..." or "What I hope you'll continue to work on..."
+
+From a facilitator's perspective, it's a 20-minute performance review (conducted simultaneously by 13 people!), and even when it's hard to hear, I inevitably learn a ton. We record the feedback so the recipient can listen to it later--when I was a student 10 years ago we used these; today, thankfully, we use these--and here's what I learned about myself this Quarter...
+
+Things I've Done Well:
+
+- I have a strong communication style: clear, concise, and powerful.
+
+- I readily share my learning goals.
+
+- I model behavior effectively, rather than directing or criticizing others' behavior.
+
+- Even when I draw on past experience, I don't come across as condescending.
+
+- Even when I'm an active group leader, I come across as subtle and helpful, rather than overbearing.
+
+- People experience me as candid, genuine and honest.
+
+- I inspire confidence and trust.
+
+- I stand my ground in disagreements, which others respect.
+
+- I maintain a balance between strength and vulnerability.
+
+- I identify and express a wide range of feelings, including difficult feedback.
+
+- I'm seen as thoughtful. (But this has a downside--see below.)
+
+- I share my intentions and feelings, which helps others understand my position and increases my effectiveness as a communicator.
+
+- I'm seen as willing to take risks, which furthers learning and helps build trust.
+
+- I'm seen as trying to improve myself and working actively on issues like everyone else.
+
+- I can express caring and encouragement. (But not always--see below.)
+
+- I can identify and express a complex mix of feelings, even when they conflict.
+
+- I model supportive confrontation.
+
+- I help create a sense of safety in the group.
+
+- By expressing compassion, empathy, vulnerability, I make it safe and comfortable for others to do the same.
+
+- My eye contact and facial expressions help to convey both my feelings and a sense of genuineness and authenticity.
+
+- People understand that I have good intentions, even when I'm pushing them.
+
+- I'm seen as perceptive; I pick up on subtle feelings and ask people to explore them further.
+
+- I'm able to identify and share a wide range feelings at all times--not only when I have strong feelings--which helps people understand me better.
+
+- I'm seen as being genuinely concerned for others' feelings and their learning.
+
+- I don't hesitate to check in with someone if I'm concerned that something might be wrong.
+
+- I'm willing to push and challenge people.
+
+- I'm seen as being good at understanding and expressing my emotions, and modeling this behavior helps others do the same.
+
+- The strong language and sharp tone that some people experience as harsh (noted below) was effective and had a helpful impact with others.
+
+- I'm willing to push and challenge people, but I also provide safety and support for those who need it.
+
+I have to say that it feels great to read that, and given that many of these comments speak directly to my current learning goals, I feel that I made substantial progress this Quarter in my efforts to be more effective interpersonally. But there's still plenty of room for improvement...
+
+Things I Need to Keep Working On:
+
+- I can sound harsh at times, which undermines my effectiveness as a communicator.
+
+- I could give more positive feedback.
+
+- I expressed more emotion when I was pushed by others, and I might not have done that on my own.
+
+- My voice gets soft when I'm expressing strong emotions (both positive and negative), and this can create confusion or diminish my impact.
+
+- I continued to be a more active facilitator after a point when the group was capable of facilitating itself.
+
+- I could be more lighthearted; I tend to be very serious at first, which can make it harder to build relationships.
+
+- I could have shown more emotion and taken more risks sooner in the group.
+
+- I can be perceived as figuring people out by labeling them or "putting them in boxes," and even when those labels are positive this can have a binding effect on the other person.
+
+- Because I was influential in the group, my actions created unspoken norms; this helped to establish a sense of safety, but when certain norms became binding, my reluctance to engage in a discussion about them hurt the group. ("People do model themselves on your behavior, even when it's not in their best interests.")
+
+- I can be seen as too influential, which may undermine my ability to establish productive relationships.
+
+- I can express many sides of an issue and many feelings, but this can also create confusion; at times it would be more effective to express only my most important or leading feeling.
+
+- I can appear physically intimidating, tough, or cold (because of my look, gaze, dress, or posture) and this hides my warm and tender side.
+
+- My comments can be too thoughtful; I can be too particular with my words and seem too controlled.
+
+- I was initially seen as not spontaneous, which made it harder to trust me; becoming more spontaneous over time was essential in establishing trust.
+
+- My comments initially seemed formulaic, although this changed after I showed more emotion, which also helped to establish trust.
+
+- Stepping out of my authority role sooner would allow me to establish deeper connections with people.
+
+I'm particularly struck by the theme that runs through the last few comments--I can definitely stand to ease up, let go, and just be myself sooner in groups, which would involve being both more spontaneous and more emotional.
+
+Another key theme is the idea that being too influential has unintended negative consequences, from keeping others at a distance to locking a group into unproductive norms. My reluctance to discuss norms stems from a belief that cognitive meta-discussions about "How we should act" are ultimately less effective than simply acting in ways that are consistent with your desired aims, but I do recognize that making some room for different ways of processing these changes would serve me better.
+
+I'm left feeling proud of what I've accomplished, chastened by how much I have yet to do, eager to keep learning and growing, and (most of all) grateful for the efforts of all my colleagues--students, co-facilitators and faculty.
+
+Photo by Mobilski. Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3565 =====

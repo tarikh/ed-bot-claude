@@ -1,0 +1,237 @@
+===== BEGIN ED BOT ESSAY 3483 =====
+---
+title: Double-Loop Learning and Executive Coaching
+url: https://edbatista.com/2006/12/doubleloop_lear.html
+slug: doubleloop_lear
+published: 2006-12-06T19:14:00
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+My last post before taking a few weeks off from blogging discussed Chris Argyris and his concept of double-loop learning, which I've continued to think about in the context of executive coaching. (Hey, I didn't spend November just taking naps and watching football.)
+
+That post prompted an exchange in the comments that helped to clarify my understanding of double-loop learning. Charles Green wrote:
+
+What's the difference between "double-loop learning" and "learning from your mistakes?" Apparently it's the depth of learning--do you examine fundamental
+
+assumptions, or are you just incrementally making improvements? This distinction sounds great, but in practical life it sometimes feels less clear.
+
+And here's a portion of my response to Charles:
+
+I believe you're looking in vain for a set of heuristics that will
+
+allow you to consistently distinguish between single-loop and
+
+double-loop learning. The distinction between the two processes is
+
+relative depending on who's doing the analysis and what preconceived
+
+notions they bring to the table. The key to double-loop learning is
+
+asking whether there are any unchallenged assumptions built into your
+
+current goals and strategies, and whether it's possible to pull back
+
+and include those assumptions in the frame of your analysis.
+
+In most circumstances, the learning we undertake is aimed at
+
+improving our performance relative to a set of goals and other factors
+
+that are taken for granted. Feedback from our performance (or "learning
+
+from our mistakes") typically cycles immediately back into our analysis
+
+of the strategies, tactics or techniques that led to our performance.
+
+This is important work, but it's inherently limited by those initial
+
+factors that are taken for granted at the outset and that remain
+
+unchallenged by an assessment of the performance results.
+
+In contrast, if we can pull back and expand the frame of our
+
+analysis, we begin to call into question some of the factors that we
+
+usually take for granted. Our performance results aren't simply used to
+
+assess the strategies that have been derived from those factors--they
+
+question the factors themselves.
+
+I've created some slides to help illustrate the distinction between single-loop and double-loop learning. (Click on each graphic or the links below to open up a window showing a larger version. You can also download a 4-slide PowerPoint file, 52 KB.)
+
+The first graphic below (here's a larger version) represents most of the learning that we experience.
+
+Results are used to assess our goals, values and strategies, which are
+
+then altered in order to obtain more desirable results--a process
+
+which certainly includes "learning from our mistakes."
+
+But factors other than results are used to determine our goals, values and strategies in the first place. These underlying assumptions are typically implicit and unspoken, and they go unchallenged and unquestioned. Because we may not even be aware of them, they're not included in the assessments we conduct, and they're not part of our learning process.
+
+What if we made a dedicated effort to be aware of these underlying assumptions and included them in our learning process? This would involve expanding our analytical frame to explicitly identify and subsequently challenge these assumptions. Our results would feed back twice, in two "learning loops." We'd continue the ordinary process of altering our goals, values and strategies based on our results, but at a deeper level, we'd ask questions about the truth and validity of our assumptions, and would seek to understand the ways in which they determine our goals, values and strategies from the start. Here's an illustration of this "double-loop" process (and here's a larger version of the graphic below):
+
+To make this distinction clearer, I've applied the concept to an issue that often comes up in executive coaching engagements and one that I've dealt with on a personal basis--communicating more effectively. In my own case, I received some feedback that helped me make a strategic decision to express my emotions more fully when speaking in order to have a greater impact. Here's an illustration of this strategy (and here's a larger version of the graphic):
+
+But as the graphic above makes clear, there were several assumptions implicit in my choice of strategies, such as "My audience will understand and share the meaning of my emotions," "My internal emotions and their external expressions are congruent," and "My language and my emotional expressions are perceived as consistent."
+
+These assumptions obviously had an important effect on the potential success of my strategy, which relied upon their accuracy. But because these assumptions were implicit and unchallenged, it was impossible for me to understand their impact on my results. Unaware of whether my assumptions were true or false, I couldn't know whether I succeeded (or failed) despite them (or because of them).
+
+This was a perfect opportunity for some double-loop learning, illustrated in the graphic below (here's a larger version):
+
+I expanded my frame of reference to look at the underlying assumptions that supported my strategy and began asking explicit questions that enabled me to develop a much more nuanced and sophisticated approach. This also gave me a clearer understanding of the causes of my success or failure as a communicator in a given situation.
+
+But there's one last wrinkle--having identified and challenged the underlying assumptions that supported my original strategy, those assumptions are now consciously integrated into that strategy. And as I continue to address the issues raised through the process of challenging my assumptions, what was initially double-loop learning becomes single-loop learning again.
+
+When we begin a double-loop learning process, everything comes to a full stop while we ask such challenging questions as "Why do we do this task this way?" and "Why do we do this task at all?" and, as discussed at length here, "What assumptions are embedded in our methods and our goals?"
+
+But the answers to (some of) those questions become well-understood, and the process of asking them (sometimes) becomes second nature. And at the very least, we simply don't have the time or the energy to invest in a continual process of challenging underlying assumptions. For all these reasons, we eventually find ourselves back in the routine,
+
+everyday process of single-loop learning, which is almost
+
+seamlessly integrated with our other activities.
+
+When the process works, the obvious benefit is that any lasting fruits of our double-loop learning allow us to become more efficient while obtaining better results. But even (and perhaps especially) when the process works, it's important to remember that there will always be more, and then still more, assumptions to be addressed in the future. There's no finish line; there's no point at which we can say, "I've successfully challenged and understood all my underlying assumptions, and integrated their implications into my goals, values and strategies. I rule!"
+
+The key is simply to remember that even though we can't live our lives in "double-loop mode"--how would you get through the day?--we all need to make time for it on a regular basis.
+
+
+===== END ED BOT ESSAY 3483 =====
+===== BEGIN ED BOT ESSAY 3484 =====
+---
+title: Now, Where Was I?
+url: https://edbatista.com/2006/12/now_where_was_i.html
+slug: now_where_was_i
+published: 2006-12-06T10:33:13
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+You may have noticed that I took a little time off, 44 days to be exact. It wasn't planned, but it's been a nice little break. I started dragging my feet on the follow-up to my previous Double-Loop Learning piece, then caught a lingering cold, then had to deal with a more serious family health issue (which has been resolved successfully), and in the middle of all this I realized that I was enjoying not blogging and decided to keep on not blogging for a while. Just following my own (and others') good advice (and, of course, the beauty of the subscription and email update services to the left is that you don't need to actually visit this site to keep up with new posts.)
+
+But I'm rested and ready, if not exactly tanned, and it's good to be back.
+
+Photo by skippy13. Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3484 =====
+===== BEGIN ED BOT ESSAY 3485 =====
+---
+title: Chris Argyris, Double-Loop Learning and Meta-Work
+url: https://edbatista.com/2006/10/chris_argyris_d.html
+slug: chris_argyris_d
+published: 2006-10-23T22:25:29
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+Graphic by Mark Smith, Informal Education
+
+I'll get to Chris Argyris and "double-loop learning" in a moment, but first, what do I mean by "meta-work"? Putting it simply, meta-work is the work we have to do in order to work more effectively. Meta-work occurs anytime we step back from our regular activities to ask larger questions, like "Why do we do this task this way?" or even "Why do we do this task at all?" Meta-work is ultimately about challenging assumptions and not taking things for granted.
+
+I started thinking about meta-work per se after reading Merlin Mann on various ways to improve personal productivity, but I've always been fascinated by the systems and tools we use to do our work--sometimes because I'm legitimately looking to solve a problem, and sometimes because research is a respectable form of procrastination.
+
+Merlin's Inbox Zero series encouraged me to do some serious meta-work and rethink how I manage my email. But my experience as a teaching assistant for High Performance Leadership and my ongoing interest in improving interpersonal skills has encouraged me to look at meta-work in a much larger context--and that thinking led me to Chris Argyris, professor emeritus at Harvard Business School and a major influence on such thinkers as Peter Senge.
+
+One of Argyris's key concepts is "double-loop learning," described very effectively by Mark Smith at Informal Education:
+
+Single-loop learning seems to be
+
+present when goals, values, frameworks and, to a significant extent,
+
+strategies are taken for granted. The emphasis is on 'techniques and
+
+making techniques more efficient' (Usher and Bryant: 1989: 87). Any
+
+reflection is directed toward making the strategy more effective.
+
+Double-loop learning, in contrast, 'involves questioning the role of the
+
+framing and learning systems which underlie actual goals and strategies' (op.
+
+cit.)... The former
+
+involves following routines and some sort of preset plan – and is both
+
+less risky for the individual and the organization, and affords greater
+
+control. The latter is more creative and reflexive, and involves
+
+consideration [of] notions of the good. Reflection here is more fundamental: the
+
+basic assumptions behind ideas or policies are confronted... hypotheses are
+
+publicly tested...(Argyris
+
+1982: 103-4).
+
+Double-loop learning, then, involves a substantial amount of meta-work and requires raising a number of potentially challenging questions: Not only "Why do we do this task this way?" and "Why do we do this task at all?" but also "What assumptions are embedded in our methods and our goals?"
+
+As Smith notes, asking these questions can be risky--the phrase "opening a can of worms" comes to mind--but the potential reward is the possibility of being much more effective (and, I'd argue, much more fulfilled) because such questions not only create opportunities to do things in more innovative ways, but also because they challenge us to think about finding entirely new things to do.
+
+It's easy to come up with all sorts of reasons not to do our meta-work, starting with: We're too busy! But that begs the question: Busy doing what? If all your learning is single-loop, at best you're making marginal improvements in existing routines. More on double-loop learning and personal development tomorrow.
+
+UPDATE: More on Double-Loop Learning and Executive Coaching
+
+
+===== END ED BOT ESSAY 3485 =====
+===== BEGIN ED BOT ESSAY 3486 =====
+---
+title: McClelland and Burnham on Power and Management
+url: https://edbatista.com/2006/10/mcclelland_and_.html
+slug: mcclelland_and_
+published: 2006-10-22T23:43:14
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+What qualities characterize high-performing managers? In "Power Is the Great Motivator," psychologist David McClelland and co-author David Burnham reach three primary conclusions that run counter to some conventional wisdom on effective managers. [1] Their article is rooted in McClelland's "motivational needs theory," which suggests that people are driven by needs for power, for achievement, and for affiliation, i.e. a desire to establish relationships with others. [2]
+
+1. High Achievers Aren't Necessarily Good Managers
+People with a high "need for achievement, the desire to do something better or more efficiently than it has been done before," do not necessarily make good managers, because "they focus on personal improvement and doing things better by themselves." They also "want concrete short-term feedback on their performance." But effective managers achieve superior results not merely by performing well themselves but by motivating others to perform well, and they often receive little if any direct feedback.
+
+I'm struck by the fact that so many aspects of our educational system identify and promote high achievers, essentially creating a managerial class that, by virtue of its emphasis on individual accomplishments and its association between success and direct feedback, may be poorly prepared to actually manage. McClelland notes that SAT results...
+
+...relate little to how competently those people manage in the workplace later in life. People who scored exceptionally well on SATs often later functioned poorly as managers, and people with only average scores often made the best managers.
+
+In the same passage, McClellan also noted that a high need for achievement is important to effective management in a small organization or sub-unit, but I still find his initial conclusion compelling--managers focused on their own achievement may view colleagues and subordinates as obstacles to be overcome rather than as forces to be marshaled.
+
+2. Good Managers Have a High Need for Power and a Low Need to be Liked
+McClelland and Burnham also concluded that effective managers had a higher than usual need for power, coupled with a relatively low need to be liked by others:
+
+Most of the managers...were high in power motivation compared with the average person. This finding confirms that power motivation is important for management. (Remember that, as we use the term, power motivation refers not to dictatorial behavior but to a desire to have impact, to be strong and influential.) The better managers, judged by the morale of those working for them, tended to score even higher in power motivation. But the most important determining factor of high morale turned out to be not how their power motivation compared with their need to achieve but whether it was higher than their need to be liked.
+
+This resonates with my experience. The very best managers I know have exceptional people skills and use them to great effect, but those skills are employed in service to the manager's larger goal of influencing and motivating others, not simply to generate warm feelings.
+
+3. A High Need for Power Doesn't Necessarily Translate into Displays of Power
+Uninhibited self-aggrandizement or abuses of authority shouldn't be mistaken for a good manager's strong need for power.  McClellan and Burnham determined that the most effective managers were mature and disciplined, which minimized their displays of power and reinforced their focus on achieving organizational results:
+
+Mature people can be most simply described as less egotistic. Somehow their positive self-image is not at stake in their jobs. They are less defensive, more willing to seek advice from experts, and have a longer-range view. They accumulate fewer personal possessions and seem older and wiser...
+
+The best managers possess two characteristics that act as regulators--a greater emotional maturity, where there is little egotism, and a democratic coaching managerial style. If an institutional power motivation is checked by maturity, it does not lead to an aggressive, egotistic expansiveness. That means managers can control their subordinates and influence others around them without having to resort to coercion or to an authoritarian management style.
+
+McClelland and Burnham are aware that they're raising some controversial issues, but they think their critics are making a key mistake:
+
+Our findings seem to fly in the face of a long and influential tradition of organizational psychology, which insists that authoritarian management is what is wrong with most businesses...  But much of the apparent conflict between our findings and those of other behavioral scientists in this area stems from the fact that we are talking about motives, and behaviorists are talking about actions. What we are saying is that managers must be interested in playing the influence game in a controlled way. That does not necessarily mean that they are or should be authoritarian in action.  On the contrary, it appears that power-motivated managers make their subordinates feel strong rather than weak.
+
+It's worth noting that McClelland and Burnham insist on using the word "power," rather than softening it to something like "influence" or "impact." We're often more comfortable with these latter terms, while acknowledging our need for "power" can create a sense of discomfort. And that's precisely the point--until we get comfortable with it, we'll continue to undermine our own effectiveness as managers and leaders.
+
+ 
+
+Footnotes
+
+[1] Power Is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, originally written 1976, revised 1995, republished 2003. Passages quoted above are from various versions.)
+
+[2] The Achieving Society (David McClelland, 1961/1967)
+
+- A summary of McClelland's Achievement Motivation Theory
+
+ 
+
+Photo by brokenchopstick.
+
+
+===== END ED BOT ESSAY 3486 =====

@@ -1,0 +1,110 @@
+===== BEGIN ED BOT ESSAY 3288 =====
+---
+title: AttentionTrust
+url: https://edbatista.com/2005/08/attentiontrust.html
+slug: attentiontrust
+published: 2005-08-22T22:12:41
+updated: 2005-08-22T22:12:41
+source_body: wordpress-html
+---
+
+I've been talking with the folks at AttentionTrust for a few weeks, and I just agreed to help turn this concept into a reality by serving as Executive Director.  I'll still be working with the great people at Beaconfire, so my time management skills are going to be severely tested
+
+So just what is AttentionTrust?  Let's start with some language from the AttentionTrust site that I helped to draft:
+
+Any time you pay attention to something (and any time you ignore something), data is created. That data has value, but only if it's gathered, measured, and analyzed. Right now, you generally lack the ability to capture that data for yourself, so you can't benefit from it. But what if you could? And what if you could share your data with other people, who were also capturing their own data, or if you could exchange your data for something of value with companies and other institutions that were interested in learning more about the things that interested you? You'd be in control--you would decide who has access to what data, as well as what you'd accept in exchange for access to your data.
+
+The mission of AttentionTrust is helping to give people control over their "attention data" to enable them to participate in the emerging "attention economy" on their own terms.  That mission starts with education--making people aware that attention data exists--and empowerment--encouraging people to assert their rights to own, transfer and exchange their attention data as they see fit.
+
+The next step is helping people to actually capture and manage their data in a practical, user-friendly way, and we hope to have some news on that front shortly.
+
+(It's also important to note what AttentionTrust is NOT.  We will not be a repository for users' attention data, and we will not be capturing or analyzing users' data.)
+
+attentiontrust
+
+
+===== END ED BOT ESSAY 3288 =====
+===== BEGIN ED BOT ESSAY 3289 =====
+---
+title: Staying On Message...Or Not
+url: https://edbatista.com/2005/08/staying_on_mess.html
+slug: staying_on_mess
+published: 2005-08-11T08:52:02
+updated: 2005-08-11T08:52:02
+source_body: wordpress-html
+---
+
+Mark Frederickson commented on my recent post about Michael Stein's interview with Michael Gilbert:
+
+I think I have to weigh in on the Gilbert side of this debate, and for one simple reason: message. Email allows for better control of what you are saying and to whom. I believe the thought of allowing anyone the opportunity to add, change or diffuse an organization's message is scary (to me at least).
+
+I come from an electoral background, where message manipulation is the primary focus of the campaign. I've seen campaigns burned by allowing anyone to use their websites as a soap box. In a similar vein, remember MoveOn.org's "Bush = Hitler" ad fiasco?
+
+(I apologize in advance for linking to a Washington Times article - I would have found something better but I'm in a hurry ;-).
+
+With email, an organization does not need to worry any (even well meaning) person hijacking the message.
+
+My $0.02
+
+Thanks for the comment, Mark.  As I noted in my post, I agree with Gilbert's underlying philosophy, but I also think that the combined proliferation of (on the one hand) self-publishing tools and (on the other) spam are working to move dialogue out of the Inbox and onto more public online spaces.
+
+And for related reasons, I disagree with the idea that nonprofits should be focused on delivering a honed message (and on preventing anyone from altering that message.)  I'm sure you didn't intend it to sound this way, but that idea strikes me as patronizing, suggesting that "we" (i.e. the organization) have the right answer, and our job is to deliver a compelling message that will convince "them" (i.e. activists, donors, etc.) that we're right and motivate them to act accordingly.
+
+Instead, I think that nonprofits should be focused on engaging their constituents in an active dialogue that's about listening and learning as much as anything else.  The idea that the people at the center--the organizational professionals--have all the answers just isn't true.  No matter what issues you're involved with, there are vast networks of people out there with a great deal of expertise and plenty of creative ideas. 
+
+These people are your audience, and they want to get involved.  But they don't want to be told what to think.  They want to tell you what they think.  They're willing to listen, to be educated, and to be recruited to your cause as well, but treating them like passive recipients of your message is a sure way to turn them off and drive them away.
+
+In recent years there's been a steady progression toward greater interactivity and responsiveness on the part of all institutions (except where they exercise monopoly control).  Nonprofits, schools, political campaigns, and businesses in every industry are increasingly engaged in conversations with their markets (see Cluetrain).
+
+Email is great for broadcasting messages, broadcasting will continue to be important for most institutions, and email isn't going away any anytime soon.  But blogs and other public, visible, searchable and archivable web tools provide a much better platform for ongoing dialogues between an institution and its constituents.  Continuing to prioritize email over these other tools is a mistake and a missed opportunity for any institution.
+
+cluetrain
+
+
+===== END ED BOT ESSAY 3289 =====
+===== BEGIN ED BOT ESSAY 3290 =====
+---
+title: The Personal is Professional
+url: https://edbatista.com/2005/08/the_personal_is.html
+slug: the_personal_is
+published: 2005-08-10T09:01:12
+updated: 2005-08-10T09:01:12
+source_body: wordpress-html
+---
+
+When a blogger you read for professional purposes shares personal information on his or her site, do you find that appealing or does it make you uncomfortable?
+
+I think there are some boundaries we should respect (which is why I maintain a separate site for posts to friends and family), but I also think its important to allow our personal and professional selves to overlap (which is why I link to that site from this one.)
+
+Amy Gahran is running a 10-question survey on this very topic, and it takes just a few minutes. No matter how you feel about this, I encourage you to share your thoughts with her--she'll be publishing the results soon.
+
+Hat tip to Tris Hussey at Business Blog Consulting.
+
+
+===== END ED BOT ESSAY 3290 =====
+===== BEGIN ED BOT ESSAY 3291 =====
+---
+title: Michael Stein and Michael Gilbert
+url: https://edbatista.com/2005/08/michael_stein_a.html
+slug: michael_stein_a
+published: 2005-08-09T22:31:44
+updated: 2005-08-09T22:31:44
+source_body: wordpress-html
+---
+
+Michael Stein posted an interview with Michael Gilbert at GetActive's Word of Net yesterday, and the results were as interesting as you'd expect, given their extensive involvement in the nonprofit technology field.  Gilbert made a particularly good point on the question of whether ample resources (i.e. staff time, money, and management support) are preconditions for successful nonprofit technology initiatives:
+
+I am not convinced of the generalization that more resources devoted to Internet strategies are the key to success. Rather, I think success is the key to more resources. In other words, I think that careful change management, with an eye toward the right first steps, can be far more powerful than asking people to pour resources in and wait for results down the road.
+
+So it's the culture, stupid?  But although I agree with Gilbert's emphasis on the importance of organizational culture and change management, I'm not convinced by his continued prioritization of email over websites:
+
+The Internet has not changed in any way that fundamentally undermines those rules. [i.e. (1) Resources spent on email strategies are more valuable than the same resources spent on web strategies, (2) A website built around an email strategy is more valuable than a website that is built around itself, and (3) Email-oriented thinking will yield better strategic thinking overall.] You still get a higher return on investment on money invested in email. You still get better websites when you design them around your email strategies. And the better you are at thinking about email, the better you become at thinking about relationship management strategies in general.
+
+At the root of Gilbert's philosophy is an absolutely correct emphasis on relationship management and attention to ROI.  Listen to your constituents and don't waste money on useless bells and whistles--and that advice will hold true forever.  And email isn't going away anytime soon--nonprofits must continue to think seriously about their email strategies.
+
+But the Inbox isn't the only place to meet your constituents anymore--try their aggregators--and websites aren't static, glossy brochures--they're lively public spaces, with comments, guest bloggers, and wikis creating opportunities for direct participation.  And although these tools are still in their infancy, usage is exploding and they're dirt-cheap and easy to implement.  The Internet may not have changed, but the tools we use to access it certainly have, and nonprofits should be taking full advantage of them.
+
+nptech
+
+
+===== END ED BOT ESSAY 3291 =====

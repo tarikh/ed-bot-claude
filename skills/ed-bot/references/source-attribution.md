@@ -58,21 +58,21 @@ Internal numeric IDs and relative paths locate complete source text; never surfa
 
 | Exact title | Original publication | Full source |
 | --- | --- | --- |
-| Mind the Gap (On Leading Senior Executives) | 2022-04-22 | [Read source](posts/4144.txt) |
-| Mourning Ends, Grief Need Not | 2019-05-29 | [Read source](posts/4015.txt) |
-| Leadership and the Double Bind | 2017-04-10 | [Read source](posts/3929.txt) |
-| Give It To Me Straight (Effective Feedback) | 2013-02-19 | [Read source](posts/3788.txt) |
-| You Don't Have to Do All the Thinking Yourself | 2025-04-13 | [Read source](posts/4232.txt) |
-| The Antidote to "Manager Mode" is Actual Management | 2024-09-02 | [Read source](posts/4240.txt) |
-| Leading with Inquiry (How to Have a Better Dialogue) | 2026-02-12 | [Read source](posts/3058.txt) |
-| Four Responses to Feedback | 2024-03-25 | [Read source](posts/4224.txt) |
-| Defensiveness Is in the Eye of the Beholder | 2023-09-17 | [Read source](posts/4201.txt) |
-| The Problem with Hot-Swapping (On Exec Transitions) | 2024-06-14 | [Read source](posts/4214.txt) |
-| The Evolution of the Executive Team | 2024-02-15 | [Read source](posts/4190.txt) |
-| Working with the "Difficult" Co-Founder | 2026-06-05 | [Read source](posts/18113.txt) |
-| Accountability and Empathy (Are Not Mutually Exclusive) | 2019-04-14 | [Read source](posts/3993.txt) |
-| How to Deliver Critical Feedback | 2020-07-19 | [Read source](posts/4059.txt) |
-| How to Have Better One-on-Ones | 2023-09-25 | [Read source](posts/4200.txt) |
-| The Final Third (On Mortality, Values and Spending Time) | 2020-02-08 | [Read source](posts/4039.txt) |
-| Gualala (On Mortality and Gratitude) | 2017-01-01 | [Read source](posts/3912.txt) |
-| Better Working Relationships | 2018-04-23 | [Read source](posts/3984.txt) |
+| Mind the Gap (On Leading Senior Executives) | 2022-04-22 | [Read source](posts/bundle-258.txt) |
+| Mourning Ends, Grief Need Not | 2019-05-29 | [Read source](posts/bundle-226.txt) |
+| Leadership and the Double Bind | 2017-04-10 | [Read source](posts/bundle-204.txt) |
+| Give It To Me Straight (Effective Feedback) | 2013-02-19 | [Read source](posts/bundle-169.txt) |
+| You Don't Have to Do All the Thinking Yourself | 2025-04-13 | [Read source](posts/bundle-280.txt) |
+| The Antidote to "Manager Mode" is Actual Management | 2024-09-02 | [Read source](posts/bundle-282.txt) |
+| Leading with Inquiry (How to Have a Better Dialogue) | 2026-02-12 | [Read source](posts/bundle-003.txt) |
+| Four Responses to Feedback | 2024-03-25 | [Read source](posts/bundle-278.txt) |
+| Defensiveness Is in the Eye of the Beholder | 2023-09-17 | [Read source](posts/bundle-272.txt) |
+| The Problem with Hot-Swapping (On Exec Transitions) | 2024-06-14 | [Read source](posts/bundle-275.txt) |
+| The Evolution of the Executive Team | 2024-02-15 | [Read source](posts/bundle-269.txt) |
+| Working with the "Difficult" Co-Founder | 2026-06-05 | [Read source](posts/bundle-284.txt) |
+| Accountability and Empathy (Are Not Mutually Exclusive) | 2019-04-14 | [Read source](posts/bundle-220.txt) |
+| How to Deliver Critical Feedback | 2020-07-19 | [Read source](posts/bundle-237.txt) |
+| How to Have Better One-on-Ones | 2023-09-25 | [Read source](posts/bundle-272.txt) |
+| The Final Third (On Mortality, Values and Spending Time) | 2020-02-08 | [Read source](posts/bundle-232.txt) |
+| Gualala (On Mortality and Gratitude) | 2017-01-01 | [Read source](posts/bundle-200.txt) |
+| Better Working Relationships | 2018-04-23 | [Read source](posts/bundle-218.txt) |

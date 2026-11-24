@@ -1,0 +1,462 @@
+===== BEGIN ED BOT ESSAY 3990 =====
+---
+title: Conform to the Culture Just Enough
+url: https://edbatista.com/2019/04/conform-to-the-culture-just-enough.html
+slug: conform-to-the-culture-just-enough
+published: 2019-04-19T22:17:03
+updated: 2025-10-06T20:24:51
+source_body: wordpress-html
+---
+
+Leaders must conform enough if they are to make the connections necessary to deliver change. Leaders who succeed in changing organizations challenge the norms--but rarely all of them, all at once... To change an organization, the leader must first gain at least minimal acceptance as a member.
+
+~Rob Goffee and Gareth Jones [1]
+
+You're in a new leadership role, you see some room for improvement, and you want to make some changes. If you're one of my coaching clients, the title of this post will be a recurring theme in our conversations. Unless it's a turnaround in which the intent is to radically transform a dysfunctional culture, your success will hinge on your ability to conform just enough. If you conform too much, you'll miss opportunities to influence positive change and make a difference. And if you don't conform enough, your efforts will be ignored or rebuffed, and eventually you'll burn out or be rejected.
+
+The first challenge is clarifying just what we mean by "culture"--it's an elastic word that stretches to accommodate a wide range of concepts, especially when we're talking about "culture fit." Michael Watkins of the International Institute of Management Development offers a useful set of distinct but overlapping definitions:
+
+Culture is consistent, observable patterns of behavior in organizations...
+
+Culture is a process of "sense-making" in organizations [which] moves the definition of culture beyond patterns of behavior into the realm of jointly-held beliefs and interpretations about "what is..."
+
+Culture is a carrier of meaning. Cultures provide not only a shared view of "what is" but also of "why is." In this view, culture is about "the story" in which people in the organization are embedded, and the values and rituals that reinforce that narrative...
+
+Culture is a social control system. Here the focus is the role of culture in promoting and reinforcing "right" thinking and behaving, and sanctioning "wrong" thinking and behaving. Key in this definition of culture is the idea of behavioral "norms" that must be upheld, and associated social sanctions that are imposed on those who don’t "stay within the lines..."
+
+Culture is a form of protection that has evolved from situational pressures. It prevents "wrong thinking" and "wrong people" from entering the organization in the first place. [2]
+
+Note the many layers and elements here: behavior, beliefs, meaning, narrative, norms. One of your most important tasks as a new leader is to explore and understand all of these aspects of your new culture. Without this awareness it's impossible to know when you're conforming just enough. So what does this look like in practice? Here are four tactics:
+
+1. Pay Attention
+
+Anthropologist and author Grant McCracken offers some invaluable advice: "Notice everything and pay attention to things that puzzle. Pay attention to things that demand your attention and then refuse your understanding. Pay attention to the failure of attention." [3]
+
+As a new member many aspects of the surrounding culture will seem curious or unusual or even irrational. This is invaluable data, and it won't be available to you indefinitely. As the culture grows familiar, it will become less visible to you--it will simply be "the way we are." With a fresh set of eyes you'll be able to see more clearly the behaviors, beliefs, meanings, narratives and norms that make up your new cultural landscape--but only if you're actively looking for them.
+
+This sounds easy but can be difficult to implement: New environments compel us to make many more decisions than usual; you're probably feeling pressure to get up to speed quickly; and the company may not have a well-crafted onboarding plan (or any plan at all.) Time spent observing the culture can seem like a luxury when there's a lot to do and you're feeling depleted. So give some thought to how you might "onboard yourself," and in that process recognize the long-term importance of investing time in these efforts. [4]
+
+2. Ask Around
+
+Much of this data will be tacit, undocumented, and assumed, so it won't be sufficient to merely observe--you'll also have to inquire. You started doing this weeks or even months ago during the hiring process, but there are limits on how much can be learned about an organization's culture by a prospective candidate: Interviewers are highly motivated to portray the culture in the best possible light, not only to land the prospect, but also to re-affirm their continued commitment to the organization. Candidates are reluctant to ask certain questions or point out potential concerns, for fear that they'll be deemed "not a fit." And even in more candid conversations employees may be unable to identify aspects of their culture with much specificity because it's become less visible to them--it's the water in which they swim.
+
+Presumably you learned enough about the culture to convince you to accept the opportunity, but you potentially have access to much more information now that you're in the role--and yet you'll surface this additional data only by engaging your new colleagues in dialogue. Your onboarding plan (whether it's official or one you've constructed for yourself) should include a series of conversations with people from across the organization, and every one of those exchanges is an opportunity to learn something about the culture.
+
+There's a parallel with the field of ethnography, in which researchers immerse themselves in a culture in order to empathetically understand what it's like to be a member. Drawing upon this process, McCracken reminds us to distinguish among the various "layers of knowledge" that can be unearthed through skillful conversation:
+
+What the other person knows and can offer easily.
+
+What the other person knows and can report with prompting.
+
+What the other person does not know they know but can reveal with prompting.
+
+What the other person does not know, cannot report, and cannot reveal, but the questioner can gather from one conversation.
+
+What the other person does not know, cannot report, and cannot reveal, but the questioner can gather from multiple conversations. [5]
+
+3. Lead with Warmth
+
+There's an important balance to strike in the process of conducting these conversations: It can be helpful to be perceived as "a new person eager to learn," because many colleagues will be equally eager to educate you (in part to win you over to their way of thinking.) And it will be problematic if you're perceived as "a nosy outsider"--that sows distrust and raises questions about your motives.
+
+The key is to seek to build trust from the very first interaction with every one of your new colleagues. But many new leaders often try to establish themselves by demonstrating their mastery and competence--they lead with strength. Harvard Business School professor Amy Cuddy and her co-authors Matthew Kohut and John Neffinger have studied the value of an alternative approach--leading with warmth:
+
+Leaders who project strength before establishing trust run the risk of eliciting fear, and along with it a host of dysfunctional behaviors. Fear can undermine cognitive potential, creativity, and problem solving, and cause employees to get stuck and even disengage...
+
+A growing body of research suggests that the way to influence--and to lead--is to begin with warmth. Warmth is the conduit of influence: It facilitates trust and the communication and absorption of ideas. Even a few small nonverbal signals--a nod, a smile, an open gesture--can show people that you’re pleased to be in their company and attentive to their concerns. Prioritizing warmth helps you connect immediately with those around you, demonstrating that you hear them, understand them, and can be trusted by them. [6]
+
+Being perceived as a warm and empathetic person is not an end in itself in a leadership role, of course. You will also surely be called upon to hold people accountable--but those are not mutually exclusive characteristics in a leader. [7]
+
+4. Learn to Translate
+
+The opportunities for improvement that you see in your new culture are informed by what you've learned from your previous cultures, and your ability to offer a broader perspective likely played a part in landing this leadership role. Perhaps your success in your last organization is what led to this new opportunity, or perhaps you've been exploring leadership skills and organizational culture in a training program like my MBA students at Stanford. Whatever path you've followed, the final step will be taking what you've learned and translating it to fit your new culture.
+
+A key in this process is eliminating any terminology from your vocabulary that might be perceived by your new culture as "jargon." The late activist Abbie Hoffman advised anyone seeking to foster change to "Be very conscious of your language":
+
+It cannot be stressed too strongly how much language shapes your environment... You can't afford the luxury of being boring or of creating a language that the average person cannot understand. Avoid, for example, using initials for the full name of an agency. Even if all the people you are addressing know that EPA stands for Environmental Protection Agency...say the full name. Why? As a reminder not to slip into the language of the bureaucracy. Those in power can, but not the challengers. [8]
+
+The equivalent of Hoffman's bureaucratic acronyms are any catchphrases you learned in your previous cultures. They were helpful shorthand when everyone understand them, but when you take these linguistic shortcuts in your new culture you run the risk of alienating a potential ally simply because you're not speaking their language. No matter how compelling your ideas, they must be presented in terms that align with your new culture's native vocabulary and communication style.
+
+A further step is distilling the conceptual lessons you've drawn from your previous cultures and translating those ideas into behaviors that will conform just enough to the norms of your new culture. An example that comes up frequently in my work is the role of vulnerability in organizational life, which is a hallmark of the experiential learning curriculum at Stanford. [9]. Expressions of vulnerability typically evoke empathy, so in circumstances where a greater degree of empathy would increase mutual understanding or resolve a conflict, a leader who can convey and demonstrate vulnerability will have a powerful advantage. [10]
+
+But "vulnerability" comes in an endless number of forms, and each culture has a set of norms that define acceptable expressions of vulnerability by a leader. If you deviate too far from these norms, the culture won't be able to accommodate your behavior--and if all you do is conform to those norms, you'll fail to help the culture evolve and will miss opportunities to take advantage of your prior training. The key, as always, is to conform just enough.
+
+Footnotes
+
+[1] Why Should Anyone Be Led By You?, pages 109-110 (Rob Goffee and Gareth Jones, 2006/2015)
+
+[2] What Is Organizational Culture? (Michael Watkins, Harvard Business Review, 2013)
+
+[3] Account planners and fearless noticing (Grant McCracken, 2007)
+
+[4] A Checklist for Someone About to Take on a Tougher Job
+
+[5] The Six Layers of Knowledge and Better Conversations
+
+[6] Connect, Then Lead (Amy Cuddy, Matthew Kohut and John Neffinger, Harvard Business Review, 2013)
+
+[7] Accountability and Empathy
+
+[8] "How to Fight City Hall" (Abbie Hoffman, originally published in Parade, 1984, currently available in The Best of Abbie Hoffman, 1993)
+
+[9] The Art of Self-Coaching, Class 7: Vulnerability
+
+[10] Brené Brown, Vulnerability, Empathy and Leadership
+
+For Further Reading
+
+Two Sides of Trust
+
+First Impressions
+
+The Accumulation of Cultural Debt
+
+Photo by Carleton Thomas Anderson.
+
+
+===== END ED BOT ESSAY 3990 =====
+===== BEGIN ED BOT ESSAY 3991 =====
+---
+title: XYZ (On Team Development)
+url: https://edbatista.com/2019/04/xyz-on-team-development.html
+slug: xyz-on-team-development
+published: 2019-04-18T05:00:00
+updated: 2025-10-08T09:14:56
+source_body: wordpress-html
+---
+
+Tere Pérez, one of my students in Stanford's Leadership Fellows program, created this simple exercise to help groups understand how they could work together more effectively:
+
+Have each member of the team write down their answers to the following statements:
+
+Since we started, our team has become [X].
+
+My greatest contribution to the team has been [Y].
+
+I’ll get more out of our time together if I [Z].
+
+After everyone has finished taking notes, address each of the three topics as a group. Be sure to elicit input from everyone--this may require a structured process of reporting out before open discussion.
+
+For Further Reading
+
+Building the Emotional Intelligence of Groups, (Vanessa Druskat and Steven Wolff, Harvard Business Review, 2001)
+
+Huddle Up! (Building Group Cohesion)
+
+Symptoms of Group Strength
+
+Safety, Trust, Intimacy
+
+Photo by calamity_sal.
+
+
+===== END ED BOT ESSAY 3991 =====
+===== BEGIN ED BOT ESSAY 3992 =====
+---
+title: You Can't Steer a Parked Car
+url: https://edbatista.com/2019/04/you-cant-steer-a-parked-car.html
+slug: you-cant-steer-a-parked-car
+published: 2019-04-17T19:53:03
+updated: 2025-09-24T11:58:09
+source_body: wordpress-html
+---
+
+I didn't coin the title of this post, and I wish I could remember where I heard it first, because it does come up frequently in my coaching practice.
+
+When we suspect we're not headed in the right direction, we often slow down and lose momentum, and sometimes we stall out entirely.
+
+But it's very difficult--and perhaps impossible--to change direction when we're not moving at all.
+
+The key is to move forward judiciously and thoughtfully, and to use the resulting momentum to adjust our trajectory in the process.
+
+What does this look like in practice?
+
+- Talk about it.
+
+- Write about it.
+
+- Talk about it some more.
+
+- Get comfortable with vulnerability--it's unavoidable.
+
+- Recognize that change consists of countless small steps.
+
+- And remember that you're a work-in-progress, learning how to learn.
+
+ 
+
+Thanks to Ryan Caldbeck.
+
+Photo by IwateBuddy.
+
+
+===== END ED BOT ESSAY 3992 =====
+===== BEGIN ED BOT ESSAY 3993 =====
+---
+title: Accountability and Empathy (Are Not Mutually Exclusive)
+url: https://edbatista.com/2019/04/accountability-and-empathy.html
+slug: accountability-and-empathy
+published: 2019-04-14T20:01:47
+updated: 2025-10-08T09:42:22
+source_body: wordpress-html
+---
+
+When we're in a leadership role or a position of authority, we're faced with the task of both holding people accountable and empathizing with their difficulties (some of which we've caused), and how the members of a given group respond to this challenge defines that group's culture. The leader is in a unique position to influence the culture, through the behaviors they model, acknowledge, ignore, reward and punish, but ultimately every member of the group has some responsibility for the culture that emerges...
+
+So how do we get to Paradise? Obviously there's no simple solution--but there is one easy way to guarantee failure, and that's making the assumption that either we can hold people accountable or we can empathize with them. In part, this stems from the mistaken idea that empathy is the same thing as agreement.
+
+~"Work Hard or Work Smart?" Is the Wrong Question [1]
+
+As a leader you're probably facing some version of this challenge--it's one of the most common issues I discuss with coaching clients. But based on the experience of leaders in my practice, I view the belief that we can either hold people accountable or empathize with them as a false dichotomy. That widely-held mental model of leadership presumes that accountability and empathy are endpoints along a single dimension. But an alternative model encourages us to view accountability and empathy as distinct aspects of an organization's culture--and, by extension, of the leader's behavior.
+
+Before we explore the leadership practices that contribute to an optimal organizational culture, let's consider the alternatives:
+
+In a low-accountability, low empathy culture the emphasis is on avoiding mistakes and minimizing personal responsibility. Management cares little about employees' needs, and employees make the minimum effort required to complete necessary work. While such profound dysfunction may be typical in any number of industries, it's exceedingly rare among the organizations I've observed as a coach.
+
+If you find yourself in a Nightmare like this, my only advice is to wake up, get out, and take your best people with you.
+
+In a high-accountability, low-empathy culture there's a strong emphasis on production and minimal regard for people's needs. Rewards are allocated strictly for performance, and productivity is maximized through punishments for failure to follow clearly defined rules. This Bootcamp approach to management has been common throughout human history, and it remains the norm in many industries today.
+
+The historical prevalence of this approach to social organization is curious in light of evidence suggesting that hundreds of thousand years ago the first human beings evolved to work together in cooperative harmony--it's possible that this was the key factor that allowed our distant ancestors to overcome their natural disadvantages against predators and harsh environmental conditions. [2]
+
+But it's also plausible that our ancestors developed a cooperative approach in order to band together in the struggle against nature, and conflict with other humans was rare because the overall population was so low. Depictions of violent inter-group conflict become common in cave art beginning roughly 12,000 years ago, and perhaps this was the crisis that triggered the development of more hierarchical social structures characterized by antagonism and strife. [3]
+
+Whatever our evolutionary heritage, most people have worked in Bootcamp organizational cultures for millennia, and this model has deeply informed our conventional ideas about leadership.
+
+In a low-accountability, high-empathy culture meeting employees' needs is a paramount priority, resulting in warm relationships, a comfortable, friendly atmosphere and a relatively relaxed pace. Management maximizes employees' security and comfort in the hope that improved productivity will be the result.
+
+This approach to management has found fertile soil in recent years, but its roots go back to the late 19th and early 20th centuries. The inhumane working conditions that characterized the early industrial era resulted in increasingly violent labor unrest, which led to the emergence of "industrial/organizational psychology" and "labor relations." These fields sought to rationalize management through the application of scientific and psychological principles, contributing to improvements in working conditions sought by labor advocates and progressive reformers. [4]
+
+In some settings this movement led to an organizational culture diametrically opposed to the Bootcamp--the Daycare. And while we might associate this culture with a stereotypical 21st century startup, MIT professor Douglas McGregor was already noting the contrast between a "hard" and "soft" approach to management in 1957:
+
+At one extreme, management can be "hard" or "strong." The methods for directing behavior involve coercion and threat (usually disguised), close supervision, tight controls over behavior. At the other extreme, management can be "soft" or "weak." The methods for directing behavior involve being permissive, satisfying people’s demands, achieving harmony. Then they will be tractable, accept direction. This range has been fairly completely explored during the past half century... [5]
+
+While a Daycare culture is feasible only in organizations that rely on relatively small numbers of highly-educated knowledge workers to create large financial gains, as an executive coach working primarily with technology CEOs in San Francisco, I've observed many such companies over the years, and it's a model that has come to characterize Silicon Valley. (In business school I took a class with John Morgridge, who became CEO of Cisco in 1988 when it had just 34 employees--today it has 74,000. A perk for tech company workers in the '80s was free soda, but Morgridge was aghast when he realized that the company's annual budget for Coca-Cola was over $1 million. If he were alive today, I can only imagine what he would think. [6])
+
+A dilemma is that neither the Bootcamp nor the Daycare is an optimal organizational culture--they each present a particular set of challenges that can undermine productivity. Returning to McGregor's observations:
+
+This range [between "'hard" and "soft" management] has been fairly completely explored during the past half century, and management has learned some things from the exploration. There are difficulties in the "hard" approach. Force breeds counterforces: restriction of output, antagonism, militant unionism, subtle but effective sabotage of management objectives. This approach is especially difficult during times of full employment.
+
+There are also difficulties in the "soft" approach. It leads frequently to the abdication of management—-to harmony, perhaps, but to indifferent performance. People take advantage of the soft approach. They continually expect more, but they give less and less. [7]
+
+So often leaders feel that they have to choose one approach or the other--they must either hold people accountable in a Bootcamp or empathize with them in a Daycare (and accept one or the other set of difficulties articulated by McGregor.) But this is a false dichotomy. There is a better way.
+
+The goal is a high-accountability, high-empathy culture, in which management and employees are fully committed to the organization's needs and to each other. A shared sense of mission, strong feelings of ownership and responsibility, and relationships built on mutual trust and respect contribute to superior organizational results.
+
+When employees feel compelled to stay, it's easy to run a Bootcamp--to hold people accountable without expressing empathy. And when management has sufficient resources, it's even easier to run a Daycare--to express empathy without holding people accountable. But both of these models impose substantial costs and, for many organizations, yield sub-optimal results. The task is to hold people accountable while also empathizing with them, and while this is easy to understand, it's hard to put into practice. This is one of the most difficult aspects of leadership--which is one reason why high-accountability, high-empathy cultures are so rare.
+
+While you can't mandate your organizational culture as a leader, you can shape its evolution through every interpersonal interaction and every message you deliver. Particularly if you're a leader in a new or rapidly growing organization, your behavior sets a standard that influences how all employees interact with each other. So how do you build a high-accountability, high-empathy culture? There are three core concepts to bear in mind:
+
+Update your models.
+
+Accountability is not bullying.
+
+Empathy is not agreement.
+
+Update Your Models
+
+The first rule is that you've got to have multiple models--because if you just have one or two that you're using, the nature of human psychology is such that you'll torture reality so that it fits your models, or at least you'll think it does.
+
+~Charlie Munger [8]
+
+We navigate the world through a set of mental models--conceptual frameworks and operating theories about how things work that enable us to make sense of a given situation and behave in ways that will allow us to achieve our goals. As a leader, your mental models have undoubtedly contributed to your success, and yet, as I've written before,
+
+We construct our mental models out of the meaning we extract from experience, and there's inevitably a loss of fidelity as we focus on certain aspects of an experience (while ignoring others), interpret that data, and then conceptualize it as a general principle. And the gap that exists between our mental models and reality will continually increase over time unless we compel ourselves to test our assumptions, gather new data and update our models--which requires consistent effort. [9]
+
+It's essential to understand your mental models of leadership and update them on an ongoing basis to fit your present circumstances, rather than "torturing reality" to fit your models. If, like many leaders, you believe you can either hold people accountable or empathize with them, the starting point is recognizing that this is merely a model, a working theory about how to interact with your employees most effectively--and it's one you can change.
+
+But the work of identifying, exploring and updating your mental models won't happen when you're distracted by constant interruptions in a hectic office, struggling to get through an endless to-do list. Instead...
+
+- Establish and protect sufficient open space for deep work.
+
+- Make the time and create the conditions for meaningful thought and reflection.
+
+- Commit to practices that will render your models more concrete, such as journaling and coaching conversations with capable partners.
+
+Once you've begun the process of updating your models of leadership to incorporate the idea that you can hold people accountable and empathize with them, it's time to experiment with some behaviors that will allow you to put this into practice.
+
+Accountability Is Not Bullying
+
+One of the reasons many leaders believe they can either hold people accountable or empathize with them is a misunderstanding of what is meant by "accountability." We often assume it entails a combative stance in an antagonistic interaction, with the goal of enforcing compliance--but that's not holding someone accountable, that's bullying them. And while bullying may be tolerated in a Bootcamp, it doesn't work in Paradise (and it will terrify people in a Daycare, resulting in you being escorted from the premises.)
+
+Accountability certainly involves documenting commitments, clarifying expectations, monitoring progress, and rigorous candor, but none of this need feel hostile or aggressive. The key here is emotion regulation--which is very distinct from suppression. Strong emotions can easily be stirred up in an accountability conversation, but the point isn't to pretend you're not feeling them--this generally fails. As former coach Vickie Gray has noted, "Holding back your feelings doesn’t keep them hidden, it just makes your behavior incoherent." [10]
+
+Three lessons I learned from Scott Bristol, one of my mentors in Interpersonal Dynamics at Stanford [11], are critically important here:
+
+- Expressions of anger readily capture our attention because they signal a potential threat, but we generally turn away from others' anger and distance ourselves from it as soon as possible to manage our distress.
+
+- In contrast, we turn toward most expressions of vulnerability, such as fear and hurt, which may derive from our evolutionary history of cooperation, as noted above.
+
+- Most expressions of anger are manifestations of a deeper (and often unexpressed) fear or hurt.
+
+Accountability conversations become necessary when commitments are unfulfilled or expectations go unmet, and such exchanges can easily trigger strong feelings on all sides. As the leader you may well feel angry or frustrated--but note the three points above. Expressions of anger will capture your employees' attention, but if the experience is too distressing they will seek to distance themselves from you (psychologically or literally) as soon as possible. It's also quite possible that your frustration, even if justifiable, is a self-protective response covering up a more vulnerable set of feelings--anxiety in the face of potential failure, or disappointment at the lack of support from your team, or embarrassment at your own culpability.
+
+The key, again, is emotion regulation: Sensing the early physiological signs of incipient emotions so that you can take action sooner. Comprehending precisely what you're feeling and giving it an appropriate label (and recognizing the fear and hurt that may lie beneath any anger or frustration.) Expressing those vulnerable emotions in a way that fits the surrounding culture. Thoughtfully choosing your language and non-verbal forms of expression to communicate in ways that will help you achieve your goals more effectively.
+
+And these steps will not happen by accident--they rest on a foundation of consistent personal and organizational practices:
+
+- Build a culture in which accountability conversations are normal, not special occasions.
+
+- Recognize that feedback is inherently stressful, and take steps to make it less threatening.
+
+- Cultivate a closer relationship with your own vulnerability, a process that will likely involve increasing your comfort with discomfort.
+
+- Expand your emotional vocabulary in order to choose just the right language for the conversation.
+
+- Take a more thoughtful approach to problem-solving.
+
+Finally, note that while I'm emphasizing your behavior as a leader in the process of holding employees accountable, that's not because high-accountability cultures should be authoritarian hierarchies. Your personal behavior matters because it will be closely scrutinized and highly influential, for better and for worse. The larger goal is the establishment of a culture in which people hold themselves accountable--and that occurs under conditions of mutual empathy.
+
+Empathy Is Not Agreement
+
+Just what do we mean by "empathy" in this context? The most useful definition for our purposes was developed by Theresa Wiseman, a medical professor and researcher at the University of Southampton, who was researching the topic because of its importance for nursing and medical care. Wiseman identified four defining attributes of empathy:
+
+1. The ability to see the world as another person sees it. ("Without this, empathy cannot occur," Wiseman wrote.)
+
+2. The ability to understand another person’s feelings.
+
+3. The ability to suspend judgment.
+
+4. The ability to communicate this understanding, which is essential "if empathy is to be felt." [12]
+
+Why does this matter so much? What makes empathy so important in organizational life? The answer comes from the work of Brené Brown, a research professor at the University of Houston's Graduate School of Social Work who has dedicated her career to the study of such topics as vulnerability, empathy, courage and shame:
+
+If you think about connection on a continuum...anchoring [one] end of of that continuum is empathy. It is what moves us toward deep, meaningful relationship. On the other side of the continuum is shame. It absolutely unravels our relationships and our connections with other people... Empathy is about being vulnerable with people in their vulnerability. [13]
+
+Note the significance of this "empathy-shame continuum" in a setting where you're seeking to hold people accountable. We often associate shame with grave personal misdeeds, but it's actually a common experience in organizational life. Even if you're able to successfully employ the practices discussed above and hold productive accountability conversations, it's likely that anyone who has failed to fulfill their commitments, meet expectations, or achieve their goals will feel some degree of shame. And as Brown writes elsewhere, "Shame is the fear of disconnection--it's the fear that something we've done or failed to do, an ideal that we've not lived up to, or a goal that we've not accomplished makes us unworthy of connection." [14]
+
+When accountability conversations trigger shame--as they inevitably do, even with the best of intentions and skillful practice--the key to maintaining strong working relationships characterized by a sense of personal connection is empathy. And yet a challenge faced by so many leaders in these circumstances is that they believe empathy requires agreement. As I've written before,
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [15]
+
+When we agree, empathizing is easy, but in many of the circumstances we're discussing you and your employees will not agree--and you will need to empathize with them anyway. So if empathy is not agreement, what might it look like to put these ideas into practice? As with the process of emotion regulation discussed above, a more empathetic response will not arise spontaneously. It will grow out of a set of consistent behaviors:
+
+- Make a concerted effort to slow down when holding an important conversation in order to be more attuned to others' emotions (and your own.)
+
+- Ask better questions in order to surface more information from your employees' perspective.
+
+- Develop better listening skills and recognize that some of our habitual responses actually block empathy.
+
+- Create a safer environment (for others and yourself) by minimizing the risk of a threat response.
+
+Historical Background: The Mouton-Blake Managerial Grid
+
+The graphics above are my simplified versions of one of the most important images in the history of management theory, the Mouton-Blake Managerial Grid. The original version--shown below--was published in a 1964 Harvard Business Review article [16] by psychologists Robert Blake and Jane Mouton, who had recently resigned from the University of Texas to found a consulting firm, and Louis Barnes and Larry Greiner of Harvard Business School. [17] The authors were (or would go on to become) leading figures in the worlds of industrial/organizational psychology and labor relations (later known as human relations.)
+
+Blake, Mouton and their co-authors described the conventional approach to management as "concern for production," the X-axis on the grid below. In contrast, drawing upon ideas emerging from industrial psychology and human relations, they described an alternative approach as "concern for people," the Y-axis below:
+
+The original grid employs a 1-to-9 scale along each axis, as Blake, Mouton and their co-authors noted in HBR:
+
+The lower left corner of the Grid diagram in Exhibit I shows a 1,1 style. This represents minimal concern for production and minimal concern for people. The 1,9 style in the upper left corner depicts maximal concern for people but minimal concern for production. The 9,1 style in the lower right corner portrays maximal concern for production and minimal concern for human relationships. The 9,9 style in the upper right-hand corner represents maximal concern for both human relationships and production. The 5,5 style in the center of the diagram is "middle of the road" in both areas of concern. [18]
+
+Below is a version of the Mouton-Blake grid that I developed in 2007. I flipped the axes of the original grid in order to highlight the parallels between the Mouton-Blake framework and the Thomas-Killmann model for conflict modes, and I've maintained that convention in my use of this concept. [19] The labels and terminology for the various management styles in this version of the managerial grid are adapted from subsequent work by Blake and Mouton:
+
+It's worth noting that while Robert Blake was the senior figure in his professional partnership with Jane Mouton, and she was his former student at the University of Texas, it's known as the Mouton-Blake Managerial Grid, presumably because the model was her idea. [20]
+
+One Final Thought
+
+In my simplified versions of the Mouton-Blake grid, I've omitted what they call "5,5 management" or the "middle-of-the-road" style. Many such companies exist, obviously--it may be the most common type of organizational culture--and it's clearly sufficient for most of them. Not every organization is capable of reaching Paradise, but the leaders I see in my practice are aiming for something more than Business As Usual.
+
+This is a companion piece to the following:
+
+- "Work Hard or Work Smart?" Is the Wrong Question (2017)
+
+- Hard Problems in Soft Cultures (2022)
+
+Footnotes
+
+[1] "Work Hard or Work Smart?" Is the Wrong Question
+
+[2] To take just one example: Forget Survival of the Fittest: It Is Kindness That Counts (Dacher Keltner interviewed by David DiSalvo, Scientific American, 2009)
+
+[3] Collective action and the evolution of social norm internalization (Sergey Gavrilets and Peter Richerson, Proceedings of the National Academy of Sciences, 2017)
+
+[4] The fields of industrial/organizational psychology and labor relations (later known as human relations) first emerged in the 1920s and gained momentum in the 1950s, when corporations and universities that had begun collaborating to increase production during World War II continued to work together to improve management practices. A thorough documentation of the history of these fields is beyond the scope of this post, but this (uncredited and undated) article offers a good starting point: Human Relations Movement (Psychology Research and Reference)
+
+[5] "The Human Side of Enterprise," page 6 in Leadership and Motivation: The Essays of Douglas McGregor (Douglas McGregor, 1966. This essay was originally published in the Management Review of the American Management Association, November 1957.)
+
+[6] 12 Companies with the Most Luxurious Employee Perks (Paul Schrodt, Money, 2017)
+
+[7] "The Human Side of Enterprise," page 7 (McGregor, 1957/1966)
+
+[8] A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management and Business (Charles Munger, USC Business School, 1994)
+
+[9] Corn Mazes and Mental Models
+
+[10] We're Leaky (Emotional Signals and Cognitive Dissonance)
+
+[11] Interpersonal Dynamics
+
+[12] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[13] Shame and Empathy (Brené Brown, 2007)
+
+[14] Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, pages 68-69 (Brené Brown, 2012)
+
+[15] The Difficulty of Empathizing Up
+
+[16] Breakthrough in Organization Development (Robert Blake, Jane Mouton, Louis Barnes, and Larry Greiner, Harvard Business Review, 1964)
+
+[17] For more on Blake, Mouton, Barnes, and Greiner:
+
+- Robert Blake (1918-2004) was a fascinating figure. After earning his PhD at the University of Texas in 1947, he went to London on a Fulbright Scholarship where he worked with the Tavistock Clinic and, presumably, Wilfred Bion, a pioneer in the study of group dynamics. In London Blake learned about the recent formation of the National Training Laboratories Institute for Applied Behavioral Science (aka NTL), which was in the process of developing the T-group methodology for studying group dynamics, based on the work of Kurt Lewin. Blake developed a relationship with NTL, and throughout the 1950s and '60s he facilitated T-groups there while also teaching psychology at Texas. (For more on T-groups and NTL, see my discussion, A Brief History of T-Groups.)
+
+- Jane Mouton (1930-1987) was a former student of Blake's who joined him on the psychology faculty at Texas as well as among the staff of facilitators at NTL. In that era T-groups were typically composed of male managers from large corporations, and there were relatively few female facilitators. Given the many obstacles confronting young women in this field at the time, Mouton must have been a particularly formidable person, and her death at a relatively young age seems a great loss.
+
+- Blake and Mouton began consulting to Exxon and other companies, and their work met with such success that they resigned from their academic positions at Texas and formed a consulting firm, Scientific Methods, that lives on today as Grid International.
+
+- Blake and Mouton's work on this topic culminated in The Managerial Grid: Leadership Styles for Achieving Production Through People (1966), one of the high-water marks for the application of humanistic psychology to management practices. The field changed dramatically in the late 1960s and '70s, as inherent contradictions in humanism combined with larger cultural currents, resulting in the excesses of the "human potential movement." At the same time, humanistic institutions can be said to have "died of success" as their ideas became so thoroughly integrated into current management practice that they were taken for granted.
+
+- Louis Barnes (1928-2009) taught for many years at Harvard Business School, and his work focused on small groups within an organization, interpersonal relationships, organizational change, and the dynamics of family businesses.
+
+- Larry Greiner did his graduate work at HBS and taught for many years at the University of Southern California's Marshall School of Business, and it appears he died recently. Today he may be best-known for his classic 1972 HBR article, Evolution and Revolution as Organizations Grow, which was republished in 1998.
+
+[18] Breakthrough in Organization Development (Harvard Business Review, 1964)
+
+[19] Conflict Modes and Managerial Styles
+
+[20] Asserted on Jane Mouton's Wikipedia page.
+
+For Further Reading
+
+On mental models:
+
+Corn Mazes and Mental Models
+
+Open Space, Deep Work and Self-Care
+
+How to Think (More on Open Space and Deep Work)
+
+The Value of Journal Writing
+
+Self-Coaching Is SOCIAL
+
+On accountability:
+
+Building a Feedback-Rich Culture
+
+Make Getting Feedback Less Stressful
+
+Brené Brown, Vulnerability, Empathy and Leadership
+
+Vocabulary of Emotions
+
+Hammering Eggs (Leadership and Problem-Solving)
+
+On empathy:
+
+Scott Ginsberg on Asking (Better) Questions
+
+The Importance of Slowing Down
+
+How Great Coaches Ask, Listen and Empathize
+
+How Leaders Create Safety (and Danger)
+
+Acknowledgments
+
+Dedicated to my Stanford colleague Andrea Corney, who first taught me about the Thomas Killman conflict modes in 2007, which led to my initial interest in the work of Robert Blake and Jane Mouton.
+
+Photos: Blackboard by Lee Nachtigal. Bully-Free Zone by Lorie Shaull. Handshakes by Roy Luck.
+
+
+===== END ED BOT ESSAY 3993 =====

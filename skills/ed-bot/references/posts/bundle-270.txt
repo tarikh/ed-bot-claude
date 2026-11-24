@@ -1,0 +1,334 @@
+===== BEGIN ED BOT ESSAY 4191 =====
+---
+title: Handing Off to a New CEO
+url: https://edbatista.com/2024/01/handing-off-to-a-new-ceo.html
+slug: handing-off-to-a-new-ceo
+published: 2024-01-31T12:10:26
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+I've worked with several dozen clients through the process of a CEO transition: The outgoing CEO who will serve as the Board's executive chair. The outgoing CEO who's ready to sit on a beach for a while. The incoming CEO who's succeeding a capable predecessor. The incoming CEO who's succeeding a dismal failure. The former CEO who sold the company and will be an executive with the acquirer. The former CEO who's taking another executive role under their successor. The investor and the C-level leader who aren't changing roles but have ringside seats and will be heavily impacted.
+
+There's no one right way to orchestrate and execute this transition--every situation is unique, and there are a host of factors that merit consideration. But I've observed a sequence of stages that CEOs and companies tend to follow--see below. To be clear, there's nothing prescriptive about this framework--it's not a required order of operations, and it's not uncommon for a CEO and their colleagues to work through these stages in a different order.
+
+Whatever path they followed, most of my clients who've navigated this transition were doing so for the first time, investors aside, and they've found it useful when I was able to normalize their experience by drawing upon my work with others in similar circumstances. While I've also worked with CEOs who've been removed from the business by their Boards (and with investors who've had to remove CEOs), that's a very different situation. In this post I'll focus on the CEO who's opting to leave, albeit often with mixed feelings.
+
+1. The Dream
+
+The starting point in this process is just an idea, a dream. The poorly-kept secret about CEO positions is that they can be profoundly stressful and lonely, and the compensation, power, status and other benefits may not outweigh the downsides indefinitely. [1] The calculus may start to shift after a period of time, and the CEO begins to imagine a life without the pressure, the problems, the visibility, the lack of empathy. [2] Even when everything's fine a CEO may begin to dream about something different: a big new idea, or an alternative industry, or an earlier stage of growth.
+
+Sometimes this is just a fleeting fantasy, and merely thinking about leaving offers some respite. But in other cases that idea takes hold and becomes a goal--and yet while CEO positions are very difficult to obtain and hold, it turns out that they're also very difficult to leave. Even when a company has achieved a degree of sustained success, there's rarely a moment when it's obvious that the CEO should transition out. Sometimes a company's success leads to even greater anxiety about a CEO's potential departure--no one wants to take the risk that the business might stumble. And when a company is struggling, the CEO is undoubtedly reluctant to leave on a low note.
+
+In all cases, the CEO is keenly aware of the commitments they've made to various stakeholders--employees, customers, investors--and that there's no way to leave without someone feeling disappointed, hurt, even angry. So it's common for this initial stage of the process to take a long time--but one way a transition can go wrong is when a CEO continues to defer acting upon this dream, waiting for that magical moment when the stars align and everyone will cheer them on as they depart.
+
+This isn't impossible, but it's unlikely. And a risk that can increase over time is that the CEO's disenchantment builds to unbearable levels, leading them to conclude that they must leave and soon, which can result in any number of sub-optimal choices. [3] It's rarely a good idea to rush a CEO transition, which may entail not waiting too long to take the dream seriously.
+
+2. The Inner Circle
+
+Having done so, the dilemma CEOs face is that it's difficult to even raise the possibility of a transition with most stakeholders. Anyone with a stake in the company's success may value that stake over the CEO's well-being--and in the case of Board members and investors, this can be a professional obligation. This isn't to say that no one cares at all, but even stakeholders who truly want the best for the CEO as a person will likely be conflicted in some way.
+
+And yet CEO transitions are group undertakings, not solo efforts, so inevitably the CEO must identify an inner circle and bring them into their confidence. It's easy to start with people who don't have a stake in the business and may even be bound by confidentiality agreements--family and friends, a mentor or coach. These figures can offer empathetic support and useful guidance, but eventually the CEO must involve people who can take action and whose approval may be needed to move forward.
+
+There's no definitive guide to who should be included in this inner circle, but it's worth asking: How will the parties under consideration balance their competing interests? Can they be relied upon not only to be discreet, but also to provide objective advice? How will they feel about this news? How will they feel if they find out second-hand, or later in the process? In a word, are they trustworthy? [4] Yet trust develops slowly, and just as the best time to plant a tree is 20 years ago, the best time to begin testing for trustworthiness in a professional relationship is at the very start. [5]
+
+The greater the trust, the more candid the CEO can be--but even within the inner circle it's necessary to bear in mind that news like this is the proverbial bell that can't be unrung. Once a CEO has indicated that they're open to a transition, this information will begin to have an effect on everyone else's plans and ambitions. It's a mistake to entrust this news too early or with the wrong people, but it's also a mistake to keep it too close for too long. When key stakeholders feel that they've been informed too late in the process, they may take it as an insult--and it may be a missed opportunity to enlist their support.
+
+3. The Horse Race
+
+Having mobilized an inner circle who can offer various forms of assistance, the CEO now needs to identify a slate of potential successors. In sufficiently large organizations with deep leadership benches, these candidates already occupy roles within the company as C-level officers, functional leaders or division heads, but even smaller, early-stage companies may have one or two viable internal candidates. With a sufficiently long timeline, the CEO may have filled some of these roles with this very possibility in mind. But you can't stockpile talent indefinitely--the challenge in building a deep bench is that the best internal candidates won't wait forever, and if they're kept waiting too long they'll grow restless and either leave or push for a transition before the CEO is ready. [6]
+
+In many organizations the existing leadership team doesn't contain a candidate who would be an acceptable choice to all stakeholders with a say in the decision, which requires turning to outside talent. And in some cases stakeholders feel obligated to conduct an external search no matter who's on the bench in order to meet a standard of diligence. It's important to be aware at the outset that a CEO search will be more complex and fraught than those for other C-level roles.
+
+The need for confidentiality is greater. The pool of candidates is smaller. The decision will be harder and more expensive to undo, so the stakes are higher. And while it's always the case that the best candidates for any role will be more selective, this is exacerbated in a CEO search because of the visibility of the position--a successful former CEO will be very reluctant to take on a new role if there's any chance that it might tarnish their record.
+
+In any event, the right inner circle can play a helpful role at this stage of the process. Presumably they have the ability to assess senior executive talent, putting them in a good position to vet both any internal candidates and those identified by a search firm. They may also have personal networks from which additional candidates can be drawn. In the best case scenario, their discretion, judgment and integrity enable them to advise the CEO in a way that meets the leader's personal needs as well as what's best for the company.
+
+But the process can go awry in various ways at this stage. Companies can take the idea of a "horse race" literally, pitting candidates against each other in a destructive competition. The process by which General Electric identified Jeff Immelt as Jack Welch's successor is a prime example. [7] Given the difficulty of this search, it's not uncommon for even the best firms to require more time than the CEO would like, and many of the external candidates will be C-level executives who've never been a CEO. (Some data suggests that more than 70 percent of CEOs are first-timers. [8])
+
+All this may require decision-makers to take a leap of faith in a candidate's potential, knowing that a misfire will be costly and high-profile. And the inner circle doesn't always live up to the ideal--they often face intense pressures of their own, and it can be difficult to balance such strong competing interests.
+
+4. The Covert Candidate
+
+Ultimately the CEO and other decision-makers among the inner circle must settle on a leading candidate. A key for the CEO here is managing expectations, including their own. By this point in the process the CEO may be eager to move forward, and other stakeholders can have their own reasons for wanting to press toward a decision. But it can be a mistake to allow any particular preference to exert undue influence here, so it's advisable to proceed judiciously.
+
+One way to slow the process down is to identify a leading candidate without telling them. This enables the CEO and other stakeholders to assess the candidate's suitability without making any commitments and maintaining maximum flexibility. The downside is that the covert candidate may pursue other plans for their career if they don't realize that they're in the running for the role, or become frustrated if they feel they merit consideration and are unaware of the ongoing process.
+
+It's not uncommon for this step to occur sooner, particularly if a CEO has high confidence in a given candidate's viability as their successor or low confidence in the value of their inner circle as thought partners or sources of prospective candidates. A CEO may fill a C-level role with the express purpose of testing that person as a potential successor, well before they share that news with the candidate (or anyone else.)
+
+5. The Overt Candidate
+
+Despite the value of flexibility, at some point it becomes necessary to communicate to a candidate that they're in the running to be the CEO. If the candidate is being sourced externally, this is likely to be accompanied by a formal offer, or at least the beginning of a negotiation. But if the leading candidate is an internal executive, an offer may not yet be forthcoming. As noted above, it will be very difficult to undo a mistake, and it's likely that the candidate hasn't been a CEO before.
+
+So the CEO and other decision-makers may want to assess the candidate's performance with the added weight of a succession plan on their shoulders before offering terms. In cases where the incumbent CEO exercises outright or effective control, they may skip directly to this stage, privately designating an internal executive as their successor, or bringing on a new C-level leader for this express purpose.
+
+However they arrive here, at this stage the candidate will be put through their paces in any number of contexts--life will be an ongoing, slow-motion job interview. They'll be assessed on their ability to deliver results in their function, develop strong working relationships with various stakeholders, improve the dynamic on the executive team, and be an effective CEO proxy in public and private settings.
+
+And yet informing the executive that they're a (or the) leading candidate, without making any binding commitments can leave them in a state of limbo. They may be sufficiently motivated by the prospect of becoming CEO to tolerate the ambiguity, in some cases for an extended period of time, but it's still difficult and stressful, and the uncertainty may eventually undermine their commitment to the role.
+
+6. The Close
+
+Whether an offer is delivered up front or an overt candidate finally passes the test (or signals that they're losing patience), eventually the process reaches a point where terms must be finalized to close the candidate. Note that this is neither the beginning nor the end of the negotiation--it's merely a particularly acute and explicit phase. In actuality both sides have been negotiating for some time--although not necessarily with the same degree of awareness and deliberation--and in some cases negotiations may continue well after one side (mistakenly) believes they've been concluded.
+
+By this point a number of the key terms may have been initially addressed or even resolved--this is where a sophisticated go-between such as a trusted member of the inner circle or an experienced recruiter can play a helpful role. But even when preliminary dialogue has reduced the information asymmetry, one or both parties can still find themselves surprised by the contents of the offer (or the counter-offer.)
+
+When this happens one party has usually misunderstood the other party's negotiating culture, a topic I've addressed before: "In a list-price culture, there's a high degree of transparency and very little flexibility. An opening offer may not be take-it-or-leave it, but there's relatively little gamesmanship in the process... In a haggling culture, the opposite is true. There's very little transparency and a great deal of flexibility. Opening offers are never take-it-or-leave-it, and gamesmanship abounds." [9]
+
+There's no one right way to negotiate, and each approach has its pros and cons, but problems occur when the parties have different negotiating cultures and fail to realize it. Usually this becomes evident at earlier stages of the process, but sometimes this is a sudden (and surprising) discovery late in the game. At that point it's essential to attend closely to any potential ambiguities and misinterpretations, another topic I've discussed previously:
+
+When an offer falls apart unexpectedly, the party caught by surprise was presumably under the impression that the issues under discussion were appropriate at this stage, that their stated positions were reasonable, and that progress was being made--but the other party had a very different interpretation of the situation. [10]
+
+7. The Narrative
+
+Once the candidate has been closed, it's time to spread the word about the impending transition and the incoming CEO, which is by no means a simple PR task. The key here is having all parties agree upon and effectively communicate the narrative that will explain what's happening and why to all interested parties. Crafting and conveying a compelling explanatory narrative is a critical skill in organizational life that's a common theme in my practice:
+
+We depend upon narratives to navigate the world... Organizational psychologist Karl Weick called this "sensemaking": we rely upon narratives to "make sense" of ambiguous situations and pursue a plan of action in coordination with others. But our reliance on narratives means that in the absence of a coherent story we will feel lost and ungrounded. This poses a risk when we face rapid change that may overtake our existing narrative and render it out of date, as Weick noted: "People...act as if events cohere in time and space and that change unfolds in an orderly manner. These everyday cosmologies are subject to disruption." [11]
+
+In some situations the narrative is evident and clear: A longtime CEO who's had a successful run is retiring and handing the reins to a trusted lieutenant who's an obvious successor known by all stakeholders and intimately familiar with the business. But it's rare that all the elements line up so neatly--it's much more common that a CEO transition raises some questions in the minds of stakeholders: Is the business struggling? Was the outgoing CEO struggling? What do they know that we don't? Why are they leaving us? Who is this new person we're supposed to accept as our leader? And what will our lives be like under their leadership?
+
+Such questions come up with other executive transitions, but they're more fraught in the case of a CEO's departure because of the symbolic nature of the role--they embody the organization. [12] CEOs don't just make decisions and allocate resources--they offer reassurance at a primal level that the uncertainty surrounding the business can be rendered predictable. [13] So when a CEO  departs, the disruption leads stakeholders to wonder whether events will continue to "cohere in time and space" and if change will "unfold in an orderly manner."
+
+Thus the importance of a narrative that answers stakeholders' questions and enables them to make sense of the transition. Note that I'm not suggesting that anything in the narrative should be untrue or misleading. The narrative must be factually accurate, but it will inevitably focus on certain reasons for the transition at the expense of others. This is a function of the fact that public discourse has a limited capacity for nuance and complexity. The narrative must be true, and it's unlikely that it will be able to accommodate the whole truth. As noted above, CEO roles can be stressful and lonely, and that's often a factor in a given CEO's decision to leave--but few stakeholders will empathize with this reality, so it's rarely incorporated into the narrative.
+
+One specific tactical challenge is informing anyone who will be directly affected but was not part of the inner circle or a participant in the hiring process. When this news is delivered effectively, these people understand why they weren't involved and appreciate getting a personal heads-up in advance of any broader announcements. The purpose isn't just to assuage their egos, but to minimize any rancor toward the outgoing CEO and to ensure that the incoming CEO is set up for success in these working relationships.
+
+8. The Handoff
+
+We're finally ready for the baton to be passed from the outgoing CEO to their successor. And yet there's no guarantee of a clean handoff, and there are many ways in which it can be bobbled or botched. In the best-case scenario there's a shared understanding among all stakeholders of the timeline, various parties' roles and responsibilities, and what will change--and what will not--under the incoming CEO. But sometimes these details are overlooked as the handoff approaches, or one or more parties will mistakenly (or conveniently) assume that a shared understanding has been achieved.
+
+There's no one optimal timeline, and a host of factors can affect the pace of the transition following any public announcements. But in my experience most transitions take too long, for several predictable reasons. Organizations tend to solve for optionality, which results in a longer period of overlap between the incoming and outgoing CEOs. The short-term risk of a transition that's too abrupt is more vivid and salient than the long-term risk of a transition that's too drawn-out. And even when an incumbent CEO is ready to move on, they've likely felt a degree of ambivalence throughout the process, and those emotions may intensify as the handoff approaches.
+
+It's also common for different parties to have divergent or even incompatible perspectives on their roles and responsibilities, and a critical figure here is the outgoing CEO. They often retain a Board seat, and although it's increasingly rare for them to become executive chair in large companies [14], it's not unusual at smaller scales. But in those cases it's essential for the outgoing CEO, their successor, and all other Board members to clarify and agree upon the executive chair's duties. I've seen cases where a newly installed executive chair feels under-utilized by their CEO successor--and others where a new CEO feels intruded upon by their predecessor.
+
+And even when the incoming CEO is a longstanding internal leader and the transition promises to be smooth and seamless, it's almost always the case that the newcomer will want to make some changes and put their own stamp on the role. The outgoing CEO may fully expect this and even approve in principle--but when they see their preferred management practices altered or abandoned, they may well offer some resistance. Outgoing CEOs usually want their successors to succeed, but they typically feel some chagrin at being succeeded.
+
+9. The Hard Part
+
+The handoff has been made, and the transition is complete. It's taken a lot of time and effort to get here--and yet this is where the real work begins, and for many leaders it can be confusing and disheartening to realize how much remains to be done. A useful analogy is moving house--given how much work it takes to find and secure a new home, and then pack up and transport our possessions, we imagine that the process will be over when the moving truck drives away. But then we look around at the stacks of cardboard boxes, and we realize that we have no idea where to find the silverware, and it dawns on us that we're still very much in the midst of our labors.
+
+In some ways the outgoing CEO has it easy--at the very least, they're usually relieved to be free from operational responsibilities. It may even feel like "school's out" and "summer vacation" has begun, and they're delighted to see a long stretch of empty dates on their calendar. But this feeling rarely lasts as long as they think it will, and it's not unusual for former CEOs to soon find themselves at loose ends. They don't miss the stress and pressure, but they're surprised to discover the extent to which leadership has become a part of their identity, and they do miss the opportunity to be of service in this capacity. As I counsel former CEOs in my practice, it's essential to prepare for this moment [15] and avoid rushing into another leadership role prematurely. [16]
+
+The challenges facing the incoming CEO will vary widely depending on the circumstances, but I've never seen a situation where everything goes as planned, so it pays to expect the unexpected. Turning around an underperforming business is hard--but it's also hard to take over a smoothly running machine and feel the pressure of ensuring continued success. An incoming CEO who's new to the organization must integrate with the surrounding culture to gain credibility and traction [17], while a CEO who's been promoted from within can be surprised by the change in how they're perceived, even by longtime colleagues.
+
+Stakeholders who were involved in hiring the new CEO or endorsed their candidacy generally have a set of assumptions and expectations that formed the basis for their support. But even when such ideas are well-founded, leaders are reliably more complex than our reductive images of them, and it's always possible that a stakeholder's perception was based in part on wishful thinking. Stakeholders can feel let down, or even betrayed, when any gaps appear between their hopes for the incoming CEO and the reality. In some cases stakeholders need to ask whether their assumptions and expectations were accurate to begin with, but in others these gaps can serve as the basis for more candid conversation about the new CEO's leadership and their plans for the business.
+
+While I've highlighted the many potential pitfalls in this process, my intent isn't to dissuade CEOs or their colleagues from pursuing a transition. Leaders and organizations may fear and resist change, in part because they believe that an individual CEO is "irreplaceable." I've seen leaders have a profound impact on company performance, and I believe that great leadership can make a difference. [18] But as I wrote recently, "I launched my coaching practice in 2006, and I've never seen a company fail because of the departure of any one individual. I've concluded that organizations are often far more resilient than leaders think they are." [19]
+
+ 
+
+Footnotes
+
+[1] Watch That Next Step (CEO Problems)
+
+[2] The Difficulty of Empathizing Up
+
+[3] Extending Your Personal Runway
+
+[4] Two Sides of Trust
+
+[5] How to Think Long-Term
+
+[6] Talking About Promotions (with Very Ambitious People)
+
+[7] GE Powered the American Century—Then It Burned Out (Thomas Gryta and Ted Mann, The Wall Street Journal, 2018)
+
+[8] Why Today's CEOs Aren't Prepared for the Job (Joel Trammell, Texas CEO Magazine, 2023)
+
+[9] Culture, Compensation and Negotiation
+
+[10] When Offers Fall Apart
+
+[11] The Importance of Shared Narrative
+
+[12] Leader as Avatar
+
+[13] Leadership and Transference
+
+[14] 2022 S&P 500 CEO Transitions (Spencer Stuart, 2023)
+
+[15] You Quit. You're Free. Now What?
+
+[16] Don't Take That Job
+
+[17] Conform to the Culture Just Enough
+
+[18] What Do Great Leaders Do?
+
+[19] Fear of the Empty Chair, Part 3 (On Attrition)
+
+ 
+
+Photos by tableatny: left, right.
+
+
+===== END ED BOT ESSAY 4191 =====
+===== BEGIN ED BOT ESSAY 4192 =====
+---
+title: My Appearance on The Leadership Podcast
+url: https://edbatista.com/2024/01/my-appearance-on-the-leadership-podcast.html
+slug: my-appearance-on-the-leadership-podcast
+published: 2024-01-24T09:17:50
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+Jan Rutherford and Jim Vaselopulos are coaches who've been co-hosting The Leadership Podcast continuously since 2016, and they recently invited me to join them for Episode 393. We discussed my unexpected move to a sheep and cattle ranch after 30 years in San Francisco; my former work at Stanford, including founding The Art of Self-Coaching and teaching Interpersonal Dynamics, aka "Touchy Feely"; and the leadership challenges I see regularly in my coaching practice.
+
+- Streaming Audio and Highlights
+
+- Apple Podcasts
+
+- Spotify
+
+- Soundcloud
+
+Recorded November 29, 2023. Published January 24, 2024.
+
+
+===== END ED BOT ESSAY 4192 =====
+===== BEGIN ED BOT ESSAY 4193 =====
+---
+title: Thoughts on the Ed Bot (Writing, Coaching and A.I.)
+url: https://edbatista.com/2023/12/thoughts-on-the-ed-bot-writing-coaching-and-ai.html
+slug: thoughts-on-the-ed-bot-writing-coaching-and-ai
+published: 2023-12-17T10:55:45
+updated: 2026-02-27T14:01:36
+source_body: wordpress-html
+---
+
+UPDATE: The original Ed Bot was taken down in 2024 after Heyday was acquired. But in April 2025 founder and coach Tarikh Korula trained a version of ChatGPT on the contents of this website, and we call it the Ed Bot 2.0.
+
+Last week the founders of Heyday, Samiur Rahman and Sam DeBrule, launched Ask Ed, which enables anyone to enter a question and receive an A.I.-generated answer derived from an interpretation of the contents of this website. I'm both honored and tickled that my work here, comprising more than 1,200 posts over the last two decades, could prove useful in this way. (My amusement was only heightened when my colleague Paul Loper dubbed this system "the Ed Bot.")
+
+While the Ed Bot is certainly an application of new technology, it's consistent with the ethos that's informed my writing since I began publishing here in late 2004 and with my approach to coaching since launching my practice in 2006. I also think it has something to teach us about the future of coaching and other helping professions.
+
+Why I Write
+
+I write for two reasons: to learn, and to share what I learn with coaching clients. It's gratifying when anyone who isn't a client finds something I've written of interest, but that's a bonus. I don't write to monetize what I've written by selling access to it or via advertising. That's not a criticism of anyone who relies on those business models--writing is hard work, and I'm all in favor of anything that helps a writer get paid.
+
+But I've found that what works best for me is monetizing the time I spend with clients in coaching sessions, which allows me to write entirely on my own schedule, in my own way, on topics that are of greatest interest to me and my clients. This also allows me to make my writing freely available under a Creative Commons license--anyone can copy, share and adapt my work, as long as they attribute the original to me and made their version available to others under the same conditions. (That's essentially what Samiur and Sam have done with the Ed Bot.)
+
+Writing and Coaching
+
+By no means is being a writer a prerequisite for being a coach. I have many outstanding colleagues who write rarely or not at all. But writing is deeply intertwined with coaching for me. My initial work on this blog played a meaningful role in my decision to pursue coaching as a professional path, and in the years since it's been instrumental in my efforts to advance my craft and to be of greatest use to my clients.
+
+One of the reasons I love coaching so much is that there's always more to learn. This includes coaching as a discipline, of course, but there's an endless range of topics that come up in the course of my work with clients, from psychology and group dynamics to labor and employment law, from neuroscience and decision-making to negotiations and sales. I'm not an expert in any of these fields, but my clients aren't looking to me for "the answer"--instead, they rely on me to be sufficiently well-informed to ask the most useful and important questions. And it's not enough for me to merely research these topics--to truly integrate what I've learned, I need to write about it.
+
+Writing and A.I.
+
+That's one reason why I don't use A.I. as a writer--it might yield a serviceable final product, but bypassing the labor would short-circuit the learning. I believe A.I. has a role to play, but I suspect its utility will be in condensing bodies of knowledge to assist in the creative process, not in creation itself. I'm reminded of insights from two brilliant 20th-century thinkers who foresaw and contributed to many of the developments that we're living through in today's A.I. revolution. In 1971 Herb Simon (1916-2001), who founded the School of Computer Science at Carnegie-Mellon, noted that the scarce resource is attention, not information:
+
+Whether a computer will contribute to the solution of an information-overload problem, or instead compound it, depends on the distribution of its own attention among four classes of activities: listening, storing, thinking, and speaking. A general design principle can be put as follows: An information-processing subsystem (a computer or new organization unit) will reduce the net demand on the rest of the organization's attention only if it absorbs more information previously received by others than it produces that is, if it listens and thinks more than it speaks. [1]
+
+And in 1988 Russell Ackoff (1919-2009), a pioneer in systems thinking and management science who taught at Wharton, articulated the distinctions among information, knowledge, understanding and wisdom:
+
+Information, knowledge and understanding all focus on efficiency. Wisdom adds value, which requires the mental function we call judgment. Evaluations of efficiency are all based on a logic which, in principle, can be specified, and therefore can be programmed and automated. These principles are general and impersonal. We can speak of the efficiency of the act independent of the actor. Not so for judgment. The value of an act is never independent of the actor, and seldom is the same for for two actors even when they act in the same way. Efficiency is inferrable from appropriate grounds; ethical and aesthetic values are not. They are unique and personal. At least this is how it seems to me. From all this I infer that wisdom-generating systems are ones that man will never be able to assign to automata. It may well be that wisdom, which is essential to the effective pursuit of ideals, and the pursuit of ideals itself, are the characteristics that differentiate man from machines. [2]
+
+Coaching and A.I.
+
+These insights have relevance not only for writing, but also for coaching. In the post announcing "Ask Ed," Sam rightly takes pride in Heyday's accomplishment while also setting expectations accordingly: "Is it as good as having Ed as your coach? No. Is it Ed who is answering your questions? Of course not! Will you still think it’s awesome? Hope so!"
+
+I do think it's awesome, and I have no doubt that advancements in A.I. await us that will make the Ed Bot look simplistic. And I'm equally confident that there will always be a need for a human in the process--although what that looks like will certainly evolve. In a sense, the Ed Bot is merely the latest development in a continuous process of recalculating how I and other coaches add value. Here I believe we'll be well-served by bearing Simon and Ackoff's ideas in mind, and perhaps it's appropriate that I'm left with more questions than answers:
+
+- The cost of information and the value of attention are inversely correlated. When information is essentially free, how can I best help clients preserve their increasingly-valuable attention? How can I help solve my clients' information-overload problems, rather than compounding them? [3]
+
+- What are the definitions of information, knowledge, understanding and wisdom in the context of coaching? How will I ensure that I'm providing clients with less of the former and more of the latter? How might I emphasize value rather than efficiency in the conduct of my practice? [4]
+
+Thanks to Samiur Rahman, Sam DeBrule and their collegues at Heyday.
+
+Footnotes
+
+[1] Designing Organizations for an Information-Rich World [PDF] (Herb Simon, pages 37-72 in Computers, Communications, and the Public Interest, Martin Greenberger, editor, 1971)
+
+[2] From Data to Wisdom [PDF] (Russell Ackoff, Presidential Address to the International Society for General Systems Research, St. Louis, June 1988). An edited version of this speech was published the following year as a journal article, From Data to Wisdom (Russell Ackoff, Journal of Applied Systems Analysis, 1989), also available in Ackoff's Best: His Classic Writings on Management (1999).
+
+[3] For more on this topic, see A Better Information Diet.
+
+[4] I also reference Simon and Ackoff in a related post, Drowning in Feedback.
+
+Photo by Fred Seibert.
+
+
+===== END ED BOT ESSAY 4193 =====
+===== BEGIN ED BOT ESSAY 4194 =====
+---
+title: On Co-Founder Decision-Making
+url: https://edbatista.com/2023/12/on-co-founder-decision-making.html
+slug: on-co-founder-decision-making
+published: 2023-12-10T19:54:29
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+Many of my clients are company founders, and many of them have co-founders. A theme in my work with these clients is the importance of determining how certain decisions should be made. This is an issue that all leaders and executive teams must address, but there are some distinctive aspects of the co-founder relationship that merit special consideration. While this framework is highly reductive, I generally see co-founders relying on the following three methods--and when there's a problem, it's usually because they're relying too heavily on one mode or failing to apply it when it would be useful.
+
+1. Consensus
+
+This is the starting point for co-founders, because all parties had to agree to launch the business in the first place. It's also sometimes the case that in a venture's early stages the co-founders' areas of expertise may overlap substantially, and there may be relatively little hierarchical differentiation, so the other two modes of decision-making are less relevant or inapplicable.
+
+But it's easy for founding teams to get stuck here and rely on consensus for too many decisions well past the point of utility. This is often the result of good intentions--such teams may have a high degree of social cohesion and prioritize inclusivity. And yet cultures like this can have a shadow side--the members may be uncomfortable with conflict, resulting in a lack of candor, or they may have an endless appetite for debate, resulting in circular arguments and paralysis.
+
+The key is recognizing that as the company grows larger and more complex the co-founders' roles and responsibilities will diverge, so members of the team will have differing abilities to weigh in on certain decisions. And yet at the same time some decisions should be made by consensus, even when it would be more expedient to employ an alternative method. This can be codified through formal agreements or mechanisms such as Board seats, but it's not possible to cover every eventuality--there must be a shared willingness to prioritize collective agreement over efficiency when necessary.
+
+2. Functional Expertise
+
+Some co-founders have distinct and clearly defined areas of responsibility to begin with--the possession of complementary skillsets may have been one of the primary reasons for their decision to start a company together. But even when there's a degree of redundancy at first, this tends to diminish over time as individuals focus on particular functions, develop specialized expertise, and "stay in their lanes."
+
+Here, too, co-founders can err in two ways. Some are too rigid about functional boundaries, demanding authority over decisions within their nominal sphere without sufficient regard for cross-functional or downstream implications. And others are insufficiently respectful of such boundaries, constantly questioning their colleagues' judgment and undermining their autonomy.
+
+The arrival of the first non-founder in a designated leadership position tends to have a significant impact here. At later stages of company development this often involves the creation of a C-level role, but even without such a title it's usually the case that this person is being entrusted with a significant scope of responsibilities because of their functional expertise.
+
+This sometimes causes friction between founders who expect to remain actively involved throughout the company and non-founder leaders who expect a degree of independence within their domain. In any case, the solution invariably entails finding the right balance between respect for functional expertise and acknowledgment of cross-functional interdependence.
+
+3. Hierarchical Authority
+
+Even on highly egalitarian founding teams with substantial levels of functional expertise, it's inevitable that some decisions will be made on the basis of hierarchical authority, typically that of the CEO. Contemporary business culture has an uneasy relationship with hierarchy--some parties view it as anathema and propose utopian schemes like holacracy, while others idealize the decisive, command-and-control, autocratic CEO. But in my experience the most successful teams find a middle ground, fostering a healthy respect for hierarchy while ensuring that their leaders rely on it judiciously.
+
+And yet a challenge for many founding teams is that the hierarchical distance separating the co-founders may initially seem minimal or even non-existent. In some cases it was unclear who would be CEO, or more than one member felt qualified to hold the position (and they may still feel that way). Further, as noted above, on many teams the non-CEO co-founders have an equal say in certain decisions by virtue of their ownership positions or other explicit or implicit agreements.
+
+So it can be jarring when a decision must be made and neither consensus nor functional expertise provides a path to resolution. The founder/CEO needs to exert hierarchical authority, and yet there's no guarantee that they have any particular skill in doing so. They may be clumsy and excessively forceful, or they may be hesitant and excessively deferential--whatever the cause, it's quite possible that they'll make missteps and generate frustration.
+
+Here it's essential that all parties recognize both the necessity of hierarchy and the importance of employing it effectively. The CEO needs to learn how to wield authority with skill and grace, cultivating the capacity to influence rather than command. And the other co-founders must come to terms with the limits on their autonomy and learn to truly disagree and commit.
+
+So if you're a co-founder wrestling with these issues, what can you do?
+
+Raise Your Awareness
+
+A first step is raising your collective awareness of your team's norms and preferences around decision-making. Many teams operate on autopilot and are surprised when they stumble into an intractable conflict. You needn't establish cumbersome bureaucratic procedures or give up the freedom to act nimbly. A little time dedicated to identifying the best mode of decision-making before you begin trying to make a given decision can go a long way.
+
+- Work Style Differences
+
+- Group Dynamics: Norms and Emotion
+
+- Rules Aren't Norms (On Better Meeting Hygiene)
+
+- Leadership, Decision-Making and Emotion Management
+
+Enhance Your Skills
+
+Successful team decision-making rests on each member's repertoire of interpersonal skills. These capabilities are eminently learnable, and every leader I've ever encountered had the potential to improve if they were sufficiently motivated to make the effort. Of particular importance on a founding team is the ability to exert influence amidst complex power dynamics.
+
+- Learning How to Learn
+
+- Force Isn't Power
+
+- Power Struggles Among Nice People
+
+- Compliance vs. Commitment (On Behavior Change)
+
+Invest in Your Relationships
+
+Some of the most useful questions I ask clients are, "When did you last see your co-founder/s in person? When did you last have a meal together? When did you last have a conversation about something other than the business?" There's no universal best practice, but it's all too common for co-founders to neglect their personal relationship, even if they were good friends before starting the company. The value of maintaining this connection is a greater sense of trust and the ability to empathize with each other, even (and especially) when you disagree.
+
+- Huddle Up! (Building Group Cohesion)
+
+- Brené Brown, Vulnerability, Empathy and Leadership
+
+- Abilene: Loneliness and Belonging in Organizational Life
+
+ 
+
+Photos: Handshake by Amtec. Lanes by Steven L. Johnson. Salute by U.S. Army Europe.
+
+
+===== END ED BOT ESSAY 4194 =====

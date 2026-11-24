@@ -1,0 +1,336 @@
+===== BEGIN ED BOT ESSAY 3682 =====
+---
+title: Digital Social Grooming
+url: https://edbatista.com/2011/08/digital-social-grooming.html
+slug: digital-social-grooming
+published: 2011-08-29T10:12:01
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+Umair Haque recently complained about "a surplus of...digital social grooming" on networks like Twitter:
+
+I'm not saying don't ever RT stuff, but I see a lack of real microblogging. And a surplus of (to put it politely) digital social grooming.
+
+Haque explained his definition of the term in a subsequent tweet:
+
+By digital social grooming, I mean a) dominance displays b) social climbing c) conciliatory grooming d) social appeasement e) scapegoating.
+
+Seeing social networking as a form of "grooming" isn't new--the brilliant Danah Boyd used the concept to defend Twitter just over two years ago:
+
+I vote that we stop dismissing Twitter just because the majority of people who are joining its ranks are there to be social. We like the fact that humans are social. It’s good for society. And what they’re doing online is fundamentally a mix of social grooming and maintaining peripheral social awareness. They want to know what the people around them are thinking and doing and feeling, even when co-presence isn’t viable. They want to share their state of mind and status so that others who care about them feel connected.
+
+And while I agree with Boyd's basic premise--i.e. social grooming is an innate behavior so of course it's going to find expression within social networks--I also agree with Haque's critique that those networks are devalued when too much content takes the form of ritual displays of grooming behavior.  Some amount of digital social grooming is inevitable and healthy, but in excess it turns our interactions into formulaic protocols, like we're living in a 21st century version of Versailles.
+
+So what can we do about it?  One way to start is to question the various forms of social network etiquette and explore our alternatives.  Here are 3 initial suggestions:
+
+- Fewer exclamation points.  I'm not pointing fingers here--I'm as bad as anyone else when it comes to conveying! how! enthusiastic! I! am! about! this! topic!  But while there's obviously a need to fill in the blanks left by the absence of facial expressions and tone of voice in online interactions, an excess of exclamations quickly turns social network discourse into a sort of shouting match among exhaustingly happy people.  This both cheapens real enthusiasm and joy and makes it harder for other, more somber tones to find expression.
+
+- You don't have to thank me for thanking you.  Given the insane amounts of hate and vitriol spewed across the intertubes daily, an excess of politeness would seem to be the least of our problems.  And yet there's something about the endless round of social network thank-yous (often coupled with exclamation points!) that seems related to Haque's critique.  As with exclamation points, I think too many formulaic expressions of gratitude devalue the real thing.
+
+- A little self-promotion goes a long way.  I have no problem with people using social networks as a complement to their RSS feed by tweeting or sharing their blog posts or other self-referential content.  I follow people on Twitter and Google+ precisely because I'm interested in what they have to say (and because those sites give me more control over what I see and when--I generally ignore Facebook because its forced reciprocity doesn't allow me that control.)  But when you're retweeting the fact that someone has retweeted your tweet announcing your recent post, well, that's when I unfollow you.
+
+All this said, we don't use nearly enough smiley emoticons 🙂
+
+Photo by jinterwas.  Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3682 =====
+===== BEGIN ED BOT ESSAY 3683 =====
+---
+title: Trust Is An Emotion
+url: https://edbatista.com/2011/08/trust-is-an-emotion.html
+slug: trust-is-an-emotion
+published: 2011-08-03T23:17:00
+updated: 2026-01-20T18:32:53
+source_body: wordpress-html
+---
+
+I've written about trust a number of times--most notably in exploring how it helps establish a foundation for experimentation and risk-taking, which in turn support change and growth--but nearly 5 years ago I discussed a formula for trust:
+
+Trust = Motive + Reliability + Competence
+
+In essence this suggests that before we can trust someone we must be assured of their motive, their reliability and their competence. (I first heard this formulation from Clinton Moloney of the Trium Group, but Charles Green substantially expanded my understanding of its origins.)
+
+And while I continue to find this formula useful, in the context of my recent research on the neuroscience of emotions it strikes me as an entirely accurate but somehow insufficient "if-then" statement that implies that trust is the result of logic. But it's clear that we don't arrive at the conclusions that constitute trust through reasoning alone. Our logical assessment of someone's motive, reliability and competence is obviously crucial, but in many (and perhaps most) circumstances we're operating with imperfect data. At a certain point we can reason no further, and the decision to trust someone or not is made on the basis of our emotional response toward that person.
+
+A recent exchange I had with Joel Peterson reinforced the emotional dimension of trust for me. Joel had discussed the importance of trust in a session at an Executive Education program at Stanford, and the group I've been coaching found his remarks highly compelling. I shared their response with him afterwards, and he said:
+
+We tend to be so wrapped up in ourselves, so self-referencing, so insecure that we're driven, above all, to protect a fragile ego. If we can learn to let go, to feel safe, we can learn to trust, to be trustworthy and to move ourselves to better motivations.
+
+The emotional content of Joel's response jumps out at me: Our reluctance to trust is rooted in feelings of insecurity and egotism, and our ability to trust is founded in feelings of safety and acceptance. The specific steps we take to we reach that place where we feel capable of trust is a post for another day, but at the moment I'm finding it helpful simply to highlight this emotional dimension in the hopes that it promotes the idea of "emotional competence" that I've been thinking about recently.
+
+Photo by the U.S. Army.
+
+
+===== END ED BOT ESSAY 3683 =====
+===== BEGIN ED BOT ESSAY 3684 =====
+---
+title: Antonio Damasio on Emotion and Reason
+url: https://edbatista.com/2011/07/antonio-damasio-on-emotion-and-reason.html
+slug: antonio-damasio-on-emotion-and-reason
+published: 2011-07-31T13:40:00
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+PART 1: OVERVIEW
+
+Why do emotions have such a significant impact on our choices and decisions? Aren't we better off relying on logical reasoning? Shouldn't we try to control our emotions and minimize their impact?
+
+Emotions are an important factor in my work as a coach and teacher. At times emotions are the explicit subject of discussion, as in Stanford courses such as Interpersonal Dynamics (aka Touchy Feely), or with clients who are working with me to address sources of frustration or unhappiness in their careers or professional relationships. Even when that's not the case, emotions are always implicit in any issue that a student or client might raise with me, and they readily spring to the surface given the opportunity. (One of the simplest--and most useful--steps I can take as a coach is to say, "It seemed as through you felt a strong emotion just now," and then give the person some space to talk about what they're feeling.)
+
+My work with my clients and students has made it clear to me that emotions play an essential role in helping us decide, both at the micro-level in any given situation and at the macro-level as we chart our course through life. Seeking a deeper understanding of this dynamic led me to the work of Antonio Damasio, a Portuguese neuroscientist who's been based in the US since the mid-1970s, and whose 1994 book Descartes' Error: Emotion, Reason and the Human Brain is a landmark in contemporary neuroscience. (I recommend the 2005 Penguin paperback; all of my quotes from and links to the book refer to that edition.)
+
+Historically the elegant process of logical reasoning has been viewed as a function of our disembodied mind, an activity conducted in a highly evolved part of our brain that exists for this express purpose. It was assumed that the brain structure responsible for reasoning was distinct not only from the body itself but also from the "lower" regions of the brain that govern other aspects of biological function. But all of this, Damasio argues convincingly, is entirely wrong:
+
+I propose that human reason depends on several brain systems, working in concert across many levels of neuronal organization, rather than on a single brain center. Both "high-level" and "low-level" brain regions...cooperate in the making of reason.
+
+The lower levels in the neural edifice of reason are the same ones that regulate the processing of emotions and feelings, along with the body functions necessary for an organism's survival. In turn, these lower levels maintain direct and mutual relationships with virtually every bodily organ, thus placing the body directly within the chain of operations that generate the highest reaches of reasoning, decision making, and, by extension, social behavior and creativity. Emotion, feeling and biological regulation all play a role in human reason. [p xvii]
+
+Note that in Damasio's view emotion and feeling are not in opposition to reason but provide essential support to the reasoning process. The passage above also alludes to Damasio's second topic, the physiological roots of emotional expression:
+
+[T]he essence of a feeling may not be an elusive mental quality attached to an object, but rather the direct perception of a specific landscape: that of the body...
+
+I propose that the critical networks on which feelings rely include not only the traditionally acknowledged collection of brain structures known as the limbic system but also some of the brain's prefrontal cortices, and, most importantly, the brain sectors that map and integrate signals from the body.
+
+I conceptualize the essence of feelings as something you and I can see through a window that opens directly onto a continuously updated image of the structure and state of our body... By and large, a feeling is the momentary "view" of a part of that body landscape. [pp xviii-xix]
+
+Damasio restates these themes concisely later in the book:
+
+The action of biological drives, body states and emotions may be an indispensable foundation for rationality. The lower levels in the neural edifice of reason are the same that regulate the processing of emotions and feelings, along with global functions of the body proper such that the organism can survive. These lower levels maintain direct and mutual relationships with the body proper, thus placing the body within the chain of operations that permit the highest reaches of reason and creativity. Rationality is probably shaped and modulated by body signals, even as it performs the most sublime distinctions and acts accordingly. [p 200]
+
+The research that led Damasio to these conclusions began at the University of Iowa in the 1970s and '80s, where he found himself perplexed by certain victims of accidents, tumors and other sources of brain trauma. In these unusual cases the victim's mental faculties remained generally intact despite their experiences, and yet their lives were falling apart. They performed well on any test measuring their intelligence and critical thinking abilities, and yet outside the lab they made one bad decision after another, or found themselves intellectually paralyzed and unable to make a decision at all.
+
+On the basis of his research into these cases and a series of novel experiments comparing the victims of brain trauma with "normals," Damasio formulated the hypotheses he lays out in Descartes' Error and his research appears to have stood up over the past 17 years. In his 2005 preface he notes that, "today this idea [that emotion assists the reasoning process] does not cause any raised eyebrows..."
+
+However, while this idea may not raise any eyebrows today among neuroscientists, I believe it's still a surprise to the general public. We're trained to regard emotions as irrational impulses that are likely to lead us astray. When we describe someone as "emotional," it's usually a criticism that suggests that they lack good judgment. And the most logical and intelligent figures in popular culture are those who exert the greatest control over their emotions--or who seem to feel no emotions at all.
+
+Damasio's title refers to the separation of mind and body implied in Rene Descartes' assertion, "I think therefore I am," first articulated in Discourse on the Method (1637). Descartes elaborated on this concept in Principles of Philosophy (1644), in a passage quoted by Damasio:
+
+[T]his "me," that is to say, the soul by which I am what I am, is entirely distinct from body...and even if body were not, the soul would not cease to be what it is. [p 249]
+
+Damasio writes in response:
+
+This is Descartes' error: the abyssal separation between body and mind...the suggestion that reasoning, and moral judgment, and the suffering that comes from physical pain or emotional upheaval might exist separately from the body. Specifically: the separation of the most refined operations of mind from the structure and operation of a biological organism. [pp 249-50]
+
+This concept of "Cartesian dualism" has had a profound effect on the Western worldview. One of its implications is that we tend to see emotion and reason not only as distinct spheres but also as forces working in opposition to each other. Further, we prize the reasoning that occurs in our disembodied minds while we often view our emotions and their many physiological manifestations as less important. Damasio writes:
+
+[W]e usually conceive of emotion as a supernumerary mental faculty, an unsolicited nature-ordained accompaniment to our rational thinking. If emotion is pleasant, we enjoy it as a luxury; if it is painful, we suffer it as an unwelcome intrusion. In either case, the sage will advise us, we should experience emotion and feeling in only judicious amounts. We should be reasonable.
+
+There is much wisdom in this widely held belief, and I will not deny that uncontrolled or misdirected emotion can be a major source of irrational behavior. Nor will I deny that seemingly normal reason can be disturbed by subtle biases rooted in emotion... Nonetheless, what the traditional account leaves out is [this]... Reduction in emotion may constitute an equally important source of irrational behavior. [emphasis original, pp 52-53]
+
+The implications for the victims of brain trauma in the cases studied by Damasio are clear; physical damage to their brains resulted in a significant reduction in their ability to experience emotion, which profoundly diminished their capacity to reason and make decisions. The implications for the rest of us are not nearly as straightforward, but I suspect that the ability to experience our emotions more vividly and more rapidly allows us to make more effective use of them in the reasoning process.
+
+And while emotions can certainly lead us astray, when they do it's not the inevitable by-product of their fundamental unreliability or irrationality, but a specific, localized error. In certain situations of course we need to manage a given emotional response in order to minimize its counterproductive impact. But that approach should be taken on a case-by-case basis, not as a general principle. In this regard Damasio's research bolsters my empirical experience as a coach and leads me to conclude that dampening our emotional responses and distancing ourselves from them as a rule can only undermine the quality of our decision-making and result in worse choices.
+
+In addition, Damasio's description of the physiological roots of emotions suggests that our ability to be in touch with our feelings bears some relation to our ability to, quite literally, feel. I suspect that being in touch with ourselves physically allows us to be in touch with ourselves emotionally. Some anecdotal but quite vivid evidence of this is the common experience I've had of working with people who were momentarily unable to describe their emotions. I would ask them to scan their bodies and conduct a mental inventory of what they literally "felt," both inside and out, and invariably the acknowledgment of physical "feelings" make it possible for the person to access and discuss their emotions.
+
+PART 2: UNDERLYING QUESTIONS
+
+Where do emotions come from?
+
+Emotions are evoked by perceived or imagined stimuli that generate a wide range of physiological responses--body states, as Damasio calls them--that in turn generate sets of mental images associated with those body states. For example, if you're walking in the woods and come across a bear, your perception of the bear's large bulk, possibly moving quickly toward you, will result in a series of physiological changes. Your pulse and respiration will quicken, your blood pressure will rise, your pupils will dilate, and adrenaline and other neurotransmitters will be released. Your brain senses these physiological responses, generates a host of mental images associated with this collective body state, and you experience the feeling you know as "fear." Note the sequence--the unconscious physiological responses precede the conscious awareness of the feeling.
+
+Damasio makes an important distinction between primary or early emotions, which are innate or "hard-wired" (and are thus essentially universal) and secondary or adult emotions, which derive from experience and acquired knowledge (and are thus highly individualized.) Encountering a bear in the woods and feeling fear is an example of a primary emotion. While Damasio points out that that we're probably not born with an innate "bear fear" per se, we are "wired to respond with an emotion, in preorganized fashion, when certain features of stimuli in the world or in our bodies are perceived," [p 131] and evolution has likely hard-wired us to fear large, fast-moving predators encountered in a dark space. We don't need to learn to fear the bear; we come with that emotional response "pre-programmed."
+
+But we do learn the much more complex responses that Damasio calls secondary emotions. These responses are based on our experiences, particularly in childhood and adolescence, although the process of developing secondary emotions continues throughout our entire lives. We learn these emotions as we associate certain stimuli with positive or negative outcomes, although it's obvious that the process of making these associations is by no means foolproof. (We're particularly prone to biases rooted in statistical errors.)
+
+As a devoted reader of William James, I find it noteworthy that Damasio's concept of primary emotions derives directly from James' work in the 19th century, and his concept of secondary emotions addresses a crucial shortcoming in James' theory. Damasio writes, "...I believe William James seized upon the mechanism essential to the understanding of emotion and feeling. Unfortunately, and uncharacteristically for him, the rest of his proposal [falls short]..." [p 129] James, Damasio continues, "gave little or no weight to the process of evaluating mentally the situation that causes the emotion. His account works well for the first emotions one experiences in life, but it does not do justice to" the much more complex emotions we experience subsequently. [p 130]
+
+What purpose do emotions serve?
+
+Emotions evolved to support our survival. The primary (or innate) emotions can be seen as a complex form of biological regulation, an extension of the instinctive drives and impulses that support survival at an even more fundamental level. But while those deeper forms of biological regulation operate automatically and typically beyond our conscious control, emotions allow us to make choices about how we'll express them and what we'll do in response.
+
+What is reasoning?
+
+Reasoning is the judicious consideration of a set of alternatives, the imagination of a series of possible outcomes, and the application of logic to determine which alternative will yield the best possible outcome. If we view these behaviors along a spectrum, from biological drives to primary emotions to secondary emotions to reasoning, we can see a decrease in automatic processing and an increase in conscious choice.
+
+What role does emotion play in reasoning?
+
+Reasoning is an extremely taxing mental activity, consuming vast amounts of such finite resources as our attention and working memory. Even when we have these resources in abundance, reason is extremely time-consuming. The process described above of identifying alternatives, imagining outcomes, and determining which alternative is most likely to yield the best outcome can readily take more time than we have available to make even the simplest of decisions. And when we're under stress or when the stakes are high, the amounts of attention and working memory at our disposal may decrease, making it even more difficult to reach a decision.
+
+Emotions serve as an automatic biasing mechanism that can have a substantial effect on the reasoning process--usually, but not always, helping us make better decisions more quickly. Secondary emotions involve a learned set of associations between the mental images evoked by certain stimuli and a corresponding set of positive or negative outcomes. When we experience a given set of mental images and the physiological responses that comprise the emotion that we associate with those images, we "mark" the images in such a way that subsequent exposure to the same or similar images leads us to expect that a similar outcome is likely. So emotions are a form of prediction, telling us what positive or negative outcomes are likely to result from certain alternatives.
+
+Obviously this form of prediction isn't perfectly accurate, but it need not be to serve a useful purpose. Emotions play a critical role in the reasoning process simply by allowing us to rule out many alternatives that would likely lead to a negative outcome and to focus on those that would likely lead to a positive outcome. With the range of theoretical alternatives reduced, we can employ our resource-intensive reasoning strategies on a much smaller set of options, thereby saving a tremendous amount of time.
+
+Emotions also enhance our finite capacities of attention and working memory by heightening our perception and recollection of particularly good or bad options, rendering them more vivid and easier to recall in the mind.
+
+Emotions can obviously mislead us and undermine the reasoning process, but that's likely due to defects in our individual experience of developing secondary emotions, the process by which we create associations between certain stimuli and positive or negative outcomes. This process continues throughout our lives, but our experiences in childhood and adolescence are key in forming our secondary emotions. It is likely that when our emotions interfere with reasoning rather than support it, this is due to inaccurate or irrational associations made during our formative years.
+
+PART 3: CONCLUSION
+
+My reading of Descartes' Error leaves me more convinced than ever of the important role emotions play in helping us make good choices, in circumstances ranging from fleeting interactions to the most momentous life decisions. This is not to say that our emotions are always "right" or that we should mindlessly follow their lead. As Damasio writes,
+
+Knowing about the relevance of feelings in the processes of reason does not suggest that reason is less important than feelings, that it should take a backseat to them or that it should be less cultivated. On the contrary, taking stock of the pervasive role of feelings may give us a chance of enhancing their positive effects and reducing their potential harm. [p 246]
+
+But that said, it's clear to me that the ability to access, interpret, and act upon our emotions is essential if we are to make good choices that will allow us to be more fulfilled and effective. And I suspect the process of exploring our emotions more fully will allow us to better understand, compensate for and correct those times when inaccurate or irrational emotions lead us off course.
+
+My sense of the importance of the body has also been greatly reinforced by Damasio's work. While personal experiences long ago led me to reject traditional mind/body dualism and to recognize the interplay between the two, I failed to appreciate the depth and the complexity of the relationships that unify our mental and physiological systems into a single, organic whole. I suspect that a heightened sense of body awareness and a greater sense of closeness with our physical selves can play an important role in the process of getting in touch with our emotions, and can thereby support our ability to make good choices.
+
+Finally, I'm struck by the importance of attention (a concept that keeps reoccurring in my life, albeit in wildly different contexts). As Damasio notes, attention is a crucial element in the reasoning process, not only in the form of our ability to focus on something, but also in the corresponding ability to tune out everything else. As I wrote two years ago in a discussion of David Rock's work on neuroscience, coaching and leadership, "the ability to stop or minimize active conscious thinking and 'quiet our minds' is an important problem-solving skill." My experience with meditation over the past few months has reinforced my sense that our capacity for attention is highly dynamic and can be increased through conscious effort, just as we can enhance our ability to access and experience our emotions.
+
+While I encourage you to read Descartes' Error in full, in the section below I've included several excerpts from the book that discuss his hypotheses and the underlying neurological and physiological processes that they're based on in greater detail.
+
+PART 4: EXCERPTS
+
+Brain Systems and Function
+
+In order to help us understand his hypotheses, Damasio takes us through an extensive discussion of brain systems and their function in Part I of Descartes' Error, which yields the following conclusions:
+
+In short, there appears to be a collection of systems in the human brain consistently dedicated to the goal-oriented thinking process we call reasoning, and to the response selection we call decision making, with a special emphasis on the personal and social domains. This same collection of systems is also involved in emotion and feeling, and is partly dedicated to processing body signals... [p 70]
+
+[W]e can now itemize a few facts about the roles of the neural systems we have identified.
+
+First, these systems are certainly involved in the processes of reason in the broad sense of the term. Specifically, they are involved in planning and deciding.
+
+Second, a subset of these systems is associated with planning and deciding behaviors that one might subsume under the rubric "personal and social." There is a hint that these systems are related to the aspect of reasoning usually designated as rationality. [Damasio defines rationality as "the quality of thought and behavior that comes from adapting reason to a personal and social context."]
+
+Third, the systems we have identified play an important role in the processing of emotions.
+
+Fourth, the systems are needed to hold in mind, over an extended period of time, the image of a relevant but no longer present object. [pp 78-79]
+
+These facts form the basis of Damasio's "somatic marker hypothesis," which, he takes pains to stress, is merely a theory and far from proven. That said, the process by which he employs these facts to reach this hypothesis is compelling.
+
+Emotions and Feelings
+
+Part II of Descartes' Error is dedicated to assembling his theory on the basis of the conclusions above. Damasio begins by noting that functions of biological regulation that do not require conscious awareness, such as breathing or digestion, "take place continuously in evolutionarily old brain structures." However, he notes, "when social organisms are confronted by complex situations and are asked to decide in the face of uncertainty, they must engage systems in the neocortex, the evolutionarily modern sector of the brain." [p 127] He continues:
+
+So blatant is the discrepancy between the processing capacity of "low and old" and "high and new" brain structures that it has fostered an implicit and seemingly sensible view on the respective responsibilities of those brain sectors. In simple terms: The old brain core handles basic biological regulation down in the basement, while up above the neocortex deliberates with wisdom and subtlety. Upstairs in the cortex there is reason and willpower, while downstairs in the subcortex there is emotion and all that weak, fleshy stuff.
+
+The view, however, does not capture the neural arrangement that underlies rational decision-making as I see it... Nature appears to have built the apparatus of rationality not just on top of the apparatus of biological regulation, but also from it and with it. The mechanisms for behavior beyond drives and instincts use, I believe, both the upstairs and the downstairs: The neocortex becomes engaged along with the older brain core, and rationality results from their concerted activity. [emphasis original, p 128]
+
+Damasio then turns to a discussion of emotion and feeling, suggesting "that they provide the bridge between rational and nonrational processes, between cortical and subcortical [brain] structures." [p 128] As noted above, he makes an important distinction between what he calls primary or early emotions, which are innate or "hard-wired" (and are thus essentially universal) and secondary or adult emotions, which derive from experience and acquired knowledge (and are thus highly individualized.) Primary emotions are associated in the brain with the limbic system, and it has become commonplace in popular conceptions of neuroscience to view the limbic system structures as the source of our emotions. However, as Damasio notes,
+
+[T]he mechanism of primary emotions does not describe the full range of emotional behaviors. They are, to be sure, the basic mechanism. However, I believe that in terms of an individual's development they are followed by mechanisms of secondary emotions, which occur once we begin experiencing feelings and forming systematic connections between categories of objects and situations, on the one hand, and primary emotions, on the other. Structures in the limbic system are not sufficient to support the process of secondary emotions. The network must be broadened, and it requires the agency of prefrontal and somatosensory cortices [structures in the brain's neocortex]. [emphasis original, p 134]
+
+The distinction between primary and secondary emotions as well as the involvement of the neocortex in the secondary emotions are key factors in Damasio's theory. At this point it's worth noting that the terms "emotion" and "feeling" are not interchangeable for Damasio:
+
+As body changes [in response to mental images] take place, you get to know about their existence, and you can monitor their continuous evolution... That process of continuous monitoring, that experience of what your body is doing while thoughts about specific contents roll by, is the essence of what I call a feeling. If an emotion is a collection of changes in body state connected to particular mental images that have activated a specific brain system, the essence of feeling an emotion is the experience of such changes in juxtaposition to the mental images that initiated the cycle. In other words, a feeling depends on the juxtaposition of an image of the body proper to an image of something else, such as the visual image of a face or the auditory image of a melody. [emphasis original, p 145]
+
+"High Reason"
+
+When faced with a choice, how do we ultimately make that choice? "There are," Damasio suggests, "at least two distinct possibilities: the first is drawn from a traditional 'high-reason' view of decision making; the second from the 'somatic marker hypothesis'..."
+
+The "high-reason" view, which is none other than the common-sense view, assumes that when we are at our decision-making best, we are the pride and joy of Plato, Descartes and Kant. Formal logic will, by itself, get us to the best available solution for any problem. An important aspect of the rationalist conception is that to obtain the best results, emotions must be kept out. Rational processing must be unencumbered by passion.
+
+Basically, in the high-reason view, you take the different scenarios apart and to use current managerial parlance you perform a cost/benefit analysis of each of them. Keeping in mind "subjective expected utility," which is the thing you want to maximize, you infer logically what is good and what is bad. For instance, you consider the consequences of each option at different points in the projected future and weigh the ensuing losses and gains... You are, in fact, faced with a complex calculation, set at diverse imaginary epochs, and burdened with the need to compare results of a different nature which somehow must be translated into a common currency for the comparison to make any sense at all. A substantial part of this calculation will depend on the continued generation of yet more imaginary scenarios, built on visual and auditory patterns, among others, and also on the continued generation of verbal narratives which accompany those scenarios, and which are essential to keep the process of logical inference going.
+
+Now, let me submit that if this strategy is the only one you have available, rationality, as described above, is not going to work. At best, your decision will take an inordinately long time, far more than acceptable if you are going to get anything else done that day. At worst, you may not even end up with a decision at all because you will get lost in the byways of your calculation. Why? Because it will not be easy to hold in memory the many ledgers of losses and gains that you need to consult for your comparisons... Attention and working memory have a limited capacity... [pp 171-172]
+
+The Somatic Marker Hypothesis
+
+"Nonetheless," Damasio continues," our brains can often decide well, in seconds, or minutes, depending on the time frame we set as appropriate for the goal we want to achieve, and if they can do so, they must do the marvelous job with more than just pure reason." [pp 172-173] Here we reach the heart of Damasio's argument in Descartes' Error:
+
+The key components unfold in our minds instantly, sketchily, and virtually simultaneously, too fast for the details to be clearly defined. But now, imagine that before you apply any kind of cost/benefit analysis to the premises, and before you reason toward the solution of the problem, something quite important happens: When the bad outcome connected with a given response option comes into mind, however fleetingly, you experience an unpleasant gut feeling. Because the feeling is about the body, I gave the phenomenon the technical term somatic state ("soma" is Greek for body); and because it "marks" an image, I called it a marker. Note again that I use somatic in the most general sense (that which pertains to the body) and I include both visceral and nonvisceral sensation when I refer to somatic markers.
+
+What does the somatic marker achieve? It forces attention on the negative outcome to which a given function may lead, and functions as an automated alarm signal which says: Beware of danger ahead if you choose the option which leads to this outcome. The signal may lead you to reject, immediately, the negative course of action and thus make you choose among other alternatives. The automated signal protects you against future losses, without further ado, and then allows you to choose from among fewer alternatives. There is still room for using a cost/benefit analysis and proper deductive competence, but only after the automated step drastically reduces the number of options. Somatic markers may not be sufficient for normal human decision-making since a subsequent process of reasoning and final selection will still take place in many though not all instances. Somatic markers will probably increase the accuracy and efficiency of the decision process. Their absence reduces them. This distinction is important and easily missed. The hypothesis does not concern the reasoning steps which follow the action of the somatic marker. In short, somatic markers are a special instance of feelings generated from secondary emotions. Those emotions and feelings have been connected, by learning, to predicted future outcomes of certain scenarios. When a negative somatic marker is juxtaposed to a particular future outcome the combination functions as an alarm bell. When a positive somatic marker is juxtaposed instead, it becomes a beacon of incentive...
+
+Somatic markers do not deliberate for us. They assist the deliberation by highlighting some options and eliminating them rapidly from subsequent consideration... Think of it as a biasing device...
+
+The somatic marker account is thus compatible with the notion that effective personal and social behavior requires individuals to form adequate "theories" of their own minds and of the minds of others. On the basis of those theories we can predict what theories others are forming about our own mind. The detail and accuracy of such predictions is, of course, essential as we approach a critical decision in a social situation. Again, the number of scenarios under scrutiny is immense, and my idea is that the somatic markers (or something like them) assist the process of sifting through such a wealth of detail--in effect, reduce the need for sifting because they provide an automated detection of the scenario components which are more likely to be relevant. The partnership between so-called cognitive processes and processes usually called "emotional" should be apparent. [emphasis original, pp 173-175]
+
+Origins of Somatic Markers
+
+Now that we have some idea of how somatic markers function and the role they play in decision-making, Damasio explores their origins:
+
+How have we come to possess such helpful devices? Were we born with them? If not, how did they arise?
+
+[W]e were born with the neural machinery required to generate somatic states in response to certain classes of stimuli, the machinery of primary emotions. Such machinery is inherently biased to process signals concerning personal and social behavior, and it incorporates at the outset dispositions to pair a large number of social situations with adaptive somatic responses... Nonetheless, most somatic markers we use for rational decision-making probably were created in our brains during the process of education and socialization, by connecting specific classes of stimuli with specific classes of somatic state. In other words, they are based on the process of secondary emotions...
+
+Somatic markers are thus acquired by experience, under the control of an internal preference system and under the influence of an external set of circumstances which include not only entities and events with which the organism must interact, but also social conventions and ethical rules.
+
+The neural basis for the internal preference system consists of mostly innate regulatory dispositions, posed to ensure survival of the organism. Achieving survival concides with the ultimate reduction of unpleasant body states and the attaining of homeostatic ones, i.e. functionally balanced biological states. The internal preference system is inherently biased to avoid pain, seek potential pleasure, and is probably pretuned for achieving these goals in social situations...
+
+The critical, formative set of stimuli to somatic pairings is, no doubt, acquired in childhood and adolescence. But the accrual of somatically marked stimuli ceases only when life ceases, and this it is appropriate to describe that accrual as a process of continuous learning. [emphasis mine, pp 177-179]
+
+Intuition
+
+Note that not all somatic markers are consciously perceived as the "gut feeling" described in the passage above. Damasio writes:
+
+Acting at a conscious level, somatic states...would mark outcomes of responses as positive or negative and thus lead to deliberate avoidance or pursuit of a given response option. But they may also operate covertly, that is, outside consciousness. The explicit imagery related to a negative outcome would be generated, but instead of producing a perceptible body-state change, it would inhibit the regulatory neural circuits located in the brain core, which mediate appetitive, or approach behaviors. With the inhibition of the tendency to act, or actual enhancement of the tendency to withdraw, the chances of a potentially negative decision would be reduced. In the very least, there would be a gain of time, during which conscious deliberation might increase the probability of making an appropriate (if not the most appropriate) decision. Moreover, a negative option might be voided altogether, or a highly positive one made more likely by enhancement of the impulse to act. This covert mechanism would be the source of what we call intuition, the mysterious mechanism by which we arrive at the solution of a problem without reasoning toward it. [pp 187-188]
+
+Creativity and Problem-Solving
+
+Damasio also believes that somatic markers can play a role in generating ideas and abstract problem-solving:
+
+It is plausible that a system geared to produce markers and signposts to guide "personal" and "social" responses would have been co-opted to assist with "other" decision making... Naturally, somatic markers would not need to be perceived as "feelings." But they would still act covertly to highlight, in the form of an attentional mechanism, certain components over others, and to control, in effect, the go, stop and turn signals necessary for some aspects of decision making and planning in nonpersonal, nonsocial domains... The underlying physiology might be the same: body-based signaling, conscious or not, on the basis of which attention can be focused.
+
+From an evolutionary perspective, the oldest decision-making device pertains to basic biological regulation; the next, to the personal and social realm; and the most recent, to a collection of abstract-symbolic operations under which we can find artistic and scientific reasoning, utilitarian-engineering reasoning, and the developments of language and mathematics. But although ages of evolution and dedicated neural systems may confer some independence to each of these reasoning/decision-making "modules," I suspect they are all interdependent. When we witness signs of creativity in contemporary humans, we are probably witnessing the integrated operation of sundry combinations of these devices. [pp 190-191]
+
+Limitations of Emotion
+
+Damasio's emphasis on the valuable role played by emotions in the reasoning process by no means blinds him to their potentially counterproductive impact:
+
+Although I believe a body-based mechanism is needed to assist "cool" reason, it is also true that some of those body-based signals can impair the quality of reasoning ...I see some failures of rationality as not just due to primary calculation weakness, but also due to the influence of biological drives such as obedience, conformity, the desire to preserve self-esteem, which are often manifest as emotions and feelings...
+
+But while biological drives and emotion may give rise to irrationality in some circumstances, they are indispensable in others. Biological drives and the automated somatic-marker mechanism that relies on them are essential for some rational behaviors, especially in the personal and social domains, although they can be pernicious to rational decision-making in certain circumstances by creating an overriding bias against objective facts or even by interfering with support mechanisms of decision making such as working memory. [pp 191-192]
+
+Function of Somatic Markers
+
+Just how do we employ somatic markers? How do they actively shape the reasoning process?
+
+What else happens when somatic markers, overtly or covertly, do their biasing job? What happens in the brain so that the images over which you reason are sustained over the necessary time intervals?... What dominates the mind landscape once you are faced with a decision is the rich, broad display of knowledge about the situation that is being generated by its consideration. Images corresponding to myriad options for action and myriad possible outcomes are activated and keep being brought into focus. The language counterpart of those entities and scenes, the words and sentences that narrate what your mind sees and hears, is there too, vying for the spotlight. This process is based on a continuous creation of combinations of entities and events, resulting in a richly diverse juxtaposition of images which accords with previously categorized knowledge...
+
+This process of knowledge display is possible only if two conditions are met. First, one must be able to draw on mechanisms of basic attention, which permit the maintenance of a mental image in consciousness to the relative exclusion of others. In neural terms, this probably depends on enhancement of the neural activity pattern that sustains a given image, while other neural activity around it is depressed. Second, one must have a mechanism of basic working memory, which holds separate images for a relatively "extended" period of hundreds to thousands of milliseconds (from tenths of a second to consecutive seconds)... There is, of course, an important question to be asked at this point: what drives basic attention and working memory? The answer can only be basic value, the collection of basic preferences inherent in biological regulation.
+
+...I propose that a somatic state, negative or positive, caused by the appearance of a given representation, operates not only as a marker for the value of what is represented, but also as a booster for continued working memory and attention. The proceedings are "energized" by signs that the process is actually being evaluated, positively or negatively, in terms of the individual's preferences and goals. The allocation and maintenance of attention and working memory do not happen by miracle. They are first motivated by preferences inherent in the organism, and then by preferences and goals acquired on the basis of the inherent ones.
+
+...In other words, in normal [i.e. non-brain-damaged] individuals, somatic markers which arise out of activating a particular contingency boost attention and working memory throughout the cognitive system. [pp 196-198]
+
+Summary
+
+Damasio closes Descartes' Error with a concise summary of his thesis:
+
+At the beginning of this book I suggested that feelings are a powerful influence on reason, that the brain systems required by the former are enmeshed in those needed by the latter, and that such specific systems are interwoven with those which regulate the body.
+
+The facts I have presented generally support those hypotheses... Feelings do seem to depend on a dedicated multi-component system that is indissociable from biological regulation. Reason does seem to depend on specific brain systems, some of which happen to process feelings. Thus there may be a connecting trail, in anatomical and functional terms, from reason to feelings to body. It is as if we are possessed by a passion for reason, a drive that originates in the brain core, permeates other levels of the nervous system, and emerges as either feelings or nonconscious biases to guide decision making...
+
+Knowing about the relevance of feelings in the processes of reason does not suggest that reason is less important than feelings, that it should take a backseat to them or that it should be less cultivated. On the contrary, taking stock of the pervasive role of feelings may give us a chance of enhancing their positive effects and reducing their potential harm. Specifically, without diminishing the orienting value of normal feelings, one would want to protect reason from the weakness that abnormal feelings or the manipulation of normal feelings can introduce in the process of planning and deciding...
+
+[T]he mention of feelings often conjures up an image of self-oriented concern, of disregard for the world around, and of tolerance for relaxed standards of intellectual performance. That is, in effect, the very opposite of my view...
+
+The idea of the human organism outlined in this book, and the relation between feelings and reason that emerges from the findings discussed here, do suggest, however, that the strengthening of rationality probably requires that greater consideration be given to the vulnerability of the world within. [pp 245-247]
+
+
+===== END ED BOT ESSAY 3684 =====
+===== BEGIN ED BOT ESSAY 3685 =====
+---
+title: Boundaries, Not Balance
+url: https://edbatista.com/2011/07/boundaries-not-balance.html
+slug: boundaries-not-balance
+published: 2011-07-31T00:00:30
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+The theme of boundaries comes up often in my work--and my own life. [1] So I'm often reminded of some wisdom from my long-ago colleague Michael Gilbert that's had a big influence on me:
+
+In regard to this exploration of "work-life balance," what's clear in our discussion is that we have been using the word "balance" when what we really seem to mean is "boundaries." Boundaries keep things in their place. Balance suggests the same amount of two things on either side of a scale. Boundaries keep one of those things from oozing past the edge of its platter and taking over the other side...
+
+Boundaries and integration go together. Maybe it's just the biologist in me, but it seems that good boundaries are what make integration work. Just as functional membranes (letting the right things through and keeping the wrong things out) facilitate the healthy interaction of the cells of our bodies, so do functional personal boundaries facilitate the healthy interaction of the various parts of our lives. Bad boundaries lead to either being overwhelmed or withdrawal. Good boundaries lead to wholeness and synergy. [2]
+
+This concept is central to my approach to coaching. [3] And it also plays a key role in my approach to life. I don't live a "balanced" life--and I don't want a balanced life. I love my work as a coach--it's immensely fulfilling, and almost all-consuming, and that's just fine with me. I don't need a host of other activities to balance the amount of time and energy that I dedicate to my profession.
+
+But I do need clear and firm boundaries that allow me to "let the right things through and keep the wrong things out" when that's most important to me.  So what do these boundaries look like in practice? One example is the ability to block out time on my daily calendar to go to the gym or go for a run. What matters to me most isn't the balance that comes from working out (although that's a meaningful by-product), but the boundary that's established when I commit that time to one purpose and prohibit others from encroaching.
+
+Many of clients and students share this mindset--they're passionate about their work, and they're never going to live balanced lives, and that's usually just fine with them as well. But things won't be fine if they're unable to establish, manage and maintain the boundaries that allow them to live lives of "wholeness and synergy," as Michael would say.
+
+ 
+
+Footnotes
+
+[1] T-Groups, Balance and Boundaries
+
+[2] Good Fences (Michael Gilbert, 2008)
+
+[3] Happiness, Excellence and Boundaries, Part 3
+
+ 
+
+Updated September 2022.
+
+Photo by David Ludwig.
+
+
+===== END ED BOT ESSAY 3685 =====

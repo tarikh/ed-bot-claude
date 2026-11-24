@@ -1,0 +1,460 @@
+===== BEGIN ED BOT ESSAY 4167 =====
+---
+title: The Siren Call of Constant Data
+url: https://edbatista.com/2022/09/the-siren-call-of-constant-data.html
+slug: the-siren-call-of-constant-data
+published: 2022-09-16T04:00:00
+updated: 2025-10-05T16:53:07
+source_body: wordpress-html
+---
+
+The Sirens, those creatures who spellbind any man alive... Race straight past that coast! Soften some beeswax and stop your shipmates' ears so none can hear, none of the crew, but if you are bent on hearing, have them tie you hand and foot in the swift ship, erect at the mast-block, lashed by ropes to the mast so you can hear the Sirens' song to your heart's content. [1]
+
+Homer's Odysseus adopted this solution to allow him to hear the Sirens' "thrilling song" and "honeyed voices" without being lured to his death--but it's probably not practical for the temptations you face. You're not being tempted by mythical creatures (I hope), but if you're like my clients you are tempted by the unceasing flow of constant data.
+
+The email piling up in your Inbox is just a start, of course. Synchronous chat apps and their countless channels allow you to connect with anyone in your organization immediately. Round-the-clock social media streams connect you with vast numbers of people in the world beyond your organization, often blurring the boundary between personal and professional life in the process. And commerce platforms allow you to see financial figures updated every second. There are undoubtedly other forms of data specific to your company or industry that are now conveniently available to you at all times, in all places.
+
+Sometimes keeping up feels like an onerous duty, but just as often you feel a sense of eager curiosity. No one's forcing you to be online, but you can't resist the temptation. And when you are offline you feel the absence of the data flow: Something's always happening somewhere, if not in your company than in the markets or the social media universe, and you want the latest information. If you feel the need to connect with someone, you don't want to wait. Or if someone's trying to connect with you, you want to be able to respond immediately.
+
+There are many reasons to appreciate these tools, and my clients derive tremendous value from them--but many of my clients also experience counter-productive side effects from their use. The feeling of absence becomes intolerable anxiety. The temptation to be online at all times becomes an irresistible compulsion. And the ability to be present with family and friends and participate in real-world activities unrelated to the business suffers.
+
+So what can you do? There are some tactical steps that can help:
+
+- Unsubscribe. Perhaps you needed be on every channel at one time--but that time is probably over.
+
+- Block. A number of tools can temporarily block access to designated apps and services. [2]
+
+- Delete. You can take blocking a step further by deleting apps entirely. (If this sounds daunting, that's a reason to try it.)
+
+But the ability to successfully employ these tactics ultimately relies on your capacity for emotion regulation and attention management. If you can't manage the feelings of anxiety and compulsion that arise when you're offline, you'll resubscribe, unblock and reinstall everything as soon as you get the opportunity. And if you can't redirect your attention away from the stream of data and toward something else--a meal, a sunset, a loved one--you'll remain in a constant state of distraction. There's no permanent technological solution to this fundamentally psychological problem.
+
+So what can you really do?
+
+First, note that emotion regulation doesn't mean suppression. Suppressing your anxiety and compulsion essentially involves pretending that you're not having these feelings. You can do this for brief periods of time, but not for long, and research suggests that the effort may be counter-productive. [3] Instead, emotion regulation starts with improving your ability to sense and identify these feelings--getting closer to them, not distancing yourself from them.
+
+Emotions such as anxiety and compulsion are physiological events before they register in consciousness, so attune yourself to the manifestations of these feelings in your body. What does it feel like (literally) to be anxious or compelled? Also, expand your emotional vocabulary so you can label your feelings more accurately. I'm using "anxiety" and "compulsion" here, but perhaps different feeling-words better describe your own emotional state. [4] And note that your capacity for emotion regulation will be enhanced by some form of mindfulness practice [5], consistent sleep [6] and regular physical activity. [7]
+
+The same practices that support emotion regulation will also improve your capacity for attention management, in part because of the close relationship between emotion and attention. We can even think of emotions as "attention magnets"--one of their primary functions is to interrupt deliberate thoughts and orient us toward potential opportunities and threats. [8] The challenge is that the elegant neural apparatus that we began to evolve two million years ago must now operate in a radically different environment--a world that has been meticulously engineered to hijack our attention by stoking our emotions, a world in which we must actively resist the siren call of constant data. [9]
+
+ 
+
+Footnotes
+
+[1] The Odyssey, pages 272-273 (Homer, translated by Robert Fagles, 1999)
+
+[2] Here are some examples of temporary blocking tools:
+
+- LessPhone aka NoPhone (Android)
+
+- Opal
+
+- Zario
+
+[3] For more on the impact of suppressing emotions:
+
+- Emotion regulation: Affective, cognitive and social consequences (James Gross, Psychophysiology, 2002)
+
+- Consequences of Repression of Emotion: Physical Health, Mental Health and General Well Being (Jainish Patel and Prittesh Patel, International Journal of Psychotherapy Practice and Research, 2019)
+
+[4] Vocabulary of Emotions
+
+[5] For more on mindfulness:
+
+- Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+- Arriving at Your Own Door: 108 Lessons in Mindfulness (Jon Kabat-Zinn, 2007)
+
+- Meditation Techniques for People Who Hate Meditation (Stephanie Vozza, Fast Company, 2014)
+
+- 26 Scientifically Proven Superhuman Benefits of Meditation (Jon Brooks, ComfortPit, 2014)
+
+- This is what eight weeks of mindfulness training does to your brain (Christian Jarrett, BPS Research Digest, 2016)
+
+- Eight weeks to a better brain (Sue McGreevy, The Harvard Gazette, 2011)
+
+- Changing Our Brains, Changing Ourselves (an interview with Richard Davidson)
+
+[6] For more on sleep:
+
+- Great Leaders Sleep Well--Why Rest Is Critical for Success (Ronnie Hendel-Giller, 2018)
+
+- There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm, Harvard Business Review, 2016)
+
+- You Can't Do Your Job if You Don't Sleep (Tony Schwartz, Harvard Business Review, 2012)
+
+- Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes, Harvard Business Review, 2016)
+
+- Senior Leaders Get More Sleep Than Anyone Else (Rasmus Hougaard & Jacqueline Carter, Harvard Business Review, 2018)
+
+- The Science of Sleep: Dreaming, Depression and How REM Sleep Regulates Negative Emotions (Maria Popova, The Marginalian, 2012)
+
+[7] For more on physical activity:
+
+- Get Moving! (Exercise for Busy People)
+
+- Walking lifts your mood, even when you don't expect it to (Christian Jarrett, BPS Research Digest, 2016)
+
+- The First 20 Minutes: Surprising Science Reveals How We Can Exercise Better, Train Smarter, Live Longer (Gretchen Reynolds)
+
+- Need A Self-Control Boost? Get Outside (Jessica Stillman, Inc., 2014)
+
+[8] Why You Can't Stop Thinking About Something
+
+[9] A Better Information Diet
+
+For Further Reading
+
+The Tyranny of Feelings
+
+Talking About Feelings
+
+White Bears and Car Crashes (Thinking About Thinking)
+
+Image: Ulysses and the Sirens (detail) by John William Waterhouse, 1891.
+
+
+===== END ED BOT ESSAY 4167 =====
+===== BEGIN ED BOT ESSAY 4168 =====
+---
+title: Group Dynamics: The Leader's Toolkit
+url: https://edbatista.com/2022/09/group-dynamics-the-leaders-toolkit.html
+slug: group-dynamics-the-leaders-toolkit
+published: 2022-09-15T07:05:35
+updated: 2025-09-24T11:58:02
+source_body: wordpress-html
+---
+
+One of the most significant themes in my practice is the leader whose team of direct reports are experiencing difficulties working together. Most of my clients are CEOs, and they face this challenge with their company's senior leadership team, but it's a dilemma that can occur at every level of an organization. And while the leader isn't solely responsible for their team's culture, they typically have the greatest ability to influence it--for better and for worse.
+
+By highlighting the tools at the leader's disposal, I'm not suggesting that the other members have no role to play in the process--they absolutely do, and an effective leader will make team culture a shared responsibility. But the leader's position often affords them a number of advantages that make it easier for them to initiate action and to invite others to follow their example. So if you're a leader in this situation, what can you do? What tools are available to you?
+
+The list below is by no means exhaustive, but it's a starting point for considering your options. Don't think of them as a series of steps that must be taken in sequence or as a set of mutually exclusive alternatives. You'll probably need to intervene in several ways to make a meaningful difference in your team's culture--but don't try to do everything at once, and don't try to do it alone. If you fail to actively involve your team in the process, you might exact their compliance, but you won't win their commitment, and the latter is necessary for lasting and sustainable change.
+
+1. Logistics
+
+This encompasses all the factors related to the cadence, timing, setting, and purpose of your team's interactions. Some factors will be more difficult to change, of course, but others may be relatively easy. That said, this is where it's particularly important to involve your team in the process. If you simply enact changes by fiat, you won't necessarily reap the expected benefits, not only because your colleagues may not share your assumptions about how to improve team culture, but also because logistical changes can make a sub-optimal team perform worse if they're made in isolation without considering the other factors below. 
+
+So give some thought to whether you should be meeting more (or less) frequently, for longer (or shorter) periods, with more (or fewer) in-person (or virtual) events, and with more (or less) emphasis on tactical issues (or relationship-building). But discuss these issues with your team so you can surface any resistance. This doesn't mean that proposed changes must be put to a vote, or that anyone resisting change has a veto. But resistance is data, and it can usually tell you something valuable about the nature of your team's concerns.
+
+Assuming you do encounter resistance (and you probably will, if people are willing to be candid), frame any proposals as experiments. Formulate the hypothesis you're seeking to test, set a timeline, and assess the costs and benefits at the end of that period.
+
+What can you do?
+
+- Assess your use of in-person, virtual and hybrid work.
+
+- Communicate via the most effective channels, not just the most convenient.
+
+- Begin meetings with a check-in.
+
+2. One-on-Ones
+
+I assume you're already holding regular one-on-ones with the members of your team--and if you're not, I think you should be. One-on-ones not only provide a venue for you and each employee to discuss your respective responsibilities and working relationship, but they also offer a safe setting in which you can address issues related to your respective contributions to team culture and your mutual behavior in team interactions--with one caveat.
+
+The key is normalizing feedback, which entails not only providing feedback to your employee on their behavior, but also eliciting feedback from them about your own. One purpose of obtaining feedback is to compensate for your inevitable blind spots as a leader, but another is to model a non-defensive response, even (and especially) when the feedback stings. This is why it's not enough to ask for feedback--employees will often assume it's a pro forma request, and you don't really want to hear what they have to say.
+
+But here's the caveat: In many cases a one-on-one discussion with an employee about team issues will threaten to become a discussion about another employee. The employee you're meeting with may want to provide context for their behavior, but they may also be seeking to shirk responsibility by blaming the other person, which is really just a means of managing distress. This is one reason why normalizing feedback is so important--when we get feedback on a regular basis, it's less stressful. In any event, keep the focus on yourself and the employee you're meeting with--if you need to address a conflict between employees, bring them together for a separate discussion.
+
+What can you do?
+
+- Make feedback normal.
+
+- Get better at delivering (and receiving) critical feedback.
+
+- Manage conflicts between team members in a separate setting.
+
+3. Group Facilitation
+
+We often think of a "facilitator" as an external figure who temporarily joins a group in order to play a special role, and in some situations an outside facilitator can be a highly valuable addition to your team. But facilitation is merely a mode of operating that can be adopted by any member of a group at any time, and the most effective teams cultivate the ability to facilitate themselves (which doesn't preclude the use of an outside facilitator when necessary.)
+
+Facilitation begins with an emphasis on process, as opposed to content. This is one reason why outside facilitators can be useful--they have specialized process expertise, and they're not personally invested in the outcome of any issues under consideration by the team. There's nothing preventing you and your colleagues from adopting a similar stance, but you need to step back from the what--What's on the agenda? What are my goals? What outcomes do I prefer?--and consider the how--How are we operating as a group? How do we approach problem-solving? How will we make necessary decisions?
+
+Here's where you have a unique responsibility as leader. Team members typically defer to the leader's preferences when it comes to group processes--and in the absence of a commitment to facilitation on your part it's unlikely that anyone else will intervene to propose it. This doesn't mean that you should become the team's de facto facilitator on an ongoing basis, but you will likely have to take the first step.
+
+What can you do?
+
+- Assess your collective approach to problem-solving.
+
+- Determine how you will make a decision in advance.
+
+- Clarify who's facilitating a given discussion--and what facilitation practices can be implemented by any member.
+
+4. Group Observation
+
+Groups don't normally operate with a heightened awareness of their culture, primarily because most group members are focused on their individual experience in the group, not the group as a whole. It's also mentally taxing to actively participate in a group while simultaneously observing the group dynamic. Further, it takes care and skill to translate those observations into actionable language that won't provoke a defensive response.
+
+For these reasons groups often rely on an outside facilitator to observe, assess and comment upon their culture, and, as I note above, there are circumstances when external facilitation is useful. But relying solely on an outside facilitator to do this work is a missed opportunity in several ways. First, outside facilitators can't always be present--if they could, they'd be group members. Also, the presence of an outside facilitator inevitably changes the group dynamic. And when a group relies exclusively on an outside facilitator to do this work, the group members fail to develop their own capabilities.
+
+So while I endorse the use of outside facilitators, I also encourage you to consider how your team could begin to observe itself and to make those observations explicit. This is work that you will almost certainly have to initiate--it's very rare for a group member to share such observations without an invitation from the leader. Note some key challenges you'll face in the process: You aren't merely an observer of this group--you're also the person most responsible for its existing culture, and you undoubtedly have blind spots. And any observations coming from you as the leader will probably trigger some defensiveness--this is to be expected.
+
+What can you do?
+
+- Assess your team's levels of safety, trust and intimacy.
+
+- Consider your existing team norms and revise as needed.
+
+- More specifically, assess your norms related to emotion expression and regulation.
+
+5. Group Composition
+
+This refers to the definition and membership of your team. Who qualifies, and who doesn't? Are the right people involved? Is anyone present who doesn't add value? Is anyone missing who might add value? In an ideal world, everyone who reports to you is a member of the team, and every member of the team reports to you--but organizational life isn't always so neat and tidy.
+
+A challenge that my clients occasionally face is that one of their direct reports doesn't have much to contribute to certain team discussions, or, conversely, someone who does have something to contribute is a skip-level employee who doesn't report directly to my client. At times this has to be addressed in an ad hoc manner by convening a subset of direct reports for a specific purpose, or by inviting a skip-level employee to sit in on a team meeting. But these provisional solutions come with a cost--not only the added logistical burden of calling a special meeting or creating a special group, but also disruptions in continuity and a diminished sense of mutual trust and group identity.
+
+A related but distinct problem is when one of my client's direct reports fails to keep pace with the company's growth or complexity. They're not a toxic or dysfunctional employee, but they're no longer contributing at the same level as their peers. In many cases this occurs when my client has begun to attract and retain more capable talent, and the performance of earlier-stage employees suffers by comparison. Some members of the latter group will accelerate their growth and development in response, but not all will make the leap, leading to gaps in the team's effectiveness as a whole.
+
+What can you do?
+
+- Restructure your org chart to reconstitute your team.
+
+- Level employees who remain assets to the company.
+
+- Exit employees who are under-performing.
+
+ 
+
+For Further Reading
+
+1. Logistics
+
+- Four Buckets (On Co-Located Work)
+
+- The Communication Funnel
+
+- Check-In to LISTEN, Not Just to Speak
+
+2. One-on-Ones
+
+- Make Feedback Normal
+
+- How to Deliver Critical Feedback
+
+- When Executives Clash
+
+3. Group Facilitation
+
+- Hammering Eggs (Leadership and Problem-Solving)
+
+- Leadership, Decision-Making and Emotion Management
+
+- Role Clarity and Role Confusion
+
+4. Group Observation
+
+- Safety, Trust, Intimacy
+
+- Rules Aren't Norms (On Better Meeting Hygiene)
+
+- Group Dynamics: Norms and Emotion
+
+5. Group Composition
+
+- The Judicious Imposition of Structure
+
+- The Fine Art of Levelling
+
+- Merciful Exits (On Under-Performing Executives)
+
+Related Topics
+
+- How Leaders Create Safety (and Danger)
+
+- Safety Is a Resource, Not a Destination
+
+- How We Connect (and Why We Might Not)
+
+- Freud on Startups (Conditions for Group Effectiveness)
+
+- Startups as Human Systems
+
+- Symptoms of Group Strength
+
+ 
+
+Photo by Dude8mm via Flickr.
+
+
+===== END ED BOT ESSAY 4168 =====
+===== BEGIN ED BOT ESSAY 4169 =====
+---
+title: Surfacing Defensiveness (Three Questions for Candidates)
+url: https://edbatista.com/2023/08/surfacing-defensiveness.html
+slug: surfacing-defensiveness
+published: 2023-08-14T11:12:13
+updated: 2025-10-05T16:26:16
+source_body: wordpress-html
+---
+
+One of the greatest barriers to learning, growth and improved performance is defensiveness, which I define as an unwillingness to accept responsibility for setbacks, characterized by a disproportionately hostile, anxious or evasive response to critical feedback.
+
+Talented professionals typically experience an upward trajectory in their career, with past successes enabling them to take on bigger challenges in pursuit of greater rewards. Most people are interrupted on this journey, reaching a point where their capabilities are insufficient to meet the challenge at hand. Optimally they view this as a learning opportunity and adapt in response, enabling continued progress, albeit sometimes in new directions.
+
+But some people feel threatened by the idea that a setback may be a consequence of their own limitations, and they search frantically for other explanations, other figures to blame. And some unlucky people don't experience a meaningful setback until relatively late in life--as the Rev. William Swing once noted, "Some people don't conspicuously fail until they are 45 years old, and it devastates them." [1]
+
+Whatever the cause, it's not uncommon for previously successful professionals to experience difficulties and respond with defensiveness. A theme in my practice is the leader who's struggling to manage a senior employee who's under-performing and is unwilling to acknowledge and accept critical feedback, let alone learn from it. [2]
+
+In some of these cases it's certainly possible for the leader to intervene and help the person make progress toward overcoming their defensiveness. But this requires a willingness to change [3], a degree of psychological safety in the environment [4], and sufficient time and resources to address the issue--and all of these factors are likely to be in short supply when performance is suffering.
+
+So in many cases it's not possible for the leader to help a senior employee overcome defensiveness, and the all-too-typical result is a messy termination. The key to minimizing these situations is surfacing defensiveness in the hiring process, well before it becomes a problem. This enables the leader to assess the potential cost of dealing with the person's defensiveness and weigh it against their likely contributions.
+
+I'm not suggesting that employers automatically rule out candidates who manifest any sign of defensiveness. As the great management thinker Peter Drucker once wrote, "The idea that there are 'well-rounded' people, people who have only strengths and no weaknesses...is a prescription for mediocrity if not for incompetence. Strong people always have strong weaknesses, too. Where there are peaks, there are valleys." [5]
+
+And it's a fact of life that we make exceptions for particularly talented people and tolerate their shortcomings, including defensiveness. That said, a defensive senior employee will impose a high cost on their leader, their colleagues and the organization as a whole. And on balance my clients who've had to deal with such people wish they hadn't made the hire in the first place or moved more quickly to terminate them. [6]
+
+So what does this look like in practice? Here are three questions to ask candidates during the interview process, and in this order (although not all three may be necessary):
+
+1. Tell me about a time when things went wrong.
+
+If the candidate can't answer this question thoughtfully, that's an initial red flag, suggesting that they're unwilling to be forthright about their setbacks or unable to observe and interpret such situations without experiencing distress. But some candidates will provide an adequate answer while leaving themselves out of the story, blaming the setback on the failings of others or inescapable misfortune. In these cases, proceed to the next question:
+
+2. Tell me about a time when you made a mistake.
+
+The wording here is deliberate, providing the candidate with an opportunity to take responsibility for a setback without using unduly fraught language. We all "make mistakes," and only the most defensive among us will refuse to admit it. Still, some candidates will respond with an example in which the consequences of their mistake were relatively trivial, providing little data on their capacity to acknowledge and learn from serious missteps. In these cases, proceed to the final question:
+
+3. Tell me about a time when you failed.
+
+The wording here is also deliberate, inviting the candidate to identify a situation in which they bore personal responsibility for a meaningful setback. Some candidates who were less forthcoming in response to the first two questions will finally avail themselves of this opportunity--and others will not, providing examples of inconsequential "failures," or evading the idea that they failed, finding others to take the blame.
+
+If a candidate's unable to provide a satisfactory response to any of these questions, consider that a likely sign of defensiveness, and assess your capacity to take on the additional burden of dealing with it in the event that they suffer a setback in the role. To be clear, we're all prone to defensiveness under certain circumstances, and you may well determine that the candidate's strengths outweigh this particular weakness. But don't be caught by surprise--should you hire them, be prepared to improve your ability to provide effective critical feedback. [7]
+
+Footnotes
+
+[1] Rev. William Swing on Failures and Daydreams
+
+[2] Why Executives Derail and What You Can Do About It
+
+[3] Why Change Is Hard
+
+[4] Safety Is a Resource, Not a Destination
+
+[5] The Effective Executive: The Definitive Guide to Getting the Right Things Done, page 72 (Peter Drucker, 1966 / 2006)
+
+[6] Merciful Exits (On Under-Performing Executives)
+
+[7] How to Deliver Critical Feedback
+
+For Further Reading
+
+Daniel Kahneman on Conducting Better Interviews
+
+Interviewing for Values Alignment (Itamar Goldminz, 2020)
+
+Hiring Isn't Rocket Science: Why the Most Boring Strategy Is Best (Laszlo Bock, Behavioral Scientist, 2019)
+
+How to Take the Bias Out of Interviews (Iris Bohnet, Harvard Business Review, 2016)
+
+Hiring as Cultural Matching (Lauren Rivera, American Sociological Review, 2012)
+
+Look Beyond "Culture Fit" When Hiring (Dylan Walsh, discussing work by Amir Goldberg and colleagues, 2018)
+
+How to Improve the Accuracy and Reduce the Cost of Personnel Selection (Don Moore, California Management Review, 2017)
+
+What's going on here, with this human? (Graham Duncan)
+
+How to conduct interviews so good, candidates will thank you for rejecting them (Jennifer Kim, Safe for Work, 2023)
+
+Photo by West Point.
+
+
+===== END ED BOT ESSAY 4169 =====
+===== BEGIN ED BOT ESSAY 4170 =====
+---
+title: A Leader's Offsite Survival Guide
+url: https://edbatista.com/2023/06/a-leaders-offsite-survival-guide.html
+slug: a-leaders-offsite-survival-guide
+published: 2023-06-10T18:32:11
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+I talk frequently with clients who are preparing to hold an offsite with their employees, and at the moment some of these gatherings are the first in-person events they've held in years. If you're in similar circumstances, whether it's a full-company retreat or a small gathering of the executive team, here are ten issues to consider before, during and after your event:
+
+1. To Facilitate or Not to Facilitate?
+
+The question of whether to engage an external facilitator will be influenced by your budget, timeline, and the availability of capable providers, but the determining factor should be the role you want to play during the event. An external facilitator can take on a number of functions often fulfilled by the leader, with a particular focus on process, group dynamics and time management. This can free you up to be a more active participant without dictating the outcome.
+
+An external facilitator is also an independent figure operating outside of the organization's power structure, which enables them to do some things that you can't. This won't happen if a facilitator is too deferential to you (or is perceived to be), so it's essential that they have the ability to strike the right balance. But by serving as another source of authority without usurping yours, an experienced facilitator can have a liberating effect on everyone, including you.
+
+2. The Agenda
+
+It can be tempting to craft the agenda on your own and announce it to your team. This will be more efficient, but when people have no sense of ownership over the agenda, they feel no responsibility for the outcome. It can be equally tempting to delegate the agenda to employees or your facilitator. This will also be more efficient, but you may be unpleasantly surprised to find that the agenda fails to reflect your priorities. Instead, view the process of creating the agenda as an investment in the event's success and an opportunity to build commitment. [1]
+
+Offsites serve various purposes, but they all have the potential to foster stronger relationships and an enhanced sense of social cohesion. This doesn't happen automatically, however, and these goals should be reflected in your agenda. This may involve formal activities explicitly aimed at interpersonal dynamics, but that's not always necessary or even desirable. But at the very least there should be ample time for informal interactions at the beginning and end of each day and in between all formal activities. One of the most common mistakes I see in offsite planning is an over-stuffed agenda that leaves no room for mingling and small talk, which are particularly valuable aspects of in-person experiences. [2]
+
+3. The Welcome
+
+A theme in my practice is the symbolic dimension of leadership. You don't merely make strategic decisions and allocate resources--you also serve as an avatar, a figure who personifies your organization. [3] This role takes on a heightened importance when your team gathers together and looks to you to signify the meaning and purpose of the event. There will be just such a moment at the offsite when everyone is finally assembled, and you'll have an opportunity to kick things off with a few remarks.
+
+If the entire company is present this may take place in a ballroom or as a formal keynote, but no matter the size of the event it's a moment when you'll be onstage. There's no need to speak at great length--this may be counter-productive, especially if people are eager to get started or fatigued after a day of travel. But make the most of the opportunity by having some points prepared that will set the right tone.
+
+4. The Spotlight and the Microscope
+
+If the event is sufficiently large you may spend a portion of it on a literal stage, but remember that you'll be under a spotlight--and a microscope--the entire time. Your comments, demeanor and body language will be closely scrutinized. Even the most seemingly casual interactions will be viewed by your colleagues as potentially significant, a dynamic that will be heightened when facing junior employees who may be meeting you for the first and only time.
+
+This can be exhausting, particularly if you haven't participated in many in-person events in recent years. While dinner and other evening activities are as important as everything else on the agenda--see below--be sure to plan for some downtime alone in your room or at home. Do not try to catch up with other work or personal responsibilities at the end of the day--get some rest instead.
+
+5. Going Offline
+
+Even if your entire company is participating in the offsite, you'll undoubtedly have other stakeholders whose daily lives will continue uninterrupted and who may expect you to be as readily available as always. Some parties may have a legitimate claim on your attention, such as users of mission-critical services who view you as the point of contact in the event of a crisis. But in my experience a great many "crises" can be handled without escalation as long as an appropriate contingency plan is in place.
+
+The problem is that many leaders are unable to unplug from the constantly-available data alerting them to potential issues. [4] They short-circuit any contingency plans by diving into the weeds at the slightest provocation. There's no single solution, but recognize that one cost of such responsiveness will be a clear signal to your employees that neither they nor the offsite merit your full attention, and they will probably follow your example.
+
+6. Eating (and Drinking)
+
+An ample body of research suggests that eating together contributes to stronger relationships among colleagues. [5] In addition to opportunities for mingling and small talk, noted above, this is why meals and coffee breaks during an offsite can be as valuable as the formal sessions. You may choose to deepen existing relationships or to engage with people you don't see regularly, but bear in mind that while these activities may be optional for others, they're obligatory for you, and your presence (or absence) will be noted.
+
+If you don't drink, I'm certainly not suggesting that it's necessary. But in many settings moderate alcohol use contributes to a degree of sociability and informality that can make hierarchical relationships warmer and more personal, and your presence is more important than whether or not you imbibe. As the leader of a global professional services firm once told me, only half-jokingly, "At the end of the day, you have to join your team in the bar. You can't be among the last group there at closing time, but you do have to go." You can always order a Gibson. [6]
+
+7. The Hot Tub
+
+Hot tubs are an HR nightmare waiting to happen, and if your event planner has an ounce of sense there will be none at the venue, but sometimes this is unavoidable. While you may have to go to the bar, take the opposite approach here: Under no circumstances get in (or even near) the hot tub. If there are more than a hundred people in attendance over several nights, expect at least one incident that will require the attention of your senior People leader and possibly your labor & employment counsel, and make sure they're prepared. (I'm being a little flippant here, but I'm not joking!)
+
+8. The Goodbye
+
+Just as your opening remarks played a meaningful ceremonial role, you'll also have an opportunity to close the proceedings. Again, with large groups this may take place during a keynote in a ballroom or on a stage, but even with small teams in an informal setting people will look to you to demarcate the ending, and you may have to seize the moment before everyone begins drifting away.
+
+One of the reasons this moment matters so much is what psychologists call the "peak-end rule"--our memories of events are disproportionately influenced by how we feel during the periods of greatest emotional intensity and at the ending. [7] No matter what happened beforehand, your closing remarks have the potential to shape everyone's perception of the offsite, for better and for worse. Brevity will be necessary--no one wants to hear a long speech on their way out the door--but don't opt out just to save a minute or two.
+
+9. The Return Home
+
+After an offsite leaders often return home to people who are eager to spend time with them and clamoring for their attention. If this describes your situation, you may find it a welcome respite or it may feel like another form of work--or some combination of the two. To the greatest extent possible, let these people know that you're looking forward to seeing them and that you'll be depleted, which may limit your ability to be present and available while you recharge.
+
+Alternatively, you may be riding a high from the constant interpersonal stimulation at the offsite, and home may feel empty or even lonely in contrast. In this case, you'll be well served by reaching out in advance to people who care about you as a person, not as a leader, and enlisting their support in helping you decompress, whether it's over a meal, a movie, or a peaceful walk. The key is giving some thought in advance to what you're likely to need at home, rather than scrambling to figure it out after you arrive.
+
+10. The Day After
+
+A similar lesson applies to your first day back at work after the offsite. You'll probably feel behind in various ways, and as a result you may be inclined to overcommit yourself. But you may still be recuperating from the event, and you're unlikely to be doing your best thinking. Just as at home, at work there may be a number of people who've been waiting patiently for your return and now feel an urgent need to meet. But consider whether these conversations are truly important to you--they may not be. [8]
+
+Try to keep your calendar clear, at least for one day, and if someone helps you manage your schedule let them know that this is a priority. Even--and sometimes especially--when an offsite goes well, the spaciousness will enable you not only to resume your routines at an orderly pace, but also to reflect on what you learned, making the entire experience that much more valuable.
+
+ 
+
+Footnotes
+
+[1] Compliance vs. Commitment (On Behavior Change)
+
+[2] Bosses and Birthdays (The Importance of Small Talk)
+
+[3] Leader as Avatar
+
+[4] The Siren Call of Constant Data
+
+[5] For more on shared meals and team-building, see the following:
+
+- Social eating connects communities (University of Oxford, 2017)
+
+- Groups that eat together perform better together (Susan Kelley, Cornell Chronicle, 2015)
+
+- Team Building in the Cafeteria (Harvard Business Review, 2015)
+
+[6] If you actually order a Gibson, you'll get a Martini garnished with a cocktail onion rather than an olive or twist, but according to an undoubtedly apocryphal story, the drink was originally nothing but water, a subterfuge invented by a diplomat or banker to remain sober while fleecing his companions.
+
+[7] Thinking, Fast and Slow, page 380 (Daniel Kahneman, 2013)
+
+[8] Importance vs. Urgency
+
+ 
+
+Photo by Bertram Nudelbach.
+
+
+===== END ED BOT ESSAY 4170 =====

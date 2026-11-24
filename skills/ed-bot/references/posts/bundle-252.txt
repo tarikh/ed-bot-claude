@@ -1,0 +1,512 @@
+===== BEGIN ED BOT ESSAY 4119 =====
+---
+title: Getting Coaching for Your Team
+url: https://edbatista.com/2022/01/getting-coaching-for-your-team.html
+slug: getting-coaching-for-your-team
+published: 2022-01-06T13:59:01
+updated: 2026-11-03T19:02:39
+source_body: wordpress-html
+---
+
+It's common for a leader I'm working with to consider professional coaching for one or more of their employees, and I've explored this topic with clients many times over the years. (In my practice this typically involves a CEO and their executive team, but the issues discussed here are relevant for leaders at all levels of an organization.) In some cases this is simply because my client has found our work together valuable, and they believe that their employees could benefit from a similar relationship. In others they envision coaching as a means by which a specific employee could make the most of their potential or overcome a particular challenge.
+
+While I believe that leaders should be able to coach as part of their repertoire [1], there are limits on the efficacy of coaching as a managerial tool. As I've noted before, "We invest in people, and being invested in someone means we care about them and want them to succeed... But if we invest in people, we're attached to outcomes. We want something specific to happen." [2] Good leaders find the right balance between investment and attachment, and as a result their employees feel like valued partners, not means to an end. But even when leaders strike that balance, there are inevitably gaps between the organization's goals and individual employees' interests and aspirations. This is where a professional coach can play a particularly helpful role as a third party, because in most circumstances the coach is unattached to any particular outcomes for the organization or the individual.
+
+If you're thinking about recommending coaching for your employees, here are a number of issues to consider that can affect the extent to which they embrace coaching as a source of support:
+
+What Coaching Is (and Isn't)
+
+In an increasing number of industries and geographies coaching is viewed as a source of support routinely utilized by conscientious professionals, or even as a special benefit for high performers. But in some organizations and places coaching still carries a stigma, which often derives from outdated models or fundamental misunderstandings. In years past it wasn't unusual for coaching to focus on corrective measures for poor performers, but these days those types of engagements are less common. A formative text in my own development as a coach was Co-Active Coaching, written by the founders of the Coaches Training Institute (now the Co-Active Training Institute). As they note in the Second Edition, "From the...coach's point of view, nothing is wrong or broken, and there is no need to fix the client." [3]
+
+This doesn't mean that coaching avoids difficult or even painful issues--in my practice it's not unusual for a client to initiate coaching after encountering a setback or receiving some critical feedback. But even in those cases that's usually just one of several factors that led them to consider coaching in the first place. And while coaching can and should result in a range of improvements from the client's perspective in areas related to their professional performance, I don't believe coaching is particularly effective as part of a formal "performance improvement plan." Many PIPs are merely preliminaries to a foregone conclusion, and in those circumstances it's difficult for coach and client to develop a trusting relationship. (And I've never taken on a client in which coaching was viewed by the organization as a last-ditch effort before termination.)
+
+Coaching can also be confused with therapy, which reflects a misunderstanding of both disciplines. [4] The distinction is often less about the topics being addressed and more about the degree of severity. For example, I regularly talk with clients about anxiety, a common experience for leaders facing daunting responsibilities. [5] Everyone is subject to anxiety at times, and coaching can be helpful in managing it at moderate levels. But severe anxiety (e.g. lasting for an extended period of time, pervasive across many domains of life, impeding normal functioning, accompanied by other physical or cognitive symptoms) requires treatment by a trained mental health professional, not a coach.
+
+The key is ensuring that your employees view coaching as a desirable source of support and not as a threat to their status, security or sense of esteem. Skillful coaches will take great care to address this from the start of every engagement. As longtime MIT professor Edgar Schein notes in Helping, another of my primary texts, "The focus of the earliest interactions between the client and the helper must be managed by the helper toward building up the client's status and identifying appropriate roles." [6] But this process begins the moment you first mention coaching to an employee--and optimally you're able to share with them your own experiences with coaching, past or present.
+
+Agency and Choice
+
+It's essential that employees feel sufficient agency and choice in this process. While in some circumstances it may feel tempting to make coaching mandatory, such an approach will likely undermine the process and may doom it to failure. An employee who feels required to work with a coach will be slow to develop a sense of trust and may never be willing to speak candidly. That said, it's entirely appropriate for you to indicate that there are problems with the status quo that coaching could address.
+
+My initial exposure to coaching came as a client in my first leadership role after business school. At the time I was entangled in a series of conflicts with my Board of Directors. A member of the Board who became a mentor took me aside and said, "You're a talented guy, but you have some rough edges, and you're turning potential allies into adversaries. I advise you to invest in yourself and get a coach." This recommendation wasn't made in a threatening way, but it was made clear that my current trajectory could have negative consequences, that I was facing an important opportunity to become a better leader, and that I was being invited to step up to the challenge. (I did, and this decision to seek coaching ultimately led me to begin coaching others in 2005 and launch a full-time practice the following year.)
+
+Similarly, it's preferable to allow employees to choose their own coach, although there are some caveats. In some cases you may want a single coach to work with an entire group of employees, either one-on-one or in a team coaching capacity. (See below.) Your organization may already have a relationship with a coaching firm or a group of coaches (although even then the coaching providers will typically have individual employees choose from among several potential coaches.) Your employees should have a sense of ownership and responsibility so that coaching is not something "happening to them," but, rather, a process in which they're active participants.
+
+The Leader's Agenda
+
+As noted above, in some cases you may want an employee to address a specific set of issues in coaching. But even when you simply view coaching as a source of support that will benefit an  employee in a generalized way, you likely have a variety of hopes and aspirations for the process. Your agenda shouldn't predominate, and you may need to rein in your directive impulses, but it's neither realistic nor helpful to pretend that you have no agenda at all. Instead, you, your employee and the coach need to collaborate to ensure that your interest in coaching is understood by both employee and coach, and, where possible, integrated into the coaching process without preventing the employee from focusing on other issues that are meaningful to them.
+
+There are a number of ways to accomplish these goals. It's imperative to respect the confidentiality of the coaching relationship, but that doesn't mean you have no access to the coach. You will need to accept limits on what the coach will share with you, and the coach may want to limit the information that you share with them. [7] But you can meet with the coach at the beginning of the engagement in order to convey your agenda and at various times throughout the engagement to assess progress. You may want to include your employee in these meetings, and at times you may want to meet separately with the coach--although if the employee isn't present they should be aware that the meeting is taking place.
+
+You can also discuss coaching with your employee in your regular one-on-ones, although I'm in agreement with the late Intel CEO Andy Grove: "A key point about a one-on-one. It should be regarded as the subordinate's meeting, with its agenda and tone set by [the employee]." [8] If you try to compel transparency, your employee may actually feel less willing to be open with you. But coaching need not be a black box, and you can express your interest in hearing more about the process and extend an invitation to be more candid by being more candid yourself. Once again, it's optimal to be able to talk about your own experience with coaching, which normalizes the idea of having a coach and makes it a safer conversation for your employee.
+
+Think Systemically
+
+It's not necessary for all members of a team to have a coach, and coaching shouldn't be made mandatory. But if coaching is perceived as a perk rather than a punishment, once a member of the team has a positive experience with a coach it's likely that others will want the same access. So consider the implications for your team as a system--including the possibility that everyone might want to participate--and what model for the program will best meet your team's needs. Here are four potential options:
+
+1. In the most basic model each member of the team who wants coaching has their own coach with whom they meet individually, and the coaches have no other exposure to each other or to the group as a whole. This maximizes confidentiality and makes it easier for employees to decide when to begin or conclude coaching, but it requires your organization to maintain relationships with multiple coaches. In a variation of this model coaches may work with multiple employees in separate, parallel individual engagements--this allows you to work with fewer coaches, but it heightens the need for trust among those team members who share a coach. (In these situations it's preferable that employees know who each coach is working with, as that may influence their choice of coach.)
+
+2. In another model the leader and each employee works individually with a coach (and coaches may or may not work with multiple individuals), but in addition the coaches meet separately to share information on the team's overall progress. Such engagements typically focus on group dynamics and interpersonal issues and are often relatively short, lasting just several months. Further, this arrangement is usually only feasible with a group of coaches from a single firm--it's difficult to organize this sort of collaboration when the coaches are independent providers.
+
+3. In a third model each employee has their own coach, but there's also a coach who works with the group as a whole--this coach may also work individually with the leader, but not necessarily. The "team coach" can facilitate offsites and other special events, conduct 360s or other assessments [9], or shadow the group during regular meetings and offer guidance based on their observations.
+
+4. And in yet another model a single coach works with members of the team individually and with the group as a whole. This requires not only a coach who's equally skilled in these disciplines, but also a high degree of trust among the team. When friction among team members is one of the motivations to initiate these activities, it's vital to initially establish a requisite degree of trust, psychological safety and emotional intimacy to serve as the foundation for subsequent work. [10]
+
+Each of these models has its benefits and its disadvantages--there's no one right way to provide coaching for a team, and there are certainly additional models beyond these four. Think about your needs as a system, as well as the capabilities of the coaches available to you. Coaching is an idiosyncratic profession, and every provider has their own approach to the process, whether they're a consolidated firm, a platform that aggregates independent coaches, or a sole practitioner like myself. You should expect providers to have clarity on their approach and to be able to identify their strengths and weaknesses relative to your needs. It's not helpful when you ask a coach, "What do you do?" and their first response is, "What do you need?"
+
+This is a companion piece to How to Find (and Choose) a Coach.
+
+Footnotes
+
+[1] How Great Coaches Ask, Listen and Empathize
+
+[2] Investment vs. Attachment
+
+[3] Co-Active Coaching: New Skills for Coaching People Toward Success, page 4 (Laura Whitworth, Karen Kimsey-House, Henry Kimsey-House and Phillip Sandahl, 2007)
+
+[4] Therapy Referrals
+
+[5] Attention Surplus Disorder (Anxiety and Distraction)
+
+[6] Helping: How to Offer, Give and Receive Help, page 46 (Edgar Schein, 2011)
+
+[7] The corollary to confidentiality is a duty to disclose, which I define in my practice as follows: "My primary obligation is to each individual client, and I have a duty to disclose to each client any information that I believe they would view as material. This includes any information shared with me by a client's employees, employers, colleagues, board members, investors, friends, or family.  As a consequence, I cannot maintain confidentiality with any other party if doing so would prevent me from sharing material information with a client."
+
+[8] High Output Management, page 75 (Andy Grove, 1983 / 1995)
+
+[9] For more on 360s, see The Problem with Anonymous Feedback.
+
+[10] For more on these qualities in organizational life, see Safety, Trust, Intimacy and Safety Is a Resource, Not a Destination.
+
+Photo by Angelo Juan Ramos.
+
+
+===== END ED BOT ESSAY 4119 =====
+===== BEGIN ED BOT ESSAY 4120 =====
+---
+title: Risk Calculus and Social Norms
+url: https://edbatista.com/2021/12/risk-calculus-and-social-norms.html
+slug: risk-calculus-and-social-norms
+published: 2021-12-30T14:03:20
+updated: 2025-10-05T21:11:58
+source_body: wordpress-html
+---
+
+I'm old enough to remember when seat belts in automobiles went from simple lap belts to three-point shoulder harnesses. (The car of my Dad's that I loved the most, a 1966 Austin Healey, had seat belts that were largely notional.) But even more significant than the evolving technology were the evolving perceptions of risk and the social norms that governed behavior. Today seat belt usage in the United States exceeds 90 percent [1], but when I was growing up in the 1970s and '80s seat belts were routinely ignored. Although my parents were adamantly pro-seat belt--resulting in countless arguments that I always lost--by the time I was in high school seat belt usage was still well under 20 percent [2].
+
+One reason for this was the perception that seat belt usage conveyed a certain attitude toward risk and a sense of judgment. Seat belts were viewed by many as unnecessary, to be worn only by the fanatically cautious. Drivers who asked their passengers to wear seat belts were considered anxious or controlling. Passengers who proactively put on a seat belt were implicitly expressing a lack of faith in the ability of the driver to keep them safe. I recall getting into cars and having to make a decision about whether or not to wear a seat belt based not only my perception of the driver's capabilities, but also on my relationship with the driver and the likelihood that they might take offense.
+
+Today all this seems absurd, at least in the U.S. Seat belt usage has become so normative that for most people, most of the time, it's an automatic reflex. But it's worth noting that things weren't always this way, and it took decades of technological and social progress to arrive at the current arrangement [3]. And the reason I find this ancient history so interesting is that I see some important parallels with our response to the pandemic as we prepare to enter Year Three:
+
+We lack a shared risk calculus.
+
+By this I mean that we lack commonly understood definitions of "risky" and "safe." Although we now take it for granted that seat belts make us safer, for decades this was a point of contention. Seat belts were thought by many to cause internal injuries in the event of a minor collision or to pose a grave danger because of the possibility of entrapment in a burning or submerged vehicle. No one thinks this way anymore, even the small group of people who elect not to use seat belts in the U.S. They may be prioritizing comfort over safety, but they certainly don't think seat belts are "risky."
+
+In stark contrast, our current perceptions of the risk of infectious disease and what constitutes safe behavior are wildly divergent. This is understandable, given the relative recency of the pandemic, the emergence of new variants, and subsequent changes in the scientific consensus. But as a consequence individuals must rely on their own highly subjective perceptions of risk and safety, which has profound societal and organizational implications.
+
+We lack shared social norms.
+
+The lack of a shared risk calculus makes it difficult, if not impossible, to agree on a set of appropriate responses. As a result, we don't know how to interpret peoples' behavior, and they don't know how to interpret ours. During the decades when seat belt use was atypical, putting one on could mean any number of things: a sense of caution, a lack of trust, or even a rebuke to the driver. Today it's such a widely accepted norm that it's never perceived as having some hidden meaning.
+
+But in the absence of shared social norms regarding infectious disease, our behavior can be confusing or even inexplicable to others, and is therefore a subject of constant curiosity. What does it mean to attend an in-person event, or to decline to attend? What does it mean to wear a mask, or to refrain from wearing one? What does it mean to have physical contact, or to avoid it? We have no universally understood explanations, and in their absence we must interpret and reinterpret the world around us.
+
+Why does this matter--and what can we do about it?
+
+These issues have become a prevalent theme in my coaching practice at the moment, in part because we've reached a point in the pandemic when there's more confusion than ever. The recently emerged Omicron variant appears to be the most contagious yet--but it also appears to result in a relatively low rate of serious illness and hospitalization. This is making it even harder for the leaders in my practice to know how to respond.
+
+Should they--yet again--minimize or eliminate in-person activities for themselves and their employees? Should they mandate masks, or encourage them, or ignore them? Should they gird themselves for one more round of intensified infection control measures? Should they assume that such measures will become a recurring aspect of life? Or have we reached the point where the social, psychological and economic costs of such measures outweigh the benefits? Nobody knows for sure--despite the vast chorus of voices promoting their preferred solutions--which means we must decide for ourselves.
+
+I suspect that this confused state of affairs will persist for an extended period of time. It seems highly unlikely that society at large will arrive at a shared risk calculus and a shared set of social norms anytime soon. Recall that it took decades to reach a common understanding regarding seat belts, even though the science was relatively straightforward. But it does seem likely that in the next few months we'll recover from Omicron and continue the process of finding our way toward a "new normal."
+
+And yet as we resume in-person events, widespread travel, and other activities that we took for granted pre-pandemic, we'll inevitably encounter people who don't share our risk calculus or our social norms. Some people will attend small gatherings but not large ones, and some people won't make any distinction. Some people will avoid physical contact or offer an elbow bump, while others will go in for a hug. And some people won't wear masks at all, others will wear masks at certain times, and still others will wear masks whenever they're in public [4].
+
+We don't need a single risk calculus or a universal set of social norms to function effectively in groups, but the greater the divergence, the more likely it will be that we'll experience misunderstandings. So there are two helpful steps we can take in these potentially fraught situations: First, we can legitimize others' definitions of "risk" and "safety" and the resulting social norms that may differ than our own. I'm not suggesting that we should participate in activities that feel unsafe, or tolerate safety measures that feel oppressive. But we don't need to stigmatize others' choices and make them "wrong" in order to pursue the path that feels right to us.
+
+Also, we can help others understand our own behavior by proactively communicating to them aspects of our risk calculus, rather than forcing them to guess. And here I'm not suggesting that we provide a lengthy rationale or strive to extract an admission that we're "right." We can simply be a little more overt and explicit about what we're doing and why--and hope that they extend to us the same understanding we've tried to extend to them.
+
+This post is the sixth in a series on coping in the current environment:
+
+- Part 1: Pockets of Agency
+
+- Part 2: Aggression, Panic, Paralysis, Denial
+
+- Part 3: Tumbling Down Maslow's Hierarchy
+
+- Part 4: Wounded Creatures
+
+- Part 5: The Legitimacy of Loss
+
+- Part 6: Risk Calculus and Social Norms
+
+Footnotes
+
+[1] Seat Belt Usage in 2019 [PDF], (Traffic Safety Facts Research Note, National Highway Traffic Safety Administration, U.S. Department of Transportation)
+
+[2] How States Achieve High Seat Belt Use Rates [PDF] (James Hedlund, S. Hope Gilbert, Katherine Ledingham, and David Preusser, National Highway Traffic Safety Administration, U.S. Department of Transportation, 2008)
+
+[3] The Surprisingly Controversial History of Seat Belts (Erika Janik, Wisconsin Public Radio, 2017)
+
+[4] Nearly two decades after the SARS outbreak in East Asia, significant numbers of people continued to wear masks on public transportation. See Mass transit ridership didn’t snap back after the 2003 SARS outbreaks (Jake Blumgart, City Monitor, 2020).
+
+Photo by Stian Olsen. Austin Healey photo courtesy of Silodrome.
+
+
+===== END ED BOT ESSAY 4120 =====
+===== BEGIN ED BOT ESSAY 4121 =====
+---
+title: Group Dynamics: Norms and Emotion
+url: https://edbatista.com/2021/12/group-dynamics-norms-and-emotion.html
+slug: group-dynamics-norms-and-emotion
+published: 2021-12-05T18:13:50
+updated: 2025-10-08T14:06:12
+source_body: wordpress-html
+---
+
+A frequent theme in my work is the leader who's striving to help a group be more effective. In my practice this typically involves a CEO and their executive team, but similar challenges occur at every level in an organization. One of the most useful resources I've encountered on this subject is a classic Harvard Business Review article by Vanessa Urch Druskat and Steven Wolff on "Building the Emotionally Intelligent Group":
+
+Study after study has shown that teams are more creative and productive when they can achieve high levels of participation, cooperation, and collaboration among members. But interactive behaviors like these aren't easy to legislate. Our work shows that three basic conditions need to be present before such behaviors can occur: mutual trust among members, a sense of group identity (a feeling among members that they belong to a unique and worthwhile group), and a sense of group efficacy (the belief that the team can perform well and that group members are more effective working together than apart). At the heart of these three conditions are emotions. Trust, a sense of identity, and a feeling of efficacy arise in environments where emotion is well handled, so groups stand to benefit by building their emotional intelligence. [1]
+
+To specify the meaning of "emotional intelligence" in this context, Druskat and Wolff refer to the work of author and science journalist Daniel Goleman, who defines someone with high emotional intelligence as both "aware of emotions and able to regulate them--and this awareness and regulation are directed both inward, to one's self, and outward, to others. 'Personal competence,' in Goleman's words, comes from being aware of and regulating one's own emotions. 'Social competence' is awareness and regulation of others' emotions." [2] (Note that emotion regulation is not suppression. [3])
+
+However, Druskat and Wolff add, it's insufficient for a group to simply rely upon individual members' capacity for emotion awareness and regulation. Individuals' behavior in a given group is highly influenced by that group's norms, which I've defined elsewhere as "social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave." [4] And it's essential to distinguish between norms, which are what we actually do, and rules, which are what we intend to do, or what we're supposed to do, or what we aspire to do.
+
+So a group's emotional intelligence is a function of the norms that A) create awareness of emotion and B) support emotion regulation during group activities, and when considering how to help a group be more effective, it's important to analyze group behavior in these domains. To help in this process, I've adapted the table below from Druskat and Wolff's much more comprehensive selection. In my work with executive teams as well as in T-groups at Stanford [5], I've found that these 14 behaviors are more than adequate to enable a group to understand and assess how their norms support--or inhibit--emotion awareness and regulation.
+
+(Here's a 1-page, printer-friendly worksheet.)
+
+Norms That Create Awareness of Emotion
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+1. Spend time getting to know each other personally.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+2. Ask how people are doing (e.g., check-ins at the beginning of meetings).
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+3. Share our thoughts and emotions in the moment.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+4. Ask those who have been quiet in a discussion what they think.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+5. Fully explore resistance to decisions.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+6. Discuss and evaluate our own effectiveness as a group.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+7. Acknowledge and discuss the feeling in the group in the moment.
+
+Norms That Help Regulate Emotion
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+1. Have clear ground rules for productive behavior in meetings.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+2. Call out behavior that violates those ground rules.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+3. Express acceptance of others' emotions.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+4. Discuss difficulties within the group and the emotions they generate.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+5. Use playfulness and humor to acknowledge and relieve stress.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+6. Express optimism about our capabilities as a group.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+7. Provide positive feedback to each other in the moment.
+
+Putting It Into Practice
+
+In some groups it may be enough to review this framework before holding a frank discussion about norms and emotion. But in my experience most groups find it difficult to analyze their own behavior without first making some dedicated time for such an activity and then conducting an exercise designed not only to surface the necessary data, but also to foster a sense of psychological safety that will encourage greater candor. [6] Below is an exercise intended for groups up to approximately a dozen people--my slides generally include minimal text, so the outline provides some additional guidance for a group or facilitator. An hour is sufficient, but the time can be extended up to 90 minutes. (Allotted times for each segment are suggestions, not exact figures.)
+
+Step One: Conceptual Framing and Worksheets (15 minutes)
+
+- Explore the concepts that underlie the exercise. (It may be useful to read Building the Emotional Intelligence of Groups or the other readings linked below in advance, but this isn't necessary.)
+
+- Druskat and Wolff define group effectiveness as high levels of participation, cooperation and collaboration, and their work suggests that these behaviors are fostered by the presence of mutual trust, a sense of group identity, and a sense of group efficacy.
+
+- In turn, these characteristics derive from a group's emotional intelligence, which is a function of the group's norms regarding emotion awareness and regulation. It's often helpful to note that emotion regulation is not suppression.
+
+- The fundamental purpose of this exercise is to identity productive norms and make them more explicit, a process that should be repeated at regular intervals, not conducted once and forgotten.
+
+- Distribute the worksheets and allow several minutes for their completion. Be sure to note that norms aren't rules--it's important to assess actual behavior, not aspirations.
+
+- Also note that people will not have to share their actual worksheets, but their responses will be disclosed via the group activity below--this helps to create safety.
+
+Step Two: Partner Identification and Group Activity (15 minutes)
+
+- Have people find their partners, which should be assigned in advance, either randomly or deliberately. (Choosing partners at this point tends to create unnecessary anxiety.) If there's an odd number of people participating, form one trio.
+
+- Everyone will observe their partner during the group activity and then have a pair conversation afterwards.
+
+- Clear sufficient space in the room, and spread out 6 cones in a curved line--use as much space as is available. (Small playing field cones are perfect. I've also used 7 cones, which allows people to register a neutral opinion, while 6 cones compels people to express a positive or negative opinion. Note that the worksheet linked above has 6 points on the scale.)
+
+- Start by having the group stand behind the curved line of cones. (The curve will allow people to see where others are located.)
+
+- Go through each of the 14 norms in turn, having people place themselves along the spectrum behind the cone that reflects their response to the question "We always..." or "We never..."
+
+- Proceed slowly, and pause once everyone is settled so that they can note their partner's position, as well as make general observations about the group consensus.
+
+- The exercise generates an immense amount of data in a short amount of time, which is why the partners are so important. It's not possible to track the entire group at once (beyond general observations), but it should be possible for partners to track similarities and differences in their responses.
+
+- Note that if there are any outliers in a given set of responses, this is extremely important data, and these individuals may feel exposed or vulnerable. This is one reason why attending to psychological safety is so important. If the group is experiencing conflict, this exercise may well provoke further distress for some individuals. That's not necessarily a reason to avoid the exercise, but the group should be prepared to address these issues and spend more time in discussion as a result.
+
+Step Three: Pair Discussion (15 minutes)
+
+- After the conclusion of the group activity, pairs should spread out and discuss their observations. It's preferable to keep the pairs in the room and maintain the momentum and energy in the exercise, rather than having people leave the room and return for the group discussion.
+
+- Three questions are suggested:
+
+- What norms are working well?
+
+- What norms are getting in our way?
+
+- How do our actual norms differ from our goals?
+
+Step Four: Group Debrief (15 to 45 minutes)
+
+- Following the pair discussion, the group reassembles for a full debrief. Optimally all members are seated in a circle without a table, so that everyone has equal access and can see everyone else.
+
+- Four questions are suggested (although the three questions above can simply be repeated):
+
+- What did we learn?
+
+- What’s working?
+
+- What’s not?
+
+- What might we do differently?
+
+- As a final step in the debrief, consider the conversation that was just held:
+
+- How did the group conduct this discussion?
+
+- What norms were enacted in the process?
+
+Slideshare: Group Dynamics: Norms and Emotion
+
+Footnotes
+
+[1] Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven B. Wolff, Harvard Business Review, 2001)
+
+[2] Ibid.
+
+[3] The Tyranny of Feelings
+
+[4] Rules Aren't Norms (On Company Values)
+
+[5] "Building the Emotional Intelligence of Groups" was on my syllabus when I taught Interpersonal Dynamics at Stanford, and the exercise described above is adapted from my Group Norms and Roles class.
+
+[6] Safety Is a Resource, Not a Destination
+
+Photo by Woodley Wonder Works.
+
+
+===== END ED BOT ESSAY 4121 =====
+===== BEGIN ED BOT ESSAY 4122 =====
+---
+title: Rules Aren't Norms (On Company Values)
+url: https://edbatista.com/2021/10/rules-arent-norms-on-company-values.html
+slug: rules-arent-norms-on-company-values
+published: 2021-10-26T17:59:54
+updated: 2025-10-05T21:13:48
+source_body: wordpress-html
+---
+
+A theme in my practice is the CEO who wants to clarify their company's values, typically as a way to help employees navigate complex situations by encouraging certain behaviors (and discouraging others). They may draft a version of the values on their own or in partnership with their executive team, but they generally gather input from employees to try to ensure that the values are truly shared. They may conduct surveys on the topic, hold a series of related workshops, or make it the focus of an offsite. Sometimes all this effort results in a common understanding of what's best for the company and a clear set of actionable principles. And sometimes it results in a high-minded "values statement" that's the equivalent of the sign above. Why does this happen? And what can be done about it?
+
+1. Rules vs. Norms
+
+Whenever employee behavior is inconsistent with a company's stated values, that's because those values are merely a set of rules, which define what we intend to do, or what we're supposed to do, or what we aspire to do. There's a tremendous difference between rules and norms, which are what we actually do. Richard McAdams of the University of Chicago Law School provides a useful definition of the latter:
+
+[Norms are] informal social regularities that individuals feel obligated to follow because of an internalized sense of duty, because of a fear of external non-legal sanctions, or both. [1]
+
+Economists Uri Gneezy, Andreas Liebbrant and John List offer another:
+
+Norms are patterns of behavior that are based on shared beliefs about how individual group members should behave in a given situation. They are enforced by internal and external sanctions, such as shame or punishment, internalized through social learning and socialization, and may lead to an enduring change in individuals’ motivations, such as their propensity to act pro-socially. [2]
+
+To repeat: Norms are social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave.
+
+Rules and norms aren't mutually exclusive, and their influence on behavior often overlaps. But they are different forms of social governance, and when we're seeking to guide behavior in organizational life it's important to recognize that rules on their own are often fairly weak, while norms are much more powerful. The problem is that efforts to clarify a company's values generally result in a set of aspirational rules. And while such exercises are well-intended, they're often futile because in many organizational settings we don't feel obligated to follow rules, nor are they based on a set of shared beliefs.
+
+We choose to follow rules in organizational life most of the time, but we break them with impunity on a regular basis. Rules rarely generate an internalized sense of duty, and few organizational cultures have the ability to impose sanctions on rule-breakers without provoking a backlash. And rules are sometimes simply imposed from above--they reflect the shared beliefs of the rule-makers, but not of those who are supposed to follow them. Norms are very different. When we violate a norm, we feel that we've failed to uphold an important duty, or we fear the sanctions that will result, or both.
+
+2. Where do norms come from?
+
+We are not only gregarious animals, liking to be in sight of our fellows, but we have an innate propensity to get ourselves noticed, and noticed favorably, by our kind.
+
+~William James, The Principles of Psychology [3]
+
+Human beings are deeply social creatures, and UCLA neuroscientist Matthew Lieberman cites a hypothesis that the evolutionary advantage conferred on humans by our larger brains derives not from our enhanced abilities as individual problem-solvers, but from our skill at connecting and cooperating with others, which enables us to work together in much larger groups than other primates. Lieberman notes that this social skill enabled our distant ancestors to deal with predators and other threats more successfully, but it also came at a cost:
+
+The downside of larger groups is that there is increased competition for food and mating partners within the group. If you are on your own and you manage to find food, it's yours. The larger your group, the more likely it is that one of the others in your group will try to poach it. Primates with strong social skills can limit this downside by forming alliances and friendships with others in the group... While there is tremendous upside to being part of a group, that is true only if you know how to play the odds and form the right coalitions to avoid the downsides of group living. It requires an expansive capacity for social knowledge. [4]
+
+So we evolved to be keenly aware of our relative social status and our standing in the group, and it is in this context that early humans faced the challenge of how to solve what legal scholar McAdams calls "collective action problems [which] arise when there is a disparity between the individual behavior that maximizes the welfare of the group and the behavior that maximizes the welfare of an individual in the group." [5] Today we solve many such collective action problems through the law--but lacking access to a legal system and the authority of the state, our distant ancestors developed something equally powerful (and much less cumbersome) that continues to govern our social life today: norms.
+
+Early research on norms was done by sociologists and anthropologists, and while this work established an essential foundation for our understanding of the concept, in recent decades legal scholars and economists (as noted above) have added further insights. [6] Richard McAdams has developed a theory I find compelling in light of Lieberman's ideas about the importance of our social orientation: Norms emerge from our need for the esteem of our peers and the anxiety that results when such esteem is withheld. McAdams writes:
+
+The initial force behind norm creation is the desire individuals have for respect or prestige, that is, for the relative esteem of others. Withholding esteem is, under certain conditions, a costless means of inflicting costs on others. These costs are often extremely small... But...dynamic forces can cause the weak desire for esteem to produce powerful norms, sometimes because individuals struggle to avoid deviance, sometimes because they compete to be heroic. [7]
+
+Note that withholding esteem is a "low-cost" means of sanctioning those who violate a norm--this makes it easy for the group to punish violators without imposing a burden on those who observe violations and take action in response. Also, the desire for mutual esteem does not need to be particularly strong--it merely needs to cross some minimal threshold, above which we feel its loss should it be withheld. William James, the pioneering psychologist and philosopher, summarizes these ideas concisely: We have an innate propensity to get noticed favorably by our kind.
+
+3. How do we foster productive norms?
+
+Bad feedback [has] more impact than good...and bad information is processed more thoroughly than good. The self is more motivated to avoid bad self-definitions than to pursue good ones.
+
+~Roy Baumeister et al. [8]
+
+While McAdams' "esteem theory" proposes that the power of norms comes from our desire for the regard of our peers as well as fear of its loss, further research suggests that the latter factor is significantly more influential. This is consistent with a well-established psychological principle that bad experiences register more strongly than good ones. While we'll make an effort to win our peers' esteem, we'll work even harder to avoid its withdrawal.
+
+Biologist Sergey Gavrilets of the University of Tennessee and environmental scientist Peter Richerson of UC Davis conducted joint research that offers more specific insights into this process: "Norm internalization evolves much more easily and has much larger effects on behavior if groups promote peer punishment of free riders." [9]
+
+With this we can identify the necessary conditions in a group for the establishment of a productive norm:
+
+- A set of shared beliefs about how individuals should behave.
+
+- Sufficient mutual esteem among members so that its withdrawal would be felt as a loss by any individual.
+
+- A willingness by members to openly acknowledge a norm violation by a peer.
+
+- A willingness by members to withhold esteem from a peer as a consequence of a norm violation.
+
+In other words, a high-accountability, high-empathy culture. To be clear, this doesn't mean an authoritarian culture in which group members are being policed by management, but one in which members hold themselves accountable because of their shared beliefs regarding productive behavior and their desire to avoid the loss of mutual esteem. [10]
+
+As a leader, of course, you're well aware that this may be easy to understand in theory, but it's very difficult to put into practice. Because it is so difficult, many leaders focus solely on the first condition--creating a set of shared beliefs--and ignore the other three. This results in a thoughtful "values statement"--i.e. a set of rules--which people agree to but then break as soon as adherence to a value would be inconvenient for them. No one acknowledges their free-riding behavior, there's no withdrawal of esteem, and the values never become norms.
+
+This is why relationship-building on a team is so important and why leaders who dismiss it as fluffy bullshit are missing a critical factor in the process of developing productive norms. It's not about "liking each other"--it's about the power of mutual esteem. And to be clear, sufficient mutual esteem is a necessary but insufficient condition--what's also required is a mutual willingness to hold each other accountable, and this is the really hard work.
+
+4. Why is this work so difficult?
+
+Whenever human beings are faced with any issue that contains significant embarrassment or threat, they act in ways that bypass, as best they can, the embarrassment or threat. In order for the bypass to work, it must be covered up.
+
+~Chris Argyris, Overcoming Organizational Defenses [11]
+
+Over the course of a decade I spent more than 2,000 hours facilitating groups of MBA students at Stanford, primarily in the school's Interpersonal Dynamics course [12], which I later taught for several years, but also in the Leadership Fellows Program, which I helped to launch in 2007. During this same period of time, before focusing my practice on coaching individual clients I consulted to leadership teams that were seeking to work together more effectively. A regularly occurring activity in all of this work was the identification of existing group norms and interventions to encourage more productive behavior.
+
+This took place through a number of different processes, from highly-structured activities to informal conversations, but a universal response was anxiety, ranging from mild awkwardness to profound distress. One of the causes of this pattern is that a candid examination of group norms causes us to acknowledge behaviors--our own and those of others--that we would rather ignore. Such open acknowledgment feels unsafe because it violates a "defense routine," a term defined by the late Harvard Business School professor Chris Argyris:
+
+[Defense routines] are actions or policies that prevent individuals or segments of the organization from experiencing embarrassment or threat. Simultaneously, they prevent people from identifying and getting rid of the causes of the potential embarrassment or threat. Organizational defensive routines are anti-learning, over-protective, and self-sealing. [13]
+
+Defense routines are universal in organizational life, and they're predictable and rational responses to the stress and uncertainty we face in most professional environments. Argyris notes that they "are rewarded by most organizational cultures, because the routines indicate a sense of caring and concern for people," and "minimize the risk of harming or upsetting people." [14]
+
+As a leader seeking to transform your values statement from a list of aspirational rules to a set of actual norms you face several challenges: First, any behavior that violates those values must be openly acknowledged, and then those violations must be recognized and sanctioned by peers. And any such activity is likely to trigger feelings of embarrassment and threat (or other vulnerable emotions), thus running headlong into the defense routines that have been carefully crafted with the best of intentions to minimize the risk of harm or upset.
+
+It's likely that most of your team's dysfunctional norms are defense routines--strategies to bypass embarrassment or threat--and these social dynamics function only when the bypass is covered up. So uncovering them compels us to admit that we've been colluding in the dysfunction, and this itself can be embarrassing. This is a recipe for A) continued inaction, or B) avoiding the riskier topic of norms, i.e. actual behavior, in favor of a safe-but-futile discussion about "values," i.e. rules.
+
+The key to unlocking this dilemma is the establishment of sufficient psychological safety, a topic that's been studied extensively by Harvard Business School professor Amy Edmondson. In a psychologically safe organization, Edmondson notes:
+
+Individuals feel they can speak up, express their concerns, and be heard. This is not to say that people are "nice." A psychologically safe workplace is one where people are not full of fear, and not trying to cover their tracks to avoid being embarrassed or punished. What I am advocating is candor. Being open. And sometimes that might mean being direct to a fault, knowing that you have a right and a responsibility to ask hard questions about the work: "Is this the right decision? Are we collecting the right data? Do we know the impact this might have on others?" [15]
+
+There are a number of steps you can take as a leader to create a greater sense of safety among your team: actively encourage input, insure that people truly feel heard, and respond appreciatively, especially to unwelcome news. [16] But it's essential to also consider how your behavior as a leader might undermine these efforts by diminishing safety, triggering a threat response, or reinforcing existing defense routines. [17] As I've written before,
+
+Power distorts what others choose to tell us and what we choose to hear, and the more power we have relative to someone else, the more distortion there is in the dialogue. You can and should seek to heighten your self-awareness...but you should also explicitly ask for direct feedback from others and make it safe for employees to point out how you may be making things worse. [18]
+
+Finally, let's return to the concepts of mutual esteem and accountability, the essential preconditions for the establishment of productive norms. These qualities in a group have the potential to be both the result of and contributors to a greater sense of psychological safety. When we respect and feel close to the people around us, and when we trust that they will tell us the truth in a direct but empathetic way, it's a safer environment in which to deal with the feelings of vulnerability that inevitably accompany a truly candid conversation about group norms. In this context psychological safety isn't an end in itself [19], but, rather, a necessary means to the desired end of a truly high-accountability, high-empathy culture. [20]
+
+Footnotes
+
+[1] "The Origin, Development, and Regulation of Norms," page 340 (Richard McAdams, Michigan Law Review, 1997)
+
+[2] Ode to the Sea: Workplace Organizations and Norms of Cooperation, page 2 (Uri Gneezy, Andreas Liebbrant and John List, National Bureau of Economic Research, 2014)
+
+[3] The Principles of Psychology, Chapter X: The Consciousness of Self, page 126 (William James, 1890)
+
+[4] Social: Why Our Brains Are Wired to Connect, pages 33-34 (Matthew Lieberman, 2013)
+
+[5] Social Norms (Cristina Bicchieri, Ryan Muldoon, and Alessandro Sontuoso, The Stanford Encyclopedia of Philosophy, Winter 2018 Edition, Edward Zalta, editor)
+
+[6] "The Origin, Development, and Regulation of Norms," page 344, note 25
+
+[7] "The Origin, Development, and Regulation of Norms," page 342
+
+[8] Bad Is Stronger Than Good (Roy Baumeister, Ellen Bratslavsky, Catrin Finkenauer and Kathleen Vohs, Review of General Psychology, 2001)
+
+[9] "Collective action and the evolution of social norm internalization," page 6068 (Sergey Gavrilets and Peter Richerson, Proceedings of the National Academy of Sciences, 2017)
+
+[10] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[11] Overcoming Organizational Defenses: Facilitating Organizational Learning, page 25 (Chris Argyris, 1990)
+
+[12] Interpersonal Dynamics
+
+[13] Overcoming Organizational Defenses, page 25
+
+[14] Ibid, page 29
+
+[15] Make Your Employees Feel Psychologically Safe (Martha Lagace interviewing Amy Edmondson, Harvard Business School Working Knowledge, 2018)
+
+[16] How Fearless Organizations Succeed (Amy Edmondson, strategy+business, 2018. Excerpted from The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth.)
+
+[17] How Leaders Create Safety (and Danger)
+
+[18] Hammering Eggs (Leadership and Problem-Solving)
+
+[19] Safety Is a Resource, Not a Destination
+
+[20] Accountability and Empathy (Are Not Mutually Exclusive)
+
+Photo via Piqsels.
+
+
+===== END ED BOT ESSAY 4122 =====

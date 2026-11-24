@@ -1,0 +1,363 @@
+===== BEGIN ED BOT ESSAY 3149 =====
+---
+title: Salsamania
+url: https://edbatista.com/2005/02/salsamania.html
+slug: salsamania
+published: 2005-02-18T12:17:49
+updated: 2005-02-18T12:17:49
+source_body: wordpress-html
+---
+
+I love Latin music. At its best, its frenetic exuberance comes this close to complete insanity--but the band keeps it together for stanza after stanza, inducing a sort of joyful trance state. The jazz-inflected music of master conguero Ray Barreto of the '50s and '60s exemplifies this quality, and seven of his tracks--all gems--are on the four disc, 80-song Salsamania compilation put out by Spanish label Blue Moon/Palladium in 1995.
+
+In an older edition--late '90s?--of the Rough Guide to World Music, Eugene Holley, Jr., had high praise for the set (quoted in Sals@lemania, a German Latin music fan site), but took issue with its title:
+
+Every once in a while a specially-focused collection of rare, timeless
+
+recordings comes along that's so unique it truly merits "must have" status.
+
+Indeed, the only problem with Salsamania (Blue Moon) is its misleading title;
+
+the four-CD set actually documents the mambo era that preceded the birth of
+
+salsa in the sixties. The title was nothing more than a marketing ploy
+
+contrived by the Barcelona, Spain, label to capture the attention of French
+
+Latin music lovers.
+
+The collection's generous program of 80 tracks is uniformly excellent, with
+
+relatively few over-exposed performances, even though Salsamania (read:
+
+"Mambomania") is loaded with vintage tracks by Tito Puente, Celia Cruz,
+
+Cachao, Ray Barretto, Perez Prado, Xavier Cugat, Beny More, Tito Rodriguez,
+
+and other mambo legends from the fifties. The producers throw listeners some
+
+interesting curves, like featuring Cugat's surprisingly zesty version of the
+
+Prado hit "Mambo No. 5." The addition of cuts by storied groups like Conjunto
+
+Casino and Orquesta Hermanos Castro add to the historic value of the set.
+
+A fourteen-page booklet in both Spanish and English, loaded with historic
+
+photos, makes the collection a must-have for mambo fans of all generations.
+
+I can't find "Salsamania" on Amazon or eBay--just the German site linked to above--so I suspect its not in wide circulation. If you ever come across it, grab it, no matter what it costs. You'll thank me later.
+
+
+===== END ED BOT ESSAY 3149 =====
+===== BEGIN ED BOT ESSAY 3150 =====
+---
+title: Mission Impossible?
+url: https://edbatista.com/2005/02/mission_impossi.html
+slug: mission_impossi
+published: 2005-02-18T08:51:11
+updated: 2005-02-18T08:51:11
+source_body: wordpress-html
+---
+
+Grant McCracken is pessimistic about Target's ability to build their brand around the concept of "good design," as exemplified in their latest television ad,  an element of their Design for All campaign.  He writes:
+
+Brands routinely seek to claim a cultural meaning: Marboro [sic] and the great outdoors, Pepsi and youthful irreverence, Gillette’s Venus and the goddess. Usually these meanings are well marked and well known. The transfer of meaning from culture to brand depends upon perfectly [sic] clarity here. The cultural meaning was well defined.
+
+But the notion of design that Target wants to claim is not well defined. It is in fact a little obscure...
+
+So the Target campaign has to do two things at once. It must fashion (more exactly, refashion) the notion of design, and then claim it for the brand. This is a little like building a suspension bridge as you cross it. It is not impossible. Ah, yes, come to think of it, it is impossible. Never mind. Target, bless them, will try.
+
+After reading Grant's post, I found the ad and watched it--it's beautifully done and quite effective--and I thought Grant was being too conservative.  Then I clicked through the ad's page to what appears to be a home page for the Design for All campaign.  Utterly baffling Flash twaddle that did nothing to pique my interest or open my wallet.  I started to think Grant might be on to something.
+
+I'm not ready to give up on Target--they're riding the wave that Virginia Postrel, among others, sees washing over our consumer culture, creating countless business opportunities in its wake.  People are clearly more interested in design, and they will pay to scratch that itch.  Target's ambitious effort to associate their brand with DESIGN writ large is a big bet, and it could pay off handsomely.  But if Grant's right, it could be too abstract, too vague to communicate effectively with consumers.
+
+It's a delicate balance.  After seeing the TV ad, I thought Target had found just the right tone--I wasn't sure exactly what they were selling (to Grant's point), but I was interested in buying it anyway.  But after digging further into the site, their own apparent confusion left me confused--and annoyed--and that's no way to treat a customer.
+
+
+===== END ED BOT ESSAY 3150 =====
+===== BEGIN ED BOT ESSAY 3151 =====
+---
+title: A Blogger's Best Friend
+url: https://edbatista.com/2005/02/a_bloggers_best.html
+slug: a_bloggers_best
+published: 2005-02-17T18:54:07
+updated: 2005-02-17T18:54:07
+source_body: wordpress-html
+---
+
+Peggy Noonan has a great article on OpinionJournal today defending bloggers against their critics in the mainstream media (MSM). (Hat tip to Jeff Jarvis.) She writes:
+
+It is not true that the blogosphere is the Wild West. What governs members of the blogosphere is what governs to some degree members of the MSM, and that is the desire for status and respect. In the blogosphere you lose both if you put forward as fact information that is incorrect, specious or cooked. You lose status and respect if your take on a story that is patently
+
+stupid. You lose status and respect if you are unprofessional or deliberately misleading. And once you've lost a sufficient amount of status and respect, none of the other bloggers link to you anymore or
+
+raise your name in their arguments. And you're over. The great
+
+correcting mechanism for people on the Web is people on the Web.
+
+There are blogs that carry political and ideological agendas. But everyone is on to them and it's mostly not obnoxious because their agendas are mostly declared. (My emphasis)
+
+Noonan echoes one of the points I made last month while discussing the mini-controversy over revelations that MyDD and Daily Kos consulted for the Dean campaign. I wrote:
+
+...Bloggers will--they must--contribute to the efficiency of this intellectual market by making their affiliations and financial relationships transparent, and letting their readers factor that information into the value they place on their blogs' opinions.
+
+Bloggers aren't journalists (If we are, we're stand-alone journalists,
+
+in Chris Nolan's wonderful phrase.) We're partisans, advocates,
+
+activists. Sure, we want to inform--but more importantly, we want to convince.
+
+We want to move you to take action. And unlike journalists, our
+
+influence isn't rooted in a reputation for impartiality, but simply in
+
+our ability to communicate effectively with readers.
+
+So the question to ask isn't "Was it ethical for MyDD and Daily Kos to be on the Dean campaign's payroll?" but "Was it consistent with their attitudes, beliefs and values? Did it reinforce or contradict their other writings and activities?" Ultimately, it's all about consistency.
+
+...Getting paid by the Dean campaign was entirely consistent
+
+with [MyDD and Daily Kos'] established attitudes, beliefs and values, and their paid
+
+advocacy on behalf of Dean merely reinforced their other writings and
+
+activities. Like it or not, ethics scolds, but these are the criteria
+
+by which bloggers will be judged.
+
+(Glenn Reynolds thought I retreated from this position in a subsequent post; not so--I just questioned Kos' decision to use press credentials after having declared that he was not a "journalist.)
+
+Noonan goes on to make some interesting, but somewhat behind-the-times predictions:
+
+Some brilliant rising young
+
+reporter with a growing reputation at the Times or Newsweek or Post is
+
+going to quit, go into the blogging business, start The Daily Joe, get
+
+someone to give him a guaranteed ad for two years, and become a
+
+journalistic force. His motive will be influence, and the use of his
+
+gifts along the lines of excellence. His blog will further legitimize
+
+blogging.
+
+I'm not sure what some "rising young reporter" is going to bring to the party to "further legitimize" the blogosphere at this point. Didn't Michael Kinsley get that ball rolling a long time ago?
+
+Some publisher is going to decide that if you can't fight blogs, you can join them. He'll think like this: We're
+
+already on the Internet. That's how bloggers get and review our
+
+reporting. Why don't we get our own bloggers to challenge our work? Why
+
+don't we invite bloggers who already exist into the tent? Why not take
+
+the best things said on blogs each day and print them on a Daily Blog
+
+page? We'd be enhancing our rep as an honest news organization, and it
+
+will further our branding!
+
+It's noteworthy that mega-corporations are already way ahead of the MSM on this front, hiring their own in-house bloggers as "corporate ombudsmen." But despite these cavils, Noonan's support is heartening. And I think a line of hers bears repeating:
+
+The great
+
+correcting mechanism for people on the Web is people on the Web.
+
+The world has become too transparent (and switching costs are too low) for anyone to exert a claim on your time or your wallet without delivering on all of their promises--that's as true in the intellectual sphere as it is in any other market.
+
+
+===== END ED BOT ESSAY 3151 =====
+===== BEGIN ED BOT ESSAY 3152 =====
+---
+title: Franklin and Winston
+url: https://edbatista.com/2005/02/franklin_and_wi.html
+slug: franklin_and_wi
+published: 2005-02-16T22:44:00
+updated: 2005-02-16T22:44:00
+source_body: wordpress-html
+---
+
+I just finished Franklin and Winston, Jon Meacham's stirring history of the personal relationship between FDR and Churchill that began in September 1939, shortly after the latter became First Lord of the Admiralty (and 8 months before he became Prime Minister), and lasted until Roosevelt's death in April 1945.
+
+It's a very good book, although not a great one--Meacham provides almost too much background in the early going and then, as if tiring of his subject, rushes from one major event to the next in the final years of the war, leaving a few too many holes along the way.
+
+But I found myself lingering as I neared the end, reluctant to finish it, and that's a credit to Meacham's ability to bring his subjects to life as much as it is to the gripping nature of the lives they led. In the simplest terms, Roosevelt was the savvier politician, and Churchill was the keener intellect--and ultimately the more sympathetic figure. But what makes their story compelling is how difficult it is to reduce them to simple terms, and their relationship was as complex as they were.
+
+I'm not going to write a full-on review here, but I made a number of notes to myself while reading that seemed worth hanging on to in some form:
+
+On Leadership: Frances Perkins, Roosevelt's Secretary of Labor (and the first woman in a president's cabinet) said of FDR:
+
+His
+
+capacity to inspire and encourage those who had to do tough, confused
+
+and practically impossible jobs was beyond dispute. I, and everyone
+
+else, came away from an interview with the President feeling better.
+
+It was not that he had solved my problem or given me a clear direction
+
+which I could follow blindly, but that he had made me more cheerful,
+
+stronger, more determined to do what, while I talked with him, I had
+
+clearly seen was my job and not his. It wasn't so much what he said as
+
+the spirit he conveyed.
+
+It's hard to imagine a better image of leadership--of management--in action.
+
+During Churchill's second stint as Prime Minister in the 1950s, he called his private secretary:
+
+"Has
+
+anything happened," Churchill asked? "No," replied [his secretary.]
+
+"Then let's make something happen," Churchill said, with mischief in
+
+his eyes.
+
+He would have been at least 77 at that time, and he would serve in the House of Commons until he
+was 90--a model of vigor and determination.
+
+Finally, from Churchill's historical volume, The Hinge of Fate:
+
+There
+
+is no worse mistake in public leadership than to hold out false hopes
+
+soon to be swept away. The British people can face peril of misfortune
+
+with fortitude and buoyancy, but they bitterly resent being deceived or
+
+finding that those responsible for their affairs are themselves
+
+dwelling in a fool's paradise.
+
+On Means of Communication: Churchill, speaking at a press conference after his September 1944 summit with Roosevelt in Quebec:
+
+What an ineffectual method of conveying human thought correspondence is [laughter]--telegraphed with all its rapidity, all the facilities of our--of modern intercommunication. They are simply dead, blank walls compared to personal--personal contacts.
+
+I obviously rely heavily on the "facilities of modern intercommunication," but I share Churchill's view of their limitations and insufficiency as a substitute for face-to-face contact. Meacham sounds a cautionary note: "Meetings often produce a kind of magic, but magic can fade. Such is the power and peril of personal diplomacy." Roosevelt's experiences with Stalin bear this out in spades--see below--but I still believe in the value of relationships and direct personal contact.
+
+On the Western Front, the Soviet Union, and the Postwar World:
+
+From the earliest days of the war, Churchill advocated attacks on the
+
+periphery--North Africa, the Middle East--while Roosevelt and the U.S.
+
+general staff pushed for a frontal assault on Europe by way of an
+
+invasion of France. The Soviets, who bore the brunt of the Wehrmacht's
+
+wrath from late 1941 until D-Day in mid-1944, were understandably
+
+anxious to see a Western Front opened, and they perceived Churchill's
+
+resistance as foot-dragging.
+
+Meacham takes pains to point out that an invasion of France was
+
+inconceivable in 1942 and might not have been successful even a year
+
+later--and if it had failed, it could have been a disatrous setback.
+
+However, given Churchill's adamant desire to preserve the British
+
+Empire, even in the face of Roosevelt's support for its (eventual)
+
+dismantling, it raises suspicions that the Prime Minister may have been
+
+seeking to maintain British power around the globe while letting the
+
+Soviets and Germans exhaust each other.
+
+I read Alan Clark's Barbarossa
+
+several years ago, and the harrowing story of the Eastern Front left a
+
+deep impression on me. The Germans' horrific cruelty in the East made their behavior in the West seem benign by comparison, and
+
+the scope of the death and suffering inflicted on the Russians, Poles
+
+and others in the East dwarfed that of the British, Americans and their
+
+Western allies.
+
+Although it should always be remembered that Stalin first tried to
+
+make peace with Hitler in 1939 and left the British isolated for over a
+
+year before the Nazis turned on him, the fact remains that while the
+
+Brits and Americans readied themselves and their war industries for the
+
+assault on France, Germany's victims in the East were dying by the
+
+millions.
+
+It is against this complicated background that we have to consider
+
+the sometimes conflicting plans made by Churchill and Roosevelt for the
+
+postwar world. Churchill was far more prescient than FDR in seeing
+
+Stalin's goal of a Soviet-dominated Eastern Europe, and struggled to
+
+convince FDR of the danger. Roosevelt, with some justification, saw
+
+Churchill's efforts as an attempt to resist the End of Empire, and
+
+placed great stock in his plans for a United Nations, dominated by the
+
+U.S. and the U.S.S.R., with China and Britain as junior members of the
+
+leadership.
+
+Starting with the first meeting of the Big Three at Teheran in late
+
+1943, Roosevelt sought to achieve a personal connection with Stalin
+
+that would enable him to "do business" with the Russian leader, and
+
+this often entailed distancing himself from Churchill and his
+
+policies. Despite continued close Anglo-American cooperation
+
+throughout 1944, Roosevelt persisted on this course through the fateful
+
+summit at Yalta in early 1945, when some historians--alhough not
+
+Meacham--feel that his efforts (and possibly his advancing illness)
+
+emboldened the Soviets.
+
+By the spring of 1945, Roosevelt seems to have changed his mind, expressing his fear that Stalin intended to violate the Yalta agreements with regard to the postwar settlement. Churchill was heartened, but it was too late. It's unlikely that even Roosevelt's forceful opposition could have dissuaded Stalin occupying Eastern Europe--the Soviets were determined to prevent a third war with Germany over this territory--but the President took any faint hopes of avoiding the Cold War with him.
+
+In light of this complicated history--and following the recent publication of Philip Roth's The Plot Against America, a counterfactual novel in which the isolationist Charles Lindbergh defeats Roosevelt in the 1940 presidential election--it's useful to note that FDR's sensitive but sure leadership was essential in convincing a skeptical America that Hitler was a serious threat to her own liberty. Meacham writes in 2003, "But for [FDR's] caution in those early years, we could be living in the grim shadow of an isolationist Age of Lindbergh, not in the light of the Age of Roosevelt."
+
+On Life and Death: From Churchill's novel, Savrola:
+
+When
+
+the notes of life ring false, men should correct them by referring to
+
+the tuning fork of death. It is when that clear menacing tone is heard
+
+that the love of life grows keenest in the human heart.
+
+I ended "Franklin and Winston" with the distinct impression--although Meacham never says so directly--that FDR probably worked himself to death. Today, when we see how much a peacetime presidency ages a man in four or eight years, it's startling to remember that Roosevelt led the nation for over 12 years, during its greatest economic crisis and its most profound wartime threat.
+
+Speaking to the House of Commons after FDR's death, Churchill said,
+
+President Roosevelt's physical afflication lay heavily upon him. It was a marvel that he bore up against it through all the many years of tumult and storm. Not one man in ten millions, stricken and crippled as he was, woud have attempted to plunge into a life of physical and mental exertion and of hard, ceaseless political controversy. Not one in ten millions would have tried, not one in a generation would have succeeded, not only in entering this sphere, not only in acting vehemently in it, but in becoming indisputable master of the scene.
+
+Roosevelt's example makes me think of how much I make of the minor obstacles life has placed in my path, and encourages me to overcome them--I'm also more grateful for the advantages I've been given, and inspired to make better use of them.
+
+Looking over these notes, I'm reminded that Churchill lived nearly 30 years longer than Roosevelt, and spent much of that time writing--although he often played second fiddle to FDR in life, he comes to the foreground in any literary history. I do have a special fondness for Churchill--I share his loquacity, his high and low moods--and I view FDR as a more distant, more ambivalent figure, but in "Franklin and Winston," Meacham has done both men justice.
+
+
+===== END ED BOT ESSAY 3152 =====

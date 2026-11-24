@@ -1,0 +1,212 @@
+===== BEGIN ED BOT ESSAY 3794 =====
+---
+title: Goodbye, 2013
+url: https://edbatista.com/2013/12/goodbye-2013.html
+slug: goodbye-2013
+published: 2013-12-31T23:49:22
+updated: 2025-09-24T11:59:31
+source_body: wordpress-html
+---
+
+It's been an unusual year. There have been some very high highs: I believe I'm doing the best work I've ever done with my clients and students; my brother David realized a long-held dream and opened a bar; I began writing for HBR; I stepped into a new role with Stanford T-groups; and I realized how much I have to be thankful for.
+
+And there have been some very low lows: I failed at an important project; I blew out a disk and was in pain for months; I'm no longer in pain, but I'm still struggling to exercise regularly (and to meditate at all); I wrote almost nothing from March through August; and I was reminded (several times) of one of my greatest weaknesses.
+
+Somewhere in the midst of all this--neither a high nor a low--I finally, truly grasped the essence of mortality, and Seneca's On the Shortness of Life has stayed with me:
+
+There is nothing the busy man is less busied with than living: there is nothing that is harder to learn. It takes the whole of life to learn how to live, and...it takes the whole of life to learn how to die... [I]t takes a great man and one who has risen far above human weaknesses not to allow any of his time to be stolen from him, and it follows that the life of such a man is very long because he has devoted wholly to himself whatever time he has had. None of it lay neglected and idle; none of it was under the control of another, for, guarding it most grudgingly, he found nothing that was worthy to be taken in exchange for his time. [Ch. 7]
+
+I'm a long way from living up to that standard, but I'm closer than I've ever been, and that's something.
+
+Tonight Amy and I walked along West Cliff Drive in Santa Cruz and watched the sun set; it was a good way to end a year. See you in 2014.
+
+
+===== END ED BOT ESSAY 3794 =====
+===== BEGIN ED BOT ESSAY 3795 =====
+---
+title: Startups as Human Systems
+url: https://edbatista.com/2013/12/startups-as-human-systems.html
+slug: startups-as-human-systems
+published: 2013-12-29T15:43:44
+updated: 2026-04-20T11:36:22
+source_body: wordpress-html
+---
+
+Although the clients in my coaching practice come from a wide range of professions and work in organizations of all sizes, I see a large number of startup founders and other leaders from early-stage companies. And my work with these clients--as well as my own experience as the first employee at three nonprofit ventures--has led me to view startups as distinct human systems. There's no one-size-fits-all template to describe how these systems operate, nor are the interpersonal principles in startups fundamentally different from those in other organizations. But there are some tendencies that I see in my startup clients' companies on a consistent basis:
+
+1. Complex Group Dynamics
+
+This point underpins all the others below: Startups are deceptively complex organizations. The small number of employees and, often, the shared background of the founding team can give the impression that the company's interpersonal dynamics will be simple and easy to manage.
+
+But by definition a startup is in the process of establishing its culture, the set of informal norms and formal practices that determine how people interact with each other in a given system. A startup's culture can change rapidly, sometimes with the arrival or departure of a single person. And while some founders are intensely deliberate about the culture they're creating, the pressure to tackle today's to-do list can make it easy to think of culture as something to be dealt with later. As investor Joel Peterson has said, every organization has a distinct culture--the question is whether it develops "inadvertently or with some planning and forethought." [1]
+
+When the surrounding culture is subject to dramatic change--and when leaders may lack the capacity to step back and consider the cultural impact of their actions--group dynamics are inevitably complex. This complexity may become apparent only at key inflection points in the company's development--the first non-founder employees, a move to new space, the first firing, the departure of a founder--but effective startup leaders recognize this complexity well in advance of these critical junctures.
+
+2. Communication = Survival
+
+The efficient flow of information in a startup is critical to its health and success. Established organizations can survive inefficiencies, requiring multiple conversations to accurately transmit a message and get it to stick. They won't thrive, but they'll survive, sometimes for extended periods of time. Startups will die.
+
+The presumption of simplicity noted above can fool startup leaders into thinking that good communication is a natural by-product of interactions within the company: We talk when we need to talk, and we meet when we need to meet. And if we're meeting and talking, we must be communicating.
+
+But truly accurate and meaningful communication takes effort. We need to work at being clear and direct, because what we say isn't necessarily what the other party hears. [2] And we need to work at active listening, because even if we've absorbed the other party's message they may not truly feel heard. Effective startup leaders see communication as critical to survival and work to improve communication practices in the company at both the individual and group levels.
+
+3. Feedback = Learning
+
+A corollary to the point above: Just as startups depend on efficient communication to survive, they depend on effective feedback to drive learning. Note that good feedback doesn't simply mean honest criticism of counterproductive behavior; it also means heartfelt praise that acknowledges and rewards useful behavior. But just as we assume that our interactions with others naturally result in meaningful communication, we tend to operate under the belief that simply sharing our responses to others' behavior is all we need to do for our feedback to have the desired effect.
+
+But even more than other forms of communication, truly effective feedback is the result of hard work and dedicated effort. In part this is because giving and receiving feedback is stressful--even when it's positive--and when we're under stress we're much less effective communicators. [3] We absorb and process information less efficiently, we're less creative at solving problems, and we fixate on perceived solutions without testing alternatives--in short, perfect conditions for ineffective feedback. [4]
+
+Organizations seeking to maximize learning must counter these effects by building a feedback-rich culture in which a heightened sense of safety and trust makes truly candid feedback possible. [5] And effective startup leaders establish these conditions early and reinforce them often.
+
+4. Relationships Matter
+
+Interpersonal relationships in startups tend to matter even more than they do in established organizations. One dysfunctional relationship can affect the entire company, especially if a founder is involved. And a single person with poor interpersonal skills can undermine every working relationship around them--again, especially if it's a founder.
+
+But relationship difficulties in startups can often be masked or go unaddressed. Leaders may assume that the founding team's pre-existing friendships or shared background automatically translate into healthy working relationships. When founders themselves lack interpersonal skills, co-founders and early employees are typically reluctant to confront them. And the pressure to deliver results often leaves little time to discuss interpersonal issues.
+
+Yet my clients' experiences demonstrate the importance of interpersonal factors in a startup. The single issue I discuss most frequently with founders is how to better manage difficulties in their working relationships with co-founders, senior employees and investors. [6] Note that this work doesn't just involve building stronger personal connections--it also entails exerting influence and wielding power. [7] Effective startup leaders make time to reflect on their key relationships and attend to difficulties early.
+
+5. Leaders Are Levers
+
+Much of the discussion above has focused on the challenges faced by founders that derive from startups' scale and stage of development, but I also want to highlight an advantage: Startup leaders enjoy a tremendous amount of personal leverage to drive positive change and make mid-course corrections when necessary.
+
+All leaders striving for change must work within an existing culture. In established organizations this is a slow, painstaking and failure-prone process, and even the most highly effective individual leaders can struggle as they attempt to indirectly influence parts of the organization that are well beyond their personal reach. But in the context of a startup's small scale and evolving culture, founders and other senior leaders have many more opportunities to connect directly with every employee, allowing them to have a significant impact through their personal example.
+
+This leverage has a flipside, of course: When startup leaders fail to live up to the principles they espouse or prove untrustworthy in some other way, it's obvious to everyone in the company and rapidly undermines employees' loyalty and commitment. Effective startup leaders realize that their leverage comes at a price, and they will be expected to walk their talk every day. [8]
+
+Footnotes
+
+[1] Joel Peterson on Organizational Culture
+
+[2] Intent vs. Impact (When Communication Goes Awry)
+
+[3] Make Getting Feedback Less Stressful
+
+[4] Give It to Me Straight (Effective Feedback)
+
+[5] Building a Feedback-Rich Culture
+
+[6] Better Working Relationships
+
+[7] Power Struggles Among Nice People
+
+[8] Leader as Avatar
+
+For Further Reading
+
+Startup Leadership: A Greater Us
+
+Startup Leadership: Are We Rowing or Rafting?
+
+Startup Leadership: Are We Video-Gaming or Ditch-Digging?
+
+Startup Leadership (A compilation of posts on themes I see regularly in my practice.)
+
+Photo by Heisenberg Media.
+
+
+===== END ED BOT ESSAY 3795 =====
+===== BEGIN ED BOT ESSAY 3796 =====
+---
+title: Building a Feedback-Rich Culture
+url: https://edbatista.com/2013/12/new-post-at-hbr-building-a-feedback-rich-culture.html
+slug: new-post-at-hbr-building-a-feedback-rich-culture
+published: 2013-12-24T13:30:02
+updated: 2025-09-24T11:59:31
+source_body: wordpress-html
+---
+
+As an executive coach and an experiential educator, I’m a passionate believer in the value of interpersonal feedback. To become more effective and fulfilled at work, people need a keen understanding of their impact on others and the extent to which they’re achieving their goals in their working relationships. Direct feedback is the most efficient way for them to gather this information and learn from it.
+
+But the form that most interpersonal feedback takes--a conversation between two people--can trick us into seeing it as a product of the relationship when it’s equally (if not more so) a product of the surrounding culture. Even people who aren’t interested in or skilled at giving or receiving feedback will participate in the process (and improve) when they’re working in a feedback-rich environment. And the most ardent and capable feedback champions will give up if the organizational or team culture doesn’t support their efforts.
+
+So as leaders, how do we build a feedback-rich culture? What does it take to cultivate an ongoing commitment to interpersonal feedback? Here are four essential elements:
+
+1. Safety and Trust
+
+To give and receive truly candid feedback, people must feel a sense of safety and trust. [1] Neurologist and educator Judy Willis emphasizes the relationship between positive emotion and performance, and as leaders we need to foster it to ensure that colleagues learn from feedback. [2] Note that this does not mean avoiding confrontation or offering only support and comfort. It does mean being highly attuned to people’s readiness for a challenge and their emotional state in a given interaction.
+
+To create safety and trust:
+
+- Get to know each other. Make an effort to understand colleagues as individuals. This doesn’t require a great deal of time or deep, personal disclosures — just taking a moment to ask about someone’s weekend and occasionally sharing stories of your own.
+
+- Talk about emotions. The ability to discuss emotions is a critical feature in any group that aspires to share effective feedback, not only because feelings are at the heart of most difficult feedback, but also because feedback inevitably generates difficult feelings. When we can talk about our embarrassment, disappointment, frustration, and even anger, the culture is sufficiently safe — and robust — to handle real feedback.
+
+- Make it OK to say no. A risk in feedback-rich cultures is that people feel obligated to say “Of course,” when asked, “Can I give you some feedback?” The freedom to postpone such conversations when we’re not ready to have them ensures that when they do take place all participants are willing parties.
+
+2. Balance
+
+We often think that good feedback is honest criticism, but that’s just half the story. The other half is truly meaningful positive feedback, which is all too often absent in organizations. You can’t have one without the other, but so many obstacles prevent us from offering and accepting positive feedback. We worry it will sound insincere. We worry it is insincere. We worry it will make us look like suck-ups. We worry it will make us seem weak. And since we don’t do it very often, we’re not very good at it. But recent research at Ghent University in Belgium indicates that positive feedback promotes self-development. [3] Further, as University of Washington psychologist John Gottman has noted in his study of long-term relationships, in the most successful ones the ratio of positive to negative interactions is 5:1 even in the midst of a conflict. [4] Strong relationships depend on heartfelt positive feedback--so we need to practice.
+
+To establish balance:
+
+- Offer some positive feedback…and stop there. Too often we use positive feedback to cushion the blow before delivering criticism, but that practice inevitably degrades the value of our praise and renders it hollow.
+
+- Start small. We miss opportunities to provide positive feedback every day because we have this idea that only big wins merit discussion. When we see any behavior we want to encourage, we should acknowledge it and express some appreciation.
+
+- Praise effort, not ability. Research by Stanford psychologist Carol Dweck suggests that praising persistent efforts, even in failed attempts, helps build resilience and determination, while praising talent and ability results in risk-aversion and heightened sensitivity to setbacks. [5]
+
+3. Normalcy
+
+Trainings and workshops can create space for people to be open to new ideas and experiment with new ways of communicating, but the next day everyone goes back to the real world. You have to integrate the behaviors you want into your team’s daily routines in order to normalize those behaviors within the organization’s culture. If feedback is something that happens only at unusual times (such as a performance review or when something’s gone wrong), it’ll never really be an organic part of the organizational culture. It has to show up in everyday life--on a walk down the hallway, at the end of a meeting, over a cup of coffee. Make feedback normal--not a performance review.
+
+To make feedback normal:
+
+- Don’t wait for a special occasion. A mentor of mine, Vince Stehle, once told me, "Don’t build a castle; put up a thousand tents," and that certainly applies to feedback. [6] Don’t turn it into a complex, cumbersome process; just take a few minutes (or even a moment) and make it happen.
+
+- Work in public. Certain conversations are best held one-on-one, but too often we treat all feedback as a potentially embarrassing or even shameful process to be conducted under cover of darkness. When sufficient safety and balance exist, even critical feedback can be provided in larger groups. This not only allows everyone present to learn from the issues under discussion but also allows people to see how to give and receive feedback more effectively.
+
+4. Personal Accountability
+
+As leaders who want to promote a feedback-rich culture, we have to walk the talk every day. Research by Harvard Business School’s Lynn Paine and colleagues makes clear that employees are more sensitive than leaders to gaps between companies’ espoused values and actual practices. [7] Our teams will take their cues from us as to what’s acceptable, and if we don’t take some risks in this area, they won’t either. Why should they? This doesn’t mean we’re going to get it right all the time. If we’re taking some meaningful risks, then of course we’ll make some mistakes. The key is to fail forward and view those mistakes as essential learning opportunities. Let those around us know that we’re trying to get better at giving and receiving feedback, too, and ask for their input on how we’re doing.
+
+To walk the talk:
+
+- Be transparent. Everyone around us--colleagues, superiors, direct reports--should know that improving at giving and receiving feedback is an ongoing goal of ours.
+
+- Ask. We can’t just sit back and wait for feedback to be offered, particularly when we’re in a leadership role. If we want feedback to take root in the culture, we need to explicitly ask for it.
+
+ 
+
+Footnotes
+
+[1] See Safety, Trust, Intimacy and How Leaders Create Safety (and Danger).
+
+[2] The Neuroscience of Joyful Education (Judy Willis, Association for Supervision and Curriculum Development, 2007)
+
+[3] Improving Feedback Reports: The Role of Procedural Information and Information Specificity (Marjolein Feys, Frederik Anseel and Bart Wille, Academy of Management, 2011)
+
+[4] The Seven Principles for Making Marriage Work (John Gottman and Nan Silver, 1999)
+
+[5] The Right Mindset for Success (Sarah Green interviewing Carol Dweck, Harvard Business Review, 2012)
+
+[6] Don't Build a Castle; Put Up 1,000 Tents
+
+[7] A Global Leader’s Guide to Managing Business Conduct (Lynn S. Paine, Rohit Deshpandé, and Joshua D. Margolis, Harvard Business Review, 2011)
+
+Originally published by Harvard Business Review.
+
+Many thanks to Lisa Burrell.
+
+Photo courtesy of HBR.
+
+
+===== END ED BOT ESSAY 3796 =====
+===== BEGIN ED BOT ESSAY 3797 =====
+---
+title: Startup Communication at Flixster
+url: https://edbatista.com/2013/12/startup-communication-at-flixster-2.html
+slug: startup-communication-at-flixster-2
+published: 2013-12-18T21:49:04
+updated: 2025-09-24T11:59:31
+source_body: wordpress-html
+---
+
+Today I facilitated a workshop on Startup Communication at Flixster in San Francisco aimed at helping co-founders 1) communicate more effectively with each other, 2) establish group norms in the company that support better communication and 3) model better communication with their employees.
+
+Twenty-two co-founders from 11 ventures participated, and although I always enjoy working on this topic with this audience, there was something special about today's group. They were eager to dive in, push themselves and take some risks, and there's nothing more gratifying for a facilitator.
+
+The event was organized by Alicia Morga and Joe Greenstein who care deeply about this topic (and who personally walk the talk.) Thanks to everyone who was able to be there--I really enjoyed it.
+
+
+===== END ED BOT ESSAY 3797 =====

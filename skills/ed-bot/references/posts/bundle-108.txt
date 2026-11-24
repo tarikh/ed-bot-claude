@@ -1,0 +1,162 @@
+===== BEGIN ED BOT ESSAY 3527 =====
+---
+title: Successful Debriefing: Ask, Don't Tell
+url: https://edbatista.com/2007/09/debriefing.html
+slug: debriefing
+published: 2007-09-02T03:00:00
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+You've helped lead a team through an experience, and now you want them to debrief what happened and draw some conclusions that will allow them to be more effective in the future. Here are some ideas that may be useful, particularly if past debriefs haven't yielded as much learning as possible.
+
+A leader can easily push their team to the "right" answer too quickly if they don't appear to be headed in the leader's desired direction. Instead, check your need to appear competent or your impulse to be time-efficient, and allow people to make progress toward their own answers at their own pace. This often entails resisting the temptation to tell people what happened--that's an efficient way to convey your point of view, but it's not an effective way to help people actually learn from experience. Learning that results from being told is much less likely to be internalized.
+
+It's more effective to ask questions that help people arrive at their own understanding of what happened, even though this will feel like a less efficient process. You can share your observations as well, but then ask them to interpret those observations--don't jump in with your own interpretation unless it's absolutely necessary.
+
+To get people to talking more extensively and reflecting more deeply on their experience, it's important to ask simple questions that can have the effect of making you look uninformed or even naive. Asking complicated questions may demonstrate how smart and well-informed you are, but in the process you'll do more talking then they will, and they'll learn much less as a result.
+
+In general, the more you talk when leading a debrief, the less effective you are. When you do talk, questions are usually more useful than statements. And your questions should be open-ended inquiries, not leading questions that are really statements in disguise.
+
+ 
+
+For Further Reading
+
+Experiential Learning Cycles
+
+Experiential Learning Revisited
+
+William James on Experiential Learning
+
+Your Guide to Active Reviewing (Roger Greenaway)
+
+- Greenway, a British trainer and consultant, is one of the leading experts on debriefing, which he calls "reviewing." Don't be put off by the somewhat baffling design of his website--it's a treasure trove of resources.
+
+Updated April 2021.
+
+Photo by Hunger and Nutrition Commitment Index.
+
+
+===== END ED BOT ESSAY 3527 =====
+===== BEGIN ED BOT ESSAY 3528 =====
+---
+title: Dancing Your Way to a Better Team
+url: https://edbatista.com/2007/09/dancing.html
+slug: dancing
+published: 2007-09-01T16:24:42
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+How do you maintain team cohesiveness during periods of extensive turnover? You could try dancing.
+
+The Oakland A's Triple-A affiliate in Sacramento, the River Cats, have seen an astounding number of players pass through their clubhouse this season--a player has been called up or sent down 174 times, according to a recent article in the SF Chronicle by Susan Slusser.
+
+Despite this turmoil on the roster, the River Cats won their division and are about to begin the Pacific Coast League's playoffs, a feat that A's assistant general Manager David Forst calls "incredible." So how did manager Tony DeFrancesco keep his team together? Slusser offers an explanation:
+
+Infielder J.J. Furmaniak, who's bounced between Sacramento and Oakland this summer, said that DeFrancesco was proactive about making sure new faces felt included. He did that by having every addition introduce themselves during pre-game stretching--and then doing a dance. [emphasis mine]
+
+"Even the big-league guys did it," Furmaniak said. "Well, (Mark) Kotsay did some dancing, anyway. Tony made sure no one was sitting alone in a corner, everyone was interacting."
+
+I love this idea, and it's relevant even if dancing wouldn't fly with your team. The underlying concept is twofold: first, as a leader you need to take proactive steps to connect people when turnover is high, and second, that process will have a greater impact if you find a shortcut around the interpersonal barriers that exist among strangers.
+
+Having new players introduce themselves to everyone is a good plan--and most managers would have stopped there. The brilliant wrinkle that DeFranceso added was having them do a dance as well, which got everyone laughing and brought the new guys into the fold much more quickly.
+
+I haven't danced in front of my current colleagues, but a few weeks ago we did an improv session with Chris Sams of BATS Improv that included a lot of physical movement and a lot of silliness as well. It was a great opportunity to get loose and have some fun, and afterwards we felt more connected as a team, even though we'd been working together for the better part of a year. There's much more to be said about the value of improv in a team-building context, but the relevance here is that the exercises allowed us to see a different, less formal, more personal side of ourselves than we usually present at the workplace, and I imagine the River Cats' dances had the exact same effect.
+
+
+===== END ED BOT ESSAY 3528 =====
+===== BEGIN ED BOT ESSAY 3529 =====
+---
+title: Bill George on Teaching Leadership
+url: https://edbatista.com/2007/08/bill-george-2.html
+slug: bill-george-2
+published: 2007-08-29T15:50:29
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+Bill George is former Chairman and CEO of Medtronic, whose market cap grew an average of 35 percent annually during his tenure, and currently a professor at Harvard Business School. His recent interview with Charlie Rose included the following exchanges:
+
+Charlie Rose: [Leadership] can be taught and learned?
+
+Bill George: Learned. I teach now, and I don't think you can teach leadership, I think you can learn about it. I think you can learn about yourself. It comes from within, from who are you inside and what makes you tick, and what are those tapes playing in your head about what you want to be and what your limitations are.
+
+(later in the interview)
+
+Bill George: In this century, leadership has changed. Leadership is not about getting people to follow you, the "Great Man theory," follow you over the hill General George Patton style. That idea is out. To me, the great leaders today are able to align people around a sense of purpose and values and get that consistency all around the globe, and then empower other people to step up and lead. And I've found that in organizations that are really effective at generating leaders, there are thousands of leaders because people empower them to step up and lead.
+
+(still later)
+
+Charlie Rose: I asked [earlier] about teaching leadership--what can you teach?
+
+Bill George: What we can do is cause people to come together and learn about themselves through dialogue... You learn about who you are, and if you go inside yourself, you find out, "What are my passions?"
+
+(still later)
+
+Charlie Rose: One last question: Self-analysis is crucial to leadership?
+
+Bill George: Yes, absolutely.
+
+Charlie Rose: If you can delude yourself, or if you are in self-denial, you will never be able to [lead]?
+
+Bill George: Can you get... Do you seek out honest feedback from people about who you are? The hardest thing we have to do is see ourselves as others see us. And do you gain that self-awareness? Some people think they have it, but they've never really tested themselves, and that is crucial. Until you have that level of self-awareness, and you know who you really are...  As one of our leaders said, "You know, I won't trust anyone who's never failed because they don't really know who they are."
+
+I'm struck by George's emphasis on increased self-awareness through dialogue and feedback from others. These practices are hallmarks of the work I do with students at Stanford's Graduate School of Business, not only in our more formally organized leadership development programs, but also in Interpersonal Dynamics, aka "Touchy Feely," both of which provide students with extensive feedback on how others see them.
+
+These methods are a perfect complement to George's vision of 21st century leadership, in which a leader's ability to inspire others to "follow you over the hill" is of less importance than your ability "to align people around a sense of purpose and values...and then empower other people to step up and lead."
+
+If you're inspiring followers, self-awareness may be less important than the natural charisma we've traditionally associated with strong leadership. But if you're aligning and empowering other leaders, your success will depend on your ability to connect with people not as "followers" but as independent decision-makers and to motivate and influence them by speaking to their needs and interests.  This requires a keen degree of self-awareness and the ability to see yourself clearly through the eyes of others.
+
+ 
+
+For Further Reading
+
+True North: Discover Your Authentic Leadership (Bill George with Peter Sims, 2007)
+
+
+===== END ED BOT ESSAY 3529 =====
+===== BEGIN ED BOT ESSAY 3530 =====
+---
+title: Paul Thornton on the Best Leadership Advice
+url: https://edbatista.com/2007/08/paul-thornton.html
+slug: paul-thornton
+published: 2007-08-28T21:31:37
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+What's the best advice you've been given on leadership? Paul Thornton asked that question of 137 leaders and has compiled their responses in a compelling little volume, Leadership: Best Advice I Ever Got. I've been meaning to read and review this book for months, but when I first got it my reading pile was several feet high, and then by the time this book had made it to the top of the pile, other work was preventing me from doing much blogging.
+
+But when I finally made the time to read "Leadership," I wound up racing through it in a single sitting, dog-earing pages as I went. I don't agree with all the advice relayed by Thornton's subjects, but even the comments I disagree with provide an interesting view into what that person values and the knowledge that has contributed the most to their own development as a leader.
+
+To give you a sense of the richness of Thornton's book, here are excerpts from four of his subject's comments, all taken from pages 12-20:
+
+Jim Ligotti, VP, Maritime Solutions, Ingersoll-Rand
+
+[My dad] would remind me that delaying or not making a decision was in fact making the decision not to decide. You never will have enough information, you never will have enough time, but you do need to take hold of the moment and make the best decision you can.
+
+Liz Weber, Weber Business Services LLC
+
+Being liked as a leader doesn't get the job done; being respected does. Before...I had run myself ragged trying to please everyone. I had tried to keep them happy and had tried to make sure they were happy with me. No more. I finally realized my job as a leader was to lead to the best of my ability and forget the unwinnable battle of pleasing everyone.
+
+Richard J. Faubert, President and CEO, Amberwave Systems
+
+[L]eaders connect with people at many levels. My wife taught me to first get in touch what what motivates people before dictating my solutions to problems. Feelings make powerful connections and can be a strong motivator. Also, oftentimes you need to get through the feelings before you can have a productive discussion about the problem.
+
+Daniel D. Elash, PhD, Principal, Syntient
+
+[My mentor Norman Forer] urged me to always remember that "Leadership is a relational concept. You aren't leading unless others choose to follow." His advice was to always speak about new ideas or possibilities in the frame of reference of my audience. My role wasn't to wow them with my insights but to stir them to follow my hearts onto a path toward a worthy goal.
+
+These aren't earth-shattering insights, but I find them meaningful because they speak to me, to my own strengths and weaknesses, in concrete terms. I suppose that's the ultimate purpose of a book like this: Every reader is going to find something that resonates with them and their experiences.
+
+Perhaps feeling obligated to close a collection of anecdotes with a unifying vision, Thornton closes the book with a few chapters on his own views of leadership. That's certainly his authorial prerogative, and I enjoyed some aspects of this section, but it didn't feel organically connected to the rest of the book.
+
+It's clear that Thornton values directness and clarity and in some areas this serves him well; for example, his argument that all the various leadership styles discussed in management literature can be boiled down to just three--directing, discussing and delegating--is both thought-provoking and useful. But in other areas Thornton's emphasis on simplicity seems forced, and prevents him from fully exploring some of the interesting ideas he raises.
+
+Ultimately I found "Leadership" a worthwhile read not for the depth of any single insight, but for the breadth of perspectives provided by Thornton's subjects on a wide range of challenges faced daily by leaders in every organization.
+
+(Full disclosure: Thornton was gracious enough to provide me with a review copy of "Leadership.")
+
+
+===== END ED BOT ESSAY 3530 =====

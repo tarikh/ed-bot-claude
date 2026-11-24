@@ -1,0 +1,171 @@
+===== BEGIN ED BOT ESSAY 3161 =====
+---
+title: Social Networks
+url: https://edbatista.com/2005/03/social_networks.html
+slug: social_networks
+published: 2005-03-25T12:03:24
+updated: 2005-03-25T12:03:24
+source_body: wordpress-html
+---
+
+Nonprofits must start taking advantage of social networking tools, and Marty Kearns of Green Media Toolshed is on a roll in the Social Networking session at the Nonprofit Technology Conference.
+
+Giving someone a newsletter doesn’t qualify as a benefit when they already have too much to read.
+
+Networks have different topographies, like landscapes. How does the topography of your network influence its capacity to do things?
+
+We know that networks provide power and strength…but by mapping them, we can see them…and come up with strategies [to take advantage of them more effectively.]
+
+Marty's key points:
+
+1) Strong Social Ties
+When you go out for beers with people, you're much more likely to work together than if [the only similarity is that] yourmission statements are aligned.  Social ties work. We all know it but nobody [in the nonprofit sector] invests in it strategically.  But do the big consulting firms [that serve for-profits] invest in it strategically. Yeah, you bet.  People bond with people, and that needs to be our strategy.
+
+2) Common Story
+[Issues that bind network members together are crucial.]
+
+3) Dense Communications Grid
+[It's finally here.  Take advantage of it.]
+
+4) Shared Resources
+You can’t say “It’s ours, and you can’t use it” [about resources like membership lists.]
+
+5) Clear Windows of Opportunities
+[Be prepared to act quickly.]  The challenge of the networked world is to aggregate and synchronize.  When you allow people to talk to each other, they find truth faster.
+
+Andy Stocking from Care2 is up next.
+
+What's the Value of Social Networking to Nonprofits?
+
+- Retention through increased loyalty
+
+- Rapid growth through increased viralness
+
+- Better personalization through connections and information
+
+- Distributed work
+
+To grow a network, campaigns must be viral.  The way N-TEN formed, the way this community formed is through viral connections.  It has to be friends telling friends. 
+
+Three Attributes of an Effective Viral Campaign:
+
+- Intrinsic belief (provide educational message to change members' attitudes toward a particular action; create an ingrained belief)
+
+- Empowerment (promote a sense of self-efficacy, where members know they can personally make a difference)
+
+- Social norm (create an atmosphere where activism is part of the social norm)
+
+How to think about social networks within your organization: You all know that you have a community out there, and within that community there are different connections and structures.  There are a whole bunch of overlapping communities [with different interests].  Your audience aren't just members of your organization.
+
+Would you give a competing nonprofit access to your activist list?  Most nonprofits would say no.  But we know already that people are members of multiple groups [so perhaps that competitive approach is misguided.]
+
+Care2.com's audience generally parallels the Blue State/Red State map, but they skew high in some surprising places because they targeted social networking campaigns in those places, and their members told friends.
+
+Last year they launched Care2Connect, their social networking tool.  Tools like Care2Connect Friendster, the new CivicSpace tools can be used by nonprofits as a way to both create new networks and tap into pre-existing ones.
+
+Care2Connect allows Care2 to distribute the work of connecting their members to themselves--the members use the system to identify peers with common interest and establish relationships.
+
+Does Social Networking Benefit Nonprofits?
+
+Question #1: If we took a group of 300 members and tracked their activism level (daily actions, petition signatures, etc.), would it remain flat and be spread over more organizations, or would it increase?
+
+Questions #2: What effect do multiple group memberships and discussion boards have on activism?
+
+Results: Total activism doubled following the launch of Care2Connect.  Each new post or new group membership results in a 2% increased likelihood to take action.
+
+Conclusion: As your members become more active in the community they will become more active for your organization.
+
+In the direct mail world, those groups that share their lists have a higher retention rate than those groups that keep their groups to themeselves.  The same is true online.
+
+Getting Started:
+
+1) How do I identify and create closer bonds with my best members?
+
+2) What type of work can I distribute to these best members?
+
+3) What type of technology can I implement to harness this technology?
+
+Next up is Adam Rubin of MoveOn.
+
+[MoveOn does a lot of distributed work through their network.]  We have a small staff of about 10 people.  The key question is "What can we delegate?"  What can you get somebody else to do?  Take tasks that are traditionally done by professional staff and push them out through your network.
+
+[An example is their Tech Support Hotline, which recruited MoveOn members as technical support staff.]
+
+Another example is a distributed message, Bush in 30 Seconds.  What if you asked people to come up with their own ads?  [MoveOn posted ads created by members and others, and then asked both members and professionals to vote on the ads that they thought were most effective.  The members and the pros actually both chose the same ad.]
+
+
+===== END ED BOT ESSAY 3161 =====
+===== BEGIN ED BOT ESSAY 3162 =====
+---
+title: At the NTC
+url: https://edbatista.com/2005/03/at_the_ntc.html
+slug: at_the_ntc
+published: 2005-03-25T11:45:22
+updated: 2005-03-25T11:45:22
+source_body: wordpress-html
+---
+
+I'm here at the Nonprofit Technology Conference in Chicago, my first N-TEN event as a participant (as Senior Consultant with Beaconfire, to be specific) rather than an organizer.  Everyone's been asking me how it feels, and my colleague Heather Stouffer had the best analogy: It's like the first wedding you attend after your own.  I'm not worried about whether everyone's having a good time or whether the wireless connections are working--instead, I can focus on the issues that are most interesting to me rather than being spread too thin trying to cover everything under the sun; I can actually sit in sessions rather than having to be available in the hallway; and I can have in-depth conversations with people rather than talking to everyone for 30 seconds before being pulled into the next discussion.
+
+I'm really pleased to see how much the NTC has grown and how far N-TEN has come, and I'm proud to have played a role in that evolution.  But I'm also so happy to be here in a different role, thinking about different things.  More on that to come...
+
+
+===== END ED BOT ESSAY 3162 =====
+===== BEGIN ED BOT ESSAY 3163 =====
+---
+title: Back in the Saddle
+url: https://edbatista.com/2005/03/back_in_the_sad.html
+slug: back_in_the_sad
+published: 2005-03-04T17:54:08
+updated: 2005-03-04T17:54:08
+source_body: wordpress-html
+---
+
+Apologies for the light, uh, nonexistant posting this week--I've been too busy enjoying my last few days of unemployment.  That's right--I've caved in and taken a job.  Starting March 14, I'll be Senior Consultant at Beaconfire Consulting, a great firm that I got to know very well during my years as N-TEN's Executive Director.
+
+Beaconfire provides a range of technolology-related services to mid-sized and large nonprofits.  We basically have four practice areas:
+
+- Technology Planning
+
+- Software Evaluation
+
+- Solution Design & Development
+
+- Interactive Marketing & Fundraising
+
+For the first six months, I'll be spending most of my time on business development, sales and marketing while I learn more about the different practice areas.  Starting in the fall, I'll be spending most of my time on consulting engagements, although I'll continue to stay closely involved with biz dev.
+
+As I wrote the other week, "I've been a bandleader for four years, and now I'd like to pick up an instrument of my own."  What I meant is that I'm ready to step back from the broad community-organizing work I did with N-TEN and work in greater depth with a smaller number of organizations on issues that I'm personally excited about--and this new gig provides me with the perfect opportunity to do just that.  I also wrote that "I've been increasingly eager to speak my mind more freely, to be more candid and less diplomatic," and although I don't expect to become a bull in a china shop, I'm looking forward to doing more critical analysis and creative problem solving.
+
+Thanks to Lynn, Michael and Jeff for asking me to join their team--I'm really looking forward to it.  More details to follow, but we now return you to your regularly scheduled blogging.
+
+
+===== END ED BOT ESSAY 3163 =====
+===== BEGIN ED BOT ESSAY 3164 =====
+---
+title: Steely Dan
+url: https://edbatista.com/2005/03/steely_dan.html
+slug: steely_dan
+published: 2005-03-03T22:25:30
+updated: 2005-03-03T22:25:30
+source_body: wordpress-html
+---
+
+I wasn't a fan during their heyday--too young--but their hits saturated the '70s, so they felt familiar when I started to listen to them more seriously a few years ago. And my appreciation for Walter Becker, Donald Fagen and their shuffling cast of bandmates just continues to grow the more I listen to them. I love the way they bring so many things together--cryptically smart lyrics, richly complex tunes buried under those FM-friendly hooks, and this whole ethos that suggests that they got the most out of the '70s without letting the era overwhelm them.
+
+And what a history. Laboring as ABC studio songwriters, Becker and Fagen recorded their own songs on the side, and when "Do It Again" turns into a surpise hit (#6!) in the Fall of '72, they're suddenly rock stars. They tour for months on end, driven mercilessly by ABC. I have to assume they enjoyed at least some of the fruits of the touring life in '73-'74, the nadir of the Decadent West, but it ultimately burned them out, and in July '74, with three successful albums under their belts, they quit the road for good--well, for 20 years, anyway.
+
+Between '74 and '80 they release four more albums, peaking critically and commercially with Aja in '77, which hit #3 behind Fleetwood Mac's Rumours and Billy Joel's The Stranger. But although 1980's Gaucho is relatively successful, it seems overshadowed by record company wrangling, car accidents, etc. Becker and Fagen are apparently ready for Steely Dan to be over, and they just...stop.
+
+Fagen puts out The Nightfly in '82 to good reviews (if you're in my demographic you might remember an unusually tasteful music video for "The New Frontier"), but he and Becker basically spend the '80s and early '90s kicking back, noodling around on some cool side projects, and fading into cult status. And then in the mid-'90s, the bug bit them, and they started playing together and even touring again. In 2000 they released Two Against Nature, their first new album in 20 years, and it hit #6, and they just kept going, putting out Everything Must Go in 2003.
+
+Looking at Steely Dan's career as a whole, three things make them unusual. First, it's hard to think of other artists who were as musically and intellectually serious and who also had so many huge hits. (I'm not saying there aren't any--but off the top of my head none come to mind.) I'm not sure if that's because Steely Dan essentially buried their bad attitude in head-scratching lyrics and brought fusion to the masses by wrapping it in hooks, or if it's just because the listening public in those days was more comfortable with complicated music. Eh, probably the former.
+
+Second, I'm still struck by the fact that they were so woven into the texture of the decade, they were such '70s Rock Stars, and yet they seem to have come through that era and that experience as relatively normal people. A little reclusive, perhaps, but not Basket Cases or Flaming Assholes.
+
+And finally, it's impressive that they took so much time off but were then able to rekindle their collective creative fire so successfully. I haven't heard either of the two recent albums, so perhaps I should reserve judgment, but it's clear that this is no reunion tour, no nostalgia sell-out. Impressive on many levels.
+
+If you're interested, I highly recommend the Steely Dan site, particular this detailed history by Pete Fogel. And props to Matt, who appreciated these guys about ten years before I did and helped turn me on.
+
+
+===== END ED BOT ESSAY 3164 =====

@@ -1,0 +1,338 @@
+===== BEGIN ED BOT ESSAY 4219 =====
+---
+title: Lessons from Ferrari CEO Benedetto Vigna
+url: https://edbatista.com/2024/05/ferrari-ceo-benedetto-vigna.html
+slug: ferrari-ceo-benedetto-vigna
+published: 2024-05-10T06:25:42
+updated: 2025-10-05T15:36:47
+source_body: wordpress-html
+---
+
+I'm skeptical of glowing CEO profiles. When we put leaders on pedestals, we often set them up for a fall. That said, Ben Cohen's recent Wall Street Journal piece on Ferrari CEO Benedetto Vigna offers some interesting insights. [1] While it would be a classic example of the fundamental attribution error to give Vigna too much credit for the company's stellar performance, he's clearly made a meaningful contribution since taking on the role in 2021. [2]
+
+Respect for tradition, with a fresh perspective.
+
+Vigna cares deeply about the Ferrari tradition of excellence, dating back to his childhood when he was a devoted fan of the company's Formula 1 racing team. But his training in the semiconductor industry gives him a new perspective on the brand: "It's a luxury company where, contrary to other luxury companies, technology plays an important role."
+
+There's a noteworthy contrast here with Boeing, the world's largest aircraft manufacturer. Founded in Seattle in 1916, Boeing may have been seeking a fresh perspective when they relocated their headquarters to Chicago in 2001. But in the process they seem to have lost their traditional focus on engineering, laying the groundwork for a host of serious production problems today. [3]
+
+Cultural evolution.
+
+Respect for tradition doesn't mean no change at all. Vigna was dismayed to find an unnecessarily complex and multi-layered organizational structure, and he took steps to simplify it:
+
+The problem, he discovered, was that Ferrari was being weighed down by its "bureaucratic mass index," his name for the excess layers of an organization... At one point, Vigna counted nine levels of employees in a cybersecurity meeting and noticed that only the lowest-ranking person had anything useful to say. He restructured groups and reduced the number of organizational levels.
+
+But these changes appear to have been measured, not sweeping:
+
+When you change the culture of a company, it's never a revolution. It's an evolution. If you have a revolution, you will have a lot of passive resistance and you will be inefficient. You will was a lot of energy for a small gain.
+
+A freer flow of information.
+
+When Vigna became CEO, he was concerned that the company's structure was preventing important information from reaching him. He began his tenure by interviewing 300 employees from throughout the company, and he didn't stop there:
+
+Vigna also sought out the people who had spent the most time in Ferraris: the test drivers... He bumped the test drivers from six levels below the CEO to three with the goal of accelerating the flow of information. "They cannot be nested under the engineers," Vigna said. "Otherwise it's like asking the server how is the wine."
+
+While I thoroughly enjoyed Cohen's piece on Vigna, this post is also just a good excuse to share not only the gorgeous photo above--possibly a 225 Sport Spider from the 1950s--but also one of my favorite videos of all time:
+
+Footnotes
+
+[1] He Loves Speed, Hates Bureaucracy and Told Ferrari: Go Faster (Ben Cohen, The Wall Street Journal, April 20, 2024)
+
+[2] Roberto Fernandez, one of my best professors in business school, described the fundamental attribution error as "ascribing causality to personal characteristics when causality actually lies with the situation." The original research was also conducted at Stanford in the 1970s: The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process (Lee Ross, Advances in Experimental Social Psychology, L. Berkowitz, editor, pages 173-220, 1977)
+
+[3] Why Boeing’s Problems with the 737 MAX Began More Than 25 Years Ago (Bill George, Harvard Business School Working Knowledge, January 24, 2024)
+
+Photo by Bill Abbott.
+
+
+===== END ED BOT ESSAY 4219 =====
+===== BEGIN ED BOT ESSAY 4220 =====
+---
+title: Leader as Referee
+url: https://edbatista.com/2024/05/leader-as-referee.html
+slug: leader-as-referee
+published: 2024-05-05T06:59:33
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader with a team of employees who are consistently embroiled in internal conflict. While purely interpersonal factors may contribute to this state of affairs, there are usually additional contextual or structural issues that transcend individual personalities. [1] For example, these teams often operate in an environment with variable compensation plans, such as sales or investing.
+
+These teams are typically less interdependent than operating teams that win or lose as a unit. Team members may even view their nominal colleagues as direct competitors. [2] And there may be ambiguity surrounding individual responsibilities or "swim lanes." Sales organizations can allocate business by deal size or geographic territory, and investment firms may subdivide along industry verticals, but these boundaries aren't always clearly marked (and some parties may benefit from a lack of clarity.)
+
+My work with clients who are leading in these circumstances involves mitigating the effects of interpersonal conflict, to be sure. [3] But it's also important to recognize that conflict probably can't be eliminated, and that may even be a counter-productive goal. There's a tendency today to idealize friendly and collaborative relationships among colleagues and to downplay the utility of internal competition, and in many settings that's entirely rational: teams that win or lose as a unit usually underperform when they view colleagues as antagonists. [4]
+
+But in the right circumstances internal competition fuels superior performance, and the leader who's too quick to stifle conflict will miss opportunities to succeed and may even destroy value. To be entirely clear, I'm not suggesting that organizations should foster cutthroat attitudes among colleagues in order to achieve business goals. There's evidence that excessive internal competition can contribute to undesirable turnover and create perverse incentives to game the system. [5]
+
+One option for a leader facing this dilemma is to envision their role as a referee. Just as a ref in a sporting contest must ensure that competitive behavior doesn't impede fair play, a leader in this situation must assess the costs and benefits of internal competition and determine how to respond when conflicts occur. They can start by predicting likely scenarios and the appropriate consequences.
+
+What's aggressive but fair play?
+
+Some conflicts generate rancor and friction, but in the leader's estimation no lines were crossed. Fairness is in the eye of the beholder, and a leader should make an effort to get the perspective of all parties involved. But it's not necessarily the case that the leader must defer to anyone whose feelings have been hurt. People need to take responsibility for their emotions, not merely view their response as a function of others' behavior. [6] And while the leader-as-ref-can promote fair play, it's also true that not everyone is cut out for competition.
+
+What merits a penalty?
+
+Tolerance for a degree of internal conflict doesn't mean "anything goes," and the leader has an obligation to respond to behaviors that cross a line and merit some form of penalty. Barring legal and regulatory requirements that supersede a leader's latitude to determine when a line has been crossed, this is a subjective assessment that's highly dependent on what's normative in the cultural context. Behavior that's unremarkable in some cultures is a minor faux pas in others and a major violation in still others. The nature of such penalties can vary widely, from a mild rebuke or some critical feedback [7] to a formal censure or performance improvement plan. Here it's incumbent on the leader to be consistent across individuals and from one incident to the next, or risk creating perceptions of unfairness or favoritism.
+
+When do you take someone out of the game?
+
+Referees have the ability to declare a player no longer eligible to participate in a given contest. A leader might consider some form of this option in situations where a more severe penalty is called for and a cooling-off period could benefit all parties. In the moment, someone might be asked to leave a meeting or drop off a call. If problems persist, they may be removed from a deal or a project team. Even further, they may be assigned to a new role or levelled. [8]
+
+When do you cut them from the team?
+
+Leaders aren't merely "referees," of course. Most of my clients also function as a "general manager" or "team owner," with the ability to determine who's on the roster. And in some cases a violation is so egregious that the person loses their job. Occasionally this is the result of a single episode, which usually entails legal or regulatory issues that compel the leader to act. More commonly there's been a pattern of behavior that has persisted over time, and here's where many leaders who are comfortable with conflict make a misjudgment: They fail to take early action to call a penalty, and what begins as an "aggressive but fair" culture turns increasingly toxic as "hard fouls" go unpunished.
+
+This may be justified on the basis of financial performance. Organizations routinely make exceptions for bad behavior when people make their numbers. But cultures are slow to change, and when an organization allows toxicity to fester because the assholes are hitting their targets, the "cultural debt" won't be paid down automatically if they're fired when they falter. As I've noted before, "Invest in the culture you want, or get the culture you deserve." [9]
+
+ 
+
+Footnotes
+
+[1] The Layer Cake of Working Life
+
+[2] What Kind of Team Are We?
+
+[3] A Working Relationship Curriculum
+
+[4] Startup Leadership: A Greater Us
+
+[5] For example, the competitive dynamics engendered by "rank and yank" management systems can have a range of intended and unintended effects:
+
+- Forced distribution rating systems: When does “rank and yank” lead to adverse impact? (Gary Giumetti, Amber Schroeder and Fred Switzer, Journal of Applied Psychology, 2015)
+
+- The return on investment of rank and yank in a simulated call-center environment (Dennis Adsit, Warren Bobrow, Peter Hegel and Ben Fitzpatrick, Consulting Psychology Journal: Practice and Research, 2018)
+
+- A New Hope for Rank and Yank (Jamie Mulligan and Rebecca Bull Schaefer, Journal of Leadership and Organizational Studies, 2011)
+
+[6] You Make Me Feel... (On Language and Responsibility)
+
+[7] How to Deliver Critical Feedback
+
+[8] The Fine Art of Levelling
+
+[9] The Accumulation of Cultural Debt
+
+ 
+
+Photo by Football Schedule.
+
+
+===== END ED BOT ESSAY 4220 =====
+===== BEGIN ED BOT ESSAY 4221 =====
+---
+title: 8,000 Coaching Sessions
+url: https://edbatista.com/2024/05/8000-coaching-sessions.html
+slug: 8000-coaching-sessions
+published: 2024-05-01T11:18:34
+updated: 2026-03-05T13:53:03
+source_body: wordpress-html
+---
+
+I've kept careful records since launching my coaching practice in 2006, and an hour ago I conducted the 8,000th coaching session of my career. This only includes formal coaching sessions: 6,936 with private clients to date, and 1,064 with MBA students at Stanford from 2007 through 2020. It does not include countless informal conversations with clients and students over the years. As a solo practitioner I've learned that it's incumbent on me to be deliberate about learning from experience and to organize my own celebrations, so this post is a bit of both.
+
+For many years coaching was a central focus of my professional life, but it was just one of a number of activities I pursued. In my practice I worked with organizations on change management efforts and conducted workshops and offsites for leadership teams and groups of founders. In my role at Stanford I helped to launch the Leadership Labs and Leadership Fellows program, facilitated 1,500 hours of T-groups in Interpersonal Dynamics (aka Touchy Feely) and later taught the course myself, and started my own course, The Art of Self-Coaching.
+
+But over time I found myself drawn to one-on-one coaching more than any other activity. In my practice I stopped taking on consulting projects or facilitating other events. In 2016 I resigned from my full-time role at Stanford to focus on my private practice, although I continued to teach Interpersonal Dynamics and The Art of Self-Coaching one day a week. In 2017 I resigned from the Interpersonal Dynamics faculty in order to teach The Art of-Self-Coaching year-round, in part because my course allowed me to work more closely with students on a one-on-one basis. In 2021 I taught The Art of Self-Coaching for the final time before taking a year off, and last year I resigned from Stanford entirely.
+
+So for the past seven years one-on-one coaching has been my primary professional activity, and for the past three years it's the only thing I've done. I enjoy working with groups, and I'd probably still be teaching The Art of Self-Coaching at Stanford if it weren't for the pandemic, which triggered a host of changes in my life. And I may work with groups again in the future--for example, I've been thinking about doing some small weekend retreats--but it's clear that one-on-one coaching is and will remain my primary passion. So what have I learned after 8,000 coaching sessions? Half-a-dozen lessons come to mind:
+
+1. Initial Conditions Matter
+
+I first learned this from Carole Robin, one of my most important mentors and later one of my colleagues on Stanford's Interpersonal Dynamics faculty. In our work with groups she encouraged me to expand my awareness of a host of factors, often unstated or implicit, that influence a group's development, which I later defined as follows: "Every group is rooted in a set of initial conditions that form the foundation for all subsequent aspects of the group experience. How and why were we gathered together? What will our first meeting be like? What will we discuss there?"
+
+Initial conditions are equally important in a one-on-one coaching engagement, and it's necessary for me to understand something about a prospective client's interest in coaching in order to determine whether I'm going to add value. But I prefer not to over-determine their responses by means of a complex or detailed discovery process. So when I'm meeting with a prospective client I tell them that I have just three questions: Why coaching? Why now? What are your hopes and expectations for a coaching relationship? I've found that how people choose to answer these questions tells me a great deal about the initial conditions for the potential engagement.
+
+If you're a prospective coaching client: How would you respond to my questions above: Why coaching? Why now? What are your hopes and expectations for a coaching relationship?
+
+If you're a current client: What led you to seek coaching initially? What were your hopes and expectations for the relationship? How have those factors influenced the trajectory of your relationship?
+
+If you're a coach: How do you learn about a prospective client's initial conditions? How do you determine whether you can add value? What factors lead you to decline a prospective engagement?
+
+2. Support and Challenge
+
+As I wrote in 2017, "A client once told me, 'It feels like you're always in my corner, but you never hesitate to challenge me.' It was some of the most gratifying feedback I ever got because it precisely describes my intended approach to the process. My clients need to feel supported by me in a number of ways... My clients also need to know that my support will not prevent me from challenging them."
+
+And as I noted just a few weeks ago, "[Coaching will] involve surfacing your assumptions and preconceptions, questioning your interpretation of events, and challenging you to take responsibility for your contributions to the situation. Coaching begins with empathetic listening, but it doesn't stop there."
+
+When I challenge a client, I want them to know that I’m doing so with their best interests at heart, and when I’m providing support, I want them to know that I’ll always be candid and direct. This by no means a skill I've "perfected," because the right balance between the two is always dynamic, varying not only from one client to another, but also from one coaching session to the next. But I pay close attention to what a client might need in a given moment (and may ask explicitly), while observing whether we're emphasizing one mode at the expense of the other.
+
+If you're a prospective coaching client: How do you prefer to receive support? How do you prefer to be challenged? How do these preferences serve you? How might they get in your way?
+
+If you're a current client: How does your coach express support? How does your coach challenge you? How do you feel about the balance between these modes in your relationship?
+
+If you're a coach: How do you express support for a client? How do you challenge them? How do you sense when you've found the right balance for a given client, in a given session? How do you sense when the balance might be off?
+
+3. Many Teachers, No Guru
+
+I've had so many different teachers over the course of my development as a coach. When I was considering coaching as a path I spent the better part of a year under the mentorship of Joe Murphy, who was training a friend to join his practice and invited me to work with them while I documented his methodology. I read voraciously in the process, and the single most impactful book was Susan Scott's Fierce Conversations, although I'd later add Coaching with the Brain in Mind, by David Rock and Linda Page. (Here are lists of the other books and articles I've found useful.)
+
+Before launching my practice I talked extensively with a number of coaches about the discipline and the field, most notably Andrea Corney, Rebecca Zucker and Ricki Frankel. (Two decades later I continue to talk with fellow coaches frequently, a series of conversations I've been documenting over the last three years in this thread.) And the decision to quit my last role in management and launch my practice was catalyzed by a T-group facilitated by Barbara Brewer and Dietmar Brinkmann.
+
+Six years after earning my MBA I returned to Stanford to serve as a teaching assistant to David Bradford. I was later accepted into the school's Group Facilitation Training Program, where I worked closely with Mary Ann Huckabay, who was previously my teacher and coach (and is still my coach today!) I was then invited to join Evelyn Williams' team that established the Leadership Fellows program and offered coaching to our second-year students. I also served on Carole Robin's staff in the Leadership Coaching and Mentoring course, which drew heavily on the Co-Active Coaching model, and I later helped to integrate that class's coaching curriculum into the revamped version of the Fellows program. I would also work repeatedly with Carole, Scott Bristol, Gary Dexter and Richard Francisco on their staff in Interpersonal Dynamics (aka Touchy Feely).
+
+I could mention even more but am mindful of taxing a reader's patience. Every one of these teachers contributed something unique to my growth as a coach--and yet no one has been my guru. I deeply value the relationships I developed with my teachers, particularly Mary Ann and Carole, and yet I believe I've grown the most by integrating the lessons I've learned from all of them into an approach that reflects not only their influence, but also my independence. I serve neither myself nor my clients by remaining on any one teacher's path for too long.
+
+If you're a prospective coaching client: What would you like to know about a potential coach's teachers and influences? How might this inform your selection of a coach?
+
+If you're a current client: What do you know about your coach's teachers and influences? How do these factors show up in your coaching relationship? How might they get in the way?
+
+If you're a coach: Who are your teachers? How have they influenced you? How have you integrated their lessons into your approach? What have you discarded?
+
+4. Master the Playbook. Throw It Away.
+
+Coaching involves a continuous and cyclical process of learning, unlearning and relearning. Those of us who are drawn to coaching as a profession have often played a "coach" role in prior stages of our personal lives, and that was certainly the case for me. I learned how to connect with people, how to be a good conversational partner, how to offer advice that would be perceived as helpful. This behavior was entirely genuine on my part, but it was also intentional and motivated. In a rudimentary sense, I "mastered a playbook" that enabled me to navigate interactions with a degree of effectiveness.
+
+And yet when I began studying interpersonal dynamics in earnest with the goal of becoming a coach, I realized that I had to "throw out the playbook" and unlearn any number of conditioned responses. A little small talk could help initiate a connection, but too much would keep the discussion at a superficial level. Filling an awkward silence might ease the other person's anxiety, but it might also block a breakthrough. Volunteering advice would allow me to feel useful, but it might also prevent the other person from accessing their own wisdom. I had to relearn how to interact with people--and do so in a way that felt (and was perceived as) fluid and natural.
+
+But coaches don't go through this process once--we repeat it countless times over the course of our careers. All of the teachers noted above had playbooks of their own, sometimes made explicit in formal texts and programs, but also embedded in the implicit norms of their practice and method. My goal was always to learn as much as I could from each new playbook, unlearn practices from prior playbooks that were now getting in the way, and relearn how to apply this accumulating body of knowledge. In order to remain constantly open to learning, I must also feel free to throw away what I've learned at any time.
+
+If you're a prospective coaching client: What would you like to know about a potential coach's training and experience? How might this inform your selection of a coach?
+
+If you're a current client: What do you know about your coach's training and experience? How do these factors show up in your coaching relationship? How might they get in the way?
+
+If you're a coach: How has your training and experience influenced your approach to coaching? What playbooks have your mastered? How is your mastery of an old playbook getting in the way of new learning?
+
+5. Power Dynamics
+
+The longer I coach, the more I appreciate and value the work of Jeff Pfeffer, who I view as our leading scholar on power. I didn't take his course when I was an MBA student, but I included his work on my syllabus when I taught Interpersonal Dynamics years later (and as far as I know I was the only Touchy Feely faculty member to do so.) Jeff's approach is often mischaracterized by the naive as Machiavellian or unethical. In truth, Jeff is a deeply ethical person with strong opinions on right and wrong. But he's also equally pragmatic about the importance of understanding how power works and learning how to wield it, no matter what your goals are.
+
+I don't know Jeff well, but I consider him a colleague, and last year I shared this line with him, from the anthropologist and philosopher Ernest Becker: "If you are wrong about power, you don't get a chance to be right about anything else." He found it striking, and I think it's an apt headline for his body of work. It's certainly one of the most common themes I've observed in my practice over the years. People who are seeking coaching have typically found, in one of countless possible ways, that they have been wrong about power.
+
+This isn't to say that obtaining power is necessarily an explicit goal of theirs, although that's not uncommon. But whatever their goals, if the client is to succeed, typically they must recognize how they have misunderstood power and how it works in their particular context. They must improve their ability to engage in and win power struggles, and as I've written before, "We often think of a power struggle as a rancorous, zero-sum battle between bitter enemies, but that's just one version, and it's relatively rare. Far more common are the everyday efforts noted above: influencing others, wielding authority, maintaining status."
+
+It's also important to consider the power dynamics within the coaching relationship. I take great care to emphasize to clients that our relationship must be a partnership of equals, and I say explicitly, "'I'm not an authority figure, nor am I a subordinate. We’ll work together as equal partners in this process and share responsibility for its success. If we ever feel that we’re not acting as partners, we’ll say so."
+
+If you're a prospective coaching client: How might you have been "wrong about power"? How might this be preventing you from achieving your goals?
+
+If you're a current client: What are you learning about power through coaching? How are you applying these lessons? How would you characterize the power dynamic between you and your coach?
+
+If you're a coach: What role does power play in your coaching? How do you incorporate an understanding of power dynamics in your approach? How do you manage the power dynamic between you and your clients?
+
+6. It's a Journey
+
+A coaching relationship is a type of journey, each one unique, but collectively possessing some similar features. As I learned many years ago, it's the client's boat: "Coaching inevitably involves helping a client reach a destination, and as a coach it can be easy to fall prey to the illusion that it's my boat, I've invited the client on board, and after we've reached our destination they'll step ashore. But that gets things exactly backwards: it's the client's boat, they've invited me on board, and after our work is done I'll go ashore while they continue on to the next leg of the voyage."
+
+While a journey should be a meaningful experience, the coaching process must also be normal: "Coaching...must challenge established norms, from clients' internal mental models to the surrounding organizational culture. But even as we're challenging these norms, coaches and our clients must also find ways to work within them. In a word, for coaching and other interventions to achieve their goals they must be perceived as normal--stimulating and thought-provoking, certainly, but also applicable under everyday conditions. But too often coaching and related services are perceived as special--applicable only under unusual circumstances or too far beyond everyday norms to be practical or sustainable."
+
+On this journey client and coach rely on each other as traveling companions, which entails a degree of intimate distance: "Meaningful coaching is always an emotionally intimate experience, no matter what’s being discussed. In part this is a function of the context: two people talking directly to each other with no distractions... Intimacy in a coaching relationship also results from a willingness to 'make the private public'--to share with another person the thoughts and feelings that we usually keep to ourselves... And yet an essential factor that makes such intimacy possible is a clear set of boundaries defining the relationship, which create an inevitable and necessary sense of distance... The relationships I have with my clients are warm and friendly ones, and yet it would be inaccurate to say that we're friends--they need me to be their coach, not their friend, and we do the relationship a disservice if we confuse the two."
+
+If you're a prospective coaching client: Where are you going? How might coaching help you get there? What are you looking for in a traveling companion?
+
+If you're a current client: How would you characterize the journey to date? How are you assessing progress? In what ways does coaching feel "normal," i.e. applicable under everyday conditions? In what ways does it feel "special," i.e. impractical or unsustainable? How would you characterize your coach as a traveling companion?
+
+If you're a coach: Whose boat is it? How do you know? How do you make coaching applicable under your clients' everyday conditions? How do you make coaching a practical and sustainable experience for your clients? How are you showing up as a traveling companion for your clients? How are your clients showing up for you?
+
+Thank you to my clients and students over the years. It was and continues to be a privilege to accompany you on a stage of your journey.
+
+For Further Reading
+
+Connect, Reflect, Direct...Then Ask (On Coaching) (2023)
+
+Self-Care for Coaches (2023)
+
+Work with Whatever Shows Up (2022)
+
+Coaching and Emotion Management (2018)
+
+Deference Kills Coaching (2018)
+
+Three Paradoxes (Another Coaching Manifesto) (2017)
+
+The Six Layers of Knowledge and Better Conversations (2016)
+
+Tips for Coaching Someone Remotely (2015)
+
+How Great Coaches Ask, Listen and Empathize (2015)
+
+How to Find (and Choose) a Coach (2013)
+
+Coaching and the Cult of Done (2012)
+
+In Defense of Normal (A Coaching Manifesto) (2012)
+
+Coaching Is a Journey (2011)
+
+Hammering Screws (Bad Coaching) (2011)
+
+Gestalt Coaching (2009)
+
+Image via Wikimedia.
+
+
+===== END ED BOT ESSAY 4221 =====
+===== BEGIN ED BOT ESSAY 4222 =====
+---
+title: When You're on Thin Ice
+url: https://edbatista.com/2024/04/when-youre-on-thin-ice.html
+slug: when-youre-on-thin-ice
+published: 2024-04-23T08:28:50
+updated: 2025-10-10T14:01:12
+source_body: wordpress-html
+---
+
+I don't work with clients who are being forced into a coaching engagement against their will. In those situations coaching is usually viewed as a last-gasp desperation measure or as a way to mitigate legal risk, and in either case the odds of success are low. But it's not uncommon for a new client to have sought coaching in response to a major setback that has jeopardized their professional future, or for a current client to unexpectedly encounter a similar situation. They haven't yet lost their jobs, or their company, but they're on thin ice. If you are, too, what should you do?
+
+1. Slow Down
+
+If you're in this position you've likely experienced a great deal of success up until now. This may be your first serious professional setback. In these circumstances it's common for events to speed up--or to just feel that way. You may sense an urgent need to take action in some form, to right a wrong or clear your name or do something. But as I've noted before, "The impulse to hurry should often be interpreted as a signal to slow down." [1]
+
+This is particularly true when you're on thin ice, in part because you probably haven't spent much time here during your career, and your past training may not serve you well. In my experience successful leaders and executives often have a high need for power and a low need to be liked [2], a desire for control [3], and a degree of comfort with conflict. [4] If you identify with any of these characteristics, it's possible that the very factors that contributed to your previous success may have also fueled your recent setback. Rather than forge ahead, it may be most useful to pause and reflect on how you got here.
+
+2. Get the Right Help
+
+This is one of the primary benefits of coaching in these circumstances. Being on thin ice often involves a lot of stressful meetings with senior management, HR, attorneys and others who have a wide range of motives and obligations that may or may not align with yours. In contrast with these other events on your calendar, a coaching conversation will proceed at its own pace, leaving ample room for reflection.
+
+And unlike these other figures, a coach is there to help you set your agenda, focus on what's most significant to you, make sense of what's happened, and learn from the experience. Note that this will also involve surfacing your assumptions and preconceptions, questioning your interpretation of events, and challenging you to take responsibility for your contributions to the situation. Coaching begins with empathetic listening, but it doesn't stop there. [5]
+
+All this said, it's understandable if you have some skepticism or uncertainty about coaching, particularly if you're being encouraged to pursue it as a result of this setback. It's important that you feel sufficient autonomy in the selection of a coach, convinced of their competence, and a personal connection. While your organization may recommend that you choose from among a roster of coaches, you should expect to be able to have a discovery conversation with several to find the best fit, and come prepared with questions for them, just as you would with any other candidate for a mission-critical role. [6]
+
+Specifically, be sure to discuss confidentiality with a prospective coach, and clarify under what circumstances, if any, they will be interacting with anyone else in your organization. [7] Without knowing this in advance, it will be hard for you to know what is safe to share with your coach, and it will be equally hard for them to know what is safe to share with anyone else, making it far more difficult for you both to build trust with each other.
+
+3. Hope for the Best
+
+Recovering from a serious setback doesn't happen overnight. Making your way back from the thin ice will likely be a multi-stage process, and it's helpful to set realistic expectations. In many situations your first goal is professional survival--retain your position, keep the company alive, avoid any catastrophic outcomes. And as someone who's experienced a great deal of success, you may feel impatient or even desperate to put this episode behind you.
+
+Here the sense of urgency and bias for action that may have served you well in the past are unlikely to be as useful. Your setback has probably put you, your performance, and even your behavior under a spotlight--or a microscope--and you're now subject to careful and ongoing scrutiny. This is no doubt unpleasant, especially if you believe that you're the subject of unjust accusations. [8] But in this situation taking forceful action can easily be labelled "defensiveness," and note that you don't get to make that determination--the people around you do. [9]
+
+I'm not suggesting that you meekly accept what's happening and seek to avoid giving offense. You may need to apologize, but that may also may be inadvisable. [10] Nor am I suggesting that mere survival is the best you can hope for. It may well be possible to find your way to solid footing and not merely survive, but thrive. And yet that will undoubtedly take time, just like any recovery from illness or accident. In particular, be prepared for some vestige of this episode to cling to your reputation, and to face repeated reminders, implied or explicit, that you were once on thin ice.
+
+Some important skills to cultivate in this context include resilience and emotion regulation in the face of perceived threats [11], the ability to make the most of this experience as a learning opportunity [12], and a view of failure as a source of potential growth. That last point doesn't mean you should passively tolerate failure, but, as I've written before, "Whenever we're pursuing something ambitious--in the business model, the strategic plan, the investment, the hire, the career step--we will fail, repeatedly. But in the process we are also ruling out possibilities as we seek to understand what works." [13]
+
+4. Prepare for the Worst
+
+Even as you work toward a recovery in concert with your colleagues and other stakeholders, you may also need to be prepared for the situation to take a turn for the worse. Assess the extent to which you can rely upon in-house or corporate counsel, who may have obligations that conflict with providing you with the best possible guidance. If there's a risk of legal action directed against you, or if you may need to take action to protect your interests, you will want personal counsel to advise and represent you.
+
+You may be reluctant to obtain counsel because it feels premature or unnecessary. But thin ice can break, and you don't want to be researching your options when you're in the water. At the very least, interview several prospective attorneys who specialize in representing individual executives and get a feel for their approach and communication style so you'll know who to call if needed. Some attorneys are very comfortable with antagonistic litigation, while others prefer mediation. There's no universal best practice, but it can be useful to consider who they'll be facing should legal action be necessary.
+
+Footnotes
+
+[1] The Importance of Slowing Down
+
+[2] McClelland and Burnham on Power and Management
+
+[3] Authority and Control in Organizational Life
+
+[4] The Warrior and the Sage
+
+[5] Connect, Reflect, Direct...Then Ask (On Coaching)
+
+[6] How to Find (and Choose) a Coach
+
+[7] Duty of Confidentiality and Duty to Disclose
+
+[8] Staying Sane When You've Been Falsely Accused
+
+[9] Defensiveness Is in the Eye of the Beholder
+
+[10] Should You Apologize? It Depends.
+
+[11] Ignoring Bandits and Building Resilience
+
+[12] Learning How to Learn
+
+[13] The Ruling Out of Possibilities (On Failure)
+
+Photo by Owwe.
+
+
+===== END ED BOT ESSAY 4222 =====

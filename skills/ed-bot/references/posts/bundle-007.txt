@@ -1,0 +1,128 @@
+===== BEGIN ED BOT ESSAY 3096 =====
+---
+title: Our Band Could Be Your Life
+url: https://edbatista.com/2005/01/our_band_could_.html
+slug: our_band_could_
+published: 2005-01-30T22:11:44
+updated: 2005-01-30T22:11:44
+source_body: wordpress-html
+---
+
+Back in December, Merlin Mann of 43 Folders posted a fantastic rant on Five Mistakes Band & Label Sites Make. Don't assume that his warnings apply only to musicians; we've all seen way too many "creative" sites that violate his simple List of Website No-No's:
+
+- Too Much Flash
+
+- Crappy or Non-Existent MP3 Metadata*
+
+- Too Artsy, Too Fartsy
+
+- No Search
+
+- One-Way Communication (i.e. No contact info)
+
+Please read the whole thing, all you site designers with itchy trigger fingers. The world will thank you.
+
+Mann's speaking for all of us Joe Users who frequent fashion-forward sites. Your site doesn't need to look like Jakob Nielsen's (as the guys at Design by Fire made clear.) But Mann is pointing the way toward sites that look good AND work well. Usability doesn't have to be ugly.
+
+*MP3s or no, the concept of metadata is still crucial to your site. (Although obscure blogger Todd Stephens recently theorized that RSS will kill conventional metadata, and big-shot blogger Cory Doctorow opined at the height of the dot-com bubble that metadata is "a pipe-dream, founded on self-delusion, nerd hubris and hysterically inflated market opportunities.")
+
+Hat tip for the title: "History Lesson, Pt. 2" (Windows Media Stream)
+
+
+===== END ED BOT ESSAY 3096 =====
+===== BEGIN ED BOT ESSAY 3097 =====
+---
+title: ThinkPad Love
+url: https://edbatista.com/2005/01/thinkpad_love.html
+slug: thinkpad_love
+published: 2005-01-30T11:01:47
+updated: 2025-10-11T22:16:55
+source_body: wordpress-html
+---
+
+From the profane to the mundane... This guy really loves ThinkPads.  And I completely understand.  Having used a ThinkPad for about 6 hours a day, almost every day for the past 3.5 years, and even though I burned out a screen and a hard drive, I can't imagine using anything else.
+
+When my wife needed a laptop, getting a ThinkPad was a no-brainer.  When I started getting ready to buy a personal laptop and hand over my trusty T23 to my successor at work, I flirted briefly with an iMac (I was inspired by the joy my iPod brought me, but my test sessions at the Apple store proved disappointing), and with a Dell (I was tempted by the low prices, but a little online research convinced me that there were too many problems with the chassis I wanted--like scorching hot palmrests), and I eventually came back to Big Blue, err, Tai Lan Yan Se.  (Actually, it sounds like the Feds are going to kill the deal, which is fine with me.)
+
+IBM's high prices are tough to swallow, but a great alternative to buying new is their certified reconditioned program.  They don't promote it extensively, but you can find some very good deals right on their site:
+
+IBM.com > Products > Clearance Corner > Certified Used Equipment > Notebooks
+
+There you'll find a list of available ThinkPads, all competitively priced.  I picked up a T40, WinXP, 40 GB hard drive, 512 MB RAM, 1.5 GHz Pentium M, integrated wireless card, CD/RW-DVD, yada, yada, yada, and an 18-month warranty, for $1,150.  With an extra battery that swaps with the CD-drive (the batteries that ship with used ThinkPads are notoriously close to end-of-life), plus tax and 2-day shipping, the whole damn thing was about $1,400.
+
+Comparable to anything similarly equipped from another manufacturer, with all the good stuff that just makes ThinkPads nicer to use, particularly the rock-solid keyboard and chassis.  And if I feel like shelling out a few hundred more, I can still get IBM's next-day, on-site service deal.
+
+So far, so good with the new T40.  I had an initial bout of hair-rending and teeth-gnashing when it appeared that downloading WinXP Service Pack 2 had created an irresolvable conflict with the integrated wireless card, but IBM's telephone service was actually helpful!  (Well, they batted .667.  Call Center Dude #1 was  an uber-geek who put me on the right path, told me to download and install some new software and call back.  Dude #2 was dumb as a goddamn rock and put me on hold in the hopes I would just hang up and go away--which I did.  But then Dude #3 called me the next day to see if everything was OK.  Long story short, it is.)
+
+A few minor gripes: the display on my old T23 was much brighter than the one on my new T40--however, that's not really a fair comparison, because the T23's original display burned out and had to be replaced.  And the T40's hard drive is a little noisier--again, not a fair comparison, because the T23's first HD also died and was replaced.  And the T40's chassis, while thinner, is also slightly creakier.
+
+Those are quibbles, but remembering the dead screen and HD I suffered through remind me that I really should get the extended on-site service deal.  Like health insurance, it's money well spent.
+
+UPDATE: Although I fixed the WinXP SP2 conflict with my wireless card the first time around, I subsequently screwed things up again by changing too many configuration settings in order to network the XP T40 with my old Win2K T23.  I got the little LAN set up, but then couldn't get the T40 back up on the wireless network.  Tried everything, everything failed.  So I went for the complete factory restore.  Shouldn't have been that big a deal, really, since there wasn't much installed software on the machine--but I was just fried at that point, and it wasn't much fun, either.
+
+So starting from scratch I updated the wireless card's drivers and IBM's Access Connections, and I'm not going to install XP SP2--instead, I'm just going to switch to Firefox.
+
+
+===== END ED BOT ESSAY 3097 =====
+===== BEGIN ED BOT ESSAY 3098 =====
+---
+title: Primo Levi
+url: https://edbatista.com/2005/01/primo_levi.html
+slug: primo_levi
+published: 2005-01-29T23:19:04
+updated: 2025-10-08T20:46:33
+source_body: wordpress-html
+---
+
+The 60th anniversary of the liberation of Auschwitz, two days ago now, prompted thoughts of Primo Levi's If This Is A Man: Remembering Auschwitz, which I read four or five years ago but which remains vivid in my memory.
+
+One of the aspects of Levi's writing that had such a strong effect on me was the way he portrayed the intimate, personal, horrifying details of the Holocaust.  The full reality of millions of people imprisoned, executed, or worked to death is so vast that it causes an emotional numbness; I simply shut down, because to feel in the face of so much suffering would be too overwhelming.
+
+But reading Levi's description of life in Auschwitz, one man's experience makes the Holocaust more terrifying to me than the staggering death count:
+
+When one's nails grow long, they have to be shortened, which can only be done with the teeth (for the toenails, the friction of the shoes is sufficient); if a button comes off, one has to tie it on with a piece of wire; if one goes to the latrine or the washroom, everything has to be carried along, always and everywhere, and while one washes one's face, the bundle of clothes has to be held tightly between one's knees: in any other manner it will be stolen in that second.
+
+...Do not think that shoes form a factor of secondary importance in the life of the [camp].  Death begins with the shoes; for most of us, they show themselves to be instruments of torture, which after a few hours or marching cause painful sores which become fatally infected.  Whoever has them is forced to walk as if he was dragging a convict's chain...; he arrives last everywhere, and everywhere receives blows.  He cannot escape if they run after him; his feet swell and the more they swell, the more the friction with the wood and the cloth of the shoes becomes insupportable.  Then only the hospital is left: but to enter the hospital with a diagnosis of "dicke Fusse" (swollen feet) is extremely dangerous, because it is well known to all, and especially to the SS, that here there is no cure for that complaint.
+
+...
+
+The [beam we are carrying] is coated with snow and mud; at every step it knocks against my ear and the snow slides down my neck.  After fifty steps I am at the limit of what a person is theoretically able to support: my knees bend, my shoulder aches as if pressed in a vise, my equilibrium is in danger.  At every step I feel my shoes sucked away by the greedy mud, by this omnipresent Polish mud whose monotonous horror fills our days.
+
+I bite deeply into my lips: we know well that to gain a small, extraneous pain serves as a stimulant to mobilize our last reserves of energy.  The [guards] also know it: some of them beat us from pure bestiality and violence, but others beat us when we are under a load almost lovingly, accompanying the blows with exhortations, as cart-drivers do with willing horses.
+
+...
+
+[Winter] means that in the course of these months, from October till April, seven out of ten of us will die.  Whoever does not die will suffer minute by minute, all day, every day: from the morning before dawn until the distribution of the evening soup we will have to keep our muscles continually tensed, dance from foot to foot, beat our arms under our shoulders against the cold.
+
+...
+
+Just as our hunger is not that feeling of missing a meal, so our way of being cold has need of a new word.  We say "hunger," we say "tiredness," "fear," "pain," we say "winter," and they are different things.  They are free words, created and used by free men who lived in comfort and suffering in their homes.  If the [camps] had lasted longer a new, harsh language would have been born; and only this language could express what it means to toil the whole day in the wind, with the temperature below freezing, wearing only a shirt, underpants, cloth jacket and trousers, and in one's body nothing but weakness, hunger and knowledge of the end drawing nearer.
+
+
+===== END ED BOT ESSAY 3098 =====
+===== BEGIN ED BOT ESSAY 3101 =====
+---
+title: Icelandic Chic
+url: https://edbatista.com/2005/01/icelandic_chic.html
+slug: icelandic_chic
+published: 2005-01-29T14:55:36
+updated: 2025-10-11T22:17:35
+source_body: wordpress-html
+---
+
+Yesterday's Wall Street Journal has an interesting article by Amy Chozick (subscription only, so no link-love) on 66° North, the fashion-forward, cold-weather clothing company based in Iceland (described as "Prada meets Patagonia"), and the efforts of one Sharon Price to introduce the brand to the U.S. over the last two years.
+
+It's interesting to me for three reasons:
+
+First, Price's success to date--although somewhat limited--is just more support for Virginia Postrel's thesis on the importance of style.  In Chozick's article, retail analyst Marshal Cohen initially expresses skepticism about 66° North: "The last thing the world needs is another high-end outdoor apparel line."  But then he softens: "Iceland gives consumers something different."  Exactly!  Very few products are needed; the ones that succeed are wanted.  And well-designed, stylish clothing that's different is most definitely wanted.
+
+A second, related issue is the challenge faced by a stylish brand that's trying to go mainstream--or in this case, at least break out of boutiques and get into major retailers.  Chozick quotes James Mendolia from the Parsons School of Design: "Once a retailer has defined cool to the masses, it's no longer cool, and it's on to the next thing."  This is the traditional, fashion-industry, design-school view of the world, and from that limited perspective, Margolia's right.  When you and I and the rest of the hoi polloi start buying 66° North, it's all over--Margolia wouldn't be caught dead in it.
+
+But what Postrel's talking about, and what I think Price is onto, is the idea that style is no longer about keeping one step ahead of the masses.  That's just old-school elitism--the rich need to keep the rest of us out of their gated communities to feel rich--and that's fine.  But style today is about everyone having access, at every price point.  Style for everyone!
+
+And third, Ms. Price "had no fashion or retail experience."  She just saw 66° North duds on a family trip to Iceland, decided it would sell in the States, and jumped into the clothing business.  She's clearly no babe in the woods, with an MBA and a background in real estate, and she also seems to have some significant resources at her disposal, sporting a "large yellow diamond ring"--and face it, only rich people vacation in Iceland.
+
+But my point is that Price's eye for distinctive style is her key entrepreneurial asset.  How many of us see something and think, "Wow, that [fill in the blank] looks great!"  Well, 999 times out of 1,000, a thought like that isn't enough to build a business around--but then there's that one time.  It's inspiring.
+
+
+===== END ED BOT ESSAY 3101 =====

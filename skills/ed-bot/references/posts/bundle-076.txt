@@ -1,0 +1,470 @@
+===== BEGIN ED BOT ESSAY 3393 =====
+---
+title: Inbox Zero
+url: https://edbatista.com/2006/04/inbox_zero.html
+slug: inbox_zero
+published: 2006-04-04T13:21:15
+updated: 2006-04-04T13:21:15
+source_body: wordpress-html
+---
+
+The always-awesome Merlin Mann has been running a series on email productivity over the last few weeks called Inbox Zero.  I'm liberally excerpting the takeaways that seemed most relevant to me in order to refer back to them, but if you share my pain, read the whole series and draw your own conclusions.
+
+From Articles of Faith:
+
+[T]here is no way you will ever be able to respond to — let alone read in exquisite detail — every email you ever receive for the rest of your life...
+
+Accept that your workload exceeds your resources — that you are the first and last filter for what deserves your time — and you'll already be better off than you were even two minutes ago...
+
+You need an agnostic system for dealing with mail that isn’t based on nonces, exceptions, and guilt...
+
+If you've allowed your email to get out of control, and you can trace any of the resulting procrastination and inaction back to feelings of guilt, low self-esteem, or just the general feeling that you alone completely suck at this, quit it now.
+
+You are so not alone. Everyone I know (including me) is overwhelmed with email and unsure of how to make it better in a given day. Beating yourself up about it is the worst thing you can do, since it just reinforces the core fears and anxieties that kept you from dealing with the problem in the first place (buy this book, dammit)...
+
+There's a kind of personal honesty that you’re going to need by the caseload if you want to seriously get a handle on this stuff — honesty about true priorities, realistic time expectations, and a baseline gutcheck on what you really intend to do about any given message.
+
+...[I]f you want to stop being part of the dolorous majority whose ass is getting kicked by email every day, it's time to get serious about improving your habits. And that starts with changing your attitude.
+
+From Five Sneaky Email Cheats:
+
+The template
+
+I’ll bet that eighty percent of your email involves sending or responding to the same 5-10 basic messages over and over. Think of all the times you"ve groaned, and thought "Ugh. Again?" Yeah, those.
+
+For the love of God, acquire and use a program that will let you use templates.
+
+The question
+
+I’m not proud of this one, but I do use it. If I've sat on an email for a long time, I sometimes get the ball back in motion with a very low-threshold question to the sender.
+
+Honestly? Asking "Do you still need this?" might be the most time-saving question you’ve ever asked.
+
+The delete key
+
+Seriously: is this an email you are ever going to respond to? If it’s more than a week or two old, either answer it or delete it now.
+
+If this strikes you as unsatisfactory or feels "mean and icky," then ask yourself why, precisely, you're still staring at this message instead of responding to it. Under what conditions, in your mind, will this email magically become more "answerable?"
+
+From Delete, Delete, Delete (or "Fail Faster"):
+
+[D]eleting fast and well is actually one of the most difficult skills to master, since it requires you to be straight with yourself starting from the moment a new message arrives. Is there an action here? Will you really respond to this email? Or, will you, more likely, just let it sit there for an hour or a day or a decade while you ruminate upon its ontological significance?...
+
+Just remember that every email you read, re-read, and re-re-re-re-re-read as it sits in that big dumb pile is actually incurring mental debt on your behalf. The interest you pay on email you're reluctant to deal with is compounded every day and, in all likelihood, it's what's led you to feeling like such a useless slacker today...
+
+So, seriously, if you're not going to do anything with a message, just get it out of your sight, and make room for the actionable messages in your life. Delete it, or — if you’re a big chicken like me — archive it. In any case, remember that if this were something you really wanted to and could respond to, you would have done it the second it arrived.
+
+From Schedule Email Dashes:
+
+I've counseled (ad nauseum) on the dangers of leaving your email app set to autocheck more often than every 15 minutes or so. Apart from generating an appalling number of pointless interruptions, persistent autocheck can also condition you into some really weird habits.
+
+Perhaps worst of all, you  begin to think of your email program primarily as a delivery and notification system — a kind of communications slot machine whose hopeful beeping and lightshows habituate you into thinking "just one more pull..."
+
+...Assuming for a moment that email work is actually comprised of a few distinct but related tasks, how often do you realistically need to do each of these things? Estimates are fine, and coming up with your own definitions of email task work is fine, too.
+
+- Checking for/being notified of any new email — even dumb stuff
+
+- Scanning your new messages for items needing time-critical input from you
+
+- Quickly responding to the time-critical items
+
+- Processing "the pile" into actions, calendar events, and messages in need of a short response only
+
+- Responding to new and non-critical messages that have accumulated
+
+- Performing occasional metawork like mailbox refactoring, rules tweaking, etc.
+
+...[W]hat if you thought about this for a while, provisionally decided on the least email focus you can possibly tolerate, and then were to just try experimenting with a schedule along these lines:
+
+- New email check + scanning + super-fast responses: 2 minutes every 20 minutes
+
+- Non-critical responses: 10 minutes or 5 emails every 90 minutes
+
+- Processing "the pile": 2 minutes every hour + 15 minutes at the end of the day
+
+- Metawork: 15 minutes twice a week
+
+- Further culling, responding, and clearing "the pile": Through the day, as available, in 5-8 minute dashes
+
+And apart from that? Email is off. Closed. Quit. You're doing other things. Can you do it?
+
+...[T]here's nothing that says you have set this schedule once and then never change it. You might, like me, have hours or even days where you simply have to live in your inbox. No problem. But wouldn’t you rather be escalating that by choice, than by rote?
+
+From What's the Action Here?:
+
+I reckon that my biggest "secret" to inbox zero is no secret at all. It’s based heavily on David Allen’s Getting Things Done book, and consists primarily of quickly answering  a few escalating questions about each email message in my inbox:
+
+- What does this message mean to me, and why do I care?
+
+- What action, if any, does this message require of me?
+
+- What's the most elegant way to close out this message and the nested action it contains?
+
+Not very earth-shattering stuff until you consider how much of the crap in your own inbox may never have been subjected to these simple filters.
+
+Fifty percent or more of your mail may not make it past the first question: delete. A majority of the remainder may not make it past the second (beyond perhaps a one- or two-line reply). And, God willing, you’ll eventually get really fast at dispensing the rest with quick application of the third. The key is to get super-fast at turning valuable messages into actions or placeholders for action...
+
+This doesn't make you an impatient jerk. It just means that you've learned what happens when you don't put a value on your own time and attention; you can't afford to say "yes" to every item that's lobbed over your transom.
+
+From Processing to Zero:
+
+The more email you have been neglecting in your inbox, the more drastic and ruthless your processing must be. If you've got more than a few hundred messages in the backlog, I wouldn't even think about responding just yet... Use your judgement about whatever best removes your blocks and gets you through the pile with your sanity intact.
+
+Personally, I'd concentrate first on just processing based on a battlefield "biage" (is that even a word?). Delete the obvious spam, chain letters, and kitty photos. Archive the mailing lists and blog comments (sorting by subject is great for this), all the while identifying, flagging, and relocating all the actual important stuff to a "pending" folder — that's the stuff that will take your real brain power and valuable time. Just get that sucker down to zero now. Fast. Go.
+
+Only when you’re at zero do you return to "pending," concentrating on short responses and generation of to-dos. Gang your work, stay in one mode, and if you start getting exhaustipated, just take a break and return by running dashes 3-5 times a day.
+
+Understand: if you’ve really let things go, you ain’t gonna hit bottom in any 20 minutes. But be patient, and keep your eyes on the prize...
+
+...I've created four Smart Folders in Mail.app that provide a graded ramp to clearing out my disused "To Respond" folder. The names are my own. They have no actual effect on the trick, but they make me laugh, and sometimes, when I'm really behind, I need that sorely.
+
+- Peel Slowly & See
+
+- Smart Folder Rules:
+
+- Date received is in the last 2 days 
+
+- Message is flagged
+
+- Message is in Mailbox "To Respond"
+
+- Usual load: 20 emails
+
+- Time to completion: ~30 minutes
+
+- Very recent email that I can feel like a hero for answering immediately. I start here as an emotional down payment, since they’re also the messages I have the least guilt about — and, consequently, the least resistance to reading and answering.
+
+- Recent and Saveable!
+
+- Smart Folder Rules:
+
+- Date received is in the last 5 days
+
+- Message is flagged
+
+- Message is in Mailbox "To Respond"
+
+- Usual load: 50 emails
+
+- Time to completion: ~60 minutes
+
+- Here’s where I go next. Email that's only a few days old, so I don't completely suck yet. I can imply that I was trapped in a Turkish prison, appearing on a reality TV show, or even just try to play it off legit.
+
+- The Innocence Project
+
+- Smart Folder Rules:
+
+- Date received is between 5 and 60 days
+
+- Message is flagged
+
+- Message is in Mailbox "To Respond"
+
+- Usual load: 100 emails
+
+- Time to completion: 2 hours - never
+
+- This is where it gets really hard: the true Procrastination Zone. These people probably hate me, but you never know — they might be delighted just to learn I'm still alive. Effort concentrated here yields outsize dividends.
+
+- Euthanasia
+
+- Smart Folder Rules:
+
+- Date received is greater than 60 days
+
+- Message is flagged
+
+- Message is in Mailbox "To Respond"
+
+- Usual load: 10-20 emails
+
+- Time to completion: Usually? 1 second.
+
+- That’s right. I delete them. Does this make me a bad person? Only for a second. Then I’m right back in the "Recent" folders saving the ones I can — hoping they never make it into the Euthanasia ward. The point is: this is where I draw the line in the sand — it’s the absolute last chance for a response. They either get it now or never. That’s how you stay sane. Just move on.
+
+From What Have You Learned?:
+
+...[I]f you’re like me and most other people, you’ve learned four things:  
+
+- You've been blowing a lot of time, anxiety, and adrenaline on stupid bullshit.
+
+- Fast processing and quick responding are the ninja email moves.
+
+- Your brain gives you treats when you stop making it worry all the time.
+
+- You can beat this game, but you have to recalibrate now.
+
+Try to learn from what you've just experienced, and reapply your new wisdom to the way you treat email every day — nay, every time that little "new mail" chime sounds.
+
+From Better Practices for Staying (Near) Zero:
+
+Get less mail
+
+...[I]f you get a lot of email related to your website, consider adding a web-based form that forces the use of a Subject and encourages your corresponding strangers to keep it short and focused.
+
+...[T]he easiest trick here may just be to respond less. I’m not saying you should ignore people or blow off clients, but consider the cues that instant, frequent, detailed responses relay to people; one of the best ways to suggest that you want to receive less email is to send less as well.
+
+Keep less mail (with less futzing)
+
+...[I]f you’re spending more than a few minutes a day filing your email into nested folders or some kind of byzantine system of your own design, you're probably wasting a lot of time.
+
+Modern email clients like Gmail, Mail.app, and Windows' Google desktop search make it very easy to search every email you’ve ever gotten, so if you can’t bear to throw something out, consider just throwing it into one big "Archives" folder and then forgetting about it.
+
+Respond now (or never)
+
+...The only way an email will ever get out of your life (and out of your worrying brain) is to either deal with it or get rid of it. If you're planning to do anything in-between, you should have an explicit understanding of why you're doing so. Any idea which one of these is a particularly shitty idea?
+
+- I don’t have time to answer this now (but I will put it in "Respond to" and answer it within X days)
+
+- I just need to save this for future reference (so I'll just toss it in my Archive)
+
+- I need to convert this into an action by the end of the day (so I'll put it in my "Daily Pending" folder)
+
+- I'm going to just leave this in my inbox and think about it for a few days. Or months. Or years. Who knows?
+
+Schedule email work — both small and large
+
+Email should not be something you're always doing. ...[C]onsider two time-based adjustments.
+
+First, do limit the number of times you check for and then scan new email throughout each day. I won't repeat myself at length, but setting a schedule to "do email" once an hour and for just a few minutes will be more than enough contact once you recalibrate. Then return to any processed mail through the day and as time allows to work on quickly banging out responses.
+
+Second, build a time-based levee that won’t let you ever get this behind again. Using something like smart folders, make it easy to quickly determine which emails are collecting dust. Then either delete them or respond to them immediately. You can do this as often as makes sense to you, but your health and sanity will improve if you never see another procrastinated email that’s older than a couple weeks...
+
+Value your time
+
+...Email is the most dependable modern location to witness your time being frittered away by strangers, but you are now officially Vice-President in Charge of Ensuring That Your Time is Not Wasted by Strangers. Congratulations on the promotion.
+
+This also means not half-assing the attention you pay to the task at hand; do email when you do email — don’t just flip through it while thinking about Lost or fretting over your thinning hairline or wondering how you’ll paper train your new Labradoodle...
+
+...[T]think about three cool things you could do if you spent three less hours playing with your email this week. That'd eventually add up to a surplus 150 hours each year.
+
+Awe-inspiring in its productive goodness.  God bless you, Merlin.
+
+
+===== END ED BOT ESSAY 3393 =====
+===== BEGIN ED BOT ESSAY 3394 =====
+---
+title: Rudy Goes to USC
+url: https://edbatista.com/2006/03/rudy_goes_to_us.html
+slug: rudy_goes_to_us
+published: 2006-03-30T08:06:50
+updated: 2006-03-30T08:06:50
+source_body: wordpress-html
+---
+
+A student journalist at USC tried out for the football team earlier this month to write an article about the experience for the school paper.  To his shock, he actually made the team:
+
+I had gone out to the tryout not to actually make the team - no, I went through the tryout to write a story and inform the readers of the Daily Trojan who don't get this opportunity. That's all. To say the least, things have changed.
+
+I went in to talk to [head coach Pete] Carroll a little before noon, and if he was playing a joke, he sure was doing a fine job of showing a poker face.
+
+"You could catch some balls out there," Carroll said before complimenting my speed and route running.
+
+Wait a second, Pete Carroll is commending my football-playing abilities?
+
+This can't be real.
+
+"We're really low on numbers, especially wide receivers," Carroll said as he dribbled a basketball while sitting on a plush leather coach in his office. "Do you want to do it?"
+
+"Heck yes," I responded, still in disbelief of what was happening.
+
+"Well, let's do it," Carroll said as he tossed the basketball at me. He shook my hand, turned away and was immediately off to work.
+
+I'm hardly an 'SC fan, but I thought this was an encouraging story about the surprising things we can achieve when we give ourselves permission to try.
+
+
+===== END ED BOT ESSAY 3394 =====
+===== BEGIN ED BOT ESSAY 3395 =====
+---
+title: Michael Goldhaber on Openness in an Attention Economy
+url: https://edbatista.com/2006/06/michael_goldhab.html
+slug: michael_goldhab
+published: 2006-06-10T12:36:21
+updated: 2026-10-27T11:20:02
+source_body: wordpress-html
+---
+
+Over the the course of 2006 I've been writing fewer posts about technology (blogging and dead laptops excepted) and more about management and leadership.  That's partly because I've been writing more intensively about technology on my "day blog" at AttentionTrust, the nonprofit where I serve as Executive Director.  But it's primarily because technology has always been just a means to an end for me--I only started caring about it in the mid-'90s, when I saw how it would help the social services organization where I worked be more effective and more efficient.
+
+What's far more important to me than technology is helping people fulfill their potential (starting with myself.)  I firmly believe that technology can play an important role in that process, but looking toward the future, I'm increasingly interested in such disciplines as executive coaching and organizational development.  (If I hadn't settled into nonprofit management after college, I might have gone back to grad school to become a psychologist like my dad, but somehow I would up with an MBA.)
+
+Given all that, I'm thrilled when I come across concepts that bridge my vocational focus on technology and my avocational interest in personal development.  So this morning I'd like to touch on a topic that springs from my technology-related work at AttentionTrust but ultimately transcends technology entirely and speaks to such issues as how we relate to each other as individuals, how we relate to the world at large, and even the underpinnings of our social and economic structures.
+
+To provide some background: AttentionTrust's mission is to educate people about the existence of "attention data," (i.e. the various types of digital records that reflect what we pay attention to [and what we ignore], and in turn serve as the fundamental basis for determining value in our information-based economy), and to subsequently empower people to exert control over and make effective use of their attention data, thereby becoming active participants in the emerging "attention economy."
+
+One of the intellectual forefathers of the concepts that underlie our work is Michael Goldhaber, an incredibly thoughtful and gracious man whom I've had the pleasure of getting to know over the past year.  Michael just posted "The Value of Openness in an Information Based Economy" (PDF, 198 KB), a paper he delivered last month at First Monday's "FM10 Openness: Code, Science and Content" event.  I posted the following excerpts from Michael's paper on AttentionTrust's site, and I'm re-posting them here because I think they have some significant implications for how organizations and individuals define and obtain success.  (More on that in future posts.)  Please note that I've invented the headings--they're not in Michael's original paper:
+
+On the Term "Attention Economy":
+
+Others have adopted the term attention economy, as if it
+
+is simply one particular stage or way of looking at what they take to
+
+be eternal, namely the economy based on money, markets and standardized
+
+industry... Within that view, attention is seen as a resource, mostly
+
+of interest to advertisers. Then the "economics of attention" is only
+
+the study of how best to deploy and structure attention to greatest
+
+effect in the race for money.
+
+The problem with that debased concept of attention economy is that
+
+it leaves no useful term for the real changes that roil and motivate us
+
+now. Without a term to use for it, the concept itself is even harder to
+
+grasp than it would be otherwise. We badly need the original meaning,
+
+at least until some other term captures the same concept better...
+
+On the Definition of "Attention":
+
+...[N]o one really can define attention. Whatever it is
+
+is bound up in hard-to-grasp notions such as consciousness, awareness,
+
+focus, and so on. These are terms debatable, confusing and unsettling
+
+to fields from philosophy to neuroscience, from meditation gurus to
+
+advertising mavens, from psychoanalysis to test design. There remains
+
+nothing approaching a clear scientific understanding.
+
+On Anonymity vs. Attribution:
+
+Even if you in some way choose to remain anonymous,
+
+putting out your thoughts to the world allows other people to think
+
+them, which enlarges you. Even with some degree of anonymity, if you
+
+are canny, say, in your use of the Internet, you may draw on this
+
+attention as well.
+
+At the same time, to activate others' attention it helps to present
+
+as much of yourself as possible, so as to increase the number of
+
+associations that will connect various memories to you, so as to
+
+reawaken attention, etc.
+
+On Desirable Forms of Openness:
+
+Dissemination of your thoughts and other expression as
+
+widely as possible. This is the basic openness the Internet so well
+
+permits.
+
+Open access — having one’s thoughts, expressions, etc., as available
+
+and accessible as possible, with as few barriers as possible...
+
+Self-revealing — the more aspects of oneself that express who one
+
+is, the more opportunities exist for people to align their minds to
+
+one, and the richer the accumulation of attention one may get...
+
+Claiming priority by putting out one’s thoughts in their most
+
+preliminary forms...
+
+On the Transition from a Money Economy to an Attention Economy:
+
+...[M]oney tracks attention. That is, if one has enough
+
+attention one can earn quite a bit of money, while if one cannot
+
+attract attention one tends to earn less and less... It seems
+
+reasonable to expect that the causal relation between having attention
+
+and being able to obtain the money one wishes to buy the old kinds of
+
+goods and even services will continue to grow more exact. The irony is
+
+that money is primarily required and makes sense for paying for work
+
+that is increasingly poorly remunerated. If that is so, a point may be
+
+reached where money as currency is simply no longer necessary. It would
+
+do no more than duplicate attention flows that occur anyway, as easily
+
+extended via the internet, search engines, etc...
+
+One reason open-source and corporate models are sure to clash is the
+
+issue of intellectual property. There are few large corporations today
+
+that would-be profitable without patent, copyright and trademark
+
+exclusivity. Yet these are basically inimical to the Attention Economy,
+
+as they impose barriers of some sort to either paying or seeking
+
+attention...
+
+...[A] final question to raise is when the new economy might be
+
+widely understood as the way life works, by which time the use of money
+
+may well be on the decline, and major institutions will be seen, if
+
+still important, in a very different light from the consensus view
+
+still today... [W]hen will there come a time when openness in almost
+
+everything is the norm rather than the upstart being defended against?
+
+I would guess that the timescale will prove short — a couple of
+
+generations, not the twenty or thirty that intervened in the transition
+
+between the full, all-out feudal economy of knights and feoffs and the
+
+dominance of the full industrial market, money-based economy.
+
+
+===== END ED BOT ESSAY 3395 =====
+===== BEGIN ED BOT ESSAY 3396 =====
+---
+title: Blogging is a Marathon, Not a Sprint
+url: https://edbatista.com/2006/06/blogging_is_a_m.html
+slug: blogging_is_a_m
+published: 2006-06-09T16:06:31
+updated: 2006-06-09T16:06:31
+source_body: wordpress-html
+---
+
+Blogging should not be an exhausting, burdensome task--it should be fun and engaging. If it's not, you're going to burn out, tune out and drop out. Beth Kanter points to Eric Kintz's great post on Why Blog Post Frequency Does Not Matter Anymore, which is full of good advice on why less is more.
+
+Fittingly, we just passed the one-year anniversary of Keith Robinson's Be A More Productive Blogger, which dovetails nicely with Eric's thesis and is even better advice now than the day it was posted. Keith's final point is one I put to use myself at the turn of the year when I revamped my blog and merged my personal and professional sites:
+
+- Try something new. If you’re finding that you’re falling into a rut, or
+
+talking about the same-old, same-old, get out there and try something
+
+new. This is exactly what I’m doing with To-Done and
+
+it’s not only opened up a whole new world for me with new friends and
+
+new things to discuss, it’s also got the creative juices flowing on
+
+other fronts. Write for a different audience, take up a new hobby or
+
+learn a new technology. These things all come with ideas and things to
+
+write about and they’ll keep your mind sharp, creative and ready as
+
+well.
+
+
+===== END ED BOT ESSAY 3396 =====

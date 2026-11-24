@@ -1,0 +1,152 @@
+===== BEGIN ED BOT ESSAY 3112 =====
+---
+title: Mix It Up
+url: https://edbatista.com/2005/01/mix_it_up.html
+slug: mix_it_up
+published: 2005-01-24T13:47:16
+updated: 2025-10-11T22:14:17
+source_body: wordpress-html
+---
+
+Grant McCracken has a fascinating riff on contemporary fashion that's highly relevant for other aspects of marketing and design.  Starting with a discussion of the "haute couture meets thrift shop" costume design for the hit show Desperate Housewives, Grant launches into a deeper analysis of the mixing phenomenon:
+
+[W]hy is it suddenly ok to wear things that were purchased on the cheap?(We know some of the factors here: better quality at the low end, and better design as well.)
+
+There may be a deeper motive. I wonder if people are not mixing for cultural reasons as well as economic ones. It’s possible that we are looking at a new strategy of message construction and self presentation.
+
+We know, thanks to Diderot, that there was a Western convention that says that everything in a consumer’s choice set (syntagmatic chain) must come from the same place in the paradigmatic category. Everything, coat, shirt, pants, must be of roughly equal quality, cost, formality and style. You couldn’t mix without looking odd.
+
+But something happened. I think highly redundant cultural creations are not precisely that. When we wear an outfit all from Ralph Lauren, it’s a little like we are telling the same joke over and over again. It’s as if we are repeating ourselves in the most tedious way.
+
+...We are now pretty good readers of the codes of a consumer culture. We don’t need lots of repetition to get it. The use of “genre” to construct looks can let up a little. We have permission to move away from highly redundant codes. But there is another motive. When we mix the message, we become more interesting to look upon. We become more vivid. We become actual.
+
+This is a great start at explaining the almost hallocinogenic richness of current personal styles, which you can see on almost every street corner.  But does this trend transcend individuals?  Will we see mixed-up corporate identities?  Are we already?
+
+Most discussions of branding and marketing have emphasized the importance of consistency and repetition.  (In a tangential way, I talked about some of the dangers of inconsistency in this post on political blogging and ethics.)
+
+But organizations whose look is too homogenous may be "telling the same joke over and over again."  I think you need to differentiate between those instances when it's important to be vivid and stand out, and others when it's important to be consistent and reassuring.
+
+
+===== END ED BOT ESSAY 3112 =====
+===== BEGIN ED BOT ESSAY 3114 =====
+---
+title: Favicon Mania
+url: https://edbatista.com/2005/01/favicon_mania.html
+slug: favicon_mania
+published: 2005-01-24T10:30:26
+updated: 2005-01-24T10:30:26
+source_body: wordpress-html
+---
+
+A nice touch to add to your site is a favicon, a small graphic (typically 16 x 16 pixels) that will uniquely identify the site in visitors' browser address bars, on their list of favorites, next to RSS feed listings, etc.  Here's mine, which is also on my new business cards:  
+
+There are basically three steps: 1) Create the graphic and save it as a favicon.ico file, 2) Upload it to the root directory of your site, and 3) If necessary, associate it with your site by adding some code.
+
+1) Create the graphic.
+
+The easiest way to do this is to have a image you'd like to convert to a favicon already accessible on your computer and then go to an online favicon generator, like this excellent one run by the folks at Chami.com, and then save the resulting favicon image.  (They also run a "buddy icon" generator to create new images for your instant messaging clients and offer a number of other resources for web developers.)  You can use a basic graphics or photo editor like Microsoft Paint or Picture Manager to create the original image, but those programs can't create .ico files.  If you don't have a program that can, then it's easiest to use an online generator.  The final image should be 16 x 16 pixels--another nice thing about the generators is that they'll automatically resize your original image (which should be square to start with, of course.)
+
+(To further complicate things, it's my understanding that favicons should usually be 16 x 16 pixels, but I've also read that some browsers will accept 32 x 32 pixels, and that instead of having a single .ico file, you can create different sized favicons and save them in a favicon directory.  Then the browser will identify the appropriate file it needs.  That's more than I want to deal with here, so I'm only going to talk about having a single favicon file.)
+
+2) Upload the file to your site.
+
+If you're using TypePad, like I am, this couldn't be easier.  Just go to your account's Control Panel > Files and upload the favicon.ico file to your blog's root directory.  If you have multiple blogs, you'll have to upload the favicon to the root directory for each blog, not just the "Home" directory for your account.  (It may be possible to use different favicons for different blogs, but I haven't tried it.  Other people have said it wouldn't work, but since the files are all in different directories, I don't see why not.)
+
+If you're not using TypePad, then you have to upload the favicon.ico file to the root directory of your site, i.e. where your index page is located.  I'm no expert on hosting and file directory issues, so I can't offer any more specific advice.
+
+3) Associate the favicon with your site.
+
+If you're using TypePad, you're already done.  With your favicon uploaded to each blog's primary directory, there's nothing else you need to do.  (If for some reason you're using TypePad but you'd still like to access your blog's code, see # 5 below.)
+
+But it you're not using TypePad, you'll need to access your site's code somehow--I'm going to assume you know how to do that. 
+
+In the <HEAD> tag, below the <META> tags and above the <LINK> tags, insert this code:
+
+<link rel="shortcut icon" href="https://myrootdirectory/favicon.ico" type="image/ico" />
+
+Obviously, substitute the address for your own root directory for the "myrootdirectory" above.  You may have to play around with this a little.  I noticed that on other peoples' sites they didn't have to include the entire directory address, e.g. "https://...", but just the directory name itself.  YMMV.
+
+4) Special note on RSS feeds.
+
+If you want your favicon (or another image, for that matter--it doesn't have to be your favicon) to be associated with your RSS feed, you'll need to edit the feed itself.  In summary, you have to insert the <IMAGE> sub-element under the <CHANNEL> element.  The folks at Harvard Law's Berkman Center have the details.
+
+You can do this in TypePad but only if you're using an advanced template--see below.
+
+5) Special note on TypePad code.
+
+Accessing your blog's code in TypePad is a little tricky, and it's not necessary for favicons--although it is necessary to associate an image with your RSS feed.  First, create an advanced template and assign it to your blog.  Keep in mind that this will prevent you from using TypePad's WYSIWYG template builder, so you'll have to be at least somewhat comfortable with HTML and prepared to maintain and update the advanced template by working on the code directly, without TypePad's drag-and-drop tools.  Once you've created the advanced template, you can open it up, and access the code for each of the template components, as well as the CSS.
+
+To access the relevant code to associate a favicon with your site, open up the "Main Index Template" of your advanced template and follow the instructions in # 3 above.  (Again, this is not necessary in TypePad.)
+
+To access the relevant code to associate a favicon (or other image) with your RSS feed, open up the "RSS Template" of your advanced template and follow the instructions in # 4 above.
+
+Finis.
+
+Hat tips to some helpful resources:
+
+Favicon.com
+
+MS Developers Network: How to Add a Shortcut Icon to a Web Page
+
+Post & Comments at Extra Strength Surfing Fingers
+
+Favicon primer by Ross Shannon at HTML Source
+
+Finally, thanks to Good Grief, whose well-done site inspired me to look into favicons and some of TypePad's more advanced features.
+
+
+===== END ED BOT ESSAY 3114 =====
+===== BEGIN ED BOT ESSAY 3115 =====
+---
+title: Have You No Decency?
+url: https://edbatista.com/2005/02/have_you_no_dec.html
+slug: have_you_no_dec
+published: 2005-02-16T13:02:27
+updated: 2005-02-16T13:02:27
+source_body: wordpress-html
+---
+
+The House just passed HR 310, the so-called "Indecency Act," which, if approved by the Senate, will increase fines for broadcasters found to have "violated...the prohibitions against transmission of obscene, indecent and profane material."  This is a farce and a disgrace.  In principle, it shows a blatant disregard for the First Amendment, the single most important bulwark of our free society.  And in practice, it's the worst sort of knee-jerk, scaremongering, Mommy-state politics.  People, if you don't like what they're broadcasting, then don't watch it, don't listen to it, and keep a closer eye on your kids.  But keep your hands off my First Amendment rights.
+
+Thanks to Jeff Jarvis for his invaluable coverage on this issue, including a list of the 38 brave members of the House who voted against this travesty--and for the First Amendment.  And how disappointing that Nancy Pelosi, darling of the left and my own representative, isn't on the list.  But this isn't a Left vs. Right issue, so perhaps it shouldn't be surprising to see Bay Area liberals like Pelosi and Anna Eshoo (a co-sponsor!) making  common cause with rock-ribbed conservatives like John Abney Culberson of Texas (who recently co-sponsored a bill seeking to repeal the federal income tax).  Strange bedfellows, and all that--but when so many pols of such divergent views agree on something, some healthy skepticism is called for.
+
+(By the way, there are some great online resources that allow you to keep tabs on Capitol Hill, including the House's Office of the Clerk, and the Library of Congress' "Thomas" directory of legislative info.)
+
+UPDATE: Thanks to  a tip from my wife, I just read this speech by Rep. Ron Paul of Texas criticizing HR 310.  The money quotes:
+
+This atrocious piece of legislation should be defeated. It cannot improve the moral behavior of U.S. citizens, but it can do irreparable harm to our cherished right to freedom of speech.
+
+This attempt at regulating and punishing indecent and sexually provocative language suggests a comparison to the Wahhabi religious police of Saudi Arabia, who control the "Commission for the Promotion of Virtue and Prevention of Vice." Though both may be motivated by the good intentions of improving moral behavior, using government force to do so is fraught with great danger and has no chance of success.
+
+Regulating speech is a dangerous notion, and not compatible with the principles of a free society. The Founders recognized this, and thus explicitly prohibited Congress from making any laws that might abridge freedom of speech or of the press.
+
+But we have in recent decades seen a steady erosion of this protection of free speech...
+
+We should not ignore the smut and trash that has invaded our society, but laws like this will not achieve the goals that many seek. If a moral society could be created by law, we would have had one a long time ago. The religious fundamentalists in control of other countries would have led the way. Instead, authoritarian violence reigns in those countries.
+
+If it is not recognized that this is the wrong approach to improve the quality of the airways, a heavy price will be paid. The solution to decaying moral standards has to be voluntary, through setting examples in our families, churches, and communities- never by government coercion. It just doesn’t work.
+
+Rep. Paul and I likely have different ideas about what constitutes "smut and trash," but we agree that the right way to express our objections and exert our influence involves moral suasion and leading by example, not government intervention and threats of fines.  We also agree on the fundamental importance of defending the First Amendment from those who would undermine it in the name of decency.  It's indecent speech that needs to be protected--otherwise, "freedom of speech" is an empty promise.
+
+
+===== END ED BOT ESSAY 3115 =====
+===== BEGIN ED BOT ESSAY 3116 =====
+---
+title: Dethpicable
+url: https://edbatista.com/2005/02/dethpicable.html
+slug: dethpicable
+published: 2005-02-16T11:01:00
+updated: 2005-02-16T11:01:00
+source_body: wordpress-html
+---
+
+Brooks Barnes of the Wall Street Journal reports today on one of the more bizarre brand extensions I've seen in a while.  Apparently Warner Brothers is looking to "breathe new life into its animated Looney Tunes franchise and prop up the...slumping Kids' WB line-up" by creating "angular, slightly menacing-looking versions of the classic Looney Tunes characters for its new series, dubbed 'Loonatics' and set in the year 2772."
+
+I loved Looney Tunes 25 years ago, but I'm no purist--I have no problem with Warners recycling the characters and updating them to appeal to today's kids.  But they're going about it all wrong.  The appeal of the original Looney Tunes characters was their humanity--they weren't wish-fulfillment heroes like Superman, or vacuous, saccharine figures like Mickey Mouse.
+
+Daffy Duck, Bugs Bunny and the rest of the Warners cast were by turns smug, frantic, sly, outraged, sarcastic, and sheepish.  They were, in fact, a lot like us--they were human, far more so than any other animated characters, and in that sense were the precursors to the sophisticated animation of Toy Story and A Bug's Life.
+
+Setting Daffy and Bugs 700 years in the future isn't going to make them any more contemporary--angular, menacing-looking makeovers notwithstanding.  Even though the World War II and Bing Crosby references in the classic Looney Tunes must baffle kids today, they'll still be watched when "Loonatics" is a forgotten footnote.
+
+
+===== END ED BOT ESSAY 3116 =====

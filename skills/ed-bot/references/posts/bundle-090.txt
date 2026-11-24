@@ -1,0 +1,103 @@
+===== BEGIN ED BOT ESSAY 3454 =====
+---
+title: Jim Leyland's Management Style
+url: https://edbatista.com/2006/07/jim_leylands_ma.html
+slug: jim_leylands_ma
+published: 2006-07-04T18:06:47
+updated: 2006-07-04T18:06:47
+source_body: wordpress-html
+---
+
+Jim Leyland is one of the most highly regarded managers in baseball. He has a losing career record (1,125 wins and 1,158 losses over 15 seasons at the moment), but considering that he spent 11 years with the penny-pinching Pittsburgh Pirates and later watched helplessly as the Florida Marlins sold off their stars after the '97 World Series, it's amazing that he's so close to .500. And if his  Detroit Tigers keep winning at their current pace and go deep into the playoffs, Leyland could conceivably cross that threshold this season.
+
+Gwen Knapp discusses Leyland in today's San Francisco Chronicle, prompted by the Tigers' surprising turnaround under his leadership. Knapp cites three hallmarks of Leyland's style that have contributed to his success that strike me as more broadly applicable:
+
+1) He Cares About His Team And They Know It
+Tigers coach and former Pirate Andy Van Slyke notes that, "For a long time when I was in St. Louis, I felt like a performance car with no fuel in my tank, and when I came to Pittsburgh, Jim Leyland became my fuel...I felt like my career was more important to him than [it was to me.] I think a lot of managers will say that, but the players will tell you that's not the case."
+
+2) He Does It His Way
+Mario Impemba, a Detroit broadcaster, believes Leyland "ignores stodgy baseball rules in ways that enliven the Tigers," according to Knapp, and as a result, Impemba says, Leyland "presents a challenge to the manager on the other side because he's unorthodox...They can't know what to expect."
+
+3) He's Focused on the Process
+Van Slyke again: "The great thing about playing for Jim Leyland is that he doesn't care about winning and losing...I'm not saying he accepts losing. But his emphasis has always been on effort and preparation, and if you have that, you can go to bed at night."
+
+Of course, my admiration for Leyland's success shouldn't obscure the fact that his '97 Marlins were the beneficiaries of a deeply screwed-up playoff format that sent the division-winning Giants to Miami for the first two games in the series.  But that's my problem, not his.
+
+
+===== END ED BOT ESSAY 3454 =====
+===== BEGIN ED BOT ESSAY 3455 =====
+---
+title: Joel Peterson on Why We Work
+url: https://edbatista.com/2006/10/joel_peterson.html
+slug: joel_peterson
+published: 2006-10-02T04:00:00
+updated: 2025-09-24T11:59:46
+source_body: wordpress-html
+---
+
+Why do we work? And what do we expect in return? I've been wrestling with this topic on a regular basis over the past few months. I wrote recently about a valuable lesson I learned in grad school from Joel Peterson, a business heavyweight who's been lecturing at Stanford since 1992. Peterson's final lecture was a summary of his accumulated wisdom, and I refer back to my notes from that lecture on a regular basis. Another concept of his that resonates with me is this spectrum of reasons for working and what we obtain in exchange. (Here's a larger version of the graph above, and here's a one-page PowerPoint, 98 KB.)
+
+Peterson essentially used this concept to pose two challenges to the class. First, he asked us explicitly, "If you're not where you want to be, what can you do to get there?"
+
+But he also implicitly challenged us to keep pushing further to the right: "Don't settle for work that's merely rewarding; find what you love to do and do it. Don't settle for superficial good feelings; strive for a deeper sense of meaning and purpose."
+
+
+===== END ED BOT ESSAY 3455 =====
+===== BEGIN ED BOT ESSAY 3456 =====
+---
+title: David Bradford on Real Options
+url: https://edbatista.com/2006/09/david_bradford_-2.html
+slug: david_bradford_-2
+published: 2006-09-29T20:21:10
+updated: 2025-09-24T11:59:46
+source_body: wordpress-html
+---
+
+Theories about leadership can help guide our actions, but when we're facing an immediate challenge what are our real options? In David Bradford's High Performance Leadership class at Stanford (where I'm currently his teaching assistant) he drew the following graph on the board:
+
+The class discussion focused on a case involving a manager who had to decide whether to fire or counsel a key subordinate. When surveyed, half the class thought she should fire the subordinate, and the other half thought she should counsel her.
+
+David revealed that the subordinate was ultimately fired, but as he did he asked the class, What was the manager's conceptual model of leadership? What was her personal style? What were her key skills? And it became apparent that although half of us wanted counseling to be a feasible option, firing was the only realistic outcome for this particular manager, given her leadership model, her personal style and her key skills.
+
+The larger point David was making is that our options as leaders are bounded by our concepts and capabilities in these three areas. I'd add that our Potential Options have to conform to two out of three.
+
+In any given situation, we can probably stretch beyond our current limits in one area at best--we can revise our conceptual framework, we can develop new skills, or we can modify our personal style.
+
+More realistically, the Likely Option we choose in a given situation is going to be the one that conforms to our current concepts and capabilities in all three areas. This isn't just a matter of expediency, although that's a factor to consider--we're more likely to stay within our comfort zones when we have to make decisions in a hurry or under pressure.
+
+But options that don't conform to our concepts and capabilities won't be sustainable over time. Had the manager in today's case opted for counseling over firing, she probably would have made an earnest, good faith effort--at first. But it's unlikely that she would have been able to stick with a plan that pushed her so far beyond her limits.
+
+So if we can push beyond our current limits in any of these areas--our model of leadership, our skills, our personal style--we expand the range of options available to us in a managerial situation. At the same time, we need to be mindful of our unique blend of concepts and capabilities. Theories are useful when we're trying to expand the range of options, but at the moment a decision has to be made, we have to work with the materials at hand.
+
+(Here's a three-page PowerPoint of the graphs above.)
+
+
+===== END ED BOT ESSAY 3456 =====
+===== BEGIN ED BOT ESSAY 3457 =====
+---
+title: Pema Chödrön and Mario Andretti on Control
+url: https://edbatista.com/2006/09/pema_chodron_an.html
+slug: pema_chodron_an
+published: 2006-09-28T13:37:59
+updated: 2025-09-24T11:59:46
+source_body: wordpress-html
+---
+
+I don't think we realize how much Buddhist nuns and champion auto racers have in common. From Pema Chödrön's When Things Fall Apart:
+
+From an awakened perspective, trying to tie up all the loose ends and get it together is death, because it involves rejecting a lot of your basic experience. There is something aggressive about that approach to life, trying to flatten out all the rough spots and imperfections into a nice smooth ride.
+
+To be fully alive, fully human, and completely awake is to be continually thrown out of the nest...
+
+Death is wanting to hold on to what you have and to have every experience confirm you and congratulate you and make you feel completely together.
+
+And from Mario Andretti:
+
+If everything seems under control, you're just not going fast enough.
+
+A little less spiritual, perhaps, but the underlying sentiment's the same: There's a zero-sum relationship between exerting control and living life to its fullest. Whether we're searching for enlightenment or just trying to go faster, we have to let go a little (or a lot), accept loose ends and rough spots, and embrace it all.
+
+Photo of eagle's nest by pfly, and photo of auto race by anonfx. Yay Flickr and Creative Commons.
+
+
+===== END ED BOT ESSAY 3457 =====

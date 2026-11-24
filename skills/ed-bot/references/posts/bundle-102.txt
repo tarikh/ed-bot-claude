@@ -1,0 +1,210 @@
+===== BEGIN ED BOT ESSAY 3503 =====
+---
+title: Tom Perkins, Corporate Governance and Diversity
+url: https://edbatista.com/2007/03/tom_perkins.html
+slug: tom_perkins
+published: 2007-03-03T11:37:26
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+Tom Perkins, co-founder of venture capital firm Kleiner Perkins, wrote about corporate governance in a recent Wall Street Journal piece that I found both compelling and disappointing. In Perkins' framework, privately held ventures are governed by "Guidance" boards of directors, where "the board's emphasis is on performance, getting the venture up to speed as quickly as possible, and...taking the company public..." According to Perkins, "Few question the effectiveness of this model, as few involved question the desirability of creating shareholder value," and I agree.
+
+But the board's responsibilities change after the venture goes public, Perkins writes:
+
+Once [a] startup becomes a public company, a strange metamorphosis commences. It begins to be assumed that the public investors have different goals than the original backers. The continuing creation of shareholder value--the primary goal of the venture capitalist--while not forgotten, must take its place along side a host of other considerations. Is the company socially responsible? Is it inclusive? Does its board represent the population? Are women and minorities seated around the board table?...
+
+(All of these things, unquestionably, are desirable; I helped effect these kinds of changes on all of the boards with which I have been involved.) [emphasis original]...
+
+Above all, when the venture goes public, the emphasis shifts, with the inevitability of the tides, to obeying the laws pertaining to traded companies. The SEC, the stock exchange rules, and most recently the Sarbanes-Oxley act, come into play. Since directors must be cognizant of these, bit by bit the newly gender and racially inclusive board evolves into a new model: the Compliance board...
+
+Don't misunderstand. A Compliance board is a very, very busy board. It works as hard, maybe harder (because it's all so boring) than a Guidance board. There are so very many matters to comply with, so very many governance (compliance) experts to listen to.
+
+Diversity and inclusionary problems are always there to be discussed. Sarbanes-Oxley audit committee meetings can easily require a five-hour agenda, and require one hour even to summarize for the full board... Inevitably consultants and lawyers take more and more of center stage in the workings of a Compliance board...
+
+Like it or hate it, what I have described is the evolving standard model in corporate America today. Would a Compliance board be able to prevent another Enron? I have the lurking suspicion that directors have to understand the fundamental business to understand when it is going off course... But that's just the old Guidance director in me.
+
+I fully agree with Perkins' overall thesis that we're ill-served by a regulatory regime that compels corporate boards to focus on compliance functions that minimize risk at the expense of guidance functions that maximize returns. (And I'm well aware that making this argument allows Perkins to revisit the H-P pretexting scandal and take a few shots at Patricia Dunn; that's his prerogative.)
+
+But what I find disappointing is the lack of clarity around the issues of inclusivity and representativeness. Despite Perkins' adamant assertion that these qualities are "unquestionably desirable," it's hard not to read the whole piece and sense an implication that they may be drags on financial performance that must be accepted as part of today's politically correct business climate.
+
+If a "newly gender and racially inclusive board" which has evolved from a Guidance role to a Compliance role is now less likely to "understand the fundamental business," does that suggest that the "women and minorities" who were added to the mix are playing token roles rather than adding real value? I don't think Perkins believes this, but his unclear language opens the door to that interpretation.
+
+In my  experience, diversity lends real strength to groups and helps them achieve better outcomes, and that includes boards of directors. Inclusivity and representativeness aren't just PC buzzwords--they're performance-enhancing strategies. But this ideal is dependent on interpersonal candor and truth-telling. Group members must be able to speak freely from their individual perspectives if the group as a whole is to benefit from its diversity. And this requires an honest, heartfelt commitment to these values. Nothing stifles candid discussion about differences faster than the suspicion that the group's "diversity" is mere tokenism.
+
+It's not my intention here to doubt Perkins' commitment to diversity or to impugn his character in any way. I simply want to note that his compelling argument about the dangers of prioritizing compliance over guidance is diminished by a lack of clarity around the value of diversity.
+
+Disclosure: I work for and am an alumnus of Stanford's Graduate School of Business. Perkins rightly cites Enron's board as a body that neglected its compliance duties and notes that former Stanford dean Robert Jaedicke was an Enron board member and chair of its audit panel.
+
+
+===== END ED BOT ESSAY 3503 =====
+===== BEGIN ED BOT ESSAY 3504 =====
+---
+title: Pat Croskerry on Successful Decision-Making
+url: https://edbatista.com/2007/03/pat_croskerry_o.html
+slug: pat_croskerry_o
+published: 2007-03-01T22:30:42
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+What elements contribute to successful decision-making? Canadian physician and psychologist Pat Croskerry has explored the conditions under which he and his fellow medical doctors make the most effective decisions, and his findings have implications for the rest of us as well:
+
+The successful decision-maker will be one who has an ergonomically optimized workplace, is well rested and well slept, is not driven by throughput pressures, is aware of the various cognitive and affective biases, and is able to safely blend cognitive intuitive and analytical styles according to the particular task at hand. This last is especially important. It invokes the concept of situational awareness--knowing what has gone before, what is happening now, anticipating what is coming, and then having one’s cognitive engine in the right gear. Occasionally, it may have to be meta-cognitively kicked up a notch to match the situation. [1]
+
+So how might we improve the quality of our own decisions? Some of Croskerry's recommendations are obvious, although we often fail to follow them: Make your workspace physically comfortable. Get enough sleep. Resist "throughput pressures" and take the time you need to think clearly. But he also touches on two topics that require more effort to integrate into our daily routines:
+
+1. Be aware of cognitive biases.
+
+Croskerry suggests that some of our cognitive heuristics--the mental shortcuts we employ in problem-solving--are by-products of evolution:
+
+There are persuasive arguments that we may be hard-wired to respond to certain features of our environment as well as to processing information in predictable ways... If there is any feature of cognitive activity that might influence whether or not our genes get into the next generation, decision-making would appear to be a good bet--presumably good decision-makers have a higher rate of survival. [2]
+
+This suggests that we should take great care to understand and compensate for the biases that stem from our cognitive inheritance:
+
+If we come to accept that certain [cognitive dispositions to respond] are, indeed, hard-wired, there are important implications... If heuristic strategies are the stuff upon which cognition evolved...it places an even stronger imperative on the need for research into de-biasing strategies--finding ways of undoing our innate tendencies that evolved in simpler times and which now may be counter productive in modern medicine. [3]
+
+How to put this into practice?  One place to start is by learning more about the cognitive heuristics and biases that can affect our decision-making. [4] As is so often the case, awareness by itself is insufficient to create change, but it's the necessary first step.
+
+2. Match the appropriate cognitive style to the task at hand.
+
+This raises several questions that require further exploration: What are the different cognitive styles at my disposal? What's my default style? To what extent can I change styles? And how much effort will be required to do so? While we seek to answer these questions, however, one overarching principle can guide our efforts: Learn when to trust our instincts and when to distrust them.
+
+As Croskerry notes, situational awareness is key, and even in a state of heightened perception we may have to "meta-cognitively kick it up a notch" to match our style to the situation. Essentially this means we sometimes need to "think about how we're thinking." Should we go with our intuition? Or should we discount our intuition and be more analytical? And clearly, familiarity with the cognitive biases noted above will help us select the right cognitive style.
+
+ 
+
+Footnotes
+
+[1] The theory and practice of clinical decision-making (Pat Croskerry, Canadian Journal of Anesthesia, 2005)
+
+[2] Ibid.
+
+[3] Ibid.
+
+[4] When Heuristics Go Bad
+
+ 
+
+For Further Reading
+
+Seeing What's Not There (The Importance of Missing Data)
+
+Racing Up the Ladder of Inference
+
+Cognitive Bias Cheat Sheet (Buster Benson)
+
+Cognitive Bias Codex (Designed by John Manoogian III using Benson's framework)
+
+- Large format paper version (Design Hacks)
+
+Wikipedia's list of psychological heuristics
+
+Strategic decisions: When can you trust your gut? (Interview with Daniel Kahneman and Gary Klein)
+
+Conditions for Intuitive Expertise (Daniel Kahneman and Gary Klein)
+
+ 
+
+Updated May 2022.
+
+Photo by Thomas Guignard.
+
+
+===== END ED BOT ESSAY 3504 =====
+===== BEGIN ED BOT ESSAY 3505 =====
+---
+title: You're OK, I'm Fantastic: Management and the New Narcissism
+url: https://edbatista.com/2007/02/youre_ok_im_fan.html
+slug: youre_ok_im_fan
+published: 2007-02-28T04:00:00
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+Are we becoming a society of narcissists? And if so, what
+
+are the implications of excessive self-esteem for organizational
+
+leadership and management?
+
+Decades of effort to improve our collective self-esteem (kicked off by Nathaniel Branden's The Psychology of Self-Esteem in 1969) have undoubtedly had positive effects, but there have also been some unintended consequences. It appears that one such result is the steady rise in narcissism among college students over the past 25 years, as noted by Associated Press writer David Crary:
+
+Today's college students are more narcissistic
+
+and self-centered than their predecessors, according to a comprehensive
+
+new study by five psychologists who worry that the trend could be
+
+harmful to personal relationships and American society.
+
+"We need to stop endlessly repeating 'You're special' and having children repeat that back," said the study's lead author, Professor Jean Twenge of San Diego State University. "Kids are self-centered enough already."
+
+Twenge and her colleagues...examined the responses of 16,475 college students nationwide who completed an evaluation called the Narcissistic Personality Inventory [NPI] between 1982 and 2006...
+
+The researchers describe their study as the largest ever of its type and say students' NPI scores have risen steadily since the current test was introduced in 1982. By 2006, they said, two-thirds of
+
+the students had above-average scores, 30 percent more than in 1982.
+
+David Bradford's class on High Performance Leadership at Stanford's Graduate School of Business, uses Michael Maccoby's Harvard Business Review article on Narcissistic Leaders as a central reading. Maccoby explores the pros and cons of narcissism in the organizational context:
+
+[Productive narcissists] are gifted and creative strategists who see the big picture and find meaning in the risky proposition of changing the world and leaving behind a legacy. Indeed, one reason we look to productive narcissists in times of great transition is that they have the audacity to push
+
+through the massive transformations that society periodically undertakes. Productive narcissists are not only risk takers willing to get the job done but also charmers who can convert the masses with their rhetoric. The danger is that narcissism can turn unproductive when, lacking self-knowledge and restraining anchors, narcissists become unrealistic dreamers. They nurture grand schemes and harbor the illusion that only circumstances or enemies block their success. This tendency toward grandiosity and distrust is the Achilles’ heel of narcissism. Because of it, even brilliant narcissists can come under
+
+suspicion for self–involvement, unpredictability and—in extreme cases—paranoia.
+
+(It may be useful to note that Maccoby is discussing "normal" rather than "pathological" narcissism. In this context, narcissists are simply one of the three primary personality types identified by Freud--the other two being obsessives, who are focused on order and conscientiousness, and erotics, who are focused on relationships and loving and being loved by others. As Maccoby notes, "Most of us have elements of all three [types.] We are all, for example,
+
+somewhat narcissistic. If that were not so, we would not be able to
+
+survive or assert our needs. The point is, one of the dynamic
+
+tendencies usually dominates the others, making each of us react
+
+differently to success and failure." My assumption is that Twenge's research uses the term in a similar sense.)
+
+What conclusions might we begin to draw if we look at Maccoby's analysis in light of Twenge's research?
+
+- Narcissists will become an increasingly prevalent personality type in organizations.
+
+- This means more "risk takers willing to get the job done" and more "charmers who can convert the masses."
+
+- But it also means more "unrealistic dreamers" with tendencies "toward grandiosity and distrust."
+
+So how do we make the most of narcissists' productive capabilities while minimizing the baggage they bring with them? Maccoby's comment that narcissists turn unproductive when they lack "self-knowledge and restraining anchors" points to leadership development and management training programs that will allow narcissists to better understand themselves (and how their strengths can also be weaknesses) while making them more aware of their impact on others.
+
+Executive coaching, T-groups, and other training services that provide people with specific, actionable feedback strike me as some of the most effective ways to insure that narcissists fulfill their productive potential while avoiding the pitfalls of their personality type.
+
+
+===== END ED BOT ESSAY 3505 =====
+===== BEGIN ED BOT ESSAY 3506 =====
+---
+title: T-Groups, Trust, Leadership and Management
+url: https://edbatista.com/2007/02/tgroups_trust_a.html
+slug: tgroups_trust_a
+published: 2007-02-27T11:31:44
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+Why are personal issues relevant in a professional setting? How do our internal dynamics shape our external effectiveness as leaders and managers? When designing leadership and management training programs, is it even necessary to address internal issues, or should we focus on external behaviors that are visible to others?
+
+One of the most profound influences on my professional and personal growth has been my participation in "T-groups," an interpersonal training methodology (the "T" stands for "training") developed by social psychologist Kurt Lewin. I first participated in a T-group through the Interpersonal Dynamics class at Stanford's Graduate School of Business, and over the past two months I've been co-facilitating a T-group consisting of second-year MBA students who are taking the same class (generally known as "Touchy Feely.")
+
+I believe that the class's emphasis on the disclosure of personal issues is deeply relevant to my work of developing leaders and managers, but recently I've been asking myself why. What's the mechanism by which participation in a T-group translates into greater effectiveness as a leader or manager?
+
+First, I begin with the premise that trust = motive + reliability + competence. We can discern others' reliability and competence from external signals, but we can only understand their motives by having candid (and thus difficult) conversations with them about internal (and often quite personal) issues.
+
+Trust is so important in an organization because of the difference between alignment and agreement. When people in an organization trust each other, alignment is sufficient for decision-making purposes (i.e. everyone can fully support a choice that's made, even if it's not their first choice.) But when they don't trust each other, their skepticism or fear often compel them to require agreement (i.e. everyone has to get their first choice in order to proceed willingly.) It's obviously much easier to obtain alignment, so if an organization can operate on that basis, it's going to be much more productive.
+
+T-groups allow people to come together in a professional setting, have candid and difficult conversations about internal and personal issues, and in the process develop powerful bonds of trust. People do get a lot of valuable feedback in T-groups about communication mechanics, means of gaining and losing influence, and similar dynamics that could be replicated in a less personal setting, such as a workshop focused on external behaviors.
+
+But they also get hands-on experience asking and answering challenging questions on personal topics, which allows them to practice having difficult conversations when emotions are running high and being authentic in order to develop trusting relationships with colleagues. Those dynamics are unique to T-groups (or at the very least would be difficult to replicate in a typical behavioral workshop.)
+
+Do people grasp how to do these things skillfully after taking a single class? No--and if my experience is any guide, it's a lifelong process. Do students come out of the class and apply these techniques unskillfully and even inappropriately? Absolutely--but they have to make those mistakes if they're going to continue learning.
+
+I don't view this as an either/or proposition. I'm a big fan of workshops, role plays, video analysis and other techniques that allow us to better understand how our external behaviors are perceived by others and how they enhance or diminish our effectiveness. That said, I also believe that these training tools have the greatest impact when they're complemented by something like a T-group that addresses internal issues as well as external behaviors and allows to better understand the connections between them.
+
+
+===== END ED BOT ESSAY 3506 =====

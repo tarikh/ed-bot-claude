@@ -1,0 +1,432 @@
+===== BEGIN ED BOT ESSAY 4171 =====
+---
+title: Kicking the Can Down the Road (On Hard Decisions)
+url: https://edbatista.com/2023/05/kicking-the-can-down-the-road-on-hard-decisions.html
+slug: kicking-the-can-down-the-road-on-hard-decisions
+published: 2023-05-19T22:05:54
+updated: 2026-04-22T11:56:24
+source_body: wordpress-html
+---
+
+It's not uncommon for a leader facing a hard decision to defer it and "kick the can down the road." This is both readily understandable and a potentially serious problem, because if they kick the can too far they reach a point where the decision will be made for them by someone else, and not always to the leader's benefit. So a theme in my practice is helping leaders understand why they defer hard decisions and when those rationales may be unwarranted. Not all the factors below are present in every situation, nor do they affect all leaders equally, but whenever a leader kicks the can they're likely being influenced by at least one or two:
+
+They overestimate the costs and underestimate the benefits.
+
+Hard decisions are hard not only because of the cognitive difficulty of identifying the best option, but also--and sometimes especially--because of the feelings evoked by the prospect of the inevitable costs. And in most hard decisions all possible options carry a set of costs. Every alternative will have a negative impact on someone, and that may include the leader. Every alternative offers some benefits as well, but they may seem vague and abstract relative to the costs, which in contrast are painfully vivid. [1] Given the strength of the human impulse to avoid negative emotions, leaders often overestimate the cost of a hard decision, and underestimate the benefits--including the relief that will come when the choice is made. And so they defer, hoping for a reprieve. Kick...
+
+They're too optimistic.
+
+Note that this isn't mutually exclusive with the point above--a leader can overweight costs while also maintaining an unrealistic degree of optimism. There's a correlation between optimism and effective leadership, in part because the optimistic leader has a contagious effect on others, rendering success more likely. [2] Many of my clients are also founders, and you don't launch a risky new venture without a healthy dose of optimism. But the optimism that spurs leaders on also has a shadow side. In some circumstances there are no "good" options, only various degrees of bad, and optimists can find it profoundly difficult to select the "least bad" option, even to the point of rejecting data they disagree with. [3] They tell themselves that a better option is sure to emerge eventually, and it might even be right around the corner, so why not wait a little longer? [4] Kick...
+
+They feel guilty about past decisions.
+
+Many hard decisions faced by a leader have their origins in a previous decision that turned out to be a mistake. The decision to fire someone was preceded by the decision to hire them. The decision to make cuts was preceded by the decision to grow. The decision to shut down the business was preceded by the decision to launch it. Leaders tend to have a higher-than-average need to exert control over their environment [5], and in my experience this is often accompanied by a heightened sense of responsibility. While this is certainly laudable at times, it can also result in a form of paralysis. The leader feels guilty because of their prior decision, and they're hoping that by deferring the hard decision they may be able to expunge the guilt. Kick...
+
+They're overwhelmed by data.
+
+There's rarely a shortage of data in contemporary organizational life, but that's a mixed blessing. [6] Leaders often benefit by having some facility with technical analysis, but very few hard decisions are made on the basis of data alone. In cases where the data is conclusive, the decision was made before the problem reached the leader, or the leader made the decision without undue anguish. But most hard decisions are hard because the data is not conclusive, and the leader must use the data as a starting point for analysis rather than asking the data to provide the answer. And yet in some circumstances the leader feels precluded from making a decision until the data tells them what to do, so they conduct yet another round of analysis. Kick...
+
+They don't trust (or can't access) their intuition.
+
+A corollary to data-overwhelm is a leader's inability to trust or access their intuitive judgment. Note that intuition is not some mystical power--it's nothing more than pattern recognition on the margins of consciousness, the mind's ability to perceive and interpret subtle signals that logical reasoning has overlooked. [7] Not everyone's intuition is trustworthy, nor is anyone's intuition accurate at all times. [8] But because most hard decisions can't be resolved via conclusive data, the leader must typically rely to some extent on their intuition. If they're habitually unable to do so, or if a chaotic environment makes it difficult, they may well feel stuck. Kick...
+
+So if you're facing a hard decision that you've already deferred, and you're tempted to do it again, what can you do? How can you stop kicking the can down the road? A first step is simply being mindful of the factors above and asking whether any of them apply to you. And despite the wide range of possible scenarios, note a theme that runs through all of them: emotions. Fear of the costs. Excessive optimism. Guilt about the past. Overwhelm. Distrust.
+
+No matter what the circumstances, it's likely that emotions are playing a role in your impulse to defer the hard decision, and overcoming that impulse in order to make a choice will entail a degree of emotion regulation. And as I've written before,
+
+To be very clear, emotion regulation does not mean suppressing our feelings. Suppression is essentially an act of make-believe--we pretend we're not feeling what we're feeling and hope to distract ourselves until the feeling passes. We can do this for short periods, but not for an extended length of time--and some research suggests that the effort may be counter-productive. In contrast, emotion regulation involves improving our ability to sense, comprehend, articulate and express what we're feeling, and we develop those skills by getting closer to our emotions, not by distancing ourselves from them. [9]
+
+And although some emotions can serve as obstacles, tempting you to defer the hard decision, others will play a vitally important role in your ultimate choice, enabling you to process vast amounts of information very efficiently as you arrive at a conclusion. [10] The key is identifying your full range of feelings, labeling them accurately [11], determining which ones are preventing you from making a decision, and asking whether that response is truly justified.
+
+This is a companion piece to the following:
+
+Don't Wait
+
+Can't Decide? Flip for It.
+
+Stop Worrying About Making the Right Decision
+
+Emotional Speed Bumps
+
+Leadership, Decision-Making and Emotion Management
+
+Footnotes
+
+[1] This pattern is the focus of one of the most widely-cited papers in psychology: Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen D. Vohs, Review of General Psychology, 2001). This paper has been so influential over the past two decades not only because its findings have proven robust, but also because we see its implications in countless domains of life: "The greater power of bad events over good ones is found in everyday events, major life events (e.g., trauma), close relationship outcomes, social network patterns, interpersonal interactions, and learning processes." And I see this pattern reflected repeatedly in my work with leaders:
+
+- Your 360 Report Is Ready
+
+- Why You Can't Stop Thinking About Something
+
+- Feedback Is Not a Gift
+
+- Neuroscience, Leadership and David Rock's SCARF Model
+
+[2] For more on leadership and optimism, see Dispositional Affect and Leadership Effectiveness: A Comparison of Self-Esteem, Optimism, and Efficacy (Martin Chemers, Carl Watson, and Stephen May, Personality and Social Psychology Bulletin, 2000), and Impact of Leadership Style and Emotion on Subordinate Performance (Janet McColl-Kennedy and Ronald Anderson, The Leadership Quarterly, 2002).
+
+[3] See the discussion of "Outlook" in The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012): "An excessively Positive Outlook...impairs your ability to learn from mistakes and to postpone immediate gratification in favor of a greater payoff in return." (page 229)
+
+[4] Irrational optimism is often a factor preventing a leader from making the difficult decision to shut down a business. For more on that topic, see Why Some Entrepreneurs Don't Know When to Quit
+
+[5] Extensive research on leadership and control has been conducted by Jerry Burger of Santa Clara University--see the following: The Desirability of Control (Jerry Burger and Harris Cooper, Motivation and Emotion, 1979), Desire for Control and Achievement-Related Behaviors (Jerry Burger, Journal of Personality and Social Psychology, 1985), and The Effects of Desire for Control on Attributions and Task Performance (Jerry Burger, Basic and Applied Social Psychology, 1987).
+
+[6] See The Siren Call of Constant Data and When an Educated Guess Beats Data Analysis (Oguz Acar and Douglas West, Harvard Business Review, 2021).
+
+[7] What is an "Explanation" of Behavior? (Herbert Simon, Psychological Science, 1992): "The situation has provided a cue; this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition."
+
+[8] Psychologists Gary Klein and Daniel Kahneman have jointly explored the extent to which our intuitions are accurate. See Strategic decisions: When can you trust your gut? (Olivier Sibony and Dan Lovallo interviewing Daniel Kahneman and Gary Klein, McKinsey Quarterly, 2010):
+
+McKinsey Quarterly: Is intuition more reliable under certain conditions?
+
+Gary Klein: We identified two. First, there needs to be a certain structure to a situation, a certain predictability that allows you to have a basis for the intuition. If a situation is very, very turbulent, we say it has low validity, and there’s no basis for intuition... The second factor is whether decision makers have a chance to get feedback on their judgments, so that they can strengthen them and gain expertise. If those criteria aren't met, then intuitions aren't going to be trustworthy.
+
+[9] The Tyranny of Feelings
+
+[10] Antonio Damasio on Emotion and Reason
+
+[11] Vocabulary of Emotions [PDF]
+
+Photo by Ivan Radic.
+
+
+===== END ED BOT ESSAY 4171 =====
+===== BEGIN ED BOT ESSAY 4172 =====
+---
+title: Take a Walk (Making Tough Conversations Easier)
+url: https://edbatista.com/2023/05/take-a-walk-making-tough-conversations-easier.html
+slug: take-a-walk-making-tough-conversations-easier
+published: 2023-05-11T13:43:39
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+A theme in my practice is helping a client prepare for a tough conversation. While it's not always possible to choose the setting, when a client has the option to do so, I encourage them to consider 1) investing the time and effort necessary to meet in person and 2) electing to go for a walk with the other party, rather than sit down. Why?
+
+Less Eye Contact
+
+Eye contact generally triggers strong emotions. [1] In some settings, particularly among young men, too much eye contact is perceived as a challenge and results in a fight. While at times we may want to capitalize on this dynamic, in many tough conversations we're better served by down-regulating any feelings of stress or hostility. This can be difficult when seated, where social convention usually mandates that we look at each other, but it's easily accomplished when walking side-by-side.
+
+More (Acceptable) Silence
+
+In contrast to eye contact, silence usually lowers our stress levels. [2] But again, when we're seated social convention usually compels us to maintain the flow of conversation. In seated settings, silence is often perceived as hostility or disengagement. (Consider being seated next to a couple at a restaurant who aren't speaking. Are they fighting? On a bad date?) But when we're walking silence can convey reflection and thoughtfulness, allowing for a slower pace and a lower temperature.
+
+The Right Amount of Privacy
+
+In choosing a seated setting, we run the risk of insufficient privacy. Other parties may join us unexpectedly, or we may realize that we're being overheard, or distracting noises may start up. But we also run the risk of too much privacy. A pleasantly isolated space may come to feel confining in the midst of a conflict. Taking a walk allows us to modify the degree of privacy as needed, so we feel neither intruded upon nor claustrophobic.
+
+Logistics
+
+Not every setting offers an optimal environment for a tough conversation, so consider the following:
+
+- A route that fits your available time, preferably one that can be lengthened or shortened as needed.
+
+- Easy navigation, with long straightaways and few intersections or obstacles.
+
+- Sufficient safety so that neither of you feel the need to maintain situational awareness.
+
+- An absence of distractions, particularly constant sounds such as freeway traffic, lawnmowers, etc.
+
+For many years I conducted walking coaching sessions with my MBA students at Stanford. Eventually I was holding so many that I had to conserve my energy and returned indoors, but the experience taught me much about the value of walking even--and sometimes especially--when we have to have a tough conversation.
+
+ 
+
+Footnotes
+
+[1] Eye Contact Is a Two-Way Street: Arousal Is Elicited by the Sending and Receiving of Eye Gaze Information (Michelle Jarick and Renee Bencic, Frontiers in Psychology, 2019)
+
+[2] See the following:
+
+- Speech is special: The stress effects of speech, noise, and silence during tasks requiring concentration (Jenni Radun et al, Indoor Air: International Journal of Indoor Environment and Health, 2021)
+
+- Silence, please. (Amy Novotney, American Psychological Association, 2011)
+
+For Further Reading
+
+Better Working Relationships
+
+Setting the Table (Difficult Conversations)
+
+Learning to Yield (Navigating Tough Conversations)
+
+Resolving a Protracted Conflict
+
+Risk Management (The Importance of Speaking Up)
+
+How to Deliver Critical Feedback
+
+Make Getting Feedback Less Stressful
+
+Why Some Feedback Hurts (and What To Do About It)
+
+Three Conversations (On Better Communication)
+
+ 
+
+Photo by John.
+
+
+===== END ED BOT ESSAY 4172 =====
+===== BEGIN ED BOT ESSAY 4173 =====
+---
+title: Weak Ties, Well-Being and Work Today
+url: https://edbatista.com/2023/05/weak-ties-well-being-and-work-today.html
+slug: weak-ties-well-being-and-work-today
+published: 2023-05-10T12:20:06
+updated: 2025-10-05T16:27:39
+source_body: wordpress-html
+---
+
+What types of interactions support well-being? Who helps us feel a sense of belonging and how? And what are the implications for our professional lives today?
+
+A body of research dating back half a century has explored the distinction between "strong ties" and "weak ties" among people, reflected in the amount of time spent together, the emotional intensity and intimacy of the relationship, and the degree of reciprocity. The former typically exist between family members and close friends, while the latter characterize relationships between more distant colleagues and acquaintances.
+
+Influential work by Stanford sociologist Mark Granovetter showed that weak ties play a special role in the spread of information throughout social networks. [1] Because people who share a strong tie tend to be similar, and because strong ties often overlap, forming a node in a network, people in these relationships tend to have access to the same information.
+
+Weak ties create more diverse connections across nodes, facilitating the dissemination of novel information. This is why you're more likely to hear about a job opportunity through a weak tie, from a colleague or acquaintance, which was one of Granovetter's most important findings.
+
+More recent work by psychologist Gillian Sandstrom, among others, has demonstrated the impact of interactions with weak ties on our sense of well-being and belonging: "Community members who had, on average, more weak tie interactions than others reported greater feelings of belonging. Furthermore, people reported greater feelings of belonging on days when they interacted with more weak ties than usual." [2]
+
+Subsequently Sandstrom and colleagues conducted a broad survey of related research, highlighting several noteworthy points:
+
+- A more diverse social network (including both strong ties and weak ties) contributes to improved physical health.
+
+- Weak ties are more likely to have helpful information regarding difficult life events.
+
+- In some circumstances people prefer receiving support from weak ties rather than strong ties.
+
+- Minor interactions with weak ties help satisfy our need to belong and contribute to well-being. [3]
+
+That last point takes on a heightened significance when we consider that our understanding of what it means to "belong" is often focused on connections with strong ties. For example, in another influential paper psychologists Roy Baumeister and Mark Leary emphasized the extent to which our sense of belonging derives from relationships in which we experience lasting bonds characterized by emotional expression and intimacy. [4]
+
+While my own work over the years has demonstrated the importance of safety, trust, and intimacy in supporting improved interpersonal performance [5], it's also been my experience that seemingly superficial "small talk" plays an outsized role in helping people develop these qualities in relationships and groups. [6] And it's clear that we can initiate such interactions more readily with weak ties--and that in many cases it's unlikely or unnecessary that weak ties become strong ones. [7]
+
+Three years after the onset of the pandemic, I think these findings have meaningful implications for professionals who continue to work remotely and for leaders who are seeking to find the right balance of virtual and in-person work within their organizations. Recent data cited by The Wall Street Journal indicates that U.S. office occupancy is at 49 percent of pre-pandemic levels, and that figure has increased minimally over the past year, after rising from a low of 15 percent to over 40 percent in 2020-21. [8] It seems quite plausible that we've arrived at a "new normal."
+
+I spend all day, every day talking with leaders in my coaching practice, and their experience mirrors these figures. With notable exceptions in fields such as biotech or manufacturing, my clients shifted to virtual work in 2020, slowly returned to spending some time in an office over the past two years, and have largely settled into a permanent-hybrid culture. Other than employees who never left the lab or the factory floor, almost no one is back in an office with all their colleagues five days a week. This has a number of benefits, as I identified in mid-2021:
+
+Rather than viewing remote work during the pandemic as a temporary response to a crisis, my clients generally see it as a learning experience that enabled their organizations to become more flexible on a permanent basis. The benefits of this flexibility include responsiveness to employees' preferences, the ability to attract and retain talent in a wider range of geographical locations, and even increased productivity in some circumstances. The idea that remote work prevents hustle certainly hasn't occurred to my clients, although its impact on culture and idea generation is more complex. [9]
+
+But this doesn't mean there aren't downsides to working virtually, or that my clients haven't struggled to address them, as I also noted: "It's becoming apparent that having every individual decide on a daily basis whether or not to join their colleagues in person will be sub-optimal and possibly dysfunctional. Instead, making the benefits of remote work sustainable will require a collective understanding of when, how, and why co-located work is necessary." [10]
+
+The research on weak ties offers compelling evidence that organizations can support employees' sense of well-being and belonging by creating opportunities for such interactions among colleagues. I suspect that this is one of the most important benefits of in-person experiences, even (and perhaps especially) when they occur infrequently. But there are certainly ways to foster such interactions virtually, although this requires a much more deliberate and thoughtful approach than simply stringing Zoom meetings back-to-back-to-back all day. What might any of this look like in practice?
+
+In-Person Events
+
+As I wrote in mid-2021, my clients generally reject the idea that all employees need to be in the same building constantly, but they do agree with some of the concerns raised by leaders who want to get "back to the office":
+
+They agree that aspects of organizational culture--specifically relationship-building and social cohesion--are supported by consistent in-person experiences, and they also agree that certain types of idea generation are more effective when people are physically present in the same room. However, they don't agree that everyone in the company needs to be in the office five days a week. Instead, they're determining which groups of people need to be co-located, for how long, and how often in order to accomplish these goals, and this can take any number of forms. Typically this involves more frequent in-person gatherings of the executive team and occasional in-person events for larger, more heterogeneous groups of employees. The key here is recognizing that in-person time is the scarce and valuable commodity, so long-term planning is critical, and time and effort must be expended to make the most of these opportunities. [11]
+
+That trend has continued over the past two years. Most of my clients' executive teams conduct a substantial amount of their work virtually, and most of them include one or more members who live in different locations. But almost all of them get together in-person on a consistent basis, often for several days a month or even one or two weeks per quarter. And these events typically include a mix of structured activities and open, unstructured time intended to promote social interactions.
+
+On a larger scale, most of my clients hold in-person events for functional teams and in some case the entire company. These occur less often, largely to minimize expenses and maintain productivity, but most clients who were holding such events pre-pandemic have continued to support them. And again, such events are generally designed to foster increased weak tie interactions.
+
+Virtual Activities
+
+Many in-person weak tie interactions occur as the result of serendipity and are unplanned--we encounter someone in a hallway, find ourselves behind them in a checkout line, or sit next to them at a meal. But virtual interactions that take place in real time, with both parties present, require advance planning and coordination. This not only adds a logistical burden but can also diminish the perceived value of the interaction, causing it to feel forced or awkward.
+
+We're still in the process of identifying the best ways to encourage weak tie interactions in virtual settings, but there are steps we can take. At the outset of the pandemic when countless numbers of people experienced a dramatic decrease in weak tie interactions as the result of lockdowns, institutional closures, and social distancing, Sandstrom and Harvard Business School professor Ashley Whillans suggested several strategies, including the use of asynchronous channels that maintain a connection without requiring real time presence:
+
+1. Use informal modes of communication.
+
+Phone calls can feel intrusive, and emails seem impersonal. Instead, try reaching out to a weak tie via text message or Facebook. This will allow the other person to respond whenever they can, so you don’t need to worry about reaching out at the wrong time.
+
+2. Don’t expect a reply.
+
+Rejection rates when reaching out to a weak tie are extremely low--in one of Gillian’s studies fewer than 12 percent of people who talked to strangers experienced a rejection. [my emphasis] However...if you don’t get a response, don’t take it personally.
+
+3. Set an expectation for a short and simple conversation.
+
+Your goal is to let the other person know you are thinking about them and open up the opportunity to chat, if they want to. It’s okay to keep the conversation short: In recent data one of us collected, a "just right" conversation with a stranger was about 10 minutes long... [12]
+
+But relying upon individuals to take the initiative to reach out virtually to weak ties will always be a partial solution. Organizations bear a responsibility to develop a virtual culture that supports weak tie interactions as well. What helps?
+
+- Experiment with a range of virtual activities that go beyond business-as-usual: Rituals for Virtual Meetings (Kürşat Özenç and Glenn Fajardo, 2021) [13]
+
+- Create more space for small talk and serendipity by managing time effectively: Take Five (Stop Meeting Back-to-Back-to-Back!)
+
+- Provide support so employees can invest in tools and equipment to improve their virtual experience: Better Conditions for Working Remotely.
+
+And on occasion, even weak ties may want to invest some time and energy to get to know each other better and perhaps grow a little stronger:
+
+- CONNECTIONS: Meaningful Virtual Conversations
+
+Footnotes
+
+[1] The Strength of Weak Ties (Mark Granovetter, American Journal of Sociology, 1973)
+
+[2] Social Interactions and Well-Being: The Surprising Power of Weak Ties (Gillian Sandstrom and Elizabeth Dunn, Personality and Social Psychology Bulletin, 2014). Sandstrom and Dunn acknowledge that their findings don't determine causality: "It is possible that feeling better causes people to interact with more weak ties; indeed these possibilities are not mutually exclusive." Even if causality runs in both directions, my work with many clients and personal experience leads me to find Sandstrom and Dunn's thesis compelling.
+
+[3] Social support from weak ties: Insight from the literature on minimal social interactions (Joshua Moreton, Caitlin Kelly and Gillian M. Sandstrom, Social and Personality Psychology Compass, 2023)
+
+[4] The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation (Roy Baumeister and Mark Leary, Psychological Bulletin, 1995)
+
+[5] Safety, Trust, Intimacy. Also see Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven Wolff, Harvard Business Review, 2001).
+
+[6] Bosses and Birthdays (The Importance of Small Talk)
+
+[7] Five Levels of Communication
+
+[8] The Covid-19 Crisis Is Officially Over. Everything Changed. (Stephanie Stamm and Danny Daugherty, The Wall Street Journal, May 5, 2023)
+
+[9] Four Buckets (On Co-Located Work)
+
+[10] Ibid.
+
+[11] Ibid.
+
+[12] Why You Miss Those Casual Friends So Much (Gillian Sandstrom and Ashley Whillans, Harvard Business Review, 2020)
+
+[13] Özenç, a user experience designer, has also co-authored a related book for in-person activities: Rituals for Work (with Margaret Hagan, 2019).
+
+Photo by AJ Cann.
+
+
+===== END ED BOT ESSAY 4173 =====
+===== BEGIN ED BOT ESSAY 4174 =====
+---
+title: Compliance vs. Commitment (On Behavior Change)
+url: https://edbatista.com/2023/05/compliance-vs-commitment-on-behavior-change.html
+slug: compliance-vs-commitment-on-behavior-change
+published: 2023-05-07T13:34:29
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+At times a gap emerges between a leader's expectations and employees' behavior, and a theme in my practice is the question of how to close such gaps when they occur. Sometimes this entails adjusting a leader's unrealistic expectations, but most of my clients are striving to achieve something that's both ambitious and novel, and allowing the status quo to determine what's "realistic" may guarantee failure.
+
+So in many cases the challenge is how to influence employees to modify their behavior in order to make it more likely that a meaningful stretch goal will be accomplished. This need not be limited to financial or technical milestones--it includes all efforts to develop a more functional organization. Broadly speaking, there are two very different ways to accomplish such behavior change: enforce compliance or build commitment.
+
+Enforcing compliance is easy at first, but it becomes more difficult with time. People comply when they're either threatened with punishment or promised a reward. This is initially easy because some punishments and rewards are inexpensive and readily at hand: the leader's disapproval or approval, a reprimand or praise, the loss of a bonus or a minor bump in status or compensation.
+
+But this approach imposes increasing costs on both leaders and employees. People comply when they're being policed, which requires management to expend time and effort identifying violations--which people will be motivated to conceal. Many people will find such oversight heavy-handed and resent it, and the best people--who have the most options--will tend to leave.
+
+Further, the punishments and rewards themselves become more costly, both literally and figuratively. When disapproval and reprimands fail, the next steps are reassignment, demotion and, eventually, termination. When praise grows stale and the impact of minor bumps wear off, more effusive praise and major bumps are required.
+
+Even more fundamentally, enforcing compliance fails to address any resistance to the leader's expectations. Debate is stifled via threats and bribes, differing points of view are squelched, and resistance goes underground. Compliance ultimately relies on coercion, and people comply because they fear further and more severe punishments, or they fear the end of the gravy train and the loss of future rewards.
+
+I'm not suggesting that there's no place for compliance in organizational life. We rely on compliance all the time, but it works when there's a shared consensus on 1) what constitutes expected behavior and violations of same, and 2) the appropriate response for various violations. This is most apparent where organizational life meets the legal system, and a host of laws and regulations set out expectations for leaders and employees alike. Violations are met with punishments such as fines or imprisonment. The reward for compliance is simple: you keep your money and your liberty.
+
+But in most of the situations I discuss with clients there's no applicable legal or regulatory structure, nor is there a shared consensus on expectations for behavior. In fact, it's the absence (or breakdown) of such a consensus that typically leads a client to raise the issue with me. How do we define excellence or best effort? How much time and what resources should be allocated to a given task or initiative? What constitutes a productive company culture?
+
+Trying to resolve these challenges by enforcing compliance is often unsustainable and at times utterly impossible. But there's another way: building commitment. When people are compliant, they're essentially passive figures responding to external pressure and unlikely to expend further effort once a minimum threshold has been attained. But when they're committed, they're active agents who are internally motivated to take initiative and will draw upon their full capabilities to achieve--and surpass--a goal.
+
+Enforcing compliance is relatively mechanical, reducing human motivation to avoiding punishments and obtaining rewards. In this regard it reflects the industrial-era managerial philosophy that M.I.T. professor Douglas McGregor dubbed "Theory X" [1], which "assumes that people dislike work and must be coerced, controlled, and directed toward organizational goals." [2]
+
+Building commitment is a far more complex undertaking, but it's also far better-suited to the management of contemporary knowledge workers. And in this regard it's aligned with what McGregor called "Theory Y" [3], which "emphasizes the average person’s intrinsic interest in his [sic] work, his desire to be self-directing and to seek responsibility, and his capacity to be creative in solving business problems." [4]
+
+There's also a relationship with the distinction that psychologist Frederick Herzberg made between intrinsic and extrinsic motivation on the job. [5] Herzberg's research suggests that job satisfaction and dissatisfaction aren't endpoints on a single spectrum, but two distinct scales. Satisfaction is derived from sources of intrinsic motivation such as a sense of achievement, recognition, responsibility, and opportunities for growth.
+
+In contrast, sources of extrinsic motivation (also known as "hygiene factors") such as working conditions, compensation, status, and security generate dissatisfaction if they're perceived as inadequate. Compliant people remain so only as long as they aren't too dissatisfied, but the absence of punishment and the promise of rewards doesn't generate sustained motivation. Committed people are motivated, and the fulfillment they find in the pursuit of their aims makes them more likely to persist in the face of difficulties.
+
+As noted above, it gets more difficult and expensive to apply the right mix of punishments and rewards necessary to obtain compliance. Commitment is also costly, but more than money it requires other equally precious and limited resources, most notably the leader's time, attention and creative energy. So what does this look like in practice? How does a leader build commitment?
+
+Dialogue
+
+There's a reason why we use the phrase "disagree and commit." [6] So the first step is ensuring an open dialogue in which disagreements can be aired and a range of factors addressed: the leader's expectations, employees' existing behavior, any gaps that exist between the two, potential explanations for said gaps, the organization's relevant goals, and the assumption that alternative behaviors will increase the likelihood of successful outcomes.
+
+This inevitably requires a willingness on the leader's part to have some tough conversations in which resistance to their expectations can be safely expressed and explored. That doesn't mean leaders must defer to any resistance. But the absence of a free-flowing dialogue in which disagreement is welcomed ensures that any efforts to motivate behavior change will eventually default to enforcing compliance, whatever the leader's intentions.
+
+Influence
+
+Engaging in a dialogue presents a leader with opportunities to exert influence. And note the distinction between influence and coercion--the latter relies upon a simplistic formula of threats and rewards to induce behavior change, while the former is a much more nuanced process. The leader seeking to exert influence acknowledges and respects others' right to choose and expends time and effort to win them over.
+
+This doesn't mean that people are free to opt out with no consequences. Rejecting the leaders' expectations may result in a loss of opportunities, a reassigned role, or expulsion from the organization. But the leader who is seeking to build commitment through influence will make these consequences clear at the outset (or restore clarity when it's been lost), so that people can make both positive and negative choices with full awareness and agency.
+
+Work by psychologist Robert Cialdini identifies six factors that make us more (or less) open to another's influence. [7] While it may take years to master these principles, simply understanding Cialdini's framework provides a leader with a starting point to guide their efforts:
+
+- Likeability: We respond to people who convey warmth.
+
+- Reciprocity: We repay favors.
+
+- Social proof: We follow others' example.
+
+- Consistency: We strive to live up to stated commitments.
+
+- Authority: We defer to experts and authoritative figures.
+
+- Scarcity: We're anxious about potential losses or insufficiency.
+
+Norms
+
+The leader's aspiration is to have their expectations result in a set of behavioral norms, which are "social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave." [8] But it's important to recognize that compliant people have not adopted the leader's expectations as norms--they've adopted the norm of doing whatever it takes to avoid punishments and obtain rewards. When punishments and rewards no longer suffice (or grow too costly to implement), compliance will vanish.
+
+In contrast, committed people have adopted the leader's expectations as norms, and in so doing have come to internalize such expectations as their own--very possibly because engaging in open dialogue enabled them to influence the leader as well. And it's absolutely futile to try to establish norms in the absence of dialogue and mutual influence. The results aren't norms at all, but merely a set of rules, and we only follow rules when we're being policed--which brings us right back to compliance and coercion.
+
+But even arriving at a set of shared beliefs about how people should behave isn't necessarily sufficient to cause people to feel obligated to act accordingly. We've all participated in groups and organizations that proclaimed a lofty set of values that everyone agreed with in principle but were routinely ignored in practice--the proverbial "plaque on the wall." Once the dialogue and influence process has yielded a set of shared beliefs, what else is needed to transform those beliefs into norms?
+
+- Sufficient mutual esteem among members so that its withdrawal would be felt as a loss by any individual.
+
+- A willingness by members to openly acknowledge a norm violation by a peer.
+
+- A willingness by members to withhold esteem from a peer as a consequence of a norm violation.
+
+I define this as a high-accountability, high-empathy culture. [9] It's not merely a high-accountability culture, in which people are harshly punished for their lack of compliance, nor it is a merely high-empathy culture in which people are richly rewarded for following the rules. In such a setting leaders do very little policing at all--instead, employees hold themselves accountable because of their shared beliefs regarding productive behavior coupled with their desire to avoid the loss of mutual esteem.
+
+Again, all of this takes ample amounts of time, attention, and creative energy--and even many well-intentioned leaders are unable or unwilling to make these investments, so they wind up relying upon compliance. Which works, until suddenly it doesn't.
+
+ 
+
+This is a companion piece to the following:
+
+- Hard Problems in Soft Cultures
+
+- Accountability and Empathy (Are Not Mutually Exclusive)
+
+- Rules Aren't Norms (On Company Values)
+
+FOOTNOTES
+
+[1] "The Human Side of Enterprise," page 6 (Douglas McGregor, Leadership and Motivation, 1966):
+
+With respect to people, [Theory X management] is a process of directing their efforts, motivating them, controlling their actions, modifying their behavior to fit the needs of the organization. Without this active intervention by management, people would be passive--even resistant--to organizational needs. They must therefore be persuaded, rewarded, punished, controlled--their activities must be directed... Behind this conventional theory there are several additional beliefs--less explicit, but widespread:
+
+- The average man is by nature indolent—he works as little as possible.
+
+- He lacks ambition, dislikes responsibility, prefers to be led.
+
+- He is inherently self-centered, indifferent to organizational needs.
+
+- He is by nature resistant to change.
+
+This essay is McGregor's best-known and most influential work--it originated as a speech on the Fifth Anniversary of the School of Industrial Management at MIT (later known as the Sloan School) in 1957, and was published in the American Management Association's Management Review in November of that year. It subsequently formed the basis of his 1960 book The Human Side of Enterprise. My citations here are from a posthumous collection of McGregor's work issued by MIT two years after his death to commemorate his contributions.
+
+[2] Beyond Theory Y (John Morse and Jay Lorsch, Harvard Business Review, 1970)
+
+[3] McGregor, pages 15-16:
+
+People are not by nature passive or resistant to organizational needs. They have become so as a result of experience in organizations.
+
+The motivation, the potential for development, the capacity for assuming responsibility, the readiness to direct behavior toward organizational goals are all present in people. Management does not put them there. It is a responsibility of management to make it possible for people to recognize and develop these human characteristics for themselves.
+
+The essential task of management is to arrange organizational conditions and methods of operation so that people can achieve their own goals best by directing their own efforts toward organizational objectives.
+
+This is a process primarily of creating opportunities, releasing potential, removing obstacles, encouraging growth, providing guidance. It is what Peter Drucker has called "management by objectives" in contrast to "management by control."
+
+And I hasten to add that it does not involve the abdication of management, the absence of leadership, the lowering of standards, or the other characteristics usually associated with the "soft" approach under Theory X.
+
+[4] Morse and Lorsch, HBR.
+
+[5] One More Time: How Do You Motivate Employees? (Frederick Herzberg, Harvard Business Review, originally published 1968, republished 2003)
+
+[6] While the principle of "disagree and commit" seems to have originated with Andy Grove or Scott McNealy, Jeff Bezos provided a useful definition in his 1997 letter to shareholders:
+
+Use the phrase "disagree and commit." This phrase will save a lot of time. If you have conviction on a particular direction even though there’s no consensus, it’s helpful to say, "Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?" By the time you’re at this point, no one can know the answer for sure, and you’ll probably get a quick yes.
+
+This isn’t one way. If you’re the boss, you should do this too. I disagree and commit all the time... [emphasis mine]
+
+[7] The most concise articulation of Cialdini's model can be found in this classic Harvard Business Review article: Harnessing the Science of Persuasion (2001). Cialdini discusses his work more thoroughly in Influence: The Psychology of Persuasion (2021, 3rd ed. / 1984, 1st ed.) He also explains the principles of persuasion on his own website. (On that page he adds a seventh principle--"unity"--but that was not an element in his original framework, and I omit it here.) For further reading:
+
+- The Language of Persuasion (Robert Cialdini, Harvard Business Review, 2008)
+
+- The Uses (and Abuses) of Influence (Robert Cialdini, Harvard Business Review, 2013)
+
+[8] From Rules Aren't Norms (On Company Values). (The section above on norms is adapted from this piece.)
+
+[9] Accountability and Empathy (Are Not Mutually Exclusive)
+
+ 
+
+Photos: Police car by Scott Davidson. Tug-of-war by Napat Chaichanasiri.
+
+
+===== END ED BOT ESSAY 4174 =====

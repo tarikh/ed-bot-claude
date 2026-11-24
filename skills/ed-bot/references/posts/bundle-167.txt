@@ -1,0 +1,270 @@
+===== BEGIN ED BOT ESSAY 3778 =====
+---
+title: Creating a Feedback-Rich Culture
+url: https://edbatista.com/2013/08/creating-a-feedback-rich-culture.html
+slug: creating-a-feedback-rich-culture
+published: 2013-08-20T05:00:00
+updated: 2025-10-10T14:58:42
+source_body: wordpress-html
+---
+
+Feedback can be a valuable tool in a leader's efforts to sustain strong performance and address shortcomings. But feedback doesn't occur spontaneously--it's a practice that is supported (or suppressed) by the surrounding culture. And not all feedback is equally effective--some cultures do a better job than others in fostering feedback that's likely to influence behavior. So bear in mind four principles when seeking to create a feedback-rich culture:
+
+1. Safety
+
+We all need to feel a sense of safety, trust and intimacy before we're ready to give and receive truly candid feedback. [1] As leaders we need to foster the development of these qualities at every step of the way in the process of promoting fuller communication. This does not mean avoiding confrontation or only offering support and comfort. It does mean being highly attuned to people's readiness for a challenge and their emotional state in a given interaction. Only keen attention and deep empathy will allow us to know when sufficient safety exists, and then we can take some risks to support learning and growth. [2]
+
+One key to safety is developing the ability to step back from the task at hand in order to assess everyone's emotional state, including our own: How safe is this relationship or group? If it feels sufficiently safe, how might I leverage that resource? What appropriate steps could I take that would encourage us to get out of our comfort zone? If it doesn't feel sufficiently safe, what would make me and others feel safer? How might I turn down the heat or slow things down?
+
+2. Balance
+
+ We often think that "better feedback" just means "honest criticism," but that's just half the story. The other half is providing truly meaningful positive feedback, which is all too often absent in most organizations. And yet so many obstacles prevent us from offering and accepting positive feedback. We worry it will sound insincere. We worry it is insincere. We worry it will will make us look like suckups. We worry it will make us seem weak. And since we don't do it very often, we're not very good at it. But as psychologist John Gottman has noted in his study of long-term relationships, in the most successful ones the ratio of positive to negative interactions in the midst of a conflict is 5:1. When we're well-connected with someone in a thriving relationship, even in the midst of a conflict there's a preponderance of positive interactions. So perhaps we should get more practice. [3]
+
+Think of balance not only as a ratio of positive to negative feedback, but also as the integration of challenge and support. When we challenge someone, they need to know that it's rooted in our desire to support their success and effectiveness. When we provide support, they also need to know that we're willing and able to challenge them as needed. When we achieve this balance in a relationship or group, the level of safety increases dramatically, enabling much more meaningful work.
+
+3. Normalcy
+
+Trainings and workshops can create space for people to be open to new ideas and experiment with new ways of communicating, but the next day everyone goes back to the real world. You have to integrate the behaviors you want into your team's daily routines in order to normalize those behaviors within the organization's culture. [4] If feedback is something out-of-the-ordinary that only happens at unusual times (such as a performance review, or when something's gone wrong), it'll never really be an organic part of the organizational culture. It has to show up in everyday life--on a walk down the hallway, at the end of a meeting, over a cup of coffee.
+
+4. Personal Accountability
+
+As leaders who want to promote a feedback-rich culture, we have to walk the talk every day. Our teams will take their cues from us as to what's acceptable, and if we don't take some risks in this area, they never will. Why should they? This doesn't mean we're going to get it right all the time--if we're taking some meaningful risks, then by definition we'll make some mistakes. The key is to "fail forward" and view those mistakes as essential learning opportunities. [5] Let those around us know that we trying to get better at this, too, and ask for their input on how we're doing.
+
+Footnotes
+
+[1] Safety, Trust, Intimacy
+
+[2] Safety, Risk, Learning and Growth
+
+[3] For more on John Gottman's research and the "5:1 ratio," see the following:
+
+- Marriage Math (Hara Estroff Marano, Psychology Today, 2004)
+
+- The Magic Relationship Ratio, According to Science (Kyle Benson, The Gottman Institute, 2017)
+
+[4] Make Feedback Normal, Not a Performance Review
+
+[5] Failing Forward (Learning from Mistakes)
+
+For Further Reading
+
+Coaching and Feedback Tools for Leaders
+
+Feedback Is Not a Gift
+
+How to Deliver Critical Feedback
+
+Give It To Me Straight (Effective Feedback)
+
+Risk Management (The Importance of Speaking Up)
+
+Photo by Ana Karenina.
+
+
+===== END ED BOT ESSAY 3778 =====
+===== BEGIN ED BOT ESSAY 3779 =====
+---
+title: How to Find (and Choose) a Coach
+url: https://edbatista.com/2013/07/how-to-find-and-choose-a-coach.html
+slug: how-to-find-and-choose-a-coach
+published: 2013-07-30T07:01:00
+updated: 2025-09-24T11:59:32
+source_body: wordpress-html
+---
+
+You're interested in working with an executive coach--but how do you find one? And once you've identified some options, how do you choose the coach who's right for you? I've had to answer these questions just once--in 2001 a mentor on my board advised me to get a coach, and I turned immediately to one of my best professors from business school, Mary Ann Huckabay, who maintained a coaching practice in addition to teaching (and who's still my coach today).
+
+But I'm well aware that most people don't have someone like Mary Ann in their lives, and I talk regularly with prospective clients who've never worked with a coach before and don't know how to determine whether a coach will be a good fit for their needs. So here are some steps to follow and questions to ask:
+
+Step One: How to FIND a Coach
+
+This is the easy part: Ask people you trust and respect if they've worked with a coach. If they have--and they had a good experience--they'll be eager to refer you. The amount of time you'll need to dedicate to this step will depend on your industry, your role and your location. (So if you're a tech CEO in San Francisco, this should take about 10 minutes.)
+
+If you're getting referrals from trusted members of your network who've worked directly with that coach, you don't need a large number of options--3 is sufficient. If you're getting referrals from friends of friends or from people who haven't worked directly with that coach, get a few more.
+
+The key here is taking the initiative to ask. While coaching is an increasingly common experience, it's also a very personal one. In most places coaching has come to be seen as a perk for high-potentials or an investment in one's own development, rather than a corrective measure for underperformance, so few people have a sense of shame or embarrassment about seeing a coach. But coaching still involves intimate conversations about meaningful topics, and while we're often willing to discuss these experiences with trusted friends and colleagues, we don't typically bring them up unless we're asked.
+
+Step Two: How to CHOOSE a Coach
+
+This is harder--but it's still not that difficult. If you have a large number of referrals, you may want to do some pre-screening, but I'd avoid ruling coaches out purely on the basis of factors such as industry background or certification. A good coach doesn't need to know much--if anything--about your field or your organization to do a great job. And the best and most experienced coaches I know aren't certified--coaching certification programs offer many benefits, but you can't rely on them to ascertain whether a coach will be a good fit for you.
+
+Once you have a manageable number, contact each coach directly. You should expect to have an introductory conversation so that both of you can determine whether it's a mutual fit before committing to a formal engagement. Bear in mind that you're not just assessing the coach--they're also assessing you to decide whether their approach is likely to meet your needs.
+
+These days most coaches work in part or entirely via video or phone, but even if you expect to meet in person this initial conversation will probably be virtual. The coach may have a preferred medium, but if not give some thought to whether you prefer video or phone--they can both work well for coaching, but they do offer a different experience. You'll be able to ask about the coach's background and approach, and they'll certainly have some questions for you. I typically ask prospective clients the following:
+
+- Why coaching? Why now?
+
+- What experience have you had with coaching or any other formal helping relationships?
+
+- What are your hopes and expectations for a coaching engagement? What will success look like?
+
+But it doesn't just have to be a conversation about coaching--it may be possible to dive into a topic and do some actual coaching. The coach may suggest this or you can request it, although it will be helpful for you to have a clearly defined issue in mind. In this event, note that the goal isn't to reach a resolution or achieve an epiphany in a matter of minutes--that's unlikely to happen and can put unhelpful pressure on both of you.
+
+However you proceed, the purpose of the conversation is to give you a sense of what it might be like to work with this person, because ultimately the most important factor in choosing a coach will be your subjective judgment. The most impeccable credentials and decades of experience are meaningless if a coach doesn't feel right to you. And a lack of credentials or minimal experience are similarly irrelevant if someone does feel right.
+
+Below are ten sets of questions related to different aspects of coaching that you might find useful when talking to potential coaches. Some of these questions can be posed to the coach directly during your conversation, while others are intended for your personal reflection afterwards. I wouldn't use it as a checklist and try to address each and every question during the call, but rather as a pre-conversation guide to help you determine the factors that are most important to you.
+
+1. Trust
+
+- Do I feel a baseline sense of trust with this person?
+
+- Have they demonstrated a willingness to be real with me?
+
+2. Approach
+
+- Do they strike the right balance for me between organic and structured?
+
+- How far can they flex in either direction?
+
+3. Advocacy
+
+- Is this person "in my corner" AND willing to challenge me?
+
+- Can they be compassionate AND help hold me accountable?
+
+4. Mission
+
+- Why are they a coach?
+
+- How did they wind up on this path?
+
+- Is their answer compelling or meaningful to me?
+
+5. Experience
+
+- How do they leverage their experience?
+
+- Can they see larger patterns among their clients AND see me as an individual?
+
+6. Discernment
+
+- Can they say why they're not a good fit for every client?
+
+- Can they say why they might not be a good fit for me?
+
+7. Selectivity
+
+- What clients have they turned down and why?
+
+- Under what circumstances would they work with those clients?
+
+8. Self-Development
+
+- Is this person working on their own development as well?
+
+- Have they been coached?
+
+- Do they have a coach now?
+
+9. Growth
+
+- Can they talk about their growth as a coach?
+
+- What have they learned from their successes and their failures?
+
+10. Boundaries
+
+- Can they articulate the differences and similarities among coaching, consulting, mentoring and therapy?
+
+Finally, here are some logistical issues to consider:
+
+Engagement Structure: Some coaches work with clients in ongoing, long-term relationships, while others offer coaching in predetermined periods of time, typically ranging from a quarter to a year, which may or may not be renewable. Some coaches see clients on a fixed cadence or set schedule, while others allow clients a great deal of flexibility in deciding how often to meet and when. And some coaches are available primarily via real-time conversations, while others are readily available via email or chat. There's no single set of best practices across the profession, so it's up to you to give some thought to your preferences and to share them with prospective coaches. Some aspects of their engagement structure will be fixed, but others may be negotiable.
+
+Cost: You should have a sense of your budget for coaching, and you may want to share that information early in the discovery process. The cost of coaching can vary widely, and it can be disappointing to find someone you'd like to work with only to learn that they're beyond your budget. Some coaches charge on an hourly basis, while others have a retainer model in which there's a fee for an engagement that covers a set period of time. Some coaches will only take clients whose companies are paying for the engagement, while others allow clients to pay out-of-pocket. And some coaches offer a sliding scale in which the cost is determined by a client's job title or the size of their company (although these may be rough guidelines rather than fixed rules.) In my experience, outside of a sliding scale it's rare for a coach to negotiate their rate or pricing structure, so when raising the issue of cost I recommend starting by asking whether they have a sliding scale. If so, they'll probably have some questions for you to determine the rate. If not, you're probably well-served by sharing your budget before conducting further diligence.
+
+References: There's a wide range of practices with regard to providing references. Some coaches identify past clients on their website, or will provide such references upon request, while others don't provide them at all. I'm in the latter camp, and I've adopted this policy not only to protect my clients' confidentiality, but also because I generally don't believe that there's much to be gained from the practice. While there is certainly value in seeking referrals from people you know and trust, a client who's hand-picked by a potential coach to provide a reference is unlikely to offer much useful information. As in any hiring process, you'll learn more through direct interactions and back channels. That said, it may be reassuring to know that a coach has a thorough understanding of your role and your profession. Even if they don't provide individual references, they should be able to discuss their client base in ways that give you confidence that they're sufficiently familiar with the challenges you face.
+
+For Further Reading
+
+Pick up the Phone
+
+Getting Coaching for Your Team
+
+How Great Coaches Ask, Listen and Empathize
+
+In Defense of Normal (A Coaching Manifesto)
+
+Three Paradoxes (Another Coaching Manifesto)
+
+Deference Kills Coaching
+
+Coaching and Emotion Management
+
+Emotional Mountaineering (The Three Tasks of Coaching)
+
+Dan Oestreich Interviews Me
+
+Updated April 2022.
+
+Photo by Peter Radocaj.
+
+
+===== END ED BOT ESSAY 3779 =====
+===== BEGIN ED BOT ESSAY 3780 =====
+---
+title: The Inside-Out Effect
+url: https://edbatista.com/2013/07/the-inside-out-effect.html
+slug: the-inside-out-effect
+published: 2013-07-23T15:15:00
+updated: 2025-09-24T11:59:32
+source_body: wordpress-html
+---
+
+The Inside-Out Effect: A Practical Guide to Transformational Leadership, by Behnam Tabrizi and Michael Terrell, was published earlier this year, and I was particularly eager to read it because (full disclosure) Michael and I have worked together at Stanford, and I consider him a good friend.
+
+The Inside-Out Effect offers a set of tools and techniques that support personal growth and development, with a focus on professional fulfillment and effectiveness. Woven throughout are first-person perspectives from Michael and Behnam on their own journeys that give the book a warm, conversational feel.
+
+Michael and Behnam call their organizing principle Know-Be-Lead: First, know yourself more fully and at a deeper level. Then be that fuller self by setting goals and taking steps to effect change where needed. Finally, lead others authentically by helping them to know and be their fuller selves in turn. The book introduces tools and techniques to support each phase of the process, often discussing the behavioral research or psychological principles that explain why they work.
+
+Starting with Know, Michael and Behnam note that "The first step toward greater self-awareness is clarifying who you are not," [p 38], and they discuss the concept of "identity pitfalls": We can deceive ourselves into thinking that our stories about ourselves, our appearances, our thoughts and emotions constitute our identities, when they're merely fleeting or superficial aspects. Michael and Behnam cite Eckhart Tolle's concept of the ego as an "illusory sense of identity," and while I'm ambivalent about Tolle as a contemporary spiritual figure, I fully agree that we can take the most trivial parts of our selves and treat them as if they were the most important--a theme echoed by writers from Seneca to David Foster Wallace.
+
+Having begun the process of understanding who we're not, Michael and Behnam move on to exploring who we are. They recommend a range of tools, from personality diagnostics to journaling and meditation, aimed at helping us find the sweet spot that exists at the intersection of our strengths, our sources of meaning, and our sources of joy. Then they walk through the process of defining our values and pulling all this data together into a Calling-Vision Statement, "a guide for the actions you take...a map for how you will show up in every one of your interactions." [p 101]
+
+One cautionary note on personality diagnostics: While Michael and Behnam write thoughtfully about their personal experiences with the MBTI and the Enneagram, and there are coaches I respect who use these tools extensively, they're subject to misinterpretation and misuse. Tools like this can serve as helpful starting points in seeking to understand ourselves, but I believe we need to assess their results with care and healthy skepticism.
+
+The Be section of the book focuses on identifying goals and effecting change, ranging from small steps that will allow us to feel more fulfilled in our current lives to large-scale, fundamental transformations. Michael and Behnam recognize that while goals can be powerful motivators, they can also generate anxiety. While small changes may feel within our capabilities, we may doubt whether they'll make a meaningful difference. And while we may feel the need to make big changes in our lives, we may also worry that it's too late to do so--or that the financial impact of such changes will be unacceptable. Michael and Behnam discuss research from a number of sources that provides a helpful context within which we can wrestle with these concerns and reach our own conclusions.
+
+In their chapter on change, Michael and Behnam focus on the importance of emotion and ritual, referencing Jonathan Haidt's "Elephant and Rider" metaphor to describe our emotional and rational dimensions. Sustainable change occurs when we both 1) provide the "rider"--our rational, analytical consciousness--with a clear "map" in the form of accurate data about ourselves and specific, written goals, and 2) spur the "elephant"--our emotions--in the right direction through a motivating vision, peer support, and tools such as visualization, energy management and action triggers.
+
+The book's concluding Lead section addresses the importance of authenticity and emotional intelligence in leading others, and a final chapter emphasizes the importance of mindset, celebrating milestones and victories and the ongoing process of self-renewal.
+
+While I recommend The Inside-Out Effect, I do think it could be stronger in a few areas. There are passages where Michael and Behnam quickly touch on a topic that warrants further exploration. For example, in their chapter on change, they note the importance of self-compassion when we fail to accomplish our goals, and in their chapter on leadership they mention the value of standing up for one's beliefs even when it's difficult. These are complex dilemmas that come up frequently in my work with clients and students--and in my own life--and there are no simple solutions. I certainly don't expect Michael and Behnam to provide ready-made answers, but a deeper discussion of these challenges would be helpful.
+
+Michael and Behman are scrupulous about citing their references, and I appreciate their generous acknowledgment of the work of others who've influenced their thinking. That said, there are a few works that appear frequently in the text or the footnotes, such as Chip and Dan Heath's Switch and Steve Jobs' 2005 Commencement address at Stanford, and while those works are clearly top-shelf influences, seeing them crop up multiple times felt somewhat repetitive.
+
+These issues aside, The Inside-Out Effect is a great resource for anyone looking for a straightforward, actionable set of tools to make change easier, ranging from modest behavioral goals to a large-scale professional transition. While I've been transparent about my friendship with Michael in this review, I've also been candid with my criticism, so I feel completely objective in encouraging you to buy the book (or get the app!)
+
+
+===== END ED BOT ESSAY 3780 =====
+===== BEGIN ED BOT ESSAY 3781 =====
+---
+title: Oblique Strategies
+url: https://edbatista.com/2013/07/oblique-strategies.html
+slug: oblique-strategies
+published: 2013-07-14T14:44:58
+updated: 2025-09-24T11:59:32
+source_body: wordpress-html
+---
+
+One of my favorite sources of inspiration is Oblique Strategies, first created by Peter Schmidt and Brian Eno in 1975. It's a set of 103 cards, each bearing a short, cryptic instruction or question, such as "Use 'unqualified' people" or "Go outside. Shut the door" or "Is it finished?"
+
+There are an endless number of ways to use Oblique Strategies, the most obvious being to simply draw a card and see what it inspires you to do. I like using it with groups as a way to introduce some randomness into the experience. Here's a simple game for a group discussion:
+
+1) Deal three cards to each person.
+
+2) Everyone reviews their cards and then keeps one card for themselves, passes one card to the person on their left, and discards the remaining card.
+
+3) Everyone now has two cards, one they chose for themselves and one chosen for them.
+
+4) What do these cards make us think about? Talk to the group about one (or both) of them. (The provocative content of the cards and the framing of a "game" gives people permission to go places they might not otherwise.)
+
+I have the 5th edition of the cards, "slightly revised" in 2001, which you can buy directly from Brian Eno for £30 ($45.33 at today's exchange rate). You can also sometimes find used 5th edition decks on Amazon for a reasonable price, but older editions are insanely expensive collector's items.
+
+There are also Oblique Strategies apps, and while I don't find them as useful as the physical cards, they're certainly more convenient to lug around. A free iOS app is currently available, but I'm told that it always shows the cards in the same order, which defeats the purpose.
+
+Another free iOS app, "Oblique Cards," that shows the cards in random order was developed by Viktor Kelemen, but Apple tells me it's no longer available in the U.S. Too bad.
+
+Photo of Peter Schmidt and Brian Eno © Ritva Saarikko.
+
+
+===== END ED BOT ESSAY 3781 =====

@@ -1,0 +1,344 @@
+===== BEGIN ED BOT ESSAY 3970 =====
+---
+title: Learning How to Learn
+url: https://edbatista.com/2018/07/learning-how-to-learn.html
+slug: learning-how-to-learn
+published: 2018-07-23T05:00:00
+updated: 2026-03-03T08:07:52
+source_body: wordpress-html
+---
+
+A theme in my coaching practice is that a high tolerance for cognitive dissonance is a hallmark of successful entrepreneurial leaders because it enables them to be exuberant optimists while remaining keenly aware of all the risks they face. [1] A further advantage of such tolerance is that it can play an important role in learning. As psychologist Elliot Aronson has noted,
+
+An extremely high drive to reduce dissonance would lead man to weave a cocoon about himself; he would never admit his mistakes and would distort reality to make it compatible with his behavior. But if a person is ever going to grow, improve, and avoid repeating the same errors, he must sooner or later learn to profit from past mistakes. One cannot profit from one’s mistakes without first admitting that one has made a mistake. And yet, the admission of error almost always arouses some dissonance. [2]
+
+By definition entrepreneurial leaders are doing something for the first time (and in some cases they're leading for the first time), which inevitably entails making mistakes. If they fail to learn from their mistakes, they won't be leading for very long, but this requires accepting the dissonance that comes from acknowledging a mistake in the first place. There's a connection here with the work of Carol Dweck, the Stanford psychologist who developed the concept of "fixed" and "growth" mindsets:
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success--without effort. They're wrong. In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work--brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment. [3]
+
+Our mindset has substantial implications for our ability to learn from mistakes. [4] When we hold a fixed mindset and believe that our abilities are inherent, we view mistakes as character flaws, and we have a strong negative emotional response to setbacks and failures. As a consequence we're less comfortable with risk and prefer to compete in settings where success (and approval) are assured. In contrast, holding a growth mindset and believing that our abilities are can be actively developed allows us to view mistakes as learning opportunities. We still respond negatively to setbacks and failures, but we're less distressed by the experience. And as a consequence we're more comfortable with risk and tend to seek out bigger challenges.
+
+Recent neuroscience research shows different patterns of activity in the brains of people with fixed and growth mindset that's relevant in this context. A study led by Jason Moser of Michigan State indicated that people with a growth mindset pay closer attention to mistakes and are more likely to improve their performance as a result, suggesting a relationship between a growth mindset and a higher tolerance for dissonance. [5]
+
+Our tendency toward a fixed or growth mindset derives from our formative experiences as children and our early education and professional training, and we all have a fixed mindset in some circumstances. But Dweck's work suggests that it's eminently possible to adopt a growth mindset, and this begins with simply being aware of the difference between the two mindsets and their implications for our learning and performance. [6] So what steps can we take to continue this process? How can we learn how to learn?
+
+A Work-In-Progress
+
+The concept of mindset is a type of mental model--a conceptual framework that we employ to explain some aspect of the world to ourselves. In this case, mindset is a model about ourselves that we use to understand our abilities and how we perform. Mental models are not neutral--they have a significant impact on our experience--but in most cases they're adaptive, enabling us to navigate situations and accomplish our goals more effectively. As a result our mental models typically operate automatically and unconsciously--we don't think about them any more than we think about breathing.
+
+The key step here is simple in theory but often challenging in practice: To surface and examine this particular mental model, and to deliberately and consciously see ourselves as a work-in-progress. An obstacle here is the traditional view of human development, which holds that our brains cease growing after adolescence along with the rest of our bodies. But an extensive body of research in recent years on neuroplasticity has demonstrated that our brains actually retain the potential for developmental growth and change throughout our lives. [7] The idea that we're a work-in-progress, which is the essence of a growth mindset, isn't merely a metaphor--it's the literal truth.
+
+An Ongoing Conversation
+
+Greater familiarity with neuroscience research can make us more open to a growth mindset, but we still need to actively engage ourselves in an ongoing conversation about our performance in order to learn. We need to do much of this work on our own in the form of reflection [8] and journaling [9], but it's also essential to talk with others about our experiences. [10] And it's particularly important for leaders to cultivate and maintain relationships that are sufficiently safe and trustworthy to talk openly about setbacks and mistakes. [11]
+
+But note that these activities rarely occur spontaneously without advance planning--particularly dialogues with trusted partners--and even then they can easily be pushed off the schedule unless we protect them from more urgent (but not necessarily more important) demands on our time and attention. If you truly value learning, you should be able to look at your calendar and know when it will happen on a regular basis. [12]
+
+The Power of Reframing
+
+Even when we're open to the idea of a growth mindset and actively engaged in practices that support our learning, our emotional response to mistakes can pose a barrier to progress. A generally accepted principle in psychology regarding the source of our emotions is known as "cognitive appraisal" or simply "appraisal theory," and psychologists Ira Roseman and Craig Smith provide a concise summary:
+
+According to appraisal theories, it is interpretations of events, rather than events themselves, that cause emotions. Since the same situation can often be interpreted in different ways, there are few if any one-to-one relationships between a situation and an emotional response. Because appraisals intervene between situations and emotions, different individuals who appraise the same situation in significantly different ways will feel different emotions; and a given individual who appraises the same situation in significantly different ways at different times will feel different emotions...
+
+Appraisal provides a highly flexible and therefore especially useful emotion generation mechanism, "decoupling" emotional responses from rigid one-to-one relationships with situational conditions. Emotional response will vary with variation not only in external circumstances but also in internal needs and coping resources. Thus appraisals adapt emotional responses to the individual and temporal requirements of the situations in which they occur. [13]
+
+Here's where we can leverage the power of reframing. Our intellectual interpretation of situations in which we've encountered setbacks or made mistakes has a significant influence on our emotional experience. One interpretation is that we lack the talent or ability--a hallmark of a fixed mindset. But an alternative explanation--a way to reframe the situation--is that we simply lack experience, and with feedback, practice, and hard work, our performance is likely to improve.
+
+Note that reframing does not mean failing to hold ourselves accountable. Recall the study led by Jason Moser noted above--the people who learned best from their mistakes spent a substantially higher amount of time and energy focusing on and reviewing what they did wrong in order to learn from it. They didn't shirk responsibility or fail to hold themselves accountable--just the opposite.
+
+Footnotes
+
+[1] The Cognitive Dissonance of the CEO
+
+[2] The Theory of Cognitive Dissonance: A Current Perspective, page 30 (Elliot Aronson, Advances in Experimental Social Psychology, 1969)
+
+[3] What Is Mindset (Carol Dweck, 2012)
+
+[4] Note that Dweck's work has come under scrutiny and the concept of a growth mindset has been challenged. For more, see Minding Our Mindset.
+
+[5] Mind Your Errors: Evidence for a Neural Mechanism Linking Growth Mind-Set to Adaptive Posterior Adjustments (Jason Moser et al, Psychological Science, 2011)
+
+[6] How can you change from a fixed mindset to a growth mindset? (Carol Dweck)
+
+[7] What is brain plasticity, and why is it so important? (Duncan Banks, The Conversation, 2016)
+
+[8] How to Think (More on Open Space and Deep Work)
+
+[9] The Value of Journal Writing
+
+[10] Self-Coaching Is SOCIAL
+
+[11] The Friendship of Wolves
+
+[12] Show Me Your Calendar, and I'll Show You What You Value
+
+[13] "Appraisal Theory: Overview, Assumptions, Varieties, Controversies," pages 6-8 (Ira Roseman and Craig Smith, Chapter 1 in Appraisal Processes in Emotion: Theory, Methods, Research, Klaus Scherer, Angela Schorr and Tom Johnstone, editors, 2001)
+
+For Further Reading
+
+Corn Mazes and Mental Models
+
+Mindset: The New Psychology of Success (Carol Dweck, 2007)
+
+The Dynamic Brain: Neuroplasticity and Mental Health (Jill Kays, Robin Hurley and Katherine Taber, The Journal of Neuropsychiatry and Clinical Neurosciences, 2012)
+
+Photo by R. Nial Bradshaw.
+
+
+===== END ED BOT ESSAY 3970 =====
+===== BEGIN ED BOT ESSAY 3971 =====
+---
+title: In Case of Emergency
+url: https://edbatista.com/2018/07/in-case-of-emergency.html
+slug: in-case-of-emergency
+published: 2018-07-19T21:41:41
+updated: 2025-09-24T11:58:11
+source_body: wordpress-html
+---
+
+This is an idiosyncratic collection of material intended to help me get through some upcoming challenges. If anyone else finds it useful, that's gravy.
+
+Watch This
+
+Read This
+
+No other word will do. For that’s what it was. Gravy.
+Gravy, these past ten years.
+Alive, sober, working, loving and
+being loved by a good woman. Eleven years
+ago he was told he had six months to live
+at the rate he was going. And he was going
+nowhere but down. So he changed his ways
+somehow. He quit drinking! And the rest?
+After that it was all gravy, every minute
+of it, up to and including when he was told about,
+well, some things that were breaking down and
+building up inside his head. "Don’t weep for me,"
+he said to his friends. "I’m a lucky man.
+I’ve had ten years longer than I or anyone
+expected. Pure gravy. And don’t forget it."
+
+~Raymond Carver, "Gravy"
+
+And This
+
+We think that if we just meditated enough or jogged enough or ate perfect food, everything would be perfect. But from the point of view of someone who's awake, that's death. Seeking security or perfection, rejoicing in feeling confirmed and whole, self-contained and comfortable, is some kind of death. It doesn't have any fresh air. There's no room for something to come in and interrupt all that. We are killing the moment by controlling our experience. Doing this is setting ourselves up for failure, because sooner or later, we're going to have an experience that we can't control: our house is going to burn down, someone we love is going to die, we're going to find out we have cancer, a brick is going to fall out of the sky and hit us on the head...
+
+To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
+
+~Pema Chödrön, When Things Fall Apart
+
+And This
+
+Amy and I spent the past week on the Mendocino coast, just north of the little town of Gualala. One evening a planet appeared low in the sky as the last light of sunset was fading--you can just make it out in the top left corner of the image above. Pictures like this fail to do justice to the real thing, of course, and yet they still serve a important purpose, prompting memories of moments that shouldn't be forgotten.
+
+After I took this shot I stood looking out at the Pacific, watching the stars slowly emerge as the sky darkened, listening to waves crash into the cove below, feeling the air swirl around me. It was a moment I've experienced many times during our trips up here, and yet there was something different about this one. Amy had gone back into the house, and I sensed her presence and her absence. I felt alone beneath the sky, before the sea, and also together, with her and in some sense with humanity.
+
+~Gualala (On Mortality and Gratitude)
+
+And Listen to This
+
+03 This Year
+
+I am going to make it through this year
+
+If it kills me
+
+~John Darnielle
+
+ 
+
+Photo by James Cridland.
+
+
+===== END ED BOT ESSAY 3971 =====
+===== BEGIN ED BOT ESSAY 3972 =====
+---
+title: The Cognitive Dissonance of the CEO
+url: https://edbatista.com/2018/07/the-cognitive-dissonance-of-the-ceo.html
+slug: the-cognitive-dissonance-of-the-ceo
+published: 2018-07-16T05:00:00
+updated: 2026-06-28T20:47:42
+source_body: wordpress-html
+---
+
+Most of my coaching clients are CEOs of growing companies, and a theme that shows up in my work with many of them is the stress that results from simultaneously maintaining two very different views of the world. Because my clients are constantly raising money from investors, or recruiting senior employees, or closing deals with major customers, they must be exuberant optimists, portraying a compelling vision of a successful future. And because the possibility of failure remains quite real--and those investors, employees, and customers will ask tough questions before signing up--my clients must also be keenly aware of the nearly endless list of risk factors and things that could go wrong, sometimes to the point of inducing anxiety.
+
+One of my clients once jokingly called this state of mind "CEO schizophrenia," but to be precise it's a form of cognitive dissonance. The pioneering work on this concept was done by Leon Festinger in the late 1950s, and he described it concisely in an article in Scientific American:
+
+If a person knows various things that are not psychologically consistent with one another, he will, in a variety of ways, try to make them more consistent. Two items of information that psychologically do not fit together are said to be in a dissonant relation to each other. The items of information may be about behavior, feelings, opinions, things in the environment and so on...
+
+Such items can of course be changed. A person can change his opinion; he can change his behavior, thereby changing the information he has about it; he can even distort his perception and his information about the world around him. Changes in items of information that produce or restore consistency are referred to as dissonance-reducing changes.
+
+Cognitive dissonance is a motivating state of affairs. Just as hunger impels a person to eat, so does dissonance impel a person to change his opinions or his behavior. The world, however, is much more effectively arranged for hunger reduction than it is for dissonance reduction. It is almost always possible to find something to eat. It is not always easy to reduce dissonance. Sometimes it may be very difficult or even impossible to change behavior or opinions that are involved in dissonant relations. Consequently there are circumstances in which appreciable dissonance may persist for long periods. [1]
+
+When meaningful dissonance does persist, we typically experience it as a source of pressure and stress, as Festinger noted in his primary book on the subject:
+
+The presence of dissonance gives rise to pressures to reduce or eliminate the dissonance. The strength of the pressures to reduce the dissonance is a function of the magnitude of the dissonance. In other words, dissonance acts in the same way as a state of drive or need or tension. The presence of dissonance leads to action to reduce it just as, for example, the presence of hunger leads to action to reduce the hunger. Also, similar to the action of a drive, the greater the dissonance, the greater will be the intensity of the action to reduce the dissonance and the greater the avoidance of the situations that would increase the dissonance. [2]
+
+More recent research suggests that cognitive dissonance evokes discomfort specifically in situations where action is required, and a conflict between competing perspectives poses a barrier to taking action effectively. Eddie Harmon-Jones has conducted much of this research, which he and several colleagues summarized in 2015:
+
+Most situations that cause dissonance involve difficult decisions and a commitment to action. According to the action-based model, once individuals commit to a course of action, they are primed to act. That is, they are motivated to translate their intended behavior into effective action, and this approach motivation is revealed in changes in attitudes that support the commitment. These attitudinal changes help us to follow through, to effectively enact the behaviors that follow from the decision. [3]
+
+The relevance to a CEO who's seeking not only to take action themselves, but also to influence the actions of prospective investors, employees, and customers, is obvious. And this is why it's so difficult to fully inhabit the two mindsets described above for any sustained period of time. In these circumstances most people would feel compelled to take steps to reduce the dissonance in order to move in one direction or another. They might remain committed to the entrepreneurial vision, but to do so they would discount the risks involved--and then they would likely be caught by surprise when problems arise--as they inevitably do in any new venture. Or their awareness of the risks would overwhelm their faith in the vision, and they'd opt for a safer, more secure path--which is one reason why relatively few people become entrepreneurs in the first place.
+
+Note that I'm not referring to situations in which leaders use deception or misrepresent the truth. I suspect that these leaders don't experience cognitive dissonance, either because they readily "distort their perceptions" to find a self-serving justification for their actions, or their lack of conscientiousness borders on the sociopathic. In contrast, my clients who experience cognitive dissonance struggle with it not because their vision of success is fraudulent and they're pretending it's real, but because the possibility of success and the risk of failure are both real. As the eminent psychologist Elliot Aronson--a PhD student under Festinger--later noted, "The inconsistency that produces dissonance, although it can be logical inconsistency, is not necessarily logical. Rather, it is psychological inconsistency." [4]
+
+In other words, my clients' faith in the potential success of the venture enables them to portray a compelling vision of that reality when pitching prospective investors, employees, and customers. But they also know that failure, in some sense, is still possible, and this requires them to thoroughly explore and understand all of the venture's internal weaknesses and external threats. These two perspectives aren't logically incompatible, but they can evoke a profound sense of psychological inconsistency--thus the cognitive dissonance of the CEO.
+
+The ability to tolerate this dissonance while maintaining one's integrity is a prerequisite of the job--but what can CEOs and other entrepreneurial leaders do to become more effective in this regard?
+
+Expect It
+
+The unpleasant feelings that result from cognitive dissonance are predictable consequences of an entrepreneurial leadership role, so leaders shouldn't be caught by surprise when these feelings occur. A common theme in my work with clients is the importance of a consistent commitment to the practices that help them manage stress and anxiety, avoid distractions, and focus on their most important tasks. This typically includes self-care practices, such as mindfulness, sleep and exercise, but it also includes ample blocks of unscheduled time to allow for strategic thinking and reflection. And note that these activities don't happen by accident--they're always important and never urgent, so if the leader doesn't put them on their calendar and protect them from competing obligations, they won't happen.
+
+Get Comfortable with It
+
+Stress and anxiety are undeniably uncomfortable feelings, and they can't simply be turned off. While our inability to fully control our emotions poses many challenges, it's usually beneficial--emotions are attention magnets that alert us to potential rewards and threats in our environment, so it's essential that they have the capacity to interrupt conscious thought. But we can't be unduly distracted by these feelings while performing other tasks, and this requires entrepreneurial leaders to expand their comfort with discomfort. Again, this often involves a commitment to self-care practices--mindfulness, sleep, and exercise--that allow us to heighten our awareness of uncomfortable feelings without feeling driven to take some sort of action to minimize the discomfort.
+
+Talk About It
+
+Finally, we know from experience that talking about difficult emotions makes them easier to manage, and recent neuroscience research has helped us better understand the processes in the brain that contribute to this result. But it can be a challenge for CEOs and other entrepreneurial leaders to find relationships in which they can productively discuss the issues referenced here. In some cases investors and senior employees are appropriate discussion partners, but the hierarchical nature of these relationships can make them less useful for this purpose, particularly for CEOs. Friends and family members can play a helpful role, but at times it can be distressing or confusing for them to hear about the challenges a leader is facing.
+
+So it's essential for CEOs and other leaders to establish and maintain relationships with people who are appropriate partners for these conversations. One solution is working with a professional coach, although it's always important to choose a coach who's a good fit. But I also encourage my clients to engage a peer group, either on their own or through a formal program like YPO. As I've noted before, the key is insuring that these partners are "A) successful enough to avoid feeling threatened by or jealous of the leader's status, B) sophisticated enough to understand and empathize with the leader's challenges, C) invested in the leader as an individual and NOT invested in the leader's company, and D) completely trustworthy."
+
+Footnotes
+
+[1] "Cognitive Dissonance" (Leon Festinger, Scientific American, October 1962, pages 93-94)
+
+[2] A Theory of Cognitive Dissonance, page 18 (Leon Festinger, 1957)
+
+[3] An Action-Based Model of Cognitive Dissonance Processes, page 185 (Eddie Harmon-Jones et al, Current Directions in Psychological Science, 2015)
+
+[4] The Theory of Cognitive Dissonance: A Current Perspective, page 5 (Elliot Aronson, Advances in Experimental Social Psychology, 1969)
+
+For Further Reading
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People) (2017)
+
+Open Space, Deep Work and Self-Care (2017)
+
+How to Think (More on Open Space and Deep Work (2017)
+
+Importance vs. Urgency (2016)
+
+To Stay Focused, Manage Your Emotions (2015)
+
+Comfort with Discomfort (2015)
+
+Talking About Feelings (2018)
+
+How to Find (and Choose) a Coach) (2013)
+
+The Friendship of Wolves (2018)
+
+More on cognitive dissonance:
+
+Cognitive Dissonance: Progress on a Pivotal Theory in Social Psychology, Chapter 1: An Introduction to Cognitive Dissonance Theory and an Overview of Current Perspectives on the Theory (Eddie Harmon-Jones and Judson Mills, 1999). Mills was a PhD student under Festinger at Stanford.
+
+Cognitive Dissonance Theory After 50 Years of Development (Eddie Harmon-Jones and Cindy Harmon-Jones, Zeitschrift für Sozialpsychologie, 2007)
+
+Photo by Amy Elyse.
+
+
+===== END ED BOT ESSAY 3972 =====
+===== BEGIN ED BOT ESSAY 3973 =====
+---
+title: Startup Leadership: A Greater Us
+url: https://edbatista.com/2018/07/startup-leadership-a-greater-us.html
+slug: startup-leadership-a-greater-us
+published: 2018-07-09T05:00:00
+updated: 2025-10-08T21:37:46
+source_body: wordpress-html
+---
+
+The great danger that comes with growth is losing the proper balance between technology and business. At the best companies, suits and nerds alike see themselves as part of a greater 'us.'
+
+~Robert Cringely [1]
+
+Most of my coaching clients are CEOs of rapidly growing technology companies, and the challenge described above is one of the most important problems they face. Robert Cringely--the pen name of journalist Mark Stephens--wrote Notes from the Field for InfoWorld from 1987 to 1995, and his "industrial gossip column" (as he called it) gave him a unique perspective on a host of companies that rose and fell (and, sometimes, rose again) during that pivotal era. [2] Here's an excerpt from "Economics of Scale," a chapter in Cringely's 1992 book (republished in 1996):
+
+For computer companies, the cost of growth is usually innocence. Many company founders, who have no trouble managing 25 highly motivated techies, fail miserably when their work force has grown to 500 and includes all types of workers. And why shouldn't they fail? They aren't trained as managers. They haven't been working their way up the management ladder at a big company like IBM. More likely, they are 30 years old and suddenly responsible for $30 million in sales, 500 families, and a customer base that keeps asking for service and support. Sometimes the leader, who never really imagined getting stuck in this particular rut, is up to the job and learns how to cope. And sometimes he or she is not up to the job, and either destroys the company or is replaced with another plague--professional management.
+
+There comes a day when the founders start to disappear, and the suits appear, with the MBAs and their ideas about price points, market penetration, and strategic positioning. And because these new people don't usually understand the inner workings of the computer or the software that is the stuff actually made by the company they work for, the nerds tend to ignore them, thinking that the suits are only a phase the company is going through on its way to regaining balance and remembering that engineers are the appropriate center of the organization.
+
+The nerds look on their nontechnical co-workers--the marketing and financial types--as a necessary evil. They have to be kept around in order to make money, thought the nerds are damned if they understand what these suits actually do...
+
+But the coming of the suits is more than just a phase; it's what makes these companies bigger, sometimes it's what kills them on the way to being bigger, but either way it changes the character of each company and its leaders forever.
+
+The great danger that comes with growth is losing the proper balance between technology and business. At the best companies, suits and nerds alike see themselves as part of a greater 'us.' [3]
+
+It's striking how little has changed over the last quarter-century (other than the gradual disappearance of the term "nerds"), and this passage touches on a number of issues that I see regularly in my practice today:
+
+From Family to Tribe to Village
+
+In "Blitzscaling," Tim Sullivan's insightful Harvard Business Review interview with Reid Hoffman, the LinkedIn founder discusses the various stages a technology company progresses through as it scales:
+
+We see scale as a series of stages, based on orders of magnitude: A family-scale business can measure its employees in single digits; a tribe in tens; a village in hundreds; a city in thousands. A nation has more than 10,000 employees. These are estimates, not precise guides; a company often remains a family until around 15 employees, a tribe until around 150, and so on. At each level, the way you run various functions--financing the company, hiring and onboarding employees, marketing the product, and so on--changes significantly. [4]
+
+Cringely's remarks above highlight the initial leaps technology company leaders must navigate--first from the founding family to a small tribe, and then to a mid-sized village--and I begin working with many of my clients in the midst of one of these transitions. In part this is because at this stage the company now has sufficient resources to pay for coaching, but the more fundamental driver is that these transitions typically result in a set of changes that pose difficulties for leaders:
+
+- The leader must focus only on the most important problems, while more and more people are clamoring for their attention.
+
+- Some of the leader's co-founders and initial executives are having difficulty scaling up, and the leader must stretch, level, or fire them.
+
+- The informal and implicit norms that were sufficient to create a productive culture in a small, tight-knit homogeneous group are inadequate in a larger, more heterogenous group.
+
+Growing into Leadership
+
+While some of my clients have extensive professional backgrounds, it's not uncommon for others to find themselves in precisely the situation described by Cringely: lacking leadership experience or training, but suddenly responsible for an organization that's generating millions of dollars in revenue, supporting hundreds of employees and their families, and serving thousands of customers.
+
+For some leaders, this can trigger an intense period of doubt and uncertainty: Now that the job has changed, do I have what it takes to keep it? And if so, do I still want it? And if so, for how long? In these circumstances there's no stasis--leaders either grow into the role or move on with their lives (or struggle until they're asked to move on involuntarily.) For those who elect to stay and challenge themselves, that growth can take many forms, but I see several common themes among my clients:
+
+- A recognition that growing companies need leaders who do less (and lead more), which typically requires a fundamental shift in understanding how they add value.
+
+- The ability to let go of personal accomplishments, focus instead on motivating others, and grow comfortable with power without becoming self-aggrandizing.
+
+- A commitment to leadership as a practice, which generally entails a new approach to personal habits and self-care practices, specifically mindfulness, exercise, and sleep.
+
+Getting to "Us"
+
+When I taught Interpersonal Dynamics (aka Touchy Feely) at Stanford, one of the first readings on my syllabus [5] was "Getting to 'Us,'" by George Halvorson, the former CEO of Kaiser Permanente, who drew on a body of research known as social identity theory [6] to discuss the implications of group distinctions in organizational life:
+
+Humans are social creatures; we fall readily into group loyalties. We instinctively divide the world into "us" and "them" and treat others very differently according to which category they’re in. Activating us-versus-them energy is the oldest leadership tool in the box. In business settings, the effects can be wonderful. But they can also be terrible, giving rise to warring factions internally and cutting off collaborative possibilities externally. It’s surprising how many business managers are not very thoughtful about wielding this tool...
+
+In the 1970s the social psychologist Henri Tajfel gave us the concept of social identity--the understanding that an individual’s identity is powerfully shaped by group allegiances... Researchers since have shown that when people in a work setting have a strong sense of being an us, morale and productivity rise...
+
+Many workplaces default to a version of kinship based on function. A group’s shared identity reflects a common characteristic of its members—everyone’s an engineer, or everyone’s a radiologist. Doing similar work under the same conditions is enough to make an us. But it doesn’t provide much impetus for the group to align its energies and take bold action. [7]
+
+This highlights the key dilemma noted by Cringely above--as a technology company grows, it's inevitable that the organization will subdivide into distinct identity-based cultures. Cringely's "nerds vs. suits" paradigm is far more stark than the dynamics I typically see in my practice; my clients who are highly technical still care about the company's financial success, and those who lack in-depth technical expertise aren't simply in it for the money. And yet some version of this divide persists in almost every one of my clients' companies.
+
+As Halvorson makes clear, this isn't necessarily a bad thing. Group identities based on functional domain can create a sense of esprit de corps and create opportunities for fruitful competition. But these benefits can easily be outweighed by the risk that people will identify more with their sub-group than with the organization as a whole, or the possibility of internal competition becoming a distraction from the company's larger goals. There's no simple solution to this issue, but the leaders I work with who do achieve "a greater us" pay close attention to these factors:
+
+- The establishment and maintenance of a sense of cohesiveness among senior executives that transcends functional rivalries.
+
+- A balance between accountability and empathy throughout the organization, starting with their management of their direct reports.
+
+- The importance of clarity regarding decision-making and a shared understanding of the process being applied in any given situation.
+
+Footnotes
+
+[1] Accidental Empires, page 250 (Robert Cringely, 1996, 2nd edition)
+
+[2] Who Is Robert X. Cringely?
+
+[3] Accidental Empires, pages 249-250 (Robert Cringely, 1996, 2nd edition)
+
+[4] Blitzscaling (Reid Hoffman interviewed by Tim Sullivan, Harvard Business Review, 2016)
+
+[5] Interpersonal Dynamics
+
+[6] For more on social identity theory: Experiments in Intergroup Discrimination (Henri Tajfel, Scientific American, 1970) and Social Identity Theory (Gazi Islam, Encyclopedia of Critical Psychology, 2014)
+
+[7] Getting to "Us" (George Halvorson, Harvard Business Review, 2014)
+
+For Further Reading
+
+Startup Leadership: Are We Video-Gaming or Ditch-Digging?
+
+Startup Leadership: Are We Rowing or Rafting?
+
+Photo by Hien Nguyen.
+
+
+===== END ED BOT ESSAY 3973 =====

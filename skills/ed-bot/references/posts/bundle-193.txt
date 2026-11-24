@@ -1,0 +1,208 @@
+===== BEGIN ED BOT ESSAY 3882 =====
+---
+title: Courage Isn't Confidence
+url: https://edbatista.com/2015/09/courage-isnt-confidence.html
+slug: courage-isnt-confidence
+published: 2015-09-23T22:50:07
+updated: 2025-10-12T14:51:46
+source_body: wordpress-html
+---
+
+Most of my clients and students are facing a scary challenge of one sort or another: A high-profile leadership role. Major commitments to investors and employees. A huge professional opportunity that will inevitably take a toll on other aspects of life. They face plenty of daunting challenges on a smaller scale as well: The tough conversation at work. The tough conversation at home. The impact of big, demanding jobs on health, relationships, and peace of mind. And I'm right there alongside them, wrestling with all sorts of difficulties that generate uncertainty, anxiety, and outright fear.
+
+What allows us to face these challenges? Courage. But when we quaver in the face of a challenge, when we lose our mojo, and our palms start to sweat, and we want to run away and let someone else slay this particular dragon, we often make a colossal error in judgment: We think that courage comes from confidence, and we interpret our lack of confidence as the absence of courage. This is profoundly mistaken--a lack of confidence need never prevent us from finding courage.
+
+We may utterly lack confidence--we may even suspect that failure is a near-certainty. But that determination has no bearing at all on our ability to be courageous in the face of those long odds. The issue isn't the likelihood of failure--the issue is the relative cost.
+
+The key to untangling this confusion lies in understanding these two qualities and how they differ: Confidence is a calculation of the odds of success. Courage is a calculation that the cost of not trying is higher than the cost of failing.
+
+Photo by Dmitry Stepankov.
+
+
+===== END ED BOT ESSAY 3882 =====
+===== BEGIN ED BOT ESSAY 3883 =====
+---
+title: Stop Providing Too Much Information
+url: https://edbatista.com/2015/09/stop-providing-too-much-information.html
+slug: stop-providing-too-much-information
+published: 2015-09-22T09:16:51
+updated: 2025-10-12T14:49:46
+source_body: wordpress-html
+---
+
+When we're working with others in a differentiated role--leaders with employees, teachers with students, even coaches with clients--we tend to provide too much information. Leaders can provide so much structure and background and context that it makes it harder for their team to do the work. Teachers can fill their syllabi with so many readings and their class sessions with so many activities that their students learn less. And while an executive coach isn't a conventional authority figure, I see moments where I'm saying or doing so much that I'm getting in the way and holding my client back.
+
+Why do we do this? And what can we do instead? Three possibilities:
+
+First, providing information is a form of caring and an effort to demonstrate our worth as leaders. We care about the people we're working with, and we want them to know that. We want to feel competent in our roles and to know that we're adding value. But the excess information that we're shoveling at people is a proxy for these qualities, not the thing itself.
+
+Instead, we can be more direct. We can tell people, "I care about you, and I'm invested in your success." We can say this outright, and we can demonstrate it in innumerable small gestures--without overwhelming people with information. And we can ask them to provide explicit feedback: "How am I doing? How am I helping you? And might I be even more helpful?" (But note that feedback is stressful, and we have to make it easier for others to provide it.)
+
+Also, providing information is a safety belt for us as leaders--if things go wrong, we can avoid blame and finger-pointing by emphasizing how much information we had made available in advance. "I told you about that!" But while safety measures create floors, preventing terrible falls, they also impose ceilings, limiting how far and wide people might venture on their own.
+
+Instead, to help people truly achieve their full potential, we have to accept some risk. While creating sufficient safety is a critical task for a leader, so is encouraging appropriate risk-taking. If we insure that things never go wrong, we also inevitably limit others' achievements. (And if we always err on the side of safety, who are we really protecting?)
+
+Finally, providing information is an all-too-transparent effort to show off how much we know as leaders, how wise and sage we are. This may stem from pride and hubris--or it may stem from fear and anxiety. Early in our careers as leaders, we may feel a need to cover up our ignorance--and later on our experience may blind us to the fact that we're still ignorant, no matter how much we've learned.
+
+Instead, acknowledge what Simon Wardley has called the Three Stages of Expertise, and remember that true wisdom lies in understanding how little we know. Until then, we're actually hazards masquerading as experts. Paradoxically, I've found that being humble in the face of my ignorance is what enables me to truly tap into and own my expertise.
+
+For Further Reading
+
+Coaching and Feedback Tools for Leaders
+
+The Six Layers of Knowledge and Better Conversations
+
+What Do You Need Right Now? (Advice, Listening, A Hug?)
+
+Don't Inflict Help, Provide It
+
+Helping: How to Offer, Give, and Receive Help (Edgar Schein, 2011)
+
+Photo by Bill Smith.
+
+
+===== END ED BOT ESSAY 3883 =====
+===== BEGIN ED BOT ESSAY 3884 =====
+---
+title: Five Levels of Communication
+url: https://edbatista.com/2015/08/five-levels.html
+slug: five-levels
+published: 2015-08-19T17:22:11
+updated: 2026-07-16T18:11:45
+source_body: wordpress-html
+---
+
+One of the most useful and flexible models of human interaction that I've encountered is Richard Francisco's Five Levels of Communication. [1] Francisco, a Lecturer at the Stanford Graduate School of Business and a psychologist at San José State University, essentially asks "In what ways do we communicate?" and then answers that question by mapping out a series of "levels" that represent increasing degrees of difficulty, risk, and potential learning in our interactions.
+
+Level 1: Ritual
+
+We begin with the most basic and fleeting form of communication, what Francisco calls "ritual," deriving the term from Eric Berne's work in the 1960s. [2] In this context, a ritual is a simple interaction that, Francisco writes, "allows two people to acknowledge each other as human beings."
+
+Most of our greetings and goodbyes, particularly in passing, take the form of ritual communication. They are heavily influenced by the setting and the respective roles and status of the parties involved, and they tend toward the predictable and formulaic. Typical forms of ritual include acknowledging an employee or our manager when we pass them in the office, or beginning the conversation with a client or customer as we sit down, or making small talk--a telling phrase--with a barista as we wait for our coffee or with a neighbor outside our home.
+
+But rituals' prosaic nature doesn't mean that they lack value; as Francisco notes, "Level One communication allows each participant to feel a sense of safety, security and well-being," even in a brief interaction, and it serves as "the foundation for deepening interpersonal relationships."
+
+Level 2: Extended Ritual
+
+Ritual communication can be extended in several ways. We can have an ongoing, iterative relationship with someone we see repeatedly, and the basic ritual form within that relationship can evolve over time, or we can have an longer, more comprehensive interaction, in which we exhaust the most basic ritual forms and begin to explore new territory, while still staying within certain conversational limits and avoiding more substantive topics.
+
+Typical forms of extended ritual include the more variegated interactions we have with colleagues we bump into regularly, or the longer conversations we have with a barista we see every day or with a neighbor we're seated next to at a dinner party. It's still "small talk," but it changes from day to day or over the course of the conversation as we move through a range of unofficially sanctioned topics.
+
+And that sanction serves a purpose; again, Francisco notes that, "while there is more depth to the level of communication in extended ritual than in ritual, it is nevertheless a very safe level of communication." In extended ritual we can engage "without fear of hurting the other" and with little to no risk of being misunderstood, which helps to further develop a foundation of safety and trust in the relationship. [3]
+
+Level 3: Content (or Surface)
+
+Francisco uses the term "Surface" for this next level, but I prefer "Content"; the former can sound pejorative, which I don't believe is Francisco's intent. This is the level on which most of our professional interactions take place (and for the remainder of this post I'll focus on professional life.) Level 3 communications, Francisco writes, "involve giving and receiving information, analyzing projects...problem-solving...sharing and talking about tasks, [and] sharing information about [ourselves]," albeit in limited and safe forms of self-disclosure.
+
+The boundary separating Level 2 from Level 3 is blurry. The distinctions between trivial small talk and more meaningful content are relative, and they may change from one setting to the next, and even from one conversation to the next. But what's clear is what's missing from Level 3 (as well as from Levels 1 and 2): feelings.
+
+Emotions are critically important factors in how we think and communicate, but we generally leave them out of our professional conversations. [4] Francisco notes that in many organizations we're taught to avoid the deeper conversations--see below--that inevitably involve feelings, but, he adds, "organizations merely reinforce established patterns that are learned through early childhood experiences and carried into adolescence and then then into adult life." We're well-trained, Francisco emphasizes, not to talk about our feelings.
+
+Level 4: Feelings About Content
+
+But not talking about our feelings in professional settings doesn't mean we're not having feelings during those conversations--we're just not talking about them. And because emotions are essential inputs in our decision-making and reasoning processes, not talking about them means that many Level 3 conversations in professional settings get stuck, with issues going unresolved or being resolved in only a superficial way. Further, as UCLA neuroscientist Matthew Lieberman has written, "There is a great deal of evidence to suggest that the process of sharing one's worry, of putting bad feelings into words, can diminish one's emotional distress." [5] So not talking about our feelings in professional settings can actually make them more difficult to manage, making it even harder to communicate effectively.
+
+This isn't to say that we should heedlessly ignore the many norms and "display rules" that discourage us from talking about feelings in professional settings. As Francisco notes, "Levels Four and Five are difficult and require certain skills to navigate safely." One of those skills is the ability to develop sufficient safety and trust through a series of interactions on Levels 1, 2 and 3. Going too deep, too quickly in a given relationship or conversation typically creates anxiety and stress, further undermining real communication.
+
+Another essential skill is the ability to talk about our feelings in a nuanced way that conforms sufficiently to the surrounding culture. In some settings, any acknowledgment of emotion is significantly counter-cultural, and feelings need to be discussed with care and attention paid to word choice, tone of voice, and body language, among other factors. And in some organizational and national cultures, certain emotions are easier to discuss than others. [6]
+
+The critical point is that we need to achieve a delicate balance. We almost always have feelings about the information exchange, analysis, problem-solving, task assignment, and limited self-disclosure that comprise the bulk of Level 3 conversations, and when those conversations fail to achieve our communication objectives it's often because of an inability to acknowledge and express those feelings appropriately.
+
+This should not be construed as a license to dive immediately into a Level 4 conversation or to express our feelings in a way that would be counter-productive. But we do need to use Levels 1, 2, and 3 to create a foundation of safety and trust; we need to seek out opportunities to develop the skills necessary to sense, understand, and talk about our emotions; and at certain moments, we need to find the courage to have a deeper, more meaningful conversation about the issue at hand.
+
+Level 5: Feelings About Each Other
+
+This is where it gets really challenging--Level 5 conversations involve how I feel about you, and how you feel about me, one of the most direct forms of interpersonal feedback. These conversations are the most difficult--because feedback conversations can be extremely stressful--and the riskiest--because we often lack the practice that's critical to develop the necessary skills at this level, leading to inevitable missteps and misunderstandings.
+
+But these conversations are also the among the most powerful we can have, with the greatest potential for learning and growth. When we've moved beyond a standard Level 3 conversation in a professional setting and are able to disclose how we feel about the issue at hand but still find ourselves stuck and unable to reach resolution, it's often because we have feelings about the other people involved (and vice versa) that are not being expressed. Moving beyond Level 4 and sharing our feelings about each other can allow us to break out of these seemingly endless loops and achieve a deeper sense of mutual trust and understanding.
+
+By no means am I suggesting that Level 5 conversations are easy, but there are a number of steps we can take to make feedback less stressful, most notably minimizing the risk of social threat; reframing feedback as a source of learning, not personal criticism; building a relationship with the other party (often by communicating at Levels 1 and 2); and creating an organizational culture in which feedback is normal and expected. [7]
+
+Even when we've taken these steps, Level 5 conversations in professional settings will almost always feel daunting in some way, in part because of their potential to challenge what the late Harvard Business School professor Chris Argyris called "defense routines." Argyris described these organizational dynamics as "actions or policies that prevent individuals or segments of the organization from experiencing embarrassment or threat... [W]henever human beings are faced with any issue that contains significant embarrassment or threat, they act in ways that bypass, as best they can, the embarrassment or threat." [8]
+
+By their very nature, Level 5 conversations carry the risk of embarrassment or threat--so we tend to avoid them, and so we don't develop the skills necessary to have them effectively, and the cycle perpetuates itself. But as I've noted before, when something feels risky to say, that's because saying it carries a short-term cost--and NOT saying it carries a long-term cost that will inevitably grow over time. [9] We need to confront the risk of embarrassment or threat--prudently, not rashly--and break the cycle that keeps us silent.
+
+That said, the goal is not to jump to a deeper level and stay there. As Francisco notes, "There are no wrong levels. Each level has a legitimate and proper function within the communication process." The key is insuring that we're able to reach the right level, at the right moment, in the right way, to best support our communication objectives.
+
+So when we find ourselves struggling to communicate effectively in a given relationship or interaction, we should ask...
+
+- What level are we communicating at right now? Are we stuck on a more superficial level and avoiding a deeper conversation? Are we attempting to have a deeper conversation too soon, without having built the necessary foundation?
+
+- If we're not communicating at the level that best suits our needs at the moment, how might we shift the conversation up or down? Are we able to move fluidly to different levels, or are there certain levels we never (or always) employ?
+
+- Are we able to talk about our feelings in the culture that defines this relationship or group? What are the norms and display rules regarding discussion of emotion in this culture that we need to be mindful of? What are our personal norms and display rules regarding emotion? What opportunities are there to challenge and modify these norms and display rules to make it easier to acknowledge and express emotion?
+
+Many thanks to Richard Francisco not only for the model discussed here, but also for his encouragement and support over the years.
+
+Footnotes
+
+[1] "Five Levels of Communication," Richard Francisco, Chapter 2.6 in the Reading Book for Human Relations Training, 8th edition, (Alfred Cooke et al, editors, 1999)
+
+- This volume was our primary text when I participated in Stanford's Group Facilitation Training Program in 2006-07, and I included excerpts on my syllabus when (years later) I taught Interpersonal Dynamics (aka "Touchy Feely"). Published by the NTL Institute, the home of the T-group methodology, the book is an essential resource for any experiential learning program, but it also has much to offer anyone interested in group dynamics in any setting.
+
+[2] Games People Play: The Psychology of Human Relationships (Eric Berne, 1964)
+
+[3] Safety, Trust, Intimacy
+
+[4] Antonio Damasio on Emotion and Reason
+
+[5] "Why Symbolic Processing of Affect Can Disrupt Negative Affect: Social Cognitive and Affective Neuroscience Investigations," Matthew Lieberman, Chapter 13, page 188 in Social Neuroscience: Toward Understanding the Underpinnings of the Social Mind (Alexander Todorov, Susan Fiske, and Deborah Prentice, editors, 2010)
+
+- For more on Lieberman's work on "affect labeling," see Talking About Feelings.
+
+[6] Erin Meyer on Culture and Communication
+
+[7] Make Getting Feedback Less Stressful
+
+[8] Overcoming Organizational Defense: Facilitating Organizational Learning, page 25 (Chris Argyris, 1990)
+
+[9] Risk Management (The Importance of Speaking Up)
+
+Photo by Rita Willaert.
+
+
+===== END ED BOT ESSAY 3884 =====
+===== BEGIN ED BOT ESSAY 3885 =====
+---
+title: The Blue Problem (Communication and Power)
+url: https://edbatista.com/2015/08/the-blue-problem-communication-and-power.html
+slug: the-blue-problem-communication-and-power
+published: 2015-08-17T16:03:39
+updated: 2025-10-12T14:51:09
+source_body: wordpress-html
+---
+
+When we're interacting with people of differing status, Columbia Business School professor Adam Galinsky advises us to pay attention to the "power amplification effect." In these situations, Galinsky notes, "the words of those with power loom large over those with less power." [1] He cites three specific ways this can happen:
+
+- Any feedback, positive or negative, from a powerful figure often has a stronger impact than was intended.
+
+- Silence from those with more power creates anxiety in those with less power.
+
+- Ambiguous comments by those with more power tend to be interpreted negatively by those with less.
+
+This is what a CEO I once worked with called "the Blue Problem." He had to be tremendously careful when offering any opinion on his company's products and services, because if he said something along the lines of, "Oh, I sort of liked that better when it was blue," it was heard by his employees as "CHANGE IT BACK TO BLUE!"
+
+As Galinsky notes, this isn't always a bad thing: "Expressions of gratitude and praise are particularly resonant when expressed by those with power." But he also cites research that shows that "the powerful express less gratitude and less praise than those with less power." Another CEO I've worked with has learned that when she gives employees some brief, heartfelt positive feedback, it has a surprisingly powerful motivational effect--but she's realized that she has to go out of her way to make this effort, because her natural tendency is to focus on things that aren't going well.
+
+I fully agree with Galinsky's advice to be mindful of the power differentials that exist in our relationships and to avoid causing unintended stress or anxiety when we're in positions of authority. But I'd qualify this by adding that the goal isn't to minimize the impact of our power and authority--it's to employ the right amount of power and authority given the situation.
+
+I've worked with many clients and MBA students at Stanford whose discomfort with power and authority undermined their ability to command respect and build strong working relationships. This can lead to a pattern of "underdoing it and overdoing it," in which people who are uncomfortable with power repeatedly fail to assert themselves only to reach a tipping point and then exert far more energy than is necessary. [2]
+
+As is so often the case, emotions are at the heart of these issues. The problems cited by Galinsky can be viewed as a lack of what neuroscientist Richard Davidson calls "social intuition," the ability to sense and empathize with the feelings of others. [3] Leaders--and anyone in the higher status role in an interaction--must cultivate the ability to be mindful of and inquire about the feelings of others, which entails a deliberate effort to be more empathetic, an eminently learnable skill. [4] At the same time leaders must come to terms with their own feelings about power and authority, a process that may involve increasing their comfort with discomfort. [5]
+
+Footnotes
+
+[1] When You're in Charge, Your Whisper May Feel Like a Shout (Adam Galinsky, The New York Times, 2015). Thanks to Lightspeed partner Jeremy Liew.
+
+[2] Underdoing It and Overdoing It (Assertiveness Over Time)
+
+[3] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[4] For more on learning empathy, see Can Doctors Learn Empathy? (Pauline Chen MD, The New York Times, 2012) and Can compassion and empathy be learned? (Dorrie Fontaine RN, The Daily Progress, 2013)
+
+[5] Comfort with Discomfort
+
+Photo by PXHere.
+
+
+===== END ED BOT ESSAY 3885 =====

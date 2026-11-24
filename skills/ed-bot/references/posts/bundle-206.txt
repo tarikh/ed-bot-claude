@@ -1,0 +1,544 @@
+===== BEGIN ED BOT ESSAY 3934 =====
+---
+title: The Problem with Anonymous Feedback
+url: https://edbatista.com/2017/03/the-problem-with-anonymous-feedback.html
+slug: the-problem-with-anonymous-feedback
+published: 2017-03-20T05:00:00
+updated: 2025-10-09T19:42:35
+source_body: wordpress-html
+---
+
+The issue of anonymous feedback comes up consistently in my work as a coach to senior leaders. Many of my clients gather feedback from employees assessing their level of engagement or seeking input on problems, often through an anonymous survey. And I'm regularly asked to conduct 360 reviews for a CEO or a member of their executive team, typically via anonymous interviews with direct reports, peers, superiors, investors or board members
+
+I no longer offer 360 reviews in my practice—over the past decade I’ve concluded that I add the most value as a coach by working directly with individual leaders and focusing our time on preparing to have the difficult conversations for which anonymous feedback is often a precursor (or, more problematically, a substitute.) In the course of this work I sometimes discuss with my clients anonymous feedback they’ve received via 360 reports and employee surveys, and while these tools can be useful, I’ve come to feel ambivalent about the role anonymous feedback plays in our efforts to improve leaders’ effectiveness.
+
+Anonymity clearly has value under certain circumstances, but it also carries a cost, and it's important for leaders to understand both sides of the equation before committing to any anonymous feedback process. What is the value of anonymity? When people can voice perspectives anonymously, they presumably feel more comfortable sharing concerns or negative feedback that might otherwise expose them to risk in some way, and the data gathered is more candid and thus more useful. But note the underlying assumptions here: People are currently not being candid and can’t be trusted to speak up. Feedback generated through an anonymous process is more accurate than feedback expressed publicly. Hearing concerns or negative feedback will cause distress or anger. And anyone who shares such information is at risk because leaders will seek retribution.
+
+In any given organization these assumptions may well be true. I’m not naïve about the power dynamics of organizational life, and I know that much goes unsaid, that speaking up can trigger a hostile response, and that people with power often abuse it. [1] But when we assume that these conditions make anonymity necessary, we often fail to factor in the cost of doing so. What are the costs of anonymity? In my work as a coach I see three sets of counterproductive factors.
+
+1. Critiques become criticism.
+
+The work of psychologist John Gottman is based on observations of couples in long-term relationships, but many of his conclusions have important implications for organizational life. [2] One of Gottman’s key concepts is to distinguish between critiques and criticism:
+
+[Criticism] is different than offering a critique or voicing a complaint. The latter two are about specific issues, whereas the former is an ad hominem attack: it is an attack on [the other person] at the core. In effect, you are dismantling his or her whole being when you criticize. [3]
+
+For example, here’s a critique I commonly encounter in my practice: “Chris is getting into repeated conflicts with other members of the exec team over seemingly minor issues.” And here’s a similar sentiment in the form of criticism: “Chris is an abrasive person who lacks people skills and a domineering personality who has to win every argument.” The former focuses on specific behaviors; the latter is a broad generalization. The ability to voice critiques and complaints is essential to working through challenges in healthy relationships, but criticism is a sign of trouble in Gottman's framework because it often leaves the recipient feeling “assaulted, rejected and hurt,” and it can lead to more serious interpersonal difficulties. [4]
+
+Much anonymous feedback from employees toward a leader can be characterized as criticism rather than critiques. It doesn’t focus on specific behaviors, let alone specific instances of those behaviors, but applies a broad brush and tends to address the whole person. In part this is simply the result of the passage of time, our notoriously poor memories, and our confirmation bias. We misremember past events more often than we’re willing to admit, so any retelling inevitably blurs the details to fit our pre-existing narrative.
+
+But the anonymous nature of the process also serves to wipe away essential information that might prevent a critique from becoming criticism. Feedback providers are discouraged (explicitly or implicitly) from identifying themselves or from sharing specific details about the situation. What emerges is often highly generalized criticism of the leader, rather than a more nuanced set of critiques of their behavior in specific circumstances. Unsurprisingly, this is more likely to provoke defensiveness on the part of feedback recipients rather than a desire to learn and change.
+
+2. A tendency to blame and a failure to take responsibility.
+
+The fundamental attribution error is a cognitive bias identified by Stanford psychologist Lee Ross which leads us to believe that causality rests primarily with individuals rather than the with the surrounding situation. [5] A consequence of this dynamic is that leaders get more credit than they deserve when things go well—and they get more blame than they deserve when things go badly. I’m reminded of this passage from Brene Brown’s 2010 TED talk:
+
+There's no discourse anymore. There's no conversation. There's just blame. You know how blame is described in the research? A way to discharge pain and discomfort. [6]
+
+This is an apt description of many anonymous 360 reports and employee surveys—very little discourse, and a great deal of blame directed at leaders, most of which imagines that the leader’s personal attributes are primarily responsible for the situation being described, particularly anything associated with employees’ pain or discomfort. The leader’s behavior is often assessed in isolation, without much (or any) consideration of a group dynamic or organizational culture that might have given rise to said behavior. And the providers of the feedback frequently fail to take responsibility for their own contributions to the situations being described—everything is ascribed to the leader’s influence.
+
+The result is an unrealistic portrayal of the leader as an outsized, all-powerful authority figure and the infantilization of the other members of the organization. While this outcome is obviously undesirable, it can be dangerously seductive to both leaders and employees. We all find it gratifying to be viewed as influential and high-status, and leaders in particular generally have a strong need for power. [7] And as much as we want to be responsible adults, when we’re under stress or feeling disempowered it can be comforting to imagine that a commanding, parental figure will take care of our problems and make everything better. Thus, leaders and employees alike collude in the process of shifting responsibility from the latter to the former, when in truth leaders typically have more influence than all other individuals, but less influence than the employees as a group.
+
+This dynamic can occur in any feedback process, but it’s compounded by anonymity, in part because of the bystander effect. The presence of others discourages us from taking action to intervene in a difficult or dangerous situation, because we feel less responsible for the outcome. [8] Many anonymous processes convey to feedback providers (again, both explicitly and implicitly) that they are merely one voice among many, and, further, that they’ve already made a meaningful contribution merely by participating in the interview or the survey. The structure of the process suggests that once the interview is concluded or the survey is submitted, their work is done, and now it’s up to the leader to take action in response. There’s little if any recognition that the problems which gave rise to the negative feedback in the first place are likely to be solved only through collective efforts which take into account the larger group dynamic and organizational culture, even when those problems stem from an individual leader’s behavior.
+
+3. Necessary skills go undeveloped.
+
+Finally, delivering feedback through anonymous processes can forestall other conversations and interactions, slowing or even preventing the development of necessary skills by employees and leaders alike. One of the most important skills in organizational life is navigating a difficult conversation with just the right amount of assertiveness and minimal defensiveness. [9] Providing negative feedback to an authority figure is almost always challenging, and yet our ability to conduct these conversations improves when we overcome our resistance and actually step into them. Similarly, hearing negative feedback without defensiveness is profoundly difficult, and yet our ability to manage this response grows when we find themselves facing such feedback in an actual discussion, rather than in private reflection.
+
+This is because holding tough conversations isn’t a cognitive task that we can grasp intellectually—it’s an immersive emotional and physiological experience, and we need to practice repeatedly in order to habituate ourselves with the feelings and physical states that it evokes. We must become comfortable with discomfort. [10] This is one reason why the MBA curriculum at Stanford, where I teach, emphasizes in-person feedback in classes such as Leadership Labs, a required course for all first-year students, and Interpersonal Dynamics, our most popular elective. [11]
+
+It’s also important to note that the capacity to safely discuss risky topics isn’t simply a function of individual ability--it’s the result of individual skills being employed in the context of a unique group dynamic. Every human system, from one-on-one relationships to entire organizations, has a culture that makes it easier or more difficult to hold these conversations. Specifically, the norms regarding emotion awareness, regulation and expression have a significant impact on our ability to conduct these conversations effectively.
+
+Under optimal conditions, anonymous feedback can serve as a starting point for these discussions, but all too often the 360 report or employee survey serves to short-circuit this process. This is readily understandable—difficult conversations are hard, and when given the choice we almost always take the easier route. But when we continually divert these conversations into anonymous feedback processes, we fail to understand what norms best support the safe discussion of risky topics in a particular relationship or group, and we learn nothing about how to create a more functional culture. As a consequence, not only do we fail to develop our individual skills, but we also fail to cultivate a culture in our relationships and organizations that would allow us to employ these skills more effectively.
+
+Finally, recall that one of the initial assumptions supporting the need for anonymous feedback is the idea that people aren’t speaking candidly because they are afraid. In my experience fear and anxiety are facts of organizational life—we can try to diminish their impact through more enlightened management practices, but imagining that we can eliminate them entirely is magical thinking. A repeated theme in my practice is how leaders inevitably trigger fear and anxiety in subordinates despite the best of intentions and a heartfelt desire to do the opposite. [12]
+
+When we rely upon anonymous processes to provide feedback, we do make it safer for people to speak up—but we also deny them the opportunity to address and confront their fears and anxieties, and to test for themselves the accuracy of those concerns. As I note above, sometimes those concerns are well-founded, but when we prioritize safety above all else, one of the inevitable costs is a lack of learning and growth. [13]
+
+So what can we do?
+
+I’m not suggesting that there’s no place for anonymous 360 reports or employee surveys. In the absence of sufficient safety and trust, these mechanisms can serve as effective means to gather the data that’s necessary to initiate candid conversations. But we can’t simply assume that anonymous processes are always more effective or cost-free. The data generated by an anonymous process must be carefully scrutinized and assessed for bias, rather than simply accepted at face value. While anonymous mechanisms may surface data that would otherwise go undisclosed, the data itself is affected by the means through which it’s gathered—it’s not necessarily any more “true” for having been shared anonymously.
+
+A particular challenge with 360 reports is that in an effort to provide this service to a larger number of executives at a lower cost, organizations often allow feedback providers to simply type their comments into an application, and that unfiltered data is then shared directly with the recipient. It’s much more effective to have a skilled interviewer talk at length with feedback providers, compile and edit the comments resulting from these discussions, and then work with the subject over a period of time to interpret and act upon the feedback. Obviously, such a labor-intensive process is also much more expensive, and yet it’s important to ask whether the savings from an automated process are truly worth it, particularly with senior executives. At more junior levels, when organizations are uncertain whether the expense of an in-depth process is justified, decision-makers may well conclude that flawed feedback is better than no feedback at all. But it’s essential to acknowledge the potential shortcomings of that feedback, and at the very least organizations should insure that any anonymous 360 feedback is accompanied by sufficient coaching support.
+
+Postscript: My colleagues Dan Oestreich and Stephanie Soler are highly experienced practitioners who've conducted many 360s over the years. We're largely in agreement, but their nuanced comments in response to my original post offer useful counterpoints.
+
+Dan Oestreich:
+
+You are speaking to one of my pet peeves -- automated, anonymous "feedback" (can we really call it that?). Such purchasable processes may do more damage to givers and receivers precisely because of the dynamics of anonymity and the mechanical nature of the thing. I would also add that 360 processes are often based on "benchmarks" of successful managers and I often wonder about the validity of that, too. The idea is that somehow the combination of anonymity and benchmarks create something like an industrialized "objective" truth about a person -- a pretty darned big assumption.
+
+Moreover, you touch on the projections and narrowing of feedback about leaders without reference to context which, in my experience can lead to various emotional exaggerations and a host of responsibility and defensiveness problems by any and all the parties. And all based on the myth of individualism that ascribes all organizational problems to individual motivation, no matter what. A recipe for blame and control for whoever owns the process -- which is not likely the client leader. I agree with your suggestions, too, Ed, regarding the use of a coach to help interpret and share data, which is my only method of working with 360's.
+
+There are a few other things that are very important to me in the process as I do it, and these ideas may be helpful to others. First, the questions I ask on behalf of a leader are directly related to the leader's specific desires to learn. I don't use a standard set of inquiries. They are the product of a conversation about what the leader truly wants to learn.
+
+Second, who I speak with as a source of feedback is a shared decision. That could also include people outside a particular team or organization. It could include friends or even the spouse of the leader. But again, this is a mutual decision based on what the leader wants to learn about him/herself.
+
+Third, the data I gather is always in two categories, the behaviors that the leader is exhibiting and the conclusions that people draw about the behaviors. Behavioral feedback without knowledge of the conclusions people are drawing about it does not help the leader understand the significance of the behaviors to others, right or wrongly perceived. Conclusions without behavior, however, are not particularly actionable by themselves and create defensiveness -- they must be connected to behavior in order for the leader to choose to change behavior.
+
+Fourth, gathering this feedback and turning it into a report is a helpful record but only if it is customized to the person -- which means reporting patterns of behavior must be done with deep respect for the person who is receiving this information. It's not a bunch of numbers and scales. It's a personal letter from an advocate that balances truth (so far as we can know it) with deep care for the person receiving that snapshot in time.
+
+Fifth, a report is only the start of a process. After receiving the feedback, there's coaching work and a development plan created by and with the client. I then encourage clients to share the development plan with those who offered feedback to make sure the leader's on the right track -- because the process is so fallible. ( And, frankly, another reason for that conversation is to break down anonymity.) Additionally, it is most often useful to establish an ongoing support team of a few people who want to meet with the leader regularly thereafter -- but this is for mutual support and development; not just to monitor or help the leader alone.
+
+This is a personal and relatively expensive process that requires sensitivity, connection and time. The idea that this can be turned into a "factory" for self-knowledge through standardized forms and benchmarking drives me a little crazy. Self-understanding and personal growth are not commodities.
+
+My response to Dan:
+
+Thanks so much, Dan. I appreciate the in-depth perspective on how you pursue the practice, and we're in complete agreement on the risk factors as well as the potential ways to mitigate them. I'm particularly struck by this passage in your comment: "Behavioral feedback without knowledge of the conclusions people are drawing about it does not help the leader understand the significance of the behaviors to others, right or wrongly perceived. Conclusions without behavior, however, are not particularly actionable by themselves and create defensiveness -- they must be connected to behavior in order for the leader to choose to change behavior."
+
+This is a critical insight about any feedback to leaders, anonymous or attributed. Asking employees to identify the conclusions they're drawing about a leader's behavior is not only an important step toward helping leaders see the cost of said behavior (and how easily and how often their actions are misinterpreted), it's also a necessary step in encouraging employees to "empathize up," which occurs so rarely and yet can be such a helpful factor in these processes.
+
+Stephanie Soler: 
+
+Although anonymous feedback has some major drawbacks, it can be enormously valuable when done well. I agree wholeheartedly that verbatim, anonymous feedback does more harm than good. In my experience, a skillfully facilitated interview-based 360 feedback process can be an important component of helping a leader foster and role model a feedback-rich culture. Here are a couple of lessons I've learned in my coaching experience.
+
+First, it's important to emphasize that feedback is not a to-do list; rather, it is data. It is up to the receiver to go through the exercise of processing that data. What is the data telling you? What resonates? What's off base or unimportant? Going through this process with a skilled coach can help a leader have more empathy and skill when being on the giving side of of feedback.
+
+Second, there is no one, single right way to lead. This is why I avoid off-the-shelf, one-size-fits-all survey instruments. Leadership looks different in different contexts. I start each 360 interview by inquiring about the context. "What does this person most need to achieve for the business in the next 6 months? What impact does she need to have to be considered a success?" The answers here set the stage for the subsequent questions about the behaviors, skills and qualities that are helping and those that are getting in the way. It's not about being liked, it's about being effective in this context.
+
+Third, all parties involved can use the experience as a catalyst to have in-person conversations. When I hear critical feedback, I ask the giver, "What have you shared with this person directly?" When people are holding back, I talk with them about how to create the conditions and the skills to have direct conversations.
+
+Finally, an anonymous 360 can surface a great deal of previously unspoken positive, strength-based feedback. This can be just as insightful as the critiques - sometimes downright transformative.
+
+My response to Stephanie:
+
+Thanks, Stephanie. Great insights, and I appreciate the care and skill that you bring to the 360 process (which is no surprise to me). I think you and Dan Oestreich (who commented above) highlight how organizations can employ this process while mitigating the concerns I raise here. And your third point is most compelling to me, because no matter what data we have at our disposal (from 360 feedback to an assessment report) there is ultimately always a need to have real, in-person conversations.
+
+Footnotes
+
+[1] How to Feed a Monster (Leading in Elite Organizations)
+
+[2] Making Relationships Work (Diane Coutu, Harvard Business Review, 2007)
+
+[3] The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling (Ellie Lisitsa, The Gottman Institute, 2013)
+
+[4] Ibid.
+
+[5] The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process (Lee Ross, Advances in Experimental Social Psychology, L. Berkowitz, editor, pages 173-220, 1977)
+
+[6] The Power of Vulnerability [transcript] (Brené Brown, TEDx Houston, 2010)
+
+[7] McClelland and Burnham on Power and Management
+
+[8] Understanding the Bystander Effect (Kendra Cherry, Very Well Mind, 2018)
+
+[9] Learning to Yield (Navigating Tough Conversations)
+
+[10] Comfort with Discomfort
+
+[11] Interpersonal Dynamics at Stanford
+
+[12] How Leaders Create Safety (and Danger)
+
+[13] Taking the Plunge (Safety, Risk, Learning and Growth)
+
+Photo by Vincent Diamante.
+
+
+===== END ED BOT ESSAY 3934 =====
+===== BEGIN ED BOT ESSAY 3935 =====
+---
+title: What We Learned in Touchy Feely (and What We're Still Figuring Out)
+url: https://edbatista.com/2017/03/what-we-learned-in-touchy-feely.html
+slug: what-we-learned-in-touchy-feely
+published: 2017-03-19T23:21:18
+updated: 2025-09-24T11:58:13
+source_body: wordpress-html
+---
+
+Last week I finished teaching a section of Interpersonal Dynamics (which everyone calls "Touchy Feely") at the Stanford Graduate School of Business. I first encountered the course as an MBA student in 1999, I joined the staff as a group facilitator in 2006, and in 2015 I was invited to join the faculty. Over the last two years I've had the privilege of working with some of the most dedicated students any instructor could hope for, and I've appreciated the opportunity to travel alongside them as they encountered concepts that have had a substantial impact on my own life and career over the past two decades.
+
+In the penultimate class of the Quarter, I had my students brainstorm in small groups before we were visited by a group of alumni, all of whom took the course as students and have continued to explore its implications in the years since. I first asked my students to document what we learned--ideas that they want to bear in mind after they leave the GSB and return to the real world. And then I asked them to identify what they're still figuring out--questions that they wanted to pose to our alumni visitors.
+
+Each group captured a set of lessons and a set of questions on flipcharts, and I've documented them here (with occasional links and editorial comments), so that they can refresh their memories as needed.
+
+WHAT WE LEARNED
+
+The Net (Stay on our side.)
+
+Triggers can cloud feedback: Truth, relationship, identity. (Be aware of what triggers others and ourselves.)
+
+Flooding. (Know how to react when flooded.)
+
+Influence = Warmth + Strength. (First, be warm.)
+
+Stress can be OK. (Know thyself.)
+
+Uncertainty --> Vulnerability --> Connection. (Calibrated risk-taking.)
+
+Know how to jump between cognitive and emotional.
+
+A soft start.
+
+Levels 1-5
+
+Four-Player Model (More here)
+
+Microaggressions
+
+Don't hate the player, hate the game.
+
+I honestly have no idea what this could mean in this context.
+
+Keep an eye out.
+
+Leadership
+
+Don't pforget Pfeffer! (Is it really a lion or not?) Tradeoffs: Short-term vs. long-term.
+
+Power of repeated interactions.
+
+Leaders set the tone.
+
+Gain influence --> Set norms.
+
+Leaders are stewards of trust in the group.
+
+Warmth and competence: Influence = Warmth + Strength. (Warmth comes first.)
+
+Acting in Groups
+
+Four-Player Model: Move, oppose, bystand, follow. (More here)
+
+Vulnerability: Self-disclosure --> Empathy --> Stay on your side of the Net
+
+Feedback
+
+Question the tapes.
+
+State your intentions.
+
+Feedback = different lenses.
+
+Soft start.
+
+Meeting people emotionally before feedback.
+
+Repair is possible!
+
+It's OK to go over the Net when you acknowledge it.
+
+Empathy is NOT agreement, but acknowledgement.
+
+Recognize others' tapes.
+
+Look out for triggers.
+
+Influence = Warmth + Strength
+
+How to be transparent without losing power.
+
+Establish trust first.
+
+Kantor's Four-Player Model: What roles are missing in your environment? (More here)
+
+Disclosures don't always need solving.
+
+Meet people where they are before plunging in.
+
+Pay particular attention to the "Status" element of the SCARF model.
+
+Notice the role of explicit and implicit norms at the start.
+
+The Net: Don't make attributions, and assume good intentions.
+
+Emotions are attention magnets.
+
+A soft start.
+
+Be aware of bids and their cumulative effects.
+
+Step 1 is consciousness.
+
+Beware of unknown unknowns.
+
+Five levels.
+
+High EQ people don't automatically form a high EQ group.
+
+Norms: Implicit and explicit.
+
+Observing the environment.
+
+Experimentation and constant curve.
+
+Team roles and Four Player Model: Different roles have different skill sets and risk. (More here)
+
+Group EQ --> Meet emotions.
+
+Warmth and competence: Increase with vulnerability.
+
+Conform to the surrounding culture just enough.
+
+Stay on your side of the Net and test your assumptions.
+
+Language ("feel")
+
+Adapt yourself to your audience; everyone hears a message differently.
+
+Soft start --> Begin with mutual understanding.
+
+State your intentions at the beginning.
+
+Take calculated risks.
+
+In the real world you'll need to ask for feedback.
+
+Be careful with assumptions--you might not know the full story.
+
+Let people cool off--give them space.
+
+WHAT WE'RE STILL FIGURING OUT
+
+How do you apply Touchy Feely at different levels in your organization?
+
+How vulnerable should you be in your life (and work)?
+
+Did it ever backfire?
+
+How have you integrated Touchy Feely in your life?
+
+How do you apply this managing up?
+
+How do you you institutionalize learnings?
+
+How do you deal with people crying?
+
+How do you make it all stick?
+
+How do you spread it without being obnoxious?
+
+What do you do with the feelings people share?
+
+How do you coach others to be receptive to others' feelings?
+
+How to balance vulnerability with power?
+
+When does vulnerability work, and when doesn't it?
+
+What concepts do you still use from Touchy Feely?
+
+How do you bring Touchy Feely into an organization as a junior?
+
+When does Touchy Feely go wrong?
+
+How does Touchy Feely change your personality?
+
+How do you remind yourself of key concept?
+
+How do you bring Touchy Feely to your personal life?
+
+How do you teach Touchy Feely to others?
+
+What have you learned that you've applied most frequently in your personal and professional life?
+
+How do you teach these concepts to others?
+
+Do you have any failures or regrets from deploying your Touchy Feely skills?
+
+Have these skills worked with people from different cultures and backgrounds?
+
+How do you build it into your business culture?
+
+When has it backfired? When has it worked?
+
+When can one be vulnerable? How soon? And what does that mean at work?
+
+What are some examples of showing warmth and strength? Does this change over time, or at different stages of your career? How does this differ for men and women?
+
+Should feedback always be direct? Even upwards?
+
+What are your favorite feedback systems and structures?
+
+How do you mainstream it?
+
+What are signals that a team is doing well?
+
+Photo by Stuart Pilbrow.
+
+
+===== END ED BOT ESSAY 3935 =====
+===== BEGIN ED BOT ESSAY 3936 =====
+---
+title: How to Feed a Monster (Leading in Elite Organizations)
+url: https://edbatista.com/2017/02/how-to-feed-a-monster-leading-in-elite-organizations.html
+slug: how-to-feed-a-monster-leading-in-elite-organizations
+published: 2017-02-27T05:00:00
+updated: 2026-04-15T11:06:42
+source_body: wordpress-html
+---
+
+Monsters are always hungry; that's what makes them monsters.
+
+~Sean Hayes [1]
+
+In the decade that I've spent coaching senior leaders and teaching MBA students at Stanford, I’ve worked with hundreds of people associated with elite organizations, from blue chip professional service firms to high-profile technology companies. Many of my clients run these organizations, and my work with them involves improving their own effectiveness and fulfillment as leaders, managing key relationships and team dynamics, and shaping company culture. Other clients have transitioned from one elite organization to another, and my work with them has involved better understanding their needs and values as a professional as well as the conditions under which they do their best work, so that they can choose the opportunity that will be the best fit for them. And most of my students are either on a similar path or hoping to get there--the ability to gain superior access to such opportunities is one of the reasons they came to business school in the first place.
+
+In the process I’ve reached a set of conclusions about how elite organizations operate, with a particular focus on the internal dynamics that cause so much stress for leaders and future leaders like my clients and students. These forces aren’t the result of anyone’s bad intentions, but they’re not random accidents, either—there’s a method to the madness. And a better understanding of these dynamics can allow leaders to successfully occupy roles within elite organizations while also maintaining their health, well-being and sanity.
+
+One way to measure an organization’s status is by the level of demand for associated positions and opportunities—the more competitive this process, the more elite the organization. The high demand for leadership roles at elite organizations is a powerful force with significant implications for the dynamics discussed here. And one result is that many of the talented people seeking these positions have less leverage than they would enjoy elsewhere, and are willing to make concessions that they would not make for an organization of lower status.
+
+On occasion this involves a literal trade-off in compensation—people accept less generous terms in exchange for the prestige of being associated with the elite organization. But in many cases elite organizations attract top-level leadership talent on the basis of exceptionally competitive compensation, and then the trade-offs are more complex and subtle. While the material rewards may be fulsome, the hours can be grueling, the pace intense, and the culture unsympathetic. But in almost all situations the elite organization levies some sort of tax on its leaders—something is extracted in exchange for the desired opportunity.
+
+These trade-offs and taxes are critical elements in the relationship between an organization and the leaders who inhabit it. They signify that the association is provisional and contingent upon a leader’s willingness to make concessions. The actual degree of contingency is unclear—it is rarely articulated and usually just suggested—but it is a condition that has far-reaching ramifications. Many leaders within an elite organization feel anxious at the possibility of losing their position--not because they fear unemployment, but because their work is such an important part of their identity. These individuals are also typically strongly motivated high-performers—people I call “happy workaholics.” As a result, leaders in elite organizations can readily collude in undermining themselves. To be clear, this is rarely the result of an intentionally exploitative management strategy. Rather, it’s the inevitable consequence of the intersection of the organization’s elite status as a source of leverage and each individual leader’s combination of anxiety and motivation.
+
+A similar process within elite organizations stems from the competition they face from outside. The position occupied by the elite organization is a desirable one, and it must be defended against others who would claim it. This has numerous consequences for its leaders. An atmosphere of frantic urgency can surge up in response to crises, both real and imagined. There is often a heightened sense of importance regarding the organization’s mission and the necessity of its success in staving off competitors. As a result, leaders in elite organizations operate most of the time in conditions of mild to severe stress—there is rarely, if ever, a sustained sense of calm or ease.
+
+Again, it’s important to acknowledge the ways leaders collude in creating these conditions. Leaders in elite organizations tend to be highly conscientious with a strong need to have impact and make meaningful contributions. These drives are major motivators that attract talented leaders to elite organizations in the first place. And a result of these factors is that leaders internalize the importance of the organization’s mission and feel personally responsible for its success in overcoming crises and beating the competition. The stress of operating in such an environment may be regrettable, but it becomes easier to accept when it can be justified on this basis.
+
+Subordinates and outsiders often imagine that leaders are not subject to these dynamics. This is in part because leaders appear to be in control, but that is an illusion that comforts both leaders and subordinates. [2] In truth power within elite organizations tends to be dispersed among multiple stakeholders who are constantly engaged in struggles to maintain it. This helps to preserve the organization’s continuity and allows it to survive the occasional leadership crisis with minimal impact on its status. But a challenge this poses for leaders is that their sphere of authority is typically much smaller than it appears to subordinates and outsiders. The imbalance between the responsibility elite leaders feel (or that others impose upon them) and the actual authority they possess is itself yet another source of stress.
+
+In my experience almost every leader in an elite organization, up through the most senior levels, faces some version of these challenges. So what can be done? Here are five strategies:
+
+1. Accept Reality Gracefully
+
+There’s a powerful scene in David Simon’s dramatic series The Wire in which an anxious store security guard pleads with a dangerous gang leader who’s just shoplifted, asking him to appreciate the difficult situation in which the guard now finds himself. The gang leader is unmoved. "You want it to be one way," he murmurs, "but it’s the other way." [3] There’s a lesson here for leaders in elite organizations. They may feel frustrated or upset by the dynamics described above, and they may yearn for things to be different—and yet this state of affairs is both rational and predictable. You want it to be one way, but it’s the other way--and it’s essential to accept this reality. This can pose a particular challenge for leaders facing a gap between subordinates’ expectations and the limits on their own ability to alter these dynamics—accepting reality may be perceived by others as indifference to dysfunction. It’s important for leaders to actively express empathy for the consequences of these dynamics without creating expectations that they will be able to eliminate them. [4]
+
+2. Pursue Change Thoughtfully
+
+Failing to recognize that the dynamics described above spring from the fundamental nature of elite organizations is a form of magical thinking, but accepting reality need not entail passively tolerating dysfunction or abandoning efforts to make change. Reinhold Niebuhr's Serenity Prayer ("God, grant me the serenity to accept the things I cannot change...) is a cliché because it's true, and the quickest way to burn out as a leader in an elite organization is to reject reality and fail to recognize what can't be changed. And yet a less quick but equally likely path to burnout is to ignore all dysfunction and make no effort to bring about change. It's essential to find a healthy midpoint between these unhealthy extremes, and to do this leaders have to take some manageable risks to determine what can and can't be altered. [5] In many circumstances this process begins with identifying one’s personal sphere of influence as a leader and working within those parameters—this may not be a fulfilling long-term approach, but it’s a starting point. In other cases there are opportunities to pursue change on a larger scale over extended periods of time. And while at key junctures leaders can bring about more fundamental transformations, it’s important to acknowledge both the likelihood of failure and its potential consequences. Elite organizations undergo radical change very rarely and usually under extreme financial duress—the leader who seeks to pursue such a transformation must act at a propitious moment.
+
+3. Build Resilience Continuously
+
+The strategies above can diminish the stress experienced by leaders in elite organizations, but they can’t eliminate it. Leaders must be prepared to cope with the dynamics described here on a regular basis, and this requires the cultivation of a personal sense of resilience, the ability to face challenges with equanimity and to recover from adversity over and over again. In Bouncing Back, therapist Linda Graham relates the following story from Buddhist tradition:
+
+A master monk is meditating in a temple with other monks. Suddenly a fierce bandit storms into the temple, threatening to kill everybody. The other monks flee, but the master monk remains, calmly meditating. Enraged, the bandit shouts, "Don't you understand? I could run you through with my sword and not bat an eye!" The monk calmly replies, "Don't you understand? I could be run through by your sword and not bat an eye." [6]
+
+Leaders must strive to be the master monk facing the bandit, and this requires a continuous investment in activities that build resilience [7], most significantly meditation or some other form of mindfulness practice [8], regular exercise [9], and consistent sleep. Note that these activities are in fact investments in a leader’s effectiveness and not indulgences. Also note that they are important-but-not-urgent activities which require a consistent daily commitment, a process that occurs only when the leader allocates time for them and resists yielding that time to urgent-but-not-important demands (which other people will readily supply). [10]
+
+4. Set Boundaries Firmly
+
+While leaders are often advised to pursue so-called "life-work balance," a consistent theme in my coaching practice is the unhelpfulness of this concept. Leaders in elite organizations are extremely unlikely to achieve "balance," not only because of the demands imposed upon them by the role, but also because of their own inner drives and motivations. "Happy workaholics" have little interest in living balanced lives. [11] And even in those rare moments when balance seems both possible and desirable, it also feels precarious and difficult to sustain. This isn’t to say that leaders in elite organizations should ignore the underlying needs represented by the idea of balance, but they have to address those needs in a way that’s likely to yield results. A better approach I often discuss with clients and students is the idea of boundaries—borders that distinguish one thing from another in our lives and keep them in the right places and in appropriate amounts. Leaders in elite organizations don’t need (or even want) balance, but they can’t survive without effective boundaries. These can take many forms, such as physical or temporal separation from work, but they all rest on the leader’s ability to direct their attention away from work and toward other activities. [12] In this process an essential task for leaders is recognizing that elite organizations will rarely set boundaries for them, because there are few incentives to do so. It’s the leader’s responsibility to identify and enforce the boundaries they need for themselves, and as with pursuing change, this requires taking some risks in order to test what can be accomplished and what cannot.
+
+5. See Yourself Clearly
+
+Elite leadership roles exist within powerful distortion fields. Compensation and perks allow the leader to enjoy the most luxurious of creature comforts, which are soon taken for granted. Subordinates and others typically approach with deference, which the leader can come to expect as their due. The feeling of importance, even grandiosity, that permeates the elite organization can extend to the leader’s sense of self. And should a leader remain in a senior position long enough they may even come to identify with the organization, losing sight of how truly replaceable they are. There’s a certain inevitability to these dynamics, and in many cases they’re relatively harmless. But they can be problematic when taken to extremes or when a leader’s tenure ends suddenly. Leaders can combat the effects of these distortion fields by striving to see themselves (and the world around them) more clearly:
+
+- Get out of the elite bubble and deprive yourself of some creature comforts on a regular basis to combat hedonic adaptation.
+
+- Seek out candid feedback from subordinates and peers and express appreciation for those who actually provide it.
+
+- Invest in relationships with people who know you as someone other than an elite leader and who have no investment in your leadership role.
+
+- Maintain a personal identity that transcends work, and immerse yourself in experiences that remind you of those aspects of yourself.
+
+- Become a student of mortality—read Seneca, or Atul Gawande, or Joan Didion, or Christopher Hitchens—and bear in mind that we are all ultimately replaced.
+
+A leadership role in an elite organization can be a powerful source of meaning and purpose. The shared status, the ability to command and employ resources, the sense of contributing to an important mission, the opportunity to have an impact in the world, and, to be clear, the material rewards can serve to make these roles immensely gratifying. And yet these roles can also be tremendously stressful and depleting, leaving the people who hold them burned out and overwhelmed. The key is recognizing the necessity of taking responsibility for a positive outcome. Successful leadership careers don't happen by accident, and neither do fulfilling ones.
+
+Footnotes
+
+[1] "Big Black Hole And The Little Baby Star" (Sean Hayes, Big Black Hole And The Little Baby Star, 2006)
+
+[2] Pfeffer and Sutton on Leadership
+
+[3] Refugees, The Wire, Season Four (Written by Dennis Lehane, portrayed by Jamie Hector, HBO, 2006)
+
+- Here's a brief clip that's worth watching.
+
+[4] Brené Brown, Vulnerability, Empathy and Leadership
+
+[5] Risk Management (The Importance of Speaking Up)
+
+[6] Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being, page 229 (Linda Graham, 2013)
+
+[7] Ignoring Bandits and Building Resilience
+
+[8] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[9] Get Moving! (Exercise for Busy People)
+
+[10] Importance vs. Urgency
+
+[11] Happy Workaholics Need Boundaries, Not Balance
+
+[12] Growth, Profitability, and Return on Attention
+
+For Further Reading
+
+Stop Trying to Be "Good Enough" by "Getting Better"
+
+Truth, Power, and Communication
+
+On the Shortness of Life (Seneca)
+
+Being Mortal: Medicine and What Matters in the End (Atul Gawande, 2015)
+
+The Year of Magical Thinking (Joan Didion, 2007)
+
+Mortality (Christopher Hitchens, 2014)
+
+This is a companion piece to Surviving in a Toxic (or Merely Dysfunctional) Culture, which addresses similar issues from the perspective of mid-career professionals rather than leaders.
+
+Photo by Pazzolli.
+
+
+===== END ED BOT ESSAY 3936 =====
+===== BEGIN ED BOT ESSAY 3937 =====
+---
+title: Taking the Leap (Dealing with Risk and Uncertainty)
+url: https://edbatista.com/2017/02/taking-the-leap-dealing-with-risk-and-uncertainty.html
+slug: taking-the-leap-dealing-with-risk-and-uncertainty
+published: 2017-02-20T05:00:00
+updated: 2026-03-03T08:02:24
+source_body: wordpress-html
+---
+
+My coaching clients and MBA students deal with risk and uncertainty constantly. Most of my clients are senior leaders who must make consequential decisions with imperfect information, from adopting a potential strategy to hiring a candidate for a critical role. The majority of my clients are technology company CEOs whose entire businesses are highly risky ventures. And all of my students at Stanford have to select a post-graduation career path from among the many different options available to them, and they often feel intense pressure to optimize this choice.
+
+Most of us have a reflexive aversion to risk and a preference for certainty. This is understandable--risk entails the possibility of loss, and loss aversion causes us to weight potential losses more heavily than potential gains. Unpredictability unnerves us and makes us uneasy. The more we know about the outcome of a situation, the safer and more comfortable we feel. As a result we typically work hard to minimize risk and uncertainty, because these qualities trigger unpleasant emotions we’d rather avoid.
+
+Emotions are essential inputs in our reasoning process, and in most cases we appropriately move away from situations and experiences that generate negative emotions. But emotions aren’t always accurate guides to the right course of action—they’re “quick and dirty signals,” in the words of neuroscientist Joseph Ledoux. The speed and power of emotions allows them to play a useful role in decision-making by helping us process massive amounts of data more efficiently than we could through logic alone. But these same characteristics also allow emotions to easily overtake our relatively slow and resource-intensive logical reasoning process, and potentially guide us inaccurately.
+
+This often happens when it comes to situations involving risk and uncertainty. These qualities trigger strong feelings that cause us to feel unsafe, so we avoid the experiences that trigger them—but this comes at a significant price. Lower risk and greater certainty always carry opportunity costs. This is readily apparent in the financial world—the safest investments offer the lowest returns, and the biggest opportunities are also the riskiest.
+
+We balance risk and opportunity cost as investors by diversifying our portfolio, but this is more difficult in other domains of life. Many of our other choices are starker and don’t lend themselves to diversification. We can choose one strategy, hire one candidate, accept one job offer at a time. We may change course, or revisit an option we previously abandoned, but we won’t get back the time and effort spent previously. And all of these choices are rife with uncertainty. Will the strategy succeed? Will the candidate be the right fit? Will the job lead to a fulfilling career? We don’t know, and the massive information asymmetry between us and the future is daunting.
+
+And yet the tension between risk and opportunity is equally present in these other domains. The unproven strategy may fail entirely, but it may also be the key to the company’s success. The time-tested strategy won’t get anyone fired (immediately), but it will probably yield minimal competitive advantage. The unconventional candidate may wash out, but they may also be a tremendously high-potential talent. The traditional candidate will get the job done, but they’re also less likely to outperform expectations. The risky, uncertain job may be the first step toward a dead end (and yet another search), or it may be a door into a world of opportunity. The safe, steady job will be just that—and those very qualities may ultimately lead to a less fulfilling long-term career.
+
+So what can we do? Rather than minimizing risk and avoiding uncertainty (and incurring the inevitable opportunity costs), we’re better served by more effectively managing the emotions that these qualities trigger. To be clear, managing emotions doesn’t mean suppressing them. Efforts to ignore our feelings or pretend that they don’t exist aren’t sustainable over time (and may even exacerbate the very emotions that are causing us difficulty). Managing our emotions is an entirely different process.
+
+Awareness
+
+First, we can enhance our ability to sense the emotions that are triggered by risk and uncertainty. This starts with slowing down, both figuratively and literally. Practices such as meditation, regular exercise and sufficient sleep can help us be more attuned to emotions, in part by increasing our sensitivity to physiological sensations. (Emotions are physiological events before they register in consciousness.) When we’re better able to manage our attention, in close touch with our bodies, and feeling well-rested, it’s easier to perceive and identify our emotional state. The goal here is to heighten our awareness of the early signs of anxiety and other emotions that we feel in the presence of risk and uncertainty. This involves observing not only our inner responses (cognitive, emotional, physiological), but also our external behavior (facial expressions and tone of voice, gestures and body language, how we occupy and move through space).
+
+Comprehension
+
+As we’re better able to sense the emotions triggered by risk and uncertainty, we need to be able to label them clearly and accurately. This often requires expanding our emotional vocabulary. I distribute an actual vocabulary to my students in Interpersonal Dynamics at Stanford, and many of them find it immensely helpful. In some cases we exaggerate low-level feelings while in others we ignore them because we lack language that’s sufficiently nuanced to capture the essence of the experience. Clearly comprehending our emotions may not be sufficient to allow us to manage them effectively, but it’s an essential step along the way.
+
+Reframing
+
+Our cognitive interpretation of a situation has a significant impact on our emotional experience. By slowing down in order to sense and comprehend our feelings more clearly, we make it easier to consciously reassess a given situation and shift our emotional response in a more productive direction. In situations involving risk and uncertainty this includes emphasizing the potential gains to be won--Doug Sundheim, who has influenced my thinking on this topic, encourages people to "find something worth fighting for" in order to understand "why risk taking is important to you in the first place." It’s also helpful to recognize that our view of the situation may be inaccurate—as Daniel Kahneman has noted, our brains are "radically insensitive to both the quality and the quantity of the information that gives rise to impressions and intuitions." As a consequence, our calculations of risk and uncertainty are often unreliable--while the negativity bias that we’ve evolved as a species has helped to insure our survival, it also causes us to see dangers lurking where there may be none. We can also choose to redefine our response to such situations. For example, I was once terrified of public speaking, and I viewed the anxiety I felt before facing a crowd as evidence of my ineptitude. But in the process of getting over this fear I decided to reinterpret my anxiety as evidence of my conscientiousness—I had high standards for myself and wanted the audience to have a good experience.
+
+Expression
+
+Finally, we can manage our emotions most effectively by finding healthy ways to express them. This begins with reflection but inevitably involves taking action—writing about our feelings and talking about them with others. These simple steps allow us to process and work through emotions more efficiently than reflection alone. Note that there’s a potential virtuous cycle here: Sensing, clarifying and understanding our feelings allows us to reflect upon them, to write about them, and to enter into a dialogue with others about them. Reflecting on emotions, journaling about them, and—most importantly--discussing them aloud helps us gain some perspective on our emotional experience and feel more control over it. And these activities expand our fluency with the language of emotion, allowing us to comprehend our feelings more clearly.
+
+Managing emotions takes a lot of work, and we may conclude that while it’s a laudable effort we just don’t have the time or energy for it. But in my experience as a coach, the no-risk, 100% certain paths that we choose when we’re unable to manage the emotions triggered by risk and uncertainty often end in regrets. The time-tested strategy yields no real advantage, the conventional candidate is just a B-player, and the safe, steady job turns into a dull, unrewarding career. These outcomes will result in a whole new set of difficult emotions that must be dealt with eventually. Pay now or pay later.
+
+For Further Reading
+
+The Importance of Slowing Down
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+Get Moving! (Exercise for Busy People)
+
+Vocabulary of Emotions
+
+Doug Sundheim on Taking Smart Risks
+
+Seeing What's Not There (The Importance of Missing Data)
+
+The Value of Journal Writing
+
+Phil Stutz on Taking Risks
+
+Taking the Plunge (Safety, Risk, Learning and Growth)
+
+Risk Management (The Importance of Speaking Up)
+
+The Danger of Playing it Safe
+
+Photo by DVISDHUB.
+
+
+===== END ED BOT ESSAY 3937 =====

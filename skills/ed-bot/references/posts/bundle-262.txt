@@ -1,0 +1,402 @@
+===== BEGIN ED BOT ESSAY 4159 =====
+---
+title: Talking About Promotions (with Very Ambitious People)
+url: https://edbatista.com/2022/10/talking-about-promotions-with-very-ambitious-people.html
+slug: talking-about-promotions-with-very-ambitious-people
+published: 2022-10-18T07:10:42
+updated: 2026-10-28T15:39:39
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader with an ambitious employee who's anxious to be promoted, sometimes to the point of urgency. Most of these people share a set of common characteristics: very high expectations for their professional accomplishments, a nagging sense that they're "behind" in some way, and an idealized vision of the happiness (or relief) they'll experience when they achieve their goal.
+
+But their talents and capabilities can differ substantially, of course. Some of them are already operating at an elite level, and their ambition is entirely justified. Others are just as obviously not at an elite level, and their ambition is sadly misguided. But most of them fall somewhere in the middle--they show substantial potential, but they haven't yet clearly demonstrated that they merit a bigger role, a new title, or increased compensation.
+
+In my work with leaders facing this challenge, I encourage them to bear those common characteristics in mind while tailoring their approach to suit the employee's current and potential contributions. If you're in a similar situation, what might this look like?
+
+Managing Expectations, Part 1
+
+With an obvious elite performer, the leader's task is to manage their expectations--but not in the way you might think. Conventional expectation management entails counseling patience, but that's not what I mean here. If you have an elite performer who feels an urgent need for their talents to be recognized, then if you don't find a way to meet that need you'll soon be relieved of this problem, because they'll take their talents elsewhere.
+
+And yet no matter what role, title or comp they're able to command--from you or from another employer--their sense of urgency and the feeling that they're "behind" will almost certainly diminish only for a brief period before it returns in full force. This is the predictable result of two powerful psychological forces: Hedonic adaptation ensures that we readily adapt to changes in our circumstances, which means that even our greatest aspirations, once fulfilled, are soon taken for granted. [1] And social comparison means that we have a deeply rooted predisposition to assess our progress in life by considering our status relative to others who we consider salient figures--and we tend to focus on those who we perceive as "ahead" in some way. [2]
+
+You can't "turn off" these drives in your ambitious elite performer, nor would you want to--they serve a useful role for the species, even as they cause anguish for most of us as individuals at various times in our lives. But if you hope to retain them as a long-term colleague, you'll both be well served if you can help them understand these dynamics and how to deal with them. That doesn't mean encouraging your elite performer to settle for something less than they believe they deserve, but it does involve addressing and coming to terms with the anxiety and other emotions that underlie their ambitions. This requires you act as a mentor, not just a manager, and you can't simply impose that relationship on someone--you have to be invited in.
+
+- The Trap of Competition
+
+- Stop Trying to Be "Good Enough" By "Getting Better"
+
+- Understanding the "Pie Chart" in The How of Happiness
+
+Managing Expectations, Part 2
+
+With an ambitious employee who's an adequate performer but obviously not elite, it's also necessary to manage their expectations, but with different goals in mind. Not only is this person not going to be promoted anytime soon, it's likely that they're going to be levelled or managed out. I make the assumption that there's an unbridgeable gap between your employee's ambitions and their current capabilities, but they're not a chronic under-performer who's failing to add value. (If that's the case, then you should be managing them out now.)
+
+But if you'd prefer to retain them--and yet have no intention of promoting them--then you need to determine whether it will be possible to level them successfully when it becomes necessary. This is always a challenging managerial task, but here the difficulty will be compounded by your employee's unrealistic self-assessment. In this process both of you will need to make a contribution.
+
+You'll have to provide data demonstrating a performance gap, an opportunity to learn from the incoming manager, clarity on your employee's new role, and--perhaps most importantly--sufficient grace to ensure that your employee feels respected throughout the process. Your employee will have to respond with non-defensiveness--which will be easier for them if you fulfill the responsibilities above. And both of you will need to trust each other, which requires investing in the relationship over time.
+
+This will obviously take time and effort, and in any given case you may conclude that it's not worth the trouble. But note that the ability to successfully level an adequate employee who's not an elite performer is a tremendous managerial asset, and you won't learn how to do it if you never try.
+
+- The Fine Art of Levelling
+
+- Merciful Exits (On Under-Performing Executives)
+
+From Potential to Excellence
+
+Most of your ambitious employees will fall somewhere in between these two extremes--they haven't yet demonstrated consistent elite performance, but they show substantial potential, and the question is whether or not that potential will be fully realized. And one of the best tools at your disposal to influence that outcome is clear, direct feedback on the nature of their performance. One simple framework involves providing feedback in three distinct "buckets":
+
+1. Here's where you're already delivering excellence.
+
+This should be an easy bucket to fill, but many managers fail to make effective use of it. They worry that positive feedback will cause an ambitious employee to feel entitled to a promotion, so they withhold it--which only increases the employee's anxiety and agitation. Or the manager learned in some terrible training session that they should always offer "positive feedback" before delivering the real message--which only trains people to ignore their positive feedback. As a consequence many managers are simply ineffective at delivering meaningful positive feedback that truly has an impact. But it isn't rocket science--it just takes diligent effort and practice. [3]
+
+2. Here's where you're making progress.
+
+This is the bucket that most managers over-utilize. But true excellence (above) and clear under-performance (below) shouldn't be lumped together with other areas of responsibility where your employee is making progress but not there yet. This bucket is an opportunity to have a nuanced conversation with an ambitious employee and let them know that you can discern not only the effort they're making to improve, but also their still-insufficient results, and you want both halves of that message to register.
+
+3. Here's where you're falling short.
+
+This should also be an easy bucket to fill--your ambitious employee has clearly fallen short in some key areas, or you wouldn't be wondering whether or not to promote them. But here again many managers fail to offer meaningful critical feedback. They worry that direct feedback will be demotivating, or that their employee will respond defensively. While it's your responsibility to learn how to deliver critical feedback in a way that's less likely to evoke a defensive response, this is also a valuable opportunity to assess your employee's ability to hear criticism and take responsibility for setbacks, which is a significant indicator of future success.
+
+- How to Deliver Critical Feedback
+
+- Make Feedback Normal. Not a Performance Review.
+
+- Why Some Executives Derail (and What You Can Do About it)
+
+Finally, note that the timing of these conversations matter--your employee is likely to want to hold them more frequently, and as noted in the post linked above, I don't think leaders should wait for formal review cycles to provide developmental feedback. That said, in some cases it makes sense to defer discussions about promotions until there's enough data to justify further consideration. I once had a CEO client whose sales leader tried to renegotiate his comp every single quarter. This proved untenable.
+
+Footnotes
+
+[1] For more on hedonic adaptation, see the following:
+
+- Lottery Winners and Accident Victims: Is Happiness Relative? (Philip Brickman, Dan Coates and Ronnie Janoff-Bulman, Journal of Personality and Social Psychology, 1978)
+
+- The How of Happiness, pages 48-51 (Sonja Lyubomirsky, 2007)
+
+[2] For more on social comparison, see the following:
+
+- Social: Why Our Brains Are Wired to Connect, pages 33-34 (Matthew Lieberman, 2013)
+
+- The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132 (Sonja Lyubomirsky, 2014)
+
+[3] Conscious Competence in Practice
+
+Photo by Sam Beebe.
+
+
+===== END ED BOT ESSAY 4159 =====
+===== BEGIN ED BOT ESSAY 4160 =====
+---
+title: Why "Truth-Tellers" Fail (and How They Can Succeed)
+url: https://edbatista.com/2022/10/why-truth-tellers-fail-and-how-they-can-succeed.html
+slug: why-truth-tellers-fail-and-how-they-can-succeed
+published: 2022-10-16T08:55:19
+updated: 2026-02-08T11:18:17
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader with an employee who thinks of themself as a "truth-teller." This person often has some keen insights to share, but their communication style is preventing others from heeding their message. In this context I'm reminded of the figure of Cassandra from Greek mythology, a high priestess and the younger sister of Hector, the great warrior of Troy.
+
+The god Apollo gave Cassandra the ability to see the future, but after she rejected his advances he put a curse on her so that her true prophecies would always be disbelieved. When the Greeks left a massive wooden horse at the gates of Troy as a supposed peace offering, Cassandra warned her compatriots to destroy it, but they ignored her as they conducted a victory feast: "We stationed the monster fraught with doom on the hallowed heights of Troy. Even now Cassandra revealed the future, opening lips the gods had ruled no Trojan would believe." [1]
+
+After the fall of Troy, Cassandra was captured by the Greek king Agamemnon, and both of them were subsequently murdered by Agamemnon's wife and her lover, as shown above. It's not a happy tale. My clients' truth-tellers don't face anything nearly so dire, but it's highly likely that their insights will be ignored, and it's quite possible that they'll run into career-limiting difficulties. If you're a leader with an employee who fits this description (or if this describes you), what can you do? Here are some issues to consider:
+
+Cognitive biases matter.
+
+Truth-tellers can be aware that their communication style is flawed, but they're often surprised that it has such a significant impact on others' receptivity to their insights. They believe their ideas should be assessed on their intrinsic merits, without having to worry about crafting a persuasive message. But this reflects a poor grasp of human psychology and a lack of awareness of some fundamental principles of communication.
+
+There's too much data in our environment to be able to carefully parse each and every incoming signal. [2] The process of logical reasoning is too slow and laborious, and our capacity for deliberate thought is a finite resource, so we've evolved a host of "mental shortcuts" to enable us to make quick judgments that are sufficiently accurate for most purposes. These shortcuts are also known as "cognitive biases," a term that gives the impression that our brains are somehow faulty or even prejudiced. [3]
+
+It's more precise to say that our thought patterns are often highly predictable, and efforts to persuade others must take these patterns into account in order to be successful. The truth-teller who insists on ignoring these principles isn't being rigorous or disdaining superficial niceties, although they often like to characterize themselves this way. They're just refusing to acknowledge reality, and that's not rigor--it's magical thinking. Here are three predictable patterns in human psychology that truth-tellers must take into account if they want their message to be heard.
+
+Likeability matters.
+
+Psychologist Robert Cialdini has identified a set of powerful cognitive biases related to influence, which he describes as the "fundamental principles of persuasion." [4] The very first one is the "Principle of Liking": We find likeable people more influential. It's important to distinguish between "likeable" and "pleasing" or "deferential," not least because adopting a pleasant or deferential demeanor may undermine one's authority, another important source of influence. Likeability can be established through a number of specific tactics, and Cialdini highlights two: similarity and praise.
+
+A sense of similarity is evoked by identifying shared experiences, beliefs, values, and interests, which often occurs when we're engaged in small talk. And praise doesn't have to take the form of obsequious or insincere compliments. We find it flattering when someone simply asks us questions or expresses interest in us, which is really just another form of small talk. In general, most informal conversations offer opportunities to establish likeability simply by signaling, "I'm paying attention to you, and our relationship matters to me." [5]
+
+Note that cultivating likeability need not entail being indirect or less candid with the primary message. Truth-tellers often undermine their own influence simply by failing to devote any time or attention to the informal conversations that usually occur at the beginning of meetings and after the agenda has been concluded. They pride themselves on being "all business"--but that actually means that they're less effective at accomplishing their goals.
+
+Packaging matters.
+
+Louis Cheskin was one of the first researchers to apply psychological principles to commercial marketing, and as a contributor to such icons as McDonald's Golden Arches, the Marlboro Man and the Gerber baby, his work left an indelible mark on the 20th century. [6] Author Malcolm Gladwell discussed Cheskin's concept of "sensation transference":
+
+Cheskin was convinced that when people give an assessment of something they might buy in a supermarket or a department store, without realizing it, they transfer sensations or impressions they have about the packaging of the product to the product itself. To put it another way, Cheskin believed that most of us don't make a distinction--on an unconscious level--between the package and the product. The product is the package and the product combined. [7]
+
+Gladwell goes on to cite research demonstrating the effects on this concept in a variety of consumer products: Ice cream tastes better when it comes in a cylindrical container instead of a rectangular one. Brandy tastes better when it comes in a decanter instead of a wine bottle. Margarine tastes better when it's colored yellow instead of white. These signifiers affect our senses, altering our perceptions of the product itself.
+
+Linguist and liberal political advisor George Lakoff has described a parallel process that occurs in the realm of communication and messaging, referred to as "framing," and "Lakoff's First Law" is that "Framing trumps facts":
+
+All of our concepts are organized into conceptual structures called "frames" (which may include images and metaphors) and all words are defined relative to those frames. Conventional frames are pretty much fixed in the neural structures of our brains. In order for a fact to be comprehended, it must fit the relevant frames. If the facts contradict the frames, the frames, being fixed in the brain, will be kept and the facts ignored... This has an important consequence. Political liberals have inherited an assumption from the Enlightenment, that The facts will set us free, that if the public is just given the facts, they will, being rational beings, reach the right conclusion. It is simply false. It violates Lakoff's Law. [8]
+
+We need not share Lakoff's political orientation to grasp the significance of his theory. Just as Cheskin demonstrated that the perceived properties of a product are not fixed but highly malleable and contingent on the packaging, Lakoff notes that the impact of a message is not an inherent property of the facts it contains, but a function of its frame--a form of packaging.
+
+Truth-tellers are like Lakoff's naive liberals--they think that if they just present "the facts" then the rightness of their ideas will inevitably be sufficient to win the day. There's no universal solution here, but the key is recognizing that influential ideas are packaged in a host of ways that contribute to their impact, and effective packaging must take into account the audience's "frames" and preconceived notions.
+
+Narrative matters.
+
+The sum total of a message's facts, packaging and framing is ultimately a narrative--some form of story. And stories play an essential role in human life because they enable us to make sense of and navigate uncertain environments. As I wrote recently,
+
+Organizational psychologist Karl Weick called this "sensemaking": we rely upon narratives to "make sense" of ambiguous situations and pursue a plan of action in coordination with others. But our reliance on narratives means that in the absence of a coherent story we will feel lost and ungrounded. [9]
+
+So a fundamental challenge in any communication effort is that when people are faced with a situation that they don't fully understand, they will rapidly construct an explanatory narrative using whatever data is readily available. [10] One of the difficulties for the truth-teller is that this process will include a host of assumptions about them and their communication style, and if they haven't made an effort to cultivate liking and to package their message effectively, then their audience's explanatory narrative will likely work against the truth-teller's goals.
+
+Further, many truth-tellers have a degree of technical training or quantitative skill that informs their insights. As a result they see a "story" in the data that most people fail to perceive. This is particularly true with regard to probabilities--a number of cognitive biases evolved to help us avoid the complex computations necessary to calculate statistical outcomes with precision. [11] The challenge--and the opportunity--for the truth-teller is to translate their quantitative insights into a narrative that other, less numerate people can readily grasp.
+
+A note on authenticity:
+
+While the issues raised here aren't difficult to understand, many truth-tellers struggle to put them into practice because doing so feels "inauthentic." But this represents a misguided conflation of authenticity and familiarity or comfort. Yet another cognitive bias is what psychologist Daniel Kahneman calls "the law of least effort," which reflects our tendency to expend as little mental energy as possible. [12] As a consequence we have a preference for the familiar and the comfortable, and this includes our own behavior and communication style.
+
+The truth-tellers in my clients' organizations have been very successful up to this point in their careers--that's why they now find themselves working for my clients. And their (familiar, comfortable) communication styles have either contributed to their success in their previous roles or been outweighed by their other strengths. But these truth-tellers now find themselves in a new position or an evolving setting in which they have to modify their communication style if they wish to enjoy continued success.
+
+This can feel daunting, particular to the truth-teller who takes pride in their authenticity, as so many do. Here it can be useful to explore just what we mean by "authentic" and how our understanding of that term can pose a barrier to productive change. As I've written before,
+
+A popular view of the authentic self is that it's an identity at the core of our personalities, something we're born with and must discover through a process of excavation. We may find this view appealing for a number of reasons. If our authentic self is already fully formed within us, then conscious efforts to modify it are fruitless, and we need not feel obligated to undertake the hard work of change... An alternative is to view our authentic self as something that we actively create, forging it out of a combination of ongoing life experiences in the context of any inherited preferences and aversions. [13]
+
+If the truth-teller can adopt this latter view of the authentic self, they make it possible to experiment with alternative communication styles that may feel unfamiliar or uncomfortable but are not inherently false or phony. And if you're working with someone who fits this description (or if this describes you), the key is recognizing that this process will likely evoke a degree of vulnerability (which they'll be unlikely to admit) and establishing an environment in which it's safe to change. [14]
+
+Footnotes
+
+[1] The Aeneid, page 83 (Homer, translated by Robert Fagles, 2008)
+
+[2] Why It's So Hard to Pay Attention, Explained by Science (Daniel Levitin, Fast Company, 2015)
+
+[3] When Heuristics Go Bad (On Cognitive Biases)
+
+[4] Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+[5] Bosses and Birthdays (The Importance of Small Talk)
+
+[6] Featured Thinking: Cheskin Research (Harvard Business School Working Knowledge, 2000)
+
+[7] Blink: The Power of Thinking Without Thinking, page 160 (Malcolm Gladwell, 2005)
+
+[8] Lakoff's Law (George Lakoff, Edge, 2004)
+
+[9] The Importance of Shared Narrative
+
+[10] Seeing What's Not There (The Importance of Missing Data)
+
+[11] Judgment under Uncertainty: Heuristics and Biases (Amos Tversky and Daniel Kahneman, Science, 1974)
+
+[12] Thinking, Fast and Slow, pages 35-40 (Daniel Kahneman, 2013)
+
+[13] Leadership and Authenticity
+
+[14] Why Change Is Hard
+
+Photo of Campanian water jar (hydria), circa 340-320 BC, by failing_angel.
+
+
+===== END ED BOT ESSAY 4160 =====
+===== BEGIN ED BOT ESSAY 4161 =====
+---
+title: How to Cross Antarctica (On Surviving Chaos)
+url: https://edbatista.com/2022/10/how-to-cross-antarctica-on-surviving-chaos.html
+slug: how-to-cross-antarctica-on-surviving-chaos
+published: 2022-10-13T15:41:29
+updated: 2026-08-06T09:39:11
+source_body: wordpress-html
+---
+
+Business author Jim Collins recently gave a talk in which he discussed the contrasting leadership styles--and fates--of pioneering polar explorers Roald Amundsen and Robert Falcon Scott:
+
+The work that Morten [Hansen] and I did in Great by Choice was really, ultimately, about thriving in chaos.
+
+Number one, we observed that you learn how to exert self-control and self-discipline in a world that is out of control. We found this marvelous matched pair, Roald Amundsen and Robert Falcon Scott, the first two to try to go to the South Pole in 1911. It was like an entrepreneurial startup heading off into the most uncertain and unforgiving environment. It wasn't just, "Hey, let’s go to the South Pole, hunker down and survive." It was to try to be the first in history to reach the South Pole.
+
+What we found is that the way Roald Amundsen led--he’s the one who got there first and got back alive and safe--was different than the way Robert Falcon Scott led. Scott got there second, and then he and his entire team died on the way back that same year.
+
+The environment was completely out of control. It's the South Pole. It's 1911. It can easily kill you. You think it's hard building a company in California? Try going to the South Pole in 1911. It was the moon mission of 1911.
+
+Amundsen was very, very disciplined in his march across the plateau, and Scott was very erratic. Amundsen stayed on this consistent march. He never wanted to get exposed to a terrible storm when he was depleted and exhausted. But even on really uncertain days, he would still make progress towards their goal, they were 20-mile marching across the plateau. Scott was much more erratic. He had big days and not big days, and the weather determining his pace rather than himself...
+
+I go back to Amundsen and Scott. Both calculated the amount of supply depots they needed. It is highly inefficient to multiply your potential supply depots by three. But it's not highly inefficient if you're coming back, winter's gathering on you, and you run out of supplies and die. Tell me what efficient is. We found that great companies are kind of irrational in their "efficiency." They’re not the most efficient use of capital; they’re not the most efficient use of buffers. What they are is enormously resilient by design. [1]
+
+My clients aren't polar explorers, but many of them are trying to be the first in history to accomplish a particular entrepreneurial venture, and at the moment all of them are trying to navigate an "uncertain and unforgiving environment." Winter isn't gathering--it's already here. If you're in similar circumstances, here are some issues to consider and questions to ask yourself:
+
+Discipline & Consistency
+
+Collins cites Amundsen's discipline and consistency as keys to his success and his team's survival. But this approach isn't exclusive to explorers in far-flung places. The English novelist Graham Greene was not only acclaimed (nearly winning the Nobel Prize twice) and popular (selling more than 20 million books in his lifetime), but also prolific (publishing 24 novels among countless essays and stories). [2] And discipline and consistency were hallmarks of his approach to work that continued through World War II and the London Blitz:
+
+Over twenty years I have probably averaged five hundred words a day for five days a week. I can produce a novel in a year, and that allows time for revision and the correction of the typescript. I have always been very methodical, and when my quota of work is done I break off, even in the middle of a scene. [3]
+
+Note the importance of stopping as a form of discipline. Amundsen stopped to ensure that he wouldn't get caught by a storm. Greene stopped in order to maintain his momentum every workday. And you'll undoubtedly need to impose similar limits on yourself. As Intel CEO Andy Grove once wrote, "My day always ends when I'm tired and ready to go home. Not when I'm done... A manager's work is never done. There is always more to be done, more that should be done, always more than can be done." [4]
+
+You probably won't have to cover 20 miles over snow and ice for today to count as a success--although you may need to write 500 words. Whatever your field, I suspect that in a chaotic and unpredictable environment the more control you can exert over your time, your effort, and your output the better off you'll be.
+
+- What forms of discipline would support more consistent effort?
+
+- What data will tell you that you've reached a useful limit?
+
+- What boundaries and routines will help you stop? [5]
+
+Efficiency
+
+As Collins' remarks make clear, the definition of "efficiency" is highly contextual. An "efficient" use of resources in flush times when conditions are predictable and success is more likely will not serve you well when the environment changes radically. In your current role it might not get you killed, but it could certainly cause you to run out of time, money, patience, or stamina.
+
+The key is understanding your existing constraints and how those constraints change with the environment. A regular topic of discussion in my work with leaders is the emergence of new constraints as their organization evolves. Limited capital is almost always the first and most significant gating factor, and it must be treated as a scarce and precious resource to extend the company's runway. But over the past decade capital was often rapidly surpassed as a governing constraint by talent, public prominence, or the leader's availability. [6]
+
+With recent shifts in the economic climate, capital is again becoming a more salient constraint--but as Collins points out, an "efficient" use of capital won't be much help if you've run out of supplies in between depots. And even if you're responsible for capital allocation in your organization, perhaps the most important resources you need to allocate efficiently are your own time and attention. [7]
+
+- What finite resources impose constraints on your personal and organizational operations?
+
+- How might those constraints change under conditions of uncertainty?
+
+- What's been your definition of "efficiency" in recent years?
+
+- How should that definition evolve to suit the emerging environment?
+
+Resilience
+
+Collins mentions "resilience" only at the end of the excerpt above, but it's a quality at the heart of his message. While we may rightfully admire Robert Falcon Scott's bravery in the face of the challenge that ultimately claimed his life, that's not the same thing as resilience. As I've written before,
+
+We often misunderstand the meaning of resilience, confusing it with invulnerability or toughness. The etymological root of resilience is the Latin resilire, which means "to rebound, recoil or jump back." Resilient materials deform under pressure while retaining their internal consistency, later returning to their original form. Iron is tough, but it's not resilient--when it reaches its breaking point it shatters into pieces. [8]
+
+The "uncertain and unforgiving environment" of the next few years will no doubt test your resilience, and it may test your bravery as well, but let's not confuse the two. Let's also not view resilience as a monolithic quality we possess or lack. Work by psychologists Karen Reivich and Andrew Shatté suggests that our degree of resilience is a function of the extent to which we manifest certain characteristics and engage in specific behaviors, all of which are learnable or subject to influence: Emotion regulation, impulse control, optimism, causal analysis, empathy, self-efficacy and reaching out. [9]
+
+And therapist and meditation teacher Linda Graham notes that we can build resilience through "priming," or enhancing our ability to experience certain emotions or physiological states that will serve us well in difficult circumstances. In addition to beginning each day with some form of loving, physical connection--like a hug!--and recalling a memory or a hope that evokes a sense of well-being, we can also train ourselves to recognize when we've lost our composure, take a moment to breathe, feel our heart beating, and calm ourselves before proceeding. [10]
+
+- What elements of resilience in Reivich and Shatté 's model feel like strengths of yours? How might you leverage them more fully?
+
+- What elements feel weaknesses of yours? How might you cultivate them more deliberately?
+
+- What daily practices enhance your ability to handle stress?
+
+Footnotes
+
+[1] Jim Collins on 'Thriving In Chaos' (Dan Bigman, Chief Executive, 2022)
+
+[2] Graham Greene Dies, 86, Novelist of the Soul (The New York Times, 1991)
+
+[3] The End of the Affair, page 34 (Graham Greene, 1951)
+
+[4] High Output Management, page 47 (Andy Grove, 1983/1995)
+
+[5] Happy Workaholics Need Boundaries, Not Balance
+
+[6] The Problems of Success
+
+[7] To Stay Focused, Manage Your Emotions
+
+[8] The Ruling Out of Possibilities (On Failure)
+
+[9] The Resilience Factor: 7 Keys to Finding Your Inner Strength and Overcoming Life's Hurdles, Chapter 2: How Resilient Are You?, pages 31-47 (Karen Reivich and Andrew Shatté, 2002). For more on resilience and further excerpts from Reivich and Shatté's work, see The Art of Self-Coaching, Class 5: RESILIENCE & VULNERABILITY.
+
+[10] Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being, page 230 (Linda Graham, 2013)
+
+Photo by Eugene Kaspersky.
+
+
+===== END ED BOT ESSAY 4161 =====
+===== BEGIN ED BOT ESSAY 4162 =====
+---
+title: Whether or Not to Fix a Broken Relationship
+url: https://edbatista.com/2022/10/whether-or-not-to-fix-a-broken-relationship.html
+slug: whether-or-not-to-fix-a-broken-relationship
+published: 2022-10-12T11:44:17
+updated: 2025-10-05T16:51:25
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader who's struggling to repair a damaged working relationship with an employee. In most cases we start with the assumption that a better relationship is possible and that even a long-running conflict can be resolved. This usually entails the following steps in some form:
+
+- Having both parties engage in an ongoing dialogue about the relationship.
+
+- Identifying the behaviors and ways of working that each party finds problematic.
+
+- Discovering how the other party is interpreting those behaviors.
+
+- Understanding the intentions motivating those behaviors.
+
+- Providing--and soliciting--more frequent feedback.
+
+- Being prepared for regular setbacks.
+
+This obviously involves a great deal of time and energy, and I'm not suggesting that leaders should always follow these steps or that they should try to fix every broken relationship. As I've noted before, one of the most common mistakes made by my clients is waiting too long "when making the difficult decision to fire someone. There were good reasons for the delay--there always are--but in hindsight they generally wish they’d acted sooner, and often all parties would have benefited." [1]
+
+Further, if sustained underperformance by the employee is a contributing factor, then leaving them in their role may not be a kindness but a form of cruelty. As management thinker Peter Drucker once noted, "I have never seen anyone in a job for which he was inadequate who was not slowly being destroyed by the pressure and the strains, and who did not secretly pray for deliverance." [2]
+
+But in many cases there are legitimate reasons for a leader to make a good-faith attempt, and I find that my clients typically want to try. And yet even then this work can prove exceedingly difficult, leaving the leader wondering at some point whether additional effort is warranted--and sometimes it isn't. If you're a leader facing this situation, here are some issues to consider and questions to ask yourself:
+
+Intentions
+
+We often assume that other people are more aware of our intentions than they really are. Or we believe that expressing our intentions once is sufficient, failing to appreciate that most messages are retained only after they've been repeated multiple times. [3]
+
+- Is your employee aware that fixing this relationship has been a priority for you? Do they realize that you've been actively engaged in these efforts?
+
+- If not, you need to be more explicit about what you're trying to accomplish.
+
+Emotions
+
+We also assume that other people are more aware of our emotions than they really are. We think what we're feeling is obvious, and yet the other person has no idea. This matters because a necessary step in the process will be an expression of vulnerability on your part as the person occupying the higher status role. [4] Why? Because vulnerability is the key to empathy, and empathy is the key to conflict resolution, but people don't naturally "empathize up" with leaders. [5]
+
+To be clear, this does not mean that you should accept more than your share of responsibility, or fail to hold your employee accountable for their share, or seek to placate them by appearing weak. (Weakness isn't vulnerability, nor is vulnerability weakness. [6]) A starting point may simply be acknowledging that you care about this relationship and want it to to succeed. Whatever form it takes, it will almost certainly make you feel uncomfortable.
+
+- Is your employee aware of the range of emotions you've experienced in this process? Do they realize that you've felt some vulnerability and discomfort?
+
+- If not, you need to challenge yourself to communicate in a way that's more outwardly expressive and consistent with your inner state.
+
+Trust
+
+When there's sufficient awareness and understanding of your stated intentions and reported emotions, another barrier can be a credibility gap. Your employee may believe in your good intentions but be skeptical of your determination to follow through on commitments. They may lack faith in the sincerity of your disclosures. Or, even more troubling, they may distrust the legitimacy of the entire process.
+
+- Does your employee believe that you mean what you say? Do they believe that you say what you mean? Do they believe that you've been sincere in your efforts to repair the relationship?
+
+- If not, you need to scrupulously examine your behavior to ensure that it aligns with your intentions and emotions, and then redouble your efforts to build trust. [7]
+
+Ability
+
+A final factor to consider is your employee's ability to reciprocate your efforts and serve as an active counterpart in the process. The factors above all have an impact here, of course--in their absence, your employee may be able but unwilling to play their part. But in some cases people are open in principle to improving a relationship and yet lack the ability to make the necessary changes. This is often related to difficulty with emotion regulation [8] or a reluctance to take responsibility for one's own actions. [9] And while emotion regulation and a willingness to take responsibility are learnable skills, that process inevitably takes time.
+
+- Does your employee have the capacity to manage their emotions, forgive you for your shortcomings (real and imagined), acknowledge their own contributions to the problem, and actively work with you to repair the relationship?
+
+- If not, you need to determine if that's going to change in the time you have available.
+
+With shared awareness and understanding of your intentions and emotions, as well as requisite degrees of trust and ability, you may conclude that continued efforts to fix this relationship are warranted. But as I advise my clients, be mindful of the consumption of your most precious resource--your attention--and the expected return on that investment. [10]
+
+Footnotes
+
+[1] Don't Wait
+
+[2] The Effective Executive, page 89 (Peter Drucker, 1966). Quoted in Merciful Exits (On Under-Performing Executives).
+
+[3] For example, see Replication and Analysis of Ebbinghaus’ Forgetting Curve (Jaap Murre and Joeri Dros, PLOS One, 2015).
+
+[4] Resolving a Protracted Conflict
+
+[5] The Difficulty of Empathizing Up
+
+[6] "The perception that vulnerability is weakness is the most widely accepted myth about vulnerability and the most dangerous... To feel is to be vulnerable. To believe vulnerability is weakness is to belief that feeling is weakness... Our rejection of vulnerability often stems from associating it with dark emotions like fear, shame, grief, sadness, and disappointment--emotions that we don't want to discuss, even when they profoundly affect the way we live, love, work, and even lead. What most of us fail to understand and what took me a decade of research to learn is that vulnerability is also the cradle of the emotions we crave. Vulnerability is the birthplace of love, belonging, joy, courage, empathy, accountability, and authenticity... I define vulnerability as uncertainty, risk, and emotional exposure." (Brené Brown, Daring Greatly, pages 33-34, 2015)
+
+[7] For more on trust, see the following:
+
+- Safety, Trust, Intimacy
+
+- Two Sides of Trust
+
+- Understanding the Trust Equation (Charles Green)
+
+[8] The Tyranny of Feelings
+
+[9] The Trium Group on Responsibility
+
+[10] Growth, Profitability and Return on Attention
+
+For Further Reading
+
+Better Working Relationships
+
+Work Style Differences
+
+Racing Up the Ladder of Inference
+
+Intent vs. Impact (When Communication Goes Awry)
+
+Make Feedback Normal. Not a Performance Review.
+
+Photo by Henry M. Diaz.
+
+
+===== END ED BOT ESSAY 4162 =====

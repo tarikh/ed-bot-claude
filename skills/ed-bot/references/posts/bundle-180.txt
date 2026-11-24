@@ -1,0 +1,194 @@
+===== BEGIN ED BOT ESSAY 3830 =====
+---
+title: Overworked and Overwhelmed: The Mindfulness Alternative
+url: https://edbatista.com/2015/03/overworked-and-overwhelmed-the-mindfulness-alternative.html
+slug: overworked-and-overwhelmed-the-mindfulness-alternative
+published: 2015-03-23T13:00:16
+updated: 2025-10-12T15:25:13
+source_body: wordpress-html
+---
+
+Ironies abound as I turn to this review of Scott Eblin's Overworked and Overwhelmed: The Mindfulness Alternative. I've been meaning to write about it for months, but have continually delayed, feeling too busy with students, clients, my own writing and life in general. It would be inaccurate to say that I'm "overworked," but my plate's been pretty full for a while. (Irony #1.)
+
+I finally made time for it when a recent cold left me feeling capable of reading and writing, but not well enough to hold any coaching sessions, so I had an unexpectedly empty calendar for a few days. I know myself well enough to be confident that I got sick because my self-care practices have fallen apart the last few weeks. To take the most relevant example, after meditating roughly every other day from August 2014 through mid-February, I've meditated just 3 times in the last 5 weeks. (Irony #2.)
+
+And all this has happened as I prepare to teach The Art of Self-Coaching, a new course at Stanford aimed at helping MBAs manage themselves more effectively through periods of difficulty and transition. (Irony #3. Coach, coach thyself.)
+
+Some disclosures: I've met Scott and consider him a friend, and we've occasionally referred potential clients to each other, although we don't have a business relationship. But even if I didn't know Scott at all I'd be a fan of this book because I believe in its message--as he writes in the Introduction,
+
+Mndfulness is the intersection of two qualities: awareness and intention. By awareness, I mean awareness of what's going on both around you and inside of you in any given moment. Being aware enables you to act in the moment with the intention of creating a particular outcome or result.
+
+The purpose of Overworked and Overwhelmed is to make the practice of mindfulness easy, accessible, and relevant for people who feel like they're trapped on the gerbil wheel. The goal is not to turn you into a Buddhist monk or nun but to offer the knowledge that, along with simple, practical, and applicable routines, will help you align your work and the rest of your life with the results that matter most. The emphasis here is on small steps that, when taken consistently over time, lead to big results."
+
+This is exactly how I talk about mindfulness with my clients and students. A tremendous amount of research has emerged in the last few decades, which Scott cites in the book, that suggests the power of mindfulness practices to improve our ability to cope with stress, manage our emotions, focus our attention, and perform effectively under difficult circumstances. To reap these benefits we need not embrace any spiritual principles that have historically been associated with mindfulness or meditation, nor do we need to make major changes in our daily lives. As Scott notes, all that's required is a consistent commitment to some simple, regular routines.
+
+The centerpiece of this process is meditation, but Scott discusses a wide range of other activities that contribute to a heightened state of internal and external awareness, from regular physical activity and better sleep habits to breathing exercises and listening skills. And one of the book's great strengths is its open-ended, non-prescriptive approach to these practices. I talk about mindfulness, exercise, sleep, and stress reduction with almost all of my coaching clients, but I don't prescribe any particular set of practices for a given individual. We're much too complex for any single formula to apply to everyone, and Overworked and Overwhelmed respects this complexity, providing readers with a thoughtful set of possibilities and yet also recognizing that each reader must decide what will work best for themselves.
+
+Another strength of the book is Scott's voice as an author, which shows up not only in his informal, conversational style, but also in his level of personal disclosure. He reveals that in 2009 he was diagnosed with multiple sclerosis, and that his commitment to meditation, yoga, and an improved diet in recent years "literally saved my life." And he's not merely surviving; he writes that today, "I'm stronger than I've ever been before and savoring each moment of life in a way that I never have before."
+
+If you're already a committed meditator or actively engaged in other mindfulness practices, I suspect you'll still find something of value in Overworked and Overwhelmed, particularly in Scott's discussion of how these practices can contribute to a greater sense of meaning and purpose. And if you've been curious about (or skeptical of) the value of mindfulness as a personal management tool, I recommend Scott's book as an engaging introduction to the topic.
+
+
+===== END ED BOT ESSAY 3830 =====
+===== BEGIN ED BOT ESSAY 3831 =====
+---
+title: The Art of Self-Coaching at InnerSpace
+url: https://edbatista.com/2015/03/the-art-of-self-coaching-at-innerspace-2.html
+slug: the-art-of-self-coaching-at-innerspace-2
+published: 2015-03-19T23:40:38
+updated: 2025-09-24T11:59:29
+source_body: wordpress-html
+---
+
+This afternoon I led a pro bono workshop on The Art of Self-Coaching with a group of startup founders and execs, organized and hosted by my colleagues at InnerSpace, a group that aims to help startups develop more effective organizational cultures.
+
+Today's session was based on material I've developed for the new course on self-coaching that I'll begin teaching at Stanford in a few weeks. I appreciated the opportunity to give this material a test run before my course starts, and it was really gratifying to explore these concepts with leaders who'll take them back to their organizations tomorrow.
+
+A condensed set of my slides are above. Thanks to everyone who attended today, and a special thanks to the InnerSpace team: Joe Greenstein, Semira Rahemtulla, and Hannah Knapp.
+
+
+===== END ED BOT ESSAY 3831 =====
+===== BEGIN ED BOT ESSAY 3832 =====
+---
+title: Tips for Coaching Someone Remotely
+url: https://edbatista.com/2015/03/new-post-at-hbr-tips-for-coaching-someone-remotely.html
+slug: new-post-at-hbr-tips-for-coaching-someone-remotely
+published: 2015-03-18T08:48:16
+updated: 2025-09-24T11:59:29
+source_body: wordpress-html
+---
+
+Leaders are providing less explicit direction to their employees these days, and relying more on coaching as a leadership tool, as organizations become flatter and more dependent on knowledge work. [1,2] But many people also manage teams that span locations and time zones, which means they must do at least some of their coaching virtually.
+
+While most of my coaching with clients and MBA students at Stanford is conducted face-to-face in the Bay Area, over the last decade I’ve worked with people across the U.S. and internationally, from Brazil to London to South Africa. Here are some guidelines for virtual coaching that I’ve found useful.
+
+Don’t dictate the medium. You may have a preference for phone or video, or your organization may rely on one more than the other. But for coaching conversations, it’s important that both parties choose what’s right for the situation, rather than have it dictated by you as the leader or by the organizational culture.
+
+In my experience, both phone and video can work well for coaching. One isn’t better than the other, but they are different, and it’s important to get a sense of which medium will work best for each relationship (this may change from call to call). Video can provide helpful visual context, but it can also be a distraction, particularly if there’s a poor internet connection. Try experimenting with both phone and video to see what works best with different employees.
+
+E-mail can play a useful role in virtual coaching, but I recommend using it to augment phone or video conversations. I often e-mail my clients and students follow-up questions and links to readings and other resources, but it’s much less useful for in-the-moment coaching. Text and chat provide a sense of immediate connection, but it’s difficult to use them to convey anything more complex than basic information. [3]
+
+Location still matters. The physical setting can have a significant impact on the success of a coaching conversation. When I’m coaching clients and students in person, we meet in a place that will allow for privacy and minimize distractions. This can take many forms, from a reserved conference room to a long walk around the placid Stanford campus.
+
+Because it’s far more difficult to pick up interpersonal cues when working virtually, it’s even more important to ensure that both you and the other person are in a private, comfortable space where you won’t be interrupted.
+
+Focus, focus, focus. Effective coaching in any setting requires focused attention on the other person. That can be tough when we’re coaching virtually, because of the pervasiveness of multitasking. A virtual coaching conversation is a special kind of interaction--very different from a typical conference call or online meeting, where we can often just partly tune in and still get the gist. When we’re coaching, the most important details are easy to miss. If we allow ourselves to become distracted, we’ll be less likely to notice things like a subtle change in someone’s facial expression or tone of voice, or an unusual turn of phrase that may signify something more. We may also fail to monitor our own emotional responses and instincts, which are vital sources of data. Even worse, others can sense when our attention wanders, leaving them reluctant to discuss truly important issues.
+
+Get the right equipment. Investing in better technical gear can dramatically improve the virtual coaching experience. One of the clients I work with via video is a CEO who leads a virtual financial services firm. Almost all of his employees are spread out across the country, and they do most of their collaboration online. His home office is equipped with high-quality webcams, monitors, and microphones that give him a vivid virtual presence. Our video coaching sessions aren’t quite as high-definition as real life, but they’re close.
+
+Even small investments in equipment can go a long way. I worked with a CEO who had a slight speech impediment that made it difficult for me to understand him over the phone. We had no problems communicating when we met in person, but most of our work was going to be virtual, so I bought the kind of immersive headset that’s used used by video-gamers, which allowed me to understand him perfectly. I also have an external microphone and speakers so that when I’m working with clients via video I don’t have to rely on my laptop components.
+
+Manage the time. In most meetings, including phone calls and video conferences, the discussion goes right up until the end of the allotted time, at which point we rapidly conclude and move on to the next meeting. This is another way in which coaching conversations are different: It’s part of your job, as the coach, to track time during the conversation--I usually set a timer to minimize distractions--and stop at a point you’ve agreed on in advance.
+
+It’s hard to tell where coaching conversations will end up. They tend to be more wide-ranging than typical meetings, which makes them more meaningful and valuable. But this also means you’ll want to leave some time between the end of the session and the next event on the calendar. This enables both you and the person you’re coaching to reflect on the conversation and deepen the learning. Coaching conversations can also bring up strong emotions, and it’s essential to leave time to process those emotions. Even a few minutes can make a substantial difference, helping both you and the person you’re coaching get the most out of the experience.
+
+ 
+
+Footnotes
+
+[1] How Great Coaches Ask, Listen and Empathize
+
+[2] Coaching and Feedback Tools for Leaders
+
+[3] The Communication Funnel
+
+This post originally appeared at HBR.org.
+
+Photo by Suzy Hazelwood.
+
+
+===== END ED BOT ESSAY 3832 =====
+===== BEGIN ED BOT ESSAY 3833 =====
+---
+title: How to Start a Workshop or Talk
+url: https://edbatista.com/2015/03/how-to-start-a-workshop-or-talk.html
+slug: how-to-start-a-workshop-or-talk
+published: 2015-03-16T09:55:35
+updated: 2026-03-04T20:23:21
+source_body: wordpress-html
+---
+
+In both my private coaching practice and in my role as a Lecturer at the Stanford Graduate School of Business, I think of myself as an experiential educator. And whether I'm working with clients or students, I know that people learn best when certain conditions are met. Initial conditions matter, as I learned from Mary Ann Huckabay and Carole Robin at Stanford, so it's important to get every workshop, talk, class and seminar off to a good start. Here's how I try to make that happen--and note that while I discuss each step in this process at length, in practice it takes just a few minutes.
+
+1. It Starts Before It Starts
+
+A workshop or talk doesn't start when you begin talking to the audience. It starts when you walk in the door. Everything you do, every interaction you have from that point forward has an impact on the experience.
+
+Connect and build a relationship with every staff member you meet at the venue, even if you only have a few seconds to do so. Say, "Thank you," early and often. Learn their names and use them. This is particularly important with any AV/IT staff who will be helping you. And it's critical to do all this authentically, with heartfelt appreciation and gratitude.
+
+Have everything set up and ready to go early enough that you can greet people as they arrive. This can be harder than it sounds--my natural tendency is to stay focused on reviewing my materials and my plans for the event. But this is a mistake, because the audience's experience doesn't begin when I start speaking; it begins when they walk in the door.
+
+I've learned that an event's success depends much more on my connection with the audience than it does on perfecting my mastery of the content. And interacting with people gives me a chance to begin learning some critically important information--their names and why they're attending.
+
+Ultimately the message you're sending to both staff and audience members is We're all in this together. (This is important when things go as planned, and it's absolutely essential when they don't.)
+
+2. Be Credible and Safe
+
+If I'm working with this group for the first time, once the workshop (or talk or class or seminar--I'll use the former for simplicity) begins, I start by introducing myself. I'm careful to note my expertise and credentials, tailoring them to fit the circumstances.
+
+The purpose here isn't to be self-aggrandizing--it's to create safety. At the outset of any group experience, the group wants to know if those of us in differentiated roles can be trusted. We eventually earn that trust fully through our actions, but it can start by discussing our credentials. That's an important step in the process of lowering anxiety and creating an atmosphere that supports learning.
+
+That said, it's easy to overdo it. There's a fine line between discussing your credentials and sounding like you're boasting (or lacking confidence), and it's important not to cross it. Stick to the facts and keep it short. (The deck above includes a slide that I often use to introduce myself.)
+
+The message you're sending here is It's OK to trust me; I know what I'm doing.
+
+3. Make It Personal
+
+Once you've introduced yourself, the next step is conveying your personal investment in the topic at hand. Establishing credibility often involves invoking authority, which can create some distance between yourself and the audience. A little distance is useful, but too much is counter-productive.
+
+You can regulate that distance and close the gap by talking about your experience (as opposed to your expertise.) Discuss why this topic matters to you. This allows you to identify with the audience and their interest in the topic, which both creates an empathic bond and legitimizes their own interest and enthusiasm. (The deck above includes a slide that I use to discuss my personal interest in executive coaching, a frequent topic in my workshops.)
+
+The message you're sending here is It's OK to care about this; I do, too.
+
+4. Get to Know Them
+
+Having introduced yourself and discussed your personal investment in the topic, it's important to continue to bridge the gap between yourself and the audience by ensuring that they feel known. Obviously, once a group reaches a certain size--roughly 30 people, in my opinion--this step isn't feasible. (And in this case it's even more important to spend time talking with participants before you begin presenting.)
+
+But if at all possible have the participants introduce themselves. In larger groups, simply having people say their names will suffice. In smaller groups, ask for more detail: Where are you from? What's your role? Why are you here today? The smaller the group, the more time you can spend on introductions, but note that it may be useful to ask specific questions, rather than leaving it open-ended. This creates a structure that keeps the process going and avoids getting bogged in one person's response.
+
+The goal here is to give everyone a chance to talk and to feel known, both by you and by their fellow participants, and the message you're sending is I'm interested in you.
+
+If you know who'll be attending in advance and have their picture, you can take this process to the next level by learning everyone's name in advance and greeting them personally as they walk in. I try to do this the first time I meet a class at Stanford, and I know from student evaluations that it has a very positive impact. The message this sends is I'm really interested in you.
+
+5. Make A Deal
+
+The next step is setting some norms and expectations for the workshop. I liken this to making a deal because these guidelines are a sort of "interpersonal contract" between you and the participants. You're making a commitment to them, you're asking them to make a commitment to you, and these commitments create a set of working agreements for the group.
+
+I typically start by emphasizing that I'll strive to do my best, and I may talk further about why this topic matters to me or why I want them to have a meaningful learning experience, which further increases the connection between me and the audience. I also usually commit to taking one or more breaks and to ending on time, which helps lessen any anxiety and minimize distraction. I'll conclude by asking them if there's anything else that would be helpful to them; people rarely have a suggestion, but when they do, it's extremely important that that we have an opportunity to discuss it.
+
+Now it's my turn to make some requests. I start by asking people to challenge themselves, noting that at many points in the workshop they'll face a metaphorical fork in the road--one path is the easy road, and the other path is the hard road, and I'd like them to be aware of these choice points and opt for the hard road whenever possible. I don't want people to feel too much pressure, but I do want them to feel just a little pressure to take some risks, try some experiments and be vulnerable, because ultimately that will yield more learning.
+
+I also ask them to respect confidentiality. Most of the workshops I run involve having people conduct exercises in pairs or small groups, and in order to challenge themselves and take some risks, they also need to trust that what they say in those conversations will stay private. Confidentiality can't be guaranteed, of course, but setting the expectation makes it more likely.
+
+While I acknowledge that people may need to be reachable--for example, if they have a sick child or a project in crisis--I'd like them to minimize distractions by turning off their phones or at least keeping them in their pockets. They'll get the most out of the workshop if they can keep their attention focused on the people here in the room. (In my experience people actually welcome this.)
+
+And because almost all of my workshops involve interactive exercises and relatively brief lectures, I ask people to stick to the schedule by waiting for breaks and returning on time. That ensures that their partners won't be stuck waiting for them and miss out.
+
+I conclude by asking if everyone can commit to these agreements, and ask for a verbal assent and a nod. Again, we can't guarantee that people will abide by these norms, but making their agreement explicit makes it more likely. (The deck above includes the sequence of slides that I typically use for this purpose.)
+
+The message you're sending here is This is how we'll work together.
+
+6. Orient Them
+
+The next step in the process is to help the audience understand more clearly to expect, and I typically break this down into three separate components. I start with a brief, high-level overview of the workshop's purpose, which answers the question Where are we going?
+
+Then I move on to a similarly brief discussion of the process and methods we'll use, which answers the question How will we get there? Only then do I provide a detailed agenda, with the sequence of activities and the time allotted for each. (The deck above includes the slides I typically use for the first two components in this stage of the process, as well as a sample agenda.)
+
+The message you're sending here is I'll help you prepare and manage your energy.
+
+7. Shake Things Up (Gently)
+
+Finally, after the preliminaries above are completed, if at all possible I like to open the workshop with a stimulating exercise. These can vary substantially depending on the size and composition of the group, as well as the physical space in the venue. One theme I use frequently is having the group stand in a circle and go through a number of "sorts" in which the participants re-arrange themselves around the circle in accordance with a series of criteria: By height, non-verbally. By date of birth, with talking allowed. By everyone's relative degree of "blueness," which I deliberately leave undefined. The possible variations are endless.
+
+An exercise like this serves several purposes: First, it gets people up and moving again after they've spent a few minutes listening to me talk, and some light physical activity will help them be more attentive and engaged (especially after lunch or in the evening.)
+
+It also gets audience members interacting with each other, and this both creates interpersonal connections between participants and helps to knit the group together as a whole. Both of these dynamics help ensure a successful event.
+
+And by introducing a concept that requires people to think in different ways (such as determining how “blue” they are), it sparks creative thinking and opens them up to new ideas.
+
+As I mentioned at the outset, I discuss this process in detail in order to fully explain the purpose served by each step along the way, but note that this entire sequence can be completed in less than 15 minutes. The goal is to quickly create the conditions that will best support learning and then jump into the content of your workshop or talk.
+
+Photo by Mohammad Jangda.
+
+
+===== END ED BOT ESSAY 3833 =====

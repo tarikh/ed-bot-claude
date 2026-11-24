@@ -1,0 +1,498 @@
+===== BEGIN ED BOT ESSAY 3978 =====
+---
+title: A Brief History of T-Groups
+url: https://edbatista.com/2018/06/a-brief-history-of-t-groups.html
+slug: a-brief-history-of-t-groups
+published: 2018-06-09T18:14:27
+updated: 2026-06-30T18:48:51
+source_body: wordpress-html
+---
+
+CONTENTS
+
+1. Overview
+
+2. Logistics and Pedagogy
+
+3. Origins, Growth and Decline
+
+4. Personal Experience
+
+5. Research and Literature
+
+6. My Writing
+
+7. T-Group Programs
+
+8. Acknowledgments
+
+9. Miscellany
+
+1. Overview
+
+As a former faculty member for Interpersonal Dynamics, commonly called Touchy Feely, at the Stanford Graduate School of Business (GSB), I'm occasionally asked about the course and about T-groups, the primary unit in which students work together in the course. My goal here is to compile a set of resources that will allow me to respond to these inquiries more effectively and to document my own experiences and research. The information below is by no means comprehensive, but hopefully it's a useful starting point for further study.
+
+The "T" in T-group stands for "training," a nomenclature that developed in the 1950s, when the founders of the methodology devised various types of groups to serve various purposes. A T-group is an experiential learning model in which the participants and the facilitators (aka trainers) engage each other in an ongoing series of conversations over an extended period of time (which can range from several hours to a weekend retreat to ongoing groups that meet regularly over periods of years.) Members' initial goals generally include such topics as learning how to communicate more effectively, but groups typically progress to more substantive issues as deeper levels of trust and emotional intimacy are established. A hallmark of the T-group process is the absence of a predetermined agenda, which gives participants the both the freedom and the responsibility to decide how to make use of the time.
+
+Stanford's Interpersonal Dynamics course is one of the largest T-group programs in the world--the GSB currently offers 11 sections of the course each year, accommodating a total of 396 students. With roughly 400 students per class in the MBA program and another 100 in the MSx program, it's clear that the vast majority of Stanford management students find the course integral to their GSB experience.
+
+The photo of ruins above--Inch Abbey in County Down--is a tongue-in-cheek reference to the fact that, like so many of my former students, 20 years ago I assumed Touchy Feely was a relatively recent innovation that must have been developed in California, because it seemed so contemporary and, well, touchy feely. But my curiosity about the methodology led me to explore the resources below, uncovering a much longer--and more interesting--history than I'd anticipated when I first took the course as a student.
+
+And to be very clear, I'm certainly not the expert on T-groups. I know many people who know far more than I do, not only about how to teach Touchy Feely or facilitate a T-group, but also about the history of the methodology. But I'm sadly aware of how much knowledge in this field has been forgotten over the last few decades, so I'm determined to document and share what I do know and hope it's of some value.
+
+2. Logistics and Pedagogy
+
+A T-group at Stanford consists of 12 students with one or two facilitators, although groups in other settings can range from 6 to roughly 15 participants. A section of Touchy Feely is comprised of three T-groups, for a total of 36 students and 6 facilitators, taught by a faculty member. The entire section meets as a class for one to three hours each week, and each T-group meets separately for an additional three to four hours. The culminating experience in the course is a weekend-long retreat during which T-groups meet for a total of 17 hours. Quarters at Stanford run for nine or ten weeks, so each T-group spends roughly 60 hours together throughout the course.
+
+One of the defining characteristics of a T-group is that there's no agenda, and it's up to the participants themselves to determine what to discuss. This is modified at Stanford in the context of Touchy Feely, because the course readings provide students with a common set of conceptual frameworks related to social psychology and group dynamics that form a theme for each week, such as "feedback" or "influence." In addition, in most weeks the class and T-group sessions include exercises and activities that serve as inputs to the process. It's my understanding that T-groups conducted in other settings put less emphasis on a shared conceptual curriculum, but even at Stanford the extensive amount of time that groups spend together insures that the participants themselves ultimately choose the direction of the group and the topics of discussion.
+
+(I'm omitting an immense amount of material that could be included here because I've already devoted more time to this effort than I can justify, but resources to explore further on these topics include the first two books listed below in Section 5, Research and Literature, and my Interpersonal Dynamics archive.)
+
+3. Origins, Growth, and Decline
+
+For a thorough discussion of the origins of T-groups, see T-Group Theory and Laboratory Method, a book discussed below, but here's a brief summary: In 1946 psychologist Kurt Lewin was asked by the civic leaders of Bridgeport, Connecticut to convene a series of conversations with community members intended to help ease racial tension in the city. Lewin assembled a team of fellow psychologists and educators to run the program, and one evening after the conclusion of a meeting with community members, some of the participants overheard the staff debriefing the experience and expressed interest in being directly involved in the discussion. This was essentially the first T-group, in which members and facilitators interacted directly and learned from each other in real time.
+
+In 1947 Lewin created the "National Training Laboratories Institute for Applied Behavioral Science" (aka NTL, known today as the NTL Institute) to advance this new methodology, and although he died later that year, his co-founders Leland Bradford, Ron Lippitt, and Ken Benne continued to pursue the organization's mission and initially met with great success. NTL's establishment coincided with a widespread movement in the 1950s to systematically improve the management of large organizations, with a particular emphasis on "labor relations," and T-groups were enthusiastically embraced not only by corporate America and major universities, but also by the U.S. military.
+
+By the mid-1960s articles on T-groups were appearing in the Harvard Business Review--see below--and there was a sense among its leading proponents that the methodology would become a staple of management training and university education around the world. It was at this time that the first version of Interpersonal Dynamics was taught at Stanford in 1968, and the following year David Bradford, the son of NTL co-founder Leland, arrived at the GSB and began the decades-long process of developing what would become known as Touchy Feely into the most popular elective course at the school.
+
+But as with so many idealistic movements of that era, T-groups lost their momentum in the 1970s, and their subsequent decline reflects the methodology's failure as well as its success. Various forms of "encounter groups" and "consciousness seminars" sprouted up at that time (often lumped together under the label of the "human potential movement"), and some of these efforts were directly derived from T-groups. Despite this shared heritage, the means and aims of these latter groups often differed significantly from the original methodology. For example, some programs put intense pressure on members to recruit additional participants, something that I've never witnessed (or even heard of) in a T-group. But in some settings T-groups came to be associated with such coercive practices, and the methodology fell out of favor with corporations and universities (with Stanford being a notable exception.)
+
+At the same time, however, many of the ideas promoted by T-groups with the goal of improving organizational management were becoming increasingly common practices, reflecting the ascendance of Theory Y and the slow-but-steady rejection of the command-and-control model. Fueled not only by sweeping changes in social structures and attitudes, but also by the rise of the knowledge worker, organizational life and management education in the 1970s saw a sustained interest in interpersonal communication, feedback, and group dynamics. My father, a psychologist who completed his PhD in 1975, has said that T-groups and related movements essentially "died of success" as their ideas continued to spread while the methodology itself returned to obscurity.
+
+4. Personal Experience
+
+My own involvement with T-groups began in 1999, when I was an MBA student at Stanford and took Touchy Feely with Mary Ann Huckabay. It's no understatement to say that it was a life-changing experience, which is not an uncommon response among students who take the course. In my case the experience deepened my awareness of my emotions, enabling me to regulate and express them in more productive ways, which allowed me to not only to be a more effective communicator and enjoy more meaningful relationships, but also to just be a more fulfilled person. The course also introduced me to the concept of experiential learning and immersed me in the literature of social psychology and group dynamics, initiating a process of reading and study that has continued ever since.
+
+In 2006 I attended a weekend-long T-group organized by Stanford and facilitated by Barbara Brewer and Dietmar Brinkmann, in order to refresh my memory of the experience and explore whether I should apply to become a T-group facilitator at the GSB. The experience affirmed my interest in the process and later that year I was accepted into the school's facilitator training program. At the end of 2006 I was hired by the GSB to become a member of the school's first in-house coaching staff, and in that role I would facilitate T-groups in Touchy Feely two or three times a year for the next decade, working with such faculty as Carole Robin, Gary Dexter, Scott Bristol, and Richard Francisco, in addition to Mary Ann Huckabay. I never facilitated for David Bradford, but I certainly benefited from his advice and guidance.
+
+In addition to participating in and facilitating T-groups at the GSB 2006-2016, I've had a number of related experiences over the years. In 2008 I facilitated a weekend retreat for eight GSB alumni, the first time this group of men had invited a facilitator to join their annual gathering. In 2010 I co-facilitated a T-group with Carole Robin in the GSB's week-long version of Touchy Feely offered to the public through the school's Executive Education program. From 2009 to 2014 I was a member of a T-group consisting of other facilitators that met monthly. And while my work with the GSB's Leadership Fellows program from 2007 to 2015 didn't take place in formal T-groups, many of the activities that I conducted with small groups of 5-6 Fellows were informed by the methodology.
+
+In 2015 I was asked to join the Touchy Feely faculty, and I taught the course for two years. However, in 2017 I was invited to add a third section of The Art of Self-Coaching, the class that I had launched at the GSB several years previously, and I decided to resign from teaching Touchy Feely in order to focus on my other course.
+
+I estimate that I've spent over 1,500 hours in T-groups, and another 500+ hours facilitating similar experiential learning activities for Stanford MBAs and corporate clients. I'm not involved with any groups at present, but the methodology has had a tremendously positive impact on my personal and professional life over the last two decades, and I'm deeply grateful for the experience. I'm indebted not only to the faculty named above, but also to my many co-facilitators over the years, my colleagues on the school's coaching staff, and the hundreds of GSB students I was privileged to work alongside.
+
+5. Research and Literature
+
+The list below focuses on books and papers related to the development of T-groups and the training of T-group facilitators. It does not include the extensive readings drawn from social psychology and other disciplines that currently comprise the curriculum of a course such as Touchy Feely; to learn more about these materials, see my Interpersonal Dynamics archive, which includes my slides, syllabus, and related readings from the last year that I taught the course at Stanford.
+
+5.1. Juncture: A T-group Story, Anamaria Nino-Murcia, 2025.
+
+I consider this the single best book on T-groups and highly recommend it not only to anyone who's curious about the methodology, but also to all practitioners in the field.
+
+5.2. T-Group Theory and Laboratory Method: Innovations in Re-Education, Leland Bradford, Jack Gibb, and Ken Benne, 1964
+
+This extensive volume, long out of print but still readily available, is by far the most comprehensive resource on the subject of T-groups that I've encountered.
+
+5.3. The Small Group Trainer's Survival Guide, Birge Reichard, Christiane Siewers, and Paul Rodenhauser, 1992
+
+This book by a trio of NTL trainers (as that organization has historically called T-group facilitators) is the best resource for learning how to facilitate, although it does show its age in sections.
+
+5.4. T Group for a Work Team, Arthur Kuriloff, Yale University and Stuart Atkins, Atkins-Kacher Associates, Los Angeles, 1966
+
+An account of a 5-day T-group with 13 members of a small manufacturing company (12 men, 1 woman; 12 Americans, 1 Swiss; possibly all white, although not sure), facilitated by co-author Atkins and (I think) Jack Gibb, who were both fairly well-known NTL trainers at the time. It's dated in many ways, to be sure--the boss smokes a cigar throughout the T-group--and yet I continue to find it fascinating and even touching.
+
+5.5. Behavioral Science Technology and Organizational Effectiveness, Major Joel Champion, United States Air Force, 1973
+
+This paper discusses various aspects of "sensitivity training"--a common term for T-groups and similar experiences in that era--with a particular focus on the impact within organizations. Champion references the article by Robert House below.
+
+5.6. T-Group Education and Leadership Effectiveness: A Review Of the Empirical Literature and a Critical Evaluation, Robert J. House, Personnel Psychology, Spring 1967, pp. 1-32
+
+House taught at Wharton for many years, but when he wrote this article he was teaching at CCNY's Baruch School of Public and Business Administration and was also with the McKinsey Foundation. Among other topics, House discusses the negative impact of conducting a T-group within an organization.
+
+5.7. Organization Development: Objectives, Assumptions and Strategies, Wendell French, University of Washington, 1969
+
+This journal article covers a wide range of topics, but it talks specifically about T-groups as part of a larger OD effort, including the fact that most groups are "stranger" groups, but some are "cousin" groups from the same company, and some are "family" groups from the same work unit. French also references House's article, noted above, and briefly mentions the potential negative impact of T-groups within an org.
+
+5.8. T-Groups for Organizational Effectiveness, Harvard Business Review, Vol 42(2), 60-74, Chris Argyris, Harvard Business School, 1964
+
+This is of particular interest to me, given my ongoing interest in Argyris' work.
+
+5.9. Advances in Experiential Social Processes, Volume One (1978) and Volume Two (1980), Clayton Alderfer, Yale University, and Cary Cooper, University of Manchester, editors
+
+This hard-to-find pair of volumes compiles a series of papers on experiential learning and related topics in the context of T-groups. Volume Two includes David Bradford's "A Model of Trainer Development," one of the best resources I know for T-group facilitators. It's interesting to note the academic associations of the various authors, which provides a perspective on how widespread T-groups were at the time: Yale, Harvard, Case Western Reserve, University of Cincinnati, SUNY Buffalo, Lunds University (Sweden), UCLA, University of Michigan, University of Ottawa, University of Oregon, University of British Columbia, University of New South Wales, University of Tübingen, University of Paris, University of Sussex. I know that Stanford has been operating T-groups continuously since that era--I have no idea about the others.
+
+5.10. Modern Theory and Method in Group Training, William Dyer, Brigham Young University, 1978
+
+This NTL publication is more practically-oriented than the two volumes noted above, consisting of a compilation of articles aimed at T-group facilitators and organizers.
+
+5.11. Personal and Organizational Change Through Group Methods: The Laboratory Approach, Edgar Schein and Warren Bennis, MIT, 1965
+
+This book's subtitle refers to "laboratory learning," a term often applied to T-groups and similar experiential programs during this era. Schein, a longtime professor at MIT's Sloan School of Management, and Bennis, who later served as President of the University of Cincinnati and taught at USC, were both extensively involved in T-groups and have had a significant influence on contemporary management thinking.
+
+5.12. Here Comes Everybody: Bodymind and Encounter Culture, William Schutz, 1971
+
+Not to be confused with Clay Shirky's 2009 book of the same title (on the application of technology to social organization), Schutz's book offers a view of the "encounter group" culture that emerged from the T-group methodology in the late 1960s. Schutz, a psychologist who developed the model behind the FIRO-B personality assessment and later practiced at Esalen, describes this evolution in his Introduction:
+
+The encounter group derived from the T-group (T for training) originated by the National Training Laboratories in 1947. The T-group originally concentrated primarily on group process, that is, on phases of group development, group roles, leadership patterns, and the decision-making process.
+
+About five years later, the T-group began to pay more attention to individual dynamics. The term "sensitivity training" was adopted to describe this development, which began in California, as well as to describe the original T-groups. The term "encounter group" or "basic encounter group" as used by Carl Rogers, has become associated more with the primarily personally oriented T-group, that is, one that focused on the individual. The "open encounter group" [Schutz's model] uses the format of an encounter group, aims at personal growth and realization of human potential, and admits a wide range of other types of activities into the experience if they give promise of enhancing the aims of the group.
+
+5.13. Experiences in Groups, and Other Papers, Wilfred Bion, 1961
+
+Bion was a British psychotherapist whose work did not involve T-groups, but his writing on group dynamics in the 1950s certainly informed the T-group movement.
+
+5.14. The Road to Malpsychia: Humanistic Psychology and Our Discontents, Joyce Milton, 2002
+
+Journalist Milton takes a critical view of humanistic psychology, a movement that emerged in the 1940s and '50s and significantly influenced the development and evolution of T-groups. This school of thought also played a major role in the contemporaneous changes in organizational management and "labor relations" that led to the widespread adoption of T-groups by corporations and universities in the 1960s. While Milton's perspective should be viewed with some skepticism, I find it a thought-provoking critique, even if I disagree with much of it. Here's a brief review.
+
+5.15. A History of the T-Group and Its Early Applications in Management Development, Scott Highhouse, Bowling Green State University (2002)
+
+An outstanding and thorough paper.
+
+5.16. Memories of HRD (Human Resources Development), Robert Blake, Training and Development, March 1995
+
+Robert Blake was a fascinating figure. After earning his PhD at the University of Texas in 1947, he went to London on a Fulbright scholarship and worked at the Tavistock Clinic. There he presumably worked with Wilfred Bion and learned about NTL. He spent the 1950s and early '60s teaching psychology at Texas, working with T-groups at NTL, and consulting to industry before launching a consulting firm with Jane Mouton.
+
+5.17. The Classic T-Group, Matt Minahan and Robert Crosby (2016)
+
+This paper is also available as a chapter in the 4th edition of Practicing Organization Development. Robert Crosby is a longtime facilitator who has offered T-groups in industry for decades--see below.
+
+5.18. Behind the Executive Mask: Greater Managerial Competence Through Deeper Self-Understanding, Alfred Marrow (1964)
+
+A thorough description of the classic mid-1960s, multi-week T-group experience, aimed at corporate executives and intended to demystify the increasingly popular "sensitivity training" process.
+
+5.19. The Practical Theorist: The Life and Work of Kurt Lewin, Alfred Marrow (1969)
+
+An extensive volume that covers the full range of Lewin's interests and activities, Marrow's biography includes a section on "Sensitivity Training - The Origin of the T-Group" (pages 210-214). An executive, psychologist, and philanthropist, Marrow was a friend and colleague of Lewin who engaged him in efforts to improve worker productivity and morale at the Harwood Manufacturing Company (where Marrow was President) and collaborated with him on projects such as the Commission for Community Interrelations, sponsored by the American Jewish Congress.
+
+6. My Writing
+
+In addition to my Interpersonal Dynamics archive, over the years I've written a number of pieces that explore my own T-group experiences, consider dynamics commonly observed in T-groups, or discuss T-groups in the context of my teaching and coaching at Stanford. Most of the pieces below refer explicitly to T-groups or Touchy Feely, but several are merely based on concepts derived from the methodology or the course.
+
+David Bradford and Allan Cohen on Supportive Confrontation (2006)
+
+T-Groups, Trust, Leadership and Management (2007)
+
+T-Groups, Feedback and Double-Loop Learning (2007)
+
+T-Groups In India (2007)
+
+Talking About Feelings (2008)
+
+T-Groups, Balance and Boundaries (2008)
+
+How Am I Doing? aka T-Group Feedback (2008)
+
+The Influence Pyramid 2.0 (2009)
+
+T-Groups, Feelings and Management Theory (2011)
+
+Please Don't Validate Me (2011)
+
+Human Velcro (Hooks and Loops) (2012)
+
+Building the Emotional Intelligence of Groups (2012)
+
+I Love Myself (Self-Coaching and Acceptance) (2012)
+
+Management as a Liberal Art at Stanford (2012)
+
+We're Leaky (Emotional Signals and Cognitive Dissonance) (2012)
+
+What I Learned in Touchy Feely (This Time) (2013)
+
+Planting a Flag (Thoughts on Teaching Leadership at Stanford) (2014)
+
+Why Change Is Hard (2014)
+
+Symptoms of Group Strength (2015)
+
+Teaching Touchy Feely at Stanford GSB (2015)
+
+Committing a Microaggression While Teaching a Class on Microaggressions (2016)
+
+This Year: A Look Back at My 2016 (2016)
+
+Touchy Feely Feedback from 2009 (2017)
+
+Huddle Up! Building Group Cohesion (2017)
+
+What We Learned in Touchy Feely (and What We're Still Figuring Out) (2017)
+
+Goodbye, Touchy Feely! Hello, Art of Self-Coaching! (2017)
+
+7. T-Group Programs
+
+You don't have to attend the GSB to participate in a T-group. Despite the methodology's retreat from its peak in the 1960s and '70s, a number of programs continue to exist across the U.S. and around the world. The ones I'm familiar with are below, although by no means is this intended to be an exhaustive list:
+
+San Francisco Bay Area
+
+- The GSB regularly offers Introductory T-Group Weekends that are open to the public, with preference being given to applicants to the school's facilitator training program.
+
+- Anamaria Nino-Murcia offers T-group Weekend Retreats for startup leaders. (Anamaria served on my staff at Stanford and was a student of mine when she attended the MBA program.)
+
+- Erica Peng offers T-groups for executive teams. (Erica was also on my staff at Stanford, and she and I co-facilitated two T-groups together in Touchy Feely.)
+
+- Leaders in Tech is a year-long program for startup founders and executives that utilizes both T-groups and ongoing peer groups. (Carole Robin is the co-founder.)
+
+- Executive Influence offers T-groups facilitated by Hanna Hart, a coach I know and recommend, and Andrew Molina, a coach who's known and recommended by close friends of mine.
+
+- Jay Sieff-Haron of Effective Influence/Cross-Cultural Communication offers T-groups for the general public, with a particular focus on diversity and social identity. (Jay and I once served together on Carole Robin's staff, and he's a longtime GSB facilitator.)
+
+- Stanford's Continuing Studies program offers COM-19, a short-term course similar to Touchy Feely that's available to the public. Note that in Fall 2021 the course will be offered online. (Among the lead instructors is Sue Neville, with whom I co-facilitated a T-group in Touchy Feely.)
+
+- The GSB's Executive Education program offers a week-long version of Touchy Feely each summer.
+
+Other U.S. Locations
+
+- While the NTL Institute is no longer as prominent as it was during the height of the T-group movement, the organization regularly offers week-long T-group programs in Washington DC and other locations. (It's my understanding that NTL also has a presence in the UK, but I can't find any information online.)
+
+- Crosby and Associates, based in Wilmington, Delaware and Seattle employs T-groups in the context of their work on leadership development and culture change.
+
+- EQ-HR: The Center for Emotional Intelligence & Human Relations Skills, offers a series of T-group related programs for leaders of faith-based organizations across the U.S.
+
+- The Booth School of Business at the University of Chicago began offering their own version of Interpersonal Dynamics in 2019. (One of the faculty who pioneered the course at Chicago is Lisa Stefanac, a friend and colleague of mine. Lisa and I were in the same cohort in Stanford's Group Facilitation Training Program in 2006.)
+
+- My friend and colleague Jana Basili also offers T-groups in Chicago, where she's now based: Leadership EQ.
+
+Europe
+
+- The Austrian Society for Group Dynamics and Organizational Consulting (ÖGGO) offers T-group programs and workshops in a number of locations. It's my understanding that groups are offered in both German and English. Among the ÖGGO leaders are Liselotte Zvacek, with whom I co-facilitated a T-group in Touchy Feely while serving on Mary Ann Huckabay's staff, and Joachim Schwendenwein, who joined me on Carole Robin's staff one year.
+
+- The Center for Social Competence at the University of Graz in Austria offers a range of T-group based courses.
+
+- The German Society for Group Dynamics (DGGO), is apparently similar to ÖGGO, although I don't have direct experience with them.
+
+- Cross-Cultural Communication offers "Rogerian encounter groups" in Hungary with English translation. As noted above, "encounter groups" are associated with the humanist psychologist Carl Rogers and represent a methodology that's closely aligned with T-groups but distinct, often placing a greater emphasis on intra-personal development over group dynamics.
+
+- TSpace, an organization development and corporate coaching firm in Dublin and London, employs T-groups in its work with clients.
+
+- Walt Hopkins, a coach and organization development consultant based in Scotland, offers a T-group program in his practice.
+
+India
+
+- The Indian Society for Applied Behavioral Science offers basic and advanced T-groups, as well as a professional development program for practitioners.
+
+- The Sumedhas Academy for Human Context offers a series of T-group based programs.
+
+- The Aastha Foundation for Human Learning and Growth offers a series of T-group based programs.
+
+8. Acknowledgments
+
+Thank you to the 200+ Stanford GSB students who participated in T-groups that I co-facilitated, and to the 72 students who were enrolled in my sections of Touchy Feely.
+
+And thank you to my colleagues in Touchy Feely over the years, including...
+
+- Mary Ann Huckabay, who was my professor in 1999, who is still my coach today, and who’s been the best mentor anyone could ask for.
+
+- Carole Robin, with whom I’ve worked in so many capacities, and who has contributed so much to my development as a teacher and coach.
+
+- My T-group co-facilitators: Agnes Le, Chevalisa Bruzzone, Chris McCanna, Erica Peng, Inbal Demri Shaham, Jimena Galfaso, Karin Scholz Grace, Lisa Kay Solomon, Liselotte Zvacek, Michael Terrell, Saraswathi Ram Mohan, Stephanie Stevens, Sue Neville, and Zoe Dunning.
+
+- My fellow faculty members, past and present: Andrea Corney, Carole Robin, Collins Dobbs, David Bradford, Gary Dexter, Lara Tiedens, Leslie Chin, Richard Francisco, Scott Bristol, and Yifat Sharabi-Levine.
+
+- The facilitators on my staff: Agnes Le, Anamaria Nino-Murcia, Chevalisa Bruzzone, Don Hejna, Erica Peng, Kevin Martin, Lela Djakovic, Mark Voorsanger, Michael Terrell, Rich Kass, Sue Neville, and Tuquynh Tran (and our reading coaches: Gabriel Cooper, Jamila Rufaro, Leslie Chin, Norman Tran, Stephanie Stevens, and Sunny Sabbini).
+
+- My teammates on the school's coaching staff over the past decade, who also facilitated T-groups: Andrea Corney, Anthony Ramsey, Bonnie Wentworth, Chris McCanna, Collins Dobbs, Hugh Keelan, John Cronkite, Ricki Frankel, Sharon Richmond, and Yifat Sharabi-Levine.
+
+- The many, many faculty and staff members whose efforts have made Touchy Feely possible over the years, including Barbara Firpo, Bryan McCann, Chris Sadlak, Courtney Payne, Ingrid McGovert, Kris Becker, Lara Tiedens, Lynn Santopietro, Mindy Hollar, Nancy Dam, and Sue Jensen.
+
+- And Paul Mattish, my faculty assistant for Touchy Feely back then and for The Art of Self-Coaching today.
+
+9. Miscellany
+
+Here's a (lengthy and discursive) thread that touches on some of the history above, but adds further information on a number of topics, including how "sensitivity training" was viewed by the establishment in the late 1960s, and the fact that a documentary on T-groups won an Oscar in 1969(!)
+
+If you're interested in T-groups, humanistic psychology, the craziness of the late '60s, and/or Cold War paranoia, read on... 1/
+
+— Ed Batista (@edbatista) February 22, 2020
+
+Photo by Paul Bowman.
+
+
+===== END ED BOT ESSAY 3978 =====
+===== BEGIN ED BOT ESSAY 3979 =====
+---
+title: The Friendship of Wolves
+url: https://edbatista.com/2018/06/the-friendship-of-wolves.html
+slug: the-friendship-of-wolves
+published: 2018-06-05T18:44:46
+updated: 2025-09-24T11:58:11
+source_body: wordpress-html
+---
+
+There is nothing more degrading than the friendship of wolves; avoid that above all.
+
+~Marcus Aurelius, Meditations, XI.15
+
+Most of my clients are CEOs, and an important aspect of the role that few people consider before launching a venture or pursuing a career in senior leadership is that it's lonely. Leaders must be friendly with employees, investors, customers, and other stakeholders, and yet in all of those relationships there are inevitably factors that complicate or even preclude true friendship. Leaders often begin their career with a rich network of friends from school and work, but as they grow more senior these relationships can founder as differences emerge in professional trajectories. And leaders can find important sources of interpersonal support by working with a personal coach like me or with a peer group such as a YPO chapter, but by definition these relationships exist in structured circumstances, at specific times, with defined boundaries.
+
+As a result, leaders can find themselves engaged with a large number of people over the course of a given day and yet feel profoundly alone. This can leave leaders vulnerable to the friendship of wolves--insincere expressions of care and interest from people whose agendas may not be aligned with the leader's best interests. And this danger is compounded in tightly-networked industries where people socialize frequently with colleagues and confidential information is highly valuable and travels quickly. (Sound familiar?)
+
+And yet we're intensely social creatures who struggle--and even suffer--when we lack the requisite amount of interaction with people who we trust. So if you're a senior leader, what can you do?
+
+- Get out of the role: Cultivate relationships in groups and settings where people have a common interest outside of work, where job titles are irrelevant, and where status derives from sources other than professional accomplishment. Be known for your skills (or lack thereof) as a rock climber, ballroom dancer, horseback rider, weightlifter--anything other than leader.
+
+- Treat family like family: A leader's need to discuss work can easily extend beyond family members' capacity to listen. (This is one reason why coaches like me have a job.) I'm not suggesting that work shouldn't be discussed at home, but insure that family members feel empowered to set limits on those conversations in order to make room for other topics and other ways of interacting.
+
+- Treat friends like treasures: Some of the most important people in a leader's life are those few individuals who are A) successful enough to avoid feeling threatened by or jealous of the leader's status, B) sophisticated enough to understand and empathize with the leader's challenges, C) invested in the leader as an individual and NOT invested in the leader's company, and D) completely trustworthy. Over the course of your lifetime you may meet just a handful of people who fit all of these criteria--when you do, recognize how rare and valuable they are.
+
+- Beware the wolves: Leaders attract people with a wide range of motives, and while the cost of cynicism is isolation, there's also a cost to naivete. It's important to test for trust and to admit people into closer confidence over a series of repeated interactions. You may have to work with wolves at one time or another, but successful co-existence requires you to see them for who they are, with no illusions about their professed friendship.
+
+- Start now: A theme in my practice is the price leaders pay when they wait too long, and it's particularly steep when it comes to the activities discussed here. You can't magically create true friends in a time of need if you haven't been investing in those relationships--only wolves will heed that call.
+
+ 
+
+Actual wolves--the four-legged-kind--are spectacular creatures, and the world would be poorer without them. Join me in donating to the International Wolf Center.
+
+Photo by Ronnie Macdonald.
+
+
+===== END ED BOT ESSAY 3979 =====
+===== BEGIN ED BOT ESSAY 3980 =====
+---
+title: Self-Coaching Is SOCIAL
+url: https://edbatista.com/2018/05/self-coaching-is-social.html
+slug: self-coaching-is-social
+published: 2018-05-28T10:32:18
+updated: 2025-09-24T11:58:11
+source_body: wordpress-html
+---
+
+This is a point I stress when I teach The Art of Self-Coaching at Stanford, but I want to make it even more explicit here, both to better prepare my students for their experience in the course and to clarify my terminology for others who've expressed interest in the concept:
+
+Self-coaching is not a solitary process but a highly social one.
+
+Self-coaching is a self-directed process, in that we're taking active responsibility for guiding our own growth and development, but other people play extremely important roles in this process at every step.
+
+There is certainly value to gained from solitary activities such as journaling, reflection, and an ongoing dialogue with ourselves on matters large (e.g. What should I do with my life?) and small (e.g. What am I feeling at this moment?). And it's essential to cultivate the ability to engage in these practices more effectively and to build routines that support them into our lives.
+
+Students in my course do an extensive amount of solitary work outside of class. Each week they read the materials on the syllabus, reflect on the meanings and implications of these materials, and complete a written assignment. It's my hope that this experience will help them determine how best to continue these activities in their career after business school, when they'll be responsible for creating their own "syllabus" and for determining how to reflect upon and write about those materials without anyone's input or oversight. (This is why the content of these weekly assignments is determined by each student as an individual, beyond the constraint of looking ahead to the upcoming class.)
+
+But these solitary activities are just one aspect of a self-coaching process that also involves meaningful relationships with others. A dilemma that many of us encounter when seeking support is that even well-meaning allies can respond in ways that we find unhelpful. Frequently this takes one of three forms: My problem's worse... or Look on the bright side... or Here's some advice... [1] This isn't to say that shared experiences, encouragement and advice are never useful, but they can convey counterproductive meta-messages, even when unintended: You don't have it so bad, so stop complaining... or If you were smarter, maybe you would have figured this out on your own... The solution is to employ coaching tools and techniques that enable us to have more effective helping conversations.
+
+Thus the classroom experience in my course is highly social and interactive, not solitary, and each week my students work with classmates in pairs and small groups. In addition to preparing them for the solitary work noted above, it's my hope that this experience helps them better understand how to develop and sustain relationships in which they can build trust, discuss meaningful issues of importance to them, and offer and receive coaching support. Note that these conversations are intentionally brief, ranging from 10 to 20 minutes, and my goal here is to replicate real-world conditions, when my students will often face significant time constraints in their working relationships. While more extensive unconstrained conversations always have a role to play, being able to address a significant topic quickly and economically is a valuable skill.
+
+Given all this, I don't make a sharp distinction between self-coaching and coaching conversations with others, because the former necessarily involves the latter. My course does not provide in-depth coaching training, but a basic understanding of coaching tools and skills allows students to get more out of the conversations they'll have with classmates. This is why I offer some brief instruction on how to coach others at the very beginning of the course and include some of the resources below on our syllabus.
+
+Resources on Coaching and Being Coached
+
+- How Great Coaches Ask, Listen, and Empathize (Ed Batista, Harvard Business Review, 2012)
+
+- Helping: How to Give, Offer, and Receive Help (Edgar Schein, 2009)
+
+- Chapter 3, pages 30-47: “The Inequalities and Ambiguities of the Helping Relationship”
+
+- Humble Inquiry: The Gentle Art of Asking Instead of Telling (Edgar Schein, 2013)
+
+- Chapter 3, pages 39-50: "Differentiating Humble Inquiry from Other Kinds of Inquiry"
+
+- Scott Ginsberg on Asking (Better) Questions (Ed Batista, 2008)
+
+- Hammering Screws (Bad Coaching) (Ed Batista, 2011)
+
+- The HBR Guide to Coaching Employees (2nd edition, 2015)
+
+- A Challenge to Leaders: Help Others Self-Coach (Ed Batista, 2013)
+
+- Coaching, Advice, and Feedback (Ed Batista, 2011)
+
+- Coaching Your Employees (HBR Webinar Video and Summary) (Ed Batista, 2014)
+
+- Coaching and Feedback Tools for Leaders
+
+Resources on Reflection and Journaling
+
+- The Value of Journal Writing (Ed Batista, 2008)
+
+- How to Think (More on Open Space and Deep Work) (Ed Batista, 2017)
+
+- Conversations with Ourselves (Self-Coaching and Self-Engagement) (Ed Batista, 2012)
+
+- Reflecting on Work Improves Job Performance (Carmen Nobel, Harvard Business School Working Knowledge, 2014)
+
+- Why You Should Make Time for Self-Reflection (Even If You Hate Doing It) (Jennifer Porter, Harvard Business Review, 2017)
+
+- Does Journaling Boost Your Well-Being? (Pelin Kesebir, Center for Healthy Minds, University of Wisconsin, 2017)
+
+Footnote
+
+[1] How to Express Empathy--Avoid the Traps! (Michael Sahota, 2013)
+
+Photo by Heinrich Böll-Stiftung.
+
+
+===== END ED BOT ESSAY 3980 =====
+===== BEGIN ED BOT ESSAY 3981 =====
+---
+title: The Obstacle Is The Way
+url: https://edbatista.com/2018/05/the-obstacle-is-the-way.html
+slug: the-obstacle-is-the-way
+published: 2018-05-21T11:24:36
+updated: 2025-09-24T11:58:11
+source_body: wordpress-html
+---
+
+The obstacle IS the way.
+
+I was reminded of this by John Stephenson [1], who was responding to the conclusion of my piece on Comfort with Discomfort:
+
+We tend to view discomfort adversarially, as a foe to be vanquished or avoided, but an alternative is to view it as a sign of something important for us to learn, or an indicator of a meaningful growth opportunity. When something feels daunting, we can get curious. When something feels scary, we can step forward. [2]
+
+John was drawing upon a passage from Book Five of the Meditations of Marcus Aurelius:
+
+Now it is true that [people] may impede my action, but they are no impediments to my affects and disposition, which have the power of acting conditionally and changing: for the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road. [3]
+
+It's been useful to reflect on these ideas as I've faced some obstacles of my own recently. When I first encountered them it was disconcerting to see how readily I experienced them not only as "impediments to my action," but also as "impediments to my affects and disposition." I was hurt and upset and angry.
+
+It's taken some effort to step back from my immediate response and view these situations from a broader perspective. They are obstacles, and my action is impeded. And yet they have something important to teach me--not despite the difficulty and discomfort I'm experiencing, but because of it. So what am I learning?
+
+Attachment brings suffering, and suffering is a choice
+
+There’s a powerful scene in David Simon’s dramatic series The Wire in which an anxious store security guard pleads with a dangerous gang leader who’s just shoplifted, asking him to appreciate the difficult situation in which the guard now finds himself. The gang leader is unmoved. "You want it to be one way," he murmurs, "but it’s the other way." [4]
+
+My attachment to wanting these situations "to be one way" when in fact "it's the other way" is the ultimate cause of my hurt and upset and anger here. While our emotions can be valuable inputs in the reasoning process, they're not unerring guides to right action, and it's been necessary for me to interrogate these feelings and to understand their origins. [5] My emotions aren't being inflicted upon me--I am triggering them through my attachment to an alternative reality, one in which these obstacles I've encountered don't exist. But they do exist, which means I face a choice. I can remain attached to my vision of an obstacle-free path and suffer when reality intrudes upon my fantasy, or I can accept these obstacles and see them as integrated with my path. Rather than choosing to suffer, I can choose to learn.
+
+Some growth requires struggle
+
+I first learned this lesson nearly a decade ago as I watched groups that were experiencing difficulties benefit most not when the leader took action to resolve the problem but when the leader did nothing and allowed the group to struggle toward its own solution. [6] To be clear, I'm not suggesting that leaders should always stand back, but it's important to recognize when a leader's efforts to help a group avoid difficulties can actually serve to block the growth that will come only through struggle.
+
+Today I can see that the same principle applies to my own development as an individual, and that my efforts to avoid difficulties--to navigate around these obstacles--will prevent me from growing in important and perhaps even necessary ways. Rather than viewing them as "obstacles" in the first place, I can see them as sources of growth.
+
+Resilient self-care matters
+
+I try to exercise and meditate every day. [7,8] I pay close attention to my sleep habits and adjust them as needed to insure that I'm well-rested. [9] I like good food and drink, and I aim to consume both in moderation. And I occasionally throw these routines out the window, because a perfect attendance record has never been one of my goals in life. Over the last few weeks it's been particularly important to both invest in these routines and to relax them.
+
+We sometimes equate "resilience" with "toughness," and we fail to appreciate that many "tough" materials are brittle and subject to failure under stress. Truly resilient materials are sufficiently elastic to allow them to absorb a blow, deform under pressure, and return to normal after a brief interval, and that's how I'd characterize my approach to self-care during this time. Rather than feel demoralized because these obstacles have disrupted my smoothly running routines, I can trust in my resilience and return to a state of equilibrium over time.
+
+A final thought: I'm reminded that I often tell my students in The Art of Self-Coaching [10] that self-coaching is not a solitary process, but a highly social one, and it's essential to develop and maintain relationships with trusted partners we can rely on during times of difficulty. [11] I'm deeply grateful to the people I've been able to discuss these situations with, not just (or even primarily) for their advice, but for their ability to listen, to empathize, to bear witness. These obstacles have served to remind me of the importance of these relationships with my most valued fellow travelers. Once again, the obstacle IS the way.
+
+ 
+
+Thanks to John Stephenson for the inspiring reminder.
+
+Footnotes
+
+[1] @JSargent88, May 8, 2018
+
+[2] Comfort with Discomfort
+
+[3] Meditations, Book Five (Marcus Aurelius, 167)
+
+[4] Refugees, The Wire, Season Four (Written by Dennis Lehane, portrayed by Jamie Hector, HBO, 2006). Here's a brief clip.
+
+[5] Antonio Damasio on Emotion and Reason
+
+[6] Five Leadership Lessons
+
+[7] Get Moving! (Exercise for Busy People)
+
+[8] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[9] A selection of readings on sleep.
+
+[10] The Art of Self-Coaching
+
+- Public Course (A freely available version of the course that's open to anyone--all you need is a partner.)
+
+- Stanford Archive (A resource for my current MBA students.)
+
+[11] Self-Coaching is SOCIAL
+
+ 
+
+Photo by Dan Cook.
+
+
+===== END ED BOT ESSAY 3981 =====

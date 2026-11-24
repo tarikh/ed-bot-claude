@@ -1,0 +1,203 @@
+===== BEGIN ED BOT ESSAY 3950 =====
+---
+title: Gratitude Checklist
+url: https://edbatista.com/2018/01/gratitude-checklist.html
+slug: gratitude-checklist
+published: 2018-01-29T05:00:00
+updated: 2025-10-09T09:46:38
+source_body: wordpress-html
+---
+
+I'm alive.
+☐
+
+I'm not in pain.
+☐
+
+I can think clearly.
+☐
+
+I can see, hear, and walk.
+☐
+
+I'm warm and well-nourished.
+☐
+
+I'm protected from the elements.
+☐
+
+I was born to parents who loved me.
+☐
+
+I've built a loving relationship with a partner.
+☐
+
+I feel known and cared for by a number of people.
+☐
+
+I derive a sense of meaning and purpose from my work.
+☐
+
+To be clear, I'm not some blissed-out idealist, and I don't walk around thinking about these things 24/7. I'm disappointed and irritated on a daily basis. But I've experienced enough real heartbreak to know that disappointments and irritations are fleeting sensations, and I shouldn't let them dampen my gratitude for this existence. A list like this helps. So does a sunrise.
+
+
+===== END ED BOT ESSAY 3950 =====
+===== BEGIN ED BOT ESSAY 3951 =====
+---
+title: Lost and Found
+url: https://edbatista.com/2017/12/lost-and-found.html
+slug: lost-and-found
+published: 2017-12-31T09:31:00
+updated: 2025-09-24T11:58:12
+source_body: wordpress-html
+---
+
+Amy and I met when we were in high school together, probably sometime in 1983. We started dating and fell in love in 1986 and then spent most of the next four years apart as we pursued our separate (but deeply intertwined) paths through college. The distance forced us to stay in touch through the U.S. Postal Service. We didn't have email accounts, the web didn't exist, and phone calls were expensive--the old Ma Bell had just been broken up, and we had to call each other after 11:00pm, when long-distance rates were more affordable on our tight budgets.
+
+So we wrote letters--hundreds of letters. Somehow, 30 years later, we still have them, and Amy proposed that we re-read them over the holidays, a major undertaking that we just completed. It was an overwhelming experience, in the best sense of the word, and we found much to laugh about, much to be grateful for, many surprises, and plenty of heartbreak and sadness. My first reaction is simply thankfulness that we're still here. There were many times during those tumultuous years when that outcome seemed highly unlikely.
+
+And my second reaction is thankfulness for the work that I do today and my life as a coach and teacher. I had many strong passions as a young man and launched myself on a number of potential paths with vigor, only to find my enthusiasm fade after a few years. From my vantage point today, not only do I feel a sense of pride in what I accomplished on those ventures, I also realize that the lessons I learned along the way contributed immensely to my ability to be of service to my clients and students now.
+
+But in college, during the period covered by the letters we just read, I went from a checkered (albeit very entertaining) freshman year at Duke to two years at the School of the Museum of Fine Arts in Boston (chosen for its proximity to Dartmouth, which Amy was attending), followed by two more years at Brown (where I finally got my shit together.) I'm deeply grateful for those experiences--and to my parents, who certainly had their doubts, but who remained supportive and encouraging along the way. And yet at the time I often felt like I was wandering.
+
+So it's deeply rewarding to look back at those uncertain years and know that the path I ultimately chose has been a calling, a true vocation. That's not to say that the last 12 years have always been easy or fun--I've struggled many times, and I know I'll face difficult moments in the future. But I feel so privileged to do this work, to live this life, to be able to say: I'm not lost, I'm here.
+
+ 
+
+Photo by dvs.
+
+
+===== END ED BOT ESSAY 3951 =====
+===== BEGIN ED BOT ESSAY 3952 =====
+---
+title: Understanding "The Pie Chart" in The How of Happiness
+url: https://edbatista.com/2017/12/understanding-the-pie-chart-in-the-how-of-happiness.html
+slug: understanding-the-pie-chart-in-the-how-of-happiness
+published: 2017-12-30T15:28:25
+updated: 2025-09-24T11:58:12
+source_body: wordpress-html
+---
+
+Sonja Lyubomirsky, a professor of psychology at UC Riverside, is one of the leading researchers on happiness, and her books The How of Happiness [1] and The Myths of Happiness [2] offer a wealth of valuable insights on the subject. (Both are on my syllabus at Stanford for The Art of Self-Coaching. [3]) One of the most significant topics Lyubomirsky addresses is the extent to which different factors contribute to happiness, a major focus of positive psychology in recent decades. But it can be easy to misunderstand Lyubomirsky’s discussion of this topic in her earlier book, and it’s important to clear up any misconceptions in order to make effective use of her research.
+
+The widely cited "pie chart" from The How of Happiness (referenced on the book’s cover above and shown at right) should correctly be understood as representing the amount of variance in happiness among individuals in Lyubomirsky's research that can be predicted by heritable traits, life circumstances, and intentional activities.
+
+It's easy to get the mistaken impression that this chart represents the relative amounts of happiness that are derived from these sources for individuals in the population at large. But this research does not (and cannot) tell us how much of a given individual's happiness is derived from each of these sources.
+
+Ed Diener, a professor of psychology at the University of Utah and the University of Virginia, as well as an emeritus professor at the University of Illinois, has addressed this potential confusion:
+
+One misunderstanding of percent of variance figures applied to the causes of human happiness is that the numbers are presented as though they apply to individuals. In other words, 45% [of] an individual's happiness is said to come from inborn temperament, 12% from demographics, and so forth. The percent figures are derived, however, from the amount of variance between individuals that is "explained" or predicted by specific variables. These numbers tell us little about the absolute importance of the variables, because people in a sample may or may not differ to the same degree on each of them, and they do not tell us how individuals would change in well-being if they were to change on these variables. It is inappropriate to interpret the figures as applying to how much an individual's subjective well-being is derived from the various causes because the numbers are derived from variation between people in specific samples. [emphasis original] The percentages might be interpreted to mean that if one were to improve one's demographics from terrible to great, one's happiness might increase by 12%, but this is a misunderstanding of what the figures mean. It is important to recognize that the percent of variance between individuals, due to various causes of happiness, depends on the range and variation between people on this factor and has no necessary connection to what might be important to altering a person's happiness...
+
+Happiness is sometimes said to be about one-half heritable, but this statement can be easily misunderstood. It is a descriptive statistic based on particular samples in particular life circumstances and might not apply to other samples--for example, ones in which life circumstances are more variable across people. That is, the "heritability" of happiness is not constant across samples. This point surprises some people because they do not realize that heritability is not the same as genetic effects.
+
+Pie-chart numbers sometimes lead researchers to view some variables as more important than other variables, and this is often mistaken. Furthermore, these figures are sometimes offered to the public as a guide to what might be the most worthwhile to change in order to achieve greater happiness. However, the causes for change in an individual's happiness might diverge from what causes differences in happiness between individuals. For instance, one person might gain an enormous boost in happiness from becoming religious, even if the amount of individual differences in happiness due to religion in a population is modest. The pie-chart way of thinking is seductive, because it is clear and simple, but it can easily lead us to think about the causes of subjective well-being in misguided ways...
+
+The percent of variance figures derived from sample statistics do not apply to individuals. [4]
+
+Another psychologist who addressed this issue was the late Christopher Peterson of the University of Michigan:
+
+One of the frequently cited conclusions from positive psychology research is that happiness results from a combination of genetics, circumstances, and voluntary activities. This is reasonable enough. Indeed, it is a virtual tautology that applies to most any human characteristic.
+
+Some positive psychologists go further and propose a happiness formula, typically a weighted sum of its components, with weights based on research with large samples of individuals. A representative set of weights is 50% genetics, 10% circumstances, and 40% voluntary activities. Again, this is reasonable enough, reflecting the research literature as I read it, although the exact weights are always a function of the samples from which they are derived.
+
+So where am I going? To the conclusion that it is thoroughly unreasonable to think that we can parse the happiness of an individual, in the moment or in general, in the same way that we can parse the happiness of samples of individuals... [emphasis original]
+
+It is not clear to me whether positive psychology authors who present such formulas intend these formulas and their weights to apply to individual people or to the specific moments of happiness that individuals experience. I do know that their readers often make these leaps because I encounter this notion with incredible frequency among my students who have read popular trade books on happiness. I spend a lot of time trying to explain heritability to them. [5]
+
+To the point raised by both Diener and Peterson regarding heritability and genetic effects, genetics scholar and journalist Razib Khan provides a helpful explanation:
+
+When someone tells you that height is 80% heritable, does that mean:
+
+a) 80% of the reason you are the height you are is due to genes
+b) 80% of the variation within the population on the trait of height is due to variation of the genes
+
+The answer is of course b. Unfortunately in the 5 years I’ve been blogging the conception of heritability has been rather difficult to get across, and I regularly have to browbeat readers who conflate the term with a. That is, they assume that if I say that a trait is mostly heritable I mean that its development is mostly a function of genes. In reality not only is that false, it’s incoherent. Heritability is addressing the population level correlation between phenotypic variation and genotypic variation. In other words, how well can genetic variation work as a proxy for phenotypic variation? What proportion of the phenotypic variation can be accounted for by genotypic variation? [6]
+
+Note that in the text of The How of Happiness Lyubomirsky is careful to specify that the research she's discussing predicts the variance in sources of happiness among individuals, not the relative weight of those sources for a given individual. That said, the illustration of the "pie chart" with the label "What Determines Happiness?" can contribute to the misunderstanding that Diener and Peterson warn against.
+
+Some comments in the book can also be misinterpreted--Lyubomirsky writes, "As we can see from the pie chart, changes in our circumstances, no matter how positive and stunning, actually have little bearing on our well-being." [7] This is accurate with regard to the variance in the sample, but it could be read as advice to an individual, in which case it may well be inaccurate for any given person. To be clear, I’m not blaming Lyubomirsky for misreadings of her work, but it's essential to have a firm grasp on what her research tells us and what it does not.
+
+With that caveat, here's a summary of my current understanding of the research on happiness:
+
+- Happiness matters. Relative to unhappy people, happy people do better on any number of measures, from income to longevity.
+
+- More happiness isn't necessarily better. (As Peterson notes, while the happiest people are more successful at close relationships, people who are slightly less happy--although not unhappy--are more successful at work and in school. [8])
+
+- We've traditionally understood happiness as a function of life circumstances, such as income. This view overlooks two important sources of happiness: genetics and intentional activities.
+
+- Our life circumstances--including income--may matter less than we think. Life circumstances predict relatively little of the difference in happiness between individuals in much of the research, although the role life circumstances play in the happiness of any given individual will vary substantially.
+
+- There is a correlation between income and life satisfaction, but this does not imply causation. There is also a point of diminishing returns, although the precise inflection point varies from study to study. (As Diener notes, the relationship between money and happiness is complex and still not fully understood. [9])
+
+- Hedonic adaptation diminishes the impact of life circumstances on our happiness over time, although changes in our circumstances may alter our baseline level of happiness. The specific impact of any changes and of our ability to adapt to them will vary for any given individual, but it's worth noting that our traditional narrative about the sources of happiness and their longevity are often incorrect. [10,11]
+
+- Our genes do play a role in our happiness, but even our "set point" is not fixed. [12]
+
+- Intentional activities are an often overlooked source of happiness. These are the "happiness strategies" discussed by Lyubomirsky, and they predict a significant amount of the difference in happiness between individuals in much of the research, although, again, this will vary for any given individual, and subsequent research has shown that the overall impact of intentional activities is likely smaller than originally estimated. [13]
+
+- Although our genetic set point isn't permanently fixed, due to the impact of our environment and developmental experiences on which genes are expressed and how, our genes are, obviously, predetermined. And although life circumstances do have an impact on our happiness, 1) that impact may be substantially less (and shorter-lasting) than we imagine it to be, and 2) changes in life circumstances are often difficult and occasionally impossible to bring about through deliberate effort. In contrast, small-scale, intentional activities may have a much larger impact on our happiness than we imagine, and by definition they are easy to put into practice.
+
+- Consequently, many people may find that engaging in some of these intentional activities have a surprisingly large (and persistent) impact on their happiness. We all respond differently to various activities, so it's important to choose the right ones, and here Lyubomirsky's Person-Activity Fit Diagnostic is a useful tool.
+
+ 
+
+Footnotes
+
+[1] The How of Happiness: A New Approach to Getting the Life You Want (Sonja Lyubomirsky, 2007)
+
+[2] The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does (Sonja Lyubomirsky, 2014)
+
+[3] Class 5: HAPPINESS and Class 8/9: SUCCESS
+
+[4] Myths in the science of happiness, and directions for future research, pages 497-499 (Ed Diener, 2008)
+
+[5] Pursuing the Good Life: 100 Reflections on Positive Psychology, pages 71-73 (Christopher Peterson, 2013)
+
+- This volume is a collection of Peterson's blog posts for Psychology Today from 2008 through 2012.
+
+[6] Genetic vs. heritable trait (Razib Khan, Discover, 2007)
+
+[7] The How of Happiness, page 40
+
+[8] Peterson, page 69
+
+[9] Diener, pages 499-503
+
+[10] The How of Happiness, pages 48-52
+
+[11] Pain, Suffering and Hedonic Adaptation
+
+[12] Diener, pages 494-496
+
+[13] Revisiting the Sustainable Happiness Model and Pie Chart: Can Happiness Be Successfully Pursued? (Kennon Sheldon and Sonja Lyubomirsky, The Journal of Positive Psychology, 2019)
+
+Updated March 2021.
+
+Cover photo of The How of Happiness courtesy of the Positive Psychology Program.
+
+
+===== END ED BOT ESSAY 3952 =====
+===== BEGIN ED BOT ESSAY 3953 =====
+---
+title: Thank You, Jed and Melinda
+url: https://edbatista.com/2017/12/thank-you-jed-and-melinda.html
+slug: thank-you-jed-and-melinda
+published: 2017-12-14T10:03:00
+updated: 2025-09-24T11:58:12
+source_body: wordpress-html
+---
+
+Thankfulness has been on my mind recently, so it was a welcome surprise this morning to see the photo above accompanying an article on the Roberts Enterprise Development Fund (REDF). It shows Jed Emerson, George Roberts, and Melinda Tuan sometime in the 1990s, which is when I met Jed and Melinda. George is in the center as a sign of respect for his seniority and status--he's the billionaire who funded REDF--but it's Jed and Melinda who had a profound impact on my life and to whom I remain deeply grateful.
+
+In 1996 Melinda was an MBA student at Stanford who was considering a summer internship at Compass Family Services, where I was serving as Associate Director. She wound up spending her summer elsewhere, but she made a powerful impression on me, and we stayed in touch. Her example taught me that business school could be a place where someone could pursue entrepreneurship and social impact.
+
+The following year Stanford hosted a conference on entrepreneurship, and I attended the nonprofit track, which Melinda had organized. I saw Jed speak there--he was the founding CEO of REDF, and Melinda would join him after graduation as Managing Director--and I was thrilled to see that the room was overflowing, with people sitting on the stairs.
+
+I was struck by Jed's blunt candor and sharp sense of humor, as well as his email address, which he wrote on the board: Live4Punk@... He also made a powerful impression on me, and his example taught me that people could be themselves at a business school--they didn't have lose their identities in a conformist crowd.
+
+I was so inspired by both of them. I thought, "If this school supports people like Jed and Melinda, then this is where I need to be!" I applied to the MBA program and was thankful to be accepted, but I had no idea at the time what an amazing course my life was now set upon.
+
+Two decades later, I am so incredibly fulfilled by my work as a coach and teacher, and it would not have happened without the two of them. Thank you, Jed and Melinda.
+
+
+===== END ED BOT ESSAY 3953 =====

@@ -1,0 +1,192 @@
+===== BEGIN ED BOT ESSAY 3342 =====
+---
+title: Mission of Burma: Snapshot & The Obliterati
+url: https://edbatista.com/2006/01/mission_of_burm.html
+slug: mission_of_burm
+published: 2006-01-31T00:21:00
+updated: 2006-01-31T00:21:00
+source_body: wordpress-html
+---
+
+Um, can someone please tell me where the hell I've been? Mission of Burma's had a new live EP out for over two months and I hear about it for the first time today? Snapshot is only available as an iTunes download (standard Apple pricing, so it's $7.92 for eight songs). Here's a track by track review on first (and second) listen:
+
+- Tremolo: Great stuff. More...thoughtful than the version from The Horrible Truth About Burma. I wouldn't say it's better, but it's a worthy addition to the canon.
+
+- Mica: In the same vein. Not quite as urgent as the kick-ass original on Vs., but still solid. Bob Weston fills in for Martin Swope really well almost everywhere, but I do miss Swope's work here.
+
+- Youth of America: Cover of a Wipers song, which I think Burma might have played when I saw them in May 2005 in DC. Sounds vaguely familiar, at any rate. A nice psychotic break by Roger Miller mid-song, but otherwise just so-so.
+
+- Absent Mind: The only song from 2005's ONoffON, and not the cut I would have chosen. I always want to like Peter Prescott's songs more than I actually do. I don't begrudge him the airtime--I have to assume that Burma's egalitarian approach to songwriting has a lot to do with their overall aesthetic and even helped get them back together. But...oh, well.
+
+- Red: The neglected gem from Signals, Calls and Marches. Great song, great version, with an outstanding Bob Weston/Roger Miller freakout.
+
+- That's How I Escaped My Certain Fate: Can I say "anthemic" without calling down the Poseur Police? OK, then: anthemic. Gets my sclerotic heart racing every time.
+
+- Max Ernst: Solid effort--very heavy and dark. It's a bit overrated because Rykodisc left it off that compilation years ago, and only elderly punks who bought the original 7" had heard it...but I digress.
+
+- Dirt: Great song, one of my favorite Burma tunes...and I know I sound like a dipshit math rock nerd when I say this...but the version here--basically the same as the one from ONoffON--seems just a little slower than the one from Mission of Burma/Peking Spring. Doesn't it? It doesn't? Well, I just like the old one better--my sclerotic heart needs the boost.
+
+Bottom line: Probably only for obsessive Burma fans--but are there any other kind? David Raposa has a good review in Pitchfork as well--I think he went a little easy on them (8.2!), but it's a well-written piece.
+
+And on top of all this Burma's new album, The Obliterati, will be released on May 9th, and they're about to start a tour that will bring them to little old San Francisco on February 23rd. See you there.
+
+tag: mission of burma
+
+
+===== END ED BOT ESSAY 3342 =====
+===== BEGIN ED BOT ESSAY 3343 =====
+---
+title: Wikipedia Edited, Dog Bites Man
+url: https://edbatista.com/2006/01/wikipedia_edite.html
+slug: wikipedia_edite
+published: 2006-01-30T11:41:00
+updated: 2006-01-30T11:41:00
+source_body: wordpress-html
+---
+
+Verne Kopytoff has a "What's Web 2.0?" article in today's SF Chronicle,
+
+and in general it's a fine primer on the concept, neither too credulous
+
+nor too cranky. I particularly liked this quote from Dave Winer, which
+
+Kopytoff pulled from Winer's Scripting News:
+
+Web 2.0 is a way for certain marketing people to claim they invented
+
+stuff that they didn't invent, without actually claiming they invented
+
+it.
+
+Although Kopytoff doesn't include the full quote in the Chron, Winer's original post goes on to say:
+
+[Web 2.0 is] the kind of double-talk marketing guys love.
+
+In a sense people are right when they say it's another bubble. It's
+
+dishonest like the bubble was. Yet the technologies they're hyping are
+
+honest.
+
+Winer's full quote gets at the essence of Web 2.0: a marketing buzzword that nevertheless represents something real.
+
+I understand Winer's resentment of marketing bullshit and appreciate
+
+his ability to cut to the heart of the matter, but some buzzwords which
+
+start out as pure marketing-driven hype gain traction because they
+
+effectively translate technical issues for non-geeks like me. Of
+
+course, they're subject to abuse by unscrupulous flacks, but that
+
+doesn't make the terms themselves illegitimate. (For more on
+
+buzzwords, Tim Oren had some interesting thoughts on the useful purposes they serve, which I excerpted last year.)
+
+But Kopytoff goes astray when he backhands Wikipedia:
+
+The reputation of Web 2.0 was recently sullied by Wikipedia, the online
+
+encyclopedia written by volunteers. Held up as a shining example of Web 2.0, it
+
+suffered a scandal after one of those amateur contributors rewrote history by
+
+accusing a former government official of being involved in the Kennedy
+
+assassinations. [emphasis mine]
+
+Scandal?
+
+Really? That strikes me as absurd. Crackpots screw around with
+
+Wikipedia entries every day. That's the price of having an open system
+
+which anyone can edit--it's not called Wikipedia for nothing. But errors are typically corrected within minutes.
+
+And debates will rage over controversial and highly politicized topics
+
+where a definitive answer can't be found, but that's as true within
+
+Wikipedia and other user-supported systems as it is anywhere.
+
+This isn't a scandal--it isn't even a story. It's the way Web 2.0 (sorry, Dave) works. It's the wisdom of crowds.
+
+By allowing everyone--no matter what their authority or credentials (or
+
+lack of same)--to contribute to the intellectual marketplace that is
+
+the Web, we guarantee the system's fluidity and maximize accuracy at
+
+the macro level. Of course we sacrifice accuracy at the micro
+
+level--with no editorial apparatus constraining the system, anything
+
+you read at any given moment could be total bullshit. But in a free,
+
+open and fluid intellectual market, bad ideas will eventually be driven
+
+out by better ones--and sooner rather than later.
+
+Perhaps it's not surprising that a newspaper article completely
+
+misses this point, but it is sad. I love newspapers, and I don't want
+
+to see them die--I want to see them adapt and thrive. I'm hopeful that
+
+publishers and journalists--the smart ones, anyway--will find a way to
+
+do that.
+
+tags: web 2.0 wikipedia verne kopytoff dave winer
+
+
+===== END ED BOT ESSAY 3343 =====
+===== BEGIN ED BOT ESSAY 3344 =====
+---
+title: What's Up, Doc?
+url: https://edbatista.com/2006/01/whats_up_doc.html
+slug: whats_up_doc
+published: 2006-01-29T16:15:44
+updated: 2006-01-29T16:15:44
+source_body: wordpress-html
+---
+
+Just for you, Amy.
+
+
+===== END ED BOT ESSAY 3344 =====
+===== BEGIN ED BOT ESSAY 3345 =====
+---
+title: That's Totally Pop!
+url: https://edbatista.com/2006/01/thats_totally_p.html
+slug: thats_totally_p
+published: 2006-01-28T19:35:14
+updated: 2006-01-28T19:35:14
+source_body: wordpress-html
+---
+
+Ever since Cat Power's cover of the Nerves' "Hanging on the Telephone" has reawakened my obsession with that song, I've been searching for a copy of That's Totally Pop!, the 1992 CD released by the French Revenge label, which includes the Nerves' first 7", Jack Lee's 1981 solo LP, a and Plimsouls EP.
+
+If you have a copy or know where I can find one, please let me know by dropping a comment below. Many thanks.
+
+UPDATE: Ask the Internets, and ye shall receive. I was recently in touch with someone who owned "That's Totally Pop!" and he offered to send me a copy for free. As if that weren't generous enough, today an anonymous donor or donors, known only as Friends of Power Pop, sent me a copy in the mail, entirely unsolicited. That's a little creepy, but it's a thoughtful gesture nonetheless, and I appreciate it.
+
+I've been listening to it pretty regularly for a few weeks now, and...it's a mixed bag. The Nerves' EP is intermittently brilliant. "Hanging on the Telephone" seems to be the same version on the Come Out and Play comp, but it sounds richer somehow--making it merely the best version of the best pop song in history. I admit I'm probably imagining the enhanced sound--but don't even think that another pop song could come close. Just don't.
+
+A live version of "Are You Famous?" sounds like it was recorded at the bottom of a well, but I still find it unbelievably haunting and compelling. "Paper Dolls" and "Give Me Some Time" are near-perfect pop nuggets, and I know some people feel the same about "When You Find Out" (here in live and studio versions), but it's not really a personal favorite. Four other, lesser songs round out the EP--good, but not great.
+
+The Plimsouls' songs are a smile-inducing time capsule from the early '80s. I wasn't listening to them back in the day, but their sound--rootsy power pop, with some jangly guitars and Farfisa thrown in for good measure--brings to mind any number of small, earnest, wonderful bands I loved back then. And although they never hit the heights scaled by the Nerves, every song's solid.
+
+Tragically, the same can't be said of Jack Lee's "Greatest Hits, Vol. 1," the solo album that takes up nearly half of "That's Totally Pop!" Given how much I love the Nerves' best work, this was really disappointing. It has all the makings of a neglected classic--unfortunate band-breakup backstory, hubristic title, and a killer cover. It even has some potentially great songs, including four Nerves cuts, most notably a re-recorded "Hanging on the Telephone."
+
+But it's simply not a good record--it's not really power pop and definitely not postpunk. It's just flabby, listless, boring rock. The soul-sucking '80s production hurts even the best songs--"Hanging on the Telephone" is a ghost of its former self. It's depressing, really. I'll always wonder what might have happened had Jack Lee,
+
+Peter Case and Paul Collins found a way to keep the Nerves together--hey, they could have been The Knack--but based on "Greatest Hits" it doesn't appear that Jack was cheated out of a great post-Nerves career.
+
+So there you are. If you love the Nerves or the Plimsouls, track down a copy of "That's Totally Pop!"--it'll be worth your while. If you're just curious about Jack Lee's solo work, well, I'd let it go. But the guy did write the greatest song ever--a little respect, OK?
+
+tags: nerves jack lee plimsouls peter case paul collins power pop
+
+
+===== END ED BOT ESSAY 3345 =====

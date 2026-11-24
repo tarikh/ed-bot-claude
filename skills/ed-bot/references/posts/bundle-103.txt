@@ -1,0 +1,206 @@
+===== BEGIN ED BOT ESSAY 3507 =====
+---
+title: On Gratitude: One Hand Clapping
+url: https://edbatista.com/2007/02/on_gratitude_on.html
+slug: on_gratitude_on
+published: 2007-02-20T10:42:05
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+Yesterday I sprained my wrist skating in Golden Gate Park. It might be broken--I'm getting an X-ray later this morning to find out. The pain is manageable as long as I keep it still, and I've broken my wrists three times and sprained them even more, so I'm familiar with the drill and expect all will be well in a few weeks.
+
+But I'm surprised by how upset I've been to have my typing speed reduced by about 90% and to be essentially unable to write (it's my left wrist, and I'm left-handed.) This is partly because I love my work and I hate to think about the hit my productivity is going to take, but at a deeper level, I feel cut off from people because I can barely type a coherent email (this post is a trial) and even from my own thought processes because I learn by taking copious handwritten notes.
+
+I was feeling a little sorry for myself this morning when I saw Jessica Guynn's article on Kaboodle co-founder and CTO Keiron McCammon in the S.F Chronicle. McCammon had to have his left hand amputated following a paragliding accident just over a year ago. Guynn writes...
+
+Today, McCammon has not only adjusted, he is thriving. He swapped his Jeep
+
+Wrangler for a Toyota Prius with the license plate 1 HANDED, commuting 80 miles
+
+round-trip from his Danville home in the carpool lane. He types with four
+
+fingers on one hand rather than pecking at the keyboard with two fingers on
+
+each. He has experimented with prosthetics so he can get back to the activities
+
+he enjoys, from practicing yoga to riding a bike to playing the guitar. This
+
+winter, he hit the slopes to snowboard again. As an amputee, he gets half-price
+
+lift tickets.
+
+Guynn also quotes one of Kaboodle's VC investors...
+
+"[McCammon] obviously went through a lot of pain, and that would have affected my
+
+psychology," said Rajeev Motwani, one of the original investors in Google. "It
+
+would have made me a bit sour. But I have never once heard him complain about
+
+anything. That's what you look for (when) you invest in a company: a founder
+
+who has ownership of what he is doing and does whatever it takes to make it
+
+succeed. Keiron is a wonderful example."
+
+Well, that helped me put things in perspective right quick. Rather than feel self-pity, I feel incredibly grateful for the fact that my disability is just temporary, for the good health I'm blessed with 99% of the time, for the opportunity to do work that I love (and that I can do one-handed, just at a slower pace), and for my wife, who's cheerfully taken on all household duties requiring both hands. It's a refreshing reminder of just how good I have it.
+
+Read more about McCarron's experiences at A One Handed Blog.
+
+UPDATE: Good news--my doctor thinks I just tore some soft tissue. He's sufficiently confident that no bones are broken that he didn't even want an X-ray--he just told me to watch the pain and check back in if it doesn't improve. I can't put weight on my left hand, and certain arm movements are pretty painful, but I CAN type with just a little discomfort. I can even write if I'm careful to hold my wrist still. So my gratitude continues to grow.
+
+
+===== END ED BOT ESSAY 3507 =====
+===== BEGIN ED BOT ESSAY 3508 =====
+---
+title: Soft Skills for MBAs
+url: https://edbatista.com/2007/02/soft_skills_for.html
+slug: soft_skills_for
+published: 2007-02-14T04:00:00
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+From Phred Dvorak's February 12 article on M.B.A. Programs Hone "Soft Skills":
+
+[B]usiness schools are devoting [greater attention] to topics such as
+
+teamwork, leadership and communicating -- the "softer" side of
+
+management. Typically, those soft skills got shorter shrift in M.B.A.
+
+programs than "hard" skills such as strategy or financial analysis.
+
+The schools are responding to employers' growing
+
+interest in soft skills. Executive suites are increasingly composed of
+
+managers running far-flung operations who must attract and retain
+
+knowledgeable workers. That puts a premium on skills such as
+
+communicating and brokering compromises...
+
+The Stanford Graduate School of Business this fall
+
+will revamp its leadership-training curriculum, requiring all
+
+first-year students to take personality tests, participate in teamwork
+
+and management-simulation exercises and critique their people skills.
+
+The school will bring in executive coaches to watch the simulations and
+
+offer advice. The training is aimed at getting students to look at how
+
+they behave and how effective they are, says Evelyn Williams, an expert
+
+in leadership simulations who is overseeing much of the new coursework.
+
+Our M.B.A. students "can pontificate like the best of them. But can they do?" says Ms. Williams.
+
+As I wrote back in December, I'm one of those executive coaches now working with Evelyn at the Stanford GSB's Center for Leadership Development & Research. My colleagues and I are "watching simulations and offering advice," but we're doing a lot more as well.
+
+We're supporting the new Leadership Fellows program headed up by Evelyn, which offers a select group of MBA students the opportunity to develop their leadership and team-building skills, which they'll help teach to the First Year students next fall. We're facilitating T-groups in the school's Interpersonal Dynamics class and supporting other Organizational Behavior courses in coach, mentor and teaching assistant roles. We're developing assessment tools to help students better understand their strengths and areas for development as a leader--and all that's just a start.
+
+These and other activities form an important component of the business school's new curriculum, which...
+
+...includes expanded leadership and communication
+
+development. The Strategic Leadership course [which includes sections to be taught by Leadership Fellows] will integrate strategy with
+
+leadership development and implementation. Critical Analytical Thinking
+
+will have as a major feature the honing of students’ written and oral
+
+communication skills. In a new capstone seminar near the end of the two years,
+
+students will synthesize what they have learned, examine strengths and
+
+weaknesses in their personal leadership style, and reflect on how they hope to
+
+achieve their goals as they embark on their careers.
+
+I'm excited to be a part of this initiative at the GSB (where the leadership development opportunities were a lot more limited when I was a student a decade ago), and I'm firmly convinced that this increased emphasis on "soft skills" will prepare these students to be far more effective leaders not just later in their careers but right out of the gate.
+
+
+===== END ED BOT ESSAY 3508 =====
+===== BEGIN ED BOT ESSAY 3509 =====
+---
+title: The Problem with Positive Feedback
+url: https://edbatista.com/2007/02/the_problem_wit.html
+slug: the_problem_wit
+published: 2007-02-13T00:52:00
+updated: 2025-10-06T11:00:34
+source_body: wordpress-html
+---
+
+A common theme in my coaching and teaching is the ineffectiveness of positive feedback. It frequently fails to make an impact, and at times it can even cause intense anxiety. But isn't praise supposed to make us feel good? What's happening here? I see three factors at work:
+
+1. Waiting for the Other Shoe
+
+When we deliver negative feedback (or any unpleasant message), we often try to soften the blow by leading with something positive. As a result, people on the receiving end may come to hear positive feedback as a hollow preamble to the real message. Rather than feeling genuinely appreciated, they're waiting for the other shoe to drop.
+
+2. Staying Out of Debt
+
+A related dynamic is the use of positive feedback to overcome resistance to a request or a demand. The feedback can create a sense of obligation, a "social debt" that the recipient feels compelled to "repay" by acceding to the giver's wishes. There's an underlying logic here, but there's also an inherent contradiction: Most people don't like being indebted and don't feel good when they are.
+
+3. Currency Devaluation
+
+Like any currency, positive feedback loses value when there's too much in circulation. Psychologist Richard Farson and business author Ralph Keyes have noted that too much praise can render positive feedback effectively useless: "In the workplace, praise can become what is called a 'dissatisfier.' Like a salary, it is less likely to motivate when it’s given out than demotivate when it’s expected but withheld." [1]
+
+So how can we avoid these traps?  Three recommendations:
+
+1. Don't Abuse Soft Startups
+
+Although research supports the value of "soft startups" that initiate difficult conversations on a positive note, feedback given in that context should be authentic and relevant to the issue at hand. [2] Learn how to deliver critical feedback candidly and directly while minimizing the risk of defensiveness. [3] Don't abuse the soft startup principle by swaddling a substantive critique in superficial praise.
+
+2. Just...Stop
+
+Try giving some positive feedback...and stopping.  Don't overdo it--bear in mind that too much praise will eventually have the same effect as no praise at all.  But by uncoupling positive feedback from any goals other than acknowledging and expression appreciation for the recipient, you can increase its value as a motivator.
+
+3. Be a Better Recipient
+
+Finally, in addition to being more thoughtful about giving positive feedback, we may also need to be more thoughtful about receiving it. [4] If we blindly react to praise with (in Peter Vajda's words below) "skepticism, dis-belief, arm's-length appreciation,and/or embarrassment," that's going to make the giver feel awkward, if not resentful, and it's going to keep us from developing a stronger relationship.  As always in interpersonal dynamics, it's a two-way street.
+
+Footnotes
+
+[1] The Failure-Tolerant Leader (Richard Farson and Ralph Keyes, Harvard Business Review, 2002)
+
+[2] The Value of Soft Startups
+
+[3] How to Deliver Critical Feedback
+
+[4] Make Getting Feedback Less Stressful
+
+Photo by Aaron Matthews.
+
+
+===== END ED BOT ESSAY 3509 =====
+===== BEGIN ED BOT ESSAY 3510 =====
+---
+title: 5 Things You Didn't Know
+url: https://edbatista.com/2007/02/5_things_you_di.html
+slug: 5_things_you_di
+published: 2007-02-11T21:29:00
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+I've been tagged by Greg Yardley and Michael Stein (no, not that Michael Stein, the other one)  so here are five things you probably didn't know about me...
+
+1) My Undergraduate Wanderings: I attended three different colleges before graduating.  I spent my freshman year at Duke but then decided that I wanted to go to art school and (more importantly) needed to be closer to a girl who was at Dartmouth.  So I spent the next two years at the School of the Museum of Fine Arts in Boston, where I learned how to work my ass off in order to get the most out of my talents.  After two years I was ready to return to academia, but with the hubris exuberance of youth, I decided that if I didn't get into Brown, I wasn't going back to college.  I didn't have much of a Plan B, but thankfully the admissions office gave me a shot.  My time at Brown was unbelievably fulfilling, and the whole experience was a lesson in not giving up and coping with change.  And I married the girl.
+
+2) My Brief Musical Career: While I was in art school in Boston, I worked in a restaurant kitchen for a few months with Charles Thompson IV, aka Black Francis of the Pixies.  I told Charles that I wanted to learn to play guitar, and he said he had an old amp that he wasn't using anymore.  I dropped by the Pixies' practice space, and Charles gave me a Fender Bandmaster.  I was never any good as a guitar player, but I had some fun and hung on to that amp for ten years.  A few years after college, my brother David--a drummer--joined me in San Francisco and we kinda-sorta started a band.  While David was waiting for the rest of us to get our act together, he started "legendary angry emotional hard core" band John Henry West with some friends and went on to tour the country econo-style a few times.
+
+3) What I Did On My Summer Vacation: In the summer of 1997 I took six weeks off from work and rode a motorcycle around the US--literally.  From San Francisco to Needles, CA to Cleveland, TN to Boston to Yakima, WA and back to SF.  One of the most vivid and challenging experiences of my life.  I still have the bike, an '84 Yamaha FJ 600 just like this one, but I haven't ridden seriously in years; maybe this summer I'll take a ten-year anniversary jaunt.
+
+4) I Love Sad Movies: I'm a total sucker for them, from intense dramas to lightweight tearjerkers.  It started with The French Lieutenant's Woman, which I saw on cable when I was in high school, and has continued right up through The Notebook, which I saw on DVD last year.  I think it began because it was a (marginally) acceptable opportunity to cry as a boy, and even though I'm much more comfortable crying as a man, it's still a cathartic experience.
+
+5) My Three Favorite Songs...are John Coltrane's India, Brad Mehldau's solo piano cover of Paranoid Android, and The Nerves' original Hanging on the Telephone.  Well, those are the all-timers, anyway; my favorite this week is probably Amy Winehouse's Rehab.  And my favorite album, track for track, is Haywood's We Are Amateurs, You and I.  (Note that everyone from Amazon to Last.fm misspells it.)
+
+Thanks, Greg and Michael--that was fun.  I'm tagging Noah Brier, Sage Cohen, and Greg Neichin, three fascinating people I know from widely disparate aspects of my life.
+
+
+===== END ED BOT ESSAY 3510 =====

@@ -24,7 +24,7 @@ For ordinary coaching, **do not pair** *Leading with Inquiry (How to Have a Bett
 
 ### Select sources for both the reaction and the conditions
 
-A source set entirely about receiving feedback can leave the underlying pressure unexamined. Read a source on the interpersonal process and one on the management problem. Useful starting points are [Defensiveness Is in the Eye of the Beholder](posts/4201.txt), [Four Responses to Feedback](posts/4224.txt), and [You Don't Have to Do All the Thinking Yourself](posts/4232.txt). Locate titles through the connected search and read returned full essays, or use the bundled source files. Choose by the person's situation, not a mandatory three-article list.
+A source set entirely about receiving feedback can leave the underlying pressure unexamined. Read a source on the interpersonal process and one on the management problem. Useful starting points are [Defensiveness Is in the Eye of the Beholder](posts/bundle-272.txt), [Four Responses to Feedback](posts/bundle-278.txt), and [You Don't Have to Do All the Thinking Yourself](posts/bundle-280.txt). Locate titles through the connected search and read returned full essays, or use the bundled source files. Choose by the person's situation, not a mandatory three-article list.
 
 Ed's defensiveness essay treats the label as contextual and explains that feedback deserves investigation without requiring agreement. Four Responses distinguishes changes with different costs and invites partnership on difficult changes. You Don't Have to Do All the Thinking Yourself discusses inviting others into problems rather than carrying all the thinking alone. These contributions support different parts of the dilemma. Check the complete text before attributing a particular point.
 
@@ -78,7 +78,7 @@ Then connect these stakes to the role-fit and improvement-or-transition analysis
 
 ### Read about managing and deciding, not only delivering feedback
 
-For a senior employee, read at least one source on executive performance/fit or transitions before treating the task as a communication problem. Starting points are [The Problem with Hot-Swapping (On Exec Transitions)](posts/4214.txt), [The Antidote to "Manager Mode" is Actual Management](posts/4240.txt), and [The Evolution of the Executive Team](posts/4190.txt). A communication source can help with execution; it does not replace deciding what is fair or whether improvement is genuinely possible.
+For a senior employee, read at least one source on executive performance/fit or transitions before treating the task as a communication problem. Starting points are [The Problem with Hot-Swapping (On Exec Transitions)](posts/bundle-275.txt), [The Antidote to "Manager Mode" is Actual Management](posts/bundle-282.txt), and [The Evolution of the Executive Team](posts/bundle-269.txt). A communication source can help with execution; it does not replace deciding what is fair or whether improvement is genuinely possible.
 
 Hot-Swapping examines contextual causes, insufficient critical feedback, the person's response and the risks of a supposedly seamless replacement. Actual Management describes clear ownership, deadlines, quality standards, check-ins and intervention. Executive Team discusses balancing close relationships with rigorous assessment, including excessive loyalty when a personal relationship is at stake. Read the actual articles before attributing these ideas. If presenting Douglas McGregor's Theory X/Y or Amy Edmondson's psychological safety as frameworks, preserve their creator credits.
 

@@ -1,0 +1,300 @@
+===== BEGIN ED BOT ESSAY 3930 =====
+---
+title: What I Learned in the Hospital This Weekend
+url: https://edbatista.com/2017/04/what-i-learned-in-the-hospital-this-weekend.html
+slug: what-i-learned-in-the-hospital-this-weekend
+published: 2017-04-09T07:52:49
+updated: 2025-10-09T14:07:43
+source_body: wordpress-html
+---
+
+I'll return to writing about leadership, coaching, and related issues tomorrow, but the events of this past weekend merit a brief digression. I woke up at 1:30am on Friday with abdominal pain. It was the night before my first class in The Art of Self-Coaching, and I couldn't believe my bad luck. I love teaching this course, and there was no way I was going to miss the first session, but I really wanted to be well-rested and feeling my best, and apparently that wasn't going to happen.
+
+I made it to Stanford and was able to put the pain entirely out of my mind once class began. (I had a similar experience four years ago, when a blown disk in my back left me in near-constant pain for about 6 months, but the pain disappeared when I was intensely focused--typically in a coaching session.) But by early afternoon the pain had lasted long enough and was severe enough that I could think of nothing else. I had returned home, and Amy and I agreed that we should go to the hospital, and we went to St. Mary's, which is the building tinted yellow in the photo of San Francisco above.
+
+I was diagnosed with appendicitis and scheduled for an appendectomy later that evening. The surgery was successful, and I spent Friday night and most of the following day in the hospital before being discharged late Saturday afternoon. Now it's just over 48 hours since the entire experience began, and while I'm still taking pain medication and will have to lighten my workload this coming week, I feel almost normal.
+
+But that's an illusion, one that I'm particularly prone to given my generally fast recovery time from difficult experiences. While such resilience is often a great strength of mine, it can also be a weakness, because I rush past those experiences and can fail to learn from them. And this experience definitely taught me a few things.
+
+The back pain I experienced four years ago was, at times, truly agonizing. There was a moment before it was diagnosed when I was lying on the floor nearly frantic with desperation at the thought of feeling this way for the rest of my life. I certainly didn't think I'd experienced the worst suffering possible, but I was still surprised at how much worse my pain was this weekend. Perhaps there's something about abdominal pain that makes it harder to bear than muscular or skeletal pain--I don't fully understand the cause. But I had some moments on Friday night that are seared into my memory.
+
+The pain worsened after I was admitted to the ER, and at one point the staff were in the process of running some tests but hadn't yet diagnosed the appendicitis, and they were administering pain medication but I wasn't feeling any better, and suddenly I became truly frantic, desperate for relief. Tears were streaming down my face, and I felt both humiliated and aware that it was ridiculous to feel humiliation in these circumstances. I felt like a helpless child, and before the meds kicked in the only comfort to be found was in holding Amy's hand as she sat next to me, wiping my tears away.
+
+The meds did kick in, thankfully, and the ER team diagnosed my condition and were able to schedule me for surgery very quickly, but it was a Friday night in a busy hospital, so it was going to take a little time to get me in the OR. We eventually made it to pre-op, and at that point the meds began wearing off, and I felt a new and different kind of pain. It wasn't a frantic feeling, as it had been in the ER, because I knew what was happening and that I was getting the help I needed. That conscious awareness kept the desperation at bay, but it still seemed as though time had stopped, and that I was trapped in this painful state. I have never been so grateful as when they wheeled me into the ER, and anesthesiologist finally said, "In a minute you won't feel a thing."
+
+As difficult as this experience has been, it could have been so much worse in countless ways. The last year and a half has been a tough time for me and Amy as we've dealt with professional challenges, family crises, and other health issues, and while I wouldn't wish these experiences on anyone, I do think we've come out of it all better prepared to handle really hard things. I've never needed Amy's support like I did this weekend, and I don't know how I would have made it through it without her. I thought about that a lot when I saw people at the hospital alone, and it reminded me how easy it is to take the people we love for granted.
+
+There's a practical dimension to Amy's support, too--I'm well-compensated as an executive coach, but when I chose to leave my full-time role at Stanford to focus on my practice I also gave up my luxurious academic benefits and am now reliant on Amy for health insurance. I was acutely aware that having this coverage made the entire experience possible, and I have no idea what I would have done without it. While I've paid attention to the political debate over healthcare insurance in recent years, I have a heightened appreciation for the privileges I enjoy. It's terrifying to consider what this weekend would have been like under other circumstances, and yet I know that so many people face that prospect daily.
+
+Finally, I am so tremendously grateful to my doctors and nurses at St. Mary's, and I cannot thank them enough for their responsive and compassionate care. I can't remember the names of the doctors who diagnosed me in the ER, but I do remember Sunghee, the ER nurse who administered my medication and took care of me, and Neal, the technician who conducted my CT scan, and I am so thankful for all of them. I certainly remember Dr. Cerine Jeanty, my surgeon, and Dr. Miriam Castro, my anesthesiologist, who, along with the OR nurse, comprised the all-woman surgical team who took me apart and put me back together again. And among the many wonderful nurses and staff on the 7th floor who watched over me, I want to thank Honey, whose kindness and humor made a long day pass more quickly.
+
+I'm well aware of our healthcare system's dysfunction, and that fact that this work attracts so many talented, dedicated people who are willing to put up with it says something about the human spirit. We've already donated to the St. Mary's Foundation to express our appreciation, but I can't ever repay the debt I owe them. Thank you.
+
+
+===== END ED BOT ESSAY 3930 =====
+===== BEGIN ED BOT ESSAY 3931 =====
+---
+title: Leadership as a Performing Art
+url: https://edbatista.com/2017/04/leadership-as-a-performing-art.html
+slug: leadership-as-a-performing-art
+published: 2017-04-03T05:00:00
+updated: 2026-03-07T15:34:21
+source_body: wordpress-html
+---
+
+A clash between our contemporary expectations and our evolved psychological preferences inevitably puts leaders in a bind, causing cognitive dissonance and distress. The solution is viewing leadership as a performance, which has implications for how leaders comprehend their role, how they see themselves, and how they learn and grow.
+
+Most of my coaching clients are in prominent leadership positions, and a theme in my work with them is addressing the stress or discomfort they feel when fulfilling certain aspects of their role. For some this occurs in formal settings before an audience--addressing their employees at an all-hands, giving a keynote address at a conference, or pitching investors in a boardroom. For others it happens in more spontaneous interactions--closing a prospect or a potential employee, delivering critical feedback to a report, or facilitating a conflict among members of their team. Whatever the context, at one time or another most leaders have the sense of being observed and assessed on the basis of their ability to fulfill a wide range of expectations, which can trigger uncomfortable emotions ranging from mild self-consciousness to a deeper sense of inadequacy. Before considering how to address these concerns, let’s explore their origins.
+
+Contemporary leaders are constantly at risk of being caught in a trap. They must operate within two co-existing yet conflicting frames of reference: our outwardly professed preference for equality and effort, and, alternatively, our often unstated--at times subconscious--preference for hierarchy and innate ability. We say we want egalitarianism, flat organizations, and post-heroic leadership. We also claim to value people whose achievements are the result of striving and hard work over those with inborn talents. These sincere desires are important accomplishments of the modern era, reflecting centuries of collective effort to establish more a more just and enlightened social order in which we organize ourselves and assess our achievements on the basis of rational principles. And yet research suggests that preferences for hierarchy and innate ability are deeply rooted in our evolutionary psychology. Our modern preference for egalitarian, effortful leadership is self-evident, but a better understanding of our historical preference for hierarchical, natural leadership requires a brief discussion of this research.
+
+On Hierarchy
+
+Hierarchy has fallen from favor in current thinking on social structures, but Stanford professors Deborah Gruenfeld and Larissa Tiedens (now president of Scripps College) make the case that hierarchy is inevitable:
+
+Despite the fact that people do not acknowledge a preference for hierarchy, such a preference can be inferred from behavioral patterns... The strongest piece of evidence is simply the regularity with which this form of organization is produced... When scholars attempt to find an organization that is not characterized by hierarchy, they cannot... Even in modern American business settings, in which hierarchical structures and cultures are not at all in favor, people consistently choose hierarchy over its less preferable alternatives... In sum, the production of hierarchy is a central and omnipresent component of organizing... Hierarchies thus become unavoidable even when people seek greater equality. [1]
+
+Gruenfeld and Tiedens aren’t justifying or rationalizing hierarchy, and they cite a complex set of both positive and negative effects that result from hierarchical structures in organizational life, but they clearly demonstrate its persistence as an organizing principle, despite being “not at all in favor" in the current cultural climate.
+
+On Ability
+
+In 2002 Malcolm Gladwell addressed the annual convention of the American Psychological Association and proposed that humans have a “naturalness bias,” a preference for abilities and talents that we perceive as innate over those that appear to derive from effort and experience. As described by health and science journalist Bridget Murray, Gladwell noted that "On some fundamental level we believe that the closer something is to its original state, the less altered or adulterated it is, the more desirable it is." [2] He invited the assembled researchers to explore this concept further, and in 2010 Harvard psychologists Chia-Jung Tsay and Mahzarin Banaji published their results:
+
+Our findings show that given identical performances, expert participants preferred the natural, contradicting their expressed beliefs. This contradiction highlights the hidden nature of the naturalness bias, at least in a culture such as the contemporary American society, where conflicting messages about the relative importance of inborn versus learned achievement are present. [3]
+
+Tsay pursued this research further in a 2015 paper, "Privileging Naturals Over Strivers: The Cost of the Naturalness Bias":
+
+Upon reading about entrepreneurs with equivalent levels of achievement and hearing identical business proposals, participants judged the natural as more talented, more likely to succeed, and more hirable... This study demonstrates a preference for the natural even in a domain in which it is widely believed that striving and hard work are responsible for success... [A preference for] naturalness may be a built-in bias from our evolutionary past that sneaks into decisions even in the presence of a genuine and conscious belief in the importance of striving. [4]
+
+Note the parallel with Gruenfeld and Tiedens’ perspective on hierarchy: Even as we profess a preference for strivers, we exhibit a preference for naturals.
+
+Leadership as Performance
+
+The dynamics described above pose a tremendous challenge for contemporary leaders, who must find a way to fulfill contradictory sets of expectations in both of these domains. Our modern consciousness wants leaders who acknowledge and respect our desire for equal treatment and who have earned their position by virtue of hard work and effortful striving. At the same time our atavistic psychology wants leaders who act authoritatively from atop a hierarchical structure and who possess an inborn talent for charismatic command.
+
+The inherent contradiction within these desires inevitably creates cognitive dissonance for today’s leaders, a state that is heightened for those who lack experience or who operate in environments where these tensions are particularly acute (such as early-stage technology companies, which often have strongly egalitarian cultures.) Cognitive dissonance—the experience of holding two contradictory beliefs, or of taking action in opposition to a sincerely held belief—is deeply distressing for human beings, and yet it is an entirely predictable by-product of our current attitudes toward leadership. It’s no wonder that so many leaders I see in my coaching practice often wrestle with the feelings of self-consciousness and inadequacy that I describe above. So what can leaders do? If such distressing responses are unavoidable at times, how can leaders manage them more effectively? The key is viewing leadership as a performance, which has implications for how leaders comprehend their role, how they see themselves, and how leaders learn and grow.
+
+Leaders’ View of Their Role
+
+Viewing leadership as a type of performance allows leaders to manage the expectations placed upon them more effectively, and to see aspects of their role more clearly. Consider the range of activities that we commonly identify as “performances”: an actor’s portrayal of a character, an athlete’s actions in a competition, a musician’s interpretation of a song. All of these activities occur within a set of conventions, and yet they also involve substantial fluidity and improvisation. The best performers navigate these conventions dynamically, at times adhering to expected norms, and at other times challenging or even subverting them.
+
+By viewing leadership as a performance, leaders can fulfill expectations while adapting to the needs of the moment. Certain situations require a more egalitarian approach, while others require greater decisiveness or authoritative action. At certain moments leaders should emphasize their effortful striving, while at others they should highlight their innate abilities. To be clear, when such flexibility goes beyond appropriate limits, leaders lose influence by appearing disingenuous, and I’m not suggesting that leaders should act inauthentically or in opposition to their beliefs. Great leadership, like any great performance, requires a heightened sense of awareness regarding when conventions should be followed and when they should be resisted.
+
+A performance also implies the presence of an audience, and it’s essential for leaders to recognize that they are being observed at all times—not just in those circumstances when they’re literally under a spotlight before a crowd, but in every single interaction with anyone who is subject to their leadership. An advantage enjoyed by the performers noted above is the clearly defined boundary distinguishing the public arena from the privacy of backstage or the locker room. But leadership performances don’t end when the keynote address is finished or the meeting is concluded—those events merely signify a transition into a subsequent stage of the performance before a different audience.
+
+This can come as a surprise to first-time leaders or those new to a prominent position, which is problematic in several ways. The surprise a leader feels when they realize that they’re actually still performing even (and especially) when they thought they were off duty is a common source of distress and fatigue, and it’s essential for leaders to recognize that their performance begins the moment they leave home and doesn’t end until they return. Such intensive demands are depleting, and leaders must establish sufficiently private spaces and relationships within which they are free from concerns about meeting expectations or acting according to established convention.
+
+Leaders’ View of Themselves
+
+Viewing leadership as a performance also allows leaders to see themselves in different and helpful ways. A performer adopts the appropriate persona necessary to fulfill the requirements of the performance. Actors, athletes, and musicians all step into a persona they’ve crafted to fit the needs of their particular venue, and they’re well aware that their individual identity transcends that persona. Author Steven Pressfield describes this aptly in a discussion of what it means to "be a professional":
+
+The pro stands at one remove from her instrument--meaning her person, her body, her voice, her talent--the physical, mental, emotional, and psychological being she uses in her work... The professional identifies with consciousness and her will, not with the matter that her consciousness and will manipulate to serve her art. Does Madonna walk around the house in cone bras and...bustiers? She’s too busy planning D-Day. Madonna does not identify with "Madonna." Madonna employs "Madonna." [5]
+
+Similarly, a leader must be able to adopt the (multiple and various) personas that are necessary to allow them to successfully deliver the (multiple and various) performances that are required of them. Addressing the issues raised above, an effective leader must cultivate both an egalitarian persona and a hierarchical persona, a persona that accentuates their hard work as well as a persona that underscores their natural talents.
+
+Again, I’m not suggesting that leaders should act inauthentically. A persona implies a gap between our inner self and the constructed self that we present to the world, and leaders must pay close attention to the size of that gap. When it’s too large, leaders are rightly perceived as inauthentic and lose influence. And when that gap is too small, leaders can be insufficiently attuned to the needs of the situation, or can find themselves depleted by the demands of the role.
+
+How Leaders Learn and Grow
+
+A further benefit of viewing leadership as a performance is its positive impact on leaders’ ability to learn and grow, specifically by providing an alternative perspective on the stress and discomfort experienced by leaders when fulfilling certain aspects of their role. As I mentioned at the beginning of this essay, almost all of my clients experience these unpleasant emotions at one time or another in their capacity as leaders. An unfortunate conclusion that many leaders draw from this response is, “I’m not good at this particular leadership task,” or, even worse, “I’m not a good leader.” This response is rooted in a set of interlocking dynamics: the naturalness bias discussed above, a related mindset that views talent as fixed and immutable, and a common but misguided understanding of authenticity.
+
+One of the pernicious effects of the naturalness bias is overemphasizing the value of innate ability while downplaying the importance of persistent effort. As I note above, in certain circumstances leaders benefit by highlighting their inherent talents, but leaders also need to realize that they themselves are subject to the naturalness bias when assessing their own capabilities. When leaders experience stress or discomfort, it’s essential to avoid falling prey to this bias and to bear in mind the substantial body of research that indicates the importance of effortful striving. Some of the most influential work in this field has been done by Florida State University psychologist Anders Ericsson and his colleagues, who stress the importance of persistent effort in top performance:
+
+Individual differences, even among elite performers, are closely related to assessed amounts of deliberate practice. Many characteristics once believed to reflect innate talent are actually the result of intense practice extended for a minimum of 10 years. [6]
+
+A dynamic closely related to the naturalness bias is the concept of "mindset," popularized by the work of Stanford psychologist Carol Dweck. [7] According to Dweck's research, we tend toward one of two different perspectives on the nature of our talents and abilities, and these mindsets have a significant effect on our appetite for risk and our response to setbacks. In a "fixed mindset" we regard our talents as inborn and immutable qualities, while in a "growth mindset" we see our talents as qualities that can be cultivated and enhanced through active effort. Dweck's work suggests that merely becoming aware of this distinction can help us adopt a growth mindset, and when we do we’re more risk-tolerant, less likely to be distressed by difficulties, and more likely to persist in the face of resistance.
+
+Finally, our view on the nature of authenticity can play an important role in this context. One commonly-held perspective is that our authentic self is something that exists fully formed within us, and we discover its nature through experiences that feel more (or less) natural to us. We equate authenticity with comfort, and so if something makes us feel uncomfortable or self-conscious, then it is de facto inauthentic, which means we need not persist at it (or are relieved of our responsibility to try). But an alternative view is that our authentic self is something that we create over time, and we play an active role in its development through experiences that may feel uncomfortable or unnatural, particularly at first. As London Business School professor Herminia Ibarra has written,
+
+Because going against our natural inclinations can make us feel like impostors, we tend to latch on to authenticity as an excuse for sticking with what's comfortable... By viewing ourselves as works-in-progress and evolving our professional identities through trial and error, we can develop a personal style that feels right to us and suits our organizations' changing needs. That takes courage, because learning, by definition, starts with unnatural and often superficial behaviors that can make us feel calculating instead of genuine and spontaneous. But the only way to avoid being pigeonholed and ultimately become better leaders is to do the things that a rigidly authentic sense of self would keep us from doing. [8]
+
+Ultimately, viewing leadership as a performance allows us to see it as something we do, not something we are, and when leaders can distinguish between their behavior and their identity, it becomes much easier to learn and grow by avoiding the naturalness bias, cultivating a growth mindset, and adopting a definition of authenticity that encourages them to get out of their comfort zone.
+
+In Closing
+
+I realize that this view of leadership as performance could be interpreted to mean that I don’t value authenticity, or, worse, as a license to act disingenuously. Nothing could be further from the truth, and I’ve tried to insure that my meaning is clear throughout. That said, I find it useful to close with an excerpt from the work of Rob Goffee, professor of organizational behavior at London Business School, and Gareth Jones, a fellow at LBS and a visiting professor at several other business schools, who’ve had a major influence on my perspective on leadership. Goffee and Jones define three elements of authenticity for leaders:
+
+First, authentic leaders display a consistency between words and deeds. Leaders who do what they say--who practice what they preach—are more likely seen as "genuine" and therefore authentic;;; The second element of authentic leadership is the capacity to display coherence in role performances. In other words, despite the unavoidable need to play different roles at different times for different audiences, authentic leaders communicate a consistent underlying thread. They display a "real self" that holds these separate performances together. Closely linked to this is the third and final element. Authentic leadership involves a kind of comfort with self... This is the internal source from which consistency of role performance is drawn. [9, emphasis original]
+
+I firmly agree with Goffee and Jones’ emphasis on consistency, coherence, and comfort with self—and I see all of these elements as entirely in accordance with a view of leadership as performance.
+
+Thanks to Bob Sutton, whose essay Hierarchy is Good. Hierarchy is Essential. And Less Isn’t Always Better led me to the work of Gruenfeld and Tiedens and informed my perspective on it.
+
+Footnotes
+
+[1] Organizational Preferences and Their Consequences (Deborah Gruenfeld and Larissa Tiedens, Chapter 33 in the Handbook of Social Psychology, 2010)
+
+[2] Why we don't pick good quarterbacks (Bridget Murray, American Psychological Association Monitor, 2002)
+
+[3] Naturals and Strivers: Preferences and Beliefs About Sources of Achievement (Chia-Jung Tsay and Mahzarin Banajia, Journal of Experimental Social Psychology, 2010)
+
+[4] Privileging Naturals Over Strivers: The Cost of the Naturalness Bias (Chia-Jung Tsay, Personality and Social Psychology Bulletin, 2015)
+
+[5] The War of Art: Break Through Your Blocks and Win Your Inner Creative Battles, page 86 (Steven Pressfield, 2002, 2012 edition)
+
+[6] The Role of Deliberate Practice in the Acquisition of Expert Performance, (Anders Ericsson, Ralf Krampe, and Clemens Tesch-Romer, Psychological Review, 1993)
+
+[7] Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives (Maria Popova, Brainpickings, 2014)
+
+[8] The Authenticity Paradox (Herminia Ibarra, Harvard Business School, 2015)
+
+[9] Why Should Anyone Be Led by You? What It Takes to Be an Authentic Leader, page 16 (Rob Goffee and Gareth Jones, 2006)
+
+Photo by Chris H.
+
+
+===== END ED BOT ESSAY 3931 =====
+===== BEGIN ED BOT ESSAY 3932 =====
+---
+title: The Difficulty of Empathizing Up
+url: https://edbatista.com/2017/03/the-difficulty-of-empathizing-up.html
+slug: the-difficulty-of-empathizing-up
+published: 2017-03-27T05:00:00
+updated: 2025-10-09T19:40:39
+source_body: wordpress-html
+---
+
+A common feature of organizational life that I observe from my perspective as an executive coach is our collective failure to "empathize up." We talk about "managing up" constantly, and it's well understood that professional success involves attending to our relationships with those in a position of authority or influence over us. Directors manage their VPs, VPs manage the C-level, C-level execs manage the CEO, and the CEO manages board members and investors. There's no shortage of managing up.
+
+But what's often lacking in that process is empathy. What do I mean by this? First, let's clarify the term: the dictionary definition of empathy is "understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another person." But this misses some important elements, and it includes some unstated assumptions that can be counterproductive in a work relationship. Theresa Wiseman is a medical professor and researcher at the University of Southampton, and her work explores the concept of empathy because of its importance for nursing and medical care. Wiseman identified four defining attributes of empathy:
+
+1. The ability to see the world as another person sees it. ("Without this, empathy cannot occur," Wiseman wrote.)
+
+2. The ability to understand another person’s feelings.
+
+3. The ability to suspend judgment.
+
+4. The ability to communicate this understanding, which is essential "if empathy is to be felt." [1]
+
+The ability to understand another person's perspective and sense their feelings--the dictionary definition--is necessary but insufficient when it comes to the actual expression of empathy in working relationships. In order to convey empathy effectively, we must also be able to suspend our own judgments regarding the other person's situation and their emotions, and we must be able to actively communicate our understanding to them. We often think of empathy as an intrapersonal state, but it’s really an interpersonal experience.
+
+The commonly understood definition of empathy also includes several implicit beliefs about its nature or its consequences which are problematic in this context. One is that empathy is equivalent to sympathy, a misunderstanding that Wiseman clears up directly:
+
+Sympathy involves 'feeling sorry' for the other person or imagining how we would feel if we were experiencing what is happening to them. Empathy differs in that we try to imagine what it is like being that person and experiencing things as they do, not as we would. [2]
+
+Similarly, we typically associate empathy with agreement, and we act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted.
+
+With this clarity on what empathy is and what it isn’t, let’s consider why we habitually fail to empathize up, the consequences of that failure, and what we might do differently.
+
+Why We Fail
+
+The fundamental barrier to empathizing up is that we’re less likely to empathize with people we perceive as different from us, and such difference is an inevitable result (and, at times, an intended function) of organizational hierarchy. Even if we have a good relationship with someone in a superior position, the relative nature of our respective positions can create a sense of "otherness" that makes it psychologically difficult for us to empathize with that person’s perspective and emotions.
+
+Another obstacle is posed by our general unawareness of a dynamic known as hedonic adaptation, and its implications for our view of leaders and others in positions of authority or influence. [3] Human beings are a tremendously adaptable species, and we typically adjust to new circumstances, both positive and negative, much more readily than we imagine. Research on people such as lottery winners and those who’ve suffered traumatic accidents indicates that after a short-lived increase or decrease in happiness as a result of such events, our overall level of happiness returns to its previous levels.
+
+The same is true of leaders and others in positions of power--the status, compensation, and other benefits such positions afford provide a short-lived boost in happiness, but these rewards are soon taken for granted. And yet if we don’t enjoy the same benefits, we find it difficult to conceive that they could fail to yield lasting happiness. "If only I were in that position," we imagine, "my problems would be solved." So when faced with an unhappy superior, we're often surprised that they don’t take greater pleasure in their position and its perks, and we're less likely to empathize with them.
+
+What Results
+
+A consequence of our failure to empathize up is that it becomes easier to misinterpret the behavior of leaders and those in positions of influence. As a species we’ve evolved a negativity bias--it's safer to assume that what looks like a stick might be a snake than to assume that what looks like a snake is really just a stick--and this bias can heavily influence our perception of others' behavior, particularly when we’re under stress. Recall that the expression of empathy involves not only comprehending another person’s perspective and emotions, but also suspending our own judgments. In the absence of empathy we lack an explanatory narrative that allows us to make sense of a superior’s behavior from their perspective, so we’re compelled to rely on our own interpretation, which tends toward the negative. [4] As a result, their behavior can easily trigger a threat response, otherwise known as a "fight, flight, or freeze response." [5]
+
+When we're in the grip of a threat response our own behavior is heavily influenced by a number of physiological, emotional and cognitive factors. We're primed to act more quickly and forcefully, to feel anger and fear more readily, and to accept snap judgments rather than carefully considering a range of explanations. These characteristics allowed our distant ancestors to successfully survive literal threats to their physical safety, but today they often lead us astray in social and interpersonal situations that we perceive as threatening in some way.
+
+So our failure to empathize up makes it more likely that we experience a threat response when interacting with superiors, even in the absence of overtly hostile behavior on their part, and once a threat response is triggered it becomes even more difficult to empathize with them. At that point we're deeply attached to the explanation we've crafted to explain their behavior, and it's highly unlikely that we’ll be able to slow down and consider alternative explanations until the interaction is over and we've calmed down. A theme in my work with senior leaders is a client's surprise at learning that they're perceived as intimidating or unfriendly by junior employees--my client feels no rancor or displeasure, and they’re not even aware of any negative interactions that might have triggered such perceptions. But in the absence of empathy it’s all too easy for any leader’s behavior that isn't overtly positive to be misperceived as negative.
+
+What We Can Do About It
+
+Note that by encouraging greater empathy for leaders and others in positions of authority or influence, I'm not suggesting that we excuse, ignore or tolerate abuses of power or other behaviors that deserve to be censured. Powerful people who misuse their authority or influence to intimidate, harass or bully those in subordinate roles should be held accountable and, if they persist in such behavior, removed from their positions. What I am suggesting that empathizing up is a useful tool that can make these relationships more productive and allow us to achieve our goals more effectively. How do we go about this?
+
+First, we can strive to cultivate a more empathetic response in general. We tend to think of empathy as an inborn trait, something we possess or lack, but recent research suggests that empathy can be learned [6] and, conversely, that it can diminish over time. [7] The process of learning to be empathetic begins with increased self-awareness of how we interact with others, which requires us to slow down, to develop better listening skills, and to heighten our sensitivity to emotional cues--our own and those of others. [8] Our ability to do this is supported by such reflective practices as meditation [9] or journaling, as well as taking care of ourselves physically--most importantly regular exercise and sufficient sleep.
+
+We can also make an effort to minimize the likelihood of a threat response when interacting with a superior. This involves increasing our comfort with discomfort by taking active steps to reframe the situation, soothe ourselves and talk about our own emotions, all of which can expand our ability to tolerate a potentially distressing interaction. Reframing in this context means challenging our initial explanatory narrative for a superior’s behavior, and challenging our tendency to adopt a negative interpretation. Self-soothing can include speaking more slowly and taking deeper breaths. And verbally disclosing our own emotions allows us to manage them more effectively, rather than simply allowing them to escalate internally. Again, note that all of these tasks are easier when we're well-rested, physically active, and committed to a meditation practice or some other mindfulness routine.
+
+We can also reassess our own beliefs about power, which can have a significant impact on our approach to these relationships. Patricia Day Williams, a physician, leadership development consultant, and professor at American University, has written about three common self-limiting beliefs that create a sense of disempowerment:
+
+1. Power is determined primarily by factors outside our influence or control.
+
+2. Our subjective view of the world is identical with objective reality.
+
+3. Power is a fixed commodity and a limited resource for which we must compete with others. [10]
+
+There's a kernel of truth to these beliefs, of course, but all too often we take them at face value. Challenging them can give us a different perspective on our relative sense of power and agency, which can allow us to empathize up more readily. While we’re always subject to some factors beyond our control in relationships with superiors, we often have more influence than we realize--and we can always exert control over our own response in the interaction. While it's comforting to believe that our subjective view is objective reality, we're subject to a vast array of cognitive biases, and being able to step out of our perspective and acknowledge the potential for distortion in our thinking is a critical step in empathizing up. [11] And while in some circumstances we truly are in a zero-sum struggle for power, in many relationships power is a function of reciprocal influence. Conveying our openness to the other party's influence makes them more open to ours, and both of us can then act more powerfully and assertively--and empathetically.
+
+Finally, we can simply remember to make the effort to empathize up--so often it never even occurs to us to try.
+
+In Closing: A Note for Leaders
+
+I’ve written this piece with a focus on empathizing up in our relationships with those in positions of authority or influence in part to help you empathize with the challenges your subordinates face. It’s essential to remember that the people you lead will find it very difficult to empathize with you. They will be unlikely to understand your perspective and your emotions unless you make the effort to be explicit about them. They will make snap judgments about you and readily misinterpret your behavior unless you go out of your way to share your rationale and explain your intentions. They will be reticent to communicate any of these views unless you initiate a dialogue in which you’re an active participant, not just a questioner. And even in the best of circumstances they're unlikely to want to hear your complaints about the burdens of leadership when they don’t enjoy the benefits—they may listen politely and even express a superficial version of empathy, but inside they’ll be wondering why you’re so ungrateful for what you have.
+
+Footnotes
+
+[1] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[2] Ibid.
+
+[3] Pain, Suffering and Hedonic Adaptation
+
+[4] Seeing What's Not There (The Importance of Missing Data)
+
+[5] David Rock on Neuroscience, Leadership and the SCARF Model
+
+[6] Empathy Training for Resident Physicians: A Randomized Controlled Trial of a Neuroscience-Informed Curriculum (Helen Reiss, John Kelley, Robert Bailey, Emily Dunn and Margot Phillips, Journal of General Internal Medicine, 2012)
+
+[7] Empathy in Medicine--A Neurobiological Perspective (Helen Reiss, Journal of the American Medical Association, 2010)
+
+[8] Can Doctors Learn Empathy? (Pauline Chen, The New York Times, 2012)
+
+[9] Meditation Increases Compassionate Responses to Suffering (Paul Condon, Gaëlle Desbordes, Willa Miller and David DeSteno, Psychological Science, 2013)
+
+[10] "Self Empowerment, Awareness, and Choice" (Patricia Day Williams, Chapter 7.10 in the Reading Book for Human Relations Training, edited by by Alfred Cooke, Michael Brazzel, Argentine Saunders Craig, and Barbara Greig, 1999)
+
+[11] When Heuristics Go Bad
+
+For Further Reading
+
+The Importance of Slowing Down
+
+How Great Coaches Ask, Listen and Empathize
+
+The Value of Journal Writing
+
+Get Moving! (Exercise for Busy People)
+
+Comfort with Discomfort
+
+Talking About Feelings
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+Photo by Gerry Scappaticci.
+
+
+===== END ED BOT ESSAY 3932 =====
+===== BEGIN ED BOT ESSAY 3933 =====
+---
+title: Sometimes Growth Looks Like Struggle
+url: https://edbatista.com/2017/03/sometimes-growth-looks-like-struggle.html
+slug: sometimes-growth-looks-like-struggle
+published: 2017-03-26T11:42:35
+updated: 2025-10-09T19:41:20
+source_body: wordpress-html
+---
+
+What I thought was just a hay fever attack last week turned into a head cold and a sore throat over the last few days--nothing too bad, but enough to put me out of action for the weekend. The enforced rest left me with ample time to reflect, and I was reminded of another illness I'd experienced and written about almost exactly eight years ago. That episode was much more serious, but it's still been interesting to compare the lessons I learned in 2009 with my perspective today:
+
+March 2009: I really miss Martinis, exercise and being outdoors.
+
+March 2017: I'm even more grateful for these transient joys.
+
+I've always loved a well-made Martini, working up a good sweat, and immersing myself in a natural landscape, and none of that has changed. As I prepare to turn 50 I'm more circumspect about my Martini consumption--one is usually sufficient--and I've learned the hard way that avoiding injury is more important than setting PRs, but I find myself even more grateful that I'm still able to enjoy these experiences. That gratitude stems primarily from an appreciation of life and the unique joys of this existence, a perspective that I began to appreciate in 2010 after the deaths of my father-in-law and a student of mine. I don't live in this state of mind 24/7, but every once in a while I'm able to access it a little more fully than usual.
+
+March 2009: I don't do stillness well...and perhaps I should find a way.
+
+March 2017: Progress!
+
+Eight years ago I was just beginning to understand the role that mindfulness could play in my personal and professional development, and at the time it was profoundly difficult for me to simply be still without being actively occupied by some cognitively demanding task. This has been a significant focus of mine over the past decade, to the point where I now regularly meditate for 30 minutes at a stretch--something I couldn't even have considered in 2009. I've learned how much value I can add as a coach (and as a person) by simply being present for other people, without doing much at all. I continue to have plenty of room to grow here, to be sure, but it feels good to be able to acknowledge my progress.
+
+March 2009: I'm less ready for old age--and mortality--than I thought I was.
+
+March 2017: Not "ready," but more prepared.
+
+Writing in 2009, a few months before turning 42, I described myself as "too young to feel truly old, but old enough to no longer feel young." To my credit, I realized that "the changes I've felt and adjusted to in my early middle age are merely the absence of youth, the dawning awareness that my health and vigor and independence are gifts, not entitlements, and they can be taken away with shocking speed." It's hard not to smile reading that today--it's true as far as it goes, but it also feels a little naive. I've spent a lot of time since then thinking about mortality and learning from Seneca, and Atul Gawande, Joan Didion, and Christopher Hitchens. I'm not morbidly fascinated by death, but I do believe that one of our primary responsibilities in this life is preparing to leave it with some grace. I doubt I'll go out with the articulate dignity of Oliver Sacks, but it's something to shoot for.
+
+Postscript
+
+The title of this post is derived from Five Leadership Lessons, which I wrote in 2011--the halfway mark between 2005, when I first began to consider coaching as a career path, and 2017, when I have the privilege of coaching senior leaders every single day. I have plenty of room for improvement, as a coach and as a person, but there are moments like today when it's gratifying to look back on more than a decade's worth of struggle and see the growth that's resulted.
+
+Photo by U.S. Army.
+
+
+===== END ED BOT ESSAY 3933 =====

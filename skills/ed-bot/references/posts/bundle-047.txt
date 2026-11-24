@@ -1,0 +1,354 @@
+===== BEGIN ED BOT ESSAY 3266 =====
+---
+title: Three Questions with Michael Stein
+url: https://edbatista.com/2005/07/three_questions_2.html
+slug: three_questions_2
+published: 2005-07-14T04:00:00
+updated: 2005-07-14T04:00:00
+source_body: wordpress-html
+---
+
+Michael Stein is the Media and Communications Strategist at GetActive Software, but that's just the latest hat he's wearing in a long career in the nonprofit technology field. He's also been Associate Director at Groundspring and co-author of three books (including The eNonprofit: A Guide to ASPs, Internet Services and Online Software, and Fundraising on the Internet: Recruiting and Renewing Donors Online), as well as an independent consultant.
+
+I've worked alongside Michael in the nonprofit technology field for more than four years, and I've always appreciated his insights. Today's no exception as he tackles personal blogging, blogging for a company, wearing different hats, and Bay Area surfing spots...
+
+You've been writing about nonprofits' use of technology for 15 years. Last year you turned your personal site into a blog (although I suspect that life has gotten in the way of regular posting), and this year you began writing Word of Net, a bi-monthly blog for GetActive. What's different for you about writing in a blog format?
+
+Writing in a blog format has changed my writing habits in two significant ways. For my personal site (Michael Stein’s Aether Madness) it’s provided me with speed and experimentation when it comes to creating and repurposing content. I typically post short news and opinion items, with lots of links and a thumbnail image. Like many people, I wasn’t too interested in keeping up with the finer points of HTML and Javascript, so putting content online using Dreamweaver was something I wanted to do as infrequently as possible. Today, I’m excited to log into Typepad several times a day because of how easy it is, and how fool-proof the tool is as a publishing platform. Also, I’ve developed a healthy respect for the syndication power of RSS, that other people are reading what I’m writing, and are commenting on things I’ve written using hypertext links and trackbacks.
+
+For GetActive’s Word of Net, what’s different is the power to self-publish. I am the writer and my colleagues at GetActive are the editors, and there are no intermediaries between us and our reading audience. It allows us to contribute knowledge and content directly to our audience and to the nonprofit sector. We decide what topics we want to cover. As a writer this is both a great freedom, and also a responsibility. It’s one of the most interesting things to happen to writing in my lifetime aside from the word processor, and we’re only now starting to appreciate what impact this might have on learning, knowledge exchange, and freedom of expression.
+
+As far as I can tell, GetActive is unique among nonprofit technology software vendors in having an official company blog. It could be argued that Word of Net is really more like a column, since you're not employing comments, trackback, or other "bloggy" features--but whatever you call it, it still appears that your competitors aren't doing anything like it. What does the company expect to accomplish through Word of Net?
+
+GetActive created Word of Net as an experiment in publishing so that we could write about nonprofits using the Internet. Our aim is to disseminate knowledge, case studies, and opinions about how GetActive clients are using hosted online tools to communicate with stakeholders, engage supporters in online and offline campaigns, and raise money to do the work. We want to be part of the discussion about how this medium is evolving, and how nonprofits are using it to engage with stakeholders. But we want to be part of the discussion in a manner that people will find accessible and readable. A press release or a formal case study will only go so far in terms of engaging people.
+
+Like many technology companies GetActive produces a full array of marketing collateral that describes our products and services, showcases clients’ successes, and highlights our company’s growth. We have press releases, product sheets, case studies, e-newsletters, articles in sector newsletters, and more. Blogging with Word of Net allows us to shape content and knowledge in a new way, with a different voice. It’s not written in typical "marketing-" or "sales speak." It’s more journalistic, more first-person, more story telling.
+
+We’d be the first to admit that Word of Net is more like a column than a blog. I don’t sit down every week and say "time to blog." I sit down and say "time to write another article about a cutting-edge issue in nonprofit use of the Internet." What blog technology contributes to Word of Net is its syndication features like coming up in blog search engines and allowing subscription with RSS readers.
+
+We’re learning as we go about how to use "Word of Net" to best communicate issues that matter to us as a company and to our clients. I used to be the sole writer, and we’re now mixing that up with articles from other key staff and partners. Our CTO Bill Pease is a world authority on email deliverability, so we recently asked him to write about developments at Microsoft with regard to email sender authentication. So he gets to write about a very complex technical topic, and I get to edit the article with a broad and not-always-technical audience in mind. With Bill’s article, as with all our content on Word of Net, our strongest commitment to our readers is authenticity and readability.
+
+The content on Word of Net has been varied, and it’s given us a chance to cover a wide range of issues, and a range of "voices." When I reviewed the book "Nonprofit Internet Strategies," I tried to be honest with some criticism of the editors, while also praising the book overall as a strong contribution to the field. With "The Internet has gotten us all involved," I wrote a first-person piece about online advocacy from my perspective as an Internet user. In "Online fundraising for tsunami relief heralds the new e-stakeholder," I got to explore a wide range of issues regarding the online medium that have been percolating since January 2005. In "Surfing the knowledge stream of best practices in nonprofit Internet use," I wrote about how I stay current with developments in our sector by listing all my sources of information and news.
+
+You've worn a number of different hats in the nonprofit technology field: independent consultant, nonprofit vendor, and now a for-profit vendor. How has your perspective on the field changed as you've changed roles?
+
+My perspective has been enriched by being able to participate in the nonprofit technology field in so many different capacities. First, I’ve seen a lot of variation in Internet use among nonprofits of differing sizes. While at Groundspring.org I worked with small and mid-size nonprofits. Now at GetActive I work with mid- and large-size nonprofits. This difference in size means different staffing levels, budgets, and technology needs. Second of all, the other difference has been the size of the team that I’m working with. As a freelancer it’s been me alone, or me with one or two other colleagues. At Groundspring we got to 20 or so employees. As a writer and researcher, I’m amazed by the volume and speed of the knowledge exchange that goes on inside GetActive among the various departments and people. Finally, my perspective has changed as I’ve worked with larger nonprofits that have more online activity that can be measured. It’s like being a kid in a candy store. So many metrics, so many campaigns, so many lessons learned, it’s a never-ending source of knowledge and learning.
+
+Bonus Pesonal Question: I know you're a surfer--what's your favorite spot here in the Bay Area?
+
+I actually have two favorite surfing spots. My local break--in spite of it being 45 minutes from my house – is Pacifica State Beach, or "Linda Mar." It’s a beautiful spot along Route 1 a few miles south of San Francisco, surrounded by hills. A few years ago I joined one of the local surf clubs (Pedro Point Surf Club) and helped them build a website to publicize their community activities. We recently migrated the website to a Typepad blog so that more Club members could contribute content easily. My other favorite surfing spot is Bolinas (north of Stinson Beach and south of Point Reyes), because it’s so remote and eerily beautiful. I’ve surfed there in the dead of winter in the freezing cold, and never been happier in my life being out there on the edge of the world.
+
+
+===== END ED BOT ESSAY 3266 =====
+===== BEGIN ED BOT ESSAY 3267 =====
+---
+title: Three Questions with Tim Oren
+url: https://edbatista.com/2005/07/three_questions.html
+slug: three_questions
+published: 2005-07-06T04:00:00
+updated: 2005-07-06T04:00:00
+source_body: wordpress-html
+---
+
+Tim Oren is a Managing Director at Pacifica Fund, a venture capital firm, and a regular blogger at Due Diligence. That combination alone makes him an interesting guy, but I've particularly enjoyed his thoughtful writing and no-BS attitude. ("Addicted to Buzz?" on the tech industry's use and abuse of buzzwords is an outstanding example.) Many thanks to Tim for taking the time to address three questions on VC blogging, startup blogging, and John Markoff's "What the Dormouse Said"...
+
+1) You're one of a handful of venture capitalists who's also an active
+
+blogger. (Others I'm aware of include Andrew Anker, David Hornik
+
+and Kevin Laws at VentureBlog, Allen Morgan, Jason Caplain, Jeff Nolan,
+
+Ed Sim, Martin Tobias and Fred Wilson. I stress the word
+
+"active." A number of folks apparently tested the waters and
+
+didn't go any further.) Most people who blog, myself included,
+
+are looking to break out of our local networks and connect with the
+
+world at large--but as a VC, I'd imagine you have the opposite problem
+
+and often need to find ways to keep the world (and its endless business
+
+plans) at bay. Why did you start blogging, and why have you
+
+continued?
+
+Due Diligence started as a private notepad for research I was doing on markets, technologies, and ventures - hence the name. My partners also had access, and I found that a little annotation and analysis mixed in with the raw notes made for shorter explanations at meetings. Eventually, my partner Mochio Umeda - who blogs in Japanese - suggested I open it up to the public, in part because of our own interest in what's now called "citizens' media". Maybe it's the venture capitalist's equivalent of the anthropologist observer-participant: If you want to understand a nascent market, you need to play. I've been writing for the electronic medium off and on since the mid-80s (early CompuServe), so already had a 'voice' of sorts and decided to give it a try.
+
+The sustaining motives are different, and several. If you're a writer, just imagine how it would feel if 90% of your research and analysis output got spiked. That's what venture capital is often like. The majority of the market, technology and venture research never pans out directly - it's a cost you undertake to avoid bogus investments. But it can often make interesting reading for others, if cleaned up to disguise the original project. These themes can also take on their own momentum, e.g., the occasional series on new media vs. old media industries on which Kevin Laws and I have collaborated, and which has spread onto VentureBlog as well.
+
+When I write about venture capital itself, it's often out of frustration. I am not systematic. When I get hit several times with the same misunderstanding, bogus analysis, or prejudice from those pitching, or from outside the business, I may try to extract the common theme and write an explanatory or analysis post. With luck, some of these may be useful in an educational sense, but at least they're a way to simultaneously work off the frustration and force myself to articulate it clearly.
+
+The voice is my own. I don't represent myself as a spokesperson for the VC business at large. I believe the essence of this medium is intensely personal. You get a sample of outdoors related posts, Silicon Valley reminiscences, and sometimes politics mixed into the analysis if you're reading DD. That's part of me, and if I feel like journaling it, so be it. Venture and the Valley itself are just networks of people, so it's appropriate that readers know something about who I am.
+
+2) The existence of the blogosphere and its ability to facilitate public, discoverable conversations across organizational barriers would seem to pose both a challenge and an opportunity to entrepreneurs. OTOH, they're going to be able to tap into a much broader network than before to validate and evolve their ideas. OTOH, it's going to be harder to maintain control over those ideas. I've heard it said many times that people in the technology industry place too high a value on secrecy, and that NDAs are usually more of a hindrance than a help, so perhaps it would be a welcome development if blogs can open up the industry's culture a little. How do you think blogging will affect the world of startups and entrepreneurship?
+
+I'd call blogs a large net positive. Ventures are built out of trust as much as ideas. To the extent that personal trust networks get extended further, more diversely, using this medium as a means of introduction, you're going to get better, smarter teams and business ideas. I'm not a fan of formalized 'reputation systems', but it's certainly true you get a feel for someone's personality through their writings. For instance, I've never met Fred Wilson face to face, but I've got a pretty good idea what kind of deals he might like, of his views on important market uncertainties.
+
+The NDA argument is too facile for me. There are times when implementation speed is of the essence, and who cares what leaks, so you get there first. There are times when you need to spend patient effort doing a deep dig into a technology area, and taking that time and protecting the investment are important. Telling one from the other, and balancing between them, is a matter of business judgment that some technologists develop with experience. Hearing the difference dismissed just tells me I'm dealing with a naif.
+
+3) Finally, you recently posted on John Markoff's "What the Dormouse Said," a history of Silicon Valley, and you noted that,
+
+"Regardless of the seminal role of the ideas outlined, it must be acknowledged that not a single one of the projects described in 'Dormouse' achieved a commercial success. They were works by cognoscenti, for cognoscenti. Like it or not, scale adoption is the means by which personal computing technology impacts culture and economy. Markoff at times seems to adopt the view heard from these pioneers that their work was misunderstood, or ignored, often in the rush to commercialization...These problems were of the pioneers' own making. The most poignant portions of 'Dormouse' describe the organizational problems lurking behind the creativity. In fact, none of these organizations and systems managed to scale beyond the size of a modest startup, or survive a single generational turnover of computing technology."
+
+A mythology has grown up around some of these early technologists, portraying them as high-minded victims, and your post certainly helps to clear away some of that magical thinking. But even if these pioneering efforts were undermined by their own failings, they still evoke an almost tragic sense of what-might-have-been. What failed early venture (referenced in "Dormouse" or not) strikes you as the greatest missed opportunity?
+
+Any retrospective might-have-been analysis has to look at market readiness and fit as well as technology vision. Engelbart's 1968 Augment demo is still the Mother of All Demos after all these years, partly because of Doug's vision, and partly because he had a great team who went to incredible lengths to create a high bandwidth remote experience. It took the better part of two decades before that experience began to be widely feasible. The infrastructure was ready, but by then expectations had changed - the PC was the point of reference for the broad market.
+
+The incredible stream of ideas that flowed out of Alan Kay's PARC team was the result of an intense design focus on creating a transparent tool for kids, itself the result of Alan's deep belief that analysis and specification of behaviors should be a formative part of the education, stemming from his Piagetian training. Those design ideas have been remarkably successful. The core vision has been less so. Projects like Squeak and Croquet show that while the infrastructure is now here, there seems to be little pull for these projects. Computing as such is being buried inside of platforms, rather than exposed as an educational experience.
+
+So I measure the 'might-have-been' in terms of what visions the infrastructure could actually support at the time of development, and whether time showed that there was a fundamental demand for the vision. I would still have to award the booby prize to Xerox, specifically for failing to capitalize on the combination of the direct manipulation interface, networking and laser printing that Apple eventually turned into desktop publishing. All of the pieces existed in one place, Alto showed what a determined cost reduction effort could accomplish, and the implications were immediate for Xerox' core market. Yet they blew it, completely muffed the tech transfer. Perhaps the single biggest missed opportunity to create value in the history of the Valley, if you judge by the companies that arose on that spot.
+
+The one I was closest to, and that still stings, was HyperCard. A real Rorschach blot of a product. Jack of all trades, master of none. There were at least three separate products inside of the one, trying to get out, judging by what users did with it. Apple could have listened to that feedback, and created a lot of value. Instead management decided it was 'competing with the developers' and pretty much abandoned its evolution. I'm not so sure that (as Jerry Michalski told me over dinner earlier this week) 'HyperCard could have been the Web', but I'm certain that a lot was left on the table.
+
+Bonus Personal Question: Judging by some of your posts, you're an active hiker. What's your favorite hike here in the Bay Area?
+
+I'll give you three that I try to do every year:
+
+Serpentine Loop in Edgewood Preserve
+Ancient Oaks Trail in Russian Ridge Open Space Preserve
+Hotel Trail in Joseph Grant Park
+
+These are places to linger, not to work on your aerobic capacity. All are best in spring and early summer. It's no accident my blogging output drops during those seasons.
+
+Note: I added the links above to Tim's comments.
+
+tim oren due diligence pacifica fund venture capital vc blogging john markoff
+
+
+===== END ED BOT ESSAY 3267 =====
+===== BEGIN ED BOT ESSAY 3268 =====
+---
+title: Three Questions with Suw Charman
+url: https://edbatista.com/2005/07/three_questions_1.html
+slug: three_questions_1
+published: 2005-07-05T04:00:00
+updated: 2005-07-05T04:00:00
+source_body: wordpress-html
+---
+
+Suw Charman is a consultant, journalist and author whose work focuses on blogging and social software. She writes Strange Attractor for Corante, and maintains a personal blog at Chocolate and Vodka, among other projects. She was also one of the 50 Honorable Mentions added to the AO/Technorati Open Media Top 100--I've expressed some skepticism about that list, but IMO Suw deserves the recognition. I'm very grateful for her outstanding responses to my three questions, which focus on microformats, organizational "unclenching," and Internet Relay Chat...
+
+1) You just attended Supernova 2005 in San
+
+Francisco. (And many thanks for your great session posts.) I think
+
+that when conferences truly succeed, they leave us eager to do
+
+something specific--talk to someone, kick off a project, start a
+
+company. What are you excited to do in the aftermath of Supernova 2005?
+
+Without
+
+a doubt the project that I saw discussed at Supernova, the thing I most
+
+want to get involved with is microformats. Kevin Marks, one of the team
+
+behind microformats, has been telling me about them for a while now,
+
+but it wasn't until I got into the microformats workshop and actually saw them in action that I started to get excited about it.
+
+In
+
+short, microformats are open standards for delivering small, formatted
+
+chunks of content, such as address cards or event data. The most
+
+exciting microformat is hCalendar, a way of publishing events data
+
+on your blog, say, in a way that other people can pull it into iCal or
+
+some other calendar software and have your schedule available to them.
+
+There's now an iCal generator too, and a plugin for MT which allows you to easily generate an hCal entry, plus it is supported by Upcoming.org.
+
+The
+
+grace of microformats is that they allow you to share formatted data
+
+without having to sign into some sort of centralised server. So instead
+
+of paying through the nose for some website that collates data for a
+
+named group, you can just publish your own and let people get it if
+
+they want to, without all having to be a member of the same web service.
+
+hCard
+
+is similar, providing address book data, and I see these microformats
+
+being potentially very disruptive to some people's business models. Any
+
+software or service which relies on a centralised sharing system for
+
+this sort of data is in trouble, because microformats allow you to
+
+retain sovereignty over your data, so your calendar is not held hostage
+
+to some monthly subscription. We still have a very long way to go to
+
+make microformats more accessible and easier to implement, but it's a
+
+very exciting project and I look forward to seeing how it progresses,
+
+and to getting more involved.
+
+2)
+
+Following the conference, you and I talked briefly about the difficulty
+
+of getting organizations to "unclench" as they begin blogging. How do
+
+you initiate that process when working with your clients?
+
+The
+
+first thing is to understand whether or not the business culture within
+
+which the nascent bloggers are working will even allow any sort of
+
+'unclenching' to happen. If I come across companies who simply cannot
+
+cope with the cultural changes required to allow blogging to flourish,
+
+then I advise them not to start blogging in the first place. A bad blog
+
+is worse than no blog at all, in my opinion.
+
+But I think the key
+
+is to take people outside of their normal business mental environment
+
+and try to show them what the world looks like from a blogger's point
+
+of view. I have found in the past that the only real way to explain
+
+blogging to people is to get them to blog, so I set up trial blog
+
+accounts for each individual and get them to experiment there and then,
+
+so that they can not just see how it works, but feel it too. I walk a
+
+new blogger through posting their first post, and when they track back
+
+to something I have written and see that ping show up on my blog, their
+
+understanding is emotional, not intellectual. They 'get it' far faster
+
+than they would if I tried to explain pinging and trackbacks with a
+
+bunch of PowerPoint slides.
+
+The issues around blogging in
+
+business are not really technical, although you do get IT departments who have a lock-down mentality and are openly hostile to any systems
+
+they haven't either written or discovered themselves. Instead, you
+
+are usually dealing with cultural and emotional issues. When I've done
+
+blog training or panels on blogging in the past, the questions people
+
+have are rarely to do with the technology and more to do with issues
+
+like 'How do I deal with people knowing more about me than I know about
+
+them?', 'I don't want to expose myself', or 'But I'm not a very good
+
+writer'.
+
+Using social tools is a hurdle for some people because
+
+they are afraid of humiliation. They don't want to make fools of
+
+themselves and they are scared that if they write a blog they will look
+
+like idiots. Translate
+
+that sort of fear into the business context, and you have people
+
+worrying about damaging their career or losing their jobs - and that's
+
+a massive limiting factor.
+
+Of course, many successful business
+
+blogging projects work precisely because they remove the emotional
+
+aspects of blogging completely. If you have a business blogging
+
+project, dark or light (i.e. internal or external) then people are
+
+writing very factual material. It's not a case of exposing one's inner
+
+soul to the world - or worse, your boss. It's about telling people what
+
+is going on. So you have this interesting set of conflicts
+
+between people's perceptions of what blogging is all about, where they
+
+assume that all blogs are personal diaries and are put off because they
+
+don't see the relevance of or necessity for that sort of content in the
+
+context within which they are working; the emotional nature of the
+
+blogosphere within which their external business blog must comfortably sit; and the non-confessional nature of business blogging, where it's not about how you feel, but what is going on in your business.
+
+My job is to try to figure out where the hurdles are, because every company and individual within that company will have a different concern and need to understand a different aspect of blogging. Once I know what the problems are, it's relatively simple to help assuage people's doubts.
+
+3) While at Supernova, you were the "official backchannel mole, monitoring IRC" for comments and discussions related to the conference. I thought this was fascinating, because as a relative non-geek, I find the world of IRC totally alien and intimidating. Why do you use IRC, and what advantages does it offer over other modes of communication?
+
+I used to use Yahoo! chat, long ago before it was flooded with teenagers asking for your a/s/l (age/sex/location). I hung out in the Books & Lit channel and met a whole bunch of really interesting people, until it became basically untenable to stay on Yahoo! chat because the a/s/l-ers were just overwhelming intelligent conversation.
+
+Then about 18 months ago, after years of not using chat at all, Gary Turner suggested to me that maybe I should try out #joiito on freenode, and I was instantly hooked again. I now have my own channel, #suwcharman on freenode, and IRC has become an integral part of my personal and professional life.
+
+What makes or breaks IRC is the people. I have met some really cool people through IRC, and have had some fantastic conversations. I've even got work because of the people I met on IRC, so it's an excellent networking tool. But, the corollary has to be that if you get a channel that's invaded by trolls it really can be very tedious and annoying.
+
+It does really come into its own at conferences, though, with the IRC backchannel keeping me amused during boring sessions, providing extra information and context for the interesting sessions, and allowing me to figure out who's who and arrange who I'm going to hang out with and where. Plus it allows people who aren't at the conference the chance to get a feel for whether or not they are missing anything and, if so, what.
+
+IRC is very much a 'your mileage may vary' sort of thing, but I think it's worthy of exploration. If you can find good channels, it can be well worth the time you invest into it.
+
+Bonus Personal Question: Your personal blog is called "Chocolate and Vodka," so what's your favorite chocolate and favorite vodka?
+
+Ah, easy! My favourite chocolate is Green & Black's 70% Cocoa Organic Dark Chocolate, which is just heavenly. For vodka you just can't beat Żubrówka, a Polish vodka naturally flavoured with bison grass. It's like drinking distilled summer.
+
+suw charman strange attractor corante microformats irc supernova2005 blogging
+
+
+===== END ED BOT ESSAY 3268 =====
+===== BEGIN ED BOT ESSAY 3270 =====
+---
+title: Clara Miller on Nonprofit Finance
+url: https://edbatista.com/2005/07/clara_miller_on.html
+slug: clara_miller_on
+published: 2005-07-01T04:00:00
+updated: 2005-07-01T04:00:00
+source_body: wordpress-html
+---
+
+The Spring 2005 issue of the Nonprofit Quarterly features an outstanding article by Clara Miller, President and CEO of the Nonprofit Finance Fund, that points out the insanity of many of the rules and practices that govern nonprofit finance.  She doesn't just criticize--she also suggests a number of solutions--but she's particularly good when she's taking on the status quo, such as when she mocks donors who refuse to pay for overhead:
+
+It’s a little like this.  ...[Y]ou’re the owner of a restaurant. Your paying guest comes to pay the bill, offers a credit card, and prepares to sign the charge slip. But before signing, the guest says, “I’m going to restrict my payment to the chef’s salary. He’s great, and I just want to make sure I’m paying for the one thing that makes the real difference here. I don’t want any of this payment to go for light, or heat, or your accounting department, or other overhead. They’re just not that important. The chef is where you should be spending your money!”
+
+The irony for the field as a whole is that a technique meant to control costs actually undermines efficiency and program quality. The inability of nonprofits to invest in more efficient management systems, higher skilled managers, training, and program development over time means that as promising programs grow, they are going to be hollowed out, resulting in burned out staff, under-maintained buildings, out of date services, and many other symptoms of inadequately funded "overhead."
+
+She concludes with a concise set of admirable recommendations for change [empasis mine]:
+
+Nonprofits need to make profits, just like their for-profit counterparts, or their enterprises falter. This alone would improve things. Behind nonprofits’ difficulty pricing their services to cover their costs is a wider struggle for resources. In government contracting, for example, for profits now price to cost plus profit, and generally enjoy better business terms. The for-profit and nonprofit government contracting rules should align with respect to pricing, profit margins, growth capital, overhead, and other well-known and accepted aspects of business operations.
+
+The focus on overhead or fundraising cost rules of thumb for nonprofits is generally misplaced. It doesn’t get at the productivity of the organization with respect to mission, and ignores the nuances of a variety of business types and stages of development. Delta Airlines has a different cost structure from e-Bay’s; and the Boys & Girls Clubs’ is different from Compumentor’s. Let’s be intelligent about their financial needs.
+
+More and more diverse scrutiny from government and other funders will create more transaction costs in an industry already carrying an overly high level. This will burden large and small alike, making small, innovative, and efficient organizations experience an infusion of cost just as growth is proceeding, and increasing the length of the already long climb to scale. Funders can go a long way toward lowering transaction costs for themselves and their grantees via small modifications to the way they do business, and by taking on the formidable task of tracking program and mission productivity—rather than questionable financial indicators—field-wide...
+
+For all donors, unrestricted grants are the most positive financially and should be the rule and not the exception. This is because anything else, generally speaking, creates cost for the recipient. There may be exceptions, and giving unrestricted funding does not mean that funders cannot or should not be actively involved in communicating with the recipient about plans for the funds, budget, and program strategy. However, anything but unrestricted grants generally creates cost within the grantee’s operation.
+
+With self-discipline and a little creativity, we can improve the business environment for our sector, creating a more intelligent, nuanced system of finance for "social enterprises," and nonprofit services. This will work better than the current approach, which substitutes well-meaning but counterproductive rules of thumb for sensible, informed financial practices. And it will allow us to power sustainability, management improvement, and innovation in the sector by leveraging appropriately some effective and time-tested rules of business.
+
+clara miller nonprofit finance fund nonprofits nonprofit finance nonprofit quarterly
+
+
+===== END ED BOT ESSAY 3270 =====

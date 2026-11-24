@@ -1,0 +1,636 @@
+===== BEGIN ED BOT ESSAY 4179 =====
+---
+title: Why We Crave Attention (and What We Can Do About It)
+url: https://edbatista.com/2023/04/why-we-crave-attention-and-what-we-can-do-about-it.html
+slug: why-we-crave-attention-and-what-we-can-do-about-it
+published: 2023-04-02T15:57:42
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+The subject of attention has been a preoccupation of mine since 2005, when I first began to appreciate its value and its power. [1] What we pay attention to matters, particularly for leaders, as I've noted before:
+
+A leader’s most precious resource is not their time. It’s their focused attention. Time merely passes, while focused attention makes things happen. When we’re able to gather and direct our attention toward a particular task or interaction, we can have a significant impact in a minimal amount of time. But when we’re unable to bring our attention to bear on the work at hand, all the time in the world is insufficient. [2]
+
+Attention isn't merely an individual resource--it's a social one. The collective attention of a group of people has a powerful effect, particularly when we are the object of its focus. This is a key theme in Status Anxiety by contemporary philosopher Alain de Botton, who suggests that we pursue various forms of status in order to obtain love--not romantic love, but what he calls "love from the world":
+
+The predominant impulse behind our desire to rise in the social hierarchy may be rooted not so much in the material goods we can accrue or the power we can wield as in the amount of love we stand to receive as a consequence of high status. Money, fame and influence may be valued more as tokens of--and means to--love rather than ends in themselves. [3]
+
+A significant influence on De Botton's line of reasoning is Adam Smith's Theory of Moral Sentiments, which discusses attention explicitly:
+
+It is chiefly from this regard to the sentiments of mankind, that we pursue riches and avoid poverty. For to what purpose is all the toil and bustle of this world? What is the end of avarice and ambition, of the pursuit of wealth, of power and preeminence? Is it to supply the necessities of nature? The wages of the meanest laborer can supply them...
+
+What are the advantages which we propose by that great purpose of human life which we call bettering our condition? To be observed, to be attended to, to be taken notice of with sympathy, complacency and approbation, are all the advantages which we can propose to derive from it. It is the vanity, not the ease, or the pleasure, which interests us. But vanity is always founded upon the belief of our being the object of attention and approbation. The rich man glories in his riches because he feels that they naturally draw upon him the attention of the world...
+
+The poor man, on the contrary, is ashamed of his poverty. He feels that it...places him out of the sight of mankind... To feel that we are taken no notice of, necessarily damps the most agreeable hope, and disappoints the most ardent desire, of human nature. [4]
+
+I find Smith and De Botton's argument deeply thought-provoking: Why do we pursue wealth, power and status? Not for the material rewards alone, but for the attention. It is attention we crave, and we feel its absence acutely. This offers a compelling explanation for much behavior that otherwise seems curious or counterintuitive:
+
+- A theme in my coaching practice is the ambivalence many leaders feel about their engagement with social media. They want to represent their organization, build credibility, and maintain relationships, but they often find the experience stressful or distracting. And yet when they opt out they feel anxious and guilty.
+
+- During my 15 years at Stanford's Graduate School of Business, I taught over 1,000 MBA students, and held countless conversations with them about their career plans. A disproportionate number were drawn to high-profile opportunities with a low likelihood of success and had little interest in fields that promised a reliable path to wealth but were less socially prominent.
+
+- Tragically, there's a Wikipedia page tracking selfie-related accidents, which currently reports that 379 people have died in such incidents since 2008. [5] That's a minuscule number--more than 13,000 people die every hour. [6] But given the strength of our survival instinct, it's noteworthy that anyone would put themselves in jeopardy for such an ephemeral result.
+
+There are a number of causes behind these phenomena. Leaders possess a strong sense of responsibility and perform many onerous tasks as a result. MBAs believe they should take bigger risks now and pursue a more secure path only if necessary. And some people are just heedless and foolish.
+
+But a thread that connects them is the power of attention: Social media is the ultimate expression of the attention economy, and and the various platforms are carefully engineered to maximize engagement by manipulating attention. [7] Working in a glamorous field is an effective way to attract attention early in one's career, while growing wealthy in a steady but low-visibility industry is not. And when it may be difficult to attract attention by other means, the temptation to do so via a dangerous but eye-catching selfie can override one's good judgment. I'm sure you can think of other examples you've observed--or participated in.
+
+What's going on here? Why does the attention of others exert so much influence over human behavior? One school of thought views this as a moral failing, chastising "attention-seekers" for their seemingly insincere efforts to attract the spotlight. But while some people may go to bizarre lengths in their pursuit of attention, they strike me as different in degree, not in kind, from the rest of us.
+
+I think a more accurate and less judgmental explanation can be found in an understanding of evolution and its implications for our emotional life and social structures. Evolutionary psychiatrist Randolph Nesse, who's studied how biological history has shaped the human psyche, makes a telling comment:
+
+Evolution explains the origins of our amazing capacities for love and goodness and why they carry the price of grief, guilt, and, thank goodness, caring inordinately about what others think about us. [8, emphasis mine]
+
+We care deeply about others' opinions of us, and the most fundamental aspect of this process is whether or not they are paying attention to us. Recall Adam Smith: "To feel that we are taken no notice of, necessarily damps the most agreeable hope, and disappoints the most ardent desire, of human nature." We may think of such emotions as uniquely personal, arising out of our singular life experiences. But Nesse cites the eminent biologist Edward O. Wilson to disabuse us of this notion:
+
+Love joins hate; aggression, fear; expansiveness, withdrawal; and so on; in blends designed not to promote the happiness of the individual, but to favor the maximum transmission of the controlling genes. [9]
+
+So our emotional apparatus and the subjective feelings it gives rise to serve to support our evolutionary fitness and the ability to transmit our genes. Presumably, then, our craving for others' attention and the anxiety and dismay resulting from its absence offers an evolutionary advantage. To understand this, we need to consider the importance of our social nature as a species.
+
+Like all primates, humans evolved to rely upon social structures to obtain resources and to defeat or evade threats. Work by anthropologist Robin Dunbar shows that early humans were able to establish groups of approximately 150 members, a much larger number than our evolutionary rivals. [10] This advantage allowed us to dominate the planet, but it came at a cost--we faced the greatest competition for resources (most notably mating opportunities and food) from within the group. Neuroscientist Matthew Lieberman suggests that this intra-group pressure led us to focus intensively on our social environment, giving rise to a keen sensitivity to our relative group status:
+
+Evolution, figuratively speaking, made a big bet on the importance of developing and using our social intelligence for the overall success of our species by focusing the brain's free time on it... The repeated return of the brain to this social cognitive mode of engagement is perfectly situated to help us become experts in the enormously complex realm of social living... In essence, our brains are built to practice thinking about the social world and our place in it." [11, emphasis original]
+
+As with so many aspects of our psychology, all of these dynamics are "features" for the species that often manifest as "bugs" in our individual experience. Our distant ancestors who were more attuned to their social standing as a consequence of the emotions generated by others' attention (and its absence) were more likely to pass on their genes. Their more oblivious contemporaries were at greater risk of losing social status, losing competitions for resources, and losing opportunities to pass on their genes.
+
+The result, after 200,000 years and some 10,000 human generations, is that we're acutely sensitive to others' attention and the feelings that arise from its presence or absence. Being the "center of attention" can lead some people to feel flustered or self-conscious, so more attention isn't always better (although even embarrassment is socially adaptive. [12]) But a craving for attention is a potent driver of emotions and behavior.
+
+Perhaps you're like my clients, feeling ambivalent about your relationship with social media but unable to disengage. Or you're like some of my former MBA students, forgoing financially preferable options in search of greater visibility. Or maybe you've even done something foolish while taking a selfie. If these examples of attention-seeking behavior aren't relevant to you, I suspect you can identify numerous others that are.
+
+To be clear, there's nothing "wrong" with such behavior--my intention here is to show that these responses are the predictable result of the way our minds work, and to portray the benefits of these dynamics as well as the costs. But the benefits are spread across homo sapiens as a collective, while we bear the costs as individuals--a burden that seems to be increasing as the "attention economy" evolves.
+
+Further, when we bear in mind the well-established psychological principle that "bad is stronger than good," [13] it's apparent that attention-seeking behavior is driven more by our anxiety and dismay at the prospect of being ignored than by any satisfaction we derive from being noticed, which at the very least renders life more stressful. So what can we do? What helps?
+
+Self-Awareness
+
+Understanding why we do what we do starts with acknowledging and even embracing the flaws and foibles of our psyches. It's important to remind ourselves that we can't overcome evolutionary psychology, nor would we want to, given the potential benefits of these dynamics. In practice this entails a greater degree of mindfulness, which therapist and meditation teacher Linda Graham defines simply as "nonjudgmental awareness and acceptance of experience," [14] and which I describe as follows:
+
+Mindfulness need not be viewed as an esoteric or mystical subject, although it's often perceived that way. It's merely the process of noticing what's happening around us, observing where our attention is going as a result, and sensing our cognitive, emotional and physical responses. A heightened sense of mindfulness allows us to direct our attention toward an intended object of focus and away from undesirable distractions. [15]
+
+Note the relationship here between our awareness of others' attention (or its absence) and the impact on our own. Our craving for others' attention evokes a host of emotions, which we invariably find captivating because "emotions are attention magnets." [16] Mere awareness of these feelings isn't sufficient to alter our emotional experience, but in its absence they will exert a powerful influence on our behavior--occasionally to our detriment.
+
+Emotion Regulation
+
+At the most basic level, emotions alert us to perceived opportunities and threats, and we move toward the former with excitement and away from the latter with apprehension. As evolutionary psychiatrist Nesse notes, this typically helps us achieve our social goals more effectively--but not always:
+
+The utility of an emotion depends entirely on the situation. In the face of threats or losses, anxiety and sadness are useful, but happy relaxation is worse than useless. When opportunities emerge, desire and enthusiasm are useful, but worry and sadness are harmful... If only all situations were so simple. For humans trying to navigate inordinately complex social networks, almost every situation involves conflicting opportunities, risks, gains, and losses, with vast complexity and uncertainty. [17]
+
+The anxiety evoked by an insufficiency of others' attention and the pleasure that accompanies a surfeit can certainly be helpful sources of data in guiding behavior--this is a key lesson of evolutionary psychology. The dilemma is that emotions are a "quick and dirty signal," in the words of neuroscientist Joseph LeDoux, which can sometimes lead us off course. [18] Compounding the problem is our immersion in the increasingly subtle machinery of the "attention economy," which is designed to stoke our emotions--sometimes for better, often for worse, always for the benefit of the platform.
+
+While we can't control the emotions evoked by others' attention (or its absence), once we're more aware of those feelings we can intervene to regulate them. It's essential to bear in mind that emotion regulation does not mean suppressing our feelings. Suppression is an act of make-believe--we pretend we're not feeling what we're feeling and hope to distract ourselves until the feeling passes. We can do this for short periods, but not for an extended length of time, and the effort may even be counter-productive. In contrast, emotion regulation involves improving our ability to sense, comprehend, articulate and express what we're feeling, and we develop those skills by getting closer to our emotions, not by distancing ourselves from them. [19]
+
+Intentional Action
+
+Neuroscience research going back several decades makes clear that emotions are vitally important inputs to the reasoning process, the occasional "noisy signal" notwithstanding. [20] But with a greater capacity to influence--as opposed to control--our emotional experience, we can allow those feelings to inform our behavioral choices with greater forethought. We can act more intentionally.
+
+I'm not suggesting that our every move should be planned out in advance. As I learned many years ago, at times we're best served by acting instinctively, with a high degree of spontaneity and in the absence of self-consciousness. [21] But even the decision to adopt that stance can be an intentional one, rather than a reflexive response triggered by anxiety or apprehension.
+
+So perhaps you do stay active on social media--but you do so intentionally, sharing what truly interests you rather than inflammatory content that drives engagement, without obsessing over likes or follower counts, and logging off without anxiety. And perhaps you do pursue that risky venture--but you do so intentionally, driven by a search for meaning and purpose in your work, rather than a desire to impress others or a fear of missing out. And perhaps you even take that eye-catching selfie--but maybe you just fake it. [22]
+
+This is a companion piece to the following:
+
+- Attention Surplus Disorder (Anxiety and Distraction)
+
+- Why You Can't Stop Thinking About Something
+
+- A Better Information Diet
+
+Footnotes
+
+[1] In 2005 I was so inspired by Seth Goldstein's analysis of the potential value of metadata that I spent a year working with him and numerous others on an effort to empower people to gather and make use of their own "attention data." I left that role to launch my coaching practice in 2006, but my immersion in that world impressed upon me the importance of attention, a perspective that has heavily informed my work with clients and students in the years since. A compilation of my writing on attention through 2019 can be found at the conclusion of A Better Information Diet.
+
+[2] To Stay Focused, Manage Your Emotions
+
+[3] Status Anxiety, page 6 (Alain de Botton, 2005)
+
+[4] The Theory of Moral Sentiments, Section III, Chapter II (Adam Smith, 1759, pages 62-63 in the 2010 edition. An abridged version is cited on page 5 of Status Anxiety.)
+
+[5] List of selfie-related injuries and deaths (Wikipedia)
+
+[6] How Many People Die Each Day in 2023? (World Population Review)
+
+[7] A Better Information Diet
+
+[8] Good Reasons for Bad Feelings: Insights from the Frontier of Evolutionary Psychiatry, page xv (Randolph Nesse, 2020)
+
+[9] Sociobiology: The New Synthesis, page 4 (Edward O. Wilson, 1975/2000, and cited on pages 48-49 of Good Reasons for Bad Feelings)
+
+[10] Neocortex size as a constraint on group size in primates (Robin Dunbar, Journal of Human Evolution, 1992)
+
+[11] Social: Why Our Brains Are Wired to Connect, pages 19-22 (Matthew Lieberman, 2013)
+
+[12] The Value of Embarrassment
+
+[13] Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen Vohs, Review of General Psychology, 2001)
+
+[14] Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being, page 51 (Linda Graham, 2013)
+
+[15] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[16] Why You Can't Stop Thinking About Something
+
+[17] Good Reasons for Bad Feelings: Insights from the Frontier of Evolutionary Psychiatry, pages 55-56
+
+[18] The Emotional Brain: The Mysterious Underpinnings of Emotional Life, page 163 (Joseph LeDoux, 1998)
+
+[19] Adapted from The Tyranny of Feelings.
+
+[20] Antonio Damasio on Emotion and Reason
+
+[21] Awareness and Spontaneity
+
+[22] Two favorite examples: Photograph of Cliff Hanger Isn't Quite What It Seems (Dan Evon, Snopes, 2015) and Pilot says he Photoshops his selfies, and yet somehow people still think they're real (Gianluca Mezzofiore, Mashable, 2017)
+
+Photo of The National by Matt Biddulph.
+
+
+===== END ED BOT ESSAY 4179 =====
+===== BEGIN ED BOT ESSAY 4180 =====
+---
+title: Three Painful Truths (On Change, Leadership & Mortality)
+url: https://edbatista.com/2023/03/three-painful-truths-on-change-leadership-and-mortality.html
+slug: three-painful-truths-on-change-leadership-and-mortality
+published: 2023-03-25T22:46:04
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+I believe three things to be true:
+
+- We're entering an era of heightened uncertainty and instability.
+
+- Leadership roles will be increasingly stressful as a result.
+
+- This existence is finite, and we are mortal creatures.
+
+(You may wonder why two predictions are followed by such a self-evident proposition--I'll address that below.)
+
+I'm sorry to be the bearer of bad news, and if you'd rather ignore these painful truths I wouldn't blame you in the least. Some leaders will do just that, and they'll be happier as a result--for a while. They'll turn a blind eye to the increasing volatility that has characterized our world--until change imposes itself upon them. They'll continue to lead as they've led in the past, and they'll get by--until they're depleted and burned out. They'll do all the things we do when we imagine we're immortal--until that illusion is no longer sustainable.
+
+I'm not suggesting that we're incapable of rising to meet these challenges. A dynamic world is full of opportunities as well as risks. Tough times make great leaders and give them occasions to shine. And the finite nature of this existence is what makes it meaningful. At my best, I embrace all of this, and my hopeful nature picks me up when I'm daunted. But my pragmatism makes it very clear that faith alone will not see us through. We need to accept reality. We need to develop our resilience. And we'll need support along the way. First, though, it's worth exploring why these truths are so painful and how they're related.
+
+ 
+
+On Change
+
+We all have different orientations toward change, and our personal attitude can vary tremendously over the course of our lives. Some of us embrace it more willingly than others, and we're all more or less open at different times, depending on our circumstances. But we also possess a powerful drive to exert control in our lives. We may embrace change willingly, even eagerly, and yet it's vital that we experience agency in the process.
+
+As I've written before, "pioneering psychotherapist Alfred Adler theorized that a 'will to conquer' the cosmos is the fundamental human motivation [1], and work by psychologists over the past century indicates that a desire to exert influence and determine outcomes is widespread and pervasive. [2] Recent research by a team from Columbia and Rutgers suggests that this need for control is inherently biological, not merely a socialized preference." [3] [4]
+
+But data from a number of disciplines suggests that the pace of change is increasing, rendering our world less certain and more unstable, making it more difficult to exert control. We see this as a result of developments in artificial intelligence [5], the likelihood of future pandemics [6], concerns about the banking system and financial markets [7], long-term cycles of social discord [8], and even the weather. [9]
+
+Our inherent "will to conquer" and our evolved desire for control are in direct tension with these trends, all of which seem to be accelerating, albeit at varying rates. It will grow more difficult to exert control and experience agency in a world subject to larger and less predictable dislocations. And while these changes will present us with endless opportunities for innovation and growth (as individuals, as societies, as a species), it will be painful to recognize the inevitable limits on our control and agency, to submit to forces beyond our influence (or comprehension), to accept disruption as an ongoing state of affairs, rather than a brief jolt.
+
+ 
+
+On Leadership
+
+In this unsettling environment we will increasingly look to leaders for guidance and reassurance, placing more pressure on them to shield us from the forces of change--and to help us find courage when change overtakes us. This is a function of the symbolic role that leaders fill--leadership isn't just about making strategic decisions and allocating resources. It is also--and I would suggest first and foremost--about storytelling, a topic I've addressed at length:
+
+Storytelling [is] such a powerful process...because we depend upon narratives to navigate the world--they are our compass in the wilderness, our lantern in the dark. Organizational psychologist Karl Weick called this "sensemaking": we rely upon narratives to "make sense" of ambiguous situations and pursue a plan of action in coordination with others. But our reliance on narratives means that in the absence of a coherent story we will feel lost and ungrounded. This poses a risk when we face rapid change that may overtake our existing narrative and render it out of date, as Weick noted: "People...act as if events cohere in time and space and that change unfolds in an orderly manner. These everyday cosmologies are subject to disruption." [10]... Through the act of storytelling the leader provides the group with an explanatory narrative that is invested with their authority and informed by their expertise, and thus more influential and credible. [11]
+
+At the best of times this is hard work, both cognitively complex and emotionally taxing, and it will only grow more challenging in the era to come. What are the explanatory narratives that will reconstruct our "everyday cosmologies"? How will our ability to understand the world around us keep up with the accelerating pace of change? Leaders will be hard-pressed to answer these questions--and one way of interpreting the leadership failures we see everywhere today is as a failure of imagination, an inability to identify and communicate a compelling story that enables people to "make sense of ambiguous situations and pursue a plan of action in coordination with others."
+
+Compounding this difficulty is the dual burden we place upon leaders. We expect them to serve as avatars, embodying the community they serve, scrupulously adhering to cultural norms and values, and scrutinizing their behavior for any deviations. [12] But even as we impose these demands upon them, we simultaneously fail to "empathize up." As I've noted before, "Even if we have a good relationship with someone in a superior position, the relative nature of our respective positions can create a sense of 'otherness' that makes it psychologically difficult for us to empathize with that person’s perspective and emotions." [13] We will ask more of leaders and offer them less in return.
+
+But aren't leaders well-compensated for these pains? It's inarguable that executive compensation has risen dramatically since the 1970s. [14] And yet, as I wrote recently, "The status, compensation and other perks [of leadership roles] are pleasurable, to be sure, but their power as sources of motivation inevitably diminishes or even disappears. A process psychologists call 'hedonic adaptation' ensures that we adjust to our circumstances and eventually take them for granted. [15] I see this constantly in my practice--leaders may strive mightily for years to obtain a certain position or achieve a given financial goal, and when they do the feeling of accomplishment is frequently less fulfilling and more ephemeral than they expected." [16]
+
+I've witnessed all of this in my work with leaders over the past two decades as the trends described above gained strength. As they accelerate in the era to come, leaders will be insulated from some of the painful consequences of change, but the experience of leadership itself will grow more stressful and demanding.
+
+ 
+
+On Mortality
+
+This existence is finite, and we are mortal creatures. Why make such an obvious statement--and how is it relevant to my points above? First, what may appear obvious in principle is anything but in practice. It is painful to acknowledge our mortality, and we strenuously resist doing so. Anthropologist and philosopher Ernest Becker located this at the heart of the human condition:
+
+The essence of man is really his paradoxical nature, the fact that he is half animal and half symbolic... He is a symbolic self, a creature with a name, a life history, [but] his body aches and bleeds and will decay and die. It is a terrifying dilemma. [17]
+
+Our terror serves an essential purpose, Becker argues--the fear of death is "an expression of the instinct of self-preservation, which functions as a constant drive to maintain life and to master the dangers that threaten life." [18] But to function on a day-to-day basis we have to keep our fear of death on the margins of consciousness, a point Becker makes by citing the psychoanalyst and historian Gregory Zilboorg--the fear of death "must be properly repressed to keep us living with any modicum of comfort... Therefore in normal times we move about actually without ever believing in our own death, as if we fully believed in our own corporeal immortality." [19]
+
+And why does this matter? Because the definition of "normal times" is changing, and in the tumultuous era now underway many of us will be reminded of our mortality much more frequently. For billions of people mortality is already an everyday affair, of course, but Becker and Zilboorg are writing for anyone not yet familiar with death. (They were--Becker liberated a Nazi concentration camp at age 20, and Zilboorg witnessed the Russian Revolution at age 27.)
+
+The trying circumstances to come will be painful, but we will undoubtedly survive. I'm a realist, not an alarmist, and humanity has endured far worse. But I suspect that in this new era one of our most reliable tools for "terror management" [20] will be less effective. I'm referring to what we might call "heroic projects," a concept derived from Becker's work that has had a significant influence on my own:
+
+As described by Sam Keen in his introduction to Becker's The Denial of Death, Becker believed that "the basic motivation for human behavior is our biological need to control our basic anxiety, to deny the terror of death," and over the course of our lives we engage in any number of activities with the (typically unconscious) goal of achieving a symbolic victory over mortality, which offers us at least a provisional respite from this terror. These energies can be directed toward many different ends--raising a family, building a business, pursuing fame or status or wealth. [21]
+
+I believe that this is one of the primary reasons why people pursue leadership roles, despite all of the headaches and heartaches noted above. Leadership itself is a heroic project, an attempt to make a difference, leave a legacy, and in so doing strive to transcend mortality. Few leaders take a job or start a company with this goal explicitly in mind, but it's often a factor at some level. [22]
+
+This striving ultimately proves futile, and at some point we must all come to terms with mortality. Whatever we may believe about what precedes or follows this existence, its finite nature eventually asserts itself. And yet this doesn't render our heroic projects invalid or unworthy. It is right and necessary that we make these efforts--that's how we keep the terror of death at bay, which allows us to function. We raise the family, build the business, pursue fame or status or wealth, hoping that when we accomplish our goal we'll finally feel some ease, a sense of peace, mission accomplished. That hope may be misplaced, but there's nothing wrong with striving toward an illusory goal when it's the striving that matters, and heroic projects serve that purpose.
+
+But this work is hard enough when times are good and life is predictable, and it will be increasingly difficult in the era that is emerging. The factors noted above--artificial intelligence, future pandemics, financial instability, social discord, and even the weather will make it harder for leaders to reliably pursue and accomplish any number of heroic projects. This doesn't mean there will be fewer opportunities for heroism--as I note above, tough times make great leaders. But even the best leaders' efforts will be repeatedly thwarted, and it will be painful.
+
+ 
+
+So What Can We Do?
+
+There's no simple solution, but there are certainly steps we can take. We can ready ourselves by acknowledging and accepting reality. We can prepare by developing our capacity for resilience. And we can identify and obtain the support we'll need in the process. What will this look like in practice?
+
+Acceptance
+
+I'm not a Buddhist, but I've learned much from teacher and author Pema Chödrön, and I find myself returning to this passage in difficult times:
+
+We think that if we just meditated enough or jogged enough or ate perfect food, everything would be perfect... Doing this is setting ourselves up for failure, because sooner or later, we're going to have an experience that we can't control: our house is going to burn down, someone we love is going to die, we're going to find out we have cancer, a brick is going to fall out of the sky and hit us on the head... To be fully alive, fully human, and completely awake is to be continually thrown out of the nest. [23]
+
+Mindfulness, exercise, a healthy diet--all worthy endeavors that I highly recommend. [24] But many of us pursue such activities in precisely the way that Chödrön describes--with the goal of exerting control over our minds and bodies under the illusion that doing so will guarantee that our experience in the world is predictable and pleasant. The absurdity of that idea will likely grow more evident in the years to come.
+
+We should continue these efforts, but with full awareness that they will not keep us safe and secure in the nest. We can't predict the nature of the unexpected event that will throw us out, but somehow, some day, we will be thrown out. This need not entail a passive stance in the face of difficulties--but rather than react with shock and outrage, we can respond with acceptance and determination.
+
+Resilience
+
+We often misunderstand the meaning of resilience, confusing it with invulnerability or toughness. The etymological root of resilience is the Latin resilire, which means "to rebound, recoil or jump back." Resilient materials deform under pressure while retaining their internal consistency, later returning to their original form. Iron is tough, but it's not resilient--when it reaches its breaking point it shatters into pieces. Being resilient in the face of difficulties doesn't mean that we're unaffected by painful experiences. Being resilient means that we have the ability to absorb the impact, respond flexibly, adapt to the resulting stress and pressure, and persist in these efforts over time--without shattering into pieces. [25]
+
+A model of resilience was Admiral James Stockdale, a prisoner of war for seven years in Vietnam. When he was asked by business author Jim Collins who among his fellow POWs were least likely to survive, he replied,
+
+Oh, it’s easy. I can tell you who didn’t make it out. It was the optimists... They were the ones who always said, "We’re going to be out by Christmas." Christmas would come and it would go. And there would be another Christmas. And they died of a broken heart... This is what I learned from those years in the prison camp, where all those constraints just were oppressive. You must never ever ever confuse, on the one hand, the need for absolute, unwavering faith that you can prevail despite those constraints with, on the other hand, the need for the discipline to begin by confronting the brutal facts, whatever they are. We’re not getting out of here by Christmas. [26]
+
+Among the various factors that contribute to resilience [27], one of the most important is emotion regulation, which is what enables that critical balance between faith that we will prevail and discipline to confront the brutal facts. The popular conception of emotions as mindless impulses that are antagonistic to logical reasoning is woefully inadequate and out-of-date. Neuroscientists have known for decades that emotions are vitally important inputs to the reasoning process. [28] At the same time, as neuroscientist Antonio Damasio notes, "uncontrolled or misdirected emotion can be a major source of irrational behavior"--a truism evident to anyone who's witnessed a panicked mob...or a bank run. [29]
+
+We can't control our emotions--nor would we want to [30]--but we can regulate them, which entails improving our ability to sense, comprehend, articulate and express what we're feeling. [31] This is of the utmost importance for leaders in the midst of a crisis, not only because they must manage their own inner emotional state, but also because their emotions are contagious. [32] Establishing that balance between faith and discipline on a team--or in a nation--starts with the leader's ability to look within and do the same.
+
+Support
+
+Leading is an inherently social task, and yet it is often a lonely one. As I wrote years ago, reflecting on my own experiences, "If you're a leader at the head of an organization, by definition you don't have internal peers who share your perspective. Your Board of Directors isn't going to provide you with the developmental support you've enjoyed from previous mentors and managers--they're there to challenge you, not to nurture you. And your family is going to get tired of hearing about the challenges you face long before you get tired of talking about them." [33] So it's essential for leaders to have people they can turn to for support, and those relationships need to be up and running long before a crisis hits.
+
+While I'm obviously a strong supporter of coaching, by no means is a coach a leader's only option. I tell my clients that I'm merely one member of their "coaching team," and they should activate as many others as possible, while taking care to identify truly trustworthy allies. [34] This includes family members and friends, who, even if they have limited patience or skills, can be guided into serving as more effective sources of support. [35]
+
+I also advise my clients to think systemically, which in this context entails recognizing that all of the other leaders around them will be struggling with the challenges identified above. There are limits on colleagues' ability to offer support, thus the need for coaches and other external resources. But optimally peers and teammates will be there for each other when needed--and this rests upon an organizational culture that values empathy without sacrificing accountability. [36]
+
+ 
+
+In Closing
+
+ My work piles up,
+I falter with disease.
+Time rushes toward me--
+it has no brakes. Still,
+the radishes are good this year.
+Run them through butter,
+add a little salt.
+
+~Jim Harrison, "Zona" [37]
+
+This poem was among those found on Harrison's writing desk when he died in 2016. Harrison is a hero of mine, not least because he faced adversity--the loss of an eye as a child, the death of his father and sister in an automobile accident, years of struggle as a writer--and yet he persevered, living a richly fulfilling life and completing a vast body of work.
+
+He was dying when he wrote the lines above, and no doubt he knew it, but that knowledge didn't stop him from working, or from enjoying all that this existence has to offer, right up until the end. I hope to find inspiration in his example during the challenges I will no doubt face in the years to come. I hope this piece encourages you to do the same.
+
+The radishes are good this year. Run them through butter, add a little salt.
+
+ 
+
+For Further Reading
+
+Change
+
+- The Obstacle Is The Way
+
+- Aggression, Panic, Paralysis, Denial
+
+- Tumbling Down Maslow's Hierarchy
+
+- Fooled by Randomness: The Hidden Role of Chance in Life and the Markets (Nassim Nicholas Taleb, 2008)
+
+Leadership
+
+- How Leaders Overcome Adversity
+
+- From Peacetime to Wartime
+
+- Leadership as Professional Practice
+
+- Compass and Weathervanes (30 Questions for Leaders)
+
+Mortality
+
+- Not Every End Is a Goal (On Midlife Malaise)
+
+- The Final Third (On Mortality, Values and Spending Time)
+
+- Death: The End of Self-Improvement (Joan Tollifson, 2019)
+
+- Four Thousand Weeks: Time Management for Mortals (Oliver Burkeman, 2021)
+
+Acceptance
+
+- When We Are Ready, the Practice Will Be Waiting
+
+- On the Shortness of Life
+
+- When Things Fall Apart: Heart Advice for Difficult Times (Pema Chödrön, 1996/2016)
+
+- Gratitude (Oliver Sacks, 2015)
+
+Resilience
+
+- The Tyranny of Feelings
+
+- How to Cross Antarctica (On Surviving Chaos)
+
+- How I Read Stoicism
+
+- Ignoring Bandits and Building Resilience
+
+Support
+
+- How to Find (and Choose) a Coach
+
+- Getting Coaching for Your Team
+
+- Trauma Stewardship: An Everyday Guide to Caring for Self While Caring for Others (Laura van Dernoot Lipsky, 2009)
+
+- Helping: How to Offer, Give and Receive Help (Edgar Schein, 2009)
+
+ 
+
+Footnotes
+
+[1] "Individual Psychology" (Alfred Adler, Chapter 21 in Psychologies of 1930, edited by Carl Murchison, 1930)
+
+[2] Feeling of Control Viewed as Central in Mental Health (Daniel Goleman, The New York Times, October 7, 1986):
+
+Researchers are finding that the sense of being in control, and the desire for such control, are more crucial and pervasive aspects of personality than psychologists had previously realized... 'We have a deep need to feel competent, to be in control of our environment; it is one of the primary motives in behavior,' said Jerry Burger, a psychologist at the University of Santa Clara.
+
+[3] Born to Choose: The Origins and Value of the Need for Control (Lauren Leotti, Sheena Iyengar and Kevin Ochsner, Trends in Cognitive Science, October 2010):
+
+Belief in one’s ability to exert control over the environment and to produce desired results is essential for an individual’s well being. It has been repeatedly argued that the perception of control is not only desirable, but it is likely a psychological and biological necessity... Converging evidence from animal research, clinical studies, and neuroimaging work suggest that the need for control is a biological imperative for survival.
+
+[4] Excerpted from Authority and Control in Organizational Life.
+
+[5] Embracing the rapid pace of AI (Laurel Ruma interviewing Cliff Justice, US leader for enterprise innovation, KPMG, MIT Technology Review, 2021):
+
+Cliff Justice: Even if one could fully wrap their head around the progress of artificial intelligence and the potential of artificial intelligence, changing an organization and changing the mindset and the culture in a way to adopt and benefit from the opportunities that artificial intelligence poses and also protect against the threats take some time. So, it creates a level of anxiety and caution which is, in my view, well justified.
+
+[6] See Statistics Say Large Pandemics Are More Likely Than We Thought (Michael Penn, Duke Global Health Institute, 2021) and Pandemics Will be More Frequent (Abraham Haileamlak M.D., Ethiopian Journal of Health Science / National Library of Medicine, 2022).
+
+[7] To take just one example, see Fed Walks Tightrope Between Inflation and Bank Turmoil—but for How Long? (Greg Ip, The Wall Street Journal, 2023)
+
+[8] As I wrote in my December 2020 newsletter, "The historian Peter Turchin has a theory that complex societies undergo predictable periodic crises, driven by 1) a decline in general wages, 2) heightened competition among elites, and 3) the loss of asabiya, an Arabic term that refers to 'the capacity of a social group for concerted collective action.' This characterized the U.S. in the middle of the 19th century, and the result, Turchin would argue, was the Civil War. A similar set of circumstances prevailed in the U.S. after World War I, when the country experienced a surge of violent activity, from racist mobs to labor strife. At both junctures U.S. society underwent a profound and dramatic change, and Turchin believes we’re at a similar point in the historical cycle. We’re unlikely to return to the status quo ante, he suggests, because the current environment isn’t a function of the pandemic, or the current administration, or any single given cause. These factors may not be causes at all, but, rather, symptoms of much larger trends to be observed over the past 50 years in the three elements in Turchin’s model."
+
+[9] See Explaining Extreme Events in 2021 and 2022 from a Climate Perspective (American Meteorological Society, 2022)
+
+[10] "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster" (Karl Weick, Administrative Science Quarterly, Volume 38, Number 4, December 1993)
+
+[11] Excerpted from The Importance of Shared Narrative.
+
+[12] Adapted from Leader as Avatar.
+
+[13] Excerpted from The Difficulty of Empathizing Up.
+
+[14] See CEO Compensation: Data (David Larcker, Bryan Tayan, Stanford Graduate School of Business, 2019) and CEO Compensation (Carola Frydman, MIT Sloan School of Management and Dirk Jenter, Stanford Graduate School of Business, 2008)
+
+[15] Early research on hedonic adaptation dates back to the 1970s--for example, see Lottery Winners and Accident Victims: Is Happiness Relative? (Philip Brickman, Dan Coates and Ronnie Janoff-Bulman, Journal of Personality and Social Psychology, 1978). More recently, UC Riverside Sonja Lyubomirsky provides what I find to be the most useful descriptions of the concept:
+
+Although we may achieve temporary boosts in well-being by moving to new parts of the country, securing raises, or changing our appearances, such boosts are unlikely to be long-lasting. The primary reason...is that people readily and rapidly adapt to positive circumstantial changes. (The How of Happiness, page 63, 2007)
+
+The more we attain, the happier we become. But, at the same time, the more we attain, the more we want, which negates the increased happiness. (The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, page 120, 2014) 
+
+[16] Excerpted from Leaders Love Puzzles (for Better and for Worse).
+
+[17] The Denial of Death, pages 25-26 (Ernest Becker, 1973)
+
+[18] Ibid, page 16.
+
+[19] "Fear of Death" (Gregory Zilboorg, Psychoanalytic Quarterly, 1943, cited in The Denial of Death, page 17)
+
+[20] I'm not aware that Ernest Becker ever used the term "terror management," but his work has been the inspiration for a concept in psychology known as terror management theory.
+
+[21] Excerpted from Learning From Sisyphus.
+
+[22] I'm convinced that this explains much of the ongoing fascination with Apple co-founder Steve Jobs well over a decade after his death. While he deserves to be remembered as a gifted entrepreneur who launched and later rescued an iconic company that continues to influence the culture at large, it is the fact that he is remembered at all that makes him a mythic figure in the eyes of so many leaders today. Jobs succeeded--at least for the time being--in achieving his heroic project. Of all the successful businesspeople from the past, perhaps only Henry Ford compares, the Jobs of his era. We still know Ford's name, although it doesn't come up in my practice nearly as often as Jobs'. And while both will eventually be forgotten, the fact that they are remembered is what makes them relevant, even more than the accomplishments that made them memorable.
+
+[23] When Things Fall Apart, page 70 (Pema Chödrön, 1997)
+
+[24] See the following:
+
+- Don't Just Do Something, Sit There! (Mindfulness for Busy People
+
+- Get Moving! (Exercise for Busy People)
+
+- Low-Carb High-Fat (LCHF) Resources
+
+[25] Adapted from The Ruling Out of Possibilities (On Failure).
+
+[26] The Stockdale Paradox (Jim Collins, 2017)
+
+[27] Work by psychologists Karen Reivich and Andrew Shatté suggests that resilience is a function of the extent to which we manifest certain characteristics and engage in specific behaviors, all of which are learnable or subject to influence: Emotion regulation, impulse control, optimism, causal analysis, empathy, self-efficacy and reaching out. See The Resilience Factor: 7 Keys to Finding Your Inner Strength and Overcoming Life's Hurdles, Chapter 2: How Resilient Are You?, pages 31-47 (Karen Reivich and Andrew Shatté, 2002).
+
+[28] Antonio Damasio on Emotion and Reason
+
+[29] Descartes' Error: Emotion, Reason and the Human Brain, page 53 (Antonio Damasio, 2005)
+
+[30] "It is clear that emotion should not be very susceptible to willful control. If we could turn off all our emotions, feel no pain, never laugh, not be gripped by fear or despair, stop being excited, and so on, we could easily end up dead... The priority of emotions over will is important for our survival because it allows our plans to be interrupted by the immediate pressures of reality.." From White Bears and Other Unwanted Thoughts: Suppression, Obsession, and the Psychology of Mental Control, page 123 (Daniel Wegner, 2nd edition, 1994)
+
+[31] The Tyranny of Feelings
+
+[32] For more on leadership and emotional contagion:
+
+- The Contagious Leader: Impact of the Leader's Mood on the Mood of Group Members, Group Affective Tone, and Group Processes (Thomas Sy, Stephane Cote and Richard Saavedra, Journal of Applied Psychology, 2005)
+
+- For better results, emotional contagion matters (Sigal Barsade, Wharton @ Work, 2011)
+
+- Leadership and Emotional Contagion (Louise Altman, Intentional Communication, 2011)
+
+- Contagious leaders and followers: Exploring multi-stage mood contagion in a leader activation and member propagation (LAMP) model (Thomas Sy and Jin Nam Choi, Organizational Behavior and Human Decision Processes, 2013)
+
+- Emotion contagion in leadership (Inga Minelgaite and Egle Vaiciukynaite, Business and Economic Horizons, 2016)
+
+[33] Leading Is Lonely and Other Thoughts
+
+[34] The Friendship of Wolves
+
+[35] What Do You Need Right Now? (Advice, Listening, A Hug?)
+
+[36] For more on organizational culture, see the following:
+
+- Accountability and Empathy (Are Not Mutually Exclusive)
+
+- Hard Problems in Soft Cultures
+
+- Safety Is a Resource, Not a Destination
+
+[37] Dead Man's Float (Jim Harrison, 2016)
+
+ 
+
+Photos: Coyote traps courtesy of Fur-Fish-Game. The Edith Macefield house courtesy of My Modern Met. And Jesus Wept in Oklahoma City by Jerry Worster. San Francisco National Cemetery by Hitchster. Weightlifter by U.S. Navy 6th Fleet. Radishes by sk.
+
+
+===== END ED BOT ESSAY 4180 =====
+===== BEGIN ED BOT ESSAY 4181 =====
+---
+title: Leaders Love Puzzles (for Better and for Worse)
+url: https://edbatista.com/2023/03/leaders-love-puzzles.html
+slug: leaders-love-puzzles
+published: 2023-03-19T08:59:48
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+An observation drawn from my practice is that leaders love puzzles. So do many people, of course, but typically as an absorbing hobby. In my experience a disproportionate number of leaders exhibit an almost obsessive need to tackle and solve complex problems, and this trait is one of the factors that drove them to seek out (or create) a leadership role, which reliably presents them with any number of "puzzles" to solve on a daily basis.
+
+This is particularly true of entrepreneurial founders and startup leaders. In their case the new venture is a potential solution to a massive unresolved problem, and the business itself is a multi-layered puzzle, the real-life equivalent of a video game in which completing one level allows you to keep playing at the next level, usually with increasing degrees of difficulty.
+
+Sociologist Thomas Henricks, whose research explores the role of play in human life, identifies the mechanisms that make puzzles of all types so engrossing to pursue and so fulfilling to solve:
+
+Different puzzles have much in common. They produce similar sensations in their players: mixes of frustration and anticipation as the hunt advances followed (ideally) by the end-pleasure of solution. Sometimes that end--and the steps required to reach it--is apparent, but often it is not. In that latter case, success features a series of "aha" moments, the sudden revelations we call discovery. [1]
+
+The process of solving a puzzle also engages the human fascination with "stories," in the broadest sense of the term. As we navigate the world around us, we automatically craft a series of explanatory narratives that help us make sense of our surroundings and predict what will happen next, a process I've called "the narrative engine." [2] This drive helps to explain why so much of the media we consume presents us with a story in the form of a puzzle: mysteries, thrillers, romances, adventure tales. Nearly every story is a puzzle, and nearly every puzzle tells a story.
+
+These dynamics are at the heart of what makes leadership roles rewarding. The status, compensation and other perks are pleasurable, to be sure, but their power as sources of motivation inevitably diminishes or even disappears. A process psychologists call "hedonic adaptation" ensures that we adjust to our circumstances and eventually take them for granted. [3] I see this constantly in my practice--leaders may strive mightily for years to obtain a certain position or achieve a given financial goal, and when they do the feeling of accomplishment is frequently less fulfilling and more ephemeral than they expected.
+
+In contrast, the satisfaction to be derived from solving puzzles is endless, in part because in business resolving any problem usually creates new ones. [4] And for many leaders in my practice this is both a blessing and a curse. It makes work intrinsically motivating and helps to provide the stamina needed to pursue complex challenges for long periods of time. But it can also make it very difficult to stop working, switch off, set limits, and take time away--or even get a good night's sleep.
+
+If this sounds like you, what can you do about it?
+
+Increase Your Self-Awareness
+
+Awareness is rarely sufficient on its own to drive change, but it's the necessary first step. Your healthy drive to solve puzzles in the business (or the puzzle that is the business) turns counterproductive when you no longer make an active, deliberate choice to work but instead work compulsively. You compound the problem when you fail to prioritize your tasks, allowing what's urgent (or simply at the top of your Inbox) to dictate your agenda. Instead...
+
+- Invest in a mindfulness practice, not because it will mitigate your stress--it won't--but to help you notice where your attention is going.
+
+- Treat your attention like a precious resource, and try to maximize the return on your investments.
+
+- Understand the difference between urgency and importance, and be discerning in what you choose to attend to--and ignore.
+
+Manage Your Emotions
+
+Emotions, both positive and negative, are at the root of your inability to stop working. The fulfillment and pleasure that are rewards for successfully solving a business-puzzle go hand-in-hand with the frustration that arises when a puzzle resists your best efforts, the anxiety evoked when time or other resources grow short, and the fear that you may someday fail--and thus lose the right to keep puzzling. We can't control our emotions, nor would we want to, but we can regulate them and their impact on our behavior:
+
+- Learn more about the role emotions play in reasoning, and their potential to disrupt your intentions.
+
+- Note that the difficulty of disconnecting from business-puzzles is likely driven not by strong emotions but by weak ones.
+
+- Explore the relationship between emotion and attention.
+
+Find Other Puzzles
+
+It's profoundly difficult to stop thinking about something, so attempts to simply disengage with work will likely fail--the business-puzzles are just too compelling. [5] But if you keep working right up until bedtime, your brain will continue to try to solve those particular puzzles, which may diminish the quality of your sleep or even wake you up in the middle of the night. The solution is to substitute other puzzles, while taking steps to ensure that they remain healthy distractions and don't become unhealthy obsessions:
+
+- Most media you consume takes the form of a puzzle, but your laptop and phone make it all too easy for business-puzzles to interrupt you, so manage the flow of business data, and note that multi-tasking can be harmful.
+
+- Video games, social media, and any form of "news" [6] offer a perpetual supply of alternative puzzles, but they're also meticulously engineered to hijack your attention, so engage them with care.
+
+- Consider the benefits of a much older form of "puzzle technology"--paper. A good book will provide you with a fulfilling puzzle without interrupting you with notifications, and research suggests that reading a book in bed results in a better night's sleep. [7]
+
+ 
+
+Footnotes
+
+[1] Why We Enjoy Puzzles: The View From Play Studies (Thomas Henricks, Psychology Today, 2022)
+
+[2] A Better Information Diet
+
+[3] Early research on hedonic adaptation dates back to the 1970s--for example, see Lottery Winners and Accident Victims: Is Happiness Relative? (Philip Brickman, Dan Coates and Ronnie Janoff-Bulman, Journal of Personality and Social Psychology, 1978). More recently, UC Riverside Sonja Lyubomirsky provides what I find to be the most useful descriptions of the concept:
+
+Although we may achieve temporary boosts in well-being by moving to new parts of the country, securing raises, or changing our appearances, such boosts are unlikely to be long-lasting. The primary reason...is that people readily and rapidly adapt to positive circumstantial changes. (The How of Happiness, page 63, 2007)
+
+The more we attain, the happier we become. But, at the same time, the more we attain, the more we want, which negates the increased happiness. (The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, page 120, 2014) 
+
+[4] The Problems of Success
+
+[5] Why You Can't Stop Thinking About Something
+
+[6] The scare quotes around "news" reflect my opinion that the vast majority of information presented today via any and all news media comes in the form of puzzles intended to arouse anxiety and distress, while fostering the illusion that further passive consumption is a form of constructive puzzle-solving. I've had many clients who successfully stopped working on business-puzzles at a reasonable hour only to find themselves obsessively doom-scrolling late into the night. In this sense there's no distinction among video-games, social media, and most "news"--but the latter comes wrapped in a veneer of pseudo-productivity and virtue, making it all the more insidious.
+
+[7] Does reading a book in bed make a difference to sleep in comparison to not reading a book in bed? (Elaine Finucane et al, National Library of Medicine, 2021)
+
+ 
+
+Photo by freebie.photography.
+
+
+===== END ED BOT ESSAY 4181 =====
+===== BEGIN ED BOT ESSAY 4182 =====
+---
+title: Some Crises Build Character. Others Reveal It.
+url: https://edbatista.com/2023/03/some-crises-build-character-others-reveal-it.html
+slug: some-crises-build-character-others-reveal-it
+published: 2023-03-13T18:54:36
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+Something bad happened, and there was a crisis. There are still many risks, and the situation could yet turn worse, but at the moment, catastrophe has been averted. If approached correctly, this can be a fruitful learning experience for you and the people around you. It may seem too early to learn from the crisis, but don't wait too long. Nobel Prize-winning psychologist Daniel Kahneman notes an important distinction between our experience and our memories:
+
+The experiencing self is the one that answers the question: "Does it hurt now?" The remembering self is the one that answers the question: "How was it, on the whole?"... Confusing experience with the memory of it is a compelling cognitive illusion... The experiencing self does not have a voice. The remembering self is sometimes wrong, but it is the one that keeps score and governs what we learn from living, and it is the one that makes decisions. What we learn from the past is to maximize the qualities of our future memories, not necessarily of our future experience. This is the tyranny of the remembering self. [1]
+
+So while events are still fresh in your mind, and the distress and anguish felt by your experiencing self are still vivid, here are some questions to pose to yourself and others:
+
+What did you learn about yourself?
+
+How did you respond under pressure, anxiety, and uncertainty?
+
+Crises evoke a sense of threat, which triggers the "fight, flight, or freeze" response. What did you learn about your tendencies?
+
+How did you communicate with people (venue, channel, cadence, level of detail, tone)?
+
+How did people respond to your communications? What does that tell you about your effectiveness?
+
+How did you make decisions? What did you learn about your decision-making under stress?
+
+What did you learn about the people around you?
+
+How did THEY respond under pressure, anxiety, and uncertainty?
+
+What did you learn about THEIR "fight, flight, or freeze" tendencies?
+
+How did they communicate with you and others?
+
+How effective were their communication efforts?
+
+How did THEY make decisions? What did you learn about THEIR decision-making under stress?
+
+ 
+
+Gathering this data is a useful exercise, and it's by no means sufficient. Awareness is always the necessary first step, but it rarely leads to growth on its own. Truly learning from this crisis will entail understanding your strengths and your weaknesses, and then engaging in an ongoing effort to maximize the former and address the latter.
+
+More specifically, you'll want to understand how you can best prepare for the next crisis. Outdoor writer Tom Stienstra survived countless life-threatening situations during his decades roaming the wilderness by remembering a piece of wisdom from self-defense instructor Il Ling New: "Everyone thinks they will rise to the occasion. What happens instead is that you default to your level of training." [2] So here are some further questions to consider:
+
+What do your responses above tell you about your strengths and weaknesses?
+
+How can you be better prepared for the next crisis?
+
+What might it look like to train for that crisis?
+
+Who might you turn to, where might you go, to obtain such training?
+
+ 
+
+The questions above are largely aimed at capabilities, but crises also teach us something essential that can't be learned under any other circumstances about character.
+
+What did you do that you're proud of? What motivated those actions?
+
+What did you do that you're NOT proud of? What motivated THOSE actions?
+
+What do any of these actions say about your character?
+
+What do the actions of others say about THEIR character?
+
+What do you want to remember?
+
+ 
+
+Footnotes
+
+[1] Thinking, Fast and Slow, page 381 (Daniel Kahneman, 2013)
+
+[2] Tom Stienstra’s Tales of Survival (San Francisco Chronicle, 2023)
+
+ 
+
+For Further Reading
+
+How Leaders Overcome Adversity
+
+Aggression, Panic, Paralysis, Denial
+
+The Importance of Slowing Down
+
+From Peacetime to Wartime
+
+ 
+
+Photo by GraceOda.
+
+
+===== END ED BOT ESSAY 4182 =====

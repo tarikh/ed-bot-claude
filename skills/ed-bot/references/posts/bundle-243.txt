@@ -1,0 +1,310 @@
+===== BEGIN ED BOT ESSAY 4083 =====
+---
+title: Capacity, Methodology, Innovation (On Hiring)
+url: https://edbatista.com/2021/02/capacity-methodology-innovation-on-hiring.html
+slug: capacity-methodology-innovation-on-hiring
+published: 2021-02-07T17:46:46
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs of growing companies, and most of the rest are leaders in similar organizations, so the challenge of hiring is a constant theme in my practice. Two of the more complex aspects of hiring that I often discuss with clients are conducting better interviews [1] and developing stronger People leadership. [2] But a simple framework that's also proven useful in my work with clients who are struggling to define their needs in a given search, particularly when recruiting senior executives, is to ask the following:
+
+- Are you hiring for capacity?
+
+- Are you hiring for methodology?
+
+- Are you hiring for innovation?
+
+Capacity
+
+At the most basic level, the leader just needs more capacity--the proverbial "extra set of hands." The work to be done is reasonably well-defined, and they're capable of doing it themselves, but it no longer makes sense for them to do it. This may be because the amount of this particular type of work has increased, or because the value of this work relative to the amount of their attention it consumes has decreased. [3]
+
+This is often the case when a leader needs to delegate a set of responsibilities to an individual contributor. For example, I've worked with many CEOs through the process of obtaining their first executive assistant, a step that leaders often take only when they realize that by forgoing such support they're not being "scrappy"--instead, they're wasting attention that could be dedicated to more value-generating tasks. [4]
+
+But a version of this occurs in more senior roles as well. Most of my clients have expertise in a domain that they continue to oversee as the organization grows, from product to engineering to finance. In many cases they're slow to hand it over to a direct report--sometimes because they're concerned about quality control, but also because they find this work personally fulfilling, or because it allows them to take a break from other, less rewarding tasks, such as fundraising or people management. [5] Inevitably, though, they realize that they need additional capacity at the executive level and must delegate to those leaders if the company is to continue growing. [6]
+
+Methodology
+
+In other situations merely hiring for capacity is insufficient--what the organization requires is a more rigorous approach to a particular methodology. This is often the case when a leader's technical expertise has allowed the organization to achieve a certain level of success but will be inadequate for its future needs. For example, many founder/CEOs have some skill as salespeople--that's how they convinced early employees to take the job and early investors to commit capital. But effective sales and marketing efforts at scale often require an in-depth understanding of a host of disciplines that most founder/CEOs lack.
+
+Similarly, many founder/CEOs have an intuitive sense of the product vision, or a particular understanding of the relevant technology, but lack experience in managing large product development or engineering operations. The CEO may well continue to play a role in these domains--for example, they'll often get called in to close an important enterprise sale--but their effectiveness will increasingly rest their ability to hire leaders with greater domain expertise. [7]
+
+And note that this can apply to individual contributors as well. In addition to working with clients through the process of obtaining their first executive assistant, I've also worked with others through the process of obtaining their first professional assistant. As the organization grew in size and complexity, mere capacity was insufficient--effectiveness in the role required a different level of expertise.
+
+Hiring for methodological expertise introduces a new set of challenges, however. Experts rightly expect to be able to act with a degree of autonomy and independence that's consistent with their expertise--and yet leaders may be reluctant to cede decision-making authority. [8] Alternatively, I've worked with many CEOs who've succeeded at filling their executive team with domain experts only to wonder, "How do I add value as a leader now?"  Finally, in many situations an experienced executive with methodological expertise levels a talented, ambitious employee who the organization hopes to retain--that's not impossible, but it's often very difficult. [9]
+
+Innovation
+
+And at times even deep domain expertise will be insufficient--and occasionally counter-productive. The organization is seeking to do something entirely new, and adherence to a proven methodology may constrain what's possible. The leader doesn't want just to hire someone with a playbook--they want someone who can, when necessary, blow up the playbook and invent an entirely new game. What's required is innovation.
+
+This can take a number of different forms. We tend to associate innovation with "creative" disciplines, such as design, and it's certainly necessary in developing radically new products or services, particularly when there's not yet an established market. But innovation can play a vital role any time an organization extends itself into uncharted territory, such as transforming HR from "admin and compliance" to truly strategic People leadership, or re-organizing business units with separate P&Ls into a centralized corporate structure with geographic sales territories (and vice versa).
+
+The challenge here is that innovators blow things up, and innovation necessarily involves change--and change, for most people, is hard. [10] The leader who seeks to hire an innovator must be prepared to face resistance throughout the organization and to help the innovator navigate around it--or overcome it. This gets much harder when the innovator begins to challenge some of the leader's own preferences and prerogatives--as they inevitably will. This shouldn't involve a reflexive deference to the innovator, but it does require a degree of "comfort with discomfort" on the part of the leader. [11] The key to success is being prepared to encounter friction in the relationship and investing in making it better. [12]
+
+ 
+
+Footnotes
+
+[1] Daniel Kahneman on Conducting Better Interviews
+
+[2] The Truly Strategic People Leader
+
+[3] Growth, Profitability and Return on Attention
+
+[4] Three Stages of Executive Assistance
+
+[5] The Work You Must Stop Doing
+
+[6] How to Scale: Do Less, Lead More
+
+[7] Three Buckets (On CEO Job Descriptions)
+
+[8] Leadership, Decision-Making and Emotion Management
+
+[9] The Fine Art of Levelling
+
+[10] Why Change Is Hard
+
+[11] Comfort with Discomfort
+
+[12] Better Working Relationships
+
+ 
+
+Photos: Shovel by Santeri Viinamäki. Excavator by kishjar. Explosives by Bugeater.
+
+
+===== END ED BOT ESSAY 4083 =====
+===== BEGIN ED BOT ESSAY 4084 =====
+---
+title: Daniel Kahneman on Conducting Better Interviews
+url: https://edbatista.com/2021/02/daniel-kahneman-on-conducting-better-interviews.html
+slug: daniel-kahneman-on-conducting-better-interviews
+published: 2021-02-05T12:43:18
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+Ample research documents the shortcomings of interviews in predicting performance. [1] The core problem is that interviewers are subject to cognitive biases that allow subjective preferences to overshadow objective assessments, which means that less qualified candidates can be hired on the basis of "good" interviews, while more qualified candidates are rejected on the basis of "bad" ones.
+
+Some candidates benefit from random data points that they share with their interviewers: hometowns, schools, hobbies and personal interests. Some candidates benefit from their gender, race, or other aspects of their social identity. And still others benefit simply because they're "good" at interviews--which may mean nothing more than being able to rapidly establish a personal connection with their interviewer. And yet these factors may have little or no bearing on actual performance.
+
+But the same subjective preferences that are informed by these factors can still play a significant role in organizational life. Our likes and dislikes, our affinities and alienations shape our relationships with colleagues, and the sum total of these relationships defines the sense of community within the organization. This is certainly one reason why interviews remain at the heart of the hiring process despite the research attesting to their insufficiency. When hiring, organizations are seeking outstanding individual performers, and they're also seeking to establish and maintain a coherent community.
+
+For all of the interview's flaws with regard to the former, it allows the organization to solve for the latter--although this is precisely where cognitive biases cause interviewers to make suboptimal choices. In their efforts to select people who will be a good "fit" within the existing organizational culture, interviewers may overemphasize the factors noted above and overlook other qualifications, resulting in systematic biases.
+
+But it's clear that organizations will not be abandoning the practice, so a theme in my work with leaders is helping them improve their hiring process by conducting more effective and less biased interviews, and in this effort I'm guided by the work of the Nobel prize winning psychologist Daniel Kahneman.
+
+Early in his career Kahneman served in the Israeli military, and he was given the responsibility of improving the interview process by which recruits were assessed for combat-readiness and assigned to various units. The current process consisted largely of unstructured interviews, Kahneman recalled in Thinking, Fast and Slow, and "was almost useless for predicting the future success of recruits." [2]
+
+Kahneman drew on the work of psychologist Paul Meehl, who pioneered research into the advantages of statistical algorithms, to apply the following guidelines in overhauling the interview process: 1) Create a structured set of questions to prevent the interviewer from simply pursuing the questions that they find most interesting, 2) Use the limited time available to obtain as much information as possible about the interviewee's life in their normal environment, 3) Do not make decisions solely on the basis of interviewers' global evaluations, and 4) Rely upon statistical summaries of separately evaluated attributes.
+
+Kahneman identified six attributes that he deemed relevant to combat performance and then composed a series of factual questions about the recruit's life related to each attribute. The interviewers were instructed to complete the set of questions for a given attribute and score the recruit on a five-point scale before moving on to the next attribute, as a precaution against the halo effect, in which first impressions influence subsequent judgments.
+
+But the interviewers rebelled against Kahneman's new process, which asked them merely to record recruits' responses to standardized questions and made no allowance for their intuitive judgment. Kahneman relented: "'Carry out the interview exactly as instructed,' I told them, 'and when you are done, have your wish: close your eyes, try to imagine the recruit as a soldier, and assign him a score of 1 to 5.'" [3]
+
+The new process proved successful: "The sum of our six [attribute] ratings predicted soldiers' performance much more accurately than the global evaluations of the previous interviewing method." But it also contained a surprise:
+
+The intuitive judgment that the interviewers summoned up in the 'close your eyes' exercise also did very well, indeed just as well as the sum of the six specific ratings. I learned from this finding a lesson that I have never forgotten: intuition adds value even in the justly derided selection interview, but only after a disciplined collection of objective information and disciplined scoring of separate traits. I set a formula that gave the "close your eyes" evaluation the same weight as the sum of the six trait ratings. A more general lesson that I learned from this episode was do not simply trust intuitive judgment--your own or that of others--but do not dismiss it either. [4]
+
+Kahneman concludes with some specific guidance for an individual leader seeking to apply these principles when hiring:
+
+First, select a few traits that are prerequisites for success in this position... Don't overdo it--six dimensions is a good number. The traits you choose should be as independent as possible from each other, and you should feel that you can assess them reliably by asking a few factual questions. Next, make a list of those questions for each trait, and think about how you will score it, say on a 1-5 scale. You should have an idea of what you will call "very weak" or "very strong."
+
+To avoid halo effects, you must collect the information on one trait at a time, scoring each before you move on to the next one. Do not skip around. To evaluate each candidate, add up the six scores. Because you are in charge of the final decision, you should not do a "close your eyes." Firmly resolve that you will hire the candidate whose final score is the highest, even if there is another one whom you like better... A vast amount of research offers a promise: you are much more likely to find the best candidate if you use this procedure than if you do what people normally do in such situations, which is to go into the interview unprepared and to make choices by an overall intuitive judgment... [5]
+
+It's worth noting Kahneman's approach is consistent with Google's experience regarding the benefits of structured interviews:
+
+Structured interviews are better at indicating who will do well on the job: Results show that structured interviews are more predictive of job performance than unstructured interviews when comparing interview scores to the performance scores of those hires across functions and levels.
+
+Interviewers are happier and saving time: Using pre-made, high-quality questions, guides, and rubrics saves on average 40 minutes per interview. Googlers conducting structured interviews reported that they felt more prepared when interviewing the candidate.
+
+Structured interviews make candidates happier: The team has seen an uptick in candidate satisfaction in feedback scores for structured interview candidates. Interestingly, scores indicated an especially big difference in candidate satisfaction rates when comparing rejected candidates. Rejected candidates who had a structured interview were 35% happier than those who did not have a structured interview. [6]
+
+Despite the benefits of structured interviews, there are several difficulties that must be overcome. It can be extremely challenging to identify the "traits that are prerequisites for success," craft a set of questions that reliably elicit evidence of those traits, and then calibrate scores across responses. And yet even undertaking the effort can help an organization better understand their approach to interviewing, uncover sources of bias, and devise a more objective process.
+
+Further, in many circumstances--and particularly when hiring for more senior roles--interviewers are seeking not only to select the best candidate, but also to sell that candidate on the opportunity to join the organization. [7] At times it's possible to distinguish between selection conversations and selling conversations, but often the two must be woven together, and here it can be useful simply for the interviewer to be more deliberate in adopting the appropriate mindset in a given stage of the conversation, rather than defaulting to what feels more comfortable.
+
+Interviews aren't going away--and they don't have to. When organizations correct for the likelihood of cognitive biases, they can take steps to avoid assembling a team of harmonious, homogeneous under-performers. By substituting a more structured process, they increase the odds that interviews select for talent while also maintaining a sense of shared community.
+
+ 
+
+Footnotes
+
+[1] For more on the shortcomings of interviews:
+
+- Stubborn Reliance on Intuition and Subjectivity in Employee Selection (Scott Highhouse, Industrial and Organizational Psychology, 2008)
+
+- Belief in the unstructured interview: The persistence of an illusion (Jason Dana, Robyn Dawes and Nathanial Peterson, Judgment and Decision Making, 2013)
+
+- Overconfidence in personnel selection: When and why unstructured interview information can hurt hiring decisions (Edgar Kausel, Satoris Culbertson and Hector Madrid, Organizational Behavior and Human Decision Processes, 2016)
+
+- The Utter Uselessness of Job Interviews (Jason Dana, The New York Times, 2017)
+
+[2] Thinking, Fast and Slow, page 230 (Daniel Kahneman, 2013)
+
+[3] Ibid. page 231
+
+[4] Ibid. pages 231-2
+
+[5] Ibid. pages 233-3
+
+[6] Google re:Work Guides > Hiring > Use Structured Interviewing > Read Google's Internal Research (Archived version accessed June 6, 2023.)
+
+[7] It's Time to Stop Interviewing
+
+ 
+
+For Further Reading
+
+Interviewing for Values Alignment (Itamar Goldminz, 2020)
+
+Hiring Isn't Rocket Science: Why the Most Boring Strategy Is Best (Laszlo Bock, Behavioral Scientist, 2019)
+
+How to Take the Bias Out of Interviews (Iris Bohnet, Harvard Business Review, 2016)
+
+Hiring as Cultural Matching (Lauren Rivera, American Sociological Review, 2012)
+
+Look Beyond "Culture Fit" When Hiring (Dylan Walsh, discussing work by Amir Goldberg and colleagues, 2018)
+
+How to Improve the Accuracy and Reduce the Cost of Personnel Selection (Don Moore, California Management Review, 2017)
+
+What's going on here, with this human? (Graham Duncan)
+
+How to conduct interviews so good, candidates will thank you for rejecting them (Jennifer Kim, Safe for Work, 2023)
+
+ 
+
+Photo by Jernei Furman.
+
+
+===== END ED BOT ESSAY 4084 =====
+===== BEGIN ED BOT ESSAY 4085 =====
+---
+title: The Legitimacy of Loss
+url: https://edbatista.com/2021/01/the-legitimacy-of-loss.html
+slug: the-legitimacy-of-loss
+published: 2021-01-24T17:00:44
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+All day, every day, I talk with leaders about the challenges they're facing, and over the past ten months a series of themes have emerged in these conversations. At first there was a tremendous amount of uncertainty: Were we facing a modern-day plague, or were such concerns completely overblown? When it turned out to be a serious pandemic, there was initially a degree of chaos and overwhelm, and then a sense of resolve as people responded to the crisis and rose to the occasion. Still later came a grim determination as it became evident that a return to any semblance of normalcy would take many months of sustained effort. By no means did all my clients experience these states in a uniform sequence, but I certainly observed this progression from one chapter to the next across the scope of my practice.
+
+And over the past few weeks yet another chapter appears to be unfolding. Many people who had previously managed to remain highly productive are finding it harder to focus and stay motivated. Others who've historically prided themselves on their resilience are feeling surprisingly demoralized. And still others who've always been able to function effectively in hard times are suffering from the effects of sustained stress, in some cases for the first time in their careers. This isn't the majority of my clients, but it's a material percentage, and these themes have cropped up with regularity in conversations with clients since the beginning of the year.
+
+I attribute some of this to dashed hopes. Some thought that the successful vaccine trials at the end of the year might signal the approach of the end of the pandemic, only to see that possibility retreat into the distance as the difficulty of vaccination production and distribution on a global scale was made fully apparent. There's also a connection to the social and political environment. While there's reason to hope that new leadership in the U.S. will lead to some improvements, it seems likely that we're entering into a era of heightened unrest and discord. Even as we acknowledge that change is necessary, the prospect of pursuing change in the midst of polarization and violence is daunting. [1]
+
+But I also believe something else is happening here, something much more personal: People are not grieving their losses.
+
+To be clear, I'm using "loss" in the broadest possible sense of the term: Anything that has been taken from someone as a result of the pandemic. Most of my clients are CEOs, and most of the rest are in similarly senior roles. In any number of ways they enjoy privileges that have insulated them from the worst effects of the pandemic--and this is true for me as well. We've been able to continue working remotely. We've been able to minimize our risk of infection. We've been able to invest in efforts to improve our quality of life, from better workspaces to exercise equipment. In some cases (myself included), we've even been able to relocate to new homes that are better suited to life under these conditions. So to a great extent we haven't experienced loss in the form that so many others have.
+
+Relatively few of us have had someone we know personally die from the virus or suffer grievous and lasting harm. Relatively few of us have had our financial prospects dim because we lost our jobs or our businesses were shuttered. Relatively few of us have had to abandon dreams and plans in order to survive under pandemic conditions. By and large, our losses and our suffering have been far less severe--but that's not to say that we haven't experienced loss or that we haven't suffered.
+
+We enjoyed these privileges and this insulation from loss before the pandemic, but the current environment has heightened our awareness of them, which has had a number of consequences. One is a growing willingness to interrogate the societal arrangements that have led to such disparate outcomes and that have left so many people vulnerable to loss of life and livelihood. Another is an expanded capacity to put our own losses and suffering in perspective--to recognize that so many things we viewed as "problems" in the past were merely petty annoyances, and that so many things we view as "problems" today pale in comparison to the far worse difficulties faced by others.
+
+And yet if the recent themes I'm observing in my practice are any indication, a commitment to societal change and a greater capacity for perspective-taking are insufficient in enabling many of us to overcome the challenges of the present moment. We can and should strive for a more just and equitable world--but having spent seven years at the outset of my career working for organizations that served low-income and homeless families, I'm keenly aware that such efforts are the work of a lifetime. And we can and should seek to put our personal experiences into perspective--but perspective-taking doesn't mean ignoring or dismissing our sense of loss and suffering, just as the vital and necessary work of emotion regulation doesn't mean emotion suppression.
+
+I have suffered serious losses over the years, and I've learned something about grief. [2,3] Grief is a necessary step in the process of letting go of a loss and healing from suffering. When we fail to grieve, we stay stuck, holding on to what has been taken from us and revisiting our suffering over and over again, which is ultimately exhausting. Just as efforts to suppress an emotion can be counter-productive and actually heighten the emotion, a failure to grieve can prolong the sense of loss.
+
+With this in mind, one way of interpreting what I'm seeing in my practice in this latest chapter is that people are failing to grieve their losses. In some cases this may simply be a form of denial--a passionate belief that life will return to normal and a refusal to accept any of the costs of the pandemic as permanent. But in many others I suspect that people who enjoy the privileges that I share with my clients believe that their losses are somehow illegitimate because they are lesser, and that grieving their losses would be unseemly or inappropriate when so many have suffered far worse.
+
+This is a form of perspective-taking, and it's essential that we recognize the disparities in the pandemic's impact. But it's equally essential to mourn our own losses in the process, large and small. The gravity of the current environment doesn't cancel out any individual's pain or sadness. Both are true. All losses are legitimate. All suffering is legitimate. Our loss and suffering may be lesser, and we will need to put them in perspective, just as we will need to surmount them to rise to the challenge of the present moment, but we can mourn them all the same. As my wise friend Sage Cohen once wrote, "Grief can be the path to grace if that is what you choose." [4]
+
+ 
+
+This post is the fifth in a series on coping in the current environment:
+
+- Part 1: Pockets of Agency
+
+- Part 2: Aggression, Panic, Paralysis, Denial
+
+- Part 3: Tumbling Down Maslow's Hierarchy
+
+- Part 4: Wounded Creatures
+
+- Part 5: The Legitimacy of Loss
+
+- Part 6: Risk Calculus and Social Norms
+
+Footnotes
+
+[1] My thinking on the social and political environment (and the likelihood of sustained unrest and discord) has been shaped by the historian Peter Turchin, who wrote in Nature in 2010:
+
+The next decade is likely to be a period of growing instability in the United States and western Europe... In the United States, we have stagnating or declining real wages, a growing gap between rich and poor, overproduction of young graduates with advanced degrees, and exploding public debt. These seemingly disparate social indicators are actually related to each other dynamically. They all experienced turning points during the 1970s. Historically, such developments have served as leading indicators of looming political instability... In the United States, 50-year instability spikes occurred around 1870, 1920 and 1970, so another could be due around 2020.
+
+The accuracy of Turchin's predictions a decade ago has led me to pay even more attention to his ideas, and I've found these works influential:
+
+Return of the Oppressed (Aeon, 2013)
+
+War and Peace and War: The Rise and Fall of Empires (2007)
+
+Ages of Discord: A Structural-Demographic Analysis of American History (2016)
+
+That said, Turchin has his critics, and this recent assessment of his work includes a thoughtful challenge to his methodology:
+
+The Next Decade Could Be Even Worse (Graeme Wood, The Atlantic, 2020)
+
+[2] Mourning Ends, Grief Need Not
+
+[3] I Will Miss You So Much, My Friend
+
+[4] @sagecohen
+
+ 
+
+Photo by Jim Choate.
+
+
+===== END ED BOT ESSAY 4085 =====
+===== BEGIN ED BOT ESSAY 4086 =====
+---
+title: On Pain and Hope
+url: https://edbatista.com/2020/12/on-pain-and-hope.html
+slug: on-pain-and-hope
+published: 2020-12-06T10:33:45
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+Many people have suffered far worse chronic pain than I have, but I’ve experienced enough to know that one of its most debilitating aspects is its ability to evoke a sense of hopelessness.
+
+In the mid-1990s, when I was in my late 20s, I had a series of episodes of lower back pain, each one worse than the last, culminating in a week in 1996 where I could barely get out of bed. Then in 2013 I had an episode of acute pain in my upper back that persisted for months. It hurt to lift a coffee cup; it hurt to drive; it hurt to lay down. During both of these periods I experienced a low point at which I wondered if I’d ever be pain-free again, and the prospect of spending the rest of my life in that condition drove me to despair.
+
+But I learned so much from those terrible times. I discovered the work of New York University's Dr. John Sarno, which taught me about the relationship between stress and pain, and I was able to eliminate my lower back pain entirely by being more deliberate about stress management. [1] I recognized the importance of taking a holistic approach to self-care, and in the seven years since that episode of upper back pain I’ve prioritized exercise and mindfulness. And I realized that it’s essential for me to do work that I find absorbing and meaningful, because under those circumstances I can be highly effective even when in pain.
+
+And perhaps most significantly I came to understand the importance of hope. As bad as the pain was during my lowest points, the sense of hopelessness that I experienced had a greater impact on my resilience. In the absence of hope even modest amounts of pain could be overwhelming—but when I felt hopeful I could tolerate much more.
+
+This lesson has proven immensely valuable in recent months. In mid-August I experienced a reoccurrence of the upper back pain that first appeared in 2013, and it was a nearly constant companion for two months, finally ebbing away over the past few weeks. The timing is no accident, of course.  Despite the many privileges I enjoy that have insulated me from the worst effects of the current environment, 2020 has been profoundly stressful. Clients and family members have had their lives upended and their businesses severely impacted. It's been hard to stay physically active, and in my mid-50s I'm finding that even minor setbacks have long-term consequences. And Amy and I left San Francisco, our home of 30 years, and moved to a farm in the midst of wildfire season, which proved to be an intensely demanding process, both physically and emotionally.
+
+As a result there have been some dark times over the last few months. I’ve laid in bed counting breaths because it hurt too much to meditate, and I’ve sobbed with frustration on a few occasions. But I never lost hope, largely because the lessons learned from my past experiences enabled me to keep this latest episode in perspective. I knew that stress was playing a significant role in my pain—and while I couldn’t eliminate my stress, I could mitigate it, in part merely by acknowledging it. I couldn’t work out or meditate with much consistency—but I did what I could, and rather than admonish myself for falling down, I took pride in getting back up, over and over again. And I worked, and I’m so grateful to my clients—coaching hasn’t just been an opportunity to be of service; it’s also been an opportunity to immerse myself in a conversation with a client so thoroughly that I could forget my pain for an hour.
+
+The cumulative effect is that I’ve been able to take the long view. I trusted that time would allow me to heal, and even when I wondered if the pain would persist I knew that I was capable of living with it. While I certainly wasn’t in denial about the difficulties I might have to face, I knew that I had the capacity to face them. In short, I never lost hope, and not because I told myself a fairy tale that everything would be fine, but because I believed that no matter what happened I could cope with it. We sometimes confuse hope with unfounded optimism, but that's just a form of magical thinking, a sandcastle waiting for the tide to turn. True hope is more robust, rooted not in a wish that things will go our way, but in a confidence that we'll adapt even when they don't.
+
+At last you cry out in anguish: "Why me?" God answers: "Why not?"
+
+You can so stand it.
+
+After all, it's only pain.
+
+What makes it seem unbearable is your mistaken belief that it can be cured.
+
+~Sheldon Kopp [2]
+
+ 
+
+Footnotes
+
+[1] Healing Back Pain: The Mind-Body Connection (Dr. John Sarno, 1991)
+
+[2] What Took You So Long? (Sheldon Kopp, 1979)
+
+This was first published in the November issue of my monthly newsletter. I usually reserve the essays I share there for newsletter subscribers, but I was encouraged to post this one here.
+
+ 
+
+Photo by Di Chap.
+
+
+===== END ED BOT ESSAY 4086 =====

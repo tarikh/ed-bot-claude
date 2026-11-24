@@ -1,0 +1,169 @@
+===== BEGIN ED BOT ESSAY 3205 =====
+---
+title: Think Blink: Malcolm Gladwell's Lessons for Web Design, Part 2
+url: https://edbatista.com/2005/05/think_blink_par.html
+slug: think_blink_par
+published: 2005-05-24T16:33:28
+updated: 2005-05-24T16:33:28
+source_body: wordpress-html
+---
+
+(Part 1, Part 3)
+
+Yesterday I began a series of posts on what Malcolm Gladwell's Blink can tell us about how people behave online and, by extension, how websites should be designed to reflect that behavior. To sum it up, they thin-slice.  In Gladwell's words, they "find patterns in situations and behavior based on very narrow slices of experience," and then make instinctive, snap decisions based on those patterns.
+
+Less Is More
+
+Throughout Blink, Gladwell refers to the importance of limited information: "[I]n good decision making, frugality matters...Overloading the decision makers with information...makes it harder, not easier.  To be a successful decision maker, we have to edit.  When we thin-slice, when we recognize patterns and make snap judgments, we do this process of editing unconsciously."  [pp. 141-42]
+
+The implication for web design is that in order to help your users thin-slice effectively (i.e. to help insure that the snap judgments they make online are the ones you want them to make), the elements you leave out of your site are as important as those you include.
+
+Far too many organizations take a kitchen-sink approach to their sites and a shotgun approach to their users.  They fit as much information as they possibly can on the page, and they assume that if they put a little something for everyone out there, then at least most people will be somewhat satisfied.
+
+But users are constantly thin-slicing as they interact with a site, making snap judgments based on limited information.  So it's essential to minimize the distractions and help users thin-slice effectively by focusing their attention on the information that will be most relevant to their needs (and your goals).  But how to choose?
+
+Different Strokes, And All That
+
+I'm going to leave Gladwell behind for the moment, because this is obviously an area he doesn't touch on directly in Blink, but I've been thinking about it ever since reading the book.  More on Malcolm tomorrow--for now, let's assume that your users fall into one of three buckets: 1) First-Timers who have never been to your site before; 2) Visitors who have been to your site a few times; and 3) Members who are familiar with your site and know what they want to do there.
+
+Your site's design should take into account not only the number of users in each bucket but also their collective net value to your organization.  In the long run, the more accurately you can segment your user base along these lines, and the more accurately you can determine your users' lifetime value (including acquisition and retention costs), the more useful the ideas discussed here will be.
+
+But you don't need mountains of data to get started--you just need to be able to make some informed decisions about how important each "user bucket" is to your organization.  Then you can begin to assess how effective your site is at helping different users thin-slice in different ways by focusing their attention on the goals you want them to accomplish.  Referring back to the different types of users noted above:
+
+- First-Timers: These users have never been to your site before.  They may be familiar with your organization, or they may know nothing about you.  Typical goals for First-Timers are:
+
+- Communicating your organization's identity and purpose through clear branding
+
+- Obtaining permission to contact them in the future (either directly through an email address or indirectly through a syndication service or other means)
+
+- Making them favorably inclined to visit again
+
+- Visitors: These users have been to your site before and know something about your organization, but they're only minimally familiar with your site and not yet fully oriented.  Assuming you've already accomplished the goals above by converting First-Timers into returning Visitors, typical goals for the latter are:
+
+- Increasing their awareness and understanding of your organization's services, and of how you provide or enable those services online
+
+- Learning more about their individual characteristics and preferences
+
+- Fostering a sense of affiliation with your organization
+
+- Members: These users are familiar with both your organization and your site, and they have a clear understanding of what they hope to accomplish on your site and how to go about it.  Assuming you've already accomplished the goals above by converting returning Visitors into affiliated Members, typical goals for the latter are:
+
+- Recognizing each Member as an individual (or at least as a segment of your user base with distinctive characteristics)
+
+- Delivering uniquely relevant content and opportunities for engagement based on that recognition
+
+- Anticipating their future needs
+
+Some obvious conclusions can be drawn here.  If your organization is relatively new and unknown, your site should be designed to help users thin-slice the organization itself, and it should readily answer questions such as "What do you do?" and even, "Who are you?"  We typically expect users to click through to an "About" page for this information, but wouldn't it be better if your site's branding could answer those questions immediately?
+
+Alternatively, if you have an established base of users who are already familiar with your site, you should put a greater emphasis on helping them thin-slice specific opportunities for deeper engagement by presenting them with appealing content that's relevant to their individual interests.
+
+Translating all this into specific design guidelines is a job for someone with far more user interface and information architecture expertise than I have.  But it's provided me with a helpful framework for further thought.
+
+(Part 1, Part 3)
+
+
+===== END ED BOT ESSAY 3205 =====
+===== BEGIN ED BOT ESSAY 3206 =====
+---
+title: Blogtricks Link Feedback
+url: https://edbatista.com/2005/05/blogtricks_link.html
+slug: blogtricks_link
+published: 2005-05-24T16:23:20
+updated: 2005-05-24T16:23:20
+source_body: wordpress-html
+---
+
+Blogtricks offers a number of interesting little add-on services for bloggers.  The most useful one (and the only one I've actually tried) is their Link Feedback service, which allows you to create an automated list of websites referring visitors to your site.
+
+It's easy to set up--in Typepad, just take the script from their "linkbuilder" and use it to create a new item in a "link" Typelist that has been configured to read notes as text.  And your Blogtricks account is free--if you want to pay $10/year, you can opt not to have their little ad displayed at the bottom of your list of referrers.
+
+A nice feature is the ability to exclude certain referring domains--for example, you can exclude search engines, so that your list only displays traffic from actual links on other sites, rather than traffic from search results.  (Helpful when you get a lot of random traffic from people searching on, say, your uncommon last name.)
+
+I used it for a few days and really liked the convenience of seeing referrers right on my home page, but I didn't pony up for a paid account, and loading the ad from their server was really slowing down my site.  It's worth $10/year for the ad-free service, but they currently only accept PayPal, and I don't have a PayPal account.
+
+Here's the script that was generated for my account, including a number of blocked domains.  Note the hard break in that line between "google.fr" and "search.msn.com" to get it to display properly here:
+
+<script language="javascript">
+  document.write('\074scr' + 'ipt src="https://svc.blogtricks.com/referrer&#39; +
+    '?token=0d04699ac43ec0e657ff51afd58957a3' +
+     '\046exclude=google.com%2Cyahoo.com%2Cgoogle.de%2Cgoogle.fr
+%2Csearch.msn.com%2Cgoogle.co.nz%2Cgoogle.it%2Cgoogle.be%2Cgoogle.pl' +  '\046maxlen=40' +  '\046maxwordlen=40' +    
+    '\046action=combo\046referrer=' + escape(document.referrer) +
+    '">\074/sc' + 'ript>');
+</script>
+
+
+===== END ED BOT ESSAY 3206 =====
+===== BEGIN ED BOT ESSAY 3207 =====
+---
+title: Think Blink: Malcolm Gladwell's Lessons for Web Design, Part 1
+url: https://edbatista.com/2005/05/think_blink_mal-2.html
+slug: think_blink_mal-2
+published: 2005-05-24T08:41:23
+updated: 2005-05-24T08:41:23
+source_body: wordpress-html
+---
+
+(Part 2, Part 3)
+
+Malcolm Gladwell's Blink, published in January and one of the best-selling books of 2005 to date, is a cogent, thought-provoking analysis of a number of complex phenomena (much like 2002's The Tipping Point).  Blink is subtitled "The Power of Thinking Without Thinking," and Gladwell's three-part thesis can be summarized as follows: 1) We make snap decisions all the time, based on a tiny amount of information (such as a first impression, or an instinctive feeling), something Gladwell calls "thin slicing"; 2) We mistrust these decisions, but they're often demonstrably better than ones resulting from lengthy deliberation (i.e. "thick slicing"); and 3) Our instinctive judgments can mislead us, so it's important to understand when and why that happens and to train ourselves to make more effective use of them.
+
+I think Blink has much to tell us about how we act online and how websites should be designed, starting with the idea that site users readily and frequently make snap judgments, or to use Gladwell's term, they "thin slice."
+
+Thin Slicing and the Adaptive Unconscious
+
+Gladwell defines "thin slicing" as "the ability of our unconscious to find patterns in situations and behavior based on very narrow slices of experience." [Blink, p. 23]  The source of this ability is our "adaptive unconscious," a concept explored by psychologist Timothy Wilson in his book Strangers to Ourselves.  It's worth quoting Gladwell at length here:
+
+The adaptive unconscious is not to be confused with the unconscious described by Sigmund Freud, which was a dark and murky place filled with desires and memories and fantasies that were too disturbing for us to think about consciously.  This new notion of the adaptive unconscious is thought of, instead, as a kind of giant computer that quickly and quietly processes a lot of the data we need in order to keep functioning as human beings... [As Wilson writes:] "The mind operates most efficiently by relegating a good deal of high-level sophisticated thinking to the unconscious...The adaptive unconscious does an excellent job of sizing up the world, warning people of danger, setting goals, and initiating action in a sophisticated and efficient manner."
+
+Chapter One of Blink is devoted to demonstrating that thin slicing works, that people can and do often make better decisions when they act instinctively.  I'm not going to debate the efficacy of thin slicing here--if you care to argue with the concept, I'm sure you can find a willing partner somewhere.  I'm simply going to take it as a given that people do thin slice, and they will continue to do so because they find that it works well.
+
+Thin Slicing Online
+
+Look at Gladwell's quote from Timothy Wilson: "Sizing up the world...setting goals...initiating action."  All steps taken by a user upon arriving at your site.  (Let's hope that they don't need to be "warned of danger.")
+
+It's clear that the online environment is one in which our adaptive unconscious can play a significant role.  When users arrive at your website--especially, but not only, first time users--they're thin slicing.  They're going to make relatively fast decisions on the basis of relatively little information, to determine how--or even whether--they should proceed.  To be effective, your site must anticipate your users' snap judgments and meet with their approval immediately.  You probably won't have many chances, so your site has to make the most of every opportunity.
+
+Two factors are raising the stakes in this process, making it even more likely that users will thin slice online and act instinctively, rather than deliberately.  First, the increasing number of websites competing for users' attention means that less time is available to devote to understanding any one site.  Users avoid information overload by making fast decisions, and they do that by thin slicing.
+
+And second, the increasing standardization of online design means that users are bringing an increasingly normalized set of expectations about what your site should look like, how it should be organized, and what they can do there.  (Jakob Nielsen recently described this process in his May 23 Alertbox on the Canonical Intranet Homepage, but his conclusions are relevant for internet sites as well.)
+
+(Part 2, Part 3)
+
+
+===== END ED BOT ESSAY 3207 =====
+===== BEGIN ED BOT ESSAY 3208 =====
+---
+title: Audioscrobbler
+url: https://edbatista.com/2005/05/audioscrobbler.html
+slug: audioscrobbler
+published: 2005-05-23T17:05:19
+updated: 2005-05-23T17:05:19
+source_body: wordpress-html
+---
+
+In their own words, Audioscrobbler...
+
+...builds a profile of your musical taste using a plugin for your media player (Winamp, iTunes, XMMS etc..). Plugins send the name of every song you play to the Audioscrobbler server, which updates your musical profile with the new song. Every person with a plugin has their own page on this site which shows their listening statistics. The system automatically matches you to people with a similar music taste, and generates personalised recommendations.
+
+I just started using it, so my profile's pretty skimpy at the moment--but I'm just going to let iTunes shuffle my 2,226 song "Alt, Punk, Pop & Rock" playlist for a few days on end and see what happens.  Check out my Audioscrobbler page to watch my profile evolve.  Once I get over 100 songs in my profile, Audioscrobble promises to find users with similar tastes and put them in my "neighborhood," so I can look over their profiles
+
+Also cool--and requiring no registration--is their Explore Music feature.  Type in the name of a band to see a list of associated bands (determined by the frequency with which Audioscrobbler users listen to both.)  For example, here are the top 25 bands on today's list for Interpol (based on results from 60,107 people):
+
+Audioscrobbler doesn't make this explicit, but I'm interpreting the chart as saying that 100% of the people who listen to Wilco and the White Stripes also listen to Wilco, 74% of the people who listen to the Fiery Furnaces also listen to Interpol, etc.  In contrast to this data, when I go to Interpol's page on Amazon right now, the list of "similar artists" is:
+
+- The Cure
+
+- Franz Ferdinand
+
+- The Postal Service
+
+- Air
+
+- Death Cab for Cutie
+
+None of which are in the Audioscrobbler list above, or even in the complete list of 100 bands Audioscrobbler associates with Interpol. Hmmm.  We'll see if anything useful or interesting comes out of this, but it's sure seems kewl.
+
+
+===== END ED BOT ESSAY 3208 =====

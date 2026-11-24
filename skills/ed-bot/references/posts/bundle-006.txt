@@ -1,0 +1,86 @@
+===== BEGIN ED BOT ESSAY 3088 =====
+---
+title: Style Maven
+url: https://edbatista.com/2005/01/style_maven.html
+slug: style_maven
+published: 2005-01-20T11:10:57
+updated: 2025-10-26T21:11:22
+source_body: wordpress-html
+---
+
+Virginia Postrel's The Substance of Style is an essential book. She asserts that a lack of style and insufficient attention to aesthetics are fatal mistakes, a warning that can be applied equally to physical products, websites and software, and personal experiences.
+
+The quality revolution of the past few decades has led us to expect well-made products at reasonable prices. That's not to say shoddy products don't exist, but they're generally disposable, in one way or another. Competing on price or quality isn't enough anymore.  We demand goods and experiences that satisfy our aesthetic desires.
+
+This is great for people like me who care deeply about how things look and how they're designed, and who believe that style is deeply intertwined with both usefulness and value. This is bad for people who view style as something superficial, mere eye candy.
+
+Don't mistake me--I'm not championing style over substance. I'm saying--and Postrel's saying--that substance without style is an anachronism, a doomed approach.  People--rightly--expect both.
+
+
+===== END ED BOT ESSAY 3088 =====
+===== BEGIN ED BOT ESSAY 3089 =====
+---
+title: Mr. Organized
+url: https://edbatista.com/2005/01/mr_organized.html
+slug: mr_organized
+published: 2005-01-20T01:08:50
+updated: 2005-01-20T01:08:50
+source_body: wordpress-html
+---
+
+Of all the HTML guides I've seen, John December has the best.  Particularly useful are the "Hex Hub" in his "Color Spot" section and the guides for the latest transitional and strict tags in his "HTML Station".
+
+December's definitely quirky--see his "Live Simple" ebook, which apparently aspires to be a guide to everything from organizing your home to choosing an ISP to "living your dream"--but it's the sort of hyper-organized approach to life you'd expect from the guy who put together the superb resources above.
+
+
+===== END ED BOT ESSAY 3089 =====
+===== BEGIN ED BOT ESSAY 3093 =====
+---
+title: Really Bad PowerPoint...
+url: https://edbatista.com/2005/01/really_bad_powe.html
+slug: really_bad_powe
+published: 2005-01-17T02:54:11
+updated: 2005-01-17T02:54:11
+source_body: wordpress-html
+---
+
+...is a 10-page PDF by Seth Godin, a very thoughtful and inspiring guy. Written in 2001, RBPP is still an essential document.  One big caveat--Seth's advice is dead-on if your deck is intended primarily to back up your oral presentation, but if it's intended to also be a written document of your ideas, his ironclad rules will seem unrealistic.
+
+Download ReallyBadPowerpoint.pdf (791K)
+
+
+===== END ED BOT ESSAY 3093 =====
+===== BEGIN ED BOT ESSAY 3095 =====
+---
+title: It's Nick Denton's World
+url: https://edbatista.com/2005/01/its_nick_denton.html
+slug: its_nick_denton
+published: 2005-01-31T21:31:10
+updated: 2025-10-11T22:07:51
+source_body: wordpress-html
+---
+
+We're just blogging in it. Denton's Gawker Media launched Lifehacker today.  What's that about, you say?
+
+[Lifehacker's about] the endless possibilities of technology and how it can improve our lives. Lifehacker points out software, sites, tips and tricks that help you get things done, plain and simple... Let the adventures in productivity begin.
+
+It's actually a more interesting site than that lame copy would suggest.  My favorite tip from among their first offerings is the simple advice that you can search Google by filetype:
+
+Ever want to search the web for an Excel spreadsheet checkbook? Easy. Type filetype:xls checkbook into the search box at Google.
+
+Behemoth search engine Google indexes more than just web pages. Narrow your search down to specific types of files with the “filetype” directive.
+
+Hat tip to Jeff Jarvis, who's so wired that the Lifehacker launch itself isn't news to him:
+
+What's news is that Nick (a friend and business colleague of mine) signed up Sony for Lifehacker just as he signed up Audi for Jalopnik [Ed.: Gawker's neo-gearhead blog].
+
+And here's what's newsworthy about that:
+
+Since the internet started, many big-time publishers have struggled to convince big-time advertisers that this new medium is not just about direct response (click-through) but also about branding (that is, the value of associating your brand and product with a media brand -- the reason to advertise in a glossy magazine with a classy audience, for example). That is why the Online Publishers Association was created.
+
+But note what Denton has done twice: He got big-time advertisers to sign onto a product that didn't even exist yet. Take it from a guy who started a magazine; that doesn't happen. So why did they do it? Clearly, they wanted to be associated -- branded -- with the next, new, cool thing. Just being the first in equals branding. That is a value of this new medium: its newness.
+
+News about a blog, and meta-news about why that news is newsworthy.  Are you chasing your own tail yet?
+
+
+===== END ED BOT ESSAY 3095 =====

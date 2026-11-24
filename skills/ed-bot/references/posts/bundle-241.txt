@@ -1,0 +1,389 @@
+===== BEGIN ED BOT ESSAY 4075 =====
+---
+title: The Traps We Set for Ourselves
+url: https://edbatista.com/2021/03/the-traps-we-set-for-ourselves.html
+slug: the-traps-we-set-for-ourselves
+published: 2021-03-21T12:47:40
+updated: 2026-01-30T16:45:52
+source_body: wordpress-html
+---
+
+Sometimes we're prevented from achieving our goals by factors beyond our control--the performance of a competitor, or the misdeeds of an adversary, or simply random chance and bad luck. But all too often we pay insufficient attention to the obstacles of our own making--the traps we set for ourselves. In my work as a coach to senior leaders (and in my own life), these traps tend to fall into three categories:
+
+Magical Thinking
+
+Then close your eyes, and tap your heels together three times. And think to yourself: There's no place like home!
+
+~Glinda, the Good Witch of the North [1]
+
+There's a positive correlation between optimism and effective leadership, in part because the optimistic leader has a contagious effect on others, rendering success more likely. [2] And yet there's a point at which unbridled confidence is merely a wish, and optimism becomes magical thinking, which can be particularly dangerous for a leader. Neuroscientist Richard Davidson notes that the risks of excessive optimism include resistance to negative data and failure to learn from experience. [3]
+
+What can we do? Cultivate a tolerance for cognitive dissonance. This is the mental state evoked when we're confronted with ideas or data that appear to be inconsistent, which most people find so unpleasant that they modify their beliefs (and their behavior) or simply ignore certain data in order to restore conceptual consistency. When we engage in magical thinking, what we're really doing is soothing the discomfort evoked by cognitive dissonance, wishing away the risks and concerns that are inconsistent with our preferred outcomes. We don't have to become pessimists, but we need to anticipate cognitive dissonance and take steps to become more comfortable with discomfort. [4]
+
+Self-Delusions
+
+There is nothing...to support the extraordinary judgment that it is the truth about himself that is the easiest for a person to know. Facts about ourselves are not peculiarly solid and resistant to skeptical dissolution.
+
+~Harry Frankfurt  [5]
+
+We like to think that we know ourselves well, and yet our view of ourselves is as subject to bias and distortion as our perspective on any other subject--perhaps even more so, given the host of blind spots that impede our view. This includes unrealistic self-regard and unrealistic self-criticism, and both are equally problematic. Leaders with an inflated estimation of their own abilities are staples of tragic stories in history, literature, and the annals of management practice. But in my experience as a coach the vainglorious hero who takes a fall is actually less common than the person whose perceived limitations become real ones, unable to get out of their own way. [6]
+
+What can we do? First, adopt a fundamental attitude toward ourselves: View ourselves as a work-in-progress, open to learning and change, and seek to maintain a growth mindset in which our capabilities are plastic and evolving. [7] Then hold regular "conversations with ourselves" by making a consistent commitment to turn our abstract reflections into more concrete thoughts through some form of writing, and engaging others in coaching conversations in order to gain some critical distance on our subjective experience. [8] Finally, actively solicit feedback from people we trust to minimize those blind spots--and note that in my experience positive feedback is actually more stressful than negative feedback, but it is just as valuable in raising our self-awareness. [9]
+
+What Ought to Be
+
+You want it to be one way, but it’s the other way.
+
+~Marlo Stanfield [10]
+
+We hold a set of beliefs about the way the world works, and these mental models have a profound impact on our experience of the world. [11] A subset of these beliefs involve the way the world is supposed to work, the way things "ought to be," and these ideas can be tremendously durable and resistant to modification. This makes sense, up to a point. We rely heavily on our mental models to determine cause-and-effect, predict likely outcomes, and modify our behavior accordingly, and they usually serve us well for these purposes. It would be a waste of effort to revisit them constantly. But in some circumstances we remain attached to our mental model of "what ought to be" even in the face of extensive evidence that it's wrong or out of date.
+
+What can we do? See our mental models as just that--simplified versions of reality that enable us to navigate the world which must be updated on a regular basis. When the territory doesn't resemble the map, we have to modify the map. [12] This often involves some form of "double-loop learning," in which we look beyond the results we're achieving (or failing to achieve) and exploring the assumptions and beliefs that underpin our current goals and strategies. [13] We're also well-served by enhancing our capacity for emotion regulation. [14] When our model of "what ought to be" is contradicted by reality, we often experience a surge of righteous indignation, and even when such passion motivates us to remake reality to conform with our ideals, we need to manage those feelings to enlist others in the cause and avoid burnout. Finally, we can take an entirely different stance toward these perceived impediments--they may be there not to block us, but to teach us, and it may be a lesson that could be learned in no other manner. Sometimes, the obstacle IS the way. [15]
+
+Footnotes
+
+[1] The Wizard of Oz (directed by Victor Fleming, produced by Mervyn LeRoy, based on the book by L. Frank Baum, portrayed by Billie Burke, Metro-Goldwyn-Meyer, 1939)
+
+[2] See Dispositional Affect and Leadership Effectiveness: A Comparison of Self-Esteem, Optimism, and Efficacy (Martin Chemers, Carl Watson, and Stephen May, Personality and Social Psychology Bulletin, 2000), and Impact of Leadership Style and Emotion on Subordinate Performance (Janet McColl-Kennedy and Ronald Anderson, The Leadership Quarterly, 2002).
+
+[3] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[4] The Cognitive Dissonance of the CEO
+
+[5] On Bullshit, page 67 (Harry Frankfurt, 2005. First published in The Raritan Quarterly Review, 1986.)
+
+[6] Three More Horsemen (How We Self-Sabotage)
+
+[7] Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives (Maria Popova, Brain Pickings, 2014)
+
+[8] Conversations with Ourselves
+
+[9] Make Getting Feedback Less Stressful
+
+[10] Refugees, The Wire, Season Four (Written by Dennis Lehane, portrayed by Jamie Hector, HBO, 2006)
+
+- Here's a brief clip that's worth watching.
+
+[11] Corn Mazes and Mental Models
+
+[12] The Map Is Not the Territory
+
+[13] Building Blocks (A Tactical Approach to Change)
+
+[14] The Tyranny of Feelings
+
+[15] The Obstacle Is The Way
+
+Photo by insight pest.
+
+
+===== END ED BOT ESSAY 4075 =====
+===== BEGIN ED BOT ESSAY 4076 =====
+---
+title: Why You Can't Stop Thinking About Something
+url: https://edbatista.com/2021/03/why-you-cant-stop-thinking-about-something.html
+slug: why-you-cant-stop-thinking-about-something
+published: 2021-03-18T10:52:19
+updated: 2025-10-06T12:51:03
+source_body: wordpress-html
+---
+
+A common challenge faced by my clients is an inability to stop thinking about something that's obsessing them:
+
+- An intractable problem in the business.
+
+- An interaction that went badly in some way.
+
+- A difficult relationship with a colleague or in their personal life.
+
+- Or simply the existential risks that accompany leadership in uncertain times.
+
+While this is an oversimplication, there are three factors that explain much about why we can't simply "turn off" unwanted thoughts:
+
+Emotions Are Attention Magnets
+
+As I've written before, psychologist Victor Johnston describes emotions as "discriminant hedonic amplifiers," meaning that they boost various signals in our mental landscape, drawing our attention toward certain issues and events and away from others. In other words, emotions are attention magnets. [1,2] This is a "feature" that can feel like a "bug." [3] Unlike the slow, methodical process of logical reasoning, in which the narrow window of consciousness allows us to focus on a relatively small number of objects, emotions allow us to process vast amounts of data from multiple sources at once, rapidly alerting us to potential opportunities and threats. (To be clear, emotions do not work in opposition to logical reasoning--rather, they're essential inputs into the process. [4])
+
+As a species we obviously benefit from this capability--that's the feature. The late psychologist Daniel Wegner noted that it's essential for emotions to be able to interrupt conscious thought and capture our attention:
+
+It is clear that emotion should not be very susceptible to willful control. If we could turn off all our emotions, feel no pain, never laugh, not be gripped by fear or despair, stop being excited, and so on, we could easily end up dead... It is good, in other words, that when we feel an emotional state, our normal purposes and interests succumb to an influence beyond our control. The priority of emotions over will is important for our survival because it allows our plans to be interrupted by the immediate pressures of reality. [5]
+
+The dilemma is that emotions are a "quick and dirty signal," in the words of neuroscientist Joseph LeDoux. [6] Just because we have an emotional response to a situation doesn't mean that it's actually worth our attention. Compounding the problem is the fact that negative emotions have a much stronger and long-lasting impact than positive ones. [7] My clients never complain about being unable to stop thinking about all the good things in their lives. So while we benefit as a species, the magnetic pull of negative emotions can make it profoundly difficult for us as individuals to put them out of mind when it would be helpful to do so--that's the bug.
+
+"Meta-Thoughts" Contain "Object Thoughts"
+
+Wegner used the terms "meta-thoughts" and "object thoughts" to describe two different types of thinking:
+
+The term cognition refers to thinking; meta-cognition is the term for thoughts about thinking. Loosely speaking, the process of thinking is something people do to things inside their head. This definition highlights the most obvious quality of thought--its character of having an object. We think about things, and the curious quality of thought is that it requires something to be about... Meta-cognition occurs when thought takes itself as an object. [8]
+
+An attempt to stop thinking about something that's obsessing us is a meta-thought (the effort to stop thinking) about an object thought (the thing that's obsessing us). We're constantly engaged in the process of directing our attention toward (and away from) various possible objects, as we weigh the costs and benefits of attending to (and ignoring) each object:
+
+All meta-cognition can be viewed as the relative emphasis or de-emphasis of object-level thoughts... The result is...a relative concentration on certain object-level thoughts or a relative suppression of certain object-level thoughts... At the meta-cognitive level, the mind registers what is okay, or not okay, at the object level. Meta-cognitions are preferences for our minds, wishes about what we might think. [9]
+
+The challenge, Wegner notes, is that a meta-thought directing us to stop thinking about a particular object thought contains the problematic object thought itself:
+
+When meta-cognitions do step in, they must lumber into the light of the conscious window to try to change the view. As it turns out, this is a key part of their inability to succeed in the immediate suppression of a thought... Our difficult time with thought suppression comes when, in this sequence of conscious thoughts, we get the idea to suppress a current thought. The suppression meta-thought ("I'd rather not think of a white bear") is here, but the thought ("white bear") is here, too. As long as we hold the meta-thought in the conscious window, the thought will be there... We cannot split the thought from the meta-thought, even though this is the very purpose of the meta-thought. [10]
+
+Mental Control Is Taxing
+
+Any effort to direct our thinking is a form of "mental control," and all forms of mental control involve what psychologists refer to as "System 2" thinking, a term coined by Keith Stanovich and Richard West [11] and later popularized by Daniel Kahneman. "System 1" thinking, in Kahneman's description, "operates automatically and quickly, with little or no effort and no sense of voluntary control." In contrast, System 2 thinking,
+
+...allocates attention to the effortful mental activities that demand it, including complex computations. The operations of System 2 are often associated with the subjective experience of agency, choice, and concentration. [12]
+
+But System 2 processing is a finite mental capability--we cannot concentrate or direct our attention indefinitely--and so we've evolved a set of mechanisms to ensure that we preserve this precious resource for those situations that truly require it. We have an "attention budget," and, as Kahneman notes, "If you try to go beyond your budget, you will fail." [13] We can experience "ego depletion," in which efforts at self-control and restraint (including, but not limited to, mental control) are perceived as fatiguing, eventually resulting in suboptimal decision-making. [14]
+
+And we follow "the law of least effort," seeking to expend as little mental energy as possible, taking cognitive shortcuts to arrive at imperfect but serviceable answers to the questions we face. [15] As a consequence of these dynamics we typically experience efforts at mental control as taxing and even unpleasant, which often causes us to give up--at which point our attention returns to the magnetic objects of our obsession.
+
+So what can we do when we're unable to stop thinking about something that's obsessing us? There's no simple answer, of course--we won't overcome two million years of evolutionary psychology, nor would we want to even if it were possible. But there are some helpful steps we can take:
+
+- Dedicate time for "bounded worry." Research suggests that allowing ourselves to fully explore our concerns for a set period of time allows us to minimize our worries during the rest of the day. [16]
+
+- Cultivate our capacity for emotion regulation. We can't control our feelings, but we can influence them.
+
+- Commit to a consistent mindfulness practice. Meditation in particular can enhance our capacity for mental control--although note that it should be regard as a workout in attention management, not a break from stress.
+
+- Engage in healthy distractions. We can't extinguish unwanted "object thoughts," because they're smuggled in by our "meta-thoughts"--but we can substitute alternatives that capture our attention.
+
+- And, as always, write about it and talk about it with people we trust. (And possibly consider working with a coach.)
+
+Footnotes
+
+[1] To Stay Focused, Manage Your Emotions
+
+[2] Why We Feel: The Science of Human Emotions, page 156 (Victor Johnston, 1999)
+
+[3] "It's Not a Bug, It's a Feature" Trite--or Just Right? (Nicholas Carr, Wired, 2018)
+
+[4] Antonio Damasio on Emotion and Reason
+
+[5] White Bears and Other Unwanted Thoughts: Suppression, Obsession, and the Psychology of Mental Control, page 123 (Daniel Wegner, 2nd edition, 1994)
+
+[6] The Emotional Brain: The Mysterious Underpinnings of Emotional Life, page 163 (Joseph LeDoux, 1998)
+
+[7] Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen D. Vohs, Review of General Psychology, 2001)
+
+[8] Wegner, pages 43-44.
+
+[9] Ibid, page 49.
+
+[10] Ibid, pages 55-56.
+
+[11] Individual differences in reasoning: Implications for the rationality debate? (Keith Stanovich and Richard West, Behavioral and Brain Sciences, Volume 23, Issue 5, October 2000)
+
+- Stanovich and others have gone on to point out shortcomings in the System 1/System 2 framework, while affirming its utility, and it is certainly sufficient for the purposes of this discussion. For more, see Dual-Process Theories of Cognitive Processing: Advancing the Debate (Jonathan Evans and Keith Stanovich, Perspectives on Psychological Science, 2013)
+
+[12] Thinking, Fast and Slow, pages 20-21 (Daniel Kahneman, 2013)
+
+[13] Ibid, page 23.
+
+[14] Ibid, pages 41-42.
+
+- As I've noted before, early research on ego depletion suggested that varying levels of glucose in the bloodstream played a significant role in the process, but this conclusion has not been supported by more recent studies, and the underlying neurological mechanisms are still being explored.
+
+[15] Ibid, pages 35-40, page 99.
+
+[16] Cited by health journalist Lea Winerman in her report on a presentation by Wegner at the annual convention of the American Psychological Association: Suppressing the "white bears" (Lea Winerman, Monitor on Psychology, Volume 43, No. 9, October 2011)
+
+For Further Reading
+
+Attention Surplus Disorder (Anxiety and Distraction)
+
+Attitude and Behavior
+
+White Bears and Car Crashes (Thinking About Thinking)
+
+The Tyranny of Feelings
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+A Better Information Diet
+
+The Value of Journal Writing
+
+Talking About Feelings
+
+The Art of Self-Coaching: Attention (Stanford GSB Class of 2016 Reunion)
+
+Photo by apol-photography.
+
+
+===== END ED BOT ESSAY 4076 =====
+===== BEGIN ED BOT ESSAY 4077 =====
+---
+title: Playing with Matches (On Feeling Needed as a Leader)
+url: https://edbatista.com/2021/03/playing-with-matches-on-feeling-needed-as-a-leader.html
+slug: playing-with-matches-on-feeling-needed-as-a-leader
+published: 2021-03-17T18:29:36
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+Most of my conversations with clients involve problems, difficulties, and things going wrong. That's the nature of coaching, but it's also the nature of senior leadership. And yet at regular intervals my clients find themselves in periods of unexpected calm, when there are no major problems or difficulties and everything's going well. This can actually be a very risky moment for a leader.
+
+While my clients and I often discuss their feelings of stress, anxiety, frustration and overwhelm, it's also true that problems, difficulties, and things going wrong inevitably make a leader feel needed. And I'd suggest that feeling needed is one of the reasons why people pursue senior leadership roles in the first place. There are many other reasons, of course, but this one often goes unacknowledged and undiscussed--which can make it problematic.
+
+Because in moments of calm, in the absence of all those woes and burdens, the leader often looks around and wonders, "Am I really needed? How do I add value when everything's going well?" This is when the leader may start actively looking for problems, instead of waiting for problems to come to them. They may inadvertently or unconsciously break things in order to fix them--in order to feel needed again. Or as one of my clients put it recently, "I'm like a bored firefighter playing with matches."
+
+The thing to remember about leadership in times of crisis is that even in the midst of all the stress, anxiety, frustration, and overwhelm that it evokes, it's also a powerful source of affirmation for the leader. It feels good to be needed when the stakes are high, at least for the majority of people who seek out and hold onto senior leadership roles. As another client once put it, speaking not literally about combat but metaphorically about business, "Wartime is fun."
+
+So what can a leader do about this? How can you avoid becoming a firefighter-turned-arsonist?
+
+- It starts with self-awareness. As with so many issues in my practice, self-awareness isn't sufficient on its own, but it's the necessary first step. The complicated feelings that emerge when things are going well can easily lead to counter-productive behavior if they're not made visible. So write about it. And talk about it. And I'm biased, but consider working with a coach.
+
+- Get your needs met. At some level, we all need to feel needed. But when we get this need met primarily through our work, we create a set of conditions in which we may be tempted to play with matches. Be sure to cultivate aspects of your identity in which you feel needed outside of work, and maintain relationships with people who need you not as their leader, but in some other capacity.
+
+- Savor the moment. The world being what it is, things will not continue going well indefinitely, and you'll be needed again sooner than you think. This interval of calm will pass quickly, like life itself, and you have a choice: You can set aside your discontent and appreciate what is uniquely available to you at this moment, or you can let such feelings consume you while the time passes, until all your troubles have returned. And they will.
+
+ 
+
+For Further Reading
+
+The Value of Journal Writing
+
+Talking About Feelings
+
+How to Feed a Monster (Leading in Elite Organizations)
+
+On the Shortness of Life
+
+ 
+
+Photo by eXploration Etoile.
+
+
+===== END ED BOT ESSAY 4077 =====
+===== BEGIN ED BOT ESSAY 4078 =====
+---
+title: Force Isn't Power
+url: https://edbatista.com/2021/03/force-isnt-power.html
+slug: force-isnt-power
+published: 2021-03-06T17:49:14
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+A theme in my practice is helping leaders understand the difference between force and power and make use of that distinction in achieving their goals. Let's define force as "strength or energy as an attribute of action" and power as "the ability to produce an effect." At times the two are indistinguishable, or at least closely related--we need force to produce power. In professional life, this is often true early in our careers. Lacking power--or believing we lack power--we feel that we must act forcefully in order to have the desired effect. But later in our careers and at more senior levels, when we likely possess much more power than before, continuing to act forcefully can be unnecessary and even counterproductive. What does this look like in practice?
+
+Forceful Behavior
+Powerful Behavior
+
+- Speaking loudly
+
+- Speaking rapidly
+
+- Interrupting
+
+- Giving an order
+
+- Harsh language
+
+- Staring
+
+- Emotional expressiveness
+
+- Speaking softly
+
+- Speaking slowly
+
+- Remaining silent
+
+- Asking a question
+
+- Nuanced language
+
+- Looking away
+
+- Emotion regulation
+
+Here's an example of the distinction from the opening scene of Francis Ford Coppola's film The Godfather. A wealthy tradesman wants Marlon Brando's Don Corleone--the powerful head of a Mafia family--to exact vengeance on a pair of men who assaulted his daughter and escaped justice:
+
+A pivotal moment occurs just over a minute into the clip above, at the 4:39 mark. Having been rebuffed in his effort to have the two men murdered, the tradesman implores that "they suffer, as she suffers," and then asks, "How much shall I pay you?" Given the necessary subtlety in this context, such a question is a profound insult, and Corleone's response is telling. He pauses, gently places the cat he's been petting on his desk, stands up, and walks away. He stares out the window for a moment, and then replies, "What have I ever done to make you treat me so disrespectfully?" The merchant realizes the gravity of his misstep and adopts a deferential posture, calling Corleone by his title and kissing his ring. Brando's performance (which won an Oscar that he declined to accept) is a sublime demonstration of how to display power without using any force at all. [1]
+
+I'm not saying that force is irrelevant, but as we grow more senior it should be applied more and more judiciously. A client whose company works with elite military units once invited me to talk with two Navy SEALs. I've worked with leaders who were frustrated by their team's resistance and wished they could just "give orders," so I asked the senior SEAL officer how often he had given an order overriding a subordinate's dissent. "Twice," he said, "in thirteen years." Now that is the judicious use of force--and it told me that he had great confidence in his ability to exert power via other means.
+
+I'm also not saying that forceful, expressive behavior is always unhelpful. As I've noted before [2], some research suggests that people with angry facial expressions are perceived as "threatening, competent, powerful, and dominant" [3], and another study indicates that angry people may perform better in confrontational tasks. [4] But this research applies specifically to overtly and explicitly hostile situations--in other words, anger is useful when we're in a fight.
+
+And in my experience very, very few scenarios in organizational life can truly be classified as "fights." Plenty of professional confrontations feel like fights--but they're not really fights. [5] Far more common are what I call "power struggles among nice people," and executives who show up in such contests acting like they're in a fight almost always lose. They misread the situation and make a host of tactical errors because force isn't power--and when we confuse the two we can actually give away power and put ourselves at a disadvantage. 
+
+Why does this matter so much? In part because of two key findings on effective management from the work of David McClelland, one of the most eminent psychologists of the 20th century. First, good managers have a high need for power and a low need to be liked:
+
+Most of the managers...were high in power motivation compared with the average person. This finding confirms that power motivation is important for management. (Remember that, as we use the term, power motivation refers not to dictatorial behavior but to a desire to have impact, to be strong and influential.) The better managers, judged by the morale of those working for them, tended to score even higher in power motivation. But the most important determining factor of high morale turned out to be not how their power motivation compared with their need to achieve but whether it was higher than their need to be liked. [6]
+
+But just as important, in good managers a high need for power is not expressed through forceful behavior:
+
+The best managers possess two characteristics that act as regulators--a greater emotional maturity, where there is little egotism, and a democratic coaching managerial style. If an institutional power motivation is checked by maturity, it does not lead to an aggressive, egotistic expansiveness. That means managers can control their subordinates and influence others around them without having to resort to coercion or to an authoritarian management style. [7]
+
+In other words, effective management is an ongoing exercise in exerting power without being forceful:
+
+What we are saying is that managers must be interested in playing the influence game in a controlled way. That does not necessarily mean that they are or should be authoritarian in action. On the contrary, it appears that power-motivated managers make their subordinates feel strong rather than weak. [8]
+
+Finally, let's consider the conclusions of Stanford's Jeff Pfeffer,  whose research has focused on power in organizational life, and who's studied thousands of leaders in hundreds of companies over the course of his career. In his book Power: Why Some People Have It--and Others Don't, he discusses seven qualities associated with personal power. [9] The first five are often associated with forcefulness as well:
+
+- Ambition: "Organizational life can be irritating and frustrating and can divert people's effort and attention. Ambition--a focus on achieving influence--can help people overcome the temptation to give up or to give in to the irritations."
+
+- Energy: "Energy, like many emotional states such as anger or happiness, is contagious. Therefore energy inspires more effort on the part of others."
+
+- Focus: "Depth of understanding and a more substantial web of focused relationships... Concentration on a limited set of activities or functional skills... [and] concentrat[ing] on those activities within your particular job or position that are the most critical."
+
+- Self-Knowledge: "There is no learning and personal development without reflection."
+
+- Confidence: "Because power is likely to cause people to behave in a more confident fashion, observers will associate confident behavior with actually having power."
+
+But the final two qualities Pfeffer cites have very little to do with force--and yet have everything to do with power:
+
+- Empathy: "Far from diverting you from accomplishing your objectives, putting yourself in the other's place is one of the best ways to advance your agenda."
+
+- Capacity to Tolerate Conflict: "Because most people are conflict-averse, they avoid difficult situations and difficult people, frequently acceding to requests or changing their positions rather than paying the emotional price of standing up for themselves and their views."
+
+When we act forcefully, we're typically focused on our needs and our perspective. The other party's needs and perspective seem like irrelevant obstacles to be overcome. We're neither capable of empathy nor will we be perceived as empathetic--and thus we miss opportunities to be more powerful.
+
+And a vivid illustration of the capacity to tolerate conflict can be found in Bouncing Back, a masterful book by therapist Linda Graham, who relates the following story from Buddhist tradition:
+
+A master monk is meditating in a temple with other monks. Suddenly a fierce bandit storms into the temple, threatening to kill everybody. The other monks flee, but the master monk remains, calmly meditating. Enraged, the bandit shouts, "Don't you understand? I could run you through with my sword and not bat an eye!" The monk calmly replies, "Don't you understand? I could be run through by your sword and not bat an eye." [10]
+
+The bandit is forceful. But the monk is powerful.
+
+ 
+
+Inspired by my friends and colleagues Michael Chang Wenderoth and Inbal Demri Shaham, and dedicated to Jeff Pfeffer, who has taught us all so very much.
+
+Footnotes
+
+[1] The Godfather (directed and produced by Francis Ford Coppola, screenplay by Mario Puzo and Francis Ford Coppola, Paramount Pictures, 1972)
+
+[2] The Value of a Good Fight
+
+[3] Portrait of The Angry Decision Maker: How Appraisal Tendencies Shape Anger’s Influence on Cognition (Jennifer Lerner and Larissa Tiedens, Journal of Behavioral Decision Making, 2006)
+
+[4] Hedonic and instrumental motives in anger regulation (Maya Tamir, Christopher Mitchell and James Gross, Psychological Science, 2008)
+
+[5] The Tyranny of Feelings
+
+[6] Power Is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, originally written 1976, revised 1995, republished 2003. Passages cited here are from various versions.)
+
+[7] Ibid.
+
+[8] Ibid.
+
+[9] Power: Why Some People Have It and Others Don't, pages 42-54 (Jeffrey Pfeffer, 2010)
+
+- Also see Power Play (Jeffrey Pfeffer, Harvard Business Review, 2010)
+
+[10] Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being, page 229 (Linda Graham, 2013)
+
+ 
+
+For Further Reading
+
+Competence Isn't Power
+
+Weather Systems (Power, Charisma and Leadership)
+
+Three Definitions of Power
+
+ 
+
+Photos: Hammer by Ryan Adams. Vise by Cindy Shebley.
+
+
+===== END ED BOT ESSAY 4078 =====

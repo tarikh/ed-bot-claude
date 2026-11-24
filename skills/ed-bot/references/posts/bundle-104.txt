@@ -1,0 +1,156 @@
+===== BEGIN ED BOT ESSAY 3511 =====
+---
+title: The General Design Company
+url: https://edbatista.com/2007/02/the_general_des.html
+slug: the_general_des
+published: 2007-02-09T12:54:37
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+What's a blog for if you can't use it to pimp your friends and family every once in a while? The General Design Company is a graphic design firm just launched by my sister-in-law Soung Wiser and her colleague Scott Livingston. The two of them have been the creative team at BatesNeimand for a number of years, and although they're keeping their day jobs, they wanted to strike out on their own in order to take on new projects.
+
+Their site's still under construction, but I expect to see something very spiffy there in the near future. In the meantime, if you're looking for a graphic designer, give them a call. Soung is incredibly talented and totally cool, and I am not biased at all. Not one bit.
+
+
+===== END ED BOT ESSAY 3511 =====
+===== BEGIN ED BOT ESSAY 3512 =====
+---
+title: Home-Grown Managers
+url: https://edbatista.com/2007/02/homegrown_manag.html
+slug: homegrown_manag
+published: 2007-02-05T22:29:43
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+Where are small and mid-sized firms finding top management talent? Right in their own backyard. Today's Wall Street Journal features an article by Erin White on the growing trend of investing in local talent and transforming high-potential employees into high-profile managers:
+
+[M]any U.S. companies [are] paying more attention to grooming their next generation of leaders. Selected employees typically enter multi-year programs involving management classes, coaching sessions and so-called stretch assignments that throw them into big, unfamiliar challenges.
+
+What's driving the trend?
+
+The tight labor market puts a premium on retaining top talent and
+
+raises the cost of outside hires. And leaner corporate structures make
+
+it harder for managers to naturally hone their skills through
+
+incremental steps up the ladder; companies must instead formally teach
+
+them. Demographics play a role, too: The looming retirement of baby
+
+boomers is forcing companies to think about replacements.
+
+White focuses on the Schwan Food Company, a $3.5 billion prepared food maker which has 35 employees in its Senior Executive Development Program and is about to create a similar program for 50 lower-level managers. According to White...
+
+Participants in the senior program are thrown into new jobs, take
+
+business classes, and are given mentors and coaches for support.
+
+They're also assigned to team projects with other program members.
+
+Participants must be willing to change jobs and relocate whenever the
+
+company asks.
+
+[Schwan CEO Lenny] Pippin says the program has created a more worldly and
+
+self-confident work force. It also has developed a roster of potential
+
+future leaders -- unlike when Schwan reached outside to hire him, Mr.
+
+Pippin says. "I can go to the board, and I can talk to them about
+
+succession and the future leadership of this company for many years to
+
+come," he says.
+
+I love my job working to help Stanford MBAs develop their leadership skills, and I'm deeply grateful for the opportunities that allowed me to enjoy the benefits of that same graduate education, but what I find so exciting about Schwan's program and others like it is the recognition that management talent doesn't necessarily come with a blue-chip degree.
+
+But I'm sure it took a substantial effort on Schwan's part to get this program off the ground. What's needed is a pre-fab management training curriculum with executive coaching support that small and mid-sized companies could tap into and adapt to their own purposes without having to reinvent the wheel on their own. Sounds like a job for someone working in leadership development at a top-flight business school...
+
+
+===== END ED BOT ESSAY 3512 =====
+===== BEGIN ED BOT ESSAY 3513 =====
+---
+title: When Heuristics Go Bad (On Cognitive Biases)
+url: https://edbatista.com/2007/02/when_heuristics.html
+slug: when_heuristics
+published: 2007-02-04T22:33:05
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+Cognitive Bias Codex by Buster Benson, designed by John Manoogian III.
+
+Much of our problem-solving behavior relies on heuristics, conceptual rules of thumb that allow us to sift through information quickly and find a likely answer to a question more efficiently. We couldn't function without heuristics, but they're prone to biases which regularly lead us astray. Writing in The New Yorker, Jerome Groopman discusses heuristics and related biases that affect physicians--and which clearly affect the rest of us as well:
+
+Representativeness Bias. Groopman writes, "Doctors make [representative] errors when their thinking is overly influenced by what is typically true; they fail to consider possibilities that contradict their mental templates of a disease, and thus attribute symptoms to the wrong cause." Pat Croskerry, a physician who's written "Achieving Quality in Clinical Decision Making" as well as "The Theory and Practice of Clinical Decision Making," told Groopman, "You have to be prepared in your mind for the atypical."
+
+Availability Bias, which Groopman defines as "the tendency to judge the likelihood of an event by the ease with which relevant examples come to mind." He continues, "[A] businessman may estimate the likelihood that a given venture could fail by recalling difficulties that his associates had encountered in the marketplace, rather than by relying on all the data available to him about the venture; the experiences most familiar to him can bias his assessment of the chances for success... (Psychologists call this kind of cognitive cherry-picking 'confirmation bias': confirming what you expect to find by selectively accepting or ignoring information.)"
+
+Affective Errors. Groopman relates how he once failed to thoroughly examine a patient whom he felt warmly toward in order to minimize the patient's discomfort and possibly because, "I hoped unconsciously that the cause of his fever was trivial and that I would not find evidence of an infection on his body." Groopman continues, "This tendency to make decisions based on what we wish were true is what Croskerry calls an 'affective error.'"
+
+Groopman concludes,
+
+As...cognitive psychologists have shown, when people are confronted with uncertainty...they are susceptible to unconscious emotions and personal biases, and are more likely to make cognitive errors. Croskerry believes that the first step toward incorporating an awareness of heuristics and their liabilities into medical practice is to recognize that how doctors think can affect their success as much as how much they know, or how much experience they have. "Currently, in medical training, we fail to recognize the importance of critical thinking and critical reasoning," Croskerry told me. "The implicit assumption in medicine is that we know how to think. But we don’t."
+
+Groopman's article focuses on the role played by heuristics in medicine, but his thesis is applicable in any field of endeavor; Croskerry could have said, "The implicit assumption in life is that we know how to think. But we don't." We could all stand to "incorporate an awareness of heuristics and their liabilities into our practice," no matter what business we're in.
+
+For Further Reading
+
+Pat Croskerry on Successful Decision-Making
+
+Cognitive Bias Cheat Sheet (Buster Benson)
+
+Cognitive Bias Codex (Designed by John Manoogian III using Benson's framework)
+
+- Large format paper version (Design Hacks)
+
+Wikipedia's list of psychological heuristics
+
+Strategic decisions: When can you trust your gut? (Interview with Daniel Kahneman and Gary Klein)
+
+Conditions for Intuitive Expertise (Daniel Kahneman and Gary Klein)
+
+Thanks to Roberto Fernandez, whose outstanding class on Organizational Behavior at the Stanford Graduate School of Business first introduced me to heuristics and who impressed upon me the importance of recognizing that our minds play tricks on us in sadly predictable ways.
+
+Updated July 2018.
+
+
+===== END ED BOT ESSAY 3513 =====
+===== BEGIN ED BOT ESSAY 3514 =====
+---
+title: What We Talk About When We Talk About Ourselves
+url: https://edbatista.com/2007/02/what_we_talk_ab.html
+slug: what_we_talk_ab
+published: 2007-02-01T17:13:31
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+In any number of circumstances, we're called upon to tell our story, to recount some aspect of our personal or professional history and how we came to be who we are. Here's how to do this more effectively:
+
+- We often assume that because we've lived our story we know how to tell it, and so we wing it. This leads to rambling. Don't memorize a script, but map out the themes you want to address. Practice with a timer to get a sense of the rhythm and pace that feel right. Make the most of the time available, while ensuring that you don't run long.
+
+- We rely too heavily on chronology, which is an obvious way to tell our story, but not necessarily the most compelling. What other lens can you apply to your experiences? What is the narrative arc? Seek to convey a sense of drama, rather than simply reciting facts as though you were reading your resume.
+
+- We typically include too many details.Think bigger. Talk about the why, and not just the what and the when. Help people understand who you are and not simply what you've done.
+
+- Most people speak too quickly in these situations. Slowing down is calming, gives your words more emphasis, and helps your audience. Remember that they want you to succeed as much as you do.
+
+ 
+
+For Further Reading
+
+Stagefright and Public Speaking
+
+Top Ten Speaking Tips (R. Todd Stephens, 2005)
+
+Thanks to Raymond Carver for inspiring this post's title.
+
+Photo by JohnDiew0107.
+
+
+===== END ED BOT ESSAY 3514 =====

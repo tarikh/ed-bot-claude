@@ -1,0 +1,308 @@
+===== BEGIN ED BOT ESSAY 10357 =====
+---
+title: How to Think Long-Term
+url: https://edbatista.com/2023/08/how-to-think-long-term.html
+slug: how-to-think-long-term
+published: 2023-08-18T08:14:37
+updated: 2025-09-25T14:24:10
+source_body: wordpress-html
+---
+
+We're not well-served by treating successful leaders as oracles. Patterning ourselves after someone else's example and expecting similar results ignores survivorship bias and the role of random chance in success. [1] That said, it's equally foolish to imagine that we have nothing to learn from successful leaders, and Jeff Bezos' perspective on long-term thinking is instructive:
+
+When somebody congratulates Amazon on a good quarter, I say "Thank you," but what I'm thinking to myself is, "Those quarterly results were fully baked about three years ago." Today [in 2017] I'm working on a quarter that is going to happen in 2020, not next quarter. Next quarter is done already, and it's probably been done for a couple of years. If you start to think that way, it changes how you spend your time, how you plan, where you put your energy. And it's not natural for humans--it's a discipline you have to build. That's something you have to steel yourself for. [2]
+
+Bezos' emphasis on discipline is key here, particularly when we appreciate the difference between importance and urgency. Important activities are meaningful and make a difference over the long-term to you, the people who matter to you, and your organization. But they’re not necessarily time-dependent, and if they go undone for a short stretch no one may even notice.
+
+Urgent activities have a deadline attached to them that matters to someone, although not necessarily to you. They are time-dependent, at least in someone’s mind, and if they go undone that person is going to be unhappy. But they’re not necessarily meaningful and accomplishing them may not make a significant difference.
+
+Some tasks are both important and urgent, and in professional life we tend to be very effective at identifying and accomplishing them. (If we're not, we don't last very long as professionals.) But many tasks are one but not the other, and this often causes us great difficulty. Important but not urgent activities are like brushing our teeth or exercise or meditation. There are no real consequences if we skip a day, but if that becomes a trend we’ll miss out on significant benefits and may run into serious problems. These activities tend to matter more to us than to others, at least in the near term.
+
+Urgent but not important activities matter to someone else, but not to us. We feel pressure to complete them, not only from others, but also internally, and yet their accomplishment may not yield significant results. There's an inherent tension that results in a constant battle: The time and attention we would otherwise devote to important but not urgent activities is often sacrificed to address urgent but not important matters. A challenge is that we may be the only ones who care about the former, while the latter often have many advocates. [3]
+
+This describes a pattern I see in my work with leaders, and it applies not only to their organizations, but also to their individual careers: They're under constant pressure to pursue urgent activities--sometimes from others, sometimes from within. And yet if they always yield to that pressure--if they lack the discipline to resist it--they will under-perform in the long run. If you're like my clients, you face similar pressures, and you also understand the importance of resisting them. So what can you do about it? What helps?
+
+Create Open Space
+
+The type of reflective thought that allows us to solve hard problems (and to even understand the nature of these problems in the first place) generally requires some time to allow our minds to wander and to make unexpected associative connections. Creative solutions rarely come when commanded--instead, we spot glimpses of them on the margins of conscious thought, and we invite them to join us. This process is short-circuited when we’re distracted with more immediate concerns or interrupted by others’ agendas.
+
+Learn How to Think
+
+A characteristic of environments that help almost all of us think more effectively is freedom from distractions--and in an era of open offices (or no office at all), shared calendars, and ubiquitous messaging, it's increasingly difficult to find such a space, particularly for a leader whose attention everyone is seeking to capture.
+
+Value Your Attention
+
+Focused attention is both finite and our most precious resource. Spend a dollar, we can always earn another one. Direct our attention somewhere, for any amount of time, and we'll never get it back. Although our store of focused attention is replenished overnight, we begin each day with a limited amount and deplete it steadily.
+
+Make This a Habit
+
+The difficulty of sustaining change over time, and the stark contrast between what we imagine change will be like and what it actually involves can leave us feeling demoralized and incapable--and so we give up. But if our conventional model of change hurts our chances of success, an alternative model can help. Instead of thinking of change as something grandiose, we can break it down into some simple building blocks.
+
+"If you start to think that way, it changes how you spend your time, how you plan, where you put your energy. And it's not natural for humans--it's a discipline you have to build."
+
+ 
+
+Footnotes
+
+[1] Survivorship bias occurs "when a visible successful subgroup is mistaken as an entire group, due to the failure subgroup not being visible." From Why do we misjudge groups by only looking at specific group members? (The Decision Lab). For more on the role of random chance (and our resistance to it), see Significance Junkies.
+
+[2] Jeff Bezos interviewed by Michael Beckerman (Internet Association Gala, 2017). The passage above begins at the 7:07 mark in this video.
+
+[3] Adapted from Importance vs. Urgency
+
+ 
+
+Photo by Pacific Southwest Forest Service.
+
+
+===== END ED BOT ESSAY 10357 =====
+===== BEGIN ED BOT ESSAY 10359 =====
+---
+title: Fishbowl Coaching (A Group Exercise)
+url: https://edbatista.com/2023/08/fishbowl-coaching-a-group-exercise.html
+slug: fishbowl-coaching-a-group-exercise
+published: 2023-08-09T12:52:03
+updated: 2025-09-25T14:24:10
+source_body: wordpress-html
+---
+
+I encourage my clients to view coaching as a way of interacting with employees that should be a part of their leadership toolkit. The goal is for them to integrate coaching alongside their other tools and ways of interacting with employees, not to supplant those tools entirely, or to act as though their relationships with employees are the equivalent of a coach's relationships with their clients.
+
+If you're a leader who's interested in this approach, you may feel daunted. What would this look like? How will you know if you're having the desired effect? How can you improve your coaching skills? Here is a simple exercise that can be conducted by a small group in under an hour, with separate suggestions for in-person and virtual events, additional notes for event facilitators, and some technical tips for virtual events.
+
+PRE-READING (OPTIONAL)
+
+- Connect, Reflect, Direct...Then Ask (On Coaching)
+
+- How Great Coaches Ask, Listen, and Empathize
+
+- Leading in Four Dimensions
+
+- Feedback Is Not a Gift
+
+ 
+
+OPENING: If 6 or more people are participating, split up into small groups. Each group must have at least 3 people. Each person in the group should think of a real-life situation on which they're willing to be coached and come up with a concise description of the scenario. If there are multiple groups, the length of time for the steps below should be determined in advance so that each group stays on schedule.
+
+- In-Person: If there are multiple groups, spread out so you have some privacy from each other and won't be distracted by the work of other groups.
+
+- Virtual: Ensure that everyone has the necessary technical tools to participate effectively. (See the Tips for Virtual Events below.) If there are multiple groups, identify them in advance and assign them to different virtual rooms.
+
+STEP 1: One person in the group volunteers to coach. It's important for the coach to identify themselves first. Then one person in the group volunteers to be coached on their scenario--they are the "coachee." The other group members will be observers, and in the absence of a facilitator one of the observers should be designated as timekeeper.
+
+STEP 2: The coach and coachee conduct a brief coaching session of roughly 10 to 15 minutes. The coachee should very briefly describe their scenario to the coach. This should not be a lengthy, detailed monologue. The intent is to give the coach just enough context to get started, and then allow them an opportunity to begin the coaching dialogue. The observers should keep notes on the coach's behavior--their questions, statements, body language, facial expressions, demeanor, etc.
+
+- In-Person: The coach and coachee should be seated next to each other. The other observers should be seated nearby and close enough that they can clearly hear the conversation, while leaving the coach and coachee enough space to allow them to focus on each other. 
+
+- Virtual: Optimally the coach and coachee are the only parties visible onscreen. If participants can only designate one party to be visible, select the coach, not the coachee.
+
+STEP 3: At the time limit, the coaching session is concluded. If there are multiple groups, all groups must transition simultaneously. This will inevitably result in the coaching being interrupted, leaving the issue unresolved. This is perfectly fine and actually necessary. If the coach and coachee keep trying to reach a resolution, the coach will be robbed of the learning opportunity that is the whole point of the exercise. Now the entire group conducts a 10 to 15 minute discussion to provide feedback to the coach. The coach and coachee are active participants in the process alongside the observers. This completes one round of the exercise--return to Step 1 and repeat until everyone has had an opportunity to act as coach, coachee and observer.
+
+ 
+
+NOTES FOR FACILITATORS
+
+If you're conducting this exercise with a number of participants, here are some guidelines to bear in mind:
+
+- Whether or not the participants have completed the optional pre-reading, you may elect to open the exercise with a brief training session on one or more coaching skills. This shouldn't take longer than 5 to 10 minutes.
+
+- With roughly 20 to 30 minutes per round, you can structure the exercise in a variety of ways, depending on the number of participants, the available time, and the amount of space in the room for in-person events.
+
+- If you have a lot of people and relatively little time, use trios. If you have ample space for an in-person event, have them spread out to avoid distractions and increase privacy. This can allow you to get through the entire exercise with all three people acting as coach, coachee and observer in an hour.
+
+- If you have a smaller number of people but a longer span of time, you can use larger groups of 4, 5, etc. This will allow for a broader range of feedback to the coach, although it will take longer to give everyone an opportunity to be coach, coachee and observer over the course of the exercise. (That isn't absolutely necessary but is optimal.)
+
+- If you have limited space for an in-person event, you can use a smaller number of larger groups (4, 5, etc.) although it will take longer to allow everyone to play all 3 roles, if desired. Note that with just 2 groups the participants may be distracted by the other group's conversation, so at least 3 groups is generally preferable.
+
+- You can include or omit lessons on additional skills in between rounds, but once the groups understand the process they may develop some momentum, making additional lessons feel like an interruption.
+
+- Exercises like this have the potential to be more meaningful when participants trust the group. Remind everyone that their observations are to remain confidential.
+
+- If possible, after completing all rounds of the exercise an open question-and-answer session involving all participants can be a way to share lessons learned across groups.
+
+TIPS FOR VIRTUAL EVENTS
+
+- Privacy: Find a private space in which you won't be interrupted or distracted. If it's possible that other people with you might overhear your conversation, wear headphones to insure the privacy of the other participants.
+
+- Tools: In a virtual event the quality of the tools we use and the surrounding environment can have a big impact on the quality of the dialogue. Ensure that you’ll have uninterrupted access to a broadband connection. Consider using an outboard camera and microphone for better image and sound quality. Pay particular attention to your lighting and your background.
+
+- Presence: Virtual events can be meaningful only to the extent that everyone participating is fully present and actively involved. Turn off any devices, services or alarms that might distract you. Multi-tasking will be obvious to the other participants and will diminish the sense of safety and trust in the group. Strive to be fully present and make it as easy as possible to do so.
+
+- For Further Reading: Better Conditions for Working Remotely
+
+ 
+
+Many thanks to Carole Robin, who first introduced me to a version of this exercise at the Stanford Graduate School of Business when I was on her staff in the school's Leadership Coaching and Mentoring class, circa 2008.
+
+Photo by Dean McCoy.
+
+
+===== END ED BOT ESSAY 10359 =====
+===== BEGIN ED BOT ESSAY 10362 =====
+---
+title: Pair Coaching
+url: https://edbatista.com/2022/07/pair-coaching.html
+slug: pair-coaching
+published: 2022-07-05T18:14:26
+updated: 2025-09-25T14:24:10
+source_body: wordpress-html
+---
+
+In addition to coaching CEOs and other senior leaders one-on-one, I also conduct pair coaching engagements, typically with co-founders or with a CEO and another C-level officer. There's no single best approach to pair coaching, but there are several common arrangements. Here are the configurations I'm most familiar with, and below is more information about the approach I employ in my practice:
+
+1. A pair working together with the same coach as a trio to directly address issues in the pair relationship or other shared challenges. This arrangement may also include occasional one-on-one sessions, but most sessions are held jointly.
+
+2. A pair working with the same coach in parallel one-on-one engagements. Issues in the relationship may be addressed, but that's not the primary focus. This arrangement may also include occasional joint sessions, but most sessions are held separately.
+
+3. A pair working one-on-one with two different coaches. The coaches may confer with each other on how best to support the pair, and all four parties may occasionally meet jointly.
+
+4. A pair working one-on-one with two with different coaches, while also engaging a third coach to work with them as a trio to address issues in the pair relationship or other shared challenges.
+
+Most of the pair coaching I conduct follows the first and second models above. I've worked in trios with co-founders as well as with CEOs and one of their direct reports. I've also worked with co-founders in parallel one-on-one engagements, and on occasion we met as a trio. Similarly, I've worked simultaneously in one-on-one engagements with spouses, but our work focused on their respective professional lives, not their personal relationship.
+
+Beyond a formal pair coaching engagement, I've also met on an ad hoc basis with an individual client's co-founder or another colleague, such as a Board member, although such meetings generally occur infrequently. And I've worked with two (or more) people who were colleagues in the same organization but who had few overlapping duties. In these cases it's preferable that all parties are aware that they're working with me--being transparent about the relationship while maintaining confidentiality around the issues being discussed helps to ensure high levels of trust.
+
+If you and another person are looking to work with me in one of these capacities, I'm happy to talk with you both about that possibility. If you haven't yet seen these other pages on my site, they'll help you get started:
+
+What I do and my background
+
+More on my approach to coaching
+
+Availability, cadence, and fees
+
+How to choose a coach
+
+Contact me
+
+Photo by Paul Keller.
+
+
+===== END ED BOT ESSAY 10362 =====
+===== BEGIN ED BOT ESSAY 16118 =====
+---
+title: How to Facilitate a Conflict on Your Team
+url: https://edbatista.com/2026/01/how-to-facilitate-a-conflict-on-your-team.html
+slug: how-to-facilitate-a-conflict-on-your-team
+published: 2026-01-28T17:53:45
+updated: 2026-01-30T11:26:08
+source_body: wordpress-html
+---
+
+A common theme in my practice is the leader who has two or more team members embroiled in a conflict. I'm typically working with CEOs leading executives, but the concepts I discuss here can be applied at any level in an organization. My comments assume that you have managerial authority over the individuals involved, so you'll need to modify your approach when dealing with peers or dotted-line reports.
+
+Why Conflict Is Good
+
+Conflict is a daily occurrence in organizational life, and when it takes place within acceptable limits it's healthy and even desirable. I'm leery of teams that pride themselves on an absence of conflict; in my experience that's a potential sign of dysfunction. Teams that don't regularly engage in conflict are often fearful that any interpersonal friction will escalate beyond acceptable limits, and consequently they don't develop the communication skills and emotional maturity that are necessary to sustain conflict within these boundaries.
+
+Conflict serves to surface a wide range of ideas, to convey varying degrees of conviction, and to portray divergent visions of how to proceed. When a team is unable to engage in conflict successfully, much of this information remains hidden and inaccessible. And in the absence of conflict, the team must rely on decision-making methods that may be impractical or may not yield the best results: Hierarchy rests on your judgment as leader. (Do you always know best?) Voting assumes the ability to apportion authority fairly and logically. And consensus often requires a great deal of time and space. Engaging in conflict doesn't preclude the use of these methods, nor is it always preferable, but it can augment their effectiveness. [1]
+
+When to Intervene
+
+That said, healthy conflict occurs within acceptable limits: It's not too heated. It's not personal. It doesn't last for too long. But definitions of "acceptable" are subjective, contingent, and dynamic. What's acceptable to me may be unacceptable to you. What's acceptable from someone we've known for years may be unacceptable from someone we've just met. What's acceptable in a crisis may be unacceptable in calm conditions (and vice versa.) Every team must arrive at a shared understanding of their "acceptable limits," which can only occur by engaging in conflict.
+
+While conflict can be a sign of group health, and the absence of conflict can be cause for concern, teams can obviously engage in unhealthy conflicts. They get too heated, too personal, last too long, cause undue distress and rancor, or in other ways prevent people from doing their best work. Your decision to intervene to resolve a conflict will inevitably be an intuitive one, a sense that things are "going too far." In the process, you should assess your own comfort level with conflict and the extent to which it aligns with group health. I've known leaders who jumped in at the first sign of conflict and prevented their teams from growing. I've also known leaders who were too hands-off and later regretted that they didn't act sooner.
+
+Facilitate, Don't (Always) Arbitrate
+
+As a leader there's an easy way to conclude any conflict on your team: simply decide who's right. And there are times when you must arbitrate disputes. But leaders sometimes adopt this approach reflexively, in part because it offers certain rewards: It's efficient. It feels good to be viewed as an authority. And team members may prefer that you take responsibility, rather than do the work themselves.
+
+But concluding a conflict isn't the same as resolving a conflict. The end of open hostility doesn't mean that anyone has changed their opinion, and a willingness to comply with your decision doesn't mean that everyone is fully committed to that outcome. [2] While on occasion it's necessary to arbitrate, when possible it's preferable to facilitate.
+
+Process vs. Content
+
+Arbitration is focused on content: the issues in question, relevant facts and opinions, different parties' respective positions and desired outcomes. The process by which arbitration is conducted is straightforward: The involved parties make their arguments, and you hand down a decision. Very efficient, very tidy.
+
+Facilitation inverts this equation by putting the emphasis on the process rather than the content. This isn't to say that the content is irrelevant, but when you're acting as a facilitator you don't need to be a subject matter expert, nor do you even need to have an opinion on "who's right." But you do take ownership for the process and conduct the dialogue in such a way that yields a thorough exchange of views, minimizes defensiveness, and increases the likelihood of mutual understanding and true resolution.
+
+You remain a source of authority, but you're acting more like a traffic cop than a judge. You're not dictating the destination, but you are enforcing rules of the road and calling out violations to ensure that everyone arrives safely.
+
+Preparation
+
+Having made the decision to intervene, it's important to prepare people for what's about to happen. We rarely do our best work when we're surprised, so don't expect to spring a facilitated discussion on your team and have them respond perfectly. In some cases it's worth taking the time to meet in advance with each individual to let them know what's coming, while in others you can meet with people as a group or even provide written guidance. But don't squander a chance at success by skipping this step to save time.
+
+Help people understand the difference between arbitration and facilitation, and clarify the role you'll play in the process. You don't have to permanently revoke your right to arbitrate, but emphasize that your primary objective will be to foster a productive dialogue, not to determine the outcome. Another aspect of your role will be ensuring that everyone feels supported in the effort to have a candid discussion. (This is much easier when you're not taking sides as an arbitrator.)
+
+Give advance notice of any ground rules for the discussion. (See below.) People may want to air their grievances with you ahead of time, to be certain that you understand their point of view. That's fine within limits, but when you hear language that would evoke defensiveness in the other parties if they were present, use that as an opportunity to offer feedback on how to be more persuasive during the facilitated discussion.
+
+The Right Setting
+
+Paying attention to logistical factors will make the discussion far more effective. If you're meeting in person, choose a space where everyone will feel at ease. The space should be perceived as neutral and not as anyone's turf. Everyone should have a comfortable seat and should be able to see everyone else's face. (Long tables make this difficult.) The space should be free from distractions and interruptions. Avoid the use of slides and presentations; the focus should be on the other people, not on a screen.
+
+If you're meeting virtually, ensure that everyone will take responsibility for optimizing their own space. It has to be a level playing field–everyone needs solid connectivity and all cameras should be on. Everyone should be in a space where they will be free from distractions and interruptions. To ensure that the discussion remains confidential, everyone should be in a private space or be using headphones. Multi-tasking is not permitted, and all notifications are turned off. [3]
+
+Pick a time when it's likely that everyone will be in the right frame of mind, including you. Allot sufficient time to have a meaningful discussion, while being mindful that this may be a taxing experience, and it may be sufficient to make some progress and "call time." (See below.) Somewhere between 30 and 90 minutes is generally optimal. You have to arrive early, but don't be surprised if someone's late. (They'll have a legitimate excuse, but there's probably some resistance to the process, and that's normal.)
+
+In the Room (or On the Call)
+
+People will look to you to kick things off, and bear in mind your role as facilitator, not arbitrator. In that capacity you want to foster a spirit of inquiry rather than advocacy. In an arbitration, each party simply states their case, advocating for their point of view and their desired outcome. The arbitrator asks clarifying questions, but the respective parties rarely make inquiries of each other, and ultimately one side wins and the other loses. In a facilitated discussion, you want to change every aspect of this dynamic.
+
+All parties will make their case eventually, but you want to encourage them to be curious about other parties' point of view, not narrowly focused on asserting their own. The goal is mutual understanding, not "winning." And you won't be rendering an ultimate decision unless absolutely necessary, but a facilitator is by no means a passive figure. Be an active presence throughout the discussion until you observe that the dialogue is flowing freely without your intervention. Traffic cops are assertive when there's a problem, but they don't barge into the street when it's not needed. Here are some ground rules and tactics to consider:
+
+- If there's any tension, start with some small talk or even a joke to break the ice.
+
+- Reiterate your role as traffic cop, not judge, and note that you'll interrupt, re-direct, pose questions, and police language as needed.
+
+- Emphasize that you're open to feedback in the moment. If anyone perceives you as being too intrusive or unhelpful, they should speak up. You don't necessarily have to agree with this feedback or change your behavior in response, but better for it to be voiced than stifled.
+
+- Observe communication patterns: Who's speaking? To whom? For how long? Who's not speaking? Who's interrupting? Who's being interrupted?
+
+- In some cases these patterns will strike you as counter-productive, but don't act on that impulse immediately. Groups are often semi-consciously aware of such patterns and course-correct on their own.
+
+- And yet don't wait too long to intervene. In some cases, do so without referencing the counter-productive pattern, as that can be disruptive. But at times the disruption is the point: you want to deliberately make them aware of behaviors that are making it harder to resolve the conflict.
+
+- When people appeal to you (as judge), redirect them back toward the other parties (as traffic cop.)
+
+Facilitation requires a keen sense of intuition and the ability to step in and out of the discussion firmly but gracefully. Leaders often have extensive training as arbitrators but very little as facilitators. Don't expect to be a master your first time out, but strive to learn as much as possible by reflecting on every experience and eliciting feedback if it hasn't been offered.
+
+Repeating Back
+
+Here's a tactic that's worth exploring in detail. When a conflict becomes heated, the people participating are experiencing what's known as a threat response, or a "fight, flight or freeze" response. This cascading constellation of physiological and emotional reactions serves an essential purpose by readying us to overcome perceived threats, but this can be counter-productive when those threats are social and symbolic rather than literal dangers to physical safety.
+
+People in this state are primed to take strong, decisive action rather than pause and reflect, so they're less effective at processing information. They miss visual cues, they don't hear as clearly, and they garble some of what they do hear. As a result there will likely be a series of misunderstandings that are evident to you as the facilitator but invisible to the participants. Here's how to turn these moments into opportunities for learning:
+
+- Person A has spoken, and you sense that Person B has misunderstood these remarks, and is about to respond on that basis.
+
+- Jump in and pause Person B, and have them repeat back to Person A what they think they heard.
+
+- If Person A agrees with Person B's interpretation of their remarks, let the discussion proceed (and perhaps be a little slower to intervene next time.)
+
+- Often, however, Person A will disagree with Person B's interpretation for a variety of reasons.
+
+- Person B may have misheard Person A. Or they may have heard Person A correctly but misunderstood Person A's intentions. Or they heard and interpreted Person A correctly, but upon reflection Person A would like to modify their remarks. Or some combination of the above.
+
+The key for you as facilitator is providing clarity without making anyone feel wrong, and helping people recognize that it's possible to catch and correct misunderstandings themselves.
+
+The Vulnerable Moment
+
+Once a team develops a sense of comfort and efficacy with the process of conflict resolution, your role as facilitator becomes less figural. You may always play a necessary function as convener, but you will likely add more value by being less active over time. And a truly high-performing team will gracefully tell you to back off when your interventions are getting in the way of their independence. But as facilitator you will often retain the ability to perform a special function even in a highly-experienced team: You will sense and protect the vulnerable moment.
+
+This is a critical step in most conflict-resolution processes: it's the moment when a person who's refused to acknowledge their contributions to the problem lowers their defenses and takes responsibility, and in so doing, makes themselves vulnerable. For a number of reasons, groups often miss this moment. Up to this point the person in question has probably been difficult, even combative, and what feels vulnerable to them may not look or sound vulnerable to others.
+
+But as the facilitator you're more likely to see this person clearly and to recognize their vulnerability when others can't. At that moment it's your job to slow things down and help everyone see what you see. This doesn't mean you have to spell it out; sometimes it's enough to simply give the person a little time and space. Why does this matter so much? Because expressions of vulnerability are a reliable way to evoke empathy, and empathy is what truly resolves conflict. [4]
+
+Success
+
+It's entirely possible for a team to conclusively resolve a conflict in a single discussion, and with experience this need not be time-consuming. But when a team is new to the process (or when it's a new team), temper your expectations. It may be more realistic to achieve meaningful progress and "call time" before people begin to feel fatigued. While these discussions aren't merely exercises, every one is an opportunity to learn and become more adept at the process. If possible, leave 5 to 10 minutes at the end to debrief what went well and what you'd do differently. [5] One definition of success is that the team ends the discussion eager (or at least willing) to do it again.
+
+Facilitation is usually more time-consuming in the short run, and it's never as tidy as arbitration (and occasionally it's downright messy.) But the payoff occurs over time, because when teams develop the capability to both sustain and resolve conflict, they become much more productive. People can share ideas freely and passionately without censoring themselves or walking on eggshells. Far less energy is consumed by efforts to avoid conflict, because the team has clarified its "acceptable limits" and trusts members to honor them. And on the inevitable occasions when those limits are exceeded, the team knows what to do--and they may not even need you to facilitate.
+
+Footnotes
+
+[1] Power Struggles Among Nice People
+
+[2] Compliance vs. Commitment (On Behavior Change)
+
+[3] For more on virtual discussions:
+
+- Guidelines for Better Virtual Events
+
+- Better Conditions for Working Remotely
+
+[4] Resolving a Protracted Conflict
+
+[5] Successful Debriefing: Ask, Don't Tell
+
+Image generated via Google Gemini.
+
+
+===== END ED BOT ESSAY 16118 =====

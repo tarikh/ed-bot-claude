@@ -1,0 +1,397 @@
+===== BEGIN ED BOT ESSAY 4071 =====
+---
+title: The Ruling Out of Possibilities (On Failure)
+url: https://edbatista.com/2021/04/the-ruling-out-of-possibilities-on-failure.html
+slug: the-ruling-out-of-possibilities-on-failure
+published: 2021-04-15T18:46:42
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+Success is made possible by understanding how something doesn’t work, [so] prior failings may be more aptly referred to as the ruling out of possibilities.
+
+~Peter Attia [1]
+
+Most of my clients are CEOs, many of whom have founded a new company, and all of the rest have embarked upon similarly ambitious paths. In this context failure is inevitable--not terminal or permanent, but failure nonetheless. The failed business model. The failed strategic plan. The failed investment. The failed hire. The failed career step. The only way to avoid failure is to take no risks--which feels safer in the short term but guarantees under-performance over time.
+
+The challenge here is threefold: See our failures clearly and acknowledge our contributions to the outcome. Study them closely to ensure we don't repeat the same mistakes. And remain sufficiently resilient to keep trying, sometimes over a period of years, while also knowing when to quit and abandon efforts that are unlikely to yield results. What does all of this look like in practice?
+
+See Failures Clearly
+
+There's a positive correlation between optimism and effective leadership, in part because the optimistic leader has a contagious effect on others, attracting talent and resources and making success more likely. [2] But as neuroscientist Richard Davidson has noted, the risks of excessive optimism include resistance to negative data and an inability to learn from experience. [3] Leaders who tend toward optimism have to temper their hopefulness and cultivate the capacity to acknowledge failure, which often entails a degree of "comfort with discomfort." [4] Failure won't necessarily feel good, but it doesn't need to feel overwhelming--and it may even feel liberating. The Rev. William Swing, former Episcopal Bishop of California, once said, "You learn to breathe again when you embrace failure as a part of life, not as the determining moment of life." [5]
+
+A key here is taking responsibility for our personal contributions to the failed outcome. It's far easier to assign blame to other people or forces beyond our control. I'm not suggesting we ignore the role played by chance--as astrophysicist Carl Sagan noted, "We seek meaning, even in random numbers," and this can lead us to exaggerate our significance. [6] But we can readily err in the other direction, downplaying our agency and ignoring all the deliberate steps we took on the road to failure.
+
+For example, despite evidence demonstrating the shortcomings of interviews in predicting performance [7], my clients understandably continue to employ the practice in their hiring processes, in part because it's an opportunity to assess a candidate's willingness to take responsibility for failure. "Tell us about a time when things went wrong" may be a clichéd question, but the response speaks volumes about the person's capacity for self-awareness and non-defensiveness.
+
+Study Them Closely
+
+The next step is analyzing and learning from failure, a process made easier by adopting what Stanford psychologist Carol Dweck calls a "growth mindset," in which "people believe that their most basic abilities can be developed through dedication and hard work--brains and talent are just the starting point." [8] This is in contrast to a "fixed mindset," in which we believe that our capabilities are inherent and lie beyond our ability to influence. Research by a team of psychologists led by Jason Moser of Michigan State indicates that people with a growth mindset pay closer attention to mistakes and are more likely to improve subsequent performance as a result, suggesting that one of the values of a growth mindset is that it enables us to feel less distressed by failure. [9]
+
+A key here is recognizing the power of "mental models." Psychologists have theorized that we navigate existence through a set of envisioned scenarios and representations--mental models--and these conceptual frameworks deeply inform our experience of the world. In other words, perceptions shape reality, and that very much includes perceptions about ourselves. [10] A growth mindset is a mental model about our abilities and the meaning of mistakes, one in which we believe that our abilities are subject to change, and mistakes are learning opportunities, not character flaws. Notably, this is consistent with recent findings from neuroscience which demonstrate that the brain remains plastic throughout our lives. [11]
+
+Making use of a growth mindset in this context requires an ongoing commitment to debriefing past experiences, a process that the British trainer and consultant Roger Greenaway maps out in four steps:
+
+- FACTS: What happened?
+
+- FEELINGS: What did I experience?
+
+- FINDINGS: Why did this happen?
+
+- FUTURES: What will I do differently? [12]
+
+The emphasis on emotion here is deliberate and essential. Failure reliably evokes uncomfortable feelings: embarrassment, regret, even shame. Seeking to ignore or suppress such feelings is usually futile--emotions aren't subject to willful control--and the effort can even be counter-productive, heightening our discomfort and leading us to fixate on our emotional response. [13] The key is emotion regulation, which entails exploring our feelings more fully, and, whenever possible, discussing them with others. [14,15] Here again, a growth mindset can play a valuable role by mitigating our negative emotional response to failure and enabling us to examine setbacks and mistakes more closely with greater ease.
+
+Stay Resilient...
+
+We often misunderstand the meaning of resilience, confusing it with invulnerability or toughness. The etymological root of resilience is the Latin resilire, which means "to rebound, recoil or jump back." Resilient materials deform under pressure while retaining their internal consistency, later returning to their original form. Iron is tough, but it's not resilient--when it reaches its breaking point it shatters into pieces. Being resilient in the face of failure doesn't mean that we're unaffected by the experience. Being resilient means that we have the ability to absorb the impact of a failure, respond flexibly, adapt to the resulting stress and pressure, and persist in these efforts over time--without shattering into pieces.
+
+Resilience can also be misconstrued as a monolithic quality we possess or lack, but research by psychologists Karen Reivich and Andrew Shatté suggests that our degree of resilience is a function of the extent to which possess certain characteristics and engage in specific behaviors:
+
+- Emotion regulation: "Some people are prone to experience greater amounts of anxiety, sadness, and anger than others and have a harder time regaining control once they are upset. They are more likely to get stuck in their anger, sadness, or anxiety and are less effective at coping with adversity and solving problems."
+
+- Impulse control: "If your impulse control is low, you will often accept your first impulsive belief about the situation as true and act accordingly."
+
+- Optimism: "Optimism implies that we believe we have the ability to handle the adversities that will inevitably arise in the future."
+
+- Causal analysis: "If we're unable to assess the causes of our problems accurately, then we are doomed to make the same mistakes over and over again... The most resilient people are those who have cognitive flexibility and can identify all of the significant causes of the adversities they face."
+
+- Empathy: "People low in empathy, even well-intentioned ones, tend to repeat the same old nonresilient patterns of behavior, and they're known to 'bulldoze' others' emotions and desires."
+
+- Self-efficacy: "Self-efficacy...represents our beliefs that we can solve the problems we are likely to experience and our faith in our ability to succeed."
+
+- Reaching out: "Why are some people afraid of reaching out? For some people, it's because they learned early in life that embarrassment was to be avoided at all costs. Better to remain in one's shell, even if it means a life of mediocrity, than to expose oneself to public failure and ridicule. For others...this reflects the tendency to overestimate the likelihood of future adversity." [16]
+
+One of the greatest values of Reivich and Shatté's framework is that it offers us a number of starting points when we feel the need to cultivate or enhance our resilience. We don't have to be exceptionally skilled in all seven domains, nor must we address all seven at once. We can choose where to focus our efforts to improve.
+
+...And Sometimes Quit
+
+But just as we shouldn't confuse resilience and invulnerability, we also shouldn't assume that persistent determination is the same things as permanent devotion. Because sometimes setbacks and mistakes are signs that we should quit before we experience a permanent or terminal failure, as noted by marketing expert and business author Seth Godin, who also makes an important distinction between "being resilient" and "coping":
+
+Strategic quitting is a conscious decision you make based on the choices available to you. If you realize you're at a dead end compared with what you could be investing in, quitting is not only a reasonable choice, it's a smart one. Failing, on the other hand, means that your dream is over. Failing happens when you give up, when there are no other options, or when you quit so often that you've used up all your time and resources.
+
+Coping is what people do when they try to muddle through. They cope with a bad job or a difficult task The problem with coping is that it never leads to exceptional performance... All coping does is waste your time and misdirect your energy. If the best you can do is cope, you're better off quitting. Quitting is better than coping because quitting frees you up to excel at something else. [17]
+
+The Ruling Out of Possibilities
+
+In the quote at the beginning of this essay, physician and longevity researcher Peter Attia is referring to the years of work costing untold millions that had been dedicated to a series of potential HIV vaccines that ultimately proved ineffective. These programs were judged by many to be "failures"--and yet their findings made it possible for drug researchers and manufacturers to successfully create a suite of vaccines in record time that today are the source of our greatest hope in beating back the current pandemic. So what is a failure?
+
+Some failures are permanent and terminal, of course, and I'm not suggesting that we can simply redefine ourselves out of such circumstances. But the vast majority of our "failures" aren't nearly so consequential, and whenever we're pursuing something ambitious--in the business model, the strategic plan, the investment, the hire, the career step--we will fail, repeatedly. But in the process we are also ruling out possibilities as we seek to understand what works.
+
+ 
+
+Footnotes
+
+[1] mRNA vaccine technology: Science builds on science (Peter Attia, 2021)
+
+[2] See Dispositional Affect and Leadership Effectiveness: A Comparison of Self-Esteem, Optimism, and Efficacy (Martin Chemers, Carl Watson, and Stephen May, Personality and Social Psychology Bulletin, 2000), and Impact of Leadership Style and Emotion on Subordinate Performance (Janet McColl-Kennedy and Ronald Anderson, The Leadership Quarterly, 2002).
+
+[3] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[4] Comfort with Discomfort
+
+[5] Rev. William Swing on Failure and Daydreams
+
+[6] Significance Junkies
+
+[7] For more on the shortcomings of interviews--and how to address them: Daniel Kahneman on Conducting Better Interviews
+
+[8] What Is Mindset (Carol Dweck, 2012). Note that subsequent research has cast doubt on some of Dweck's findings. I believe the concept of mindset is still useful, but we should avoid overstating its impact. For more, see Minding Our Mindset.
+
+[9] Mind Your Errors: Evidence for a Neural Mechanism Linking Growth Mind-Set to Adaptive Posterior Adjustments (Jason Moser et al, Psychological Science, 2011)
+
+[10] Corn Mazes and Mental Models
+
+[11] What is brain plasticity, and why is it so important? (Duncan Banks, The Conversation, 2016)
+
+[12] For more on debriefing (aka "reviewing"):
+
+-
+Your Guide to Active Reviewing (Roger Greenaway)
+
+-
+Don't be put off by the somewhat baffling design of this website--it's a treasure trove of resources, such as Reviewing for Results and Reviewing by Doing.
+
+-
+Experiential Learning Cycles
+
+-
+Experiential Learning Revisited
+
+-
+William James on Experiential Learning
+
+- Successful Debriefing: Ask, Don't Tell
+
+[13] Why You Can't Stop Thinking About Something
+
+[14] The Tyranny of Feelings
+
+[15] Talking About Feelings
+
+[16] The Resilience Factor: 7 Keys to Finding Your Inner Strength and Overcoming Life's Hurdles, Chapter 2: How Resilient Are You?, pages 31-47 (Karen Reivich and Andrew Shatté, 2002)
+
+[17] The Dip: A Little Book That Teaches You When to Quit (and When to Stick), page 63 (Seth Godin, 2007)
+
+ 
+
+Photo by Kevin.
+
+
+===== END ED BOT ESSAY 4071 =====
+===== BEGIN ED BOT ESSAY 4072 =====
+---
+title: Role Clarity and Role Confusion
+url: https://edbatista.com/2021/03/role-clarity-and-role-confusion.html
+slug: role-clarity-and-role-confusion
+published: 2021-03-28T15:35:19
+updated: 2025-10-06T12:48:43
+source_body: wordpress-html
+---
+
+A theme in my practice is the vital importance of a sufficient degree of role clarity--a shared understanding among colleagues that allows them to answer a set of questions that are rarely made explicit and yet are ever-present in organizational life:
+
+- Who are we to each other?
+
+- What are our relative positions in this environment?
+
+- In what ways are our roles similar? In what ways do they differ?
+
+- And how might any of this change over time, or in certain settings?
+
+Sufficient role clarity is necessary in all professional relationships, but it's particularly important in the rapidly growing and dynamic organizations where most of my clients are senior leaders. In the absence of sufficient role clarity--when we're unable to answer the questions above, or when our respective answers are mutually incompatible--we experience role confusion. And a challenge faced by most of my clients is that their organizations inevitably generate role confusion as a consequence of growth and change. What are the typical causes of role confusion, and how can leaders establish (or re-establish) sufficient role clarity when necessary?
+
+Overlapping Relationships
+
+A major challenge to role clarity occurs when two people simultaneously occupy different roles with respect to one another: The grad school classmates who became co-founders. The spouses who are also colleagues. The former co-workers, still friends, who are now in a reporting relationship. These situations are by no means insurmountable problems, but they tend to pose problems nonetheless, which is why they come up so often in my practice. One option, of course, is to avoid such situations in the first place, or deconstruct them when they occur by prioritizing one set of roles over the other. For example, it's not uncommon for friends to grow distant after becoming colleagues, particularly if there's a status difference between their professional roles. But choosing one set of roles over the other may be undesirable or even impossible--so what else can be done?
+
+The first step is recognizing the overlap in these relationships and bringing a heightened degree of conscious awareness to interactions. In some cases this simply means setting some boundaries so that the working relationship doesn't overwhelm the personal one. (Occasionally the personal relationship gets in the way of the work, but that's unusual among my clients.) Friends who became co-founders and spouses who are also colleagues will undoubtedly spend a lot of time talking about the business--and they also need to spend time together while not talking about the business and interacting with each other in their respective personal capacities.
+
+In other cases this entails identifying the roles being occupied in a given moment and being mindful of the norms that are appropriate to the relationship at that time. One way of distinguishing personal relationships from professional ones is that in the former we expect to be less emotionally regulated--that's what makes them personal--while in the latter we expect the opposite. [1] This has substantial implications for the norms governing our behavior in each setting, and if we're unclear about the roles we're occupying we may show up in a way that generates confusion for ourselves and others by acting too formally or informally, too rigid or too loose.
+
+Relative Status
+
+A second source of role confusion results from changing perceptions of status, an issue of tremendous importance in human psychology that we often discount in contemporary organizational life. One of humanity's signal advantages as a species is our ability to co-exist in relatively large groups compared to other primates who were our distant ancestors' competitors. [2] The downside of this capability is the intensive nature of intra-group competition, which we regulate by cultivating strong relationships and attending closely to social status. [3] We feel better when our status increases, and the converse is equally true--encountering someone who we perceive as higher status makes us more likely to feel threatened. [4] It's essential to recognize that attention to (and competition for) relative status is a fundamental aspect of our psychology--it's not something we can "turn off," even as we strive to regulate it, [5] and this evolutionary inheritance has significant implications for role clarity and confusion.
+
+One of the most significant ways we establish role clarity in organizations is through formal hierarchies and reporting relationships, which often allow us to answer the questions above quite readily, even as they remain implicit. But even as these tools create greater role clarity, they set in motion a process that eventually generates role confusion. The key issue is the steady upward pressure experienced within a hierarchy to maintain and increase one's relative status. A common form this takes in my practice is what we might call "title inflation"--the instant a CEO awards the organization's first C-level title, almost every other person who reports to the CEO wants one, too. (At times this isn't possible, which is why SVPs and EVPs exist.)
+
+A closely related dynamic is the tension that exists between the need to keep the senior executive team small with a clearly defined and fixed membership, and the intense desire on the part of everyone just outside that circle to be included as a member. These forms of upward pressure undermine role clarity as the organization evolves, and, left unchecked, result in role confusion as people of different status find themselves occupying similar ranks in the hierarchy. The essential task for the leader is to recognize the importance of status when making and modifying these arrangements. It's easy to assume that they're empty symbols, but in my experience leaders who think titles are free are inevitably surprised when their hidden costs are suddenly revealed.
+
+A further complicating factor is the sense of status derived from our various social identities. As I've written before,
+
+In some cases our status relative to the other party...is a clear and mutually understood function of our respective positions in a hierarchy. But because contemporary culture often seeks to diminish hierarchical distinctions--despite the fact that human beings continue to rely on hierarchy as a fundamental organizing principle--our relative status may be unclear...
+
+A form this can take in organizational life is when one person is perceived as higher status because of their role or title, and the other is perceived as higher status because of some aspect of their social identity: age, gender, ethnicity, nationality, physical characteristics, etc. Although our perceptions of status deriving from these dimensions of difference continue to evolve, the ability to pretend that they no longer have an impact on our perceptions is itself a privilege of high status. [6]
+
+The key here is being able to acknowledge and discuss social identity as a source of status--which, of course, is profoundly difficult and often fraught. That said, ignoring such complexity doesn't make it go away--it merely increases the likelihood of role confusion--and the more practice we get in holding such conversations, the easier they become over time.
+
+Decision Rights
+
+A final source of role confusion relates not to the vertical dimension of hierarchy in organizational life, but to the horizontal dimension of responsibilities and scope. What tasks are yours, and what tasks are mine? Where does your job end and mine begin? And in the absence of mutual understanding, who makes the decisions needed to answer these questions? In the early stages of an organization's development such questions may be superfluous and even counter-productive. They signify a distinction between an individual's personal preferences and what's best for the business, and early-stage employees should be focused on the latter (and properly incentivized to do so). The last thing an early-stage leader wants to hear is, "That's not my job."
+
+But I often see organizations that allow this lack of structure to persist well past the point of diminishing returns, resulting not only in heightened role confusion, but also an increased number of disputes that the leader must resolve, as people clash over their respective responsibilities and seek ad hoc resolutions in the absence of decision-making systems. To be clear, I'm not suggesting that early-stage companies rush to delineate perfectly clear lanes for all employees--that will yield greater role clarity, but it may also create gaps where tasks get dropped. Instead, I often talk with clients about "the judicious imposition of structure," ensuring that the evolution of the organization itself is keeping pace with the complexity of the work being undertaken. As I've noted elsewhere,
+
+Growing organizations require increasing routinization of work. Tasks are transformed into processes, which are then combined into systems. This trend can be counterproductive, and I’m not suggesting that organizations should rush to embrace bureaucracy. But the fluidity and ambiguity that foster creative problem-solving in an early stage startup will feel like chaotic dysfunction at a later point in the company’s development.
+
+At times a sufficient degree of role confusion stemming from unclear decision rights can only be resolved through changes in organizational hierarchy and reporting relationships, with the attendant challenges discussed above. But in many cases a provisional accommodation can be made simply by clarifying the process by which a given decision will be made, which is much easier than rewriting job descriptions or rearranging the org chart in order to restore role clarity. In this context I find the framework developed by management thinker Jurgen Appelo immensely valuable--it's written from the perspective of a leader determining how to involve others in a decision, but it can be used to add role clarity in any working relationship:
+
+- TELL: The leader decides, and there's no discussion.
+
+- SELL: The leader decides and seeks to convince the other person.
+
+- CONSULT: The leader seeks the other's input and then decides.
+
+- AGREE: The leader and the other person decide together.
+
+- ADVISE: The leader suggests, and the other person decides.
+
+- INQUIRE: The other person decides and then informs the leader.
+
+- DELEGATE: The other person decides, and there's no need for discussion. [8]
+
+Footnotes
+
+[1] The Tyranny of Feelings
+
+[2] Neocortex size as a constraint on group size in primates (Robin Dunbar, Journal of Human Evolution, 1992)
+
+[3] Social: Why Our Brains Are Wired to Connect, pages 33-34 (Matthew Lieberman, 2013)
+
+[4] Neuroscience, Leadership and David Rock's SCARF Model
+
+[5] The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132 (Sonja Lyubomirsky, 2014)
+
+[6] Resolving a Protracted Conflict
+
+[7] How to Scale: Do Less, Lead More
+
+[8] Leadership, Decision-Making and Emotion Management
+
+Photo via PXhere.
+
+
+===== END ED BOT ESSAY 4072 =====
+===== BEGIN ED BOT ESSAY 4073 =====
+---
+title: To README or Not to README?
+url: https://edbatista.com/2021/03/to-readme-or-not-to-readme.html
+slug: to-readme-or-not-to-readme
+published: 2021-03-27T09:57:43
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+A few years ago the idea of a "Manager README" surged in popularity before provoking a backlash. The term was adopted from a type of software documentation that attracts attention because the all-caps title stands out in a list of lower-case file names, and I think that's part of the problem--it sounds like a command, when it should really be viewed as an invitation to a conversation.
+
+When clients ask me if they should write one, I note that as with any form of documentation, the value isn't in the document itself, but in the process of creating it and, subsequently, the behavior it motivates. Trevor de Vroome attributes the first Manager README to Luc Levesque, and both of these technology executives make important points about how--and how not--to use such a tool effectively. De Vroome highlights the necessity of reflection and dialogue, dismissing entirely the notion that a manager should simply tell an employee, "Read this, and you'll understand everything you need to know about me":
+
+The Manager README was never a bad idea, it was always just misused. Somewhere along our path, we forgot that introspection is a tool is for you, and not for your team. Sitting down with a Manager README is a great thing to do as a leader to introspect--really reflecting on deep questions like:
+
+- Who am I?
+
+- What do I value?
+
+- What are my commitments to my team and the business?
+
+- How do I want others to engage with me?
+
+- What are my strengths/weaknesses?
+
+- What does my team expect of me?
+
+- What do I expect of my team?
+
+However, this needs to be used as a tool to think about expectations. If you need to write this down, then so be it--but we should aim to never provide this information to our team via a document. Instead, for aligning with your team on values and norms, you need a conversation to drive shared understanding. [1]
+
+Levesque didn't even call his document a README--it was "The Blueprint to Luc and His Quirks"--and here, too, I think there's a problem with the nomenclature. It sounds like a manager telling their employees, "I may be difficult to work for, but you're just going to have to get used to me and my unusual ways." But this isn't Levesque's intention--he's sincerely interested in having a candid conversation with each employee about how to work together most effectively:
+
+A few people have asked if I just email the blueprint to the team. No, I don’t. I sit down with everyone on my team, one-on-one, and we talk through the blueprint together. There’s a subtle difference but it’s hugely important. By talking through the blueprint, face-to-face, it gives me the chance to answer questions, add context and refine the message specifically for that individual. I find it’s the discussion that the blueprint facilitates that’s most valuable. In fact, simply emailing the blueprint to your team might actually cause more harm than good because it’s possible that the intent is misinterpreted. [2, emphasis mine]
+
+But even with these caveats, the concept of a Manager README can be highly problematic, and in a thorough critique senior engineering leader Camille Fournier declared that she "hates them." Two unavoidable issues that Fournier highlights are our overall lack of self-awareness and the power differential between a manager and an employee:
+
+There's this idea that you can build trust with this exercise, and you do that by being brutally honest about your own flaws, your values, and the behaviors they should expect from you. That is where I really take issue with this process. First of all, be real: you probably do not know yourself as well as you think you know yourself... If you’ve gone through any deep coaching, self-awareness practice, or therapy, what you learn over time is how hard it is to be 100% honest about yourself and your motivations. If you’ve gone through very little of that, well, you are almost certainly in deep denial about your behaviors and how well they actually reflect your conscious beliefs...
+
+I believe many people who are doing this are really trying to do the right thing. I see your good intentions. But good intentions don't just magically make bad ideas turn good. Everyone writing one of these is trying to make it easier for their teams to work for them. But the unintended consequences of these docs given the power differential between you and the people on your team are real and serious. [3]
+
+So, to README or not to README? One thing is clear: If you're envisioning an employee sitting deep in thought absorbing your Manager README, like the person at left above, emerging ready to work with you in perfect harmony, you're delusional. Instead, look to the conversation on the right--if you can be mindful of the caveats discussed here, there may be value in creating such a document for the purposes of introspection and an ongoing dialogue with your employees. Here are some further points to bear in mind:
+
+- A Manager README is no substitute for a feedback-rich culture--and in the absence of such a culture it may even be counter-productive, signaling to employees that their input on your inevitable blind spots as well as your performance as a manager is unwelcome.
+
+- The use of a README without carefully attending to the power differential between you and your employees can inhibit psychological safety. The mere existence of such a document doesn't necessarily create a less-safe environment--the impact stems from how it is employed.
+
+- The purpose of any such document is a clearer understanding of work style differences, and that needs to be a two-way street. Expecting employees to conform to your preferences without making an effort to understand and adapt to theirs isn't management, it's coercion.
+
+ 
+
+Footnotes
+
+[1] Leader Blueprint: How To Help New Employees Be Rockstars, A New Approach (Luc Levesque, 2015)
+
+[2] The Manager README Is Dead--Introducing the Manager README (Trevor de Broome, 2019)
+
+[3] I hate manager READMEs (Camille Fournier, Medium, 2018)
+
+ 
+
+For Further Reading
+
+Building a Feedback-Rich Culture
+
+How Leaders Create Safety and Danger
+
+Work Style Differences
+
+Why you should write a “how to work with me” user manual (Marko Saric, The Startup, 2018)
+
+What I learned about myself from writing a Manager README (Chuck Groom, Medium, 2018)
+
+Avoiding Mistakes with your Manager README (Matt Newkirk, 2019)
+
+The Indispensable Document for the Modern Manager (First Round Review)
+
+12 Manager READMEs from Silicon Valley's Top Tech Companies (Brennan McEachran, Hacker Noon, 2018)
+
+Manager ReadMe
+
+ 
+
+Photos: Reading by Marketa. Conversation by Heinrich-Böll-Stiftung.
+
+
+===== END ED BOT ESSAY 4073 =====
+===== BEGIN ED BOT ESSAY 4074 =====
+---
+title: Merciful Exits (On Under-Performing Executives)
+url: https://edbatista.com/2021/03/merciful-exits-on-under-performing-executives.html
+slug: merciful-exits-on-under-performing-executives
+published: 2021-03-24T11:27:59
+updated: 2025-10-06T06:11:35
+source_body: wordpress-html
+---
+
+A theme in my practice is the CEO with an under-performing executive who will ultimately have to be removed from their role. And yet, as I've noted before, this scenario results in one of the most common mistakes made by my clients:
+
+They waited too long when making the difficult decision to fire someone. There were good reasons for the delay--there always are--but in hindsight they generally wish they’d acted sooner, and often all parties would have benefited. [1]
+
+In most cases the CEO is wrestling with complex emotions that contribute to the delay. They empathize with the struggling exec, perhaps because they've been in a similar situation earlier in their own career. There's a feeling of loyalty, which is often mutual--the exec undoubtedly turned down other opportunities to come work for the CEO, and the CEO is grateful for that commitment. And there's always a sense of responsibility--the CEO awarded the exec their current role, and the exec's failure is the CEO's failure as well.
+
+Similarly, even if the CEO isn't consciously aware of the "fundamental attribution error"--the cognitive bias that leads us to ascribe causality to individuals when it's a function of the situation--in most cases they know that an exec's under-performance isn't solely the result of the exec's personal shortcomings. [2] The exec may have inherited a set of intractable problems or a dysfunctional team. There may have been early warning signs that the CEO should have seen or acted upon, or the CEO may have inadvertently contributed to the exec's difficulties.
+
+These factors often add up to an understandable impulse on the part of the CEO to defer necessary changes, in the faint hope that they will be rendered unnecessary. Sometimes this is the result of a CEO who hates disappointing people, avoids conflict, or resists making tough decisions, but in my experience it's more commonly a misguided sense of mercy. They want to be kind.
+
+The paradox is that leaving an under-performing exec in place can actually be a form of cruelty. The late Peter Drucker, one of the 20th century's greatest management thinkers, spells this out in explicit detail. This passage from 1966 shows its age in its gendered language, but his point remains as relevant as ever:
+
+It is the duty of the executive to remove ruthlessly anyone--and especially any manager--who consistently fails to perform with high distinction. To let such a man [sic] stay on corrupts the others. It is grossly unfair to the whole organization. It is grossly unfair to his subordinates who are deprived by their superior's inadequacy of opportunities for achievement and recognition. Above all, it is senseless cruelty to the man himself. He knows that he is inadequate whether he admits it to himself or not. Indeed, I have never seen anyone in a job for which he was inadequate who was not slowly being destroyed by the pressure and the strains, and who did not secretly pray for deliverance. [3]
+
+I take issue with the word "ruthlessly" in that passage, but I don't think Drucker truly meant that leaders should act "without pity or compassion." I think he meant that leaders shouldn't let pity and compassion prevent them from doing what's in the best interests of the organization and their other employees.
+
+To be clear, I'm not suggesting that a CEO should terminate an exec as soon as there are concerns about performance--that's counter-productive in a number of ways. Senior executive searches are time-consuming and expensive. Excessive turnover on a leadership team creates a climate of fear and prevents the members from developing the trust and safety that are necessary for optimal collaboration. [4] And immediately assigning blame for under-performance to an individual exec masks the other factors that are almost certainly part of the problem, as noted above. So there are many reasons for a CEO to invest in an under-performing exec and attempt to help--this is one of a CEO's primary obligations. [5]
+
+That said, by the time a CEO raises concerns about an under-performing exec in a coaching session with me, rather than acting hastily they've almost always given the matter a great deal of thought and are now feeling stuck. A useful question at that point is "Are you trying to decide whether to fire this person--or how?" When the response is "whether," we explore how the CEO can provide more effective coaching and feedback [6]--which usually involves more direct and candid critical feedback regarding performance [7]--as well as other potential interventions and means of gathering data.
+
+But sometimes the response is "how," and it's then that the CEO often realizes they've waited too long. At that point two further questions can help the CEO determine how to proceed: "What do you owe this person?" and "What do you NOT owe them?" My clients' responses have been very consistent over the years:
+
+I owe them...
+
+- Honesty. The exec needs to know that their performance hasn't met expectations. Withholding this information does them no favors, inhibits their growth, may even prevent them from succeeding elsewhere in the future.
+
+- Fairness. The news shouldn't come as a complete surprise, and it should be coupled with an appropriate severance package. It's unrealistic to put senior execs on "performance improvement plans," but optimally an exec who's being removed from their role has had an opportunity to turn things around (even if they would have wanted more time), and feels that their severance is reasonable (even if they would prefer more generous terms.)
+
+- Dignity. Exits proceed far more smoothly when the exec feels that they're being treated with respect, which entails not only such issues as the timing of their departure, the opportunity to say goodbye to colleagues, and an agreed-upon public narrative, but also the tone employed in all communication, particularly with the CEO. (And in my experience former execs don't bring wrongful termination suits simply because they disagree with the decision or the terms, but because they felt disrespected in the process.)
+
+I DON'T owe them...
+
+- A permanent role. Senior leaders must keep pace with the changes in their environment, particularly in rapidly growing organizations. Under-performing execs were often successful at an earlier stage of the business, but their skills and capabilities are now no longer sufficient to meet the current demands of their role.
+
+- Special treatment. An exec's under-performance is often readily apparent to their peers on the leadership team, and the CEO who avoids taking action because of a prior relationship, work history, or other factors runs the risk of undermining the entire team's performance.
+
+- A debate. While the CEO should expect that the exec will want to negotiate the terms of their departure, such as timing or compensation, if the CEO has definitively made the decision to remove the exec from their role it's important to avoid getting into a debate about the decision. When a termination conversation becomes a debate in which the exec seeks to overturn the CEO's decision, there are typically only two outcomes: The decision stands, but now the process has become more acrimonious, or the decision is temporarily delayed, and the inevitable has merely been postponed, wasting everyone's time in the process.
+
+When such situations are handled perfectly, the CEO and the exec both admit that it's the right move (albeit a regrettable one), reach mutual agreement on terms, and part ways amicably, perhaps even willing to work together again. But that's a very high standard, and it's not often achieved. More typically the CEO must make a good-faith effort to provide the exec with honesty, fairness, and dignity, while expecting that the exec will disagree with the decision as well as some or all of the proffered terms. But even in those cases it's eminently possible to avoid personal rancor, minimize the disruption to the organization, and provide the individual in question with a merciful exit.
+
+This is a companion piece to:
+
+- On Firing a Senior Team Member
+
+- The Fine Art of Levelling
+
+Footnotes
+
+[1] Don't Wait
+
+[2] The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process (Lee Ross, Advances in Experimental Social Psychology, 1977)
+
+[3] The Effective Executive, pages 87-89 (Peter Drucker, 1966)
+
+[4] How Leaders Create Safety (and Danger)
+
+[5] Three Buckets (On CEO Job Descriptions)
+
+[6] Coaching and Feedback Tools for Leaders
+
+[7] How to Deliver Critical Feedback
+
+Photo by Kurt Bauschardt.
+
+
+===== END ED BOT ESSAY 4074 =====

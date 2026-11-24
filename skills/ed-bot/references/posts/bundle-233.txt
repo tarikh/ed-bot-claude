@@ -1,0 +1,394 @@
+===== BEGIN ED BOT ESSAY 4043 =====
+---
+title: It's Time to Stop Interviewing
+url: https://edbatista.com/2020/01/its-time-to-stop-interviewing.html
+slug: its-time-to-stop-interviewing
+published: 2020-01-05T15:07:20
+updated: 2025-10-06T11:31:24
+source_body: wordpress-html
+---
+
+While there's ample data on job interviews' poor ability to predict a candidate's success [1], the practice isn't going away any time soon. [2] But for most of my coaching clients--and for some of my MBA students--the era of interviewing in their lives is coming to an end. I don't mean that they'll stop participating in the process, but, rather, that they should begin to approach it from an entirely different perspective.
+
+Up to a certain point in our careers, a job interview is often an exercise in fitting ourselves into a box, the size and shape of which is defined by the employer. We have a general understanding of the size and shape of the box--that's why we're interested in the job--but the precise details remain something of a mystery. And so the interview process consists largely of us gleaning additional clues about the size and shape of the box, while simultaneously proclaiming our ability to fit comfortably within it, no matter what we learn.
+
+Later on, if we've landed the job and accepted the offer, we're not surprised that the employer wasn't entirely accurate about the size and shape of the box, in part because we weren't entirely accurate about our ability to fit into it comfortably. These inaccuracies need not be the result of deceit or dishonesty--it's simply that the information asymmetry inherent in the process means that neither party truly knows if it's going to be a good fit.
+
+But when we contort ourselves to fit an employer's expectations of a candidate (or our imagined perceptions of those expectations), we perpetuate and even heighten that information asymmetry. By representing ourselves in this way, we increase the likelihood of false positives, in which one or both parties believe it will be a good fit, only to ultimately be proven wrong. As inefficient as this may be, there's an underlying logic here that makes sense early in our careers. At that stage of our professional lives, the cost of failing to win an offer for a compelling opportunity may seem quite high--and potentially much higher than the cost of finding ourselves in a job that's not a good fit.
+
+And yet beyond a certain point, this calculus changes dramatically. The cost of taking a job that's not really a good fit becomes much higher than failing to obtain the offer in the first place. We may "win" the offer by successfully contorting ourselves to fit into the box (or at least convincing ourselves and our interviewers that it's a possibility), but in the process we've actually lost: We've lost time and attention we'll never regain. We've lost a chance to learn something useful about ourselves and the organization. And if we stick with this approach long enough, we lose the opportunity to understand who we really are and discover the work we're meant to do.
+
+Most of my coaching clients are CEOs who expect to remain in their current position for the foreseeable future, but I do work with a number of clients through professional transitions. When this occurs, it often becomes apparent to my clients that they're past the point in their careers when there's any value to "winning" an offer by contorting themselves to fit into somebody else's box. At this stage my clients know that everyone involved in the process will gain the most if they simply show up as themselves, reduce the information asymmetry as soon as possible, and absolutely eliminate any chance of a false positive. This also shifts the power dynamic from one in which the company is interviewing the candidate to one in which both parties are interviewing each other.
+
+To be clear, I'm not suggesting that we should show up at interviews with an obnoxious, take-it-or-leave-it attitude, or that we should be rigid and unyielding in what we require of prospective employers. Nor do I believe that there's one "perfect" job out there for us, and we should spurn anything that falls short. But in my experience the training we receive early in our careers to fit ourselves into other people's boxes far outlives its utility, and most of us wait far too long before realizing that it's time to stop interviewing this way.
+
+The dilemma, of course, is that there's no single point in time when it's obvious that we should modify our approach to the process. You might object that this latter approach works for senior leaders who are sufficiently well-established and financially secure to walk away, and you don't feel like you're there yet. Fair enough--but when will you be? It's highly unlikely that any given professional milestone or accomplishment will automatically endow you with this attitude, and no one's going to tell you, "You're ready now--it's time." The only person who can make that call is you.
+
+Footnotes
+
+[1] For more on the limitations of job interviews:
+
+- The Utter Uselessness of Job Interviews (Jason Dana, The New York Times, 2017)
+
+- Belief in the unstructured interview: The persistence of an illusion (Jason Dana, Robyn Dawes and Nathanial Peterson, Judgment and Decision Making, 2013)
+
+- How to Take the Bias Out of Interviews (Iris Bohnet, Harvard Business Review, 2016)
+
+- Stubborn Reliance on Intuition and Subjectivity in Employee Selection (Scott Highhouse, Industrial and Organizational Psychology, 2008)
+
+[2] Daniel Kahneman on Conducting Better Interviews
+
+For Further Reading
+
+Leadership and Authenticity
+
+Cautionary Tales (Authenticity at Work)
+
+Conform to the Culture Just Enough
+
+Photo by Tim Evanson.
+
+
+===== END ED BOT ESSAY 4043 =====
+===== BEGIN ED BOT ESSAY 4044 =====
+---
+title: The Uneasiness of the Open Office
+url: https://edbatista.com/2020/01/the-uneasiness-of-the-open-office.html
+slug: the-uneasiness-of-the-open-office
+published: 2020-01-03T15:05:37
+updated: 2025-10-06T18:23:27
+source_body: wordpress-html
+---
+
+A theme in my coaching practice is leaders' profound ambivalence regarding open offices. On the one hand, open space is easily reconfigurable, a key advantage for rapidly growing organizations; it can be less expensive to lease, allowing a company to obtain more space at a preferable location while containing costs; and it's consistent with our stereotypes of modern working environments, which can be useful when competing for talent in tight labor markets.
+
+On the other hand, ample research over the past decade makes clear that open offices can have a substantial negative impact on employees' sense of well-being, relationships, and productivity. It's worth exploring these findings at some length to determine whether your organization should continue to accept these trade-offs. First, open offices increase distraction and undermine cooperation as a result:
+
+Negative effects of acoustic environment increased significantly, including increased distraction, reduced privacy, increased concentration difficulties and increased use of coping strategies. Self-rated loss of work performance because of noise doubled. Cognitively demanding work and phone conversations were most distracted by noise. The benefits that are often associated with open-plan offices did not appear: cooperation became less pleasant and direct and information flow did not change... The results suggest that the open-plan office is not recommended for professional workers. [1]
+
+Potential improvements in ease of interaction can be offset by increased noise and less privacy:
+
+Enclosed private offices clearly outperformed open-plan layouts in most aspects...particularly in acoustics, privacy and the proxemics issues [i.e. the physical distance we need to maintain between ourselves and others in order to feel comfortable.] Benefits of enhanced ‘ease of interaction’ were smaller than the penalties of increased noise level and decreased privacy resulting from open-plan office configuration. [2]
+
+Open spaces help with creative problem-solving and information exchange by fostering brief, problem-oriented communications. Open spaces also promote transparency, so employees have greater access to coworkers’ expertise. But open office space is a double-edged sword. What’s happening is you have reduced privacy. That triggers certain kinds of behaviors among employees that are not always beneficial for building relationships...
+
+This whole trend toward open space and bringing down barriers really ignores individual preferences, work complexities, close interpersonal relationships, and employee well-being. You want to offer employees the ability to adapt space to their needs and preferences, to mitigate some of the negative effects of the design features of open space plans. [3]
+
+And the diminished privacy in turn lowers satisfaction with ease of interaction and can actually discourage face-to-face communication and increase reliance on virtual channels:
+
+The key finding relates to whether the costs of lost privacy were outweighed for open-plan office workers by the benefits of ease of communication. There is in fact past field research to suggest that open-plan offices can discourage communication between colleagues due to lack of privacy. Consistent with this, there was a trend in the current study for workers in private offices to be more satisfied with ease of interaction than open-plan workers. Moreover, analysis showed that scores on ease of interaction did not offset open-plan workers’ dissatisfaction with noise and privacy issues in terms of their overall satisfaction with their workspace. [4]
+
+We empirically examined--using digital data from advanced wearable devices and from electronic communication servers--the effect of open office architectures on employees’ face-to-face, email and instant messaging (IM) interaction patterns. Contrary to common belief, the volume of face-to-face interaction decreased significantly (approx. 70 percent) in both cases, with an associated increase in electronic interaction. In short, rather than prompting increasingly vibrant face-to-face collaboration, open architecture appeared to trigger a natural human response to socially withdraw from officemates and interact instead over email and IM. [5]
+
+The results were stark: after the shift to an open-plan office space, the participants spent 73 percent less time in face-to-face interactions, while their use of email and instant messenger shot up by 67 percent and 75 percent respectively. [6]
+
+Overall, employees in open offices are unhappier and feel less productive:
+
+The results of the study indicate that employees' perception of health, work environment and performance decreased during a 12 month period following relocation from individual offices to open-plan offices. [7]
+
+Our systematic review found that, compared with individual offices, shared or open-plan office space is not beneficial to employees' health, with consistent findings of deleterious effects on staff health, well-being and productivity. Our findings are also consistent with those of earlier reviews... Decisions about workplace design should include weighing the short-term financial benefits of open-plan or shared workspaces against the significant harms, including increased sickness absence, lower job satisfaction and productivity, and possible threats to recruitment and retention of staff. [8]
+
+So what can be done? I'm well aware that open offices aren't going away anytime soon--the advantages noted at the outset are too economically significant to ignore. But acknowledging and understanding the many disadvantages can allow leaders and employees to compensate for them in a number of ways:
+
+Legitimize Privacy and Unavailability
+
+In a physical environment that minimizes privacy and creates the perception that people are always available, organizations must establish a culture that enables people to counteract these effects of open offices. This can take both tangible and virtual forms, ranging from not interrupting people who have signaled a need for privacy (e.g. via headphones), to honoring blocked time on people's calendars, to tolerating longer response times via email and messaging tools. (The role of messaging in heightening distraction and undermining focus is a topic that merits further discussion, but for now I'll simply note that these tools--and our understanding of how to use them effectively--are still in their infancy.) The key is that these practices must be commonly understood and respected, and while leaders can't simply impose such norms, they can foster an environment that encourages their adoption--or, alternatively, that insures their failure. [9]
+
+Create Temporary Refuges
+
+This entails occupying shared spaces and transforming them into private spaces for a period of time, as well as leaving company property in order to obtain private space elsewhere. These options can be employed on an ad hoc basis, but they can also be pursued more systematically--for example, I've had clients who made a standing reservation in a company conference room every day at 4:30pm, others who worked from home one morning a week, and still others who claimed a private office during fundraising only to relinquish it after the round was closed. Note that these alternatives don't eliminate the need for a culture that legitimizes privacy and the norms to enforce it, and the absence of such a culture will render them less useful.
+
+Capitalize on Office Moves
+
+A trend I've observed in my practice is that when a company has outgrown its current space and needs to relocate, the organization takes advantage of this opportunity to select a new space that includes a larger number of private offices. This, of course, raises difficult questions of fairness and equity: Whose work merits privacy, and who must remain subject to the distractions of the open office? Is office space merely another form of compensation--in which case we expect people in roles that command higher salaries to also enjoy greater access to privacy? Or is office space an environmental condition, like sufficient lighting and a comfortable temperature--in which case we expect colleagues in the same professional setting to share more equitably? While contemporary business culture often rewards symbolic displays of egalitarianism, I think it's important to acknowledge that in organizational life 1) everyone wants the leader's attention, and 2) no one cares how much it costs the leader. There's no simple solution, and the leaders I've worked with who've pursued or merely considered this option have struggled mightily with these challenges.
+
+Footnotes
+
+[1] Effects of acoustic environment on work in private office rooms and open-plan offices--longitudinal study during relocation (A. Kaarlela-Tuomaala et al, Ergonomics, November 2009)
+
+[2] Workspace satisfaction: The privacy-communication trade-off in open-plan offices (Jungsoo Kim and Richard de Dear, Journal of Environmental Psychology, December 2013)
+
+[3] The supposed benefits of open-plan offices do not outweigh the costs (Christian Jarrett, British Psychological Society Research Digest, August 2013, a discussion of the two papers above)
+
+[4] Open Office Space Trend May Be Hurting Relationships (Academy of Management Insights, a discussion of the paper below)
+
+- A Spatial Model of Work Relationships: The Relationship-Building and Relationship-Straining Effects of Workspace Design (Shalini Khazanchi et al, Academy of Management Review, October 2018)
+
+[5] The impact of the ‘open’ workspace on human collaboration (Ethan Bernstein and Stephan Turban, Philosophical Transactions of the Royal Society, May 2018)
+
+[6] Open-plan offices drive down face-to-face interactions and increase use of email (Christian Jarrett, British Psychological Society Research Digest, July 2018, a discussion of the paper above)
+
+[7] Work environment perceptions following relocation to open-plan offices: A twelve-month longitudinal study (J. Bergström et al, Work, January 2015)
+
+[8] Office design and health: a systematic review (A. Richardson et al, New Zealand Medical Journal, December 2017)
+
+[9] For more on norms and organizational culture, see Rules Aren't Norms (On Better Meeting Hygiene)
+
+More on Open Offices
+
+Google got it wrong. The open-office trend is destroying the workplace. (Lindsey Kaufman, The Washington Post, 2014)
+
+New Proof the Open Office Concept is Ineffective (Nate Swanner, Dice, 2018)
+
+The Open Office Is Dead. Now What? (John Edwards, Information Week, 2019)
+
+Myths that refuse to die--open office plans (Alaistair Creelman, The Corridor of Uncertainty, 2019)
+
+The Implications of Working Without an Office (Ethan Bernstein, Hayley Blunden, Andrew Brodsky, Wonbin Sohn and Ben Waber, Harvard Business Review, 2020)
+
+Related Posts of Mine
+
+Open Space, Deep Work and Self-Care
+
+How to Think (More on Open Space and Deep Work)
+
+Photo by Ben Seidelman.
+
+
+===== END ED BOT ESSAY 4044 =====
+===== BEGIN ED BOT ESSAY 4045 =====
+---
+title: Three Stages of Executive Assistance
+url: https://edbatista.com/2019/12/three-stages-of-executive-assistance.html
+slug: three-stages-of-executive-assistance
+published: 2019-12-19T16:45:51
+updated: 2025-10-24T14:27:45
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs, and most of them have an executive assistant (EA), but over the years I've worked with early-stage founders getting their very first EA, as well as long-time leaders seeking a new person who's a better fit for their evolving needs. I've seen many times how the right EA can have a tremendous impact not only on a leader's effectiveness, but also on their state of mind and their sense of well-being. In my experience a CEO goes through three stages in the process of obtaining the right level of executive assistance:
+
+Stage One: Any Assistance At All
+
+It can be a quantum leap for a CEO to get any assistance at all. New ventures are typically lean and scrappy, and founders and other early-stage leaders pride themselves on their willingness to roll up their sleeves and do whatever needs to be done. Hiring support staff too soon in a company's development can be perceived as a poor use of limited capital or a potential sign of self-aggrandizing leadership. But if the company experiences any success at all, eventually the scarce resource isn't capital--it's the leader's attention. At that point a CEO who's spending time on tasks that could be delegated to an EA isn't being "lean and scrappy"--they're stubbornly clinging to an outdated job description and hurting the business as a result.
+
+But even when an early-stage CEO realizes that getting assistance would actually benefit the business by freeing up their energies for tasks that only they can accomplish, they may still not be ready to hire someone in a full-time capacity. A common solution is to designate an office manager or someone in a similar role as a part-time EA. This has its limitations--see below--but at the very least the CEO will benefit from the added administrative capacity.
+
+If you're a CEO without any assistance at all...
+
+- What's the return on your attention during the course of a given day?
+
+- How much time do you spend on tasks that are "urgent but not important"?
+
+- How might a part-time EA help with this?
+
+If you're a CEO who's begun working with a part-time EA...
+
+- Remember that people aren't mind-readers--communicate your intentions when you delegate.
+
+- Help your EA prioritize the tasks you assign them relative to their other responsibilities.
+
+- Working with an EA is a learning process--ask for candid feedback early and often.
+
+If you're a part-time EA who's just begun working with a CEO...
+
+- Your CEO may need to learn how to utilize your capacity effectively, and this process will be accelerated via your feedback.
+
+- Don't assume that tasks delegated by your CEO take precedence over other responsibilities (or vice versa)--collaborate with them to balance your priorities.
+
+- Early-stage leaders can be haphazard about scheduling 1:1s--emphasize the value of a consistent cadence for these meetings.
+
+Stage Two: Dedicated Assistance
+
+In the next stage, the CEO realizes that they need dedicated assistance. The part-time EA/office manager (or equivalent) can provide a substantial boost to the CEO's level of organization and productivity, and yet such a role comes with constraints. The problem is often one of status. In most organizations an office manager is a relatively low-status role whose occupant has authority over various domains, but who is also expected to accommodate the preferences of senior leaders and external stakeholders.
+
+Asking such a person to provide a CEO with executive support creates a dilemma whenever they have to interact with such figures in the course of those duties. As office manager, they lack the status to push back on the (often powerful and assertive) people who want access to the CEO--and the predictable result is that the CEO's calendar may be well-organized, but it's too busy, and it reflects other people's priorities, not necessarily the priorities of the CEO. The solution is a full-time EA, someone whose sole responsibility is to provide the CEO with executive support.
+
+This change has a number of effects: The CEO's dedicated EA is generally a role afforded sufficient status to enable them to interact with senior leaders and other figures in a way that allows them to prioritize the CEO's needs, rather than simply placating the people who want the CEO's attention. A dedicated EA can focus on developing the skills required by the role rather than spreading themselves across a range of unrelated responsibilities. And a dedicated EA can become a CEO's trusted ally, not merely an extra set of hands, although this requires both parties to invest in the working relationship.
+
+If you're a CEO without dedicated assistance...
+
+- Do you have sufficient time for reflection and strategic thinking?
+
+- If not, how is work you should stop doing getting in your way?
+
+- How might a dedicated EA help with this?
+
+If you're a CEO who's begun working with a dedicated EA...
+
+- This may become your single most important working relationship--make the effort to onboard them into the role and to get to know each other as colleagues.
+
+- Reflect on and actively communicate your work style preferences--you may want to document this in a "How to Work with Me" manual--and seek to understand your EA's style as well. (But note the potential pitfalls of the "Manager ReadMe" doc.)
+
+- Your EA's effectiveness is contingent on their status--pay attention to the subtle ways you promote (or diminish) their status with other executives and external parties.
+
+If you're a full-time EA who's begun working with a CEO...
+
+- One way to think about your role is helping the CEO manage one of the company's most important resources: their attention.
+
+- If your CEO is like my clients, they're a "happy workaholic," and they don't expect to live a balanced life--but they may need help in setting boundaries.
+
+- Everyone wants the CEO's attention, and they want you to say "yes" to their requests--so it's essential to learn how to say "no."
+
+Stage Three: Professional Assistance
+
+In the final stage of the process, the CEO realizes that they need professional assistance. When a CEO hires their first dedicated EA, several factors may result in the adoption of an expedient solution. Although the CEO has come to believe that a dedicated EA is a good use of resources, they may feel obligated to be economical--they find it hard to justify a high level of compensation for a role with "assistant" in the title. Or the CEO is reluctant to embark upon yet another formal search process--they're probably already running one or more searches for other leadership roles--so they often look within the organization or their personal network to find someone who's trustworthy, capable, and available, even if those candidates don't view an EA role as a long-term position.
+
+But these choices limit the pool of potential candidates, with predictable results: If a skilled EA feels under-compensated, or if they accepted the role while maintaining other professional aspirations, they'll almost certainly find preferable opportunities relatively soon and move on. In order to break this cycle, a CEO needs to hire a professional EA who views the role as a career path, and this often entails running a formal search for the position, along with a significant increase in compensation.
+
+If you're a CEO without professional assistance...
+
+- To what extent does your current EA view the role as a viable career path? How does this affect their commitment to your working relationship?
+
+- How long do you expect your EA to remain in the role? How prepared are you for them to leave?
+
+- How might a professional EA help with this?
+
+If you're a CEO who's begun working with a professional EA...
+
+- How much more might you delegate to them?
+
+- For example, do they have access to your email? Could they respond to certain messages as your proxy?
+
+If you're a professional EA...please contact me, and tell me how to improve this post--I'm sure you have some ideas that would make it more useful.
+
+Three Alternatives
+
+Remote: Many of my clients have worked with a remote EA, in some cases to maintain a relationship with an assistant who needed geographic flexibility, and in others to have access to talent in lower-cost markets. This arrangement seems to work best in the first and second stages above--a junior employee serving as a part-time EA or an early-stage dedicated EA--but there have sometimes been limits on the extent to which a remote EA can serve as a full-fledged professional assistant.
+
+Virtual: A variation on the remote EA is the virtual assistant, in which a platform provides access to an aggregated talent pool and assigns one or more individuals to a user. My clients have had mixed experiences with these services--in some cases they provided a low-cost way to delegate basic administrative tasks, but in others the quality of results didn't justify the effort required to get up the learning curve.
+
+Chief of Staff: An increasing number of my clients are opting to hire a Chief of Staff, typically in addition to an EA, but occasionally in lieu of one. Again, the issue of status is relevant--the Chief of Staff title typically confers a degree of status that allows the role to serve as a CEO's proxy not only via email, but also at meetings and even speaking events. But while this may offer a leader greater flexibility for a period of time, my observation is that Chief of Staff candidates almost always view the position as a short-term stepping stone to an operating role, so it's no substitute for a long-term relationship with a professional EA.
+
+In Closing
+
+It's worth noting that I'm not the only one who thinks CEOs should pay more attention to the EA position:
+
+One hire that most startups make too late is the exec assistant. Founders should not do their own scheduling, travel or presentations.
+
+— Jeremy Liew, Partner at Lightspeed (@jeremysliew) May 31, 2017
+
+EAs are on my mind at the moment because I send a thank-you to each of my clients' assistants during the holiday season to express my appreciation for all they do that makes it possible for me to work with their boss. I couldn't manage my coaching practice without them, and from the bottom of my heart I am truly grateful.
+
+For Further Reading
+
+Growth, Profitability and Return on Attention
+
+Importance vs. Urgency
+
+Gary Klein on the Elements of Intention
+
+Building a Feedback-Rich Culture
+
+Building a Feedback-Rich Culture from the Middle
+
+How to Think (More on Open Space and Deep Work)
+
+The Work You Must Stop Doing
+
+A Checklist for Someone About to Take on a Tougher Job
+
+Work Style Differences
+
+To README or Not to README?
+
+The Most Productive People Know Who to Ignore
+
+Happy Workaholics Need Boundaries, Not Balance
+
+Learning How to Say "No" Is Part of Success
+
+Hail to the Chief (of Staff)
+
+The Subtle Art of the Executive Assistant (Molly Young, New York, 2021)
+
+- "A...paradox embedded in the job is that the skills required of an executive assistant--a strategic mind, iron discipline, a talent for empathy, and a knack for crisis mitigation--are identical to the skills of a capable CEO. Such talents can be directed at a birthday cake or a ten-year growth plan. It often occurred to me that if the CEO were to die in a tragic accident, Emily would be best qualified to replace him. I wonder if the thought ever crossed his mind."
+
+Resources on the Executive Assistant Role (Maïa Cybelle Carpenter, 2018)
+
+Elevate the Executive: Evolve the Executive Assistant (Maïa Cybelle Carpenter, 2018)
+
+One of the Most Important Hires You'll Make: Hiring Your Executive Assistant (Ryan Caldbeck, 2021)
+
+Photo by Tomas Sobek.
+
+
+===== END ED BOT ESSAY 4045 =====
+===== BEGIN ED BOT ESSAY 4046 =====
+---
+title: When We Are Ready, The Practice Will Be Waiting
+url: https://edbatista.com/2019/11/when-we-are-ready-the-practice-will-be-waiting.html
+slug: when-we-are-ready-the-practice-will-be-waiting
+published: 2019-11-03T14:03:34
+updated: 2026-08-20T15:23:12
+source_body: wordpress-html
+---
+
+Acceptance (Openness, Equanimity, Patience)
+
+Compassion (Empathy, Love of Self, Forgiveness)
+
+Wisdom (Discernment, Perspective, Insight)
+
+"Nothing ever goes away until it has taught us what we need to know." ~Pema Chödrön [1]
+
+At the same time, no lesson is useful until we're ready to learn.
+
+Life consists of a series of practices--not merely routines, but disciplines, ways of being. This is if we choose to see life this way--and it is a choice.
+
+There are many such practices, but these three have been particularly important to me. I don't know what it would mean to "master" any of them--I certainly haven't done so--but every day we have an opportunity to make some progress on them.
+
+The Practice of Acceptance
+
+"That’s the way life is... Everything doesn’t always go your way. And if you think it should, you’ve got a problem.” ~Gregg Popovich [2]
+
+The inverse of acceptance is rejection. We reject "what is" in favor of "what we want." The fundamental problem is that "what we want" is to transcend mortality, and yet this existence is finite. The end of this existence is approaching for each of us, whether or not we're prepared to accept it. In the meantime, accepting things we would prefer to reject is good training.
+
+Acceptance isn't passivity. It's openness to experience, equanimity in response, and patience as the process unfolds. Nor is taking action to influence outcomes equivalent to rejection. But knowing the difference takes compassion and wisdom.
+
+The Practice of Compassion
+
+Compassion starts with empathy--the ability to vicariously experience another person's inner state. Theresa Wiseman notes that empathy encompasses four attributes:
+
+1. The ability to see the world as another person sees it.
+
+2. The ability to understand another person’s feelings.
+
+3. The ability to suspend judgment.
+
+4. The ability to communicate this understanding, which is essential if empathy is to be felt. [3]
+
+Note that empathy is not agreement. We need not agree with another person's rationale for their thoughts and feelings, and we need not approve of how their thoughts and feelings are being expressed. But we do have to cultivate the capacity for an empathetic response.
+
+Empathy for others is what makes it possible to love ourselves. Love of self doesn't mean narcissistic self-regard or a lack of humility. It means a sense of self-compassion rooted in a process of, first, accepting ourselves, and, then, empathizing with others. The sequence can have a big impact here. It can be hard to truly, sustainably empathize with others until we love ourselves.
+
+All this allows for forgiveness. It makes forgiveness possible. Without acceptance, empathy, and love of self, we cling to our grievances, grudges, and disappointments. We condemn ourselves to frustration.
+
+The Practice of Wisdom
+
+This allows us to work on wisdom--to discover it within ourselves and to be open to it from other sources.
+
+Wisdom isn't intelligence. I know many foolish smart people--I often am one myself. Intelligence can help, but it's neither sufficient nor a prerequisite for wisdom.
+
+Wisdom starts with discernment--the ability to sense differences, to perceive nuance and subtlety, to see the full range of possibilities in a given situation and in life as a whole.
+
+Discernment allows perspective--we can identify and assess our assumptions, our interpretations, and our responses, and we can sift through them and weight them appropriately. Some we accept, some we amplify, and many we discard.
+
+The monkey mind is an endless source of ill-founded assumptions, misguided interpretations, and unjustified responses, and we have a new bad idea every second. Wisdom doesn't stop us from generating them, but it can slow us down and pause us in the process of acting upon them.
+
+This allows for insight--by discarding bad ideas, we make room for a handful of good ones. We can't produce them on command, but we can create the conditions in which we see them more clearly because they're allowed to shine through the fog of our habitual foolishness.
+
+We can only learn these lessons when we're ready, and that may take a long time. But the passage of time isn't sufficient to establish readiness, no matter how many years go by.
+
+We need to be paying attention.
+
+We need to be attuned to our rejection, our bitterness, our ignorance.
+
+We have to embrace these qualities within us--they make us human.
+
+And then, when we're ready, the practice will be waiting.
+
+Notes from a hike on the Estero Trail, Point Reyes National Seashore.
+
+Thanks to Dan Oestreich, Erik Bengtsson, Mary Ann Huckabay, and Sage Cohen, who each helped inspire these thoughts in their own way.
+
+Footnotes
+
+[1] When Things Fall Apart: Heart Advice for Difficult Times, Chapter 11: "Nonaggression and the Four Maras," page 85 (Pema Chödrön, 2000)
+
+[2] "Warriors might want to emulate the Spurs, just not how they have in the past" (Connor LeTourneau, The San Francisco Chronicle, November 2, 2019). It's worth nothing that although Gregg Popovich won five NBA championships with the San Antonio Spurs and is considered one of the greatest coaches of all time, he began his coaching career with a 69-108 record over seven years at Pomona-Pitzer, a tiny liberal arts college.
+
+[3] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+
+===== END ED BOT ESSAY 4046 =====

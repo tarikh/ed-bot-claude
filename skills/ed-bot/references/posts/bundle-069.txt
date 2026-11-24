@@ -1,0 +1,237 @@
+===== BEGIN ED BOT ESSAY 3363 =====
+---
+title: On Failing and Trying Again
+url: https://edbatista.com/2006/03/on_failing_and_.html
+slug: on_failing_and_
+published: 2006-03-02T08:37:11
+updated: 2006-03-02T08:37:11
+source_body: wordpress-html
+---
+
+Jeffrey Zaslow's "Moving On" column in today's Wall Street Journal discusses the challenges faced by Dan Doctoroff, a former investment banker who led New York City's ultimately futile bid for the 2012 Olympics.
+
+Doctoroff spent 11 years on the effort, as well as $4 million of his own money, and he's grappling with the question of whether to support another bid for the 2016 games after such an exhausting and high-profile failure. Zaslow wonders what insights can be gleaned from Doctoroff's example:
+
+Researchers have advice for high-achievers who fail: Try self-deprecating humor. Do extensive postmortems. Allow yourself to dream big again. If you fear being a two-time loser, create a team strategy, so others share the risk. And ask yourself: What was your failure? Was it not reaching your goal, or not giving your all?
+
+Zaslow also talks with Rosabeth Moss Kanter, a professor at Harvard Business School who's done some inspiring and thought-provoking work on leadership and organizational change:
+
+Before trying again after failing, Prof. Kanter says, people must ask: Is there still evidence that the dream makes sense? Are you gaining or losing support? Is there more or less competition now? And are you so enthralled with your own abilities that you're unrealistically optimistic?
+
+This analytical approach to post-failure analysis seems particularly relevant in light of a recent comment by David Bradford, senior lecturer in organizational behavior at Stanford's Graduate School of Business:
+
+Bradford says he sees differences between teaching MBAs and alumni who have learned more life lessons: "If you live long enough, you realize that you can fall off the horse and get back on again," he said. "I think many of our MBAs are very much afraid of failure. But those of us who have been around awhile realize that failure is inevitable, and what’s important is how you handle it, not how you avoid it." [my emphasis]
+
+Zaslow and Kanter's advice can help us understand why we failed and whether any given challenge is worth tackling again. But Bradford's telling us something even more important: We will fail, at some point, and it's not the end of the world. Risky ventures are often the most rewarding--psychologically as well as materially--and never failing may simply mean that you never attempted anything worthwhile.
+
+
+===== END ED BOT ESSAY 3363 =====
+===== BEGIN ED BOT ESSAY 3364 =====
+---
+title: Matt Doherty: Live and Learn?
+url: https://edbatista.com/2006/02/matt_doherty_li.html
+slug: matt_doherty_li
+published: 2006-02-28T16:42:18
+updated: 2006-02-28T16:42:18
+source_body: wordpress-html
+---
+
+A minor drama has been playing out in college basketball over the past few years that intersects directly with my ongoing interest in leadership and management.  You don't have to care about basketball for this to be a worthwhile read, but I'm going to have to set the stage, so bear with me for a few paragraphs.
+
+Coach Matt Doherty, now at Florida Atlantic University, was fired in 2003 after just three seasons at the University of North Carolina, where he'd been an outstanding player 20 years earlier under legendary coach Dean Smith.
+
+Before his high-profile failure at UNC, Doherty's coaching career had been on a steadily upward path.  And in his first season at Carolina, he'd even been named national Coach of the Year.  But in Doherty's final two seasons the team performed far below expectations, suffering its first losing season in four decades, and Doherty alienated everyone from the university athletic department to his own players.  Perhaps most significantly, there were steady rumors that Doherty's aggressive coaching style masked an out-of-control anger management problem, and he had few defenders when he left Chapel Hill.
+
+UNC then tapped Roy Williams of the University of Kansas.  Williams quickly turned the UNC program around and won a national championship in his second season--with players Doherty had recruited--contributing to the impression that Doherty's poor management had caused the team's earlier troubles.
+
+Doherty had two years remaining on his UNC contract at an estimated annual salary of $650,000, so I'll understand if you're reluctant to shed a tear for him.  But in sports circles this was regarded as one of the most spectactular coaching failures in recent memory, and for a man who'd experienced continued success in a highly visible profession, it must have been excruciating.  (I'm indebted to SportsProf and Thad Williamson for their perspective on these events.)
+
+So what did Doherty do while he was collecting on that fat contract for two years, before he returned to coaching with Florida Atlantic in 2005?  According to an SI.com article by Stewart Mandel, he traveled with his family, did some pro scouting and TV work...and he enrolled in some executive management seminars at Wharton and Darden.
+
+Specifically, in 2003 at Wharton he took a class with Frances Johnston, co-chair and managing director of the Teleos Leadership Institute, a consulting firm based in Philadelphia that focuses on change management and leadership development.  Mandel suggests that this was a transformative experience for Doherty:
+
+Afterward, Doherty approached Johnston, whose clients more commonly include CEOs and other business-world leaders, to tell her how much he identified with her lecture [on the importance of emotional intelligence.] Soon he was devouring books on leadership and making monthly visits to Philadelphia to meet with her.
+
+"Matt had the self-awareness to recognize that management of his own emotions was one of his issues at UNC," says Johnston, who holds a master's degree in sports psychology [as well as a doctorate in adult and organizational development.]
+
+Doherty appears to have retained Johnston as an executive coach, although Mandel doesn't use the term in his article:
+
+On the day of the Campbell game, Doherty's first order of business was a 9 a.m. phone call with Johnston, one of several regularly scheduled chats they've had throughout the season.
+
+If the rumors about Doherty's profane tirades at UNC are to be believed, his inability to control his temper was a major cause of his undoing there.  Admittedly, he was in a terribly difficult position, trying to live up to Dean Smith's record of success and an entire state's expectations.  But instead of relieving the pressure by finding allies and motivating them to work toward the team's success, he only increased it by alienating everyone who was in a position to support him (particularly his players, several of whom had considered transferring to another school.)
+
+I wouldn't suggest that college coaches--or anyone in a high-profile management position--seek primarily to curry favor and make friends.  Being a hardass, when appropriate, is a useful skill, and people respond to a wide range of motivational techniques, including discipline.
+
+But there's more to leadership than command authority, and Matt Doherty's experience during and since his time at UNC suggests three big take-aways for the rest of us:
+
+1) Management Style Matters.  A reputation for having high expectations and exacting standards can be an essential management tool.  But when even the Army is revamping boot camp to provide recruits with "a more positive leadership approach," we need to use care in how we establish that reputation, and how we communicate our expectations and standards to others.  At UNC, Doherty apparently just cursed more frequently and louder.  It seems likely that he's added some new skills to his repertoire, judging from the Teleos Leadership Institute's approach:
+
+Resonance - and resonant leadership - is a hallmark of the best-managed companies...  [R]esonant leaders mobilize people and large systems through encouraging passion, hope and optimism, building powerful partnerships and relationships, and capitalizing on the emotional reality of their teams and organizational culture. Resonance exists when an organization, team or leader can fully engage and optimize the talents of its people in the pursuit of goals and objectives that are shared within the group.
+
+And Doherty's comments to Mandel reinforce this point:
+
+"Leadership is now a passion of mine," says Doherty. "I feel like I learn something every time I talk to [Johnston.] We talk about the development of groups and how it relates to team dynamics. At first they're infants, completely dependent on you, then they evolve into adolescents and try to test you. Once you realize this is the normal progression of a team, you get less frustrated."
+
+Doherty's success prior to UNC wasn't an accident.  But as Joe Murphy, a mentor of mine, likes to say, "Successful people sometimes succeed in spite of themselves," and Doherty would appear to be a case in point.  His management skills were being undermined by his management style, and at UNC that imbalance finally caught up with him.
+
+2) Change Agents Need Sensitive Antenna. Doherty clearly sees himself as something of a change agent.  Just prior to his arrival at UNC, he spent a year at Notre Dame, where he took a program that hadn't had a 20-win season in a decade and went 22-15.  Doherty and others credit his success at Notre Dame to his high-energy, comprehensive approach and his commitment to revitalizing an organization that had grown complacent.
+
+But change is a complex process, and what works in one setting can be disastrous in another.  It appears that this is what happened to Doherty at UNC.  Thad Williams has a concise description:
+
+[I]t was hoped that Doherty could bring some fresh energy to the [UNC] program--and that he did--but it was also assumed and hoped that he could play the role of "successor" to Dean Smith: that is, continuing what was good about the program while also bringing in some fresh ideas of his own.
+
+What happened instead can be described usefully by the metaphor of "regime change." That is to say, Matt Doherty soon made it very clear that this was now his program, he was calling the shots, and that it was not a simple continuance of the Smith-Guthridge era...
+
+In short, in attempting to place his stamp on the program, Doherty moved aggressively to clean a house that most people thought wasn't dirty--or at most needed a little dusting--to begin with.
+
+Doherty's failure to sense that what had worked so well at Notre Dame  was not going to have the same effect at UNC isn't necessarily surprising.  We all tend to rely on those tools and techniques that have served us well in the past.  But when we're  consciously acting as change agents, it's essential to pay particularly close attention to how our agenda and our actions are being perceived.
+
+It's not clear to me whether Doherty failed to pick up on the resistance his actions were generating at UNC, or whether he sensed those cues and thought he could safely ignore them.  Ultimately, it's a difference without a distinction--his inability to integrate feedback from the environment and tailor his approach as a change agent doomed him as a new leader.
+
+3) We All Have the Capacity for Change.  Despite Doherty's earlier successes, the failure at UNC clung to him and made it difficult for him to find another top-tier coaching position.  (Consider that Carolina's home games attract roughly 20,000 fans, while before Doherty's arrival Florida Atlantic averaged just over 500.  Five hundred.)  He wasn't washed up, but his reputation as a volcano waiting to erupt insured that big-time athletic directors were going to wait until he'd proven himself in a low-stakes job like FAU before they took a gamble on him.
+
+Mandel suggests that Doherty's work with Fran Johnston has had a significant affect on him:
+
+After spending a day watching Doherty interact with his team, it's evident he has a more amicable relationship with his current players than he reportedly did at North Carolina...
+
+[W]hen his...Blackberry alarm goes off in the middle of the session, giggles cascade through the room as several players raise an arm behind their head and wiggle five fingers -- a team sign for the $5 fine Doherty now owes.
+
+"At UNC, I got mad if a cell phone went off on the bus or in a meeting, and I ended up making them run sprints," says Doherty. "Coach Walters [now a member of his staff] started the five fingers, and it's become kind of a fun thing. It's fun to take the fine yourself, to show you're not above the rules."
+
+At the time of his firing, Doherty was 41 and had been coaching for 15 years.  He was old enough and experienced enough to give potential employers reason to believe he was unlikely to change.  Doherty surely realizes that good press about his changed ways will increase his chances of returning to a major program, and anyone with an ounce of sense in his position would rein in his temper and say the right things for a few years.
+
+But if Doherty were simply telling reporters like Mandel what they wanted to hear, there'd be no need for an ongoing relationship with an executive coach like Johnston--in fact, there'd be little use in sitting through all those management seminars in the first place, unless this is just an elaborate spin campaign.  Anything's possible, but it seems more likely to me that Doherty was so shaken and humiliated by the UNC experience that he took a serious look at his management philosophy and style and realized that he needed to change.
+
+I'm not really all that interested in college basketball, but I think Doherty's story is a compelling one, and I'll be interested to see if he's truly learned from his failure at UNC and uses the opportunity at Florida Atlantic to preach--and practice--a new management gospel.
+
+UPDATE: I made a number of edits for clarity, added references to Thad Williams' article (which I found after writing my initial draft), and added the second take-away on change agents.
+
+tags: matt doherty basketball unc north carolina fau florida atlantic teleos teleos leadership institute fran johnston stewart mandel management leadership
+
+
+===== END ED BOT ESSAY 3364 =====
+===== BEGIN ED BOT ESSAY 3365 =====
+---
+title: Gary Giddins on Jazz and New Orleans
+url: https://edbatista.com/2006/02/gary_giddins_on.html
+slug: gary_giddins_on
+published: 2006-02-28T10:27:13
+updated: 2006-02-28T10:27:13
+source_body: wordpress-html
+---
+
+I recently stumbled across Jerry Jazz Musician, a site with an odd name and a clunky design but outstanding writing on "jazz and American civilization." They just published a brilliant interview with jazz critic and scholar Gary Giddins on "the beginnings
+
+of jazz in the city of New Orleans, its prominent figures, and what needs
+
+to be done to properly market jazz in a city that has contributed so much
+
+toward shaping the soul of America."
+
+It's a long piece, the bulk of which is devoted to the history of jazz in New Orleans. Giddins is knowledgeable and opinionated, and the interview has inspired me to check out some of his books. (I recognized him as a talking head from Ken Burns' Jazz, but haven't read anything by him.) But it's not just a series of reflections about the past; Giddins concludes with some pointed comments about jazz's role in contemporary culture, and our collective failure to support it as a living, breathing art form. Talking shortly after Hurricane Katrina in October 2005, he's somber about the prospects of one of America's greatest contributions to the world, and I think it's worth quoting at length:
+
+Jerry Jazz Musician: In 1987, Congress passed Resolution 57, which designated jazz as a "rare and valuable national American treasure," "to which," the U.S. Senate added, "we should devote our attention, support and resources to make certain it is preserved, understood and promulgated." In light of all the other governmental needs at this time, do you have faith that any resources will be devoted to ensuring the success of this resolution?
+
+Gary Giddins: That jazz will be preserved in New Orleans?
+
+No faith whatsoever. Maybe someone will be able to divert some funds toward
+
+opening a small club or producing a concert, but beyond that, nothing will
+
+happen. What they have to do is look to Nashville or Cleveland's rock and
+
+roll museum or EMP in Seattle as templates. They have to build a real
+
+honest-to-god auditorium with broadcasting facilities so music performed
+
+there is heard on national radio, and a museum with a library and archive
+
+and hall of fame. That way, jazz and New Orleans will become a magnet for
+
+people all over the South and, by extension, the country, to come and spend
+
+their vacations in New Orleans, "The City of Jazz." Jeez, we have two rock
+
+and roll museums, but we don't have one for jazz? The only jazz museum I
+
+am aware of now is in Kansas City, and while it is nice, it is a tiny place
+
+with no national impact. Because it is in the black area of town, the Chamber
+
+of Commerce didn't bother putting it on its tourist route so even Midwesterners
+
+don't know it exists. Not to have an equivalent of the Rock and Roll Hall
+
+of Fame or the Experience Music Project [is] just fucking painful.
+
+...I don't understand why the Experience Music Project is so rockcentric. I mean, why do we keep drawing this artificial line in the sand? When I was there they were doing a terrific blues and r&b thing and half the people presented in the display were jazz figures, though I suspect that visitors to the museum didn't necessarily know that. These were musicians like Joe Turner and boogie woogie players who straddled both jazz and r&b. Rock and roll and jazz have a lot in common. I mean, every time Eric Clapton improvises a blues chorus, what the hell is he doing? You can hear it as a different approach -- not jazz per se -- but that's a question of style. He is still improvising twelve-bar choruses on the same harmonies and structure as Louis and Bird and Miles and Sonny and on and on. It's not really an idiomatic issue.
+
+Jerry Jazz Musician: And it is not a racial issue because most of the big figures of r&b and rock and roll were either black or influenced by black musicians.
+
+Gary Giddins: It is not at all racial, just ignorant. That is all it is. Jazz scares the shit out of people. In the 1960s, it was possible to listen to records and read books and feel that you understood the history of jazz because there were only forty years of it on records. Now there is twice as much and it is ten times more intricate. People have a hard enough time trying to figure out Miles and Monk and Ornette -- [Jelly Roll] Morton is like the other side of the moon --and when they do examine an earlier period they pick up a couple of figures to learn about, a little Armstrong, a little Ellington. But they will never hear Red Allen or Chu Berry or even Roy Eldridge, because we no longer have a jazz culture. We are more likely to learn about jazz in school, which turns a pleasurable, exciting pursuit into homework. It's one thing to put on "Struttin' With Some Barbecue" and wonder, "Hey, who is the clarinetist?" You look at the CD and see it's a guy named Johnny Dodds. It's another thing to listen to it in fear of a quiz for which you have to memorize the names of the players. I'm not saying anything can be done about this; what doesn't end up in the classroom is often thrown out altogether. But when jazz becomes an obligation instead of pure pleasure, it's lost its magic. The most pleasurable of cities, New Orleans, ought to be resurrected as a gateway to jazz.
+
+Listening to jazz is one of my greatest pleasures in life, and I think it's an indescribable loss for our culture that it's fading from public prominence. My wife recently learned that one of her co-workers is related to Dizzy Gillespie and had known a number of jazz musicians growing up, and she was thrilled to talk about it with him. Sadly, he was surprised she was even interested, because in his experience few people our age--I'm 38, she's 37--even care about jazz. Sigh.
+
+One final note: The poster above of Louis Armstrong and His All-Stars is from the Louisiana State Museum Jazz Collection, which has a nice page on the Museum's website (although the links to their audio clips and old radio broadcasts are broken) and is located physically at the Old Mint, 400 Esplanade Avenue in New Orleans. I've visited the jazz collection as well as the Museum's Mardi Gras exhibit at the Presbytere in Jackson Square, and I highly recommend them both, but unfortunately they're still closed because of Hurricane Katrina. As the unnamed Jerry Jazz Musician interviewer notes at the beginning of the Giddins piece, "We have heard so much about the losses associated with Hurricane Katrina in terms of dollars and human lives--justifiably so--but what seems to have been forgotten is the cultural devastation it caused." Sadly true.
+
+tags: jazz new orleans gary giddins jerry jazz musician katrina louisiana state museum
+
+
+===== END ED BOT ESSAY 3365 =====
+===== BEGIN ED BOT ESSAY 3366 =====
+---
+title: (Gmail + SnapperMail) x Treo = Happiness
+url: https://edbatista.com/2006/02/gmail_snapperma.html
+slug: gmail_snapperma
+published: 2006-02-25T13:32:37
+updated: 2006-02-25T13:32:37
+source_body: wordpress-html
+---
+
+Gmail, SnapperMail and the Treo 600 are all perfectly fine things, but I'd never been able to get them to work in harmony until this morning.  Using SnapperMail to access your Gmail account on a Treo is much better than using Blazer (or, presumably, any other mobile browser on the Treo.)  The message editing and mailbox features in SnapperMail are just so much better than anything Gmail can offer via a mobile interface.  SnapperMail also makes it possible to review and compose messages offline if you're in a dead zone (I'm talking to you, Verizon!), which you obviously can't do if you're reliant on a browser.  Finally, SnapperMail can retrieve your Gmail messages and push them to your Treo whenever you want--Gmail via a browser is pull-only, of course.
+
+Here are the Gmail configuration instructions from SnapperMail's list of ISPs and mail services:
+
+- These instructions require that you have the Premier or Enterprise edition of SnapperMail. GMail are rolling out their POP3 access in stages, so be aware that not all accounts will support this setup initially.
+
+- Log into your Gmail account, go into Settings, select the "Forwarding and Pop" link, and under POP3 Download, enable the type of POP3 access you want.
+
+- In your SnapperMail server account settings (Menu | Options | Edit Accounts | (choose account) | Server), enter the following:
+
+POP3 Server: pop.gmail.com
+Username: your full GMail email address
+Password: your GMail password
+
+SMTP Server: smtp.gmail.com
+Username: your full GMail email address
+Password: your GMail password
+
+IMPORTANT: Tap the "More" button at the bottom of the screen.
+For POP3 Settings:
+- Set the "Use SSL" dropdown to "Always Secure (wrapped port)"
+- Use Port 995 (this port number should automatically be set when you select the SSL option listed on the line above)
+- Activate the "Always trust server" checkbox.
+- Leave the other checkboxes unchecked.
+
+For SMTP settings, you can use either "Set" of settings below. There is no mention to the word "Set" anywhere in the SnapperMail interface. These are merely two different ways that you can configure SnapperMail to send Email using GMail's server. Simply choose the set below that you want to use, but do not mix the settings together between both sets.
+
+SMTP SETTINGS "More..." Set #1:
+- Set the "Use SSL" dropdown to "Always Secure (STARTTLS)"
+- Use port 587 (you will have to manually set this port number)
+- Activate the "Always trust server" checkbox.
+- Leave the other checkboxes unchecked.
+
+SMTP SETTINGS "More..." Set #2:
+- Set the "Use SSL" dropdown to "Always Secure (wrapped port)"
+- Use port 465 (this port number should automatically be set when you select the SSL option listed on the line above)
+- Activate the "Always trust server" checkbox.
+- Leave the other checkboxes unchecked.
+
+NOTE: Some people have reported that SnapperMail suddenly stops downloading messages from GMail, or it downloads erratically. This is usually a problem with GMail's POP3 server, not with SnapperMail. You should login to your GMail account using a web browser. Go to the Settings (or Options) page, shut off the POP3 option and accept the change. Then go back into the Settings page again, turn the POP3 option back on and accept the change. People have reported back to us that this usually works to get GMail's POP3 server working properly for them again.
+
+Piece o' cake.  Thanks to the helpful TreoCentral discussion board.
+
+tags: snappermail gmail
+
+
+===== END ED BOT ESSAY 3366 =====

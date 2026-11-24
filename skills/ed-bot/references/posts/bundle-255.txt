@@ -1,0 +1,389 @@
+===== BEGIN ED BOT ESSAY 4131 =====
+---
+title: My Appearance on the Re:Considering Podcast
+url: https://edbatista.com/2022/08/my-appearance-on-the-reconsidering-podcast.html
+slug: my-appearance-on-the-reconsidering-podcast
+published: 2022-08-01T15:38:32
+updated: 2025-09-24T11:58:03
+source_body: wordpress-html
+---
+
+I'm occasionally asked to appear on a podcast, and with the exception of my old friend and Stanford GSB classmate Agnes Le's "Leading Edge Lab" last year--see below--I've always declined. But Meredith Black, Bob Baxley and Aarron Walter recently invited me to join them on Re:Considering, and I'm glad I said yes. Not only was I was honored to follow in the footsteps of three authors who've had a big influence on my own work--Brad Stulberg, Kieran Setiya, and Oliver Burkeman--but I also had a lot of fun 🙂
+
+- Re:Considering, July 19, 2022
+
+- Leading Edge Lab, Part 1, September 10, 2021 (with Agnes Le and Celine Teoh)
+
+- Leading Edge Lab, Part 2, October 14, 2021 (with Agnes Le and Celine Teoh)
+
+
+===== END ED BOT ESSAY 4131 =====
+===== BEGIN ED BOT ESSAY 4132 =====
+---
+title: How to Deliver Bad News
+url: https://edbatista.com/2022/07/how-to-deliver-bad-news.html
+slug: how-to-deliver-bad-news
+published: 2022-07-27T16:59:43
+updated: 2025-09-24T11:58:03
+source_body: wordpress-html
+---
+
+The unpleasant task of delivering bad news is a common challenge for my clients: the CEO with bad news for their Board, the executive with bad news for their CEO, the investor with bad news for their LPs, the leader at any level with bad news for their employees. No one enjoys this onerous task, but over the years I've seen leaders make a bad situation worse by trying to avoid or delay the inevitable discomfort.
+
+You can't render the experience painless, but you can make it easier for all parties, including yourself, by delivering bad news in three steps. Below I refer to "a conversation," and in some cases all three steps should be undertaken in a single interaction, while in others they should be spaced out over an extended dialogue. Your specific circumstances will determine the timing, but however you choose to proceed this framework can help you structure your bad news in a way that minimizes rancor and increases everyone's willingness to work together toward a solution.
+
+1. Here's What Happened
+
+The first and most important step is simply initiating the conversation. You don't want to have this conversation, and there are undoubtedly a number of plausible reasons to keep putting it off, including the possibility that if you wait long enough some good news will render it unnecessary. But at this moment you still have a choice, and it's equally possible that if you wait too long you will lose that option. [1]
+
+The parties you've been reluctant to approach may hear your bad news first from some other source, and when this happens there will be a loss of trust. As painful as the conversation may be, by initiating it you may well gain trust and strengthen the relationship. In addition, other forcing functions may compel you to have the conversation under suboptimal conditions. By initiating the conversation you retain the ability to influence when and how it takes place and who participates. [2]
+
+Having initiated the conversation you may be inclined to downplay or discount the bad news and share only the bare minimum of information. Consider the importance in surgical procedures of "debridement"--the removal of dead, damaged or infected tissue is a necessary precursor to the healing process, and when any such tissue is left behind the wound only gets worse. Get it all out.
+
+2. Here's Why (or Here's What I've Learned)
+
+While being candid with bad news is the starting point, the next step is providing an explanation for its cause. In some cases you'll know exactly why the bad news occurred. Unfortunately this explanation may be embarrassing, particularly if your action or inaction was a contributing factor. Even if you aren't directly culpable, if you're in a senior role you may feel embarrassed that it happened on your watch. But trying to avoid acknowledging your embarrassment often only makes it worse. [3]
+
+It can be an even greater challenge when you don't know the cause, and here you face an inherent tradeoff. Delaying the conversation while you seek to determine the cause increases the risks noted above, but initiating the conversation and failing to provide any explanation will heighten the other parties' fears and anxieties. When we don't fully understand why something is happening, we rapidly construct an "explanatory narrative" to help us make sense of the situation. In the absence of complete information, we'll fill in the gaps by jumping to conclusions, and these speculations are likely to have a negative bias. [4]
+
+A compromise is to specify what you've learned about the cause and offer some potential explanations, while emphasizing that you're still gathering information. While doing so, bear in mind that you're also subject to the psychological dynamics described in the previous paragraph. Be aware of the self-protective tendency to respond to uncertainty by assuming the worst.
+
+3. Here's What I'm Planning to Do
+
+After sharing bad news with a nominal superior or an external stakeholder, it can be tempting to follow up by asking, "What should we do?" But this not only puts the burden on them to come up with a solution in the moment, it also diminishes your power and influence in the relationship. Alternatively, when sharing bad news with either superiors or subordinates, it can be equally tempting to simply tell them, "Here's what I'm going to do." And yet this is a missed opportunity to elicit their creative thinking and to invite them to share responsibility for the solution.
+
+It's preferable to complete the final step of the conversation by describing what you're planning to do on the basis of your current understanding of the root cause. This gives the other parties the benefit of your thinking while signalling your openness to their own. It also allows you to learn something about how they feel about your proposal--if they're in agreement, you get the benefit of their endorsement, and if not it's better to find out sooner rather than later.
+
+In the event that there's a lack of clarity (or outright confusion) over who will ultimately decide how to proceed, be sure to specify decision-making rights and procedures before moving on. [5] Optimally these issues have been addressed well in advance of any crisis, and all parties are operating under a shared understanding, but bad news has a way of upending previously settled agreements.
+
+This Is Hard. What Helps?
+
+Mapping out these steps in the abstract is easy--and it will be very different in the midst of a real crisis. So what else can you do to prepare? What might help?
+
+Trust
+
+The difficulty of delivering bad news is directly related to the level of trust in your relationships with the other parties. Situations that might merely be challenging can become catastrophic in the absence of sufficient trust. So it's imperative to assess the level of trust before committing to a relationship in which you may someday have to deliver bad news. Do you trust them to handle it well? If not, don't hire them. Don't work for them. And never take their money.
+
+In many cases you think the other party is trustworthy, but you're not sure, and you feel compelled to take a leap of faith. You make the hire, or you take the job, or you accept the investment, and hope it works out for the best. But in these circumstances you should be building trust--or testing for its absence--from the very start of the relationship. Don't wait for a crisis to learn how they respond under pressure.
+
+- Two Sides of Trust
+
+- Five Levels of Communication
+
+- Better Working Relationships
+
+Emotion Regulation
+
+Bad news invariably stirs up a host of feelings, which can range from mild disappointment to outright fury. And even if you think you're ready for it, there's usually an element of surprise, which tends to heighten our emotional responses and render them less predictable.
+
+The ability to employ the framework above successfully rests on a foundation of emotion regulation--and to be very clear, regulation is not suppression. The latter is nothing more than an act of make-believe, pretending that you're not feeling what you're feeling. This is only possible for short periods of time, but even then the act of suppressing your feelings in order to participate in this process effectively will prevent you from accessing emotions that might be helpful: empathy, compassion, remorse.
+
+- The Tyranny of Feelings
+
+- Comfort with Discomfort
+
+- Neuroscience, Leadership and David Rock's SCARF Model
+
+Perspective
+
+I'm keenly aware that bad news can have profound implications and lasting consequences. If you're like my clients, you're in a senior leadership role in which bad news means that important projects have failed, dollars have been wasted, people will lose their jobs, and dreams have come to an end. At the same time, even as you view these outcomes with justifiable concern and strive to avoid them, it's essential to maintain a sense of perspective.
+
+This may be one of our most important tasks in life, and we can take a step in that direction by recognizing how much there is to learn, even--and especially--from our gravest losses and disappointments. In so doing, we also tend to realize that so much of the "bad news" we face is far less significant than we imagined.
+
+- The Ruling Out of Possibilities (On Failure)
+
+- The Smoke Detector Principle (Why We Overreact)
+
+- Pain Is Mandatory. Suffering Is Optional.
+
+Footnotes
+
+[1] I'm reminded that Ray Dalio, founder of hedge fund Bridgewater Associates, attributes much of the firm's success to their commitment to always share bad news:
+
+Having a process that ensures problems are brought to the surface, and their root causes diagnosed, assures that continual improvements occur. For that reason I insisted that an issue log be adopted throughout Bridgewater. My rule was simple: If something went badly, you had to put it in the log, characterize its severity, and make clear who was responsible for it. If a mistake happened and you logged it, you would be OK. If you didn't log it, you would be in deep trouble. (Principles: Life and Work, page 62, 2017)
+
+[2] For more on how to prepare for and conduct these conversations, see the following:
+
+-
+Setting the Table (Difficult Conversations)
+
+-
+Learning to Yield (Navigating Tough Conversations)
+
+[3] The Value of Embarrassment
+
+[4] Seeing What's Not There (The Importance of Missing Data)
+
+[5] Leadership, Decision-Making and Emotion Management
+
+Photo by James Theiler.
+
+
+===== END ED BOT ESSAY 4132 =====
+===== BEGIN ED BOT ESSAY 4133 =====
+---
+title: What Do You Mean We, Kemo Sabe?
+url: https://edbatista.com/2022/07/kemo-sabe.html
+slug: kemo-sabe
+published: 2022-07-20T20:20:20
+updated: 2025-10-05T16:55:22
+source_body: wordpress-html
+---
+
+What do you do if you're an ambitious second-in-command serving an equally ambitious leader? How do you assert yourself without overstepping?
+
+As the U.S. presidential election loomed in 1992, many of the leading Democratic party candidates bowed out, in part because they expected Republican incumbent George H.W. Bush to cruise to reelection given his popularity in the wake of Operation Desert Storm, which successfully expelled Iraqi military forces from Kuwait. Arkansas governor Bill Clinton, who was not well-known outside his relatively small state and who faced allegations of sexual misconduct during the primaries, won the Democratic nomination, but he was initially considered a weak and unlikely candidate.
+
+Bush ultimately fumbled away his advantages, and Clinton won the Electoral College 370 to 168 and the popular vote by 43 percent to 37 percent (with an assist from business leader and independent candidate Ross Perot, who captured 19 percent). But for a time Clinton was viewed as a long-shot, which put added pressure on his selection of a vice-presidential running mate. In July 1992 he chose Tennessee senator Al Gore, who provided the Clinton campaign with a number of advantages.
+
+Gore had placed third in the 1988 Democratic primaries, had served in the Senate since 1985, and before that had served in the House since 1977. Gore's father had also been a U.S. senator, and Gore Jr. was intimately familiar with the workings of Washington D.C. And while Gore was less personable than the charismatic Clinton, he was seen by many as having more gravitas and credibility. After graduating from college, Gore had enlisted in the U.S. Army and served in Vietnam, when it would have been easy to avoid doing so, in contrast to Clinton, who had evaded the draft through means that some perceived as deceptive. [1]
+
+So as the 1992 campaign moved into its final stages, Clinton was more dependent on Gore than the typical presidential candidate, and Gore brought more prestige to the role of vice-presidential running mate than many of his predecessors and was widely viewed as more authoritative than Dan Quayle, Bush's vice-president. This sets the stage for an incident that is little-remembered today, but which has continued relevance for any second-in-command who must manage the complexity of a leadership role that is both senior and subordinate.
+
+On July 9, 1992, the day that Clinton was to announce that Gore would be his running mate, the two of them were preparing for the subsequent news conference by facing live questions from an audience of staffers. Journalists Michael Kelly and Maureen Dowd describe the moment in an extensive article published the day of Clinton and Gore's inauguration in 1993:
+
+Having come to the relationship bearing a great gift, Gore was always determined to be treated with appropriate respect. He made the point in the Governor's mansion, the morning of July 9, as he and Clinton were rehearsing for the joint news conference they would soon hold to announce that Gore was joining the ticket. An aide, acting as reporter, threw out a question accusing Gore of being an environmental extremist.
+
+Gore answered, but then Clinton cautioned, "We don't want to come off like a bunch of Greenpeace warriors."
+
+Gore, the author of a best-selling psycho-environmental polemic, "Earth in the Balance," shot back: "What do you mean we, kemo sabe?"
+
+After a tense moment, Clinton began to laugh, then everyone else did, too. From that day on, Clinton and Gore...[handed] off the microphone to each other on stage, picking up each other's points... While George Bush campaigned with rarely a mention of Dan Quayle's name, Clinton used Gore to great advantage, employing him to lead the attack on the Bush Administration's prewar coziness with Saddam Hussein, and to serve as ambassador to Jewish and environmental groups. [2]
+
+The term "kemo sabe," pronounced KEE-mo SAH-bee, may require some further context. "The Lone Ranger" was a popular fictional character on radio and television shows of that name in the U.S. from the 1930s through the 1960s and would have been a familiar figure to both Clinton and Gore. A lawman who pursued outlaws in the Old West of the 19th century, the Lone Ranger was accompanied by a Native American character named Tonto, who often addressed his colleague as "kemo sabe." In the context of the show this is taken to mean "faithful friend" or "trusty scout" and may--or may not--be derived from an actual Native American term. [3]
+
+There are several layers to this exchange between Clinton and Gore that merit analysis. First, this was neither an on-the-record press conference with a crowd of reporters, nor a private discussion between the two of them. It was a semi-public event before a select group of people who supported the Democratic ticket but who were also primarily loyal to either Clinton or Gore. (It seems reasonable to assume that someone on Gore's staff related the incident to Kelly and Dowd.)
+
+Would Gore have made the same comment in front of the press or members of the public? Very unlikely--that may have been perceived as an overt challenge to Clinton's status as leader and called Gore's loyalty into question. But it's significant that Gore didn't wait until he and Clinton were alone to speak up--he took full advantage of the semi-public setting to voice his concerns in the moment.
+
+The addition of "kemo sabe" to Gore's comment is also telling. While the character of Tonto is often described as a "sidekick" to the Lone Ranger, he chose to accompany the lawman of his own volition and was by no means a dependent or vassal. [4] Gore's usage of the term signifies a similarly complex relationship with Clinton.
+
+As the winner of the Democratic nomination--a goal Gore had failed to achieve four years earlier--Clinton was undeniably the ranking member of the pair, and Gore was the "sidekick." But by speaking up as he did and appending "kemo sabe," Gore sent a subtle but clear message: I acknowledge your seniority, but my deference has its limits. I'm willing to be a sidekick, but don't take my assent for granted.
+
+And the unexpected use of "kemo sabe" by Gore, who had a formal and stiff communication style, allowed Clinton to save face. The Arkansas governor was known to have a volcanic temper, and the "tense moment" described by Kelly and Dowd must have been tense indeed. If Gore had simply said, "What do you mean we?"--full stop--it's conceivable that Clinton would not have laughed, and the situation might have turned out quite differently. But Gore's use of the phrase was the verbal equivalent of a wink and a smile, enabling Clinton to respond with laughter without seeming weak. [5]
+
+This minor episode from decades ago may be nearly forgotten today, but I believe it remains instructive for any second-in-command who finds themselves facing a similar challenge. What lessons might we draw from it?
+
+- Speak up... If Gore hadn't spoken up before a group of observers, he would have missed an important opportunity to assert himself and challenge Clinton.
+
+- But pick your spots... If Gore had spoken up in an actual press conference or similarly public setting, he would have undermined both Clinton and himself.
+
+- And a little humor goes a long way. While it's unlikely that "kemo sabe" would be perceived as funny today--or even understood--it was funny to Bill Clinton in 1992, and that made all the difference.
+
+While Gore deserves credit for his handling of this specific situation, he also made a number of missteps. Gore enjoyed his greatest leverage during the window between his selection by Clinton and the campaign's victory in November, but his influence waned during the transition between the Bush and Clinton administrations, as Kelly and Dowd observed:
+
+"[Gore is] getting more and more stiff because he's cognizant of the fact that, as the Administration expands, his power contracts," says one Gore friend... During the transition, Susan Thomases, Clinton's scheduler and a close friend of Mrs. Clinton's, told associates that Gore did not understand that, once the Administration got under way, he would have to adjust to a smaller role. He could make it easy, Thomases said, or he could make it hard. [6]
+
+If you're a second-in-command, you're undoubtedly aware that some power is given, and it exists as a function of A) your role and B) your relationship with your leader. Gore's power was always going to be limited by the ambiguous nature of the vice-presidency and the complexity of his relationship with the mercurial Clinton. But it's equally true that some power is taken, and it exists as a function of your behavior. In this instance, at least, Gore's willingness to assert himself paid off, and you will certainly face similar opportunities to do the same.
+
+Footnotes
+
+[1] For more on Bill Clinton and the Vietnam War draft, see Dodging the Draft and Bill Clinton's "Red Scare" (Larry Sabato, Washington Post, 1998) and Clinton's Draft Deferment (CNN, 1997).
+
+[2] The Company He Keeps (Michael Kelly and Maureen Dowd, The New York Times, January 17, 1993)
+
+[3] For more on the term "kemo sabe," see What Do You Mean "Kemosabe," Kemosabe? (Aisha Harris, Slate, 2013) and What Does 'Kemo Sabe' Really Mean? (Fran Striker, Jr., Old-Time Radio).
+
+[4] The portrayal of Native Americans in the original Lone Ranger series is generally viewed today as demeaning, and use of the term "kemo sabe" even led to a court case in Canada: Lone Ranger’s 'kemosabe' not racist, court says (Reuters/NBC News, 2004). Despite the outcome of that case, I'm mindful of the fact that the representation of Tonto as a "sidekick" evokes a long history of offensive stereotypes of Native Americans, powerfully described by Sherman Alexie, author of the short-story collection The Lone Ranger and Tonto Fistfight in Heaven:
+
+In the movies, Indians are always accompanied by ominous music. And I’ve seen so many Indian movies that I feel like I’m constantly accompanied by ominous music. I always feel that something bad is about to happen. I am always aware of how my whole life is shaped by my hatred of Tonto. Whenever I think of Tonto, I hear ominous music... I mean, I knew I could never be as brave, as strong, as wise, as visionary, as white as the Indians in the movies. I was just one little Indian boy who hated Tonto because Tonto was the only cinematic Indian who looked like me. (I Hated Tonto (Still Do), Los Angeles Times, June 28, 1998)
+
+[5] Whether deliberate or inadvertent, Gore's comment references a cartoon in Mad Magazine, a satirical periodical aimed primarily at precocious youth. This particular cartoon was published in 1958, when Clinton and Gore were 12 and 10 years old, respectively, and is described by Brian Cronin:
+
+The Lone Ranger and Tonto are watching a horde of Indian braves bear down on them in full battle fury. "Looks like we're in trouble, Tonto," says the Lone Ranger to his pal. "What you mean 'we,' white man?," Tonto responds. (Comic Book Legends Revealed #329, Comic Book Resources, 2011)
+
+This cartoon is also described in an extensive Narkive discussion thread and is reproduced in a tweet by Andrei Cherny, who thoughtfully brought it to my attention after I first published this post. In the reproduction shared by Cherney, the dialogue differs slightly from Cronin's description:
+
+The Lone Ranger: Indians! Indians all around us! Well, Tonto, ol' kimosavee [sic], it looks like we're finished!
+
+Tonto: What you mean...WE?
+
+[6] Kelly and Dowd, 1993
+
+For Further Reading
+
+Power Struggles Among Nice People
+
+Force Isn't Power
+
+Underdoing It and Overdoing It (Assertiveness Over Time)
+
+Photo of Bill Clinton and Al Gore via the NARA and DVIDS Public Domain Archive.
+
+
+===== END ED BOT ESSAY 4133 =====
+===== BEGIN ED BOT ESSAY 4134 =====
+---
+title: Very Cheap, Then Very Expensive (On Job Titles)
+url: https://edbatista.com/2022/07/very-cheap-then-very-expensive-on-job-titles.html
+slug: very-cheap-then-very-expensive-on-job-titles
+published: 2022-07-04T08:49:29
+updated: 2025-09-24T11:58:03
+source_body: wordpress-html
+---
+
+Despite the fact that people do not acknowledge a preference for hierarchy, such a preference can be inferred from behavioral patterns... The strongest piece of evidence is simply the regularity with which this form of organization is produced... When scholars attempt to find an organization that is not characterized by hierarchy, they cannot... In sum, the production of hierarchy is a central and omnipresent component of organizing.
+
+~Deborah Gruenfeld and Larissa Tiedens [1]
+
+Once you confer the Director or VP title on one person, you are signaling to every person in the company that titles are fair game at your company. Get ready for every person in the company (who deems themselves ready for the title) to campaign for a title in both subtle and unsubtle ways, for almost every accomplishment possible.
+
+~Gokul Rajaram [2]
+
+As psychologists Gruenfeld and Tiedens make clear, the impulse to establish hierarchical distinctions is universal [3], and as I've noted before, they "aren’t justifying or rationalizing hierarchy, and they cite a complex set of both positive and negative effects that result from hierarchical structures in organizational life, but they clearly demonstrate its persistence as an organizing principle." [4]
+
+A theme in my work with founder/CEOs is what I call "the judicious imposition of structure," which includes the need to clarify who's responsible for what and how decisions get made as the organization scales. [5] And an inevitable step in that process is the creation of hierarchical job titles, but as founder and investor Rajaram also makes clear, establishing titles comes at a cost.
+
+Those costs are often hidden at first, so titles may seem cheap--I've even had clients call them "free." But not only are those hidden costs eventually revealed, they also tend to escalate--so supposedly "free" titles ultimately become very expensive. And yet it's neither feasible nor desirable for companies to avoid titles forever. What explains these dynamics, and what can founders do about them?
+
+Why Titles Seem So Cheap
+
+They're not "real."
+
+When a company begins awarding titles, they're aspirational assertions and acts of imagination, existing only within the arbitrary confines of an org chart, which itself may be largely notional. Such titles have no intrinsic validity or independent worth--they're not code or cash--so founders may conclude that it costs little to offer them in exchange for services rendered.
+
+They offset other constraints.
+
+Most early-stage organizations are constrained in a number of predictable ways. If they're earning any revenue at all, they're rarely profitable, so cash compensation shortens their runway and increases the pressure on leadership to raise more capital sooner. They're also risky and unproven ventures that lack an established brand, so founders can find it difficult to convince talented people to join or stay with the company. In this context a title can be used to attract or retain employees who might pursue other forms of compensation or status elsewhere.
+
+Many founders don't care about them.
+
+As LinkedIn co-founder Reid Hoffman has noted, startup founders have much in common with pirates--not the sociopathic criminal types, but the "lovable rogues" who break archaic rules and bypass official channels in order to promote creative problem-solving and drive change. [6] In my experience this attitude is why many founders become founders in the first place, and they dismiss titles as so much corporate bureaucracy that can be safely ignored: If someone wants a particular title, who cares? Let them have it.
+
+Why Titles Become So Expensive
+
+Reality is socially constructed.
+
+When enough people--or the right people--believe a story, it suddenly becomes true. [7] Cash itself--and any other medium of exchange--is nothing but a collective narrative, and when the story changes, so does the value of the asset in question. The same is true of titles, and as a company scales and becomes more substantive, the value of a title within that construct adjusts accordingly.
+
+They become constraints in themselves.
+
+This is the essence of the risks highlighted by Rajaram: "Titles become a motivator... Titles lead to entitlement... The title parade never ends." [8] Titles are useful because they have the ability to influence behavior--they can attract or retain talent, and they clarify responsibilities and decision rights. But if obtaining a given title becomes an employee's superordinate goal, that drive is now the tail that wags the dog.
+
+They're very difficult to take back.
+
+Rajaram calls it "impossible" to "untitle" employees, and although I've seen it happen I would agree that it's very difficult. The most common challenge is the employee who continues to perform at an adequate level and remains an asset to the company but whose growth isn't keeping pace with the organization around them: The capable individual contributor who's unable to manage, or the capable manager who's unable to "manage managers." Even if they're willing to relinquish their title--which is rare--they will likely be perceived as having fallen short, which will hamper their effectiveness.
+
+So What Can Be Done?
+
+The first step for founders is raising your awareness of these dynamics and avoiding unnecessary mistakes. Even though titles seem cheap at first, they will inevitably become expensive, and that inflation should be factored into job design decisions from the start. With that in mind, Rajaram offers two specific proposals:
+
+a. Descriptive titles for individual contributors: Create job titles that precisely articulate what the person actually does. For example, Software Engineer, Firmware Engineer, Business Development Representative, Product Manager, Product Marketing Manager. This forces you to clearly spell out each person’s high level job description concisely as part of the job title, which is an excellent organizational design goal in and of itself.
+
+b. A better label for people managers: Use the term "Lead" (or a similarly generic term) for all people managers. This word replaces "Manager," "Director," "VP" or any other titles. Also make people manager titles as descriptive as possible. For example, Product Management Lead, Firmware Engineering Lead, <ProductName> Engineering Lead, <ProductName> Product Lead, <Geography> Sales Lead. [9]
+
+I support these ideas, and I've seen a number of clients employ them effectively. But my experience also suggests that they're unlikely to work in every organization, and they almost certainly won't work indefinitely. Bear in mind Gruenfeld and Tiedens' conclusion--"the production of hierarchy is a central and omnipresent component of organizing"--and it becomes apparent that in most cases efforts to forestall the establishment of hierarchical titles will eventually fail. So what else can be done?
+
+Learn to level.
+
+While it's difficult to "untitle" an employee who's under-performing relative to their role but remains a valued asset, with foresight and tact it's possible to level them under a new manager while retaining them within the organization. As I've noted before, the factors that contribute to a successful levelling include:
+
+- Data pointing to a performance gap.
+
+- Non-defensiveness on the part of the employee.
+
+- Trust in your good intentions toward them.
+
+- The potential to learn from the incoming manager.
+
+- Clarity on the distinctions between the employee's current and impending roles.
+
+- Graciousness on your part throughout the process. [10]
+
+This is much easier, of course, if you remember that titles eventually become expensive and avoid "over-titling" people from the outset. Failing that, this is why "Senior Directors" and "SVPs" exist.
+
+Pay attention to status.
+
+Sufficient role clarity allows us to answer some questions that are fundamental to organizational life: Who are we to each other? What are our relative positions in this environment? As I've noted before, "One of the most significant ways we establish role clarity in organizations is through formal hierarchies and reporting relationships, which often allow us to answer the questions above." [11]
+
+The dilemma, however, is that "even as these tools create greater role clarity, they set in motion a process that eventually generates role confusion. The key issue is the steady upward pressure experienced within a hierarchy to maintain and increase one's relative status." [12] But titles are just one form of status enjoyed by employees, and there are many others at your disposal: Access to and attention from senior leaders. Participation in decision-making. Early dissemination of information. Public acknowledgment and appreciation.
+
+Your tasks as a founder are to appreciate the essential role that status plays in organizational life [13] and to learn about the specific forms of status that your direct reports care about. You may not be able to give them the title they want--but you may not have to.
+
+Ask better questions.
+
+Simply asking "How can we prevent prevent people from desiring hierarchical titles indefinitely?" is unrealistic in most circumstances and can even be counter-productive. Particularly when hiring for senior leadership roles in later-stage organizations, the ambiguity inherent in a generic term such as "Lead" will turn away any number of talented people who have reached the point in their careers where they're unwilling to settle for anything less than a hierarchical title that meets or exceeds their previous levels. That said, there are a number of critical questions you should be asking:
+
+- Where are we feeling pressure to add or clarify titles? What specific titles are people seeking?
+
+- What are the implications of these titles for the organization today? What might they be in the future?
+
+- If we delay implementing these titles, how might we benefit? Alternatively, what costs might we pay?
+
+- If we implemented these titles now, how might we benefit?
+
+- Knowing that this would be an irreversible decision, what costs will we pay, not just now but thereafter?
+
+- At what point will this cost/benefit calculus change?
+
+Hierarchy isn't autocracy.
+
+Despite our universal preference for hierarchy, it's fallen into disfavor as a result of its abuse by autocratic leaders. We see this on a grand historical scale in the form of dictatorial governments, but it occurs every day in more mundane settings whenever a leader exerts positional power to overcome resistance and satisfy their personal preferences. But the establishment of titles need not be a step in this direction.
+
+A hallmark of a healthy organization is an ability to distinguish between hierarchy and autocracy, and work by professor of management Lindred Greer can help us understand the difference:
+
+In the past 15 years of my research, my collaborators and I have documented the many and nefarious ways in which hierarchy at work can cause tensions, conflict, and inequity. But I was forced to face the evidence that hierarchy can just as well lead to better coordination and collaboration... Based on extensive research and observation, I’ve come to realize that hierarchy is necessary to get work done, and it can be a force for good--better performance, relationships, and well-being at work--if teams are structured well and led by a skillful leader... My research has uncovered four different factors of work hierarchies that can lead to better performance, better relationships, and more cooperation...
+
+1. Build hierarchies based on expertise...
+
+2. Give employees areas of ownership...
+
+3. Create a triangle rather than a ladder. A hierarchy can take the form of a ladder or a triangle: a single line of people with less and less power, or a pyramid where lower levels get wider and wider...
+
+4. Reduce the power distance. Finally, the most effective hierarchies are the ones with a short distance between top and bottom, both objectively and according to people’s perceptions. [14]
+
+Rather than seeking to forego titles as a means of avoiding autocracy, how might you incorporate these guidelines into the establishment of an organizational structure that's both more hierarchical and more effective?
+
+ 
+
+Footnotes
+
+[1] Organizational Preferences and Their Consequences (Deborah Gruenfeld and Larissa Tiedens, Chapter 33 in the Handbook of Social Psychology, 2010)
+
+[2] Titles: The One Thing CEOs Should Delay as Long as Possible (Gokul Rajaram, Medium, 2017)
+
+[3] Critics of hierarchy may point to the alternative offered by "holacracy," coined in 2007 by consultant Brian Robertson and implemented most notably at shoe retailer Zappos, as well to other egalitarian approaches to management dating back to the 1970s and '80s. But as executive coach Harrison Monarth has noted, research suggests that the absence of job titles in no way eliminates the process of determining hierarchical status in organizational life:
+
+Humans subconsciously rely on visible cues like attractive features or extroverted personalities to assign status in a group that has no labels to indicate otherwise. In a company devoid of bosses, these perceptions of status will take hold to establish a pecking order. (A Company Without Job Titles Will Still Have Hierarchies, Harvard Business Review, 2014)
+
+And in recent years even Zappos has begun to return to a more hierarchical approach, as observed by journalist Aimee Groth. (Zappos has quietly backed away from holacracy, Quartz at Work, 2020)
+
+[4] Leadership as Performing Art
+
+[5] The Judicious Imposition of Structure
+
+[6] Uber Needs to Transition from "Pirate" to "Navy" (Reid Hoffman, LinkedIn, 2017)
+
+[7] For more on this idea, see The Social Construction of Reality: A Treatise in the Sociology of Knowledge (Peter Berger and Thomas Luckmann, 1967).
+
+[8] Rajaram, 2017.
+
+[9] Ibid.
+
+[10] The Fine Art of Levelling
+
+[11] Role Clarity and Role Confusion
+
+[12] Ibid.
+
+[13] For more on the importance of status, see the following:
+
+-
+Social: Why Our Brains Are Wired to Connect, pages 33-34 (Matthew Lieberman, 2013)
+
+-
+The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132 (Sonja Lyubomirsky, 2014)
+
+-
+Status Anxiety, pages vii-ix (Alain de Botton, 2004)
+
+- A Company Without Job Titles Will Still Have Hierarchies (Harrison Monarth, Harvard Business Review, 2014)
+
+[14] Four Keys to a Healthy Workplace Hiearchy (Lindred Greer, Greater Good Science Center, 2020). For more on Greer's insights on hierarchy, see Why Teams Still Need Leaders, an interview with Frieda Klotz (MIT Sloan Management Review, 2019).
+
+ 
+
+Photo by UK Parliament.
+
+
+===== END ED BOT ESSAY 4134 =====

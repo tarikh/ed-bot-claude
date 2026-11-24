@@ -1,0 +1,312 @@
+===== BEGIN ED BOT ESSAY 3898 =====
+---
+title: Skeptical About the Enterprise (Bob Dylan and Personal Integrity)
+url: https://edbatista.com/2016/10/skeptical-about-the-enterprise-bob-dylan-and-personal-integrity.html
+slug: skeptical-about-the-enterprise-bob-dylan-and-personal-integrity
+published: 2016-10-14T12:46:25
+updated: 2025-09-24T11:58:15
+source_body: wordpress-html
+---
+
+Bob Dylan just won the Nobel Prize in Literature, which, via a roundabout path, led me to Jann Wenner's 2010 interview with President Barack Obama, who had this to say about the man:
+
+Here's what I love about Dylan: He was exactly as you'd expect he would be. He wouldn't come to the rehearsal; usually, all these guys are practicing before the set in the evening. He didn't want to take a picture with me; usually all the talent is dying to take a picture with me and Michelle before the show, but he didn't show up to that. He came in and played "The Times They Are A-Changin'." A beautiful rendition. The guy is so steeped in this stuff that he can just come up with some new arrangement, and the song sounds completely different. Finishes the song, steps off the stage--I'm sitting right in the front row--comes up, shakes my hand, sort of tips his head, gives me just a little grin, and then leaves. And that was it--then he left. That was our only interaction with him. And I thought: That's how you want Bob Dylan, right? You don't want him to be all cheesin' and grinnin' with you. You want him to be a little skeptical about the whole enterprise.
+
+I read this last night and it actually moved me to tears--although not because I'm this huge Dylan fan. I'm aware of the role he played in the '60s, I like a number of his songs, and I respect his originality and talent, but I've never been into him the way some people are. And yet he's been so prominent during my lifetime--he released a "Greatest Hits" album the year I was born, when he was 26--that I developed an understanding of the man without ever paying that much attention to him. He was just always there in the background, a musician who mattered a lot to musicians I loved, a hero to writers and cultural figures who were heroes of mine.
+
+But reading that quote from Obama caused me to see Dylan a little more clearly, and it had a surprisingly powerful impact on me: That's how you want Bob Dylan, right? You don't want him to be all cheesin' and grinnin' with you. You want him to be a little skeptical about the whole enterprise.
+
+I realized that this is exactly how I'd expect Dylan to show up, because he epitomizes this attitude, which I consider a core component of personal integrity. The ability to be himself in any setting, to engage with the great and powerful without being unduly impressed, to hold himself at a slight remove without being churlish, to connect with people without cheesin' and grinnin', to participate in the enterprise without losing a sense of skepticism about it.
+
+Dylan's certainly not the only public figure who's taught me something about personal integrity. Billie Holiday, Christopher Hitchens, David Foster Wallace, Fran Lebowitz, James Baldwin, James Brown, Joan Didion, John Waters, Kurt Vonnegut, Miles Davis, Patti Smith, Pema Chödrön, and William F. Buckley come to mind--a varied group, to be sure, but a common thread is something that I'd describe as a commitment to their individuality while remaining engaged with the world.
+
+Maintaining our personal integrity in the face of so much pressure to do otherwise is one of the most difficult aspects of life. There's much to be gained by cheesin' and grinnin', by abandoning our skepticism, by joining the enterprise. And yet when we do we inevitably pay a price for those rewards, although the actual cost may not be readily apparent.
+
+I'm not suggesting that Dylan or any of those others are indifferent to acclaim or immune to the universal need for acceptance. Quite the opposite, to be sure--people don't become public figures without a deep desire for appreciation. I'm also well aware that my image of "Bob Dylan" is a half-truth, a persona created by Robert Allen Zimmerman to serve many different needs of his own.
+
+But still, this idea of Dylan--and that of the others above--remains an important inspiration to me. These are my role models, in the best sense of the term. I'm not looking to imitate them, nor do I endorse their every action or utterance. (Messrs. Brown, Buckley, Davis and Wallace are particularly problematic.) But their example motivates me to be a better version of myself, to live with integrity, to be a little skeptical of the whole enterprise.
+
+Thanks to Richard Winters, Edward Tufte, and President Barack Obama for the guidance and inspiration.
+
+
+===== END ED BOT ESSAY 3898 =====
+===== BEGIN ED BOT ESSAY 3899 =====
+---
+title: Agile Coaching and Group Dynamics
+url: https://edbatista.com/2016/10/agile-coaching.html
+slug: agile-coaching
+published: 2016-10-03T12:05:17
+updated: 2025-09-24T11:58:15
+source_body: wordpress-html
+---
+
+I originally wrote this in 2012, a few years after discovering the work of Pierluigi Pugliese, who led me to the work of Jim and Michele McCarthy. It's merely an introductory reference for anyone unfamiliar with the term "agile" and its application to both software deveIopment and team coaching. Having written it, I then promptly filed it away and forgot about it until reminded today by a tweet from Christina Wodtke. Many thanks to all of them.
+
+Agile Software Development
+
+"Lightweight" software development methods evolved in the mid-1990s as a reaction against "heavyweight" methods, which were criticized as overly regulated, regimented, micromanaged and inflexible. In February 2001, 17 developers met in Utah and drafted the Manifesto for Agile Software Development, which clarified these methods:
+
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+
+- Individuals and interactions over processes and tools.
+
+- Working software over comprehensive documentation.
+
+- Customer collaboration over contract negotiation.
+
+- Responding to change over following a plan.
+
+That is, while there is value in the items on the right, we value the items on the left more.
+
+Principles underlying the Agile Manifesto include:
+
+- Welcome changing requirements, even late in development.
+
+- Sustainable development, able to maintain a constant pace.
+
+- Face-to-face conversation is the best form of communication (co-location).
+
+- Projects are built around motivated individuals, who should be trusted.
+
+- Simplicity--the art of maximizing the amount of work not done--is essential.
+
+- Self-organizing teams.
+
+- Regular adaptation to changing circumstances.
+
+Agile Coaching
+
+Agile development methods require intensive collaboration among team members. A set of specific interpersonal techniques have been developed to support effective collaboration, and "agile coaching" is the process of training team members in these techniques and helping teams implement them. Some agile coaches are:
+
+Pierluigi Pugliese (@p_pugliese)
+
+Rachel Davies (@rachelcdavies)
+
+Jim and Michele McCarthy (@michmccarthy)
+
+The Core Protocols
+
+In particular, Jim and Michel McCarthy have developed The Core Protocols, a set of interpersonal techniques that support effective collaboration within agile teams:
+
+The Core Commitments
+
+- I commit to engage when present.
+
+- To know and disclose what I want, what I think, and what I feel.
+
+- To always seek effective help.
+
+- To decline to offer and refuse to accept incoherent emotional transmissions.
+
+- When I have or hear a better idea than the currently prevailing idea, I will immediately either propose it for decisive acceptance or rejection, and/or explicitly seek its improvement.
+
+- I will personally support the best idea regardless of its source, however much I hope an even better idea may later arise, and when I have no superior alternative idea.
+
+- I will seek to perceive more than I seek to be perceived.
+
+- I will use teams, especially when undertaking difficult tasks.
+
+- I will speak always and only when I believe it will improve the general results/effort ratio.
+
+- I will offer and accept only rational, results-oriented behavior and communication.
+
+- I will disengage from less productive situations when I cannot keep these commitments or when it is more important that I engage elsewhere.
+
+- I will do now what must be done eventually and can effectively be done now.
+
+- I will seek to move forward toward a particular goal, by biasing my behavior toward action.
+
+- I will use the Core Protocols (or better) when applicable.
+
+- I will offer and accept timely and proper use of the Protocol Check protocol without prejudice.
+
+- I will neither harm—nor tolerate the harming of—anyone for his or her fidelity to these commitments.
+
+- I will never do anything dumb on purpose.
+
+The Core Protocols
+
+- Pass (Unpass)
+
+- Check In
+
+- Check Out
+
+- Ask For Help
+
+- Protocol Check
+
+- Intention Check
+
+- Decider
+
+- Resolution
+
+- Personal Alignment
+
+- Investigate
+
+Example:
+
+Check In: Use Check In to begin meetings or anytime an individual or group Check In would add more value to the current team interactions.
+
+Steps
+
+Speaker says "I feel [one or more of MAD, SAD, GLAD, AFRAID]." Speaker may provide a brief explanation. Or if others have already checked in, the speaker may say "I pass." (See the Pass protocol.) Speaker says "I’m in." This signifies that Speaker intends to behave according to the Core Commitments. Listeners respond, "Welcome."
+
+Commitments
+
+State feelings without qualification. State feelings only as they pertain to yourself. Be silent during another's Check In. Do not refer to another's Check In disclosures without explicitly granted permission from him or her.
+
+Notes
+
+In the context of the Core Protocols, all emotions are expressed through combinations of MAD, SAD, GLAD, or AFRAID. For example, “excited” may be a combination of GLAD and AFRAID. Check In as deeply as possible. Checking in with two or more emotions is the norm. The depth of a group's Check In translates directly to the quality of the group’s results.
+
+Do not do anything to diminish your emotional state. Do not describe yourself as a "little" mad, sad, glad, or afraid or say "I’m mad, but I’m still glad."
+
+Except in large groups, if more than one person checks in, it is recommended that all do so.
+
+HAPPY may be substituted for GLAD, and SCARED may be substituted for AFRAID.
+
+(The remaining protocols are discussed at length on Jim and Michele McCarthy's site.)
+
+ 
+
+Photo by Paul Sableman.
+
+
+===== END ED BOT ESSAY 3899 =====
+===== BEGIN ED BOT ESSAY 3900 =====
+---
+title: Goodbye, Stanford! Hello, Stanford!
+url: https://edbatista.com/2016/09/goodbye-stanford-hello-stanford.html
+slug: goodbye-stanford-hello-stanford
+published: 2016-09-28T17:38:40
+updated: 2025-10-12T14:26:58
+source_body: wordpress-html
+---
+
+A few months ago I made the decision to resign from the role that I accepted at Stanford's Graduate School of Business in December 2006. At that time I was a member of the school's first-ever team of in-house executive coaches, and our primary task was launching the Leadership Labs course and Leadership Fellows program. While that effort was daunting at first, I look back on those initial years with a lot of pride in what my colleagues and I accomplished, not least because we walked our talk. In both LeadLabs and the Fellows program we asked our MBA students to embrace challenging experiences, to be open to feedback, and to strive to improve. And as a team of experiential educators we were committed to doing the same. Every year we were determined to improve both LeadLabs and the Fellows program, and every year we reflected on what we could do better and implemented changes as a result. There's always room for improvement, of course, and I'm sure this process will continue, but I also feel that over the past decade we built something great and made a lasting contribution to the school.
+
+Supporting LeadLabs and the Fellows program has been one of my top priorities at Stanford, particularly the experience of working with our Leadership Fellows in small groups and one-on-one coaching relationships. But at the same time a number of new opportunities have presented themselves, both within and beyond the GSB: I began a relationship with the Harvard Business Review, writing on a range of topics related to coaching, self-coaching, communication, and leadership. Two years ago I designed and launched a new GSB course, The Art of Self-Coaching. Last year I was asked to teach my own section of the school's Interpersonal Dynamics course (known to everyone as Touchy Feely). And my coaching practice has continued to grow, reaching the point where I'm no longer able to take on all the potential clients who express interest in working with me.
+
+I love coaching and teaching with a passion, and I'm deeply devoted to my work, in part because I found this vocation relatively late in life after a 15-year career in management, and I never take it for granted. But I've also learned that doing my best work requires a certain amount of reflective time to read, write, and take good care of myself. This spaciousness was decidedly lacking last year, and I knew that something had to change. A final push came from the sale of the building in which Amy and I have lived very happily for the past decade, which prompted us to consider a wide range of possibilities. It turns out that we're going to stay put, but the experience of envisioning myself in a new space helped me conclude that I was ready for a new chapter.
+
+So this Spring I let my colleagues at Stanford know that I planned to resign from my previous role, which would entail ending my work on LeadLabs and the Fellows program and no longer facilitating T-groups for other faculty members in Touchy Feely. I expressed to my dean that I hoped to continue teaching my Art of Self-Coaching course and my own section of Touchy Feely, although I wasn't sure how the school would respond. This arrangement would allow me to scale back my work at the GSB, where I'd focus exclusively on teaching, and remain in San Francisco most days, seeing coaching clients and writing.
+
+Happily, not only did the GSB want me to continue teaching these classes, but the school also asked me to add a section of The Art of Self-Coaching in Fall Quarter (which begins tomorrow.) So while there's still a significant amount of continuity in my life--I'll remain a Lecturer at the GSB, and I'll be on campus once a week during the academic year--a great deal has changed. This coming year, for the first time in a decade I won't be coaching a group of Leadership Fellows or facilitating a T-group in Touchy Feely, and while I'm thrilled at the prospect of more time to see clients and to write (and less time commuting between San Francisco and Stanford), I feel the absence of that work keenly. And while I'm incredibly eager to meet my new students in The Art of Self-Coaching and my section of Touchy Feely this year, I also feel the absence of the Leadership Fellows I won't be coaching, and the T-group I won't be sitting with each week.
+
+Goodbye, Stanford. And hello, Stanford.
+
+Thank you to the 500+ GSB students with whom I've had the privilege of working closely over the past decade, including...
+
+- The 200+ students who participated in T-groups that I co-facilitated.
+
+- The 150+ Leadership Fellows and Leadership Coaching students I coached and led.
+
+- The 36 students in my first section of Touchy Feely last year.
+
+- And the 72 students who've taken The Art of Self-Coaching over the last two years (as well as the 36 I'll meet tomorrow).
+
+And thank you to a group of colleagues who've been instrumental in my development as a coach, a teacher, and a person. I can't possibly list everyone, but I would be remiss if I didn't mention...
+
+- Mary Ann Huckabay, my mentor, coach and Fairy Godmother.
+
+- Carole Robin, who called me in late 2006 and said, "The GSB is hiring a team of coaches, and I think you should apply," and who's been an essential source of guidance ever since.
+
+- My teammates on the school's coaching staff over the past decade: Andrea Corney, Anthony Ramsey, Bonnie Wentworth, Chris McCanna, Collins Dobbs, Hugh Keelan, John Cronkite, Ricki Frankel, Sharon Richmond, and Yifat Sharabi-Levine.
+
+- My Touchy Feely co-facilitators: Agnes Le, Chevalisa Bruzzone, Chris McCanna, Erica Peng, Inbal Demri Shaham, Jimena Galfaso, Karin Scholz Grace, Lisa Kay Solomon, Liselotte Zvacek, Michael Terrell, Saraswathi Ram Mohan, Stephanie Stevens, Sue Neville, and Zoe Dunning.
+
+- My fellow Touchy Feely faculty members, past and present: Andrea Corney, Carole Robin, David Bradford, Gary Dexter, Lara Tiedens, Leslie Chin, Richard Francisco, Scott Bristol, and Yifat Sharabi-Levine.
+
+- The facilitators on my staff in Touchy Feely last year: Agnes Le, Anamaria Nino-Murcia, Chevalisa Bruzzone, Erica Peng, Kevin Martin, and Michael Terrell (and our reading coaches: Gabriel Cooper, Jamila Rufaro, and Leslie Chin).
+
+- The originator of the Leadership Labs course and Leadership Fellows program at the University of Chicago, Evelyn Williams, who pioneered the initial versions of these courses at Stanford.
+
+- The many, many faculty and staff members whose efforts have made these classes possible over the years, including Amy Kraus, Barbara Firpo, Bryan McCann, Chris Sadlak, Courtney Payne, Dale Miller, Ingrid McGovert, John Johnson, Kris Becker, Lara Tiedens, Lisa Radloff, Lisa Simpson, Lynn Santopietro, Margee Hayes, Mindy Hollar, Nancy Dam, and Paul Mattish.
+
+- And Nonna Kocharyan, my faculty assistant, who is amazing.
+
+Photo of Peter Wegner's Monument To Change As It Changes by Naotake Murayama.
+
+
+===== END ED BOT ESSAY 3900 =====
+===== BEGIN ED BOT ESSAY 3901 =====
+---
+title: What Took You So Long? by Sheldon Kopp
+url: https://edbatista.com/2016/08/what-took-you-so-long-by-sheldon-kopp.html
+slug: what-took-you-so-long-by-sheldon-kopp
+published: 2016-08-22T13:11:16
+updated: 2025-09-24T11:59:27
+source_body: wordpress-html
+---
+
+Sheldon Kopp was a therapist and author based in Washington DC whose work was widely read in the 1970s but who is largely forgotten today. When Kopp died in 1999 at age 70 he merited a New York Times obituary, although it does him a disservice by calling him "an author of books designed to bolster the reader's self-esteem." Kopp was in tune with the zeitgeist in a way that contributed to his popularity but which also makes it easy to oversimplify or misinterpret his writing in hindsight, and it's laughable to think that he would have described his goal as "bolstering self-esteem." That said, Kopp also reflects his era's attitudes, and in some of his work I occasionally come across a cringe-worthy passage.
+
+But I find so much value in Kopp's perspective that I remain open to his wisdom while acknowledging his biases. One of Kopp's best books is 1979's What Took You So Long?, a collaboration with photographer Claire Flanders. I encountered it at a particularly difficult time in my own life, and it was both a bracing wake-up call and a source of comfort and inspiration. The book is a slender volume of epigrams, typically just one sentence, each accompanied by one of Flanders' photographs, which are themselves rich with meaning. It's out-of-print but readily available, and if you find the excerpts below thought-provoking pick up a copy, both because Kopp's brief Introduction is well worth a read and because it's so much more powerful as a tangible, visual work of art.
+
+From What Took You So Long? by Sheldon Kopp
+
+Often things are as bad as they seem.
+
+Even so, some of the time it's possible to enjoy life as it is.
+
+But the better anything gets, the more you'll miss it when it's gone.
+
+Why grieve when nothing helps? We cry because nothing helps.
+
+If you stubbornly refuse to mourn your losses, you get depressed.
+
+What's a person to do about feeling helpless? For a while there's just no way to see what's funny about being stuck.
+
+At last you cry out in anguish: "Why me?" God answers: "Why not?"
+
+You can so stand it.
+
+After all, it's only pain.
+
+What makes it seem unbearable is your mistaken belief that it can be cured.
+
+I have never begun any important venture for which I felt adequately prepared.
+
+Without knowing for sure what's right or wrong, take your best shot.
+
+There's just no way to get it all straight. Mistakes are inevitable.
+
+Control is an illusion.
+
+You wait for everything to be all right, knowing all the while that the next problem is already in the mail.
+
+Complaining can become a way of boasting about how much suffering you can endure.
+
+If we allow pain more of our attention than it requires, we miss some opportunities for joy.
+
+Escape is not a dirty word. None of us can face what's happening head-on all of the time.
+
+It's all right to pretend sometimes. The only danger lies in pretending that you are not pretending.
+
+We don't have to pass the time. The time will pass in any case.
+
+Remember, we are all in this alone.
+
+It helps to know that everyone is in the same situation. It helps, but not a whole lot.
+
+Unable to get our own way, often we settle for trying to prevent other people from getting their way.
+
+We insist that our situation is special. It's so hard to accept how ordinary we all are.
+
+We must learn to love in the absence of illusions.
+
+We must try to live a just life in an unjust world.
+
+We must be willing to go on caring even when we are helpless to change things.
+
+Our best may not turn out to be good enough. Still it will have to do.
+
+I'm not OK. You're not OK. And that's OK.
+
+(The final line above, a direct shot at one of the greatest of '70s clichés, makes it clear that Kopp is not particularly interested in our self-esteem.)
+
+
+===== END ED BOT ESSAY 3901 =====

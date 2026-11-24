@@ -1,0 +1,90 @@
+===== BEGIN ED BOT ESSAY 3258 =====
+---
+title: DIY Trackbacking
+url: https://edbatista.com/2005/08/diy_trackbackin.html
+slug: diy_trackbackin
+published: 2005-08-01T04:00:00
+updated: 2005-08-01T04:00:00
+source_body: wordpress-html
+---
+
+Kevin Aylward of Wizbang has a Standalone Trackback Pinger to allow people whose blogs don't support Trackback to create their own and send a Trackback to any blog that will accept them. I'm a TypePad loyalist for many reasons, including their support for Trackback, but it's nice to see tools like this that help extend the standard to other platforms that will (hopefully) get the message eventually.
+
+
+===== END ED BOT ESSAY 3258 =====
+===== BEGIN ED BOT ESSAY 3259 =====
+---
+title: BlogHer
+url: https://edbatista.com/2005/07/blogher.html
+slug: blogher
+published: 2005-07-30T17:14:38
+updated: 2005-07-30T17:14:38
+source_body: wordpress-html
+---
+
+A big hi to everyone I know who's attending BlogHer. Hope y'all are having a great time. I've particularly enjoyed Beth's interviews and Marnie's session posts.
+
+
+===== END ED BOT ESSAY 3259 =====
+===== BEGIN ED BOT ESSAY 3260 =====
+---
+title: Hierarchy of Unease, Part 2
+url: https://edbatista.com/2005/07/hierarchy_of_un_1.html
+slug: hierarchy_of_un_1
+published: 2005-07-29T11:13:03
+updated: 2005-07-29T11:13:03
+source_body: wordpress-html
+---
+
+Just a few days after Tim Oren was formulating his own Hierarchy of Unease, I sent the following to some of the folks involved with AttentionTrust:
+
+We should clarify just what we mean by "privacy" in this context, because I think the traditional privacy debate is in the process of being turned on its head.
+
+I think "privacy" has generally meant restricting access to personal information in order to 1) prevent identify theft and other information-based crimes, 2) stop spam and other intrusive commercial appeals, and 3) maintain an abstract sense of individual dignity through discretion.
+
+But, taking those issues in reverse order:
+
+- Social norms about discretion, about what is or should be private are in the process of changing dramatically.  People not only want to share personal information about themselves, they want to celebrate it.  Seth [Goldstein] alludes to this in his quote from Goldhaber in yesterday's post: "The new privacy and the old are direct opposite. The new privacy means having no secrets, which you don't normally need to have, because little that was previously shameful or had to be concealed is so now..."
+
+- Similarly, there is an increased tolerance for commercial appeals when there is a perceived exchange in value.  Ads are now expected to be entertaining in and of themselves, or to accompany some free service that makes them tolerable.  A fundamental issue that AttentionTrust is calling attention to is that people are undervaluing their attention, perhaps significantly.  In this context..."privacy" means the ability to set a price on your attention (high or low), and to make informed choices about the attention transactions you enter into.
+
+- I'm not sure what to say about identity theft, which consumes more of my personal attention than is probably healthy, other than to note that famous people, i.e. people who capture a great deal of attention, are rarely victims.  At some point in the future, protecting our "privacy" may not be about locking our information away, but about having so much unique information publicly available that it will be impossible for anyone to impersonate you.  Foolish, perhaps, but a thought.
+
+attention attentiontrust
+
+
+===== END ED BOT ESSAY 3260 =====
+===== BEGIN ED BOT ESSAY 3261 =====
+---
+title: Hierarchy of Unease
+url: https://edbatista.com/2005/07/hierarchy_of_un.html
+slug: hierarchy_of_un
+published: 2005-07-29T11:03:37
+updated: 2005-07-29T11:03:37
+source_body: wordpress-html
+---
+
+Tim Oren had a great post recently, resulting from his research into "consumer privacy, data aggregation, and marketing analytics," that's both funny and insighful on the current state of the privacy debate.  On the humorous side, he tweaks everyone who has a stake in this issue:
+
+I haven't seen a domain with more zealots since the early crypto market. There are zealous marketers sure they can make their customers more loyal and profitable if only can pool all the known data about them. There are privacy zealots, who often don't seem to believe in marketing at all - or maybe even markets. And there are zealous computer scientists and security experts, sure the whole matter can be resolved with the right algorithms. And now that the press and politicians are coming to the party, we can expect the discourse to become even more informative.
+
+As for his insights, he proposes a Hierarchy of Unease (a riff on Maslow's Hierarchy of Needs) that suggests different levels of privacy-related violations:
+
+1. Direct Financial Loss, or Threat of Same. Anything from credit card or check theft and fraud, to emptying of bank accounts via EFT, or full-up identity theft...
+
+2. Intrusion. ...This can range from dinner time phone calls, to spam, to (less commonly) junk mail or pop-ups and interstitials. Unfortunately for marketers, the volks-wisdom has these all largely conflated.
+
+3. Compartment Breach. We all segment our lives to some extent: family, career, friends, hobbies, finance, politics, religion, and so on. The configuration, number, and fervor with which these compartments are defended are highly idiosyncratic. But a third party information transfer that crosses one of these boundaries feels like a larger breach of privacy...
+
+4. Loss of Information Asymmetry. Consumers usually encounter information asymmetry on the down side: the loan officer, real estate agent, or contractor who knows far more about the market and has much more deal making experience. But the individual has always had a few hidden cards of his or her own - knowing the real details of one's state of health, financial conditions, motivations for a purchase, and so on. Data transfer or analysis that puts those cards face up when consumers must make a deal feels like an affront.
+
+5. Everything Else. A great deal of 'private' information does not seem to be highly valued or defended - grocery store purchase lists, music tastes, web site visit s- so long as the utilization of that information doesn't fall into one of the categories above. It's routinely traded away for everything from modest discounts to suggestions of interesting books or new artists.
+
+Tim's predictions?
+
+If I'm close to right on this, there are pitfalls ahead for all of the zealots. The privacy hardliners and techno-purists are solving problems that a large part of the market doesn't think they have (item 5). On the other hand, the marketing enthusiasts may take that same acquiescence as a go-ahead for projects that will run straight into issues 2 - 4, and be surprised by the blowback.
+
+attention privacy
+
+
+===== END ED BOT ESSAY 3261 =====

@@ -1,0 +1,388 @@
+===== BEGIN ED BOT ESSAY 4011 =====
+---
+title: Freud on Startups (Conditions for Group Effectiveness)
+url: https://edbatista.com/2019/06/freud-on-startups-conditions-for-group-effectiveness.html
+slug: freud-on-startups-conditions-for-group-effectiveness
+published: 2019-06-23T17:34:17
+updated: 2025-10-08T08:48:57
+source_body: wordpress-html
+---
+
+Freud's Group Psychology and the Analysis of the Ego remains a source of insight nearly a century after its publication and despite any misgivings we may have about Freud's theories today. To paraphrase the anthropologist and philosopher Ernest Becker, Freud often gets the details wrong, but he gets the generalities right. (For example, humans are profoundly repressed creatures, but Becker believed--and I agree--that we're driven primarily by the repression of our fear of death, not of our libidinous impulses.)
+
+Writing in Vienna in 1921 with the horrors of the First World War still fresh, Freud was understandably pessimistic about the impact of the group on the individual:
+
+In a group the individual is brought under conditions which allow him to throw off the repressions of his unconscious instinctual impulses. The apparently new characteristics which he then displays are in fact manifestations of this unconscious, in which all that is evil in the human mind is contained as a predisposition... [1]
+
+In this context Freud's subject would be more accurately described in English as "mass psychology" or "crowd psychology," as translator and editor James Strachey notes. [2] And yet I find that the concepts Freud explores are relevant today not only when applied to political rallies or other large-scale gatherings, but also to the much smaller and better-organized groups that I study on a consistent basis: The workforces and executive teams of the leaders in my coaching practice, most of whom are startup CEOs.
+
+While I'm cautious about drawing this parallel too broadly, many of the social and psychological dynamics discussed by Freud can be observed in organizational life, and contemporary leaders would do well to have a clearer understanding of these concepts in order to manage employees and executives more effectively.
+
+Group Psychology is rich with original thought, but Freud also draws extensively upon prior efforts, and the works he explores most thoroughly are Psychologie des Foules (Psychology of Crowds), by the French polymath Gustave Le Bon, and The Group Mind, by Anglo-American psychologist William McDougall. Freud begins with the recognition that people behave differently when they are members of a group, quoting Le Bon directly:
+
+Whoever be the individuals that compose [a group], however like or unlike be their mode of life, their occupations, their character, or their intelligence, the fact that they have been transformed into a group puts them in possession of a sort of collective mind which makes them feel, think, and act in a manner quite different from in which each individual of them would feel, think, and act were he in isolation. [3]
+
+This dynamic poses both an opportunity and a dilemma for leaders. The opportunity is that groups are capable of transcending their individual members' capabilities, as Freud notes, paraphrasing Le Bon and others:
+
+Groups are also capable of high achievements in the shape of abnegation, unselfishness, and devotion to an ideal. [4]
+
+In certain circumstances the morals of a group can be higher than those of the individuals that compose it, and...only collectivities are capable of a high degree of unselfishness and devotion... In exceptional circumstances there may arise in communities the phenomenon of enthusiasm, which has made the most splendid achievements possible. [5]
+
+But the dilemma, alluded to above, is that groups so often exert a negative influence on individual behavior. Freud again quotes Le Bon directly:
+
+By the mere fact that he forms part of an organized group, a man descends several rungs in the ladder of civilization. Isolated, he may be a cultivated individual; in a crowd, he is a barbarian--that is, a creature acting by instinct. [6]
+
+While the social experience of organizational life differs immensely from that of an anonymous crowd, groups of employees and executive teams can certainly fall under the sway of a collective impulse that renders them less thoughtful or deliberate. My clients would readily recognize Freud's description of these aspects of the group experience:
+
+A group is impulsive, changeable and irritable. It is led almost exclusively by the unconscious... Nothing about it is premeditated. Though it may desire things passionately, yet this is never so for long, for it is incapable of perseverance. It cannot tolerate any delay between its desire and the fulfillment of what it desires. It has a sense of omnipotence; the notion of impossibility disappears for the individual in a group.
+
+A group is extraordinarily credulous and open to influence, it has no critical faculty, and the improbable does not exist for it. It thinks in images, which call one another up by association (just as they arise with individuals in states of free imagination), and whose agreement with reality is never checked by any reasonable agency. The feelings of a group are always very simple and very exaggerated. [7]
+
+Turning to William McDougall's The Group Mind, Freud acknowledges that different types of groups can have different effects on individuals. McDougall's starting point is the concept of an overarching organizing principle, which Freud paraphrases:
+
+Before the members of a random crowd of people can constitute something like a group in the psychological sense, a condition has to be fulfilled: these individuals must have something in common with one another, a common interest in an object, a similar emotional bias in some situation or other, and..."some degree of reciprocal influence." [8]
+
+The employees and executives in a contemporary organization clearly have the potential to fulfill this condition, although just how to unlock this potential in a given collective is one of the primary challenges I discuss with my clients. Freud notes the importance of emotions here:
+
+The most important result of the formation of a group is the "exaltation or intensification of emotion" produced in every member of it. In McDougall's opinion men's emotions are stirred to a pitch that they seldom or never attain under other conditions; and it is a pleasurable experience for those who are concerned, to surrender themselves so unreservedly to their passions and thus to become merged in the group and to lose the sense of the limits of their individuality. [9]
+
+While this heightened emotionality is undoubtedly at the root of groups' potential destructive power, it's also directly related to groups' ability to uplift the human spirit in the ways described above. The challenge for leaders like my clients is how to harness these feelings without allowing them to run amok. The key, according to McDougall, is create a set of conditions that will raise a group's "collective mental life to a higher level," which Freud articulates (and which I've labelled) as follows [10]:
+
+1. Continuity
+
+The first and fundamental condition is that there should be some degree of continuity of existence in the group. This may be either material or formal: material, if the same individuals persist in the group for some time; and formal if there is developed within the group a system of fixed positions which are occupied by a succession of individuals.
+
+This highlights several tensions inherent in rapidly growing organizations: Early-stage employees' capabilities may not keep pace with the company's growth, resulting in discontinuous group membership as more experienced people are hired. Founders often prefer fluid organizational cultures--that's one reason why they're founders--and may resist solidifying hierarchical structures, such as a formal executive team. [11]
+
+2. Identity
+
+The second condition is that in the individual member of the group some definite idea should be formed of the nature, composition, functions and capacities of the group, so that he may develop an emotional relation to the group as a whole.
+
+In other words: Who are we to each other? And why should we care? A regrettable consequence of the common entrepreneurial impulse to delay formalizing hierarchical structures is that these questions go unanswered, making it more difficult for employees to establish a group identity with their functional colleagues, or for senior leaders to establish a group identity as the executive team.
+
+3. Rivalry
+
+The third [condition] is that the group should be brought into interaction (perhaps in the form of rivalry) with other groups similar to it but differing from it in many respects.
+
+The most effective leaders harness this drive not only against external competitors, but also across functions without losing an overarching sense of camaraderie across the company as a whole. [12]
+
+4. Mythology
+
+The fourth [condition] is that the group should possess traditions, customs and habits, and especially such as determine the relations of its members to one another.
+
+A group's traditions, customs and habits--their collective "mythology"--can play a powerful role in establishing and reinforcing all of the other conditions articulated here.
+
+5. Clarity
+
+The fifth [condition] is that the group should have a definite structure, expressed in the specialization and differentiation of the functions of its constituents.
+
+In other words: Who owns what? How do we define our respective responsibilities? And where there are overlaps or disagreements, who will make the necessary decisions (and how will they be made?) [13]
+
+Each of these concepts comes up on a consistent basis in my coaching practice--they're particularly significant for startup CEOs, who are striving to establish effective groups at multiple levels of the company at once, but they're relevant to every leader who's hoping to harness the power of group experience while mitigating the downsides.
+
+In closing, it's worth noting that even as I support Becker's contention that our fear of death is an even more powerful driver of human behavior than our libido, I find deeply compelling Freud's thesis that the group dynamic is ultimately a form of Eros, which encompasses not only our sexual relationships, but also "love for parents and children, friendship and love for humanity in general...[as] all these tendencies are an expression of the same instinctual impulses" [14]:
+
+We will try our fortune, then, with the supposition that love relationships (or, to use a more neutral expression, emotional ties) also constitute the essence of the group mind... Our hypothesis finds support in the first instance from two passing thoughts. First, that a group is clearly held together by a power of some kind: and to what power could this feat be better ascribed than Eros, which holds together everything in the world? Secondly, that if an individual gives up his distinctiveness in a group and lets its other members influence him by suggestion, it gives one the impression that he does it because he feels the need of being in harmony with them rather than in opposition to them--so that perhaps after all he does it "ihnen zu Liebe" (i.e. "for their sake," but literally "for love of them.") [15]
+
+As I wrote some years ago,
+
+[Good leaders] are passionate, but it's not quite love. The very good ones do feel love--for their team, for the work, for life--but they can't quite bring themselves to say it out loud and fully express the feeling. The great ones feel it, and everyone around them knows it and benefits as a result. [16]
+
+Footnotes
+
+[1] Group Psychology and the Analysis of the Ego, page 9 (Sigmund Freud, 1921)
+
+[2] Page 1
+
+[3] Page 7
+
+[4] Page 15
+
+[5] Page 20
+
+[6] Page 12
+
+[7] Pages 13-14
+
+[8] Page 21
+
+[9] Page 22
+
+[10] Pages 24-25
+
+[11] Pirates in the Navy
+
+[12] Startup Leadership: A Greater Us
+
+[13] Leadership, Decision-Making and Emotion Management
+
+[14] Group Psychology and the Analysis of the Ego, page 29
+
+[15] Page 31
+
+[16] Leading Is an Act of Love
+
+For Further Reading
+
+Huddle Up! (Building Group Cohesion)
+
+Startups as Human Systems
+
+Symptoms of Group Strength
+
+Interpersonal Dynamics (aka Touchy Feely)
+
+A Brief History of T-Groups
+
+Leadership and Transference
+
+Safety, Trust, Intimacy
+
+How Leaders Create Safety (and Danger)
+
+Rules Aren't Norms (On Better Meeting Hygiene)
+
+Photo by Swiss Tchoukball.
+
+
+===== END ED BOT ESSAY 4011 =====
+===== BEGIN ED BOT ESSAY 4012 =====
+---
+title: Leadership and Transference
+url: https://edbatista.com/2019/06/leadership-and-transference.html
+slug: leadership-and-transference
+published: 2019-06-22T08:24:12
+updated: 2025-10-08T08:49:30
+source_body: wordpress-html
+---
+
+This is how we can understand the essence of transference: as a taming of terror. Realistically the universe contains overwhelming power. Beyond ourselves we sense chaos. We can't really do much about this unbelievable power, except for one thing: we can endow certain persons with it.
+
+~Ernest Becker [1]
+
+Why do people follow leaders? What explains the power that followers invest in a leader and their role? And why, at the same time, do we have such ambivalent feelings toward leaders and their authority?
+
+Anthropologist and philosopher Ernest Becker believed that these questions can be answered in part by understanding the concept of transference, which he explores extensively in The Denial of Death, a vast and far-reaching work in which he seeks to explain human behavior, with a particular emphasis on social relationships and power dynamics. While the term was originally coined by Freud (Übertragung) to describe feelings of attachment and fascination by patients for their therapists, Becker makes clear that it extends well beyond the therapeutic realm and applies to all of our relationships with authority figures and others--and his views are highly consistent with my experience as a coach working with senior leaders.
+
+Becker begins by noting that leaders' undeniable charisma is insufficient to explain their power over others:
+
+All through history masses have followed leaders because of the magic aura they projected, because they seemed larger than life. On the surface this explanation seems enough because it is reasonable and true to fact: men worship and fear power and so give their loyalty to those who dispense it.
+
+But this touches only the surface and is besides too practical. Men don't become slaves out of mere calculating self-interest; the slavishness is in the soul, as Gorky complained. The thing that has to be explained in human relations is precisely the fascination of the person who holds or symbolizes power...
+
+Becker then reminds us that Freud saw the roots of transference in primal memories of childhood. As young children we emerge from infancy and experience the world as a chaotic and terrifying place. Parents and caregivers appear to us as awe-inspiring figures with the power to tame chaos and create order and safety, and while our relationship with authority may evolve considerably on our journey to adulthood, we often "transfer" our attachment to other powerful figures who promise to relieve our anxieties, and we retain a deep-seated yearning to submit to their leadership:
+
+Freud saw that a patient in analysis developed a peculiarly intense attachment to the person of the analyst... In the transference we see the grown person as a child at heart, a child who distorts the world to relieve his helplessness and fears, who sees things as he wishes them to be for his own safety...
+
+No one can argue away the manifestations of transference in everyday human affairs. It is not visible on the surface: adults walk around looking quite independent; they play the role of parent themselves and seem quite grown up--and so they are. They couldn't function if they still carried with them the childhood feelings of awe for their parents, the tendency to obey them automatically and uncritically. But, says [Hungarian psychoanalyst Sándor] Ferenczi, although these things normally disappear, "the need to be subject to someone remains; only the part of the father is transferred to teachers, superiors, impressive personalities; the submissive loyalty to rulers that is so widespread is also a transference of this sort."
+
+These individual impulses exert a profound effect on our behavior in groups, a topic that Freud discussed in Group Psychology and the Analysis of the Ego [2], which had a substantial impact on Becker's thinking:
+
+Early theorists of group psychology had tried to explain why men were so sheeplike when they functioned in groups. They developed ideas like "mental contagion" and "herd instinct," which became very popular. But as Freud was quick to see, these ideas never really did explain what men did with their judgment and common sense when they got caught up in groups. Freud saw right away what they did with it: they simply became dependent children again, blindly following the inner voice of their parents, which now came to them under the hypnotic spell of the leader. They abandoned their egos to his, identified with his power, tried to function with him as an ideal.
+
+We see extreme examples of this behavior in mass movements such as political rallies, and Becker, who helped to liberate a Nazi concentration camp in 1945 when he was 20 years old, devoted much of his work to understanding and combating the violence that such movements engender. But the same underlying impulses can affect our behavior and our social relations in ordinary organizational life, with none of the hyperbolic emotion or potential for violence that we associate with large crowds. While employees don't consciously view their leader as a substitute parent, on some level they do look to the leader to tame chaos and create order and safety, and this process can readily foster a sense of dependence and submission.
+
+Becker doesn't accept Freud's views uncritically--one of the main themes of The Denial of Death is that while Freud remains worthy of study, he also made some fundamental errors that must be acknowledged in order to make use of his insights:
+
+One of the weaknesses of Freud's theory was that he was too fond of his own phylogenetic myth of the "primal horde," Freud's attempt to reconstruct the earliest beginnings of society, when proto-men--like baboons--lived under the tyrannical male. For Freud this craving of people for the strong personality, their awe and fear of him, remained the model for the basic functioning of all groups. It was [Austrian-American psychoanalyst Fritz] Redl, in his important essay, who showed that Freud's attempt to explain everything by the "strong personality" was not true to fact. Redl, who studied many different kinds of groups, found that domination by a strong personality occurred in some of them, but not all. But he did find that in all groups there was what he called a "central person" who held the group together due to certain of his qualities.
+
+The work by Redl which Becker refers to dates from 1942, but much contemporary research is finally rebutting the persistent idea that early human societies were despotic tyrannies. [3] This is significant because relatively few contemporary business leaders are charismatic tyrants who rule through "awe and fear," and yet it would be a mistake to imagine that the process of transference as Becker describes it is no longer relevant in the relatively egalitarian organizational cultures of today. This is particularly true for the startup CEOs who comprise the majority of my coaching practice. By no means are they "tyrannical" figures, nor are they necessarily the "strong personality" who dominates the organization, but they are often the "central person" who holds the group together.
+
+Becker cites another aspect of leadership that is particularly relevant to my work with founders:
+
+Freud saw that the leader wipes out fear and permits everyone to feel omnipotent. Redl refined this somewhat by showing how important the leader often was by the simple fact that it was he who performed the "initiatory act" when no one else had the daring to do it. Redl calls this beautifully the "magic of the initiatory act."
+
+This is an apt description of the role of founder, whose first and most important "initiatory act" was launching the venture itself, and who feels empowered (and even obligated) to continue stepping into this process at every subsequent stage of the company's development. In this context it's significant that investors often cite a desire to retain founders in leadership roles as long as possible because of their "magic"--while the word conveys a nebulous, indefinable quality, Becker and Redl suggest that it may simply be the courage to take action when others lack daring, thereby becoming the group's "central person."
+
+But the advantages of power and influence conferred upon a leader through the transference process come at a cost:
+
+The important thing for us [in Redl's work] is that the groups "use" the leader sometimes with little regard for him personally, but always with regard to fulfilling their own needs and urges. [British psychoanalyst] W.R. Bion, in an important recent paper, extended this line of thought even further from Freud, arguing that the leader is as much a creature of the group as they of him and that he loses his "individual distinctiveness" by being a leader, as they do by being followers. He has no more freedom to be himself than any other member of the group, precisely because he has to be a reflex of their assumptions in order to qualify for leadership in the first place.
+
+The burdens of the leadership role and the loss of individual identity experienced by leaders are major themes in my practice. [4] Leaders enjoy certain freedoms, to be sure, and they also must relinquish certain freedoms in order to occupy the role effectively. Followers may admire and even adulate the leader, but they will resist empathizing with them, as that would render the leader human and diminish their power. [5] Leaders must strive to evoke empathy while also recognizing that it will come only with effort, and they must find ways to preserve their identity as an individual outside the role.
+
+Highlighting the cost of leadership also allows us to more fully acknowledge the reciprocal nature of the relationship between leaders and followers. In contemporary organizational life followers are not held captive by the leader--the relationship is one of mutual choice, and followers ultimately decide who will lead them by remaining in their jobs (or not). But both parties need the other:
+
+​The qualities of the leader, then, and the problems of people fit together in a natural symbiosis. I have lingered on a few refinements of group psychology to show that the powers of the leader stem from what he can do for people, beyond the magic that he himself possesses. People project their problems onto him, which gives him his role and stature. Leaders need followers as much as they are needed by them: the leader projects onto his followers his own inability to stand alone, his own fear of isolation. We must say that if there were no natural leaders possessing the magic of charisma, men would have to invent them, just as leaders must create followers if there are none available. If we accent this natural symbiotic side of the problem of transference, we come into the broadest understanding of it, which forms the main part of the discussion I now want to dwell on...
+
+Here Becker reaches the heart of his argument:
+
+This is how we can understand the essence of transference: as a taming of terror. Realistically the universe contains overwhelming power. Beyond ourselves we sense chaos. We can't really do much about this unbelievable power, except for one thing: we can endow certain persons with it. The child takes natural awe and terror and focuses them on individual beings, which allows him to find the power and the horror all in one place instead of diffused throughout a chaotic universe... The transference object, being endowed with the transcendent powers of the universe, now has in himself the power to control, order and combat them.
+
+Again, I'm not suggesting that employees view their leader as a substitute parent, but the all-consuming, immersive experience of transference that we undergo as children affects us in profound and lasting ways, and one of the results is our subconscious desire for a leadership figure who can "control, order and combat" the chaotic, terrifying world around us. Followers choose their leaders and endow them with such power for this very reason.
+
+But our dependency and submission to the leader's power also provokes a counter-response:
+
+This totality of the transference object also helps explain its ambivalence. In some complex ways the child has to fight against the power of the parents in their awesome miraculousness. They are just as overwhelming as the background of nature from which they emerge. The child learns to naturalize them by techniques of accommodation and manipulation. At the same time, however, he has to focus on them the whole problem of terror and power, making them the center of it in order to cut down and naturalize the world around them. Now we see why the transference object poses so many problems. The child does partly control his larger fate by it, but it becomes his new fate. He binds himself to one person to automatically control terror, to mediate wonder, and to defeat death by that person's strength. But then he experiences "transference terror"; the terror of losing the object, of displeasing it, of not being able to live without it. The terror of his own finitude and impotence still haunts him, but now in the precise form of the transference object. How implacably ironic is human life. The transference object becomes the focus of the problem of one's freedom because one is compulsively dependent on it...
+
+This explains the complex and emotionally fraught nature of so many leader-follower relationships. Both parties need each other, so much so that they create each other. As noted above, in the process the leader gains power, but at the cost of their individual identity in the eyes of their followers. Leaders make this bargain willingly, and yet it is a painful and lonely experience, and they cannot help but blame their followers for their lack of empathy. Followers endow the leader with authority in order to quell the anxiety evoked by a chaotic world, and yet in so doing they create a powerful figure who in turn becomes a source of further anxiety. Followers are then torn between their fear of leaderless chaos and their ambivalence regarding the leader's power. By definition, those who remain are opting to live with the latter, and yet this choice does not resolve the ambivalence. Just the opposite--it binds the followers to a figure who is simultaneously a source of comfort and fear, which causes immense dissonance. Thus "the fascination of the person who holds or symbolizes power," which I see in my practice every day--we cannot help but be fascinated by such figures and obsessed by the problem of our paradoxical relationship with them.
+
+It would be specious to offer a "solution" to such profound challenges, but here are some of the ways I work with clients to address them:
+
+- Leader-follower relationships are inevitably sources of powerful emotions, and we resolve such feelings by talking about them and writing about them.
+
+- Leaders must be mindful of the tension between their desire to be an authentic individual and their obligation to perform in the role.
+
+- Followers must be mindful of their reluctance to "empathize up" and their denial of the leader's humanity.
+
+Finally, while I've framed this discussion around leader-follower relationships in organizations, it's worth noting that these dynamics exist in every domain of life, as Becker makes clear:
+
+No wonder Freud could say that transference was a "universal phenomenon of the human mind" that "dominates the whole of each person's relation to his human environment."
+
+Thanks to Anamaria Nino-Murcia for the inspiration.
+
+Footnotes
+
+[1] These lines and all other cited passages are from The Denial of Death, Chapter Seven: The Spell Cast by Persons--The Nexus of Unfreedom (Ernest Becker, 1973)
+
+[2] Group Psychology and the Analysis of the Ego (Sigmund Freud, 1921)
+
+[3] For example: Forget Survival of the Fittest: It Is Kindness That Counts (Dacher Keltner interviewed by David DiSalvo, Scientific American, 2009)
+
+[4] Leadership as Performing Art
+
+[5] The Difficulty of Empathizing Up
+
+Photo by François Philipp.
+
+
+===== END ED BOT ESSAY 4012 =====
+===== BEGIN ED BOT ESSAY 4013 =====
+---
+title: Leader as Avatar
+url: https://edbatista.com/2019/06/leader-as-avatar.html
+slug: leader-as-avatar
+published: 2019-06-09T08:03:12
+updated: 2025-10-08T08:50:53
+source_body: wordpress-html
+---
+
+The English word avatar is derived from the Sanskrit avatāra, meaning "to descend," which came to signify a deity who has come down to earth and taken human form. Lord Rama, above, was the seventh avatar of the Hindu god Vishnu, summoned to defeat a demon-king.
+
+In a secular context, an avatar is a personification that represents a larger entity, and it's a concept that comes up frequently in my coaching practice. We often view leaders--especially CEOs--as avatars of the organizations they lead, and leaders may see themselves in the same way--especially founders.
+
+I'm not suggesting that leaders possess god-like attributes--there's already far too much hero-worship in contemporary business culture. But I am suggesting that leaders embody their organizations, and these symbolic identities have significant implications for what we expect of our leaders and for what leaders experience in their roles:
+
+- Leaders are expected to scrupulously adhere to the organization's cultural norms and values, and their behavior is scrutinized for deviations.
+
+- Leaders are believed to speak for the organization, and their comments are dissected for hidden meanings.
+
+- The organization's performance becomes a proxy for a leader's sense of self-worth.
+
+- When investors, senior employees, and other stakeholders commit to the organization--or walk away--such decisions are judgments on the leader's personal capabilities.
+
+There's a grain of truth to these perceptions, and yet they're easily exaggerated, by leaders themselves and by others around them, often with negative consequences:
+
+- Leaders can find the heightened scrutiny wearying, and self-consciousness can render their behavior stilted and inauthentic.
+
+- Conversely, leaders can fail to be sufficiently aware of the heightened scrutiny, and missteps can be judged harshly.
+
+- Organizational success and failure can have an inflated impact on a leader's psyche.
+
+- Stakeholders' decisions can be unduly influenced by their perceptions of the leader, for better and for worse, and leaders can take such decisions personally.
+
+So what can we do? How can we minimize the cost of the symbolic aspects of leadership? As I've noted before, leaders need to maintain an identity that transcends work [1] and regularly get out of the role: "Cultivate relationships in groups and settings where people have a common interest outside of work, where job titles are irrelevant, and where status derives from sources other than professional accomplishment. Be known for your skills (or lack thereof) as a rock climber, ballroom dancer, horseback rider, weightlifter--anything other than leader." [2]
+
+And the people around a leader need to bear in mind that we habitually view leaders through this symbolic lens and make an active effort to view them as fellow human beings: "We're less likely to empathize with people we perceive as different from us, and such difference is an inevitable result (and, at times, an intended function) of organizational hierarchy. Even if we have a good relationship with someone in a superior position, the relative nature of our respective positions can create a sense of 'otherness' that makes it psychologically difficult for us to empathize with that person’s perspective and emotions." [3]
+
+When we seek to improve the quality of our leadership--and when a leader is seeking a better quality of life--we need a fuller understanding of the symbolic dimensions of the practice. And this entails not only minimizing the costs noted above, but also capitalizing on the benefits of symbolic leadership. Leaders who embody a healthy, productive culture serve as exemplars, licensing desirable behaviors and discrediting undesirable ones. Not all such behaviors can be codified in a set of rules--and codified rules aren't necessarily norms [4]--so the leader's own behavior is often the most influential factor in determining what's normative in the organization at large.
+
+Further, leaders who can speak for the collective serve a unique and vital function at key moments in organizational life: ceremonies, rituals, celebrations, crises. As educators and management experts Warren Bennis and Robert Thomas have noted, great leaders possess, "the ability to engage others in shared meaning... [and] a distinctive and compelling voice." [5] This need not involve conforming to outdated stereotypes--that may leave people who don't resemble such stereotypes questioning their capacity to lead. But as I've noted before, "a leader must be able to adopt the (multiple and various) personas that are necessary to allow them to successfully deliver the (multiple and various) performances that are required of them." [6]
+
+Footnotes
+
+[1] How to Feed a Monster (Leading in Elite Organizations)
+
+[2] The Friendship of Wolves
+
+[3] The Difficulty of Empathizing Up
+
+[4] Rules Aren't Norms (On Company Values)
+
+[5] "Crucibles of Leadership" (Warren Bennis and Robert Thomas, Harvard Business Review, 2002)
+
+[6] Leadership as a Performing Art
+
+For Further Reading
+
+Leadership and Authenticity
+
+Leadership as Professional Practice
+
+What Do Great Leaders Do?
+
+Leadership and Transference
+
+How Leaders Overcome Adversity
+
+
+===== END ED BOT ESSAY 4013 =====
+===== BEGIN ED BOT ESSAY 4014 =====
+---
+title: Personal History: Muir Beach and San Francisco
+url: https://edbatista.com/2019/06/personal-history-muir-beach-and-san-francisco.html
+slug: personal-history-muir-beach-and-san-francisco
+published: 2019-06-08T12:52:05
+updated: 2025-09-24T11:58:09
+source_body: wordpress-html
+---
+
+Recently I was talking with someone who's lived in San Francisco for decades and mentioned that I was going to be visiting Muir Beach. They had never even heard of it, which is perfectly understandable, but also a missed opportunity to experience a fascinating corner of the Bay Area. [1] This tiny community of some 300 people is nestled between the Pacific Ocean and the forests of the Golden Gate National Recreation Area, aka the GGNRA. [2] Over the years I've passed through Muir Beach dozens of times, possibly hundreds, on motorcycle trips up and down Highway One, I've often stopped at the trailhead on the beach [3], and once Amy and I attended a romantic wedding at the town's community center. Even so, I knew nothing about the town itself until Amy and I began spending the occasional long weekend there a few years ago, which prompted me to explore its history.
+
+The area was inhabited by Coast Miwoks through the early 16th century and then occupied by Spanish and Portuguese settlers in the early 19th century. [4] It was a part of the Rancho Sausalito, granted by the Mexican government to William Antonio Richardson in 1835, and then taken over by Samuel Throckmorton and the Tamalpais Land and Water Company in 1857 in a "controversial bankruptcy proceeding." [5] The area was later designated the T Ranch--most of the ranches established in West Marin in the late 19th century were known by a single letter [6], and some of them still exist in Point Reyes. [7] The T Ranch was purchased in 1910 by Antonio Nunez Bello, who later supposedly bought the entire hillside that Muir Beach occupies today for a $10 gold piece. In 1919 Bello established a hotel on the beach and began building a subdivision of "blue collar summer cabins," although apparently there were still fewer than a dozen houses in 1930. The community was then known as Bello Beach until the 1940s. [8]
+
+World War II resulted in a substantial but temporary military presence in Muir Beach, and afterwards the area's geographic isolation and poor water quality kept it from being developed as rapidly as other parts of the Bay Area. It remained an inexpensive, largely Portuguese fishing and farming community well into the 1950s, when a handful of San Francisco bohemians discovered it, and the 1960s, when larger numbers of hippies followed, with concerts at the old hotel's tavern by bands such as the Grateful Dead, Big Brother & the Holding Company and Creedence Clearwater Revival. The arrival of emissaries from the beatnik era and the Summer of Love in an old-school Catholic immigrant community resulted in occasional turmoil, but these contrasting cultures seem to have co-existed peacefully, although the newcomers clearly represented the future, and most of the old-timers would eventually sell out and move on. [9]
+
+In 1963 work began on the Seacape Subdivision, establishing lots for larger homes on the hillside above the original Bello Beach community. Ongoing water quality problems as well as the requirements of the new Seacape homes resulted in the establishment of the Muir Beach Community Services District (CSD), a quasi-governmental entity that augmented traditional community efforts to provide clean water, maintain roads, and fight fires. During this time the establishment of the Point Reyes National Seashore in 1962 [10] and the GGNRA in 1972 [11] had a significant impact on the landscape of West Marin and on life in Muir Beach. Those two parks alone preserved over 225 square miles of Marin County wilderness--the entire county is just 828 square miles--and the GGNRA enveloped Muir Beach within its borders.
+
+The establishment of the GGNRA insured that Muir Beach could never expand--the acreage of the town is permanently fixed. Also, the existence of the CSD has helped to insure that this isolated, difficult-to-reach community enjoys essential services, all the more important given the area's historically poor water supply, winding roads, and significant fire risk. And the creation of the Seacape Subdivision allowed the construction of homes with views of San Francisco to the south and Muir Valley to the east. The predictable result is that in just a few decades a town of agricultural immigrants that attracted beatniks and hippies seeking a low-cost, off-the-grid lifestyle has been transformed into an idyllic retreat for the wealthy, where homes can now cost many millions of dollars.
+
+You can see this history as you walk the streets of Muir Beach, observing the range of architectural styles and the economic distinctions they reflect. A handful of "blue collar summer cabins" remain on the lower streets, lovingly maintained but showing their age, often with a pickup truck parked outside and an assortment of tools and supplies scattered about. A larger number of '70s-era homes populate the town, clad in wood shingles with quirky sculptures dotting the yard and an old Jeep or Porsche in front. And a smaller number of angular modern homes dominate the prime lots on the hilltop, commanding spectacular views on all sides, with glossy SUVs or sports cars in the drive--or with no cars at all, empty and lonely in their grandeur.
+
+I have conflicting feelings as I reflect on this history and its likely trajectory. I'm grateful that Point Reyes and the GGNRA have been preserved as parkland, and I spend as much time there as I can. I'm also well aware that this helps to insure that Muir Beach and the other developed areas in West Marin will be protected as privileged enclaves. The same pattern is being replicated throughout the Bay Area, of course. The height restrictions and anti-growth initiatives that San Francisco implemented in the 1980s to prevent "Manhattanization" preserved a sense of place that charmed me when I first visited as a teenager, just as these measures were being enacted. And this same legislation (and the worldview it represents) has played a role in preventing the city's housing stock and office space from responding to surging demand in recent decades, turning its entire 49 square miles into a privileged enclave. [12,13,14,15]
+
+Amy and I have seen several waves of friends and acquaintances come and go since we first moved to San Francisco in 1990. Many left by choice, ready to return home having fulfilled their dream of a Bay Area adventure, or eager to move on having had their fill of Bay Area narcissism (or both). But many left with a sense of regret, wishing they could stay but wanting something more than they could afford here--more space, more peace, more security.
+
+This dilemma isn't a new phenomenon--San Francisco has been a boomtown since 1849--and it's a highly complex one. [16,17] I don't mean to suggest that parkland preservation and land use policies are the sole (or even primary) causes, and I lack the expertise to propose any solutions. But it's impossible to enjoy the Bay Area's rewards without also acknowledging its profound deficits. The currently popular narrative that San Francisco is a dystopian hellhole is unbalanced [18], but even as I've come to love this place and call it home I'm dismayed by its many shortcomings. Life here is alternately thrilling and demoralizing, and I'm both grateful to be enjoying a pristine view of San Francisco from a house on the hillside above and troubled by what I see.
+
+ 
+
+Footnotes
+
+[1] Muir Beach Community Services District
+
+[2] Golden Gate National Recreation Area (GGNRA)
+
+[3] Muir Beach Trailhead (Jane Huber, BAHiker)
+
+[4] Muir Beach History (National Park Service)
+
+[5] Muir Beach Community Services District Guidebook (Maury Ostroff, 2007)
+
+[6] Historic Alphabet Designations of Point Reyes Ranches, 1860-Present (Dewey Livingston, 1990)
+
+[7] Ranching at the Seashore (Point Reyes National Seashore Association)
+
+[8] A Brief History of Muir Beach (Bello Beach)
+
+[9] The History of Muir Beach (Sarah Smith, 1970)
+
+[10] Point Reyes National Seashore celebrates 50 years this week (Mark Prado, Marin Independent Journal, 2012)
+
+[11] Creation of Golden Gate National Recreation Area (National Park Service)
+
+[12] Buildings Curbed by San Francisco (Robert Lindsey, The New York Times, 1985)
+
+[13] Proposition M and the Downtown Growth Battle (Brad Paul, SPUR/Urbanist, 1999)
+
+[14] Manhattanization revisited (Carl Nolte, SFGate, 2014)
+
+[15] Former City planner fights to save Fillmore West from wrecking ball (Sam Whiting, San Francisco Chronicle, 2018)
+
+[16] Employment, construction, and the cost of San Francisco apartments (Eric Fischer, 2016)
+
+[17] A Guy Just Transcribed 30 Years of For-Rent Ads (Michael Anderson, Observer, 2016)
+
+[18] How San Francisco Broke America's Heart (Karen Heller, The Washington Post, 2019)
+
+
+===== END ED BOT ESSAY 4014 =====

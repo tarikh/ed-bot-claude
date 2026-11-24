@@ -1,0 +1,306 @@
+===== BEGIN ED BOT ESSAY 3646 =====
+---
+title: The SharpBrains Guide to Brain Fitness
+url: https://edbatista.com/2009/11/sharpbrains.html
+slug: sharpbrains
+published: 2009-11-11T00:02:00
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+My interest in neuroscience and its implications for executive coaching, personal development and professional effectiveness led me to have lunch recently with Alvaro Fernandez, co-founder and CEO of SharpBrains, a market research firm that focuses on the application of neuroscience in healthcare, education and related fields.  I was sufficiently inspired by my conversation with Alvaro that I went on to read The SharpBrains Guide to Brain Fitness, which he co-authored with Dr. Elkhonen Goldberg, his SharpBrains co-founder.  (Full disclosure: I know Alvaro personally from business school, and he loaned me a copy of his book.)
+
+The Guide, published earlier this year, is a great overview of current neuroscience research, with nearly 20 interviews with scientists, physicians, educators and others working in the field.  A few key points that caught my attention:
+
+1) Cognitive Training Can Lead to Behavioral Change
+
+Dr. Judith Beck, author of Cognitive Therapy (an outstanding overview of this system of psychotherapy's principles and application), has been highly successful at helping people achieve and maintain weight loss, which she found was a secondary goal of many of her patients suffering from depression and anxiety.  As Fernandez and Goldberg write in the Guide:
+
+Cognitive therapy (CT)...is based on the idea that the way people perceive their experience influences their behaviors and emotions.  The therapist teaches the patient cognitive and behavioral skills to modify his or her dysfunctional thinking and actions.
+
+CT aims at improving specific traits, behaviors or cognitive skills, such as planning and flexibility, which are executive functions...
+
+According to Dr. Beck, the main message of CT and its application in the diet world is that problems losing weight...reflect the lack of skills that can be acquired through training.  What skills is Dr. Beck talking about?  Mostly executive functions: the skills to plan in advance, motivate oneself, to monitor one's behavior, etc.
+
+Dr. Beck is also interviewed in the Guide:
+
+I found that many of the same cognitive and behavioral techniques that helped [my patients] overcome their other problems could also help them lose weight--and keep it off.
+
+I became particularly interested in the problem of being overweight and was able to identify specific mindsets or cognitions about food, eating, hunger, craving, perfectionism, helplessness, self-image, unfairness, deprivation and others that needed to be targeted to help them reach their goal.
+
+Although cognitive therapy's efficacy as a methodology extends well beyond its effectiveness in supporting weight loss, as a coach I find the connection compelling.  Many of my clients and students wrestle with issues unrelated to mental health but nevertheless rooted in mindsets similar to the ones Beck lists above, particularly perfectionism.  And while I am not a therapist and do not employ CT techniques per se, much of my work as a coach involves more general cognitive training intended to support and maintain behavioral change.  At the most basic level, simply helping a client reframe an experience or situation by viewing it from an alternative perspective can allow them to feel quite  differently as a result--and then to act in ways that better support their goals.
+
+2) Experiential Learning Has a Neurological Basis
+
+I've written before about the importance of experiential learning in my work as a coach and consultant.  David Kolb (and his colleague Roger Fry) first developed the experiential learning model in the 1970s, and today Dr. James Zull, a biologist and biochemist at Case Western Reserve, believes that activity in different regions of the brain corresponds with the four stages of this model:
+
+SharpBrains: How does learning happen?
+
+Zull: There are 4 stages in the "Learning Cycle."  Stage One: We have a concrete experience.  Stage Two: We develop reflective observations and connections.  Stage Three: We generate abstract hypotheses.  Stage Four: Then we actively test these hypotheses.
+
+In the fourth stage, we have a new concrete learning experience, and a new Learning Cycle ensues.  In other words, we get information (activating the sensory cortex), make meaning of that information (in the back integrative cortex), create new ideas from these meanings (in the front integrative cortex), and act on those ideas (using the motor cortex.)  From this, I propose that there are four pillars of learning: gathering, analyzing, creating and acting.  This is how we learn.
+
+On a tangential note, I'm also struck by the fact that Zull goes on to say that, "Learning in this way requires effort and getting out of our comfort zones.  A key condition for learning is self-driven motivation, a sense of ownership.  To feel in control, to feel that one is making progress, is necessary for this Learning Cycle."  Executive coaching is rarely successful unless the client is willing to stretch beyond their comfort zone, and it's never successful unless the client feels a sense of ownership over the process.
+
+3) Structured Learning Supports Peak Performance
+
+Dr. Brett Steenbarger is a professor of psychiatry at SUNY Upstate Medical University, as well as a financial trader with over 30 years of experience in the markets.  His current area of research is "how to enhance cognitive and emotional development among traders to help them become more successful."  Steenbarger is interviewed in the Guide:
+
+SharpBrains: What is the premise of your new book, "Enhancing Trader Performance"?
+
+Steenbarger: The premise is that elite performers in highly competitive fields share common traits... The elite performers are most distinguished by the structure of their learning process... Traders typically devote little time to practice and a structured learning process.  I want to encourage them to see that "learning on the job" is not a substitute for breaking down skills into components, drilling these, receiving feedback about performance, and making continuous modifications and improvements.
+
+In every field, elite performers devote more time to practice than to the actual performance.  To perform at the highest level, you need to protect and optimize practice and learning time.
+
+Specifically, Steenbarger recommends that traders who seek to improve their performance make use of 1) simulation and biofeedback tools, 2) reflection and regular feedback, and 3) mentors and coaches.  I'm struck by the parallel with the Leadership Labs we run for first-year MBA students at Stanford.  In a series of classes in their first Quarter in school, small groups of 8 students each go through simulations and role-plays that evoke how they respond in challenging situations, give each other feedback on their effectiveness, and work with a second-year "Leadership Fellow" who serves as a facilitator and mentor to the group.  (As a "Leadership Coach," I, in turn, work with groups of the second-year Fellows to help guide them through the experience.)
+
+Of course, perhaps it's no surprise that a coach recommends an expert who recommends coaching!  But at least I try to walk the talk--I support my own professional development through such structured learning experiences as having my own coach (who I see every few weeks), joining 3 other coaches for monthly conference calls (a new practice I just started), and being a member of a monthly group that meets in person to support each other, provide feedback and work on our interpersonal skills (although this Fall evening classes have conflicted with my group time 😛 )
+
+But the key finding for me is the inherent value in rigorous, structured learning, whatever form it takes.  If that inspires you to go out and retain a coach, great--but if it inspires you to keep a notebook on your bedside table and jot down a few lines before turning out the light, that's great, too.
+
+4) Cognitive Training Enhances Attention
+
+"Attention" is obviously a key cognitive skill, but we typically apply the term somewhat loosely to three distinct processes, as described by Dr. Michael Po
+
+sner, an emeritus professor of neuroscience from the University of Oregon and a leading expert in cognitive neuroscience:
+
+SharpBrains: Can you explain the brain basis for what we usually call "attention"?
+
+Posner: One of our major findings, thanks to neuroimaging, is that there is not one single "attention," but three separate functions of attention with three separate underlying brain networks... 1) Alerting: Helps us maintain an alert state.  2) Orienting: Focuses our senses on the information we want... 3) Executive attention: Regulates a variety of networks, such as emotional responses and sensory information... Executive attention is...the ability to manage attention towards [goal-oriented executive functions], towards planning... [Later in the interview, Posner stresses that "it is clear that executive attention...(is)...critical for success in school..."]
+
+SharpBrains: Tell us now about your recent research on attention training.
+
+Posner: Several training programs have been successful in improving attention in normal adults and in patients suffering from different pathologies...
+
+Let me add that we have found no ceiling for abilities such as attention, including among adults.  The more training, even with normal people, the higher the results.
+
+The topic of attention is also prominent in the Guide's interview with Dr. Daniel Gopher, a professor of cognitive psychology at the Technion, a scientist who's worked on cognitive performance programs with the Israeli military and the NBA:
+
+SharpBrains: Please summarize your research findings...
+
+Gopher: In short, I'd summarize by saying that cognitive performance can be substantially improved with proper training.  It is not rigidly constrained by innate, fixed abilities.  Cognitive task analysis enables us to extract major cognitive skills in any task.  Attention control and attention allocation strategies are critical determinants in performing at top level in complex, real-time decision environments.  Those skills, and other associated ones, can be improved through training.  Research shows that stand-alone, inexpensive PC-based training is effective to transfer and generalize performance.
+
+In other words: 1) Attention is a complex phenomenon comprised of 3 distinct processes; 2) The specific process of executive attention and the sub-tasks of attention allocation and control are critical to success in cognitively demanding environments, and 3) Inexpensive computer training has been shown to improve attention-related cognitive performance.
+
+So should we all be using these cognitive training tools?  And if so, which ones?  Well, those are the questions that SharpBrains is trying to answer, and I encourage you to check out their research.  The $20 Guide is aimed at laypeople like me with a general interest in neuroscience's implications for our own fields, and their $1,300 Market Report is aimed at analysts and others with a professional interest in the "brain fitness software market" (and bigger budgets.)
+
+Again, full disclosure: I know Alvaro Fernandez personally from business school, and he loaned me a copy of the Guide.  That said, there's no way I'd ever promote a company unless I truly found their products useful, and the Guide is the best high-level overview of the "brain fitness" field I've seen.
+
+
+===== END ED BOT ESSAY 3646 =====
+===== BEGIN ED BOT ESSAY 3647 =====
+---
+title: Crying at Work
+url: https://edbatista.com/2009/09/crying.html
+slug: crying
+published: 2009-09-28T12:07:00
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+Is it OK to cry at work?
+
+Bret Simmons had a great post yesterday on crying in the office which prompted some further reflection. I've had many clients, students and colleagues cry with me in my work as an executive coach, and I've cried myself times. I think it's important to create a working environment and working relationships in which it's acceptable for people to acknowledge stress, frustration, grief and the wide range of other emotions that can lead to tears. In my experience tears are usually cathartic, and when they're expressed people feel better afterward as long as they're not stigmatized for doing so.
+
+Bret's post critiques a video from Howdini on "How to deal with crying in the office" that Bret and I both take issue with. An author interviewed in the video states that "work is about facts, not feelings." That's a dangerously naive view of how we operate, even (especially) in the workplace, and the suggestion that we can (and should) simply repress any negative emotions we feel at work strikes me as outdated and unhelpful.
+
+That said, the video features two women and seems to be aimed at women, with a reference to running mascara, and I think it's important to acknowledge that women can pay a greater price than men for crying at work, particularly in certain organizations and industries where crying is stigmatized, and especially in fields where women are underrepresented.
+
+In my role as a coach, I typically encourage people to acknowledge and express their emotions more freely in ways that will support their goals. I firmly believe that the ability to do so allows us to be more effective, more influential and healthier to boot. And I'd like to support the development of a business world in which people can cry as freely as they do in my coaching practice or in my classes with graduate students.
+
+But I also know that my clients and students need to succeed in the world as it exists today, and that includes organizations and industries where people who express emotion, particularly tears, pay a price. So with any individual client or student, I believe that it's essential to understand the context in which they work and whether they will pay a price for expressing their emotions. That doesn't mean they shouldn't cry, of course, but it does allow us to fully assess the implications of doing so, to weigh the costs and benefits, and to strike the right balance between (at one extreme) passive acceptance of an environment in which emotional expressions are taboo and (at the other) a quixotic effort to resist a culture that's not going to change.
+
+I'm reminded that in December 2006, the tears of former President George H. W. Bush made news. Bush was addressing legislators and state workers at the final leadership forum convened by his son Jeb, who was soon to leave office after two terms as governor of Florida. It was the sort of routine political function that would ordinarily be ignored by everyone except those in attendance, but Bush's tears turned it into a national story.
+
+Bush was describing how Jeb handled his defeat in the 1994 governor's race when he broke down. As he struggled with his emotions, he stopped speaking for a moment, and the audience burst into applause. Jeb rushed to his father's side, as shown above, comforted him with an arm around his shoulder, and handed him a bottle of water before Bush continued.
+
+Interviewed after the forum, Bush said, "I'm the emotional one... I don't enjoy breaking up, but when you talk about somebody you love, when you get older, you do it more." So as a powerful figure, as someone discussing his son, and as an older person, Bush had the freedom to cry without fearing the repercussions--and hopefully his doing so made it more acceptable for people who lack his advantages.
+
+
+===== END ED BOT ESSAY 3647 =====
+===== BEGIN ED BOT ESSAY 3648 =====
+---
+title: On Growth and Renewal: An Update
+url: https://edbatista.com/2009/09/growth.html
+slug: growth
+published: 2009-09-01T15:22:04
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+How do we invest in our own growth and development? What do we do to renew and revitalize ourselves?
+
+These questions have been on my mind today. Last April Eric Lapp sent me the photo on the left of a tree in his neighborhood that refused to die, an image that struck both of us as a powerful symbol of growth and renewal. Eric just sent me the updated photo at right, and I'm thrilled to see it thriving--it obviously had a good growth spurt this Summer. So what have I done over the past few months to support my own growth and renewal?
+
+Being A Better Coach Means Getting Better Coaching
+
+In a sense, coaches are always being coached. Coaching is an approach to interacting with others--at its simplest it's merely an awareness that I don't have "The Answer" coupled with an ability to ask thought-provoking questions--that we bring to relationships with colleagues as well as to engagements with clients. So my discussions with the other coaches here at Stanford and with my colleagues in the larger executive coaching community often have a certain "coaching feel" to them that can be helpful. But despite this dynamic there's something uniquely powerful about being in a formal relationship with a coach--which is why my colleagues and I exist in the first place.
+
+So this Summer I began working again with Mary Ann Huckabay, a coach and therapist who recently retired from the Stanford faculty. Mary Ann was not only my professor in Interpersonal Dynamics (aka Touchy Feely) 10 years ago, but she also served as my coach in my first leadership role after my graduation from business school. (September 2019: I later went on to teach that class myself.) I initially approached Mary Ann because I wanted to be better prepared to support students coping with mental illness, particularly depression, but our conversations have extended into a range of other topics related to my effectiveness as a coach, not only with students but also with my private clients. It's been incredibly stimulating and challenging and a lot of fun, and it's certainly the best investment I've made in my own development this year.
+
+Reading, Writing, Reflecting...and Unplugging
+
+I spent a good amount of time in the first half of the Summer reviewing the work I've done here over the past 5 years and reflecting on the themes that emerged. This process resulted in the creation of six "Self-Coaching Guides," edited compilations of posts on the topics of Change, Communication, Happiness, Leadership, Learning and Motivation. I didn't select these topics in advance--they seemed to grow naturally out of my writing--and further reflection led me to see them as elements in a larger framework that I'm calling an "Operator's Manual" for understanding and addressing our professional challenges. (September 2019: All of this work is now organized--and vastly expanded--under my Art of Self-Coaching framework.)
+
+It felt great to have gained this perspective on my work. I understood myself and my approach to coaching more deeply, I felt better prepared to assist my clients and next year's students, and I had a conceptual framework to support continued thinking along these lines. And then I really needed to take a break, which at first was easier said than done. I worried about whether I should be more "productive" over the Summer, and I wondered whether I'd be able to get my momentum back in the Fall. But eventually I realized that I needed to listen to the deeper voice advising me to slow down for a bit, and to let go of the anxieties that were keeping me from doing it.
+
+So in the second half of the Summer, I did a little professional reading--but I read a lot more John O'Hara (my current fave.) Aside from my work with my coach, I had some very rewarding conversations with colleagues--but I spent a lot more time just hanging out with Amy, enjoying her company. I'm looking forward to reading more deeply and writing more frequently again, but simply unplugging for a while has been very invigorating and a great investment in my long-term growth.
+
+The Continued Pursuit of Happiness
+
+Although I dialed back my work here a bit, I've stayed very active in a number of ways, in keeping with the happiness strategies I adopted last Winter: "Taking Care of Your Body," "Increasing Flow Experiences," "Practicing Acts of Kindness" and "Expressing Gratitude." (September 2019: I have a better-informed perspective on the research that initially led me to pursue these activities.) I've certainly been physically active, exercising 70 days in June, July and August. And I've maintained a keen sense of gratitude over the past few months--grateful for the most important people in my life, grateful for the wisdom of David Foster Wallace, grateful even for just a little perspective on a bad day.
+
+I haven't been as successful at cultivating (non-athletic) flow experiences, or at performing (non-trivial) acts of kindness, so I have plenty of room for improvement. But given that I was somewhat down and frustrated a few weeks ago, I feel that my commitment to these practices has helped me develop a more resilient, deeper happiness that allows me to bounce back more readily--and that feels like an important area of growth.
+
+None of this is to say that I feel a sense of complacency about myself or my development--I'm acutely aware of my shortcomings as a person, a husband, a coach, a friend. But that awareness of my shortcomings is, in part, what's inspired my focus on growth and renewal. And it's because I know that I can do better, in so many ways, that it's so gratifying to look back over the past few months and think, "Hey, not bad!"
+
+Which brings me back to the questions I asked above, and I pose them to you:
+
+How are you investing in your own growth and development? What are you doing to renew and revitalize yourself?
+
+
+===== END ED BOT ESSAY 3648 =====
+===== BEGIN ED BOT ESSAY 3649 =====
+---
+title: Pam Fox Rollin on 42 Rules for Your New Leadership Role
+url: https://edbatista.com/2011/06/pam-fox-rollin-42-rules.html
+slug: pam-fox-rollin-42-rules
+published: 2011-06-09T10:56:31
+updated: 2025-10-05T13:54:45
+source_body: wordpress-html
+---
+
+So you've just landed your first leadership role. Or perhaps it's not your very first opportunity to lead, but you've moved into a more high-profile and demanding role within (or atop) your organization. Now what?
+
+A resource you'll find helpful is 42 Rules for Your New Leadership Role by my friend and colleague Pam Fox Rollin. (Disclosure: Pam asked me to read the book and provided me with a copy of the manuscript, which mentions me in the acknowledgments.)  I was first introduced to Pam through the network of Stanford MBAs working as executive coaches and organizational development consultants while making my own transition from management into coaching. I've greatly appreciated Pam's insights and encouragement over the past 6 years, and the book feels like a conversation with her--high-energy, thought-provoking and enthusiastic, but also informal and easygoing.
+
+Pam organizes her 42 rules into seven chapters:
+
+- Set Yourself Up for Success: How to prepare for your new role before it starts and how to hit the ground running once it begins.
+
+- Map the Terrain: Major issues you're likely to encounter in your new environment in the first few weeks.
+
+- Show Up Wisely: How to better understand yourself, and how to insure you're presenting yourself effectively.
+
+- Start Your Wins and...
+
+- Create Your Management System: Tactical tips and hands-on advice for new leaders.
+
+- Stay Smart: How to keep growing as you settle into your new role.
+
+- Set You and Your Team to Thrive: Insuring sustainable success over the long-term.
+
+While the book's greatest strength is its detailed guidance and advice, I found this structure a useful framework that helped me refer back to specific rules and other concepts in the text. As you look over this list of chapter titles, you may be thinking, "I already know this stuff." And that's exactly why Pam's book is so useful: These are the basic steps that we often ignore when starting a new role, either because we assume we'll address them eventually or because we get caught up in "urgent" responsibilities that "require" our immediate attention. The whole premise of the book is that when stepping into a leadership role it's essential to be intentional and systematic about the little things, to not assume they'll take care of themselves, and to take a long-term view at the outset, prioritizing what's important over what's urgent.
+
+I also appreciate the balance Pam strikes between building upon the latest leadership research while making her own original contributions. Her extensive footnotes direct the reader to sources for research or further reading, and highlight connections between Pam's work and that of other writers. Even better, a page on Pam's site includes resources related to each chapter and direct links to additional articles and research--it's an open-minded approach that makes Pam's own work all the more relevant. Two additional elements that aren't in the book but would have been valuable are a bibliography and a subject index--perhaps they'll be added to Pam's site or will make it into the second edition.
+
+Here are the rules that I found most helpful:
+
+Rule 5: Take Charge of Your Start
+
+Pam points out that most official onboarding processes may provide some helpful logistical guidance but are inadequate when it comes to the things that really matter--relationships, culture, history.  Compounding the challenge is the fact that "anything unfamiliar takes substantially more brainpower... Expect your productivity to tank until your brain learns to [execute new routines] without attention from your tiny, precious pre-frontal cortex."
+
+The solution is to write your own onboarding plan: Figure out who you should meet and get on their calendar, familiarize yourself with the surrounding culture, and do some due diligence on recent organizational history.
+
+Rule 9: Figure Out What to Prove by When
+
+Pam writes, "On no topic was there less agreement among the executives I interviewed," than on the question of how much time new leaders have to demonstrate their value.  Her response:
+
+There's always something to prove, and faster than you'd like. To keep focused rather than frantic, start with two categories and three time horizons:
+
+- Categories: What does my team need to deliver?  What do I need to prove about me?
+
+- Time horizons: immediate (typically one to two months), near-term (two to five months), first year (six to twelve months).
+
+I firmly agree with Pam on the importance of choosing the right time horizons. Pam also quotes OD strategist Bart Fisher:
+
+Figure out if you need [to be] a firefighter or a weatherman. Is it smoke because there's a problem, or fog because there's uncertainty? If smoke, fight the fire. If fog, take the time you need to figure out what's going on.
+
+Rule 16: Get Over Yourself
+
+Throughout the job search or promotion process, Pam writes, "you've been focusing on YOU. However, focusing on yourself is a quick road to failure as a leader. Now's the time to turn it around and focus on your team." She identifies a short but compelling list of things you need to learn about each of your team members--you can't learn everything at once, but dedicate yourself to completing this list over time as you get to know everyone:
+
+- What are you working on?
+
+- What do you enjoy the most and the least about your job?
+
+- What is going well on this team?  What's going less well?
+
+- How could this group be even more successful?
+
+- What do you do well?  What do you want to do more of?
+
+- What do you do less well?  What do you want to do less of?
+
+- What helps you be most productive?
+
+- Where do you want to be professionally in five to ten years?  One to two years?
+
+- What do you think you need to get there?
+
+How many of these questions can you answer for your team right now? Assuming you know less than you should about them, what regular practices can you put in place that will allow you to learn more?
+
+Rule 20: Communicate Early and Often
+
+"Human brains pay attention to what's recent, what's repeated, and what's communicated with passion and clarity," Pam writes, and as a result, she encourages the use of this framework for presenting issues and positions:
+
+- Here's what I'm seeing
+
+- Here's how I interpret it
+
+- What am I missing?
+
+- Here's what I think that means for us
+
+- What do you think?
+
+I'm reminded of a similar "leader-communication checklist" from Karl Weick's "Managerial Thought in the Context of Action" (which I first encountered in Gary Klein's "Sources of Power: How People Make Decisions"):
+
+- Here's what I think we face
+
+- Here's what I think we should do
+
+- Here's why
+
+- Here's what we should keep our eye on
+
+- Now, talk to me
+
+In both cases, there's a consistent emphasis on concision, transparency and curiosity. Be concise--make your points quickly and get out of the way. Be transparent--assume that people don't know your intentions or understand what you're seeing or how you're interpreting it, and fill in those gaps. And be curious--once you've framed the conversation, it's about getting other people's candid input, not about getting them to agree with you.
+
+Pam goes on to note that "Many leaders are reluctant to repeat themselves. Consequently, they say it once or twice, maybe at a team meeting or in an email, intending their message to stand for all time." But this approach runs up against the neural hard-wiring that Pam mentions at the outset. Instead, she counsels, "When you care about something, say it often. Even better, ask about it often."
+
+Rule 27: Adjust Your Approach
+
+"Lighten up on talking about 'your leadership style,'" Pam counsels, "and think more about what you could do that would be truly useful for your team members and colleagues." She continues:
+
+I've developed an easy model to help you remember three useful ways to be flexible to differences:
+
+- Appreciate: always look for value in the differences people bring to teamwork...
+
+- Adapt: sometimes adjust your behavior to help other people get what they need to be more productive...
+
+- Adopt: occasionally draw on less-used/less-comfortable behaviors so you can be more effective...
+
+Much of my work with MBA students at Stanford involves experiences that intentionally push them slightly out of their comfort zone in group settings. This process allows them to recognize three things: First, we all have default interpersonal settings, ways of interacting with others that feel most comfortable to us. Second, those default settings aren't fixed and in many cases can be easily adjusted with a little conscious effort (and honest feedback from others.) Finally, any new or modified behaviors we adopt with the intention of improving interactions with others needn't seem unnatural or inauthentic; we can readily internalize them and build them into our repertoire, thus expanding our comfort zone.
+
+This process comes to mind when reading Pam's advice about adjusting our leadership style to accommodate the needs of our team members, and I think it's particularly important for new leaders to be aware of their default behaviors and of their impact on others.
+
+Rule 35: Ferret Out Feedback
+
+Pam notes that new leaders "can't count on informal feedback, as many people fear annoying anyone in power. You may not even receive formal feedback, as review cycles are disrupted by job changes--including yours." So Pam suggest that it's your responsibility to "Forge your own feedback channels" through the following steps:
+
+- Ask: "What am I doing that's helping you accomplish X?" "When am I a roadblock to you and your team?" "How might I screw this up?" "What issues or people should I be giving more attention?" The higher up you are, the more you have to ask for it...
+
+- Initiate it yourself: Don't wait for an annual process to receive upward feedback. If you can't hire an executive coach, arrange for a trusted peer to interview your team and summarize key messages back up.
+
+- Respond tremendously well: Fastest way to kill your feedback channel: downplay the feedback, even slightly, verbally or non-verbally.
+
+- Make sure your team members are also getting feedback--from you and others across the organization... By showing your appetite for hearing feedback and using it well, you shift your company's culture from "pretending I know it all" toward "let's learn how to be more and more successful."
+
+The single most popular elective at the Stanford Graduate School of Business is Interpersonal Dynamics (known universally as Touchy Feely), a time-intensive and emotionally demanding course that's taken by over 80% of each graduating class at the GSB. Why do so many of our students take it, and why do so many alums--including me--call it the most valuable class we took in business school? Because of the rich feedback you get from 13 peers over 10 weeks of intense interactions--it's an incredibly valuable asset that makes the investment in the experience well worth the effort.  But to Pam's point, you're going to have to ask for, initiate, and respond well to feedback in order to enjoy its benefits in your new leadership role.
+
+Many thanks to Pam for such a concise, well-organized and readily accessible book that offers new leaders a great deal of valuable guidance and advice.
+
+
+===== END ED BOT ESSAY 3649 =====

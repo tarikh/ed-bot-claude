@@ -1,0 +1,154 @@
+===== BEGIN ED BOT ESSAY 3499 =====
+---
+title: T-Groups in India
+url: https://edbatista.com/2007/03/tgroups_india.html
+slug: tgroups_india
+published: 2007-03-23T00:27:49
+updated: 2026-10-07T20:04:52
+source_body: wordpress-html
+---
+
+My only exposure to T-groups has been in the United States, but I've participated in groups with members from France, Hong Kong, Israel and Japan, and the cross-cultural dimension makes the experience both more challenging and more rewarding.
+
+So I was excited to learn that there are several organizations that promote T-groups and other forms of "process work" in India:
+
+- The Aastha Foundation for Human Learning and Growth (Bangalore)
+
+- The Indian Society for Applied Behavioural Science (Multiple locations)
+
+- Sumedhas (Chennai)
+
+Many thanks to Gautam Ghosh for enlightening me (and for his kind words about my recent post.)
+
+That's India at night, framed by the pitch-black Arabian Sea and the Bay of Bengal, and the relatively dark regions of Myanmar/Burma, the Himalayas and Tibet, and Pakistan and Afghanistan. Photo by NASA via Wikimedia.
+
+
+===== END ED BOT ESSAY 3499 =====
+===== BEGIN ED BOT ESSAY 3500 =====
+---
+title: T-Groups, Feedback and Double-Loop Learning
+url: https://edbatista.com/2007/03/tgroups.html
+slug: tgroups
+published: 2007-03-20T00:54:36
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+How effective are your interactions with others?  What behaviors enhance your effectiveness, and what behaviors undermine your effectiveness?  How do people perceive you?  What behaviors positively affect the way you're perceived, and what behaviors make a negative impression on others?
+
+Getting answers to these questions is one reason why people participate in T-groups (the T is for "training"), an interpersonal development methodology developed by social psychologist Kurt Lewin.  I recently participated in a T-group as a facilitator, and the experience led me to think further about the underlying mechanisms at work.
+
+Using my post on Double-Loop Learning and Executive Coaching as a starting point, I've employed the same framework to take a look at the feedback process that occurs in T-groups.  (Click on each image below for a larger version.  And all of the graphics can be downloaded in a 5-slide PowerPoint file, 66 KB.)
+
+The first graphic below (here's a larger version) reflects what happens in most of our personal interactions, which can be described as single-loop experiences.  We carry with us a set of underlying assumptions about how we interact with others--for example, we believe that certain behaviors are effective and other behaviors are ineffective--and these assumptions form an implicit strategy that governs the behavioral choices we make in our interactions.  We may observe the success or failure of an interaction, learn from the results, and modify our behavior in some way, but we rarely challenge our most fundamental assumptions.
+
+In contrast, T-groups are an example of double-loop learning in action.  One of the primary activities in a T-group is giving and receiving candid feedback on the effectiveness (and ineffectiveness) of our behaviors.  Because of the trust that develops among T-group participants and the high value placed on candor, this feedback can be disconfirming and even difficult to hear.  It's so much more direct than the feedback we get from other sources that it changes our frame of reference when analyzing our interpersonal effectiveness.
+
+Rather than simply asking what we might have done differently to improve the outcome of an interaction, we begin to see that all our assumptions about what's effective and what's not limit the range of choices available to us and circumscribe how we interact with others.
+
+We start asking questions that challenge these assumptions--some of them turn out to be right, but others turn out to be wrong--and making that distinction allows us to expand our behavioral repertoire and select more effective strategies.  This additional step of identifying and challenging the implicit assumptions that predetermine our interpersonal style is what makes T-groups a "double-loop" experience.  (Here's a larger version of the graphic below.)
+
+To get more specific, let's look at my recent experience in a T-group.  As I note in the graphic below, feedback should be regarded as
+
+information that clarifies the costs and benefits of different
+
+behaviors, and we should change our behavior only if we decide that
+
+it's in our interest to do so, not simply in response to the feedback.
+
+But understanding the impact of our behaviors on others (and the
+
+resulting costs and benefits to us) can create a powerful motivation to
+
+look more closely at the assumptions that frame our behavioral choices.
+
+The feedback I received allowed me to identify a number of assumptions I was making that affect how I interact with others, including...
+
+- I communicate my emotions effectively.
+
+- Others appreciate my goal orientation and firm commitment.
+
+- I speak concisely and at appropriate intervals.
+
+I didn't assess these factors before interacting with others--I simply took them for granted, and as a consequence they were outside my frame of reference when it came to analyzing whether a certain interaction was effective (or not) and why.  (Here's a larger version of the graphic below.)
+
+The next step after identifying our assumptions is to ask questions that challenge them.  In my case, I began asking...
+
+- Am I holding back an emotion that should be expressed?
+
+- Am I putting a task ahead of someone's concerns or feelings?
+
+- Am I diluting my impact by using too many words or speaking too often?
+
+In each case, based on the feedback I was receiving, my answer was "Yes."  These conclusions allowed me to develop some alternative strategies that will expand my range of options when interacting with others.  (See the graphic below--here's a larger version.)  Because these strategies are based on more accurate assumptions about how my behavior impacts others, they're likely to lead to better results (and I'll have a clearer understanding of why a given interaction was effective or not.)
+
+Acknowledgements
+
+T-groups were first developed by Kurt Lewin, and my involvement with them has been through the Interpersonal Dynamics class at the Stanford Graduate School of Business.  For more information...
+
+- T-Groups, Trust, Leadership and Management
+
+- Kurt Lewin: Groups, Experiential Learning and Action Research
+
+My comments on feedback are based on the work of David Bradford and Allan Cohen.  For more information...
+
+- David Bradford and Allan Cohen on Supportive Confrontation
+
+- Bradford and Cohen's PowerUp
+
+The concept of double-loop learning was developed by Chris Argyris, and I’m indebted to Mark Smith’s explication at Informal Education.  For more information...
+
+- Chris Argyris, Double-Loop Learning and Meta-Work
+
+- Double-Loop Learning and Executive Coaching
+
+
+===== END ED BOT ESSAY 3500 =====
+===== BEGIN ED BOT ESSAY 3501 =====
+---
+title: Sage Cohen and Peter Drucker on Rapture and Excellence
+url: https://edbatista.com/2007/03/cohen_drucker.html
+slug: cohen_drucker
+published: 2007-03-18T10:37:52
+updated: 2025-10-12T12:56:32
+source_body: wordpress-html
+---
+
+Where do you focus your energy and attention? Do you struggle to overcome obstacles and tackle problems, or do you ignore them instead, go with what's working, and capitalize on that success?
+
+My friend Sage Cohen recently wrote about training herself to take the latter approach, and it reminded me of one of my favorite pieces of wisdom from Peter Drucker.
+
+First, from Sage's The Mind Whisperer:
+
+In the past, my pattern was to find the one or two things that weren't working in my life and focus obsessively on fixing them. This was a reasonably effective strategy for a time, because I'm a pretty good fixer. But then, thanks to [input from friends], I have stumbled upon a far more revolutionary approach, which is to not engage at all with what's not working; instead, live in rapture with what is working. And in case there's anyone out there who's not yet a believer, I'm here to report from the other side that rapture is a far more enjoyable experience than the have-not frame of mind. I don't know how or why this works, but I have lived through enough repetitions now to know that the not-working stuff simply unwrinkles itself in the background when I refuse to feed it with my upset.
+
+And from Drucker's Managing Oneself:
+
+[W]aste as little effort as possible on improving areas of low competence. Concentration should be on areas of high competence and high skill. It takes far more energy and work to improve from incompetence to mediocrity than it takes to improve from first-rate performance to excellence. And yet most people--especially most teachers and most organizations--concentrate on making an incompetent person into a low mediocrity. The energy and resources--and time--should go instead into making a competent person into a star performer.
+
+I'm struck by the parallel emphasis on harnessing energy and maximizing success by avoiding problems and building on strengths. I know that some obstacles must be overcome and some problems can't be ignored, but far too often  we hamstring ourselves by trying "to improve from incompetence to mediocrity" when instead we could "live in rapture with what is working."
+
+I link above to the reprint of Drucker's article, which is $10 from HBR, but for an additional $6 you can get his 1999 book Management Challenges for the 21st Century, which includes "Managing Oneself" in addition to five other essays on topics such as "Information Challenges" and "Knowledge-Worker Productivity."
+
+
+===== END ED BOT ESSAY 3501 =====
+===== BEGIN ED BOT ESSAY 3502 =====
+---
+title: Why You Drink
+url: https://edbatista.com/2007/03/why_you.html
+slug: why_you
+published: 2007-03-18T08:21:04
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+From Le Grand Content, a brilliant and baffling 4-minute animated film by Clemens Kogler and Karo Szmit:
+
+Le Grand Content examines the omnipresent Powerpoint-culture in search for its philosophical potential. Intersections and diagrams are assembled to form a grand 'association-chain-massacre'. which challenges itself to answer all questions of the universe and some more. Of course, it totally fails this assignment, but in its failure it still manages to produce some magical nuance and shades between the great topics death, cable tv, emotions and hamsters.
+
+There's an obvious association with Jessica Hagy's Indexed (she lists Le Grand Content's URL in her blog header), but I'm not sure who's the Chicken and who's the Egg.
+
+Thanks to Paul Hebert for turning me on to Indexed in the first place.
+
+
+===== END ED BOT ESSAY 3502 =====

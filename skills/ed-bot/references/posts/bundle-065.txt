@@ -1,0 +1,94 @@
+===== BEGIN ED BOT ESSAY 3346 =====
+---
+title: Bay Bridge
+url: https://edbatista.com/2006/01/bay_bridge.html
+slug: bay_bridge
+published: 2006-01-28T18:44:51
+updated: 2006-01-28T18:44:51
+source_body: wordpress-html
+---
+
+Cold, rainy, dark, perfect.
+
+
+===== END ED BOT ESSAY 3346 =====
+===== BEGIN ED BOT ESSAY 3347 =====
+---
+title: On Ombudsmen, Objectivity and Infotainment
+url: https://edbatista.com/2006/01/on_ombudsmen_ob.html
+slug: on_ombudsmen_ob
+published: 2006-01-28T08:01:00
+updated: 2006-01-28T08:01:00
+source_body: wordpress-html
+---
+
+I post on a sports bulletin board that often veers into other topics, and I wrote the following yesterday in a discussion about the relevance of ombudsmen (I saw Jeff Jarvis use the gender-neutral "ombudsers" recently, but since I think they're dinosaurs anyway, I'll stick with the traditional usage).  I seem to be covering similar ground a lot lately:
+
+1) Ombudsmen: They were (marginally) relevant when media was strictly a one-way, broadcast channel. The media told us the way it was, we listened obediently. But sometimes they screwed up. This happened very, very rarely, because the media were "objective," but they're human and occasionally made mistakes. But no one in the audience had a platform to talk back to the media directly, so ombudsmen were invented to play that role. They were toothless pariahs in their own organizations, disliked by both the publishing and editorial sides of the house, but having them around was a price you had to pay.
+
+Today the audience can and does speak back directly. We talk among ourselves on bulletin boards, we launch our own websites, we podcast, and when the media gatekeepers deign to let us in, we comment on their own sites. There's no way an ombudsman can claim to represent my views better than I can myself, and now that I have plenty of platforms through which I can speak back to the media, the ombudsman is a superflous relic. Get rid of them all, and compel all journalists to accept responsibility for communicating directly with their audience.
+
+2) "Objectivity": The media's pretense of "objectivity" that some people feel is being lost today was, at best, an illusion and, at worst, a shroud that masked more active agendas. Of course, we should strive to distance ourselves from preconceived ideas and emotions and seek to understand and address issues dispassionately. But we, all of us, still have those preconceived ideas and emotions, and we need to be transparent about them, rather than pretend they don't exist.
+
+I don't lament the loss of "objectivity," and I think we're more likely to get to the truth in a post-Internet world where the diversity of voices insures that every issue will be subject to the wisdom of crowds.  This is why Wikipedia works. No one of us can be completely objective or accurate, but if you get enough of us thinking and talking about an issue, an approximation of objective, accurate truth will emerge.
+
+Will unscrupulous individuals and organizations seek to promote their biased agendas in this wide-open intellectual marketplace? Of course. But free markets work so well because they distribute information so effectively, and the true "value" of any information will be ascertained more quickly the more free the market.
+
+3) Infotainment: The rise of infotainment and the supposed decline of more serious fare is a red herring. Hand-wringing over the tabloidization of broadcast news ignores the meteoric rise in serious exchanges being enabled by the Internet and the increasing intellectual complexity of every form of culture, from sitcoms to video games. In Everything Bad is Good for You, Steven Johnson makes a compelling argument that we're constantly getting smarter as a society and that many supposed examples of our decline are actually just the reverse: kids spend hours playing video games because they're learning incredibly complex sequences that allow them to continue playing; we flock to reality television because it taps into our wiring as social animals and challenges us to predict participants' reactions, etc.
+
+This isn't to say that the world's just fine and dandy. But Cassandras are a dime a dozen--it's a lot more interesting to me to figure out why so many things continue to improve despite all the challenges we face.
+
+tags: journalism ombudsmen infotainment james surowiecki wisdom of crowds steven johnson everything bad is good for you
+
+
+===== END ED BOT ESSAY 3347 =====
+===== BEGIN ED BOT ESSAY 3348 =====
+---
+title: Organizational Culture in the US Auto Industry
+url: https://edbatista.com/2006/01/organizational_-2.html
+slug: organizational_-2
+published: 2006-01-27T07:29:00
+updated: 2006-01-27T07:29:00
+source_body: wordpress-html
+---
+
+Hearing that GM and Ford are planning to cut 60,000 jobs over the next six years, my heart goes out to the families and manufacturing communities that will be affected. At the same time, I can't help but feel that this passage from Wednesday's Wall Street Journal op-ed by John Schnapp, who formerly led the auto industry practice at Mercer, rightly suggests that the entire American auto industry, from the boardrooms to the union halls, is to blame:
+
+[In the late 1970s, when Nissan opened the second Japanese-owned auto assembly plant in the U.S., they] chose to reject UAW overtures to unionize its new Smyrna, Tenn. plant... Nissan also adopted a number of important symbolic gestures. All employees, including top executives, wore identical work uniforms. Production workers were empowered to stop the assembly line if they perceived any problem affecting quality.  There were no reserved parking spaces nor was there an executive dining room. Smyrna quickly became the most productive auto plant in the U.S., with the highest level of objectively measured product quality, an eminence it continues to enjoy.
+
+Three separate UAW organizing efforts have all foundered at Smyrna. No later Asian auto maker plant unaffiliated with the Big Three has ever been organized either.
+
+Walter Reuther [president of the UAW from 1946 until his death in 1970] was an undoubted great man. However, the persistence in the contemporary UAW of his intractability, understandable though it may have been in his own time, ensures a continuation of the worst of all outcomes--a shrinkage of employers and the disappearance of jobs.
+
+Schnapp alludes to the U.S. auto industry's violent history (including 1937's "Battle of the Overpass," shown above), which insured that labor and management would regard each other with distrust at best and outright hatred at worst. No one ever figured out how to bridge that gap, and for decades it was simply accepted as part of the natural order. It was a less than desirable state of affairs, but acceptable as long as Americans were buying enough American cars.
+
+But that gap between U.S. labor and management is what allowed Japanese manufacturers to do things differently--and allowed them to demonstrate that an organizational culture that works to bridge, rather than reinforce, such a gap contributes to better results: more profitable companies, happier (and employed) workers, and most significantly, better cars.
+
+The Big Three have worked hard to improve quality and enliven their designs in recent years, and they've met with some success...but not enough. And this week's dramatic announcements are an explicit admission that in a predominantly healthy, growing economy, the U.S. auto industry is a dysfunctional relic of the past.
+
+Although I don't define myself as liberal or conservative today, I come from a liberal background and over the years have often supported union causes. Many, if not most, of my colleagues and friends will side with a union in any dispute with management.  But I've come to believe that the antagonistic stance between labor and management that we see in the U.S. auto industry (and throughout the public sector--witness the recent New York City transit workers' strike) is part of the problem and is a major barrier to creative solutions.
+
+I'm not suggesting that the Japanese model should be adopted wholesale--the promise of lifetime employment in exchange for total loyalty to the company hasn't worked out so well for them, and many of its elements are totally inappropriate for our much more heterogenous and independent society. But American labor and management need to recognize that they need to work in concert rather than in opposition to each other--and that an organization's culture will play a key role in creating that solidarity.
+
+I don't have much hope for the public sector. Those bureaucracies have a monopoly stranglehold on the services they provide, and they'll never face competitive pressure sufficient to induce change.  But the private sector is a different story, and I am hopeful that the Big Three and the UAW will work together to save their industry from the ash heap of history.
+
+
+===== END ED BOT ESSAY 3348 =====
+===== BEGIN ED BOT ESSAY 3349 =====
+---
+title: Unmarketing: SteelerBaby Speaks!
+url: https://edbatista.com/2006/01/unmarketing_ste_1.html
+slug: unmarketing_ste_1
+published: 2006-01-26T12:11:29
+updated: 2006-01-26T12:11:29
+source_body: wordpress-html
+---
+
+SteelerBaby speaks!  I'm honored.  And a little frightened.
+
+ 
+
+tags: unmarketing steelerbaby
+
+
+===== END ED BOT ESSAY 3349 =====

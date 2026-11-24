@@ -1,0 +1,108 @@
+===== BEGIN ED BOT ESSAY 3432 =====
+---
+title: Grant McCracken: Brainstorming CAN Work
+url: https://edbatista.com/2006/06/grant_mccracken.html
+slug: grant_mccracken
+published: 2006-06-13T15:24:00
+updated: 2006-06-13T15:24:00
+source_body: wordpress-html
+---
+
+Grant McCracken has an outstanding critique of Jared Sandberg's "Cubicle Culture" column in today's Wall Street Journal.  (No link to the article yet, but here's Sandberg's archive--it should be up soon.)
+
+Sandberg derides brainstorming sessions as useless exercises in "blamestorming" or "coblabberation."  I usually enjoy his columns, but he's badly off base here--Grant concisely lists eight errors in Sandberg's thinking and sets him straight.  From Grant's conclusion:
+
+It is hard to imagine that an institution as smart at the WSJ should be capable of generating so many stupidities about brainstorming.  And this at a time when the corporation is having to flourish in an innovation economy where creativity is the new name of the game. 
+
+But I guess this tells us that the corporate culture has yet to absorb the most important lessons here.  What did Gibson say...that the future is here, it's just badly distributed.
+
+Update: Johnnie Moore weighs in with a thoughtful critique of both perspectives:
+
+Some brainstorms have been satisfying to me, others haven't. Sometimes they generate a pile of post it notes that no-one wants to do anything with, sometimes they generate new ways of thinking. I think sometimes people go away on their own, and have some bright actionable idea partly inspired by the group. Sometimes they come up with something out of pique because they found the group frustrating. Sometimes, not much obvious happens at all. As a fan of complexity, I'd also suggest that it's not always easy to know if they "work" or not.
+
+I think sometimes the fast-pace implicit in the "storming" part of the title is a refreshing change for participants, sometimes it leads to overstimulation and a shortage of reflection. I think between Grant and the WSJ we can see both the up and downsides.
+
+Personally, I like methods that allow us people a flexibility to work at different paces and using different ways of interacting. I tend not to use the word "brainstorming" as for me it's too suggestive of a relentless fast-pace. With more time for reflection, people sometimes generate ideas that are somewhere in the fascinating gaps between one point of view and another. And I like rules-of-thumb more than absolute instructions for how we might all choose to play together.
+
+tags: brainstorming grant+mccracken jared+sandberg cubicle+culture johnnie+moore
+
+
+===== END ED BOT ESSAY 3432 =====
+===== BEGIN ED BOT ESSAY 3433 =====
+---
+title: Al Swearengen on Perseverance
+url: https://edbatista.com/2006/06/al_swearengen_o.html
+slug: al_swearengen_o
+published: 2006-06-12T15:35:27
+updated: 2026-10-27T21:48:02
+source_body: wordpress-html
+---
+
+Wisdom is where you find it, and HBO's Deadwood is a continually surprising source of inspiration. In Episode 19, written by Jody Worth, Al Swearengen (masterfully portrayed, as always, by Ian McShane) gives a tough-love pep talk to Merrick, the local newspaperman whose office has been vandalized and printing press destroyed. Merrick is distraught and wants to abandon the entire enterprise, but Swearengen filters an almost Buddhist acceptance of life-as-suffering through an ornery refusal to give up:
+
+Pain or damage don't end the world, or despair, or fucking beatings. The world ends when you're dead. Until then, you got more punishment in store. Stand it like a man, and give some back.
+
+So much of the advice we receive promises to solve our problems, but I'm hard-pressed to think of a really important problem I've faced that has been fundamentally solved, never to return. Far more valuable than any proposed solutions are the life experiences that have (slowly, and with great difficulty) prepared me to face an unending series of problems with equanimity, patience, compassion--and the determination to cause a few problems of my own when necessary. I'm hardly at Al's level of enlightenment, but I'm working on it.
+
+
+===== END ED BOT ESSAY 3433 =====
+===== BEGIN ED BOT ESSAY 3434 =====
+---
+title: Feed-Cleaning: One More Thought
+url: https://edbatista.com/2006/06/feedcleaning_on.html
+slug: feedcleaning_on
+published: 2006-06-11T10:49:58
+updated: 2006-06-11T10:49:58
+source_body: wordpress-html
+---
+
+How do I feel when I see new items queued up in my reader from a subscribed feed: A) "Great! Another post from [so-and-so]." Or B) "Sigh. Another post from [so-and-so]."
+
+I just realized that even after re-organizing and culling my feeds substantially, there are still a few underperformers that I'm hanging onto out of a sense of...obligation to keep up? hope that they'll return to form? fear of missing something?
+
+That's no way to run a blogroll.
+
+tags: feeds rss
+
+
+===== END ED BOT ESSAY 3434 =====
+===== BEGIN ED BOT ESSAY 3435 =====
+---
+title: Purpose Driven Change Management, or Fighting the Forces of Hell
+url: https://edbatista.com/2006/09/purpose_driven_.html
+slug: purpose_driven_
+published: 2006-09-06T00:33:24
+updated: 2025-09-24T11:59:46
+source_body: wordpress-html
+---
+
+When most of us try to initiate change in an organization, we rarely find ourselves facing the forces of hell. Not so the Revs. Roddy Clyde and Glen Sartain of Church Transitions, a North Carolina organization that works closely with Rev. Rick Warren, author of the best-selling "The Purpose Driven Life" and pastor of the Saddleback Church in Lake Forest, CA.
+
+Whatever you think of Warren's pop spirituality, his efforts to change the culture and practices of contemporary evangelical churches have been hugely influential over the past 20 years. According to a front-page article by Suzanne Sataline in yesterday's Wall Street Journal, Warren has sold 25 million copies of "Purpose Driven," some 20,000 worshippers attend services at Saddleback each weekend, and he claims to have trained 400,000 pastors around the world through his church and nonprofit organizations.
+
+This is where the Revs. Clyde and Sartain come in--you might call them "church management consultants" who work with local church leaders to implement Warren's practices. Sataline quotes them as advising the audience at a seminar that "the transition will be rough," and "to trust very few people with their plans" because...
+
+"All the forces of hell are going to come at you when you wake up that church," said Mr. Sartain...
+
+And you thought your job was tough.
+
+But the spread of Warren's methods is causing a backlash among some churchgoers who resent the prominence of contemporary interpersonal issues in sermons, the short shrift given to traditional themes of sin and salvation, changes in church music and attire, and a strong emphasis on "Madison Avenue" marketing techniques to increase attendance. Some churches that have tried to become more "purpose-driven" have found themselves torn apart in the process, with Warren advocates and opponents struggling for control of their local institution.
+
+Spiritually speaking, I'm pretty middle-of-the-road. I'm not a churchgoer, but I'm respectful of religous practice; I was a confirmed existentialist as a kid, but I've become a hopeful believer in a vaguely Deist sense; and I regularly turn to the writings of Pema Chödrön, a Buddhist nun, for comfort. So I don't really have a dog in the fight over Warren and his philosophy.
+
+But from a professional perspective, I'm interested in several underlying aspects of this story:
+
+- How'd We Get Here? The mere existence of an anti-Warren backlash begs the question of how he's been so successful at spreading his philosophy in the first place. (I'll focus on earthly factors for the purpose of this post.) Weak competition in the form of stuffy mainline Protestant denominations, and an ecumenical approach to issues of Biblical doctrine surely paved the way, but they're not really meaningful issues in most other industries. However, I'd argue that we should all be looking at Warren's emphasis on congregants' needs as individuals (and as consumers, and as an audience) in order to create a sense of enthusiastic fellowship, and on his loosely-networked organizing structure that provides pastors with a shared set of values and tools without bogging them down in a centralized, hierarchical bureaucracy. It's really a very Cluetrain approach to meeting peoples' needs and a World of Ends approach to managing a network--perhaps Warren is a big Doc Searls and David Weinberger fan. (I'm not joking--the guy's very net-savvy.)
+
+- What Do We Really Mean By "Marketing" These Days? Sataline's WSJ article quotes traditional churchgoers who find Warren's "Madison Avenue" tactics aimed at increasing church attendance unseemly, and that resonates with our shared assumptions about "marketing"--namely, it's a passel of lies--and for that reason alone churches really shouldn't have anything to do with it. But even marketers don't believe in "marketing" anymore. Just ask Seth Godin. Or Tara Hunt. Contemporary marketing isn't about convincing people to buy what you've already built and are compelled to sell; it's about engaging them in a dialogue, listening to their needs and responding accordingly. In that sense, Warren's not a conventional "Madison Avenue" marketer at all--as noted above, he's a lot more consumer-friendly. (Of course, from the perspective of traditional churchgoers, who do believe that a church's role is to convince people to buy [or rather, accept] something that's already been built [so to speak], perhaps that's the root of the problem.) I'm not sure that Sataline and her interviewees fully appreciate the differences between the old and new methods of marketing, but I'd bet that Warren does.
+
+- Change Isn't Easy. Change management is often thought of as a "soft" discipline, focused on making people comfortable and insuring smooth transitions. Well, not according to the Revs. Clyde and Sartain. Maybe it just comes with the territory when you're fighting the forces of hell, but these guys are definitely not soft. According to Sataline's article:
+
+During a [seminar] session titled "Dealing with Opposition," Mr. Clyde recommended that the pastor speak to critical members, then help them leave if they don't stop objecting. Then when those congregants join a new church, Mr. Clyde instructed, pastors should call their new minister and suggest that the congregants be barred from any leadership role.
+
+"There are moments when you've got to play hardball," said the Rev. Dan Southerland, Church Transitions' president, in an interview. "You cannot transition a church...and placate every whiny Christian along the way."
+
+Put that in your pipe and smoke it, you whiny Christians. I'd have to think long and hard before recommending similar tactics to a client who was considering a change initiative that was likely to meet resistance--and I'm left wondering if such tactics are at the root of the anti-Warren backlash Sataline describes--but it's interesting to know that they've been used successfully in at least some cases.
+
+
+===== END ED BOT ESSAY 3435 =====

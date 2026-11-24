@@ -1,0 +1,95 @@
+===== BEGIN ED BOT ESSAY 3169 =====
+---
+title: Search Me Redux
+url: https://edbatista.com/2005/02/search_me_redux.html
+slug: search_me_redux
+published: 2005-02-24T17:20:16
+updated: 2005-02-24T17:20:16
+source_body: wordpress-html
+---
+
+Why can't I find a (free) site search tool that works?  The Technorati searchlet that I installed recently on my day blog isn't working any more--it only searches the entire web and ignores instructions to search just my site.  Not helpful.  So I've put the Google search box back (TypePad makes it easy.)  But it's an imperfect solution at best.  It's not updated all that often (at least for a little ol' site like mine), so it excludes terms from recent posts.  And it includes terms from my sidebars, so you get a lot of false positives when searching for someone in my blogroll, for example.  PicoSearch had its own problems, so at this point I'm out of ideas.
+
+
+===== END ED BOT ESSAY 3169 =====
+===== BEGIN ED BOT ESSAY 3170 =====
+---
+title: Open Source Marketing
+url: https://edbatista.com/2005/02/open_source_mar.html
+slug: open_source_mar
+published: 2005-02-24T15:35:31
+updated: 2005-02-24T15:35:31
+source_body: wordpress-html
+---
+
+More good stuff on marketing from the folks at Change This that raises some challenging questions--and presents some tremendous opportunities--for nonprofits and advocacy groups.  James Cherkoff of Collaborative Marketing believes that marketers should be taking lessons from the Open Source movement.  He writes:
+
+BACK TO THE SOURCE
+Consumers are no longer happy to sit back and be fed a brand and its values. They want to interact with the ʻbrand sourceʼ in the same way that Linux programmers want to get their hands on the programming source code. That means giving consumers access to the brand and inviting them to co-create. Open Source marketers understand this and make it easy for customers to get involved with a brand and affect its direction, maybe even its values.
+
+In a nonprofit context, this means creating opportunities for donors, advocates, volunteers, and clients to help define the organization's identity.  Rather than keeping these stakeholders at bay and managing their interactions with your organization, invite them inside to understand how they perceive you and what they'd do differently.  Cherkoff continues:
+
+ARE YOU LISTENING TO ME?
+The voice of the mass markets was a LOUD and BOOMING monologue. It didnʼt leave a lot of time to listen to anyone. Open Source communities are all about conversation and dialogue. Open Source Marketing means listening really closely to the rumours and whispers that bring the new marketplace alive.
+
+As nonprofits move their fundraising and advocacy efforts online, conversations like this become much easier to establish and maintain.  Email groups and online surveys are useful, of course, but look to more casual forums like blog comments to get all-important quick-and-dirty feedback.  (Uh, you are blogging, right?)  One last bit from Cherkoff:
+
+GET REAL
+Authenticity is one of the most valuable currencies in the transparent marketplace. So human, friendly voices (like Robert Scoble) are particularly effective. Corporate speak and PR flack is just ignored. And itʼs no good just pretending. YOU WILL GET RUMBLED. This can be a difficult leap of faith for companies who have used their brands like shields, to keep the world at bay.
+
+Nonprofits and other advocacy groups should really shine here.  At their best, they live and breathe authenticity, and they have a high degree of credibility with their stakeholders.  Nonprofits usually can't afford glitzy, high-gloss campaigns, anyway--now there's one more reason to keep it simple and straightforward.
+
+
+===== END ED BOT ESSAY 3170 =====
+===== BEGIN ED BOT ESSAY 3171 =====
+---
+title: Let's Get Small
+url: https://edbatista.com/2005/02/lets_get_small.html
+slug: lets_get_small
+published: 2005-02-24T15:01:59
+updated: 2005-02-24T15:01:59
+source_body: wordpress-html
+---
+
+Chris Houchens of Shotgun Concepts challenges you to rethink your marketing strategy in a pithy Change This manifesto:
+
+Your marketing works not by telling everyone that your product is great. Your marketing works when you have one person believe that your product is great. This is hard to do and it certainly wonʼt get done with a national TV buy.
+
+Luckily, some people have caught onto this truth. Instead of BROADcasting to consumers, they are NARROWcasting. Firms now exist to create word-of-mouth for your company just by using your product on the streets. Online marketing can now zero in on specific online users. Direct mail companies can tell you more than you want to know about the people not just living in a certain zip code, but individual streets in that zip code. And on it goes.
+
+As Steve Martin once said, “Letʼs all get SMALL.” Stop thinking big and think about your customers on a one-on-one basis. When you think of companies that you personally buy from, itʼs not the huge mega companies that treat you like a number that you are impressed with. Itʼs the small shops that know your name and treat you like a valued customer. In the end, thatʼs what makes marketing work. You have to think about your customers as people and not as costs per impression on an ad spreadsheet.
+
+Donʼt get me wrong. Itʼs more work to do it this way. But, itʼs so much more effective.
+
+I love this approach, but a challenge in my line of work is getting nonprofits and advocacy groups to adopt it.  Cost-effective, user-friendly CRM tools now make it possible for .orgs to take the same approach, but in my experience very few do.
+
+Many .orgs are allergic to the idea of "marketing," and they don't think of donors and advocates as "customers."  They underestimate the importance of the user experience and they fail to treat their donors and advocates as well as they could, given the tools now at their disposal.
+
+You can probably think of a small company that does a great job of treating you well and making you feel special (read: they're smart marketers), and you probably recommend them to your friends.  Can you think of a nonprofit you contribute to that does the same?
+
+
+===== END ED BOT ESSAY 3171 =====
+===== BEGIN ED BOT ESSAY 3172 =====
+---
+title: Abandoning "Complaint-Based Activism"
+url: https://edbatista.com/2005/02/abandoning_comp.html
+slug: abandoning_comp
+published: 2005-02-24T13:58:53
+updated: 2005-02-24T13:58:53
+source_body: wordpress-html
+---
+
+Michael Shellenberger is an unconventional political strategist and advocate whose work poses a fundamental challenge to progressives' traditional "complaint-based activism."  (A delightfully apt phrase.)  Co-founder of the New Apollo Alliance, a "coalition within the labor, environmental, business, urban, and faith communities in support of good jobs and energy independence," and founder of the Breakthrough Institute, a progressive advocacy shop/think tank, Shellenberger was recently interviewed by Marc Polonsky of The Sun on Why Liberals Need to Abandon Complaint-Based Activism (sorry, PDF only):
+
+[Shellenberger] came to the conclusion that "complaint-based activism" was ultimately ineffective, and that single-issue progressive organizations and social movements had, in many cases, become special interests...
+
+[Despite achieving tactical success in an earlier anti-sweatshop campaign that targeted Nike, Shellenberger now says,]..."All we had was a set of complaints and demands.  We didn't have a positive vision for the future of the industry that would help Nike become a force for good in the world.  The Nike campaign taught me the limits of protest politics...
+
+[In discussions that led to the formation of the New Apollo Alliance, Shellenberger asked]..."What if we started looking at the car companies and the United Auto Workers not as opponents, but as potential allies?  What would it be like if we made an alliance among businesses, unions, and environmentalists for a grand plan to end our dependence on oil and create millions of new jobs?"
+
+I'm quite sure that Shellenberger and I would have plenty of political differences.  (According to Polonsky's article, another Shellenberger venture has provided consulting services to Hugo Chavez, the Venezelan leader who's either a populist hero or a neo-totalitarian, depending on your worldview.)  But I strongly support his vision of moving beyond the Us vs. Them paradigm and finding common ground among groups that have historically worked at cross purposes.
+
+Hat tip to the indefatigable Michael Gilbert.
+
+
+===== END ED BOT ESSAY 3172 =====

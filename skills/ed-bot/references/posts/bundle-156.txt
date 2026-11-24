@@ -1,0 +1,149 @@
+===== BEGIN ED BOT ESSAY 3734 =====
+---
+title: Marcus Aurelius, 3,000 Years and the Present Moment
+url: https://edbatista.com/2012/08/marcus-aurelius.html
+slug: marcus-aurelius
+published: 2012-08-21T23:00:08
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+Today I talked with a client about mortality and how we reflexively seek to protect ourselves from the dread and fear evoked by death. I talked with another client about how focusing on the immediate present--being "in the moment"--is helping him navigate a profound personal and professional transition. And tonight, reflecting on these conversations, I was reminded of a passage from Marcus Aurelius that I find both bracing and comforting:
+
+Even were you to live three thousand years or thrice ten thousand, remember that no one loses any other life than this which he is living, nor lives any other than this which he is losing. Thus the longest and the shortest come to the same thing. For the present is equal for all, and what is passing is therefore equal: thus what is being lost is proved to be barely a moment. For a man could lose neither past nor future; how can one rob him of what he has not got? Always remember, then, these two things: one, that all things from everlasting are of the same kind, and are in rotation; and it matters nothing whether it be for a hundred years or for two hundred years or for an infinite time that a man shall behold the same spectacle; the other, that the longest-lived and the soonest to die have an equal loss; for it is the present alone of which either will be deprived, since (as we saw) this is all he has, and a man does not lose what he has not got. [1]
+
+I had been thinking along these lines well before the conversations with my clients today. I just turned 45, and while I'm physically active I feel the limitations of age, and I can't do everything I want to do. More seriously, Amy recently had a health issue that turned out to be manageable through medication but which gave us a scare until it was diagnosed. So I've been wrestling with my own perspective on mortality, and my own feelings of dread and fear.
+
+In the "unpublished jottings" that close Christopher Hitchens' posthumous book Mortality he includes this brief note: "Larkin good on fear in 'Aubade,' with implied reproof to Hume and Lucretius for their stoicism. Fair enough in one way: atheists ought not to be offering consolation either." [2] Hitchens, who wrote these lines while dying of cancer, is referring to Philip Larkin's haunting poem from 1977, which he had begun and set aside three years earlier, returning to it only upon the death of his mother. The short verse includes the following stanza:
+
+This is a special way of being afraid
+No trick dispels. Religion used to try,
+That vast moth-eaten musical brocade
+Created to pretend we never die,
+And specious stuff that says No rational being
+Can fear a thing it will not feel, not seeing
+That this is what we fear—no sight, no sound,
+No touch or taste or smell, nothing to think with,
+Nothing to love or link with,
+The anaesthetic from which none come round. [3]
+
+Hitchens and Larkin take issue with stoicism and its seemingly inhuman implication that our fear of death is so foolish and irrational that it should be easily surmounted. I haven't read Hume or Lucretius, so I can't characterize their perspective, but I don't think that's an accurate description of Aurelius' view. In the introduction to the Oxford edition of the Meditations, classics scholar R. B. Rutherford emphasizes that "Marcus was writing for himself, and seems to have had no thought of making his reflections available to a wider audience in his own lifetime or thereafter... At the end of the day, the emperor would record a few reflections and admonish himself to observe certain precepts and ethical rules which he might have neglected in the course of the day." [4] Aurelius wasn't rebuking us for our irrational fear of death; he was encouraging himself to be brave.
+
+At times like this I find the above passage from the Meditations comforting because I accept Aurelius' assertion that "the longest-lived and the soonest to die have an equal loss." I may well live another 45 years, and I may die tomorrow, and in both cases I'll lose the exact same thing: the present moment. And I find this passage equally bracing because, having accepted this assertion, I have to acknowledge that the present moment, this moment, is all I truly have. I can I can sit back and let it pass by, as I so often do, or I can step forward and do something meaningful with it.
+
+ 
+
+Footnotes
+
+[1] Meditations, Book II, Chapter 14 (Marcus Aurelius)
+
+[2] Mortality, page 92 (Christopher Hitchens, 2012)
+
+[3] "Aubade" (Philip Larkin, 1977)
+
+[4] Meditations, pages ix-x.
+
+Photo by Martin Fisch.
+
+
+===== END ED BOT ESSAY 3734 =====
+===== BEGIN ED BOT ESSAY 3735 =====
+---
+title: On Zynga and Greater Fools
+url: https://edbatista.com/2012/08/on-zynga-and-greater-fools.html
+slug: on-zynga-and-greater-fools
+published: 2012-08-19T13:52:52
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+From James Temple in today's San Francisco Chronicle:
+
+In early April, Zynga Chief Executive Officer Mark Pincus dumped 15 percent of his shares for about $198 million, in an unusual secondary stock offering that came almost two months before the official selling lockup for insiders ended. It turned out to be spectacular timing--at least for Pincus and other executives and early investors. They unloaded big portions of their holdings for $12 per share. By the end of July, after the social gaming company whiffed on second-quarter analyst expectations and sliced forecasts for the year roughly in half, the stock had dipped below $3...
+
+Rank-and-file Zynga employees also feel they've missed out on riches. On the question-and-answer site Quora, anonymous users who said they were Zynga workers vented their frustrations over working long hours for years only to wind up with restricted stock that tumbled in value before their lock-up period ended.
+
+"I worked 100 hour weeks," one wrote. "Week, after week, after week. I hated the management. I hated the culture, but we all knew the IPO was right around the corner, and once it came, as long as the s----- [sic] organization could keep it together for the lockout period, I'd have made bank, and in some way, that would have made my three and something miserable years there worth it."
+
+As someone who's lived and worked in San Francisco for over two decades--including nearly six years as a Leadership Coach at Stanford's Graduate School of Business--I certainly know people who've spent untold hours at jobs they don't particularly enjoy in the hopes of realizing a big payday from an IPO or acquisition. That's not a choice I'd make, and it's not a life I'd want to live, but I realize that people may make that choice for any number of reasons, and I empathize with those who've followed that path only to find their hopes dashed.
+
+But in some cases employees seem to be praying that they make it into the castle with early investors before the drawbridge is pulled up--while counting on acquirers or public investors to be the greater fools. Temple notes that shareholders have sued Zynga, claiming that the secondary offering constitutes insider trading and citing the "colossal losses" experienced by both non-executive employees and other public shareholders.
+
+I'm appalled (although, sadly, not surprised) by the actions taken by Zynga's executives and early investors, but I can't quite bring myself to see all of the employees as victims here. At least some of them hated management, hated the culture, thought it was a shitty organization and were just hanging on until the IPO, when public investors--who knew even less about the company than the employees did--would unknowingly take the fall for everyone else. (You didn't even need to be an employee to have a dim view of the company: over the past year or so several of my MBA students at Stanford mentioned what they perceived as an unhealthy working environment at Zynga.)
+
+I'm not suggesting that Zynga employees were seeking to mislead public investors, but I'm less empathetic than I might be otherwise. As Joseph Sternberg wrote just last week in the Wall Street Journal, "The [greater-fool theory of investing] is more than a little dangerous, and plenty of people have lost a lot of money when they discovered they were the fool at the end of the chain."
+
+Photo © Paul Sakuma, Associated Press.
+
+
+===== END ED BOT ESSAY 3735 =====
+===== BEGIN ED BOT ESSAY 3736 =====
+---
+title: Management as a Liberal Art at Stanford
+url: https://edbatista.com/2012/07/management-as-a-liberal-art-at-stanford.html
+slug: management-as-a-liberal-art-at-stanford
+published: 2012-07-10T11:30:51
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+In Peter Drucker's 2003 book The New Realities, Chapter 15 is titled "Management as Social Function and Liberal Art." Joe Maciariello of the Drucker Institute cites this passage:
+
+Management is what tradition used to call a liberal art: ‘liberal’ because it deals with the fundamentals of knowledge, self-knowledge, wisdom, and leadership; ‘art’ because it deals with practice and application. Managers draw upon all of the knowledge and insights of the humanities and social sciences on psychology and philosophy, on economics and history, on the physical sciences and ethics. But they have to focus this knowledge on effectiveness and results.
+
+Tom Peters (who I respect a great deal) and I have been arguing on Twitter about the extent to which what we're doing today at the Stanford Graduate School of Business (GSB) lives up to that ideal. Drucker may have had profound doubts about management education--as I've noted before, Peters once read an interview with Drucker in the Australian Institute of Management's journal in which the latter was quoted as saying, "The purpose of professional schools is to educate competent mediocrities." So my purpose here isn't to defend all B-schools against that charge but merely to consider whether the GSB's curriculum rises to Drucker's standard of a "liberal art."
+
+We can debate the relevance of certain components of the GSB's curriculum, but let's stipulate that the school satisfies Drucker's "knowledge" criteria. How are we doing on self-knowledge, leadership and wisdom?
+
+Self-Knowledge: The GSB's most popular elective is our Interpersonal Dynamics course, aka Touchy Feely, which we teach to 360 students every year. (There are fewer than 400 students in each graduating class at the GSB.) I took the course as a student in 1999 and have facilitated groups in the course 10 times since 2007. The course's primary focus is learning how to interact with others more effectively, a process that involves an extensive amount of personal reflection and heightened self-awareness, and there are many other courses at the GSB that push our students to understand themselves better.
+
+Leadership: Every incoming class at the GSB takes our Leadership Labs course in their first academic quarter. I was involved in helping to launch the Labs in 2007 and have been closely involved with their planning and delivery for the past six years. The course involves putting students through a series of small-group exercises in which they share rotating leadership of the group experience, under the guidance of a trained second-year student, one of 66 select Leadership Fellows. There's an extensive list of elective courses in which students can study leadership in greater depth, of course, but right from the start the GSB emphasizes that leadership matters, that leaders are made--not born, and, in the spirit of Bill George, we learn about leadership by learning about ourselves.
+
+Wisdom: So how do we help students transform the building blocks of raw knowledge into meaningful wisdom? Perhaps most effectively by getting out of their way. The GSB gives students a great deal of freedom to experiment and chart their own path. After fulfilling the core curriculum requirements in the first year, students are free to select the courses that matter most to them, and more than half of courses taken by every student are electives. Students at the GSB don't select a major in a specific field of management; once they're finished with the core, they simply pursue their interests. We can debate the merits of having a core curriculum at all, but my sense is that we provide more flexibility than most MBA programs. And as I've written before, B-school will help you get from Point B to Point Z, but finding Point A is up to you.
+
+Is there more the GSB can do in every one of these areas? Yes, of course.
+
+Could the GSB learn from innovative programs like Stanford's own Institute of Design, aka the d.school? Without a doubt.
+
+Do I have serious criticisms of the GSB as an alumnus and as a staff member? No question.
+
+But when Peters says it's "laughable" to call the GSB's approach to management education a liberal art, I take that as a personal challenge. You won't find an executive coach or experiential educator who's more dedicated to Drucker's conception of management or to the value of the liberal arts in general. (Hopefully two years in art school and a history degree from Brown give me some credibility on the subject.) I deeply want the GSB to live up to that standard, I truly believe that it can, and as long as I'm a Leadership Coach there I'll do everything in my ability to support that goal.
+
+Thanks to Wally Bock for referring me to the original source of the Drucker quote.
+
+Photo courtesy of Alliance Roofing.
+
+
+===== END ED BOT ESSAY 3736 =====
+===== BEGIN ED BOT ESSAY 3737 =====
+---
+title: I Love Myself (Self-Coaching and Acceptance)
+url: https://edbatista.com/2012/07/i-love-myself-self-coaching-and-acceptance.html
+slug: i-love-myself-self-coaching-and-acceptance
+published: 2012-07-06T00:06:49
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+I love myself.
+
+Three words that couldn't be simpler to understand and more difficult to express. An MBA student at Stanford said this in a small group in our Interpersonal Dynamics class a few years ago, and hearing him say this had a profound impact on the rest of us.
+
+He didn't say this in a self-aggrandizing or boastful way, nor was he comparing himself to anyone else. And he certainly wasn't saying that he was perfect or no longer needed to grow and change. He was merely saying, in the most straightforward way possible, that he deeply appreciated his good qualities, he forgave himself for his shortcomings, and even while he aspired to improve he also fundamentally accepted himself.
+
+The ability to accept ourselves, to feel compassion for ourselves, to love ourselves is ultimately one of the most important skills to cultivate in self-coaching. The decision to seek coaching, whether from a personal coach or in a structured self-coaching process, grows out of a desire for change. We want something to be different, and while we may initially be focused on some external aspect of our lives, we typically come to realize that meaningful change will require us to change as well.
+
+An inability to accept the need to change ourselves severely limits our ability to change our experience in the world. And yet at the same time, an inability to accept and love ourselves--right now, as we are, with all our flaws and foibles intact--condemns us to an endless cycle of dissatisfaction. The most profound coaching imaginable can't overcome this obstacle; we need to validate ourselves.
+
+But the paradox is that those of us who are most open to change and theoretically capable of self-coaching may eventually struggle with the process because we find it so difficult to love and accept ourselves. We're quick to find fault with ourselves, eager to identify opportunities for growth, and ready to change--but we can't stop, and the process goes on and on. We're never done.
+
+By emphasizing the need to validate ourselves, I'm not suggesting that the self is the only source of validation. Any number of external factors contribute to this desired outcome, from healthy relationships to sufficient social status and material rewards, and in their absence the work of accepting ourselves will be more difficult.
+
+But it's important to recognize that no amount of external validation will ever be enough until we're able to accept and love ourselves. No amount of love and care from others, recognition or status, accomplishments or money will ever suffice on their own. They may serve as useful building blocks in the process, but self-acceptance is the mortar that binds them all together and holds the others in place when one of them is diminished or lost.
+
+For Further Reading: I highly recommend the work of Kristin Neff on self-compassion.
+
+Photo by Gideon Tsang.
+
+
+===== END ED BOT ESSAY 3737 =====

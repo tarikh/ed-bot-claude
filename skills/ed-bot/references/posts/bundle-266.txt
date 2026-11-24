@@ -1,0 +1,404 @@
+===== BEGIN ED BOT ESSAY 4175 =====
+---
+title: Connect, Reflect, Direct...Then Ask (On Coaching)
+url: https://edbatista.com/2023/04/connect-reflect-direct-then-ask-on-coaching.html
+slug: connect-reflect-direct-then-ask-on-coaching
+published: 2023-04-25T06:37:21
+updated: 2025-10-05T16:31:03
+source_body: wordpress-html
+---
+
+Coaching is a way of being with others that's accessible to everyone and is by no means the exclusive purview of professional coaches. And while there are limits on the extent to which you as a leader can coach an employee [1], coaching is an approach that lends itself well to many managerial relationships, particularly between senior executives. [2]
+
+I've written before about coaching as part of your leadership toolkit, most notably in "How Great Coaches Ask, Listen and Empathize," first published by Harvard Business Review in 2015. As the title indicates, I believe these three skills are central to the coaching process:
+
+Coaching begins by creating space to be filled by the employee, and typically you start this process by asking an open-ended question. After some initial small talk with my clients and students, I usually signal the beginning of our coaching conversation by asking, "So, where would you like to start?" The key is to establish receptivity to whatever the other person needs to discuss, and to avoid presumptions that unnecessarily limit the conversation...
+
+It's important to understand the difference between hearing and listening. Hearing is a cognitive process that happens internally--we absorb sound, interpret it, and understand it. But listening is a whole-body process that happens between two people that makes the other person truly feel heard...
+
+Empathy is the ability not only to comprehend another person's point of view, but also to vicariously experience their emotions. Without empathy other people remain alien and opaque to us. When present it establishes the interpersonal connection that makes coaching possible. [3]
+
+Asking evocative questions, ensuring the other person feels heard, and actively conveying empathy remain the foundations of coaching. But there's certainly more to the process, and here's a sequence of steps that I employ frequently in sessions with clients that you may find useful if you're seeking to integrate coaching into your managerial style:
+
+- Connect: Establish and renew the interpersonal connection, followed by an open-ended question.
+
+- Reflect: Having elicited a response, reflect back the essence of the other person's comments.
+
+- Direct: Focus their attention on a particular aspect of their response that invites further exploration.
+
+- Then Ask: Pose a question that builds upon, integrates or challenges what's been said so far.
+
+Throughout this sequence it's essential to listen and respond in such a way that the other person feels heard and empathized with, but note that the emphasis is on their responses and not your questions. There are more and less useful ways of asking questions--see below--but when you're experimenting with a coaching approach you may put pressure on yourself to ask a "powerful question," and that's often counter-productive.
+
+Below I provide further context on each of the stages--I discuss Connect at greater length because we frequently underestimate its significance for all that follows. And while the stages are ordered in a logical sequence that may repeat itself multiple times over the course of a given conversation, they shouldn't be viewed as a fixed set of steps that must be followed in order. You should feel actively encouraged to trust your intuition and employ them fluidly as needed.
+
+Stage 1. Connect
+
+1.1. Safety and Trust
+
+In "Ask, Listen and Empathize" I note the importance of connecting, albeit briefly: "After some initial small talk...I usually signal the beginning of our coaching conversation by asking, 'So, where would you like to start?'" In the years since I've developed a greater appreciation for the value of establishing the interpersonal connection at the beginning of a conversation and renewing it regularly.
+
+When we encounter others, we are implicitly asking, Are you safe? Can I trust you? Executive coach David Rock has explored neuroscience research to understand its implications for organizational life [4], and he explains why connecting at the outset of an interaction helps us answer these questions affirmatively:
+
+The ability to feel trust and empathy about others is shaped by whether they are perceived to be part of the same social group... When [a] new person is perceived as different, the information travels along neural pathways that are associated with uncomfortable feelings (different from the neural pathways triggered by people who are perceived as similar to oneself)... Once people begin to make a stronger social connection, their brains begin to secrete a hormone called oxytocin... [which] disarms the threat response and further activates the neural networks that permit us to perceive someone as 'just like us.'" [5]
+
+1.2. Small Talk
+
+The means by which these connections are most readily established is typically some form of "small talk," a colloquial term that obscures the significance of a vital element in human interaction. As I've written before,
+
+Why can small talk have such a big impact? Possibly because it's a highly evolved form of "social grooming"--a common behavior among mammals that is believed to serve a range of functions transcending basic hygiene. Research by anthropologist Robin Dunbar and others indicates that social grooming in primates is a function of group size, suggesting that it helps maintain harmonious relationships in larger social units where individuals may have less frequent contact with each other. [6]
+
+Dunbar has even proposed that human language evolved from social grooming, and while this theory remains controversial, it's clear that "vocal grooming" can play a significant role in effective relationships. [7] As science educator Kate Fehlhaber has noted, "Social grooming [in humans] can take on a completely non-physical form due to our extensive spoken and written language and is probably [our] dominant form of social grooming. A few kind words are often all the 'grooming' it takes to strengthen social relationships." [8] [9]
+
+The appropriate amount of small talk and the acceptable topics for discussion are highly contextual, dependent upon the surrounding culture, the nature of the relationship, and the purpose of the conversation. But when you successfully abide by these constraints, the process of small talk presents you with many opportunities to accomplish the goals articulated by Rock: identify similarities, signal your shared membership in a social group, demonstrate that you're safe and trustworthy, and thereby set the stage for more meaningful discussion.
+
+A disregard for small talk is often rooted in the perception that the topics seem frivolous or irrelevant. Sometimes they are, but even when the content of small talk is essentially meaningless, the process of engaging in the ritual for the right amount of time (and no longer), at the right level of depth (and no deeper) conveys a weighty message: I'm a safe and trustworthy person.
+
+1.3. The Open-Ended Question
+
+The connection stage concludes with an open-ended question, which should be simple and concise. If there's value in specifying potential topics in advance, after the initial connection has been established you can ask What's on your agenda? But that presumes a need to manage time, which won't always be the case. If not, you can ask, What's on your mind? or, as I note above, Where would you like to start? And as this four-stage process repeats itself over the course of the conversation, at subsequent junctures you can simply ask, Where do you want to go from here?
+
+As with small talk, the purpose of the open-ended question transcends the content--as long as it's short, the wording is immaterial. The open-ended question serves to reinforce the process of interpersonal connection not only by putting the focus on the other person's priorities, but also by enhancing their sense of agency and control, which may be particularly important in a hierarchical reporting relationship.
+
+The late Edgar Schein, a longtime professor at MIT's Sloan School of Management, highlighted the interpersonal aspect of open-ended questions. Here he refers to the person being coached or helped as the "client," but the concept applies to employees as well:
+
+The pure inquiry process has several purposes: to build up the client's status and confidence; to create a situation for the client in which it is safe to reveal anxiety, information and feelings; to gather as much information as possible about the situation; and to involve the client in the process of diagnosis and action planning. [10]
+
+1.4. Over Time
+
+While establishing the interpersonal connection is most important in the first encounter of a brand-new relationship [11], it remains relevant in repeated encounters. My former Stanford colleague Richard Francisco called this "extended ritual"--a way of reaffirming safety and trust at each and every contact. [12] In some relationships we may be able to establish connection with increasing efficiency, and eventually just one or two opening remarks may suffice. In other relationships or in certain interactions, we may choose to linger at this stage--the key is being attuned to the needs of the moment.
+
+Further, this four-stage cycle will repeat itself multiple times in any given conversation. While it's most important to establish the interpersonal connection at the outset of the interaction, there will be countless opportunities to renew it and deepen it. This need not entail returning to the small talk that opened the conversation, but it may well include jokes, asides, observations, stories, and disclosures. As I've noted before, coaching conversations should feel normal, not stilted, and that starts with the person doing the coaching: "Being normal myself allows coaching to be seen as a normal form of helping and interacting, rather than as something special or extraordinary." [13]
+
+1.5. The Virtual Environment
+
+Finally, as more of our working relationships have moved online in recent years, we've had to "translate" in-person social rituals that establish interpersonal connection, such as a handshake, with varying degrees of success. Virtual environments can make it tempting to dispense with such efforts in service of time-efficiency, and on occasion that may be necessary. But in my experience a little forethought ensures that virtual coaching conversations are as effective as face-to-face, and making the effort to connect goes a long way toward that goal. [14]
+
+Stage 2. Reflect
+
+The central idea in this stage is that once you've asked a question that evokes a substantive response from the other person, you reflect back your understanding of their response to them. This shouldn't be a verbatim recitation--instead, convey the essence of what was said. This will likely entail filtering out some (and perhaps much) of what you heard while also preserving any specific language that feels resonant or meaningful. The key is finding a balance between reducing the response into more concise language and ensuring that the other person hears their individual voice reflected in the language you use.
+
+I find it useful to do some lightweight note-taking while listening, using a pen and pad instead of a device to minimize the risk of distractions. My intent isn't to transcribe what I'm hearing so that I can repeat it back, nor do I want to spend so much time glancing away that I miss facial expressions or gestures. I'm merely offloading items from working memory and capturing words or phrases that seem noteworthy--I pay close attention to emotions, imagery, metaphors, and colorful terms, including jargon or profanity.
+
+This process will take different forms over the course of a given conversation. As I note above, at the outset you may want to ask the other person what's on their agenda and help them prioritize their list of topics. I find this approach useful with a client who may have more on their mind than we can realistically cover, given the time available. But even in those cases it may be possible to manage time assertively and strive to reach a point of sufficiency on each item. Here the task is to reflect back the list of potential topics as you understand them, both to test for accuracy and to jointly agree on an approach to the agenda. While the other person should feel a sense of ownership, you also have a stake here. If the agenda feels too ambitious, don't hesitate to say so.
+
+But as you go deeper into a coaching conversation, the act of reflecting back serves a number of useful purposes beyond agenda-setting. It can be particularly valuable for the other person to hear your understanding of their response if that interpretation differs from their intent. Even when your understanding is aligned with theirs, it can be striking for them to hear it back in their own language--thus the importance of capturing specific words and phrases that resonate in some way, even (and especially) if you don't understand their precise meaning to the other person.
+
+Stage 3. Direct
+
+Sometimes merely reflecting back the other person's response is sufficient to advance the conversation. They may choose to correct misinterpretations in your reflection, restate the response in new language, identify a particular element of the response to focus on--or go off in a completely new and unexpected direction. And sometimes none of those things happen, and there's an opportunity for you to advance to the third stage of this process, in which you focus the other person's attention on some aspect of their response
+
+Directing the other person's attention can be accomplished through questions (What do you think that means? How do you feel about that?) as well as statements (That's interesting. Tell me more.) When you're getting comfortable with coaching as a methodology, there's no need to get too hung up on the precise formulation. It's also off-putting to people when they only hear questions in a coaching conversation--to my point above, that's not normal, and it can serve to create distance when you've been working to establish connection. That said, it's useful to observe which phrasings work best, which will differ from person to person, and to evolve your approach over time.
+
+The key is being deliberate and intentional about where you're directing the other person's attention. Honing your intuitive sense of what merits further exploration is more important than worrying about whether it's phrased in the form of a question. Schein identifies four areas that tend to yield fruitful results: 1) feelings and reactions, 2) causes and motives, 3) actions taken or contemplated, and 4) "systemic issues," i.e. the feelings, reactions, causes, motives, and actions taken or contemplated by any other individuals who have been referenced by the person you're coaching. [15]
+
+This is also where some light note-taking can be useful. For example, I generally write down the specific term a person uses to describe an emotion, in part because their definition may differ from mine and synonyms may cause confusion. (I also find it helpful to encourage people to expand their "emotional vocabulary." [16]) And I write down other individuals' names, even when I already know the cast of characters in the other person's environment. Names are potent symbols, and when someone's name comes up repeatedly it's often a sign of something worth exploring.
+
+Stage 4. Then Ask
+
+To be clear, questions will be part of your coaching repertoire in all of the previous stages of this process. You'll ask questions while connecting in the course of making small talk, as a means of signalling a transition, and in order to evoke a substantive response. You'll ask questions while reflecting the other person's response back to them in order to clarify their comments and ensure an accurate understanding. And you'll ask questions to direct their attention, rather than simply making a statement--this is harder at first, but it gets easier with practice.
+
+But having connected with the other person, reflected their response back to them, and directed their attention toward aspects of their response, you'll also have opportunities to ask questions that build upon, integrate, or challenge what's been said so far and open up entirely new avenues for exploration. This is where coaching becomes a truly synergistic process--where your questions have the potential to help the other person discover answers they didn't know they had.
+
+Yet while acknowledging the importance of questions in the coaching process--and the value of learning how to ask better questions--I also want to take some of the pressure off. For a decade I helped train MBA students at Stanford in coaching skills, and almost all of them struggled with the sense that their questions needed to be powerful or profound. This impulse is problematic. At a tactical level, it can cause you to fumble for the right words, which is a distraction to the person you're coaching. More broadly, it positions you as "the insightful coach," which distorts the relationship and elevates your role when you're coaching a direct report.
+
+There are some easy ways to ask more effective coaching questions without worrying about whether they're sufficiently "powerful." First, questions that invite an extended response are generally preferable than those that can be answered with "Yes" or "No." For example, How did you accomplish that? is better than Did you accomplish that? And What did you think would happen? is better than Did you think that would happen? And How did you feel? is better than Did you feel [X]?
+
+Observe that my preferred questions above begin with What... and How... but not Why. While you shouldn't feel precluded from ever asking a Why question, they tend to evoke rationalizing and even defensiveness. The other person feels obligated to justify their actions or their response to you, which narrows their frame of reference rather than expanding it. So instead of asking Why did you do that? ask What were your intentions? Instead of asking Why did you feel that way? ask What prompted those feelings? Instead of asking Why is that your goal? ask How would that be helpful to you?
+
+A bad habit that many managers bring to coaching conversations is asking a leading question, such as Don't you think it would be better if [X]? or Wouldn't you prefer [Y]? The problem with leading questions is that they're not really questions--they're statements in disguise: I think it would be better if [X], and I prefer [Y]. Even worse, a leading question can feel like a pop quiz with a "right" answer, which will remind the other person that they're talking with their manager, and they'll start telling you what they think you want to hear, rather than candidly exploring their inner thoughts with you. The solution, yet again, is to make coaching normal--if you have something to say, just say it. This may affect the coaching dynamic, particularly in a reporting relationship, but it's preferable than trying to contort a statement into the form of a question.
+
+One final point: As someone who's in love with language, I often find myself thinking of an even better question when I'm in the middle of asking one. But if I give in to the temptation to tack on second question, I put my client in a bind: Which question should they answer? If you share this tendency, remind yourself to ask once, and stop.
+
+For more on this topic, see Coaching and Feedback Tools for Leaders.
+
+Footnotes
+
+[1] Coaching has limits as a managerial tool because leaders are usually attached to a given outcome--they want something specific to happen--and not simply invested in their employees' success. A leader's desired outcome and an employee's definition of success are generally aligned, which is why coaching can be effective as a managerial tool, but they aren't always identical. This is one of the reasons why external coaches have a unique role to play--we're invested in our clients' success, but rarely attached to any particular outcomes. For more on this, see Investment vs. Attachment.
+
+[2] "Senior executives require a great deal of autonomy, and this may entail a shift in perspective as CEO, particularly if you're used to working with direct reports who are less experienced, more deferential, and more dependent on you for tactical direction." From Mind the Gap (On Leading Senior Executives).
+
+[3] How Great Coaches Ask, Listen and Empathize (Originally published by Harvard Business Review.)
+
+[4] For an overview of Rock's work, see Neuroscience, Leadership and David Rock's SCARF Model.
+
+[5] Managing with the Brain in Mind (David Rock, strategy+business, 2009). More recent research has added nuance to our understanding of oxytocin's role. It appears to augment social connections but isn't necessary for their establishment. Journalist Katharine Wu offers an overview of this research in The Atlantic (2023). I include Rock's reference to oxytocin here to simply to highlight that our perceptions of safety and trust have a neurological basis.
+
+[6] For more on the role of social grooming in primates and the relationship with group size:
+
+- Functional significance of social grooming in primates (Robin Dunbar, Folia Primatologica, 1991)
+
+- Group size, grooming and social cohesion in primates (Julia Lehmann, Amanda Korstjens, and Robin Dunbar, Animal Behavior, 2007)
+
+[7] For more on social grooming and language:
+
+- Grooming, Gossip, and the Evolution of Language (Robin Dunbar, 1998)
+
+- Group size, vocal grooming and the origins of language (Robin Dunbar, Psychonomic Bulletin and Review, 2017)
+
+[8] Social Grooming: It's not just for monkeys and prairie voles! (Kate Fehlhaber, Knowing Neurons, 2013)
+
+[9] Excerpted from Bosses and Birthdays (The Importance of Small Talk).
+
+[10] Helping: How to Give, Offer and Receive Help, page 70 (Edgar Schein, 2009)
+
+[11] First Impressions
+
+[12] Five Levels of Communication
+
+[13] From In Defense of Normal (A Coaching Manifesto).
+
+[14] Tips for Coaching Someone Remotely
+
+[15] Helping, pages 70-73
+
+[16] Vocabulary of Emotions [PDF]
+
+[17] For a list of potential questions, see Scott Ginsberg on Asking (Better) Questions.
+
+Photos: Connect / Handshake by Amtec Photos. Reflect / Taj Mahal by Louis Vest. Direct / Tufa at Mono Lake by Sathish J. Ask / Question Mark by Dominik.
+
+
+===== END ED BOT ESSAY 4175 =====
+===== BEGIN ED BOT ESSAY 4176 =====
+---
+title: Exploring a Potential Partnership
+url: https://edbatista.com/2023/04/exploring-a-potential-partnership.html
+slug: exploring-a-potential-partnership
+published: 2023-04-22T16:16:32
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+If you're considering forming a partnership--for a project, a team, a firm or a venture--here are three exercises to complete and an agenda to help you discuss the results. This framework is inspired by a set of questions posed by the great management thinker Peter Drucker:
+
+Most people, especially highly gifted people, do not really know where they belong until they are well past their mid-twenties. By that time, however, they should know the answers to the three questions: "What are my strengths? How do I perform? and What are my values?" And then they can and should decide where they belong. Or rather, they should be able to decide where they do not belong.
+
+~Managing Oneself
+
+INDIVIDUAL PREPARATION (90 minutes)
+
+1. What are my strengths?
+
+It takes far more energy and work to improve from incompetence to mediocrity than it takes to improve from first-rate performance to excellence. ~Managing Oneself
+
+Many personality tests lack validity and reliability, and I employ them sparingly in my practice and teaching. One of the few I've relied upon is the Values in Action Survey of Character Strengths, often referred to as the VIA, developed by Martin Seligman and Christopher Peterson.
+
+- Complete the VIA and return to the link below to review Section 7: Making Use of Your VIA Results.
+
+- VIA Survey of Character Strengths
+
+ 
+
+2. How do I perform? What conditions allow me to do my best work?
+
+Too many people work in ways that are not their ways, and that almost guarantees nonperformance. For knowledge workers, "How do I perform?" may be an even more important question than "What are my strengths?" ~Managing Oneself
+
+When we work with people who share our work style it may feel more comfortable, but homogeneous teams can have blind spots and be prone to groupthink. Teams whose members have a diverse range of styles can be more effective if they develop the ability to manage conflict successfully.
+
+- Complete two versions of the worksheet linked below--one that reflects your personal preferences and one that reflects your best estimate of your partner's preferences.
+
+- Work Style Differences
+
+ 
+
+3. What are my values?
+
+To work in an organization whose value system is unacceptable or incompatible with one’s own condemns a person both to frustration and to nonperformance. ~Managing Oneself
+
+A dilemma we face when discussing "values" is that their definitions are highly subjective--and when we arrive at a definition that's true for us, we still have to determine what it means to actually live that value. Here's an exercise to reach an actionable definition of your core values:
+
+- Create a list of words that you think of as values that have some meaning to you. Don't worry about what that meaning is at this point.
+
+- Keep writing until the words stop flowing freely. Don't worry about how many words are on the list.
+
+- Take each word in turn and think of a story that demonstrates that value in action--an actual event you experienced or observed. Don't write out the entire story, but jot down a few notes so that you can readily reflect back upon it.
+
+- Having illustrated each value this way, ask yourself:
+
+- What intrinsic rewards are the result of this value? In what ways does it fulfill me or create a sense of meaning in my life?
+
+- What extrinsic rewards--what forms of status or compensation--am I willing to sacrifice on behalf of this value?
+
+- How important is this value to my self-identity? How different would my life have to be for me to abandon this value?
+
+- Use the answers to these questions to narrow your original list of words down to no more than five--and preferably as few as three. Consider the results your core values.
+
+ 
+
+PAIR (OR GROUP) DISCUSSION (1-2 hours)
+
+(Here's a printer-friendly version of this agenda.)
+
+If possible, share the results of your individual preparation with your partner/s in advance of your pair/group discussion. This will allow you to spend more time considering the implications of these results for a potential partnership. The times below are for a 1-hour pair discussion. Groups of 3 or more should allot 90 minutes to 2 hours.
+
+1. Warming Up (10 minutes)
+
+Presumably introductions aren't necessary, but a warmup exercise can set the stage for a more meaningful discussion:
+
+The Most Important Year of My Life.
+
+- Each person has 3 minutes to answer this question: What was the most important year of my life?
+
+- Note that the question is NOT: What was the BEST year of my life? It's an important distinction.
+
+- After each person has finished, take a moment to acknowledge them and express appreciation for their story, but don't do an extensive debrief or ask further questions at this point.
+
+- Take a few minutes after the last person has finished to discuss the exercise: What was that like? How do you feel as a result? What questions are you left with?
+
+2. Strengths (15 minutes)
+
+- What items among your VIA results would you characterize as "signature strengths"? Your results should inform but not dictate your signature strengths--it's ultimately up to you to make this determination.
+
+- What surprised you in your results? What surprised you in your partner's results?
+
+- In what ways are your respective signature strengths complementary? How might they conflict?
+
+3. Working Conditions (15 minutes)
+
+- What items on your worksheet are most important to you? What items are least important?
+
+- How accurate was your estimate of your partner's preferences?
+
+- In what ways are your respective preferences complementary ? How might they conflict?
+
+4. Values (15 minutes)
+
+- What are your core values? (Again, identify no more than five, and preferably as few as three.)
+
+- Share one of the stories that illustrates one of your core values. If time allows, repeat this step while taking turns.
+
+- In what ways are your core values complementary? How might they conflict?
+
+5. Conclusion (5 minutes)
+
+You held this discussion because you're seeking more information about what it would be like to work with this person. Note that the discussion itself has been a type of "work," and how your partner has participated may provide some useful data.
+
+- What has your partner done over the past hour that made you more interested in working with them?
+
+- What has your partner done over the past hour that made you less interested in working with them?
+
+- What questions do you have about their behavior?
+
+- What feedback would you like to share with them?
+
+- What questions do you have about your own behavior over the past hour?
+
+- What feedback would you like to request from them?
+
+Take some notes in response to these questions now, while the discussion is fresh in your mind. But don't jump into a feedback conversation immediately--take a day or two to digest everything first. And as always, bear in mind that feedback is not a gift--it's data.
+
+ 
+
+NEXT STEPS
+
+Should you decide to work together, bear in mind that even the best partnerships experience difficulties over time, and this isn't merely inevitable--it's desirable. In my experience a "conflict-free relationship" is a sign that people aren't being candid with each other, perhaps because they fear that any conflict will put the relationship in jeopardy--which renders it fragile and unlikely to last. The key is learning how to engage in conflict safely, how to "disagree without being disagreeable," and how to repair when necessary. Here are a further set of readings on building--and sustaining--a stronger partnership:
+
+Better Working Relationships
+
+Feedback Is Not a Gift
+
+How to Deliver Critical Feedback
+
+How We Connect (and Why We Might Not)
+
+The Tyranny of Feelings
+
+You Make Me Feel... (On Language and Responsibility)
+
+Authority and Control in Organizational Life
+
+Safety Is a Resource, Not a Destination
+
+The Toyota Production System for Relationships
+
+Whether or Not to Fix a Broken Relationship
+
+ 
+
+Photo by Wil C. Fry.
+
+
+===== END ED BOT ESSAY 4176 =====
+===== BEGIN ED BOT ESSAY 4177 =====
+---
+title: Classrooms, Churches, Cocktail Parties (On Norms)
+url: https://edbatista.com/2023/04/classrooms-churches-cocktail-parties-on-norms.html
+slug: classrooms-churches-cocktail-parties-on-norms
+published: 2023-04-06T19:29:52
+updated: 2025-10-05T16:30:18
+source_body: wordpress-html
+---
+
+Many of the situations we encounter in contemporary professional life take one of three cultural forms: A classroom, a church, or a cocktail party.
+
+While there are countless variations among schools, places of worship, and celebratory gatherings, we can readily envision an idealized classroom, an idealized church, an idealized cocktail party, and these archetypes are useful lenses through which to view any number of situations.
+
+So some meetings are like a classroom, others are like church, and still others are like a cocktail party. And some companies are like a classroom, others are like church, and still others are like a cocktail party.
+
+Each of these forms involves very different norms, which I've defined as social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave. [1] To be clear, norms aren't rules. Rules are what we intend to do, or what we're supposed to do, or what we aspire to do. Norms are what we actually do.
+
+The problem, however, is that schools, places of worship, and celebratory gatherings identify themselves very clearly through obvious signifiers. We know where we are, we readily grasp the norms, and we act accordingly.
+
+But meetings and companies are much harder to interpret. They must serve different purposes at different times for different parties--and those parties may disagree. So the signs and signals are opaque and confusing, and it's easy to misread them.
+
+The key is asking ourselves: Where do I think I am? In a classroom? In a church? At a cocktail party? And where does everybody else here think they are?
+
+There's no implied value-judgment. We have need of schools, places of worship, and celebratory gatherings all. But if we think we're in a classroom, and everyone else thinks they're in church, there's going to be trouble.
+
+The next question to ask is: Who do I think I am? A teacher or a student? An officiant or a congregant? A host or a guest? And who does everyone else think they are? We need all these roles, but again, if we don't have a shared understanding of who we are to each other, there's going to be trouble. [2]
+
+A final question to ask is: To what extent is this cultural form serving our collective needs at the moment? Cultures are hard to change because people feel obligated to adhere to existing norms. So unless we step outside a given culture in order to observe it, we're likely to perpetuate it. We'll keep going to class, to church, to the party, without pausing to consider whether that's really where we want to be.
+
+Footnotes
+
+[1] Rules Aren't Norms (On Company Values)
+
+[2] Role Clarity and Role Confusion
+
+Photos: Classroom by Robert Couse-Baker. Church by Garry Knight. Cocktail Party by Yelp/Tom Pagut.
+
+
+===== END ED BOT ESSAY 4177 =====
+===== BEGIN ED BOT ESSAY 4178 =====
+---
+title: Viktor Frankl on the Meaning of Suffering
+url: https://edbatista.com/2023/04/viktor-frankl-on-the-meaning-of-suffering.html
+slug: viktor-frankl-on-the-meaning-of-suffering
+published: 2023-04-03T17:28:33
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+Viktor Frankl was an Austrian psychiatrist who spent the years 1942-45 in four different Nazi concentration camps, including Auschwitz. By the end of the war his pregnant wife, his parents and his brother had been murdered; among his immediate family, only he and his sister survived. After the war he published Man's Search for Meaning, a book inspired by his experiences in the camps, and one in which I've found wisdom and comfort during times of difficulty. I particularly value Frankl's perspective on the potential meaning to be derived from suffering:
+
+We must never forget that we may also find meaning in life even when confronted with a hopeless situation, when facing a fate that cannot be changed. For what then matters is to bear witness to the uniquely human potential at its best, which is to transform a personal tragedy into triumph, to turn one's predicament into a human achievement. When we are no longer able to change a situation--just think of an incurable disease such as inoperable cancer--we are challenged to change ourselves...
+
+But let me make it perfectly clear that in no way is suffering necessary to find meaning. I only insist that meaning is possible even in spite of suffering--provided, certainly, that the suffering is unavoidable. If it were avoidable, however, the meaningful thing to do would be to remove its cause, be it psychological, biological or political...
+
+There are situations in which one is cut off from the opportunity to do one's work or enjoy one's life; but what can never be ruled out is the unavoidability of suffering. In accepting this challenge to suffer bravely, life has a meaning up to the last moment, and it retains this meaning literally to the end. In other words, life's meaning is an unconditional one, for it even includes the potential meaning of unavoidable suffering...
+
+[In Auschwitz] the question that beset me was, "Has all this suffering, all this dying around us, a meaning? For, if not, then ultimately there is no meaning to survival; for a life whose meaning depends on such a happenstance--as whether one escapes or not--ultimately would not be worth living at all." [pages 112-115]
+
+Note that Frankl is not denying the grief and rage that spring from suffering and tragedy. He's not "making the best of things." He's not blithely suggesting that "everything happens for a reason." He is encouraging us to acknowledge our grief and rage, and also to see our suffering as an experience in which it is possible to find meaning. That is a significant and profound difference.
+
+The nature of the meaning to be found in suffering will be different for all of us, even in response to the same experience, the same tragedy, the same loss. There's no one-size-fits-all meaning-of-life. And discovering that meaning will be hard work, made even harder by our grief and rage. But the meaning we derive will certainly be connected to the learning, the lessons our suffering has imparted to us.
+
+It takes time for grief and rage to pass, and so it will be necessary to give those feelings their due. There are active steps we can take to ease their passage, from mourning rituals to talking with people we trust to simply writing about them. And when we're ready, it can be invaluable to take a step back and reflect on our suffering--past, present and future:
+
+- Consider a source of suffering in your past, now resolved. What did you learn from it? What did it teach you?
+
+- Consider a source of suffering that you are experiencing right now, still active. What are you learning from it? What is it teaching you?
+
+- Consider a source of suffering that you will likely (or inevitably) experience in the future. What do you hope you will learn from it? What do you hope it will teach you?
+
+ 
+
+Adapted from Viktor Frankl on Love, Suffering and the Meaning of Life.
+
+Thank you, Roanak, for the lessons you continue to impart.
+
+Photo of Viktor Frankl courtesy of Wikimedia.
+
+
+===== END ED BOT ESSAY 4178 =====

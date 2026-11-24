@@ -9,7 +9,7 @@ https://edbatista.com/ under the applicable source licenses, including CC BY-SA
 Published WordPress HTML was converted to text in the original archive
 preparation; headers, canonical links and existing contribution notices were
 retained. This candidate changes no essay or tested coaching instruction bytes.
-ATTRIBUTION.csv provides a per-essay attribution and preparation inventory.
+ATTRIBUTION.txt provides a per-essay attribution and preparation inventory.
 
 Original instruction contributions by Tarikh Korula are CC BY-SA 4.0 as described
 in LICENSE. The name and logo are excluded. Retain original-contributor credits

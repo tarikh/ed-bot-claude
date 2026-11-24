@@ -1,0 +1,76 @@
+===== BEGIN ED BOT ESSAY 3902 =====
+---
+title: Startup Communication (Startups as Human Systems)
+url: https://edbatista.com/2016/06/startup-communication-startups-as-human-systems.html
+slug: startup-communication-startups-as-human-systems
+published: 2016-06-29T17:28:50
+updated: 2025-09-24T11:59:27
+source_body: wordpress-html
+---
+
+Yesterday I conducted a workshop with the team at a startup here in the Bay Area on a range of topics related to interpersonal and group dynamics. While the title was simply Startup Communication, a theme woven throughout the day was the idea of startups as human systems, emphasizing both the complexity of the organizational culture and the critical importance of communication, feedback, and relationships in this setting. A condensed version of my deck is above, and I've added a number of links to other posts that explore in greater depth the ideas we discussed in the workshop. (Note that you have to download the deck from Slideshare in order to access those links.)
+
+Thanks to the team for inviting me to join them yesterday. I spend most of my time working one-on-one with senior leaders these days, so it's a uniquely rewarding experience to explore these topics with everyone in a company and to discuss what's working well--and what's not--in the organization as a whole.
+
+
+===== END ED BOT ESSAY 3902 =====
+===== BEGIN ED BOT ESSAY 3903 =====
+---
+title: The Art of Self-Coaching at InnerSpace
+url: https://edbatista.com/2016/06/the-art-of-self-coaching-at-innerspace.html
+slug: the-art-of-self-coaching-at-innerspace
+published: 2016-06-24T14:08:02
+updated: 2025-09-24T11:59:27
+source_body: wordpress-html
+---
+
+I'm a fan of InnerSpace, a community of startup founders sharing best practices, so I was happy to spend yesterday there leading a pro bono workshop on The Art of Self-Coaching, the GSB class that I designed last year, taught again this year, and will teach twice in 2016-17.
+
+My slides from the workshop are above, and they cover mental models, change, mindset, emotional style, and emotion management, in addition to a brief discussion of coaching tools. Thanks to InnerSpace founder Joe Greenstein for the invitation and to team members Hannah Knapp, Beth Powell, and Sarah for all the support.
+
+
+===== END ED BOT ESSAY 3903 =====
+===== BEGIN ED BOT ESSAY 3904 =====
+---
+title: The Art of Self-Coaching @Medallia
+url: https://edbatista.com/2016/05/the-art-of-self-coaching-medallia.html
+slug: the-art-of-self-coaching-medallia
+published: 2016-05-26T18:36:25
+updated: 2025-09-24T11:59:27
+source_body: wordpress-html
+---
+
+Stanford's Office of Development recently asked me if I would volunteer to lead a workshop at Medallia, a SaaS CRM and feedback company co-founded by Amy Pressman, a fellow alumnus of the university's Graduate School of Business, and populated by a number of other Stanford grads. This afternoon I spent a few hours with roughly 100 members of their Palo Alto team talking about a number of topics related to The Art of Self-Coaching, the GSB class that I designed last year and am currently teaching again.
+
+My slides from today's workshop are above, and they cover mental models and change, emotions and reasoning, and emotion management. I had a great time and want to express my thanks to everyone who took a few hours away from their busy day to spend the afternoon with me. Particular thanks to the Stanford Development team--Mona Tekchandi, Donna Garton, and Felicity Meu (a fabulous guide)--and our organizers at Medallia--Farrah Mitra and Sydney Cohn--and to Amy Pressman and Julia Markish (another GSB alum and a former student of mine) for their enthusiastic introductions. It was a pleasure.
+
+
+===== END ED BOT ESSAY 3904 =====
+===== BEGIN ED BOT ESSAY 3905 =====
+---
+title: The @HarvardBiz Guide to Delivering Effective Feedback
+url: https://edbatista.com/2016/05/the-harvardbiz-guide-to-delivering-effective-feedback.html
+slug: the-harvardbiz-guide-to-delivering-effective-feedback
+published: 2016-05-10T05:00:00
+updated: 2025-10-12T14:32:52
+source_body: wordpress-html
+---
+
+The HBR Guide to Delivering Effective Feedback is now available, and my article on Giving Feedback That Sticks is included. Here are some of the other chapters:
+
+Sometimes Negative Feedback is Best, Heidi Grant Halvorson
+
+A Better Way to Deliver Bad News, Jean-François Manzoni
+
+How to Give Feedback that Helps People Grow, Monique Valcour
+
+Stop Worrying About Your Employees Weaknesses, Peter Bregman
+
+How to Help an Underperformer, Amy Gallo
+
+Delivering Criticism to a Defensive Employee, Holly Weeks
+
+I'm clearly not the most objective reviewer, but I think it's a great resource with some very practical advice that draws upon both research and practice. Many thanks to my colleagues at HBR who've done a really nice job at compiling another useful Guide.
+
+
+===== END ED BOT ESSAY 3905 =====

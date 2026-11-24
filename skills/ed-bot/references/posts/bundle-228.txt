@@ -1,0 +1,370 @@
+===== BEGIN ED BOT ESSAY 4023 =====
+---
+title: Work Style Differences
+url: https://edbatista.com/2019/05/work-style-differences.html
+slug: work-style-differences
+published: 2019-05-06T05:40:15
+updated: 2025-11-01T21:12:28
+source_body: wordpress-html
+---
+
+We all have our preferred ways of working, and sometimes when we're locked in a conflict with a colleague it's the result of incompatible work styles. When we work with people who share our work style it may feel more comfortable, but homogeneous teams can have blind spots and be prone to groupthink. Teams whose members have a diverse range of styles can be more effective if they develop the ability to manage conflict successfully.
+
+Conflicts over work styles tend to escalate in stages:
+
+1. Annoyance at having to adjust our style to accommodate the other person's.
+
+2. Feeling alienated from the other person as our annoyance builds over time.
+
+3. Making unfounded assumptions about the underlying cause of the difference.
+
+4. Viewing the other person as "the problem" (or worse) that's preventing us from working effectively.
+
+It's important to avoid escalation by identifying differences early and having candid conversations about their impact. A helpful step in this process is clarifying just what we mean by "work style" and understanding how we differ from our colleagues. A host of assessments and instruments are available for this purpose, but the table below can be an effective starting point.
+
+The different styles shown below aren't binary, but serve as endpoints on a spectrum. Nor do the options below represent general types--there are no associations or correlations across the various rows. And no style is necessarily better or worse than another--the key is whether a team is bringing the right mix of styles to bear on the challenges they face.
+
+- Consider your style on each dimension and locate yourself along each spectrum.
+
+- Consider your perception of your colleague's work style on each dimension and locate them along the spectrum, without consulting them or getting input from others.
+
+- Discuss your respective styles and your perceptions of the other person. Where are your styles similar? Where are they different? Where are your perceptions aligned? Where are they not?
+
+Here's a two-page print version of the table below, and here's a completed sample response.
+
+WORK STYLE DIFFERENCES
+
+•         •         •         •         •         •
+
+Problem-Oriented: Focuses on obstacles and what hasn’t been accomplished.
+
+Progress-Oriented: Focuses on successes and accomplishments.
+
+•         •         •         •         •         •
+
+Divergent Thinker: Explores new options; expands possibilities.
+
+Convergent Thinker: Narrows range of options; clarifies possibilities.
+
+•         •         •         •         •         •
+
+Structured: Prefers routines and predictability; dislikes surprises.
+
+Improvisational: Prefers novelty and ambiguity; resists restrictions.
+
+•         •         •         •         •         •
+
+Analytical: Studies as much data as possible before acting.
+
+Action-Oriented: Acts quickly and gathers data in the process.
+
+•         •         •         •         •         •
+
+Big-Picture: Thinks top-down; emphasizes long-term vision.
+
+Detailed: Thinks bottom-up; emphasizes tactical issues.
+
+•         •         •         •         •         •
+
+Data-Driven: Relies upon external information more than intuition.
+
+Intuitive: Relies upon intuition more than external information.
+
+•         •         •         •         •         •
+
+Risk-Seeking: Eager to take chances; open to new approaches.
+
+Risk-Averse: Cautious; prefers time-tested methods.
+
+•         •         •         •         •         •
+
+Respectful: Supportive of established order; accepts authority.
+
+Rebellious: Questions established order; resists authority.
+
+•         •         •         •         •         •
+
+Relationship-Oriented: Compromises on tasks to succeed interpersonally.
+
+Task-Oriented: Compromises on relationships to succeed at tasks.
+
+•         •         •         •         •         •
+
+Conflict-Friendly: Believes open disagreements help the team.
+
+Conflict-Averse: Believes open disagreements hurt the team.
+
+•         •         •         •         •         •
+
+Competitive: Prefers zero-sum contests with clear winners and losers.
+
+Collaborative: Prefers arrangements where all parties get some needs met.
+
+•         •         •         •         •         •
+
+Self-Oriented: Focuses on own needs; assumes others are self-sufficient.
+
+Other-Oriented: Focuses on others’ needs; assumes they need support.
+
+•         •         •         •         •         •
+
+Controlling: Prefers to set direction and to be the decision-maker.
+
+Uncontrolling: Open to others’ direction; doesn’t need to decide.
+
+•         •         •         •         •         •
+
+Optimistic: Emphasizes positive data and possibility of success.
+
+Pessimistic: Emphasizes negative data and possibility of failure.
+
+•         •         •         •         •         •
+
+Solo: Takes on tasks individually before engaging others.
+
+Communal: Takes on tasks with others as joint partners.
+
+I was introduced to the concept of work style differences in 2006 when I served as teaching assistant to David Bradford in his High-Performance Leadership course at Stanford, and the framework above is his creation. I've modified it and present it here with his permission.
+
+Photo by Craig Howell.
+
+
+===== END ED BOT ESSAY 4023 =====
+===== BEGIN ED BOT ESSAY 4024 =====
+---
+title: Resolving a Protracted Conflict
+url: https://edbatista.com/2019/05/resolving-a-protracted-conflict.html
+slug: resolving-a-protracted-conflict
+published: 2019-05-05T19:19:50
+updated: 2025-10-08T08:58:35
+source_body: wordpress-html
+---
+
+When we're locked in a protracted conflict with another person, there's one critical step that's usually necessary to reach a resolution in which both parties feel a sense of trust and remain committed to the relationship: The higher-status person must express vulnerability first.
+
+Here's why it's so important, why it's so difficult, and what to do about it:
+
+1. Vulnerability is the key to empathy, and empathy is the key to conflict resolution.
+
+Conflicts are concluded in the absence of vulnerability and empathy all the time. In some cases the higher-status person increases the pressure or waits until the lower-status person submits. In other cases the higher-status person gives way due to impatience or a sense that "winning" will carry a cost. These outcomes end the conflict for the time being, but in the process trust has been lost and the relationship has suffered, so there's been no resolution--merely a deferral until the next round. But an expression of vulnerability can lead to a very different outcome.
+
+In most circumstances we reflexively turn toward vulnerability with feelings of interest and care. This may be a function of evolutionary biology, as an empathic response would have been highly adaptive in helping early humans work together to overcome challenges. [1] And when we empathize with another person, we see the world from their perspective; we understand their feelings; we suspend our judgments about them; and we actively communicate this understanding. [2] The mutual empathy that results is what enables both parties to be open to the other's perspective and actively seek a resolution to the conflict. We still may not agree with each other, but as I've written before, empathy is not agreement:
+
+Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. [3]
+
+And yet a challenge is that we habitually fail to "empathize up"--we find it very difficult to empathize with someone we perceive as higher status, particularly when we find ourselves in conflict with them. [4] We don't see the world from their perspective; we pay no attention to their feelings; we make endless judgments and assumptions about them; and we communicate as little as possible. In these circumstances it inevitably feels less safe for the lower-status person to express vulnerability, which results in a stalemate that only extends the conflict. This is why the higher-status person must take the first step.
+
+2. Vulnerability can be profoundly uncomfortable.
+
+And yet the higher-status person may well feel resistance to expressing vulnerability. They may equate vulnerability with weakness or may assume that an expression of vulnerability will entail a loss of face, and here the work of Brené Brown is instructive. Brown, a research professor at the University of Houston's Graduate School of Social Work, has dedicated her career to the study of such topics as vulnerability, empathy, courage and shame, and she writes,
+
+The perception that vulnerability is weakness is the most widely accepted myth about vulnerability and the most dangerous... To believe vulnerability is weakness is to believe that feeling is weakness... It starts to make sense that we dismiss vulnerability as weakness only when we realize that we've confused feeling with failing and emotions with liabilities. [5]
+
+Many of us have been conditioned to view our emotions in just this way, and there's no simple solution to developing a healther relationship with our feelings. But a starting point is recognizing the vital role that emotions play in reasoning and communication, a topic that has been studied for decades by USC neuroscientist Antonio Damasio:
+
+Uncontrolled or misdirected emotion can be a major source of irrational behavior...[and] seemingly normal reason can be disturbed by subtle biases rooted in emotion... Nonetheless...reduction in emotion may constitute an equally important source of irrational behavior. [6, emphasis original]
+
+In this context we have to distinguish between emotion suppression--which usually fails, or renders our behavior incongruous or even incoherent--and emotion management--which is an essential skill when navigating situations that feel risky or uncertain. [7]
+
+To be clear, at times our caution regarding expressions of vulnerability is well-founded--not everyone will respond positively, and not all our adversaries can be trusted. But when we're always cautious and never take risks, we don't learn how to calibrate our emotional expressiveness, and any experience of vulnerability seems unsafe and out-of-control. Taking the risk to express vulnerability a bit more fully helps us learn how to do so with greater control and allows us to discover who we can trust in a conflict. And a benefit of getting out of our comfort zones is that they tend to expand. [8]
+
+3. Relative status isn't always obvious.
+
+In some cases our status relative to the other party in a conflict is a clear and mutually understood function of our respective positions in a hierarchy. But because contemporary culture often seeks to diminish hierarchical distinctions--despite the fact that human beings continue to rely on hierarchy as a fundamental organizing principle [9]--our relative status may be unclear. Further, it's not uncommon that when two people are locked in a protracted conflict, each perceives the other to be higher-status.
+
+A form this can take in organizational life is when one person is perceived as higher status because of their role or title, and the other is perceived as higher status because of some aspect of their social identity: age, gender, ethnicity, nationality, physical characteristics, etc. Although our perceptions of status deriving from these dimensions of difference continue to evolve, the ability to pretend that they no longer have an impact on our perceptions is itself a privilege of high status. [10]
+
+So when we find ourselves in a protracted conflict with someone we perceive as higher-status, a key question to ask is, "In what ways might the other person perceive ME as higher-status?" Our answers might shift our perspective and motivate us to take the first step.
+
+4. Vulnerability and empathy are learnable skills.
+
+Vulnerability can take many different forms, and there's no one right or wrong way to express it. That said, it's essential to cultivate the ability to convey vulnerability in ways that are likely to evoke an empathetic response. Because we can feel unsafe in the midst of a conflict, we may make what we believe to be a vulnerable disclosure in a sterile, non-emotional way, dampening the facial expressions, tone of voice and other cues that help others truly sense our feelings. This is a two-way dynamic, of course--if we're not actively looking for the other person's expressions of vulnerability, we may miss them, and our own empathetic feelings may not be triggered by their comments or non-verbal expressions.
+
+But we can strive to improve our skills in these areas--a process that has been one of the central themes in my work in the MBA program at Stanford since 2006, first in Interpersonal Dynamics and later in a number of other courses (including The Art of Self-Coaching, which I launched in 2015). And my empirical experience as a coach and teacher is amply supported by a growing body of research from the field of health care that indicates that our capacity for empathetic communication is an eminently learnable skill. [11]
+
+So what does this look like in practice?
+
+- Slow down, which helps us regulate our own expressions of vulnerability, heighten our sensitivity to those of the other person, and counteract the impact of stress on our ability to communicate effectively.
+
+- Recognize that hearing isn't listening--the goal isn't being able to accurately transcribe the other person's comments, but insuring that they truly feel heard.
+
+- Cultivate conditions of safety and trust, which are essential foundations for vulnerability and mutual learning.
+
+- While doing so, don't mistake psychological safety for a lack of directness: As Harvard Business School professor Amy Edmondson has noted, in a safe environment, "individuals feel they can speak up, express their concerns, and be heard. This is not to say that people are 'nice...'  What I am advocating is candor. Being open. And sometimes that might mean being direct to a fault." [12]
+
+Finally, while engaged in this process it's important to be mindful of the surrounding culture--not only the larger organization, but also the "culture" of our relationship with the other person--and to "translate" vulnerability appropriately. As I've written before,
+
+Each culture has a set of norms that define acceptable expressions of vulnerability... If you deviate too far from these norms, the culture won't be able to accommodate your behavior--and if all you do is conform to those norms, you'll fail to help the culture evolve and will miss opportunities... The key, as always, is to conform just enough. [13]
+
+5. Mistakes are learning opportunities.
+
+Our efforts to employ these concepts in conflict resolution will involve taking some risks and getting out of our comfort zone--so mistakes are inevitable. We can seek to make smaller mistakes and recover from them more quickly, but rather than strive to avoid errors at all costs, we're better served by openly acknowledging them and their unintended impact on the other person. I'm not suggesting we should act heedlessly but, rather, recognize mistakes as a natural part of any learning process and as signs of potential growth. This allows us to loosen the hold of the self-consciousness and embarrassment we may feel when we do make a mistake--and it's also one of the best ways to practice expressing vulnerability.
+
+Footnotes
+
+[1] Recent evidence suggests that humans evolved to work together cooperatively in larger groups than other primates, and this may have been our critical advantage as a species. For example: Forget Survival of the Fittest: It Is Kindness That Counts (Dacher Keltner interviewed by David DiSalvo, Scientific American, 2009)
+
+[2] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[3] The Difficulty of Empathizing Up
+
+[4] Ibid.
+
+[5] Daring Greatly, pages 33-35 (Brené Brown, 2012)
+
+[6] Antonio Damasio on Emotion and Reason
+
+[7] Taking the Leap (Dealing with Risk and Uncertainty)
+
+[8] Comfort with Discomfort
+
+[9] Organizational Preferences and Their Consequences (Deborah Gruenfeld and Larissa Tiedens, Chapter 33 in the Handbook of Social Psychology, 2010)
+
+[10] For more on social identity, see Experiments in Intergroup Discrimination (Henri Tajfel, Scientific American, 1970), Social Identity Theory (Gazi Islam, Encyclopedia of Critical Psychology, 2014), and Getting to "Us" (George Halvorson, Harvard Business Review, 2014)
+
+[11] For more on empathy as a learnable skill:
+
+- Empathy in Medicine: A Neurobiological Perspective (Helen Reiss MD, Journal of the American Medical Association, 2010)
+
+- Empathy Training for Resident Physicians (Helen Reiss MD et al, Journal of General Internal Medicine, 2012)
+
+- Can Doctors Learn Empathy? (Pauline Chen MD, The New York Times, 2012)
+
+- Can compassion and empathy be learned? (Dorrie Fontaine RN, The Daily Progress, 2013)
+
+- Does Taking Time For Compassion Make Doctors Better At Their Jobs? (L. Carol Richie, NPR, 2019)
+
+[12] Make Your Employees Feel Psychologically Safe (Martha Lagace interviewing Amy Edmondson, Harvard Business School Working Knowledge, 2018)
+
+[13] Conform to the Culture Just Enough
+
+For Further Reading
+
+Better Working Relationships
+
+The Importance of Slowing Down
+
+How Great Coaches Ask, Listen and Empathize
+
+Safety, Trust, Intimacy
+
+Learning How to Learn
+
+Conscious Competence in Practice
+
+Photo by Panegyrics of Granovetter.
+
+
+===== END ED BOT ESSAY 4024 =====
+===== BEGIN ED BOT ESSAY 4025 =====
+---
+title: Lost Worlds
+url: https://edbatista.com/2019/05/lost-worlds.html
+slug: lost-worlds
+published: 2019-05-04T09:45:06
+updated: 2025-10-08T09:00:30
+source_body: wordpress-html
+---
+
+Every community of which we're presently a member will someday become a "lost world"—lost to us as we depart and move on, or lost to everyone as the community as a whole comes to an end. We tend to resist acknowledging this reality. It reminds us of mortality and can evoke feelings of sadness at the impending loss or a sense of frantic urgency as we try to stave it off.
+
+But as a result we miss unique opportunities to appreciate these communities while they're in existence and to fully grasp what it means to inhabit them with a particular group of fellow human beings. We may also find ourselves surprised or even overwhelmed when a familiar and comfortable world is suddenly lost because we failed to anticipate the impact of our departure or the community's dissolution.
+
+Some of our worlds are created by an institution in which we have formal relationships with the organizing body and our fellow members: a school, a company, a team, a communal organization. Others are more amorphous, with fuzzier boundaries and overlapping identities: a culture, a hometown, a family. Some worlds correspond with clearly defined life stages that can last for years, while others are created and dissolve fluidly in the span of a single day.
+
+Reflecting on my own past, I can recall a number of lost worlds that continue to hold meaning for me, even though they may play a minor role in my life today, or no role at all: A craft center where I took art classes as a child. My high school track team. My freshman dorm in college. An intellectual history class in my senior year. My career in social services. A group of motorcyclists who welcomed me as a novice rider. My first T-group in business school. My later career in nonprofit technology. My colleagues on the first coaching staff at Stanford.
+
+It's rewarding to be reminded of these lost worlds, but I'm also aware that at times my inability to acknowledge (or even envision) their transient and fleeting nature kept me from making the most of these experiences and the relationships they fostered, and rendered my transitions and departures less fulfilling or more abrupt than I would have wanted.
+
+This awareness motivates me to pay closer attention to the many various worlds I inhabit today--to see the water I swim in, to feel the air I breathe. It's sobering to realize how quickly each of them will end and become yet another lost world in turn. And yet acknowledging this fully and embracing the complex and uncomfortable feelings that it evokes allows me to to be more grateful for these worlds and the people I share them with. I take none of it for granted.
+
+Photo by icelight.
+
+
+===== END ED BOT ESSAY 4025 =====
+===== BEGIN ED BOT ESSAY 4026 =====
+---
+title: Staying Sane When You've Been Falsely Accused
+url: https://edbatista.com/2019/05/staying-sane-when-youve-been-falsely-accused.html
+slug: staying-sane-when-youve-been-falsely-accused
+published: 2019-05-03T19:17:17
+updated: 2025-10-08T08:59:43
+source_body: wordpress-html
+---
+
+I'm profoundly grateful that we're living through an era when misdeeds by leaders are being exposed and their victims are being met with support and solidarity. I've known far too many people who have suffered at the hands of someone more powerful and who felt compelled to remain silent for fear that they would not be believed or that their suffering would only be compounded if they went public.
+
+At the same time, I've worked with enough leaders to know that beyond a certain level of prominence they will inevitably have to face baseless or inaccurate accusations. This can result from an honest misunderstanding--leaders are often blind to how easily their comments or behavior can be misinterpreted, and a common theme in my practice is helping leaders be more attuned to this gap and to communicate with greater clarity and precision for this very reason. [1] But on occasion such accusations are the result of outright dishonesty--at times leaders are confronted with falsehoods manufactured by an enemy with a hidden agenda.
+
+So if you're a leader facing these circumstances, what can you do? First, here are some ideas to guide your initial interactions following the accusations:
+
+1. Slow down.
+
+The experience of being falsely accused will almost certainly result in a sense of unfairness or injustice, which can trigger a strong threat response. [2] As I've noted before, "When we’re in the grip of a threat response we experience a host of physiological and psychological reactions: our heart rate and blood pressure escalate, we’re more likely to feel fear and anger, and we process information more quickly, all of which prime us to make decisions quickly and take immediate, decisive action. But speed has a cost, and in these situations we also process information less accurately, and we’re less effective at creative problem-solving and collaboration." [3] In these situations, speed is not your friend, because you're not facing a literal threat to your physical safety--it just feels that way. You'll be a more effective communicator and you'll pick up meaningful interpersonal signals more clearly if you slow down: Take deeper breaths, regulate the pace and tone of your voice, don't rush.
+
+2. Name the elephant.
+
+There will be a moment--and possibly many such moments--where awareness of these accusations will feel like an elephant in the room that no one is acknowledging. This reticence is a predictable "defense routine," which the late Harvard Business School professor Chris Argyris defined as "actions or policies that prevent individuals or segments of the organization from experiencing embarrassment or threat." [4] The problem is that not talking about the situation will actually make it harder for you to manage the difficult feelings arising in response. So name the elephant, and acknowledge what everyone is thinking. A key advantage here is that by talking about the issue--and the difficult emotions it's undoubtedly generating--you'll be better able to manage those emotions in the moment. [5]
+
+3. Have a plan.
+
+Your initial comments on the issue will be important. Have in mind a clear and straightforward set of points that you want to make, but don't write out a lengthy, detailed script. Worrying about the precise language will distract you at a moment that will already be stressful. The key is to make your initial points...and then stop. You're not delivering a monologue--you're initiating a dialogue. You'll learn a lot by how others respond at that moment. They may view your comments as an invitation to talk further--and you should prepare for that possibility by considering the hardest and most uncomfortable questions they might ask. You should also have some clarity on what information you can share in response--and what information you can't. [6]
+
+4. Take responsibility.
+
+If you do engage in a fuller discussion about the situation, it will be essential to explore how you contributed to it, even inadvertently, and to take responsibility for those actions. If the accusations are the result of a misunderstanding, how did you miscommunicate? If the accusations are coming from an untrustworthy enemy, how did you develop an adversarial relationship with them? Your ability to acknowledge these mistakes and to demonstrate what you've learned as a result will help build trust. In this context it can be useful to adopt what the Trium Group calls a "responsibility mindset":
+
+I view myself as an integral factor in all situations. Every situation occurs and unfolds as it does in some measure as a direct outcome of my actions, non-actions and interpretations. I believe there is always something I can do to affect the situation. [7]
+
+Some false accusations can be readily dispelled by having a several of these discussions with key stakeholders, while others will persist for a period of time, looming over your head like a dark cloud. In the latter case it's important to commit to some longer-term strategies:
+
+5. Invest in self-care.
+
+As I've written before, "Taking care of ourselves when we’re in the midst of a crisis is easily overlooked because there are so many more urgent tasks to address—and yet it’s at these moments that a modicum of self-care becomes even more important. I’m not suggesting that we can maintain our personal routines as if everything’s normal—we will have to adapt to get through the crisis. But we also shouldn’t overreact and abandon our routines entirely. The important-but-not-urgent activities such as sleep and exercise that serve us well during normal times will continue to support during a crisis, and they may even be more critical to our effectiveness." [8] Insure that you're making time for the daily and weekly practices that sustain you--sufficient sleep and regular physical activity should certainly be on that list, as should meditation or some other activity that promotes mindfulness. Note that the latter will not be a source of stress relief, but, rather, a workout in attention management. [9]
+
+6. Avoid ruminating.
+
+A theme in my work is that "emotions are attention magnets." [10] This is a vital function served by our feelings that enable them to interrupt conscious thought and rapidly alert us to opportunities and threats. But this can also leave us prone to counter-productive rumination when a distressing experience can't be resolved--and efforts to suppress undesired thoughts can actually make the situation worse. As the late Harvard psychologist Daniel Wegner wrote:
+
+When we want to stop thinking of something because it is frightening, disgusting, odd, inconvenient, or just annoying...the snowballing begins. We try and fail, and try again, and find that the thought is ever more insistent for all our trying. [11]
+
+If you find yourself obsessing over the situation, the solution is to redirect your attention toward a healthy, absorbing distractor. As UC Riverside psychologist Sonja Lyubomirsky has written:
+
+The distracting activity you select must be engrossing enough so that you don't have the opportunity to lapse back into ruminations. Good bets are activities that make you feel happy, curious, peaceful, amused, or proud... It's worth noting that although distraction seems like an almost too simple short-term solution or quick fix, the positive emotions that it begets can "debias" your thinking (opening up a new, more objective, more positive perspective on your troubles) and hone resources and skills (like creativity, sociability, and problem-solving skills) that will be useful in the future. [12]
+
+7. Reach out to people who care.
+
+Even though you know you're being falsely accused, you may well be experiencing feelings of embarrassment or shame. One of the pernicious aspects of these emotions is that they compound themselves--we're embarrassed by our embarrassment, and we're ashamed of our shame. In this state you may tend to turn inward, away from others, cutting yourself off from potential sources of support. It's essential to overcome any resistance you might feel, reach out to trusted allies, and spend time with people who care about you. This will almost certainly evoke a sense of vulnerability--and yet that's what will unlock the empathy that will enable you to let go of the embarrassment and shame. [13]
+
+Footnotes
+
+[1] The Blue Problem (Communication and Power)
+
+[2] David Rock on Neuroscience, Leadership and the SCARF Model
+
+[3] The Importance of Slowing Down
+
+[4] Overcoming Organizational Defenses, page 25 (Chris Argyris, 1990)
+
+[5] Talking About Feelings
+
+[6] Three Buckets (On Transparency and Trust)
+
+[7] The Trium Group on Responsibility
+
+[8] How to Fight a Fire (Self-Coaching in a Crisis)
+
+[9] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[10] Attention Surplus Disorder
+
+[11] Thought Suppression (Daniel Wegner, a summary of White Bears and Other Unwanted Thoughts: Suppression, Obsession, and the Psychology of Mental Control, 2nd edition, 1994)
+
+[12] The How of Happiness: A New Approach to Getting the Life You Want, pages 119-120 (Sonja Lyubomirsky, 2008)
+
+[13] Brené Brown, Vulnerability, Empathy and Leadership
+
+Photo by Harold R Cologne.
+
+
+===== END ED BOT ESSAY 4026 =====
