@@ -1,0 +1,113 @@
+---
+title: Weak Ties, Well-Being and Work Today
+url: https://edbatista.com/2023/05/weak-ties-well-being-and-work-today.html
+slug: weak-ties-well-being-and-work-today
+published: 2023-05-10T12:20:06
+updated: 2025-10-05T16:27:39
+source_body: wordpress-html
+---
+
+What types of interactions support well-being? Who helps us feel a sense of belonging and how? And what are the implications for our professional lives today?
+
+A body of research dating back half a century has explored the distinction between "strong ties" and "weak ties" among people, reflected in the amount of time spent together, the emotional intensity and intimacy of the relationship, and the degree of reciprocity. The former typically exist between family members and close friends, while the latter characterize relationships between more distant colleagues and acquaintances.
+
+Influential work by Stanford sociologist Mark Granovetter showed that weak ties play a special role in the spread of information throughout social networks. [1] Because people who share a strong tie tend to be similar, and because strong ties often overlap, forming a node in a network, people in these relationships tend to have access to the same information.
+
+Weak ties create more diverse connections across nodes, facilitating the dissemination of novel information. This is why you're more likely to hear about a job opportunity through a weak tie, from a colleague or acquaintance, which was one of Granovetter's most important findings.
+
+More recent work by psychologist Gillian Sandstrom, among others, has demonstrated the impact of interactions with weak ties on our sense of well-being and belonging: "Community members who had, on average, more weak tie interactions than others reported greater feelings of belonging. Furthermore, people reported greater feelings of belonging on days when they interacted with more weak ties than usual." [2]
+
+Subsequently Sandstrom and colleagues conducted a broad survey of related research, highlighting several noteworthy points:
+
+- A more diverse social network (including both strong ties and weak ties) contributes to improved physical health.
+
+- Weak ties are more likely to have helpful information regarding difficult life events.
+
+- In some circumstances people prefer receiving support from weak ties rather than strong ties.
+
+- Minor interactions with weak ties help satisfy our need to belong and contribute to well-being. [3]
+
+That last point takes on a heightened significance when we consider that our understanding of what it means to "belong" is often focused on connections with strong ties. For example, in another influential paper psychologists Roy Baumeister and Mark Leary emphasized the extent to which our sense of belonging derives from relationships in which we experience lasting bonds characterized by emotional expression and intimacy. [4]
+
+While my own work over the years has demonstrated the importance of safety, trust, and intimacy in supporting improved interpersonal performance [5], it's also been my experience that seemingly superficial "small talk" plays an outsized role in helping people develop these qualities in relationships and groups. [6] And it's clear that we can initiate such interactions more readily with weak ties--and that in many cases it's unlikely or unnecessary that weak ties become strong ones. [7]
+
+Three years after the onset of the pandemic, I think these findings have meaningful implications for professionals who continue to work remotely and for leaders who are seeking to find the right balance of virtual and in-person work within their organizations. Recent data cited by The Wall Street Journal indicates that U.S. office occupancy is at 49 percent of pre-pandemic levels, and that figure has increased minimally over the past year, after rising from a low of 15 percent to over 40 percent in 2020-21. [8] It seems quite plausible that we've arrived at a "new normal."
+
+I spend all day, every day talking with leaders in my coaching practice, and their experience mirrors these figures. With notable exceptions in fields such as biotech or manufacturing, my clients shifted to virtual work in 2020, slowly returned to spending some time in an office over the past two years, and have largely settled into a permanent-hybrid culture. Other than employees who never left the lab or the factory floor, almost no one is back in an office with all their colleagues five days a week. This has a number of benefits, as I identified in mid-2021:
+
+Rather than viewing remote work during the pandemic as a temporary response to a crisis, my clients generally see it as a learning experience that enabled their organizations to become more flexible on a permanent basis. The benefits of this flexibility include responsiveness to employees' preferences, the ability to attract and retain talent in a wider range of geographical locations, and even increased productivity in some circumstances. The idea that remote work prevents hustle certainly hasn't occurred to my clients, although its impact on culture and idea generation is more complex. [9]
+
+But this doesn't mean there aren't downsides to working virtually, or that my clients haven't struggled to address them, as I also noted: "It's becoming apparent that having every individual decide on a daily basis whether or not to join their colleagues in person will be sub-optimal and possibly dysfunctional. Instead, making the benefits of remote work sustainable will require a collective understanding of when, how, and why co-located work is necessary." [10]
+
+The research on weak ties offers compelling evidence that organizations can support employees' sense of well-being and belonging by creating opportunities for such interactions among colleagues. I suspect that this is one of the most important benefits of in-person experiences, even (and perhaps especially) when they occur infrequently. But there are certainly ways to foster such interactions virtually, although this requires a much more deliberate and thoughtful approach than simply stringing Zoom meetings back-to-back-to-back all day. What might any of this look like in practice?
+
+In-Person Events
+
+As I wrote in mid-2021, my clients generally reject the idea that all employees need to be in the same building constantly, but they do agree with some of the concerns raised by leaders who want to get "back to the office":
+
+They agree that aspects of organizational culture--specifically relationship-building and social cohesion--are supported by consistent in-person experiences, and they also agree that certain types of idea generation are more effective when people are physically present in the same room. However, they don't agree that everyone in the company needs to be in the office five days a week. Instead, they're determining which groups of people need to be co-located, for how long, and how often in order to accomplish these goals, and this can take any number of forms. Typically this involves more frequent in-person gatherings of the executive team and occasional in-person events for larger, more heterogeneous groups of employees. The key here is recognizing that in-person time is the scarce and valuable commodity, so long-term planning is critical, and time and effort must be expended to make the most of these opportunities. [11]
+
+That trend has continued over the past two years. Most of my clients' executive teams conduct a substantial amount of their work virtually, and most of them include one or more members who live in different locations. But almost all of them get together in-person on a consistent basis, often for several days a month or even one or two weeks per quarter. And these events typically include a mix of structured activities and open, unstructured time intended to promote social interactions.
+
+On a larger scale, most of my clients hold in-person events for functional teams and in some case the entire company. These occur less often, largely to minimize expenses and maintain productivity, but most clients who were holding such events pre-pandemic have continued to support them. And again, such events are generally designed to foster increased weak tie interactions.
+
+Virtual Activities
+
+Many in-person weak tie interactions occur as the result of serendipity and are unplanned--we encounter someone in a hallway, find ourselves behind them in a checkout line, or sit next to them at a meal. But virtual interactions that take place in real time, with both parties present, require advance planning and coordination. This not only adds a logistical burden but can also diminish the perceived value of the interaction, causing it to feel forced or awkward.
+
+We're still in the process of identifying the best ways to encourage weak tie interactions in virtual settings, but there are steps we can take. At the outset of the pandemic when countless numbers of people experienced a dramatic decrease in weak tie interactions as the result of lockdowns, institutional closures, and social distancing, Sandstrom and Harvard Business School professor Ashley Whillans suggested several strategies, including the use of asynchronous channels that maintain a connection without requiring real time presence:
+
+1. Use informal modes of communication.
+
+Phone calls can feel intrusive, and emails seem impersonal. Instead, try reaching out to a weak tie via text message or Facebook. This will allow the other person to respond whenever they can, so you don’t need to worry about reaching out at the wrong time.
+
+2. Don’t expect a reply.
+
+Rejection rates when reaching out to a weak tie are extremely low--in one of Gillian’s studies fewer than 12 percent of people who talked to strangers experienced a rejection. [my emphasis] However...if you don’t get a response, don’t take it personally.
+
+3. Set an expectation for a short and simple conversation.
+
+Your goal is to let the other person know you are thinking about them and open up the opportunity to chat, if they want to. It’s okay to keep the conversation short: In recent data one of us collected, a "just right" conversation with a stranger was about 10 minutes long... [12]
+
+But relying upon individuals to take the initiative to reach out virtually to weak ties will always be a partial solution. Organizations bear a responsibility to develop a virtual culture that supports weak tie interactions as well. What helps?
+
+- Experiment with a range of virtual activities that go beyond business-as-usual: Rituals for Virtual Meetings (Kürşat Özenç and Glenn Fajardo, 2021) [13]
+
+- Create more space for small talk and serendipity by managing time effectively: Take Five (Stop Meeting Back-to-Back-to-Back!)
+
+- Provide support so employees can invest in tools and equipment to improve their virtual experience: Better Conditions for Working Remotely.
+
+And on occasion, even weak ties may want to invest some time and energy to get to know each other better and perhaps grow a little stronger:
+
+- CONNECTIONS: Meaningful Virtual Conversations
+
+Footnotes
+
+[1] The Strength of Weak Ties (Mark Granovetter, American Journal of Sociology, 1973)
+
+[2] Social Interactions and Well-Being: The Surprising Power of Weak Ties (Gillian Sandstrom and Elizabeth Dunn, Personality and Social Psychology Bulletin, 2014). Sandstrom and Dunn acknowledge that their findings don't determine causality: "It is possible that feeling better causes people to interact with more weak ties; indeed these possibilities are not mutually exclusive." Even if causality runs in both directions, my work with many clients and personal experience leads me to find Sandstrom and Dunn's thesis compelling.
+
+[3] Social support from weak ties: Insight from the literature on minimal social interactions (Joshua Moreton, Caitlin Kelly and Gillian M. Sandstrom, Social and Personality Psychology Compass, 2023)
+
+[4] The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation (Roy Baumeister and Mark Leary, Psychological Bulletin, 1995)
+
+[5] Safety, Trust, Intimacy. Also see Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven Wolff, Harvard Business Review, 2001).
+
+[6] Bosses and Birthdays (The Importance of Small Talk)
+
+[7] Five Levels of Communication
+
+[8] The Covid-19 Crisis Is Officially Over. Everything Changed. (Stephanie Stamm and Danny Daugherty, The Wall Street Journal, May 5, 2023)
+
+[9] Four Buckets (On Co-Located Work)
+
+[10] Ibid.
+
+[11] Ibid.
+
+[12] Why You Miss Those Casual Friends So Much (Gillian Sandstrom and Ashley Whillans, Harvard Business Review, 2020)
+
+[13] Özenç, a user experience designer, has also co-authored a related book for in-person activities: Rituals for Work (with Margaret Hagan, 2019).
+
+Photo by AJ Cann.
+

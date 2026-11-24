@@ -1,0 +1,37 @@
+---
+title: Teach Concepts, Not Features
+url: https://edbatista.com/2013/12/teach-concepts-not-features-jakob-nielsen-on-lifelong-skills.html
+slug: teach-concepts-not-features-jakob-nielsen-on-lifelong-skills
+published: 2013-12-07T02:12:52
+updated: 2025-10-21T05:48:02
+source_body: wordpress-html
+---
+
+Technical educator and usability expert Jakob Nielsen makes a compelling distinction between teaching concepts and teaching features:
+
+There is some value in teaching kids skills they can apply immediately, while they're still in school, but there's more value in teaching them deeper concepts that will benefit them forever, regardless of changes in specific applications. Teaching life-long computer skills in our schools offers further benefit in that it gives students insights that they're unlikely to pick up on their own. In contrast, as software gets steadily easier to use, anyone will be able to figure out how to draw a pie chart. People will learn how to use features on their own, when they need them--and thus have the motivation to hunt for them. It's the conceptual things that get endlessly deferred without the impetus of formal education. [1, emphasis original]
+
+I was reminded of this yesterday as my MBA students at Stanford submitted their final papers for the Leadership Labs, a course in our core curriculum that I helped launch just a few months after Nielsen published his article. [2]
+
+Nielsen's distinction transcends computer skills, of course, and I'd argue that it applies to learners in all settings, not just school. In general terms a feature is any subroutine that allows us to accomplish a task, from drawing a pie chart to leading a meeting. The technical task is much simpler than the interpersonal one, because people are more complex than software, but there's still a parallel: To accomplish a given task, we follow a set of steps that are likely to lead to success.
+
+In contrast, a concept is a heuristic, not an algorithm. It's a more abstract--and more broadly applicable--set of ideas. The conceptual computer skills Nielsen discusses in his original article include search strategies, information credibility and user testing. Concepts don't tell us how to accomplish specific tasks. They help us predict outcomes, identify patterns, and understand why things are the way they are, but they don't lead step-by-step from Point A to Point B to success.
+
+All forms of experiential learning work best when teachers and learners have a common understanding about the difference between concepts and features. The students who get the most out of the courses I teach are those who can generalize from specific artifacts (such as role-plays, exercises, a group project) and begin to explore how the underlying concepts embedded in the experience might apply to other contexts, other teams, other tasks. When we're unable to help students see that we're trying to teach concepts, they understandably think we're trying (and failing) to teach features.
+
+Complicating matters further is the fact that interpersonal issues and group dynamics are so unpredictable that even the most fundamental concepts can never be relied upon all of the time. We work overtime to derive neat, orderly concepts from our messy, disorderly experiences, but that's not quite possible, as William James knew all too well. [3] And by definition experiential learning about groups and relationships occurs as the result of highly individualized (even unique) interactions between specific people.
+
+But it's because human behavior can't be reduced to a set of algorithms that efforts to improve our understanding of relationships and group dynamics need to focus on teaching concepts, not features. Just as an understanding of technical concepts allows us to interact effectively with data while we learn the features of new software, an understanding of interpersonal concepts allows us to interact effectively with others as we learn the features of new organizations, new teams, new relationships.
+
+Footnotes
+
+[1] Lifelong Computer Skills (Jakob Nielsen, 2007)
+
+[2] Teaching Leadership with Stanford's Leadership Fellows
+
+[3] William James on Experiential Learning
+
+ 
+
+Photo courtesy of Nielsen Norman Group.
+

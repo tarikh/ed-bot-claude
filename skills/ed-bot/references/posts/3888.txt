@@ -1,0 +1,49 @@
+---
+title: Are We Video-Gaming or Ditch-Digging?
+url: https://edbatista.com/2015/07/startup-leadership-are-we-video-gaming-or-ditch-digging.html
+slug: startup-leadership-are-we-video-gaming-or-ditch-digging
+published: 2015-07-22T11:40:11
+updated: 2025-10-10T14:14:23
+source_body: wordpress-html
+---
+
+In Startups as Human Systems I described early stage ventures as "deceptively complex organizations" and went on to note that "the small number of employees and, often, the shared background of the founding team can give the impression that the company's interpersonal dynamics will be simple and easy to manage. But by definition a startup is in the process of establishing its culture, the set of informal norms and formal practices that determine how people interact with each other in a given system. A startup's culture can change rapidly, sometimes with the arrival or departure of a single person."
+
+Here's a question that startup founders and early leaders can ask in order to insure that the team's composition and the organization's emerging culture continue to work together in concert: Are we video-gaming or are we ditch-digging?
+
+Video-gaming is all about solving complex puzzles and overcoming new challenges in a rapidly changing environment. Individual talent makes a huge difference, and thanks to their lightning-quick reflexes and problem-solving skills, the best gamers are orders of magnitude better than those who are merely very good.
+
+In contrast, ditch-digging is all about operational efficiency and effective teamwork. There are no puzzles to solve and few new challenges--just an immense amount of hard work to be accomplished with limited resources. Raw talent is less important than the ability to collaborate, and a harmonious team will beat any individual, no matter how skilled.
+
+Most startups begin life as a video game--a series of intellectually challenging puzzles to be solved, and founders and their first hires typically have a gamer's mentality. They're incredibly smart, fast-thinking people who relish the opportunity to test their skills against each other by coming up with the best solutions. These qualities can lead to conflict, but within reasonable limits that's not a problem, because the results of those clashes are worth the interpersonal cost.
+
+But as a company grows its essence changes. There are still puzzles to be solved, but in some areas brilliant solutions matter less than operational execution, and often business success depends on digging bigger ditches faster and more economically. While video-gaming (in a number of forms) will be necessary to drive the development of new markets and products, ditch-digging (in a number of forms) will be critical to continued growth and operating margins in established markets and products. Leaders must manage this transition on multiple levels, two of which I'll discuss here:
+
+Team Composition
+
+While some people are highly skilled at video-gaming and ditch-digging and can adapt their work style as needed, most of us are better at one or the other, and we have strongly held preferences that limit our flexibility. Startup leaders must constantly assess whether the right people are deployed on the right tasks, or whether changes need to be made. Great gamers' flashes of insight can become distractions, and their mercurial personalities can cause unnecessary conflict. And great ditch-diggers' single-minded focus can result in missed opportunities, and their preference for structure and order can give rise to bureaucracy.
+
+This often raises a series of dilemmas for startup leaders: Can early employees scale up--can they dig ditches effectively? Or should we bring in more senior people with operating experience--proven ditch-digging pros? Where we keep early employees in place, how do we insure their continued effectiveness? How much time and energy can managers devote to coaching and developing their reports? Where we bring in senior operators, how will early employees feel about being leveled? Or how will terminations affect the remaining team? And what if we've awarded senior titles or large equity stakes prematurely?
+
+Organizational Culture
+
+With good reason, startups pride themselves on their informal cultures. Flat structures and a lack of hierarchy support the efficient flow of information and allow people to make decisions--and change directions--rapidly. A sense of family blurs the boundaries between work and personal life and encourages early employees to feel invested in the company's mission, providing intrinsic motivation at a time when options are little more than lottery tickets. These characteristics are particularly well-suited to video-gamers, who need freedom and independence to do their best work, but may be less congenial for ditch-diggers, who need more predictability and structure.
+
+Here, too, startup leaders face a series of dilemmas: How do we build a culture that supports both video-gaming and ditch-digging? In what ways do we allow or cultivate distinct sub-cultures in different functions? And in what ways do we require a unified company culture across all functions? What aspects of our initial culture must be preserved because they're essential to our continued success? And what aspects of our initial culture must change because they've outlived their usefulness?
+
+The answer to these questions is, of course, "It depends." There's no one right way to address any of these challenges. There is, however, one sure way to get them wrong, and that's to fail to pay attention to them until it's too late. It's essential to think ahead, to ask whether we have the right people and the right culture not only for the business we're running now, but also for the business we want to run in the future.
+
+Thanks to Max Levchin for the metaphor.
+
+For Further Reading
+
+Startup Leadership: A Greater Us
+
+Startup Leadership: Are We Rowing or Rafting?
+
+Startups as Human Systems
+
+Startup Leadership (A compilation of posts on themes I see regularly in my practice.)
+
+Photos: Video-gaming by R Pollard. Ditch-digging by Oregon DOT.
+

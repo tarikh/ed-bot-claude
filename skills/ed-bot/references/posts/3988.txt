@@ -1,0 +1,61 @@
+---
+title: Deference Kills Coaching
+url: https://edbatista.com/2018/02/deference-kills-coaching.html
+slug: deference-kills-coaching
+published: 2018-02-26T05:00:00
+updated: 2025-09-24T11:58:12
+source_body: wordpress-html
+---
+
+The most effective coaching relationships are equal partnerships between the coach and the coachee. Both parties are invested in the process and its success, they're free to challenge each other or disagree, and they each feel a sense of mutual respect.
+
+This doesn't mean that the coach and the coachee are peers; this is often not the case. My professional identity differs substantially from that of most of my clients, who are primarily technology company CEOs, and it differs even further from that of my students at Stanford, who are MBAs in the early stages of their career.
+
+But our relationships with non-peers tend to be hierarchical, with one party perceived to be higher status than the other. Our contemporary egalitarian sensibilities may resist this impulse, but at some deep level we find comfort in pecking orders, and we create hierarchies all around us.
+
+And hierarchies run on deference. When we perceive someone as higher status than ourselves, even in some vague, ill-defined sense, we tend to defer in all sorts of ways. And when we perceive someone as lower status than ourselves, we tend to expect deference from them (even if we don't want to admit it.) As a consequence, we often characterize professional relationships that adhere to expected deference norms as "good," and those that don't as "bad."
+
+Note that I'm not talking about grossly excessive manifestations of hierarchy and deference that have (thankfully) been under attack since the Enlightenment. I'm talking instead about very subtle aspects of social interaction that derive from and confer differences in status. Most relevant in this context is the sense of a leader and a follower in a given conversation: The leader generally sets the agenda, changes the topic, speaks first when there's silence, interrupts more frequently, and provides answers to questions.
+
+All of these subtle status-driven behaviors play a crucial role in allowing hierarchies to function smoothly. This doesn't mean that such norms should always be observed; when we prioritize smoothness in our social relationships, much can be lost in the process. We've all sat through efficient, well-run meetings in which nothing meaningful was accomplished because no one was willing to say what they were truly thinking. We've all had polite, vacuous conversations in which no real human connection was achieved because both parties tacitly agreed to faithfully observe a set of unspoken rules.
+
+At the same time a certain degree of predictability is essential in our professional interactions, and the norms of deference help make this possible. A common theme in my coaching practice is the difficulty created by unpredictable behavior by people who fail to grasp the importance of understanding and abiding by expected social norms. (Most often this takes the form of a CEO dealing with a talented executive who's disrupting the team, and sometimes it takes the form of a leader who's received feedback that their own behavior is causing disruption.) So I'm well aware both of the counter-productive impact such norms can have when they're followed mindlessly and of the important role they play in organizational life.
+
+These dynamics become even more complex in the context of coaching, where any number of factors can raise the status of one party relative to the other. The coach generally has more familiarity with the process and has worked in such a setting with a large number of people, which may lead the coachee to feel like an inexperienced junior party (exacerbated by the fact that they're usually younger than the coach.) Alternatively, the coachee is usually paying for the coach's time and is in some sense the arbiter of the coach's effectiveness, which may lead the coach to feel an impulse to please the coachee (or at least to avoid causing offense.)
+
+As a consequence there's no single pattern that characterizes the status distinctions between coach and coachee; in any given coaching relationship there are usually some factors that elevate the coach's status and others that elevate that of the coachee. This doesn't mean that the status distinctions simply cancel each other out, but, rather, that they're fluid and dynamic.
+
+Why is this so important? Because status distinctions create hierarchical relationships, and hierarchical relationships trigger deference (and the expectation of deference), and deference kills coaching.
+
+When a coach defers: They fail to challenge the coachee's assumptions and mental models, and they collude in the coachee's illusions and misperceptions. They tolerate lateness or cancellations which weaken the relationship. They don't ask the truly difficult questions, the ones that may cause confusion or embarrassment or even shame. They do not interrupt.
+
+When a coachee defers: They accept advice and guidance that they know to be irrelevant. They take the coach's communication style as a given, rather than something that can be modified to better suit their needs. They fail to provide critical feedback to the coach. They limit the relationship to the issues that led them to seek coaching in the first place. They do not interrupt.
+
+Deconstructing deference norms--and doing so in a way that allows two non-peers to build a safe, candid relationship characterized by trust and emotional intimacy--is one of the fundamental tasks of coaching. There's no simple, immediate solution, but some of the steps that I take are listed below. Note that I'm not suggesting this is the "best" way to coach--it's simply what works for me--and most of these factors also serve other purposes beyond influencing the status distinctions and deference norms in my coaching relationships:
+
+- I'm generally available at specific times; I'm available outside those times only under very rare circumstances.
+
+- In my initial conversation with a client, I discuss the importance of creating an equal partnership and our mutual obligation to speak up if we ever feel that we're not honoring this commitment.
+
+- In this conversation I also emphasize that I'll err on the side of asking questions, but I will not withhold information that I believe could be useful to them; when I do offer advice and guidance, I'll be explicit about naming it, to make it easier to assess its relevance and accuracy.
+
+- And in this conversation I also note that my communication style is very flexible, and we'll work together to find the ways of interacting that work best for them.
+
+- In my initial conversation with a student, I make clear that our coaching will have no impact on my assessment of their performance in the class.
+
+- After this initial framing, I begin with an open-ended question: "Where do you want to start?"
+
+- I pay close attention to the interaction patterns between us, both in any given meeting and over time; while the dynamics will differ from meeting to meeting (and from one relationship to another), there should be a healthy fluidity to the process with relatively few fixed patterns (which are often a sign of a deference norm).
+
+- Every few conversations, I'll make sure that we step back at the conclusion to assess how things are going. I generally ask, "In what ways was this conversation useful, and what would you like to continue?" We jointly explore what went well and why, and then I generally ask, "Was there anything that was unhelpful about this conversation or that you'd like to do differently next time?" And we jointly explore what didn't go well and why, and how to improve.
+
+(This is a short list off the top of my head, and I may add to it in the future. I think a lot about the dynamics of coaching relationships, if that's not already obvious.)
+
+Finally, given the increasing popularity of coaching as a tool for leaders, it's essential to note the implications of the concepts discussed here for a coaching conversation between two people in a reporting relationship. I believe that skilled managers can coach their employees, but to do so effectively they must be careful to identify and discourage signs of deference. This can be extremely difficult, in part because the deference norms that characterize most manager/employee relationships can serve a useful purpose in the larger context of their work together. (Not always, of course, as I discuss above.)
+
+Failing to correct for the status distinctions that are intrinsic to the manager/employee relationship turns a potentially fruitful conversation into mere theater, with the manager asking leading questions and the employee trying to come up with the "right" answers, and that's just bad coaching.
+
+ 
+
+Photo by Dmitris Kamaras.
+

@@ -1,0 +1,145 @@
+---
+title: Mind the Gap (On Leading Senior Executives)
+url: https://edbatista.com/2022/04/mind-the-gap-on-leading-senior-executives.html
+slug: mind-the-gap-on-leading-senior-executives
+published: 2022-04-22T15:39:07
+updated: 2025-10-05T17:05:39
+source_body: wordpress-html
+---
+
+A theme in my practice is the CEO who's leading senior executives for the first time. This often occurs with a founder whose company has grown dramatically or has recently raised a significant round of funding. While some of their early-stage leaders will make the leap, others will need to be levelled in order to bring in senior executives whose talents and capabilities will better support sustained growth and successful operations at scale. [1]
+
+In many cases these executives know more about their function than the CEO, they have more experience than the CEO, and they may well be better at their jobs than the CEO. It's not uncommon for these CEOs to ask themselves, "How do I add value here?" It's possible for a less-experienced CEO to get in the way of their senior leaders--but more typically I see the opposite problem. The CEO gives their executives a great deal of space, only to find several months or quarters later that they backed off too far, and some important objectives were neglected and fell into the gap.
+
+So if you're a CEO in this position, how should you think about leading senior executives? How do you add value here? In my experience there are three areas where CEOs inadvertently create gaps--and there are steps you can take to minimize them or prevent them from developing in the first place. (And although in this essay I focus on CEOs and their executive team, many of the issues I address are relevant to any senior leader and their direct reports.)
+
+1. Accountability
+
+Senior executives require a great deal of autonomy, and this may entail a shift in perspective as CEO, particularly if you're used to working with direct reports who are less experienced, more deferential, and more dependent on you for tactical direction. The great management thinker Peter Drucker coined the term "knowledge worker" [2], and later discussed what they require from leaders:
+
+Knowledge workers are not subordinates; they are "associates." For, once beyond the apprentice stage, knowledge workers must know more about their job than their boss does--or else they are no good at all. In fact, that they know more about their job than anybody else in the organization is part of the definition of knowledge workers... To be sure, these associates are "subordinates" in that they depend on the "boss" when it comes to being hired or fired, promoted, appraised and so on. But in his or her own job the superior can perform only if these so-called subordinates take responsibility for educating him or her... Increasingly "employees" have to be managed as "partners"--and it is the definition of a partnership that all partners are equal. It is also the definition of a partnership that partners cannot be ordered. They have to be persuaded. [3]
+
+Most of your employees are already knowledge workers, of course, but Drucker's definition clarifies just what senior executives will expect from you as CEO: Acknowledgment of their expertise. A sense of partnership. Persuasion, not orders. And yet note that it's easy to create a gap when putting these ideas into practice in your working relationships with with executives.
+
+When Drucker began formulating these concepts in the mid-20th century, he and other innovative thinkers like Douglas McGregor [4] were exploring alternatives to the authoritarian, command-and-control style of management that prevailed at the time. McGregor's "Theory Y"--which "emphasizes the average person’s intrinsic interest in his [sic] work, his desire to be self-directing and to seek responsibility, and his capacity to be creative in solving business problems"--stood in stark contrast to the then-dominant "Theory X," which "assumes that people dislike work and must be coerced, controlled, and directed toward organizational goals." [5]
+
+And although the "Theory X" approach persists in some industries and certain parts of the world, in environments like my clients' organizations--and very likely in yours--the pendulum has swung far in the opposite direction. Today organizations that employ knowledge workers have absorbed the ideas of Drucker and McGregor to such a great extent that they're taken for granted.
+
+This sea change in management philosophy has generally been for the better, but there have also been some undesirable side-effects. One is the extreme pressure many contemporary leaders feel to avoid being accused of "micromanagement"--a concern that can be heightened with senior executives, who've been hired on the basis of their expertise and expect to have substantial authority in their function.
+
+As a consequence, some CEOs go to such lengths to avoid "micromanaging" senior executives that they essentially provide no management at all. This isn't how these CEOs would describe their actions. Their stated intent is to pursue the guidance prescribed by Drucker and McGregor--they want to "give people room" and "stay out of the weeds." But in effect they're merely hoping that an executive will succeed entirely on their own initiative. Occasionally this works--but when it doesn't, the process of replacing an under-performing leader can be costly and painful. [6]
+
+The key is recognizing that as CEO you must afford senior executives sufficient latitude to make use of their expertise, while also ensuring that they're held accountable for achieving agreed-upon objectives so that you can assess their performance. What helps in this process?
+
+- Clarity: The addition of a senior executive to your leadership team may affect everyone's responsibilities (including yours), so ensure that there's sufficient role clarity, not only when crafting their job description, but also on an ongoing basis. It's also necessary to clarify how decisions will be made in this new configuration before the inevitable power struggles become rancorous.
+
+- Feedback: Don't wait for performance reviews--make feedback normal. Given that senior executives are likely to have worked with experienced CEOs in prior roles, be sure to solicit feedback as well as provide it. The setting for these conversations should be consistent one-on-ones--get them on the calendar, don't cancel them, and let your executives set the agenda. While you may need to improve your ability to deliver critical feedback, if expectations aren't met merely expressing disappointment can be a useful starting point.
+
+- Empathy: As I've written before, "One of the reasons many leaders believe they can either hold people accountable or empathize with them is a misunderstanding of what is meant by 'accountability.' We often assume it entails a combative stance in an antagonistic interaction, with the goal of enforcing compliance--but that's not holding someone accountable, that's bullying them." The goal is to create a high-accountability, high-empathy culture in which "a shared sense of mission, strong feelings of ownership and responsibility, and relationships built on mutual trust and respect contribute to superior organizational results."
+
+2. Motivation
+
+Senior executives with a sustained record of success bring a host of assets with them. They know how to do the job, they understand the industry, and they have a network of former employees who will be inclined to follow them into their new role. This makes them appealing candidates for an organization that's striving to improve performance at scale, but it also affords them a wide range of options and increases their opportunity cost.
+
+As a consequence, they often have particular needs that must be met, not only to induce them to accept an offer, but also to ensure their continued motivation--and to fend off demotivation. The work of psychologist Frederick Herzberg on motivation is relevant here. Herzberg's thesis is that job satisfaction and dissatisfaction aren't endpoints on a single spectrum, but are two distinct scales. His research suggests that certain aspects of a job (called "intrinsic motivators") have greater potential to generate satisfaction, while other aspects (called "hygiene factors" or "extrinsic motivators") are more likely to generate dissatisfaction if they're perceived as inadequate or problematic:
+
+The factors involved in producing job satisfaction (and motivation) are separate and distinct from the factors that lead to job dissatisfaction... These two feelings are not opposites of each other. The opposite of job satisfaction is not job dissatisfaction but, rather, no job satisfaction; and similarly, the opposite of job dissatisfaction is not job satisfaction, but no job dissatisfaction...
+
+Two different needs of human beings are involved here. One set of needs can be thought of as stemming from humankind's animal nature--the built-in drive to avoid pain from the environment, plus all the learned drives that become conditioned to the basic biological needs. For example, hunger, a basic biological drive, makes it necessary to earn money, and then money becomes a specific drive. The other set of needs relates to that unique human characteristic, the ability to achieve and, through achievement, to experience psychological growth...
+
+The growth or motivator factors that are intrinsic to the job are: achievement, recognition for achievement, the work itself, responsibility, and growth or advancement. The dissatisfaction-avoidance or hygiene factors that are extrinsic to the job include: company policy and administration, supervision, interpersonal relationships, working conditions, salary, status, and security. [7]
+
+These findings offer some useful guidance to help you understand and influence your executives' motivation. Where do gaps typically emerge and what can you do to help close them?
+
+- Intrinsic motivators: CEOs create a gap here by imagining that senior executives are immune to the appeal of these factors. Everyone's needs differ--see below--but even highly experienced leaders can derive substantial satisfaction from a sense of achievement, recognition for those achievements, and opportunities for growth and advancement. It takes some creative thinking to design these factors into a more senior role, but a strategic People leader can help--and some well-timed celebrations can go a long way.
+
+- Extrinsic motivators: Senior executives command hefty compensation packages, but it's a mistake to assume that someone will remain satisfied with their comp, no matter how far you may have initially stretched to accommodate their requirements. Again, individual needs will differ, but the psychological process of hedonic adaptation means that we inevitably take improvements for granted--this is why salary and status are "hygiene factors" in Herzberg's framework. Even the most substantial increases eventually lose their ability to motivate, and the resulting gap between reality and expectations can be a major source of dissatisfaction. To be clear, I'm not suggesting that you simply defer to executives' wishes to keep them happy--that quickly becomes unsustainable. So be prepared to negotiate with them not only upon extending an offer, but also at regular intervals thereafter.
+
+- Individual variation: It's essential to have clarity on what each of your executives values most and the extent to which their needs are being met today. There are many reasons why a CEO shouldn't have too many direct reports, but this is among the most important. If you're managing too many executives, it's easy to lose touch with what motivates them as individuals and their respective levels of fulfillment and satisfaction. You may have to close that gap by shrinking or formalizing your executive team.
+
+3. Team Dynamics
+
+The arrival of senior executives has a powerful effect on the leadership team as a whole. In most cases a new executive is replacing an early-stage leader who's no longer a member of the team, and even if the transition was made with the prior leader's assent the reconstituted team will need time to gel. (This may take even longer if the prior leader was terminated or unwillingly levelled.) In this process, senior executives can be disruptive presences, both for better and for worse. They can role model higher standards of professionalism, offer new approaches to problem-solving, and inspire colleagues to improve their own performance.
+
+But this heightened sense of competition can also have a shadow side. Senior executives may be the first to hold VP or C-level titles, which can raise expectations for title advancement among other members of the team--some merited, others not. Although compensation details are held in confidence in most organizations, it's common for some of this information to leak or to be inferred, potentially causing resentment among longer-tenured leaders who earn less than the newer executives. Senior executives are usually driven people with high expectations for their peers' performance, which can cause impatience and friction if their colleagues aren't operating at the same level. And early-stage leaders who feel anxious about their ability to keep pace with the organization's growth may not feel inspired but threatened, resulting in turf wars and conflicts over scope.
+
+In parallel with these developments there's usually an evolution in the team's culture--again, for better and at times for worse. Some early-stage leadership teams include members who compensate for a lack of experience or limited capabilities with a deep devotion to the mission and a commitment to company values--and when their contributions no longer make up for their deficits, these leaders are often the first to be replaced by senior executives. The resulting group is comprised of higher-performing individuals, but the members may feel less connected and function less like a team.
+
+And many early-stage teams are "ethical pirates," in LinkedIn co-founder Reid Hoffman's term. [8] Without acting immorally, they eagerly break rules and ignore established procedures in order to get the job done--this yields innovation, but may not scale (and if it does scale, it can create incentives for unethical behavior.) Senior executives are often hired because they bring with them a set of established procedures that will presumably be more effective at scale. But this can trigger a culture clash between early-stage leaders who view senior executives as stifling bureaucrats, while the latter view the former as undisciplined amateurs.
+
+To return to the question above that I've heard many CEOs ask as they're assembling a team of senior executives--"How do I add value here?"--this is the context in which you can add a tremendous amount of value by addressing the gaps that can all too readily emerge on your leadership team:
+
+- Evolving norms: The arrival of senior executives is both the result and the cause of larger changes in the organization, and this will be reflected in new team norms--the informal practices that members feel obligated to follow, deriving from shared beliefs about productive behavior. In the absence of a process that identifies desirable norms, makes them explicit, and reinforces them consistently, groups often experience a gap between their stated intentions and their actual behavior, because rules aren't norms. More specifically, note the importance of norms related to emotional awareness and regulation, which affect a team's sense of trust, identity and efficacy.
+
+- Cultural integration: Team norms are just one manifestation of organizational culture, and senior executives usually bring with them a set of cultural practices that early-stage leaders will perceive as different or even alien. This may be one of the reasons that a senior executive was hired in the first place, but even in that case it's essential to close the gap between cultures through a process of integration. New executives must conform to the old culture just enough to gain credibility as change agents. Returning to Hoffman's management metaphor, "startup pirates" must be induced to "join the navy."
+
+- Functional rivalries: At times senior executives have the ability to put the interests of the entire organization ahead of their personal preferences. But even the most collaborative will on occasion prioritize the needs of their direct reports and their function, and they may view other functions as rivals, if not antagonists. A degree of cross-functional rivalry is healthy, but when the gap between functions grows too wide it's counter-productive and wasteful. The key is fostering a collective identity that transcends individual functions and encompasses the entire organization.
+
+Footnotes
+
+[1] The Fine Art of Levelling
+
+[2] The Effective Executive (Peter Drucker, 1967)
+
+[3] "Management's New Paradigms" (1998) in Management Challenges for the 21st Century, pages 17-22 (Peter Drucker, 2001)
+
+[4] For more on Douglas McGregor, see Leadership and Motivation: The Essays of Douglas McGregor (1966)
+
+[5] Beyond Theory Y (John Morse and Jay Lorsch, Harvard Business Review, 1970)
+
+[6] For more on managing terminations:
+
+- On Firing a Senior Team Member
+
+- Merciful Exits (On Under-Performing Executives)
+
+[7] One More Time: How Do You Motivate Employees? (Frederick Herzberg, Harvard Business Review, originally published 1968, republished 2003)
+
+[8] Uber Needs to Transition from "Pirate" to "Navy" (Reid Hoffman, LinkedIn, 2017)
+
+For Further Reading
+
+1. Accountability
+
+- Role Clarity and Role Confusion
+
+- Leadership, Decision-Making and Emotion Management
+
+- Power Stuggles Among Nice People
+
+- Make Feedback Normal. Not a Performance Review.
+
+- The Judicious Imposition of Structure (Part 2: Meeting Hygiene & One-on-Ones)
+
+- How to Deliver Critical Feedback
+
+- Leadership Word of the Day: DISAPPOINTMENT
+
+- Accountability and Empathy (Are Not Mutually Exclusive)
+
+2. Motivation
+
+- The Truly Strategic People Leader
+
+- CEOs and Celebrations
+
+- Stop Trying to Be "Good Enough" by "Getting Better"
+
+- Negotiating with Your Own Side
+
+- The Judicious Imposition of Structure (Part 1: The Executive Team)
+
+3. Team Dynamics
+
+- Rules Aren't Norms (On Better Meeting Hygiene)
+
+- Group Dynamics: Norms and Emotion
+
+- Conform to the Culture Just Enough
+
+- Pirates in the Navy
+
+- Startup Leadership: A Greater Us
+
+Photo by Ged Carroll.
+

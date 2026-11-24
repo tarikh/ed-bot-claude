@@ -1,0 +1,55 @@
+---
+title: Weather Systems (Power, Charisma and Leadership)
+url: https://edbatista.com/2019/05/weather-systems-power-charisma-and-leadership.html
+slug: weather-systems-power-charisma-and-leadership
+published: 2019-05-25T09:02:24
+updated: 2025-10-08T08:54:43
+source_body: wordpress-html
+---
+
+Powerful, charismatic leaders are like weather systems. They change the atmosphere, and people around them adjust accordingly. In many cases a leader's charisma played a role in enabling them to achieve a powerful position in the first place--and in most cases the trappings and rewards that accompany leadership roles contribute to an environment that enhances their power. Some of this is deliberate and intentional, but that doesn't mean it's inauthentic or should be characterized as manipulative.
+
+Yet the people working for such leaders--and the leaders themselves--need to maintain a degree of critical distance from this dynamic in order to observe it and assess its impact. They must be able to see the weather system and the leader's effect on the atmosphere because the leader's influence can trigger behavior the leader may not want, particularly excessive deference to the leader's wishes (both expressed and imagined).
+
+This isn't merely a function of the leader's active influence--it's a group dynamic in which all participants play a role, but it's usually an unconscious process. I've coached enough leaders who meet this description to know that they honestly want others to speak up and challenge them, but they're also blind to the ways they inadvertently punish resistance and reward deference. Resistance can feel irritating, and deference can feel soothing, so it takes self-awareness and emotion regulation for a leader to welcome the former and discourage the latter.
+
+People around the leader are also generally blind to their reflexive deference to the leader's charisma and hierarchical position. Note that I'm not talking about dictatorial leaders who demand obedience and intentionally punish resistance--in those cases people around the leader are well aware that deference is necessary to avoid the leader's displeasure and remain safe. In the cases I'm referring to the leader's overt influence isn't as obvious--it's a weather system, which is readily felt but not seen. And its invisibility means that the people around the leader often fail to see the effect on their own behavior.
+
+Even when the people around the leader do perceive this dynamic, there can be a collective reluctance to name it. The others are uncertain about whether or not the leader's behavior is intentional and how the leader will respond to an open discussion, and they're sheepish about acknowledging their own collusion in the process of deferring to the leader's influence. The result is a classic example of what the late Harvard Business School professor Chris Argyris called a "defensive routine":
+
+Whenever human beings are faced with any issue that contains significant embarrassment or threat, they act in ways that bypass, as best they can, the embarrassment or threat. In order for the bypass to work, it must be covered up...
+
+And because so many individuals use these actions frequently, the actions become organizational norms. The actions come to be viewed as rational, sensible, and realistic.
+
+The results are organizational defensive routines...actions or policies that prevent individuals or segments of the organization from experiencing embarrassment or threat. Simultaneously, they prevent people from identifying and getting rid of the causes of the potential embarrassment or threat. [1]
+
+So what can be done? A starting point for leaders and others is heightened self-awareness. What does this weather system feel like? How is it influencing peoples’ behavior? How are we colluding in avoiding embarrassment or threat?
+
+Leaders need to remind themselves that their influence can cause others to defer to their wishes (expressed and imagined), and while this may feel good in the moment, it does not necessarily support their long-term interests. Leaders also need to remember that this will occur even in the absence of conscious intent on their part--they need not actively assert themselves to have this effect on others. And leaders need to heighten their sensitivity to the unintended effects of their comments and behavior. Columbia Business School professor Adam Galinsky has noted that "the words of those with power loom large over those with less power," [2] a dynamic that a C.E.O I once worked with called "The Blue Problem":
+
+He had to be tremendously careful when offering any opinion on his company's products and services, because if he said something along the lines of, "Oh, I sort of liked that better when it was blue," it was heard by his colleagues as "CHANGE IT BACK TO BLUE!" [3]
+
+The people around a leader need to be aware of their reflexive deference to a leader's power and charisma. They need to remember that this need not require an adversarial relationship, feelings of hostility, or overt coercion on the part of the leader. It can happen even in genial interactions with leaders who are warm and caring--in these cases the perceived risk isn't that resistance will provoke a leader's anger, but that it will result in the leader's disappointment. Other people also need to acknowledge their agency and participation in this process--the responsibility does not lie with the leader alone, and silence will be interpreted by the leader as tacit approval.
+
+A next step for leaders is making it safer for others to resist, rather than defer. Harvard Business School professor Amy Edmondson notes that leaders can enhance psychological safety through very simple behaviors:
+
+Proactively invite input. Asking is the simplest and best way to get people to offer their ideas. Even if a leader has explained how error-prone the work is, people still have a threshold to overcome in speaking up with concerns or mistakes. To help them, simply ask questions...like: "What do you see in this situation?"...
+
+[And] respond appreciatively. Having explained the nature of the work and asked for input, if you bite someone’s head off the first time they bring bad news, that will kill the psychological safety pretty quickly... Responding appreciatively does not mean that you’re thrilled with everything that was said; it means that you recognize the courage it takes to come forward with bad news, or to ask a question when you’re unsure about something. [4]
+
+And a next step for others is recognizing that avoiding the risk of embarrassment or threat in the short-term increases the risk of other (potentially much worse) problems in the long-term. As I've written before, "We [don't] know the precise long-term cost that we will have to pay for NOT speaking up. We do know that censoring ourselves is stressful and generates negative feelings. We also know that we will inevitably blame those negative feelings on those who 'made us' censor ourselves." [5] The key is speaking up—skillfully.
+
+Footnotes
+
+[1] Overcoming Organizational Defenses, page 25 (Chris Argyris, 1990)
+
+[2] When You're in Charge, Your Whisper May Feel Like a Shout (Adam Galinsky, The New York Times, 2015)
+
+[3] The Blue Problem (Power and Communication)
+
+[4] Make Your Employees Feel Psychologically Safe (Amy Edmondson interviewed by Martha Lagace, Harvard Business School Working Knowledge, 2018)
+
+[5] Risk Management (The Importance of Speaking Up)
+
+Photo by Zooey.
+

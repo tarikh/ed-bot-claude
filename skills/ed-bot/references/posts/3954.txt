@@ -1,0 +1,77 @@
+---
+title: How to Scale: Do Less, Lead More
+url: https://edbatista.com/2017/11/how-to-scale-do-less-lead-more.html
+slug: how-to-scale-do-less-lead-more
+published: 2017-11-27T05:00:00
+updated: 2026-03-15T14:21:14
+source_body: wordpress-html
+---
+
+Most of my coaching clients are CEOs of growing companies, and a consistent theme in my practice is the importance—and the difficulty—of transitioning from a hands-on leader who personally gets things done to someone who leads in a different way in order to be more effective as the organization scales. I first wrote about this dynamic in 2012:
+
+The challenge is that throughout our education and in most, if not all, of our early professional roles, we're rewarded for our effectiveness as doers, and when we achieve a more senior position we often assume that our effectiveness as leaders will rely upon the same skills and characteristics that have fueled our success up to that point.
+
+But this can result in the illusion of effectiveness as a leader. We may believe that by working longer, harder, smarter--pick your superlative--than our team on a given set of tasks, we'll inspire by example. We just need to keep doing what we've been doing, albeit at a higher level.
+
+The problem is that a leader who continues to lead by doing more often becomes less effective and may even undermine the organization as it grows larger and more complex. How does this happen?
+
+Leader as Bottleneck
+
+The simplest form this can take is that the work to be done outstrips the leader’s capacity. All of my clients work extraordinarily hard and are deeply committed to their professional roles—I describe them as "happy workaholics," an identity I share. But even their substantial capacity for work will eventually be insufficient to meet the organization’s needs, and this shift can happen surprisingly quickly. This is one of the "problems of success" that can catch leaders by surprise—they’re so focused on avoiding anticipated failures that they’re unprepared when things go well.
+
+Leader as Unqualified Decision-Maker
+
+This also occurs when the leader retains authority to make decisions even though they’re no longer the most-qualified decision-maker. In many cases the organization’s increasing size and complexity means that the information needed to support good decision-making is no longer centrally located but now resides at the margins. In the earliest stages of a company’s development, the leader may be the only person with access to this information because it can be found in their head and nowhere else, but eventually other pools of data are developed on employee performance, customer behavior, market opportunities, technical issues, and financial metrics. Even in situations where a leader can continue to add value through their unique perspective or intuition, an excessive dependence on centralized decision-making will result in slower response times and more mistakes.
+
+Leader as Outdated Expert
+
+A variation on the theme above arises when the leader continues to be viewed as the expert in a given area, inhibiting people with deeper expertise from taking greater responsibility (or discouraging them from joining the organization to begin with). In many early-stage organizations the leader truly is the expert, and they know more about the work to be done than anyone else. But one of the primary tasks of a leader in a growing organization is attracting and empowering increasingly experienced and highly skilled professionals. Sometimes a leader’s insecurities make them reluctant to hire people who might be more effective than they are, but even when this isn’t the case others in the organization may feel reluctant to deviate from the leader’s established methods, preventing change and stifling innovation.
+
+Leader as Short-Circuit
+
+Growing organizations require increasing routinization of work. Tasks are transformed into processes, which are then combined into systems. This trend can be counterproductive, and I’m not suggesting that organizations should rush to embrace bureaucracy. But the fluidity and ambiguity that foster creative problem-solving in an early stage startup will feel like chaotic dysfunction at a later point in the company’s development. The dilemma this poses for leaders in growing organizations is that they typically prefer fluidity and ambiguity—this is why they launched the venture or took the job in the first place. They also generally have a bias for action, and when they’re faced with a system that seems to be slowing things down, they simply ignore it. This can be a great strength—but it can also be a crucial weakness, particularly when a leader’s reflexive disregard for systems prevents their healthy evolution in the organization at large.
+
+Leader as Heroic Demotivator
+
+We rightfully expect leaders to be able to step in at a tense moment and take heroic measures to defuse a crisis or solve a difficult problem. But when a leader repeatedly continues to intervene in these situations as an organization grows it can be a problem. People are taught that this is the leader’s job, not theirs, and they fail to develop their own crisis-management and problem-solving abilities. In certain circumstances it becomes convenient to define a challenge as a “crisis” that only the leader can resolve, and both leaders and others can collude in this fiction, burnishing the leader’s ego while absolving others of responsibility. And ultimately even the most intrepid employees can feel demotivated when the leader is always there to "rescue" them.
+
+So what does it look like when a leader avoids these pitfalls? I recently received the following from a client, the CEO of an enterprise software company:
+
+I thought I'd share a pretty big success today. There's nothing particularly special about it in terms of major milestones, but rather the processes and general company state.
+
+One day a week I do all my check-ins: sales funnel reviews, customer success reviews, goal reviews and one-on-ones with the management team.
+
+I basically "did nothing" today other than get updates from the company: We closed a new customer, we hired a new account executive, we’re close to hiring a VP, and we ran a workshop with a client. Three of our customer success reps worked on accounts I used to own. And some of our senior team members are mentoring other employees and advising them on their careers. All without my involvement.
+
+At lunch, I had to take a step back because I was overwhelmed. It was the first time in my life when I guided and oversaw a lot but did not have to do the work myself. It felt incredible--the idea of having so much impact... So much scalable impact. I am really proud of this.
+
+I wanted to share it with you as I think it’s about a lot of what we’ve been discussing. It’s still hard to actually let go, but the feeling was so nice.
+
+I suspect my client would be the first to say that this is a work-in-progress and that they still have much to achieve as a leader and as a company before they’ve fully realized their goals. And yet it strikes me that they’re well-positioned to continue to scale in a way that supports superior performance. So how do we get there? What steps can we take?
+
+The first step is recognizing the importance of mindfulness, open space, and reflection. Leaders of growing organizations can easily view these as luxuries they can't afford because they're so busy--when in fact such activities are absolutely necessary to insure that a leader is focusing their attention on the most important tasks, that they truly understand how they're feeling (and the implications of those emotions), and that they're in the right frame of mind to make high-stakes decisions and engage in difficult conversations.
+
+And here are ten more concepts that come up consistently in my practice:
+
+- Develop a sense of comfort with discomfort.
+
+- View leadership as a performing art.
+
+- Recognize the risks of moving too quickly and slow down.
+
+- Explore vulnerability and empathy.
+
+- Recognize that growing organizations are human systems.
+
+- Serve as a coach, mentor and motivator (and not just an expert, evangelist or trainer.)
+
+- Create safety (and be mindful of how we create danger).
+
+- Cultivate resilience and face adversity with equanimity.
+
+- Create a feedback-rich culture.
+
+- Realize that "Work hard or work smart?" is the wrong question.
+
+Photo by Andrew Eland.
+

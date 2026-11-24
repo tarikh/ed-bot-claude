@@ -1,0 +1,95 @@
+---
+title: Racing Up the Ladder of Inference
+url: https://edbatista.com/2014/02/racing-up-the-ladder-of-inference.html
+slug: racing-up-the-ladder-of-inference
+published: 2014-02-11T02:08:20
+updated: 2025-10-28T10:01:30
+source_body: wordpress-html
+---
+
+One of the best frameworks for understanding human behavior, particularly anything we find confusing or problematic, is the Ladder of Inference, shown at right. This elegant model was first developed by Chris Argyris, building on the work of S.I. Hayakawa and Alford Korzybski, and articulated further by William Isaacs and Rick Ross. Start at the bottom and work your way up:
+
+Selection: Our starting point in any experience is the process of identifying and selecting certain data from the sum total of all observable data.
+
+Interpretation: We interpret the data we select and invest it with meaning, a process that occurs at the cultural and personal levels. Argyris describes "culturally understood meanings" as interpretations "that individuals with different views...would agree were communicated." [1] Note that the "culture" in question may range from a nationality to an organization to a two-person relationship, but whatever its scope, certain meanings will be commonly understood by all members. At the personal level, individuals from the same culture may interpret the same data differently, depending on their particular perspective.
+
+Conceptualization: As we select and intepret data over time, we develop a set of theories and beliefs that explain our interpretations. These theories and beliefs--which Argyris and Chris Schön called "mental maps" and "mental models"--help us make sense of not only of specific individuals, relationships, groups and situations but also of how people generally operate in organizations and the world at large.
+
+Action: Finally, we take action on the basis of these theories and beliefs, which provide us with a set of behavioral algorithms--habitual responses to certain circumstances that kick in when a given mental model is triggered.
+
+The key to the Ladder of Inference and its value in helping us to understand confusing or problematic behavior is to note the potential for misunderstanding at each stage of the process:
+
+Selection (Where We Go Wrong): Because it's impossible to take in all the observable data in a given experience, we rely upon cognitive biases and heuristics to help us focus our attention on the data that (we believe) matters most. [2] Although this process is essential in allowing us to function efficiently, it's also subject to significant error, particularly when we're under stress. So it's worth asking: Are we truly focusing on the most important data, or are our biases and heuristics causing us to fixate on certain data while ignoring others?
+
+Interpretation (Where We Go Wrong): The meanings we impose upon the data we select are highly subjective, seen through the lenses of both the surrounding culture and our personal experience. This isn't to suggest that all our interpretations are suspect; we've evolved a keen ability to rapidly and accurately interpret massive amounts of data. And yet our overall effectiveness in this process means that we rarely stop to question our interpretations; we automatically assume that meaning is inherent in the data itself, rather than something we actively construct. So it's worth asking: Does a given piece of data mean what we think it does, or might our cultural or personal lenses be causing some distortion?
+
+Conceptualization (Where We Go Wrong): Once again, the quest for cognitive efficiency that leads us to further condense our interpretations into a set of conceptual theories and beliefs serves an important purpose but also threatens to lead us astray on a regular basis. As we refine our experiences from perceptions (observed data) to conceptions (abstract theories and beliefs), by necessity we leave out vast amounts of potentially crucial information as we streamline and simplify. So it's worth asking: How might our theories and beliefs fail to fully account for what's happening right now?
+
+Action (Where We Go Wrong): By the time we've reached the top rung of the Ladder, we're executing our behavioral sub-routines like clockwork. But that consistency in part reflects our resistance to any form of cognitive dissonance that might threaten to disrupt the process; as I've written before, "when our attitude and our behavior are inconsistent, we experience discomfort and even distress, and we modify either our attitude or our behavior to reduce the inconsistency." [3] Further, research suggests that we tend to change our theories and beliefs in order to bring them in line with our preferred course of action. [4] So it's worth asking: Are we truly taking thoughtful action, or are we on autopilot?
+
+A further systemic source of error is the Reflexive Loop, first noted by William Isaacs: Our theories and beliefs affect the data we select, typically resulting in the selection of data that reinforce those theories and beliefs. As David Bradford is fond of saying, "Whoops--I'm right again!"
+
+The fundamental problem here is that the Ladder carries us rapidly away from our actual, lived experience into a cloud of abstraction, where it can be extremely difficult for reality to penetrate. As Argyris writes, "This ladder of inference shows...that the evaluations or judgments people make automatically are not concrete or obvious. They are abstract and highly inferential. Individuals treat them as if they were concrete because they produce them so automatically that they do not even think that their judgments are highly inferential." [5]
+
+But we shouldn't give up hope, as Rick Ross notes: "You can't live your life without adding meaning or drawing conclusions. It would be an inefficient, tedious way to live. But you can improve your communications...by using the ladder of inference in three ways:
+
+Becoming more aware of your thinking and reasoning (reflection);
+
+Making your thinking and reasoning more visible to others (advocacy);
+
+Inquiring into others' thinking and reasoning (inquiry)." [6]
+
+An even simpler way to use the Ladder is to determine what rung we're on, pause, and drop down a step (or two):
+
+- If we're taking action, pause, and ask ourselves what theories and beliefs are driving our action.
+
+- If we're formulating theories and beliefs, pause, and clarify the meaning we're imposing upon the data at hand.
+
+- If we're interpreting data, pause, and determine just what data we've selected.
+
+- And if we're selecting data, pause, and check to see what other data might be out there.
+
+Postscript: The Ladder and Emotion Regulation
+
+Argyris, who died in 2013, developed the Ladder decades ago without the benefit of contemporary neurological and psychological research, but we can certainly view it as a tool to support emotion regulation [7], more specifically the process of cognitive reappraisal, which Columbia University psychologist Jason Buhle describes as "a strategy that involves changing the way one thinks about a stimulus in order to change its affective impact." [8] David Rock, who's written extensively on the implications of neuroscience for coaching and organizational life, notes that "when we pull apart the difference between an event and our interpretations of it, we are setting the stage for reappraisal," [9] which is a concise description of how to use not only the Ladder but also Rock's own SCARF model for deconstructing perceived social threats. [10]
+
+But this highlights the difficulty of "pausing" at the various rungs on the Ladder, as advised above, because the entire cycle of selecting and interpreting data, fitting our interpretation into a set of theories and beliefs, and taking action can be completed in just fractions of a second. This is where our capacity for mental control and emotion management are critical. [11] Comprehending the Ladder is just the first step; to put it into practice in real life we have to continually develop our abilities to intervene in our cognitive and emotional processes, direct our attention toward certain stimuli (and away from others), and learn to regulate our thoughts and emotions without suppressing them. And that's much harder work.
+
+Footnotes
+
+[1] Overcoming Organizational Defenses: Facilitating Organizational Learning, page 88 (Chris Argyris, 1990)
+
+[2] When Heuristics Go Bad
+
+[3] Attitude, Behavior, Cognitive Dissonance and Authenticity
+
+[4] Neural activity predicts attitude change in cognitive dissonance (Vincent van Veen, et al, Nature Neuroscience, November 2009)
+
+[5] Argyris, pages 88-89
+
+[6] "The Ladder of Inference," Rick Ross, page 245 in The Fifth Discipline Fieldbook: Strategies and Tools for Building a Learning Organization, (Peter Senge, 1994)
+
+[7] "Emotion Regulation: Conceptual and Empirical Foundations," James Gross and Ross Thompson, page 1 in Handbook of Emotion Regulation (James Gross, editor, 2nd edition/2015)
+
+[8] Cognitive Reappraisal of Emotion: A Meta-analysis of Human Neuroimaging Studies (Jason Buhle, Association for Psychological Science, 2013)
+
+[9] Coaching with the Brain in Mind: Foundations for Practice, page 360 (David Rock and Linda Page, 2009)
+
+[10] David Rock on Neuroscience, Leadership and the SCARF Model
+
+[11] White Bears and Car Crashes (Thinking About Thinking)
+
+Credits
+
+The most commonly-cited discussion of the Ladder can be found in the outstanding Fifth Discipline Fieldbook, by Peter Senge et al. The Ladder chapter [pp 242-246] is by Rick Ross, and while it provides a concise and useful description of the concept, I find the illustration (by Martie Holmer) unhelpful. It includes seven (!) steps in the process and refers to"meanings," "assumptions," and "conclusions" without offering any substantive distinctions among those terms.
+
+I prefer Argyris' discussion in Overcoming Organizational Defenses [pp 88-89]. It's simpler and more straightforward, although--Argyris being Argyris--it's densely written and requires some understanding of other concepts in his framework. (The Ladder is also discussed more extensively in Argyris' Reasoning, Learning and Action.)
+
+My framework above is a hybrid of Argyris' original and the Ross/Senge version. The former treats "Culturally understood meanings" and "Meanings imposed by us" as separate rungs--I've collapsed them--and omits a step from theories/beliefs to action. The latter, as I've noted, has seven (!) steps, which is just way too many.
+
+Thanks to my Stanford colleagues Carole Robin (who introduced me to the Ladder) and Hugh Keelan (who teaches an informative and highly-entertaining segment on the Ladder each year to our Leadership Fellows).
+
+For serious nerds only: According to William Isaacs, a colleague of Senge and the author of Dialogue: The Art of Thinking Together, Argyris' work on the Ladder is "based on a theory of abstraction by Alford Korzybski," a Polish intellectual from the early 20th century [Dialogue, p 408]. Korzybski is best known today for the line "A map is not the territory it represents," although the book from which this concept derives, Science and Sanity, isn't widely read (I've just skimmed online excerpts), and people interested in his theories are generally referred to the more coherent and accessible Language in Thought and Action, by S.I. Hayakawa (which I highly recommend). In the preface to the 5th edition of "Language...", Hayakawa cites Korzybski as his primary influence. Isaacs refers the even more diligent researcher to Samuel Bois' The Art of Awareness, which I haven't read.
+
+Photo by Robert Couse-Baker.
+

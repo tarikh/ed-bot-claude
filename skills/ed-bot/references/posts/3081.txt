@@ -1,0 +1,19 @@
+---
+title: CEO Smackdown, Blog-Style
+url: https://edbatista.com/2005/01/ceo_smackdown_b.html
+slug: ceo_smackdown_b
+published: 2005-01-22T11:17:11
+updated: 2025-10-26T21:28:16
+source_body: wordpress-html
+---
+
+Sun President Jonathan Schwartz has his own blog, and yesterday he posted an open letter to IBM CEO Sam Palimisano:
+
+"[Sun customers] have now asked me to begin communicating with you in a more public and visible way - they'd like the choice to run IBM products on [the new Sun operating system] Solaris 10, and they're feeling that your withholding support is part of a vendor lock-in strategy. A strategy to trap them into IBM's proprietary Power5 platform only. [Emphasis his.]
+
+Frankly, that behavior is reminiscent of an IBM history many CIO's would like to forget."
+
+Bring it on, Jon.  This seems like a great use of the medium, a validation of the blogosphere, and a refreshingly candid voice from a corporate bigwig.  If Sun's President is putting his blog to good use, why isn't your organization's leadership doing the same?
+
+Hat tip to Benjamin Pimentel for his article in today's S.F. Chronicle.
+

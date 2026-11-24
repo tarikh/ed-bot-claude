@@ -1,0 +1,103 @@
+---
+title: In Defense of Normal (A Coaching Manifesto)
+url: https://edbatista.com/2012/02/in-defense-of-normal.html
+slug: in-defense-of-normal
+published: 2012-02-14T13:16:40
+updated: 2025-11-16T20:00:52
+source_body: wordpress-html
+---
+
+By definition, coaching and other services aimed at helping people be more effective and fulfilled as professionals must challenge established norms, from clients' internal mental models to the surrounding organizational culture. But even as we're challenging these norms, coaches and our clients must also find ways to work within them.
+
+In a word, for coaching and other interventions to achieve their goals they must be perceived as normal--stimulating and thought-provoking, certainly, but also applicable under everyday conditions. But too often coaching and related services are perceived as special--applicable only under unusual circumstances or too far beyond everyday norms to be practical or sustainable.
+
+I'm not suggesting this balance is easy to maintain--it may be one of the hardest tasks coaches and our clients face. But it's also one of the most important. If we fail to challenge our mental models, our organizational cultures and our working relationships, there's no learning, no change, no growth. But if we fail to work effectively within that context--even as we challenge it--we're finished before we start.
+
+Here's how I strive to find that balance in my own work as a coach with my clients and my MBA students at Stanford:
+
+1. The Normal Coach
+
+While it's essential that I stretch myself as a coach and challenge myself to make full use of the tools at my disposal, it's equally important to avoid coaching jargon and catchphrases, to respond naturally in coaching conversations, and to be myself without disappearing into the role. I aim to be a person who coaches, not a "Coach." In other words, be normal.
+
+Being normal myself allows coaching to be seen as a normal form of helping and interacting, rather than as something special or extraordinary. As Edgar Schein writes in Helping (one of the best books I can recommend for any coach or leader):
+
+The cultural stereotype of helping is to be an expert or doctor. We have, in a sense, overlearned to play these roles... [But] starting in the expert or doctor role creates the potential for both the client and the consultant to fall into traps as a result. [1]
+
+The dilemma for coaches isn't merely that the expert or doctor roles are such vivid archetypes--it's that both coaches and clients can collude in the portrayal of coach-as-expert or coach-as-doctor because it plays into everyone's secret desire to be seen as special in one way or another. The portrayal of the coach as special implies that the client is also special, with special needs that can only be addressed via this special process.
+
+When I'm merely normal as a coach, not only am I more accessible when working directly with clients and students, it's also easier for those clients and students to envision themselves as coaches, to step into the coaching role and to coach each other, making it much more likely that the work we've begun will continue after I'm gone.
+
+One further point on jargon from activist Abbie Hoffman, who advises anyone seeking to foster change to "Be very conscious of your language":
+
+It cannot be stressed too strongly how much language shapes your environment. Language should be action-oriented, exciting, creative, simple and upbeat... You can't afford the luxury of being boring or of creating a language that the average person cannot understand. Avoid, for example, using initials for the full name of an agency. Even if all the people you are addressing know that EPA stands for Environmental Protection Agency...say the full name. Why? As a reminder not to slip into the language of the bureaucracy. Those in power can, but not the challengers. [2]
+
+The equivalent of Hoffman's bureaucratic acronyms are the catchphrases my coaching colleagues and I use all too liberally. But every time we take one of those linguistic shortcuts, we miss an opportunity to help our clients understand and describe the work we do together in simple, straightforward terms that can be readily communicated to others.
+
+2. The Normal Client
+
+While it's my duty to challenge my clients' mental models and assumptions and to fully leverage my skills as a coach in the process, I also have an obligation to avoid pathologizing my clients and to accept them as they are. [3] In other words, they're normal.
+
+In the words of the authors of Co-Active Coaching, "From the...coach's perspective, nothing is wrong or broken, and there is no need to fix the client." Further, coaches must regard our clients as "creative, resourceful and whole." The latter phrase can certainly sound like jargon, but let's call it "colorful" instead and make use of it for now. [4]
+
+I'm also influenced by Kurt Lewin's 3-stage model of change in which our existing behavioral patterns must be "unfrozen" before meaningful change can occur, and we then "refreeze," creating a set of new patterns, altered but consistent with our previous ones. Turning again to Edgar Schein, who's written in an extensive discussion of Lewin's theory:
+
+The main point about refreezing is that new behavior must be to some degree congruent with the rest of the behavior and personality of the learner or it will simply set off new rounds of disconfirmation that often lead to unlearning the very thing one has learned. [5]
+
+This has crucial implications for how I view my clients: For any change that occurs through the coaching process to be sustainable for a client, it must be "to some degree congruent with the rest of [their] behavior and personality." And for this to be possible, I must view my clients as normal--as creative, resourceful and whole.  (This is a corollary to Schein's point above on the helping role: If I portray myself as the doctor or expert, I'm implicitly defining my client as a patient or as inept; in other words, no longer normal but rather a problem to be fixed.)
+
+And while I make an important distinction between coaching and therapy, I've found great value in the thinking of Uri Merry and George Brown, who applied the principles of Gestalt therapy to the practice of organizational change. As Merry and Brown make clear, "When we speak of using Gestalt therapy with organizations or at the organization level, the fact remains that we ultimately are going to be using this approach with individuals or groups of individuals," and, again, the implications for how I view my clients are profound:
+
+A Gestalt therapy approach to management development...[employs]...a focus on recognition and mobilization of the individual's strength and powers...an emphasis on strengthening the person's competence and autonomy...[and]...an emphasis on increasing the individual's competence. [6]
+
+Strength, power, competence, autonomy--i.e. normal.
+
+3. The Normal Organization
+
+Finally, just as I must challenge my clients while also viewing them as intrinsically normal, we both have to adopt the same basic attitude toward the organizational context that surrounds them. It's critical that each client and I assess how their organizational culture and their working relationships influence their individual effectiveness and fulfillment--failing to assign appropriate responsibility to the situational context is a classic example of the fundamental attribution error. [7]
+
+But just as I can't pathologize my clients, we can't pathologize their organizational context (and I have to be mindful of the occasional temptation to collude with a client in that process.) All behavior is adaptive in some way, and organizational cultures are merely manifestations of the cumulative adaptations made by every individual. In this sense, even the most dysfunctional organization is, in its way, normal.
+
+The implications of this are significant for both the client and myself. While we need to challenge the organizational context, hold it sufficiently accountable and seek to change it where necessary, we also need to conform to it just enough. In this I've been influenced by Rob Goffee and Gareth Jones' approach:
+
+[Leaders must] read the organizational context. This involves understanding the complex social architecture to which the leader must adapt in order to obtain traction in the organization.
+
+The crucial word here is adapt. Leaders must conform enough if they are to make the connections necessary to deliver change. Leaders who succeed in changing organizations challenge the norms--but rarely all of them, all at once. They do not seek out instant head-on confrontation without understanding the organizational context. Indeed, survival (particularly in the early days) requires measured adaptation to an ongoing, established set of social relationships and organizational networks. [8]
+
+This applies not only to my clients but also to me; I must conform just enough to the organizational context to gain traction as a coach and agent of change. If I challenge it too aggressively, I'll be rejected out of hand--and if I conform too readily, I'll be of minimal value to my client.
+
+To be clear, I'm not excusing or condoning toxic levels of dysfunction. My aim in viewing organizational behavior as fundamentally adaptive and normal is helping my clients gain the traction they need to change the context and the perspective required to adapt to it without undermining themselves. And in some truly toxic organizations, a client's efforts to conform, even minimally, would be counterproductive, and I'd do them (and myself) a disservice if I ignored this reality. In those cases we can opt to stand and fight, while recognizing the effort is likely to fail, or let go and move on with our lives--but in my experience such situations are rare in the extreme.
+
+Thanks, Michael
+
+This "Defense of Normal" was inspired by Michael Bungay Stanier, who recently challenged his colleagues to look in the mirror:
+
+I suspect many managers look at people who’ve drunk the coaching Kool-Aid and go...
+
+They’re slightly weird. I don’t want to be like that.
+
+Somehow coaching has become Coaching, a peculiar and slightly unnatural way of behaving. It’s like a fetish. Fine if it’s practiced between two consenting adults in private, but just don’t include me in it.
+
+But Peter Block said it best: "Coaching isn’t a profession, but a way of being with each other." [9]
+
+Footnotes
+
+[1] Helping: How to Offer, Give, and Receive Help, pages 54, 64 (Edgar Schein, 2009)
+
+[2] "How to Fight City Hall" (Abbie Hoffman, originally published in Parade, 1984, currently available in The Best of Abbie Hoffman, 1993)
+
+[3] Corn Mazes and Mental Models
+
+[4] Co-Active Coaching: Changing Business, Transforming Lives (Henry Kimsey-House, Karen Kimsey House, Phillip Sandahl and Laura Whitworth, 2011)
+
+[5] Kurt Lewin's Change Theory in the Field and in the Classroom: Notes Toward a Model of Managed Learning (Edgar Schein, 1995)
+
+[6] The Neurotic Behavior of Organizations (Uri Merry and George Brown, 1987, cited in Gestalt Coaching)
+
+[7] Setbacks, Mindset and the Fundamental Attribution Error
+
+[8] Why Should Anyone Be Led by You?, pages 109-110 (Rob Goffee and Gareth Jones, 2006)
+
+[9] The Evolution of Coaching (Michael Bungay Stanier, 2012)
+
+Photo by John Voo.
+

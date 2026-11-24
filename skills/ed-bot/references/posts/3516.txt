@@ -1,0 +1,73 @@
+---
+title: Mindreading (Leadership and Conveying Intention)
+url: https://edbatista.com/2008/03/intention.html
+slug: intention
+published: 2008-03-01T16:29:33
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+A theme in my practice is the difficulty that leaders experience in sharing the right amount of information when providing direction. When they offer too much, employees feel micromanaged or that the leader lacks trust in their abilities. But without enough information employees must guess at what they're being asked to do, and both parties grow frustrated if those initial guesses prove wrong. Psychologist Gary Klein has spent his career studying decision-making under stress with imperfect information--firefighting, air traffic control, military operations. The challenge, Klein notes, is that people aren't mind-readers, but at times we must act as though they are. The solution involves conveying our intention:
+
+Whenever we make a request--ask for an errand or give a command--we need the person to read our mind. To make this possible, both parties have to extend themselves. The person making the request can help by specifying the intent behind the request. The person trying to carry out the request has to imagine what the other person really wants, to handle all the details that did not get explained. [1]
+
+But all too often we solve for this problem by adding the wrong kind of information, which results in dependence on the leader as the source and slows down subsequent actions that might be taken by decision-makers who are closer to the situation:
+
+The answer is not to pile on the details. That takes too long, and it has its own costs... If we have to labor at breaking out all the assumptions behind requests, teamwork and cooperation would become almost impossible. [2]
+
+Conveying our intention has the opposite effect: "When you communicate intent, you are letting the other team members operate more independently and improvise as necessary." [3] Promoting independence reduces the need for clarification and allows employees to detect deviations from your assumptions as well as errors in your thinking.  Promoting improvisation allows employees to react more quickly and take advantage of new opportunities, to prioritize on their own, and to move on to the next logical task when the current one is completed.
+
+So what does this look like in practice? "What does it mean," Klein asks, "to understand someone else's intent? If you could interrogate the person giving the orders, what would you ask? What knowledge do you we need to understand what someone else wants?" [4] He answers these questions by describing seven types of information that we can offer in order to help someone understand what we want them to do:
+
+1. The purpose of the task (the higher-level goals).
+
+2. The objective of the task (an image of the desired outcome).
+
+3. The sequence of steps in the plan.
+
+4. The rationale for the plan.
+
+5. The key decisions that may have to be made.
+
+6. Anti-goals (unwanted outcomes).
+
+7. Constraints and other considerations. [5]
+
+Not all seven types of information may be necessary--this is a template, not a mandatory checklist. And note that we often provide insufficient information about our goals and too much information about the plan itself, "piling on the details." In Klein's research he considered including other types of information, such as time and resources, but concluded that would lead to micromanaging and inflexibility:
+
+There may be times to adhere to strict timetables and budgets. More often, in chaotic natural settings, schedules will slide, and resources will shrink or expand over the life of a project or mission. Decision makers who believe they can pursue the goals within the initial constraints are too inflexible. You want them listening to what is happening all over so they can adapt, slow down or speed up as is needed... You do not want to restrict flexibility to adapt to changing conditions. [6]
+
+Finally, Klein cites an even more concise version of this process that he attributes to organizational theorist Karl Weick, who describes how a leader might present an issue to their team in five short steps:
+
+• Here's what I think we face.
+
+• Here's what I think we should do.
+
+• Here's why.
+
+• Here's what we should keep our eye on.
+
+• Now, talk to me. [7]
+
+ 
+
+Footnotes
+
+[1] Sources of Power: How People Make Decisions, page 215 (Gary Klein, 1998)
+
+[2] Ibid, pages 217-18.
+
+[3] Ibid, page 222.
+
+[4] Ibid, page 225.
+
+[5] Ibid, page 225.
+
+[6] Ibid, page 228.
+
+[7] The actual origins of this framework are mystifyingly obscure. In Sources of Power, Klein claims that it's from Weick's "Managerial Thought in the Context of Action," a chapter in Suresh Srivasta's The Executive Mind: New Insights on Managerial Thought and Action (1983). But I've read that paper and it doesn't include this framework or anything similar--in fact, Weick argues that thinking and acting occur simultaneously, making checklists useless. More confusing still, Weick later attributes this same framework to Klein. In Managing the Unexpected: Resilient Performances in an Age of Uncertainty (with Kathleen Sutcliffe, 2007), Weick claims that Klein originated the framework in Sources of Power! Many thanks to my Stanford colleague Alice Kalinowski for her help in trying to unravel this tangle of attributions, which will have to remain unsolved.
+
+Revised April 2021.
+
+Photo by Natalie Johnson.
+

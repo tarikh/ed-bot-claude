@@ -1,0 +1,94 @@
+---
+title: Social Networks
+url: https://edbatista.com/2005/03/social_networks.html
+slug: social_networks
+published: 2005-03-25T12:03:24
+updated: 2005-03-25T12:03:24
+source_body: wordpress-html
+---
+
+Nonprofits must start taking advantage of social networking tools, and Marty Kearns of Green Media Toolshed is on a roll in the Social Networking session at the Nonprofit Technology Conference.
+
+Giving someone a newsletter doesn’t qualify as a benefit when they already have too much to read.
+
+Networks have different topographies, like landscapes. How does the topography of your network influence its capacity to do things?
+
+We know that networks provide power and strength…but by mapping them, we can see them…and come up with strategies [to take advantage of them more effectively.]
+
+Marty's key points:
+
+1) Strong Social Ties
+When you go out for beers with people, you're much more likely to work together than if [the only similarity is that] yourmission statements are aligned.  Social ties work. We all know it but nobody [in the nonprofit sector] invests in it strategically.  But do the big consulting firms [that serve for-profits] invest in it strategically. Yeah, you bet.  People bond with people, and that needs to be our strategy.
+
+2) Common Story
+[Issues that bind network members together are crucial.]
+
+3) Dense Communications Grid
+[It's finally here.  Take advantage of it.]
+
+4) Shared Resources
+You can’t say “It’s ours, and you can’t use it” [about resources like membership lists.]
+
+5) Clear Windows of Opportunities
+[Be prepared to act quickly.]  The challenge of the networked world is to aggregate and synchronize.  When you allow people to talk to each other, they find truth faster.
+
+Andy Stocking from Care2 is up next.
+
+What's the Value of Social Networking to Nonprofits?
+
+- Retention through increased loyalty
+
+- Rapid growth through increased viralness
+
+- Better personalization through connections and information
+
+- Distributed work
+
+To grow a network, campaigns must be viral.  The way N-TEN formed, the way this community formed is through viral connections.  It has to be friends telling friends. 
+
+Three Attributes of an Effective Viral Campaign:
+
+- Intrinsic belief (provide educational message to change members' attitudes toward a particular action; create an ingrained belief)
+
+- Empowerment (promote a sense of self-efficacy, where members know they can personally make a difference)
+
+- Social norm (create an atmosphere where activism is part of the social norm)
+
+How to think about social networks within your organization: You all know that you have a community out there, and within that community there are different connections and structures.  There are a whole bunch of overlapping communities [with different interests].  Your audience aren't just members of your organization.
+
+Would you give a competing nonprofit access to your activist list?  Most nonprofits would say no.  But we know already that people are members of multiple groups [so perhaps that competitive approach is misguided.]
+
+Care2.com's audience generally parallels the Blue State/Red State map, but they skew high in some surprising places because they targeted social networking campaigns in those places, and their members told friends.
+
+Last year they launched Care2Connect, their social networking tool.  Tools like Care2Connect Friendster, the new CivicSpace tools can be used by nonprofits as a way to both create new networks and tap into pre-existing ones.
+
+Care2Connect allows Care2 to distribute the work of connecting their members to themselves--the members use the system to identify peers with common interest and establish relationships.
+
+Does Social Networking Benefit Nonprofits?
+
+Question #1: If we took a group of 300 members and tracked their activism level (daily actions, petition signatures, etc.), would it remain flat and be spread over more organizations, or would it increase?
+
+Questions #2: What effect do multiple group memberships and discussion boards have on activism?
+
+Results: Total activism doubled following the launch of Care2Connect.  Each new post or new group membership results in a 2% increased likelihood to take action.
+
+Conclusion: As your members become more active in the community they will become more active for your organization.
+
+In the direct mail world, those groups that share their lists have a higher retention rate than those groups that keep their groups to themeselves.  The same is true online.
+
+Getting Started:
+
+1) How do I identify and create closer bonds with my best members?
+
+2) What type of work can I distribute to these best members?
+
+3) What type of technology can I implement to harness this technology?
+
+Next up is Adam Rubin of MoveOn.
+
+[MoveOn does a lot of distributed work through their network.]  We have a small staff of about 10 people.  The key question is "What can we delegate?"  What can you get somebody else to do?  Take tasks that are traditionally done by professional staff and push them out through your network.
+
+[An example is their Tech Support Hotline, which recruited MoveOn members as technical support staff.]
+
+Another example is a distributed message, Bush in 30 Seconds.  What if you asked people to come up with their own ads?  [MoveOn posted ads created by members and others, and then asked both members and professionals to vote on the ads that they thought were most effective.  The members and the pros actually both chose the same ad.]
+

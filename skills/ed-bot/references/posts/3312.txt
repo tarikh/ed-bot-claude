@@ -1,0 +1,73 @@
+---
+title: Don't Believe the Links
+url: https://edbatista.com/2005/11/dont_believe_th.html
+slug: dont_believe_th
+published: 2005-11-14T10:29:30
+updated: 2005-11-14T10:29:30
+source_body: wordpress-html
+---
+
+A few months ago I tried to get a handle on the size of the blogosphere, and I came away somewhat dismayed by the difficulty of getting truly useful figures from the various blog ranking services. They provided a decent sense of relative size, but not much in the way of absolute numbers.
+
+In "Measuring the ACTUAL Blogosphere Part 1 - Technorati View," Christian Mayaud explains (in great detail) what some of the problems are with that particular service. (He's promised to take a look at Google in Part 2.) The bottom line:
+
+[I]f we use Technorati’s current estimate of over 18 million blogs,
+
+95% of the total number of blogs out there — HAVE NO LINKS LINKING
+
+BACK TO THEM.
+
+Therefore, Technorati Link Analysis only works for the top 5% that
+
+actually have links and is rendered useless to measure 95% of the
+
+blogosphere.
+
+Or, if you are just starting out and want your blog to move into the
+
+top 5% of the blogosphere (according to Technorati Rankings) — just go
+
+to blogger.com and create one “dummy” blog with one link to your blog
+
+and that single link is worth over 18 million in rank and drives you
+
+into the top 5% of all blogs.
+
+Pretty cool...but also pretty stupid...
+
+In Summary, The Blogosphere According to Technorati
+
+As of 10/7/05,the total number of blogs “measured” by Technorati = 18,900,000
+
+- Less than 450 blogs have over 1000 blogs linking to them = 0.002 %
+
+- Less than 15,000 blogs have over 100 blogs linking to them = 0.08 %
+
+- Less than 180,000 blogs have over 10 blogs linking to them = 1 %
+
+- Less than 800,000 blogs have at least 1 blog linking to them = 4 %
+
+- Over 18,000,000 blogs have 0 blogs linking to them = 95%
+
+In other words, using link analysis, Technorati can only “rank”
+
+among the top 5% of all blogs and — judging from their data — their
+
+methodology starts to fall apart pretty quickly after the top 0.1%.
+
+This makes sense since the relative value of a link depends on where
+
+you are in the curve.
+
+- For the Technorati 10, it takes thousands of links to move one place in rank.
+
+- For the Technorati 100, it take hundreds of links to move one place in rank
+
+- At 50,000, one link is worth over 2,000
+
+- and your first link is worth over 18 million.
+
+In summary, the link-driven ratings that are currently the backbone not only of Technorati but also of the entire Internet economy are imprecise, susceptible to gaming, and less useful the further we go down the long tail--which is precisely why we should all be paying more attention to...attention.
+
+attention attentiontrust
+

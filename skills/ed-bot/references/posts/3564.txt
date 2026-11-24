@@ -1,0 +1,53 @@
+---
+title: Neuroscience, Coaching, Leadership and Learning
+url: https://edbatista.com/2008/03/neuroscience.html
+slug: neuroscience
+published: 2008-03-24T00:30:45
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+Inspired by the fascinating research being conducted by Matthew Lieberman, Naomi Eisenberger and other neuroscientists, some great neuroscience blogging by Stephanie West Allen, Jeffrey Schwartz and Roger Dooley, the work of Alvaro Fernandez and Co. at SharpBrains, and the prescient questions that Tom Wolfe has been asking for the past decade, I've become obsessed by the implications of neuroscience for the fields of executive coaching, leadership development and experiential learning.
+
+I'm well aware of the limitations of current brain-imaging technology and of the excesses of "neuro-hype" (well-documented in Haaretz by Ofri Ilani and Yotam Feldman--thanks to Roger Dooley for the reference), and I've expressed concerns myself about the rejection of sound humanistic principles by neuroscience boosters--and yet I remain convinced that neuroscience holds tremendous promise for coaches, organizational development consultants and experiential educators.
+
+I find Wolfe's work extremely compelling. In the articles and talks I link to above (and presumably in the upcoming book on neuroscience to which he occasionally alludes), Wolfe asserts that Homo sapiens have in some ways freed ourselves from genetic determinism by means of language and, more precisely, speech.* For at least the last 11,000 years (dating from the earliest evidence of agriculture), Wolfe claims, speech has allowed us to adapt to and overcome our environment far faster than our genes ever could. From Wolfe's recent interview with Steve Heilig for the S.F. Chronicle:
+
+Once you have speech, you don't
+
+have to wait for natural selection! If you want more strength, you
+
+build a stealth bomber; if you don't like bacteria, you invent
+
+penicillin; if you want to communicate faster, you invent the Internet.
+
+Once speech evolved, all of human life changed.
+
+And perhaps the most important change is that we're no longer merely the expression of our genetic heritage; our speech-sodden brains are far more plastic and malleable than our hard-wired genes would ever allow us to be. Advances in genetics in recent decades ultimately suggested that humans lacked free will--our fate was written in our genes. But Wolfe sees things differently--more from his Chronicle interview:
+
+I'm willing to say OK, we may
+
+have no free will, but speech creates so many variables that it doesn't
+
+really matter. No machines will ever truly fully figure the brain out,
+
+because the brain's performance is constantly altered or else
+
+constrained by this inanimate, rogue artifact you can't control,
+
+namely, speech. Laws you obey, scientific findings you assume to be
+
+correct, creeds you believe in, existing plans you go by, history as
+
+you understand it - these artifacts, once accepted, will affect your
+
+thoughts and behavior and use you more than you use them. Culture is just too big a variable to explain away with genetics...
+
+So what's the connection with my fields of executive coaching, leadership development and experiential education? If genetic determinism would have us believe that "Leaders are born, not made," then Wolfe's theories on the power of speech and the meaning of culture suggest just the opposite. We have "natural," genetically-defined tendencies that support or undermine our ability to lead and to be effective interpersonally, but those natural abilities don't define our actions in those spheres. We can learn, we can adapt and we can improve. Some leaders may be born with a genetic head start, but all truly effective leaders are made, not born.
+
+And just as Lieberman, et al's research on the impact of talking about feelings provides a scientific explanation for a practice that I've used in my own work countless times, Wolfe's theories and the neuroscience on which they're based suggest that many of the practices we employ in coaching, leadership development and experiential education are effective because they're consistent with--and take advantage of--the way our brains function. (And at the same time, neuroscience also has the potential to tell us which practices and techniques are ineffective and need to be updated or scrapped.)
+
+As noted above, I'm mindful of the limits of neuroscience, and I'd hate to see the genetic determinism of recent years replaced by a "neuro-determinism" that simply substituted brain scans for gene maps. But we're clearly at a point where humanistic professionals--executive coaches, OD consultants, experiential educators--need to incorporate neuroscience into their practices.
+
+* Wolfe actually suggests that we rename ourselves Homo loquax--"Talkative man"--a proposal that may have been inspired by Walter Miller's A Canticle for Leibowitz, in which Miller called us Homo loquax nonnumquam sapiens--"Talkative, and sometimes wise, man."
+

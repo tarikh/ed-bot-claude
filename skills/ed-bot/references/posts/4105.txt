@@ -1,0 +1,165 @@
+---
+title: Authority and Control in Organizational Life
+url: https://edbatista.com/2021/05/authority-and-control-in-organizational-life.html
+slug: authority-and-control-in-organizational-life
+published: 2021-05-09T14:49:45
+updated: 2026-07-06T11:51:32
+source_body: wordpress-html
+---
+
+Do they have authority issues, or do we have control issues?
+
+~Collins Dobbs [1]
+
+Most of my clients are CEOs of growing companies, and most of the rest are executives in similar organizations, and a recurring theme in my practice is a conflict between a leader and one of their employees. The potential causes of such conflicts are endless, ranging from differences in communication and working styles [2] to disagreements over decision rights [3], but in many cases there's also a clash between one person's relationship with authority and the other's need for control. Each person's perspective is contingent on their role: The leader who's frustrated by the employee's resistance may characterize them as having "authority issues," while the employee who's frustrated by the leader's micro-management may characterize them as having "control issues." But such shorthand obscures more than it explains. What do these characterizations really mean?
+
+Our Relationship with Authority
+
+A useful starting point here is the concept of transference. Coined by Freud (Übertragung) to describe patients' feelings of attachment and fascination toward their therapists, transference can occur in all domains of life and in all relationships with authority figures. The anthropologist and philosopher Ernest Becker, drawing upon Freud's work, described transference as "a taming of terror," a process that we first undergo in childhood but which we reenact repeatedly as adults. [4] As I've written before,
+
+As young children we emerge from infancy and experience the world as a chaotic and terrifying place. Parents and caregivers appear to us as awe-inspiring figures with the power to tame chaos and create order and safety, and while our relationship with authority may evolve considerably on our journey to adulthood, we often "transfer" our attachment to other powerful figures who promise to relieve our anxieties. [5]
+
+An employee need not view a leader as a parental figure to rely upon them to "tame chaos and create order and safety," particularly in early-stage ventures that face existential threats on all sides. And yet reliance on a leader for this purpose can readily cause feelings of ambivalence, as Becker noted: "The transference object becomes the focus of the problem of one's freedom because one is compulsively dependent on it." [6] In most cases such feelings are manageable, resulting in little more than occasional friction, but in some cases an employee experiences persistent resentment and reflexive resistance, i.e. "authority issues."
+
+The cross-cultural scholar Angeles Arrien offers a compelling explanation for the underlying processes in such situations. In The Four-Fold Way: Walking the Paths of the Warrior, Teacher, Healer and Visionary, Arrien explores these universal archetypes, and she suggests that our interpersonal problems often stem from our inability to fully inhabit a given archetype when necessary:
+
+When we have an authority issue with someone, we have not fully owned the Warrior archetype, and we are projecting our authority onto someone else rather than claiming it. People with authority issues are drawn to effective leaders, and have a tendency either to over-idealize them or to compete with them. Behind every individual who has an authority issue is the unwillingness to claim personal responsibility, and often an unconscious desire to have someone else be responsible. [7]
+
+This is consistent with Becker's interpretation: "In the transference we see the grown person as a child at heart, a child who distorts the world to relieve his helplessness and fears, who sees things as he wishes them to be for his own safety." [8] From this perspective we can view an employee with "authority issues" not as an angry person, but an anxious one. They're unsure of their own ability to create order and safety, and uncomfortable with the power required to do so. They're in awe of the leader who can create order and safety by wielding power effectively, desperate to do so on their own, and fearful that they will fail. They are profoundly stuck, and when they cannot exert agency by moving forward, they will do so by remaining firmly in place.
+
+Our Need for Control
+
+What's happening on the other side of this relationship? What's going on with the leader? Pioneering psychotherapist Alfred Adler theorized that a "will to conquer" the cosmos is the fundamental human motivation [9], and work by psychologists over the past century indicates that a desire to exert influence and determine outcomes is widespread and pervasive. [10] Recent research by a team from Columbia and Rutgers suggests that this need for control is inherently biological, not merely a socialized preference. [11]
+
+But individuals clearly differ with regard to their desire to be influential and act autonomously, a concept termed the "desirability of control" by psychologist Jerry Burger in the 1970s. [12] Subsequent work by Burger showed that differences in the need for control have a significant impact on behavior and attitudes, and that people who score high on this scale are more likely to become leaders:
+
+People with high desire for control were found to have a higher aspiration level, to respond to challenges with increased effort, to persist longer at difficult tasks, and to make attributions for task outcomes that facilitate future striving for achievement. [13]
+
+The need for control is related to another concept in psychology known as "explanatory style": the habitual way we explain the world around us in order to make sense of our circumstances. [14] A key element in our explanatory style is our "locus of control," which is either internal or external. People with an internal locus of control have a heightened sense of personal agency and efficacy, believing that events are responsive to their active influence. People with an external locus of control have a diminished sense of agency and believe that events are the result of luck, fate or other impersonal forces.
+
+Some research suggests that leaders are more likely to have an internal locus of control [15] and that this orientation leads them to seek to exert greater influence over subordinates, although primarily through persuasion rather than directive authority. [16] And so we find that a high need for control and a strong sense of personal agency often motivate people to seek out and obtain leadership positions.
+
+This may seem self-evident , but bearing it in mind can help us get a new perspective on a leader's "micro-management," because the very qualities that propel someone into leadership can become counter-productive as the context around them evolves. As I've written before, "a consistent theme in my practice is the importance--and the difficulty--of transitioning from a hands-on leader who personally gets things done to someone who leads in a different way in order to be more effective as the organization scales... [The] leader who continues to lead by doing more often becomes less effective and may even undermine the organization as it grows larger and more complex." [17]
+
+There's a direct parallel here: We can view the leader with "control issues" not as a domineering person, but, again, as an anxious one. The high need for control and strong sense of personal agency that have contributed to their past success must be translated into new and unfamiliar behaviors to fit the evolving context. They must not only delegate more work, they must also delegate more important work to more experienced employees and allow them to work more autonomously. And at a certain stage in an organization's development, this entails leading leaders, who likely have a high need for control themselves.
+
+What We Can Do About It
+
+So when we find ourselves in a conflict involving "authority issues" or "control issues," what can we do? The key is cultivating the capacity for empathy, a term that's often misunderstood. Theresa Wiseman, a medical professor and researcher at the University of Southampton, has explored the concept of empathy because of its importance for nursing and medical care, and she's identified four defining attributes:
+
+1. The ability to see the world as another person sees it.
+
+2. The ability to understand another person’s feelings.
+
+3. The ability to suspend judgment.
+
+4. The ability to communicate this understanding, which is essential "if empathy is to be felt." [18]
+
+Note that empathy is not equivalent to sympathy, as Wiseman explains: "Sympathy involves 'feeling sorry' for the other person or imagining how we would feel if we were experiencing what is happening to them. Empathy differs in that we try to imagine what it is like being that person and experiencing things as they do, not as we would." [19] Further, empathy need not entail agreement, as I've written before:
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [20]
+
+What might this look like for a leader facing an employee's resentment and resistance? Here Angeles Arrien offers some valuable insights:
+
+Any authority issue reveals an individual who is behaving like a victim. For example, when an authority figure does not meet an individual's idealized expectations, a victim will counter with blame, judgment, and attack; or will respond with disappointment, avoidance, and withdrawal. The victim who uses blame is beginning to reclaim personal authority in a convoluted way, using leadership skills to attack or self-justify. The victim who uses withdrawal or avoidance is unsuccessfully attempting to reclaim personal authority.
+
+A person who claims personal authority is no longer a victim. As we claim our own authority, these convoluted ways of owning power are disengaged. We begin to value collaboration with colleagues and honor people who demonstrate effective leadership skills. [21]
+
+So an empathetic response to resentment and resistance entails viewing such behavior as an attempt by the employee, however misguided, to achieve a more comfortable relationship with power--not only that of the leader, but also their own. This doesn't mean that the leader is precluded from providing critical feedback, but this will always be more effective when delivered from an empathetic stance (which includes asking, "In what ways am I part of the problem?") [22]
+
+And what might this look like for an employee dealing with a leader's micro-management? Here it's essential to recognize the consequences of our habitual inability to "empathize up," as I've noted before:
+
+Our failure to empathize up makes it more likely that we experience a threat response when interacting with superiors, even in the absence of overtly hostile behavior on their part, and once a threat response is triggered it become even more difficult to empathize with them. At that point we’re deeply attached to the explanation we’ve crafted to explain their behavior, and it’s highly unlikely that we’ll be able to slow down and consider alternative explanations until the interaction is over and we’ve calmed down. [23]
+
+So an empathetic response to micro-management entails viewing such behavior not as mistrust on the part of the leader or a lack of faith in the employee's capabilities, but merely as a blind spot, a failure to recognize that the context has changed and that strategies which have succeeded in the past have now outgrown their usefulness. Here, too, the employee's ability to offer critical feedback from an empathetic stance is immensely important. ("In what ways am I part of the problem?")
+
+Throughout such exchanges, note the necessity of vulnerability. I emphasize vulnerability in my practice [24] and my teaching [25] for this precise reason: Expressions of vulnerability are the most reliable means of evoking empathy in the midst of conflict. This doesn't mean that we should make ourselves vulnerable in ways that are unsafe--as I've noted before, "there are many circumstances under which we need to be cautious and thoughtful about what we disclose, and there are some people with whom we shouldn't share any information that could be used to our disadvantage." [26]
+
+But if we never make ourselves vulnerable, we never learn how to test for safety in a given relationship, and we miss opportunities to make it safer by expanding its capacity for vulnerability. What might this look like for a leader and an employee? A starting point is simply acknowledging their anxiety--but the leader must go first. [27]
+
+Footnotes
+
+[1] My friend and colleague Collins Dobbs posed this provocative question to me many years ago.
+
+[2] Work Style Differences
+
+[3] Leadership, Decision-Making and Emotion Management
+
+[4] The Denial of Death, page 145 (Ernest Becker, 1973/1997)
+
+[5] Leadership and Transference
+
+[6] Becker, page 146
+
+[7] The Four-Fold Way: Walking the Paths of the Warrior, Teacher, Healer, and Visionary, pages 34-35 (Angeles Arrien, 1993)
+
+[8] Becker, page 129
+
+[9] "Individual Psychology" (Alfred Adler, Chapter 21 in Psychologies of 1930, edited by Carl Murchison, 1930)
+
+[10] Feeling of Control Viewed as Central in Mental Health (Daniel Goleman, The New York Times, October 7, 1986)
+
+- "Researchers are finding that the sense of being in control, and the desire for such control, are more crucial and pervasive aspects of personality than psychologists had previously realized... 'We have a deep need to feel competent, to be in control of our environment; it is one of the primary motives in behavior,' said Jerry Burger, a psychologist at the University of Santa Clara."
+
+[11] Born to Choose: The Origins and Value of the Need for Control (Lauren Leotti, Sheena Iyengar and Kevin Ochsner, Trends in Cognitive Science, October 2010)
+
+- "Belief in one’s ability to exert control over the environment and to produce desired results is essential for an individual’s well being. It has been repeatedly argued that the perception of control is not only desirable, but it is likely a psychological and biological necessity... Converging evidence from animal research, clinical studies, and neuroimaging work suggest that the need for control is a biological imperative for survival."
+
+[12] The Desirability of Control (Jerry Burger and Harris Cooper, Motivation and Emotion, 1979)
+
+- An online version of Burger and Harris's instrument has been made available by University of Texas psychologist Raj Raghunathan: Desirability of Control.
+
+[13] The Effects of Desire for Control on Attributions and Task Performance (Jerry Burger, Basic and Applied Social Psychology, 1987)
+
+- This quote from Burger's 1987 paper describes research conducted previously and discussed in detail here: Desire for Control and Achievement-Related Behaviors (Jerry Burger, Journal of Personality and Social Psychology, 1985)
+
+[14] The concept of explanatory or attributional style originated in research on depression in the 1970s by a team of psychologists including Martin Seligman, who became closely associated with the concept. For a useful overview, see What Are Attributional and Explanatory Styles in Psychology? (Elaine Houston, Positive Psychology, 2019)
+
+[15] Locus of Control, Leader Behavior and Leader Performance Among Management Students (Carl Anderson and Craig Eric Schneier, Academy of Management Journal, 1978)
+
+- Consultant and coach Steve Nguyen provides an extensive overview of management literature on leadership and locus of control.
+
+[16] The Role of Locus of Control in Leader Influence Behavior (Avis Johnson, Fred Luthans and Harry Hennessey, Personnel Psychology, 1984)
+
+[17] How to Scale: Do Less, Lead More
+
+[18] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[19] Ibid.
+
+[20] The Difficulty of Empathizing Up
+
+[21] Arrien, page 35.
+
+[22] How to Deliver Critical Feedback
+
+[23] The Difficulty of Empathizing Up
+
+[24] Brené Brown, Vulnerability, Empathy and Leadership
+
+[25] The Art of Self-Coaching, Class 6: Resilience & Vulnerability
+
+[26] Cautionary Tales (Authenticity at Work)
+
+[27] Resolving a Protracted Conflict
+
+For Further Reading
+
+The Tyranny of Feelings
+
+Better Working Relationships
+
+Abilene: Loneliness and Belonging in Organizational Life
+
+The Importance of Slowing Down
+
+How Great Coaches Ask, Listen and Empathize
+
+Safety, Trust, Intimacy
+
+Learning How to Learn
+
+Conscious Competence in Practice
+
+Photo by Defence Images.
+

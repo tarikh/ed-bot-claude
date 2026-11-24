@@ -1,0 +1,107 @@
+---
+title: Whether or Not to Fix a Broken Relationship
+url: https://edbatista.com/2022/10/whether-or-not-to-fix-a-broken-relationship.html
+slug: whether-or-not-to-fix-a-broken-relationship
+published: 2022-10-12T11:44:17
+updated: 2025-10-05T16:51:25
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader who's struggling to repair a damaged working relationship with an employee. In most cases we start with the assumption that a better relationship is possible and that even a long-running conflict can be resolved. This usually entails the following steps in some form:
+
+- Having both parties engage in an ongoing dialogue about the relationship.
+
+- Identifying the behaviors and ways of working that each party finds problematic.
+
+- Discovering how the other party is interpreting those behaviors.
+
+- Understanding the intentions motivating those behaviors.
+
+- Providing--and soliciting--more frequent feedback.
+
+- Being prepared for regular setbacks.
+
+This obviously involves a great deal of time and energy, and I'm not suggesting that leaders should always follow these steps or that they should try to fix every broken relationship. As I've noted before, one of the most common mistakes made by my clients is waiting too long "when making the difficult decision to fire someone. There were good reasons for the delay--there always are--but in hindsight they generally wish they’d acted sooner, and often all parties would have benefited." [1]
+
+Further, if sustained underperformance by the employee is a contributing factor, then leaving them in their role may not be a kindness but a form of cruelty. As management thinker Peter Drucker once noted, "I have never seen anyone in a job for which he was inadequate who was not slowly being destroyed by the pressure and the strains, and who did not secretly pray for deliverance." [2]
+
+But in many cases there are legitimate reasons for a leader to make a good-faith attempt, and I find that my clients typically want to try. And yet even then this work can prove exceedingly difficult, leaving the leader wondering at some point whether additional effort is warranted--and sometimes it isn't. If you're a leader facing this situation, here are some issues to consider and questions to ask yourself:
+
+Intentions
+
+We often assume that other people are more aware of our intentions than they really are. Or we believe that expressing our intentions once is sufficient, failing to appreciate that most messages are retained only after they've been repeated multiple times. [3]
+
+- Is your employee aware that fixing this relationship has been a priority for you? Do they realize that you've been actively engaged in these efforts?
+
+- If not, you need to be more explicit about what you're trying to accomplish.
+
+Emotions
+
+We also assume that other people are more aware of our emotions than they really are. We think what we're feeling is obvious, and yet the other person has no idea. This matters because a necessary step in the process will be an expression of vulnerability on your part as the person occupying the higher status role. [4] Why? Because vulnerability is the key to empathy, and empathy is the key to conflict resolution, but people don't naturally "empathize up" with leaders. [5]
+
+To be clear, this does not mean that you should accept more than your share of responsibility, or fail to hold your employee accountable for their share, or seek to placate them by appearing weak. (Weakness isn't vulnerability, nor is vulnerability weakness. [6]) A starting point may simply be acknowledging that you care about this relationship and want it to to succeed. Whatever form it takes, it will almost certainly make you feel uncomfortable.
+
+- Is your employee aware of the range of emotions you've experienced in this process? Do they realize that you've felt some vulnerability and discomfort?
+
+- If not, you need to challenge yourself to communicate in a way that's more outwardly expressive and consistent with your inner state.
+
+Trust
+
+When there's sufficient awareness and understanding of your stated intentions and reported emotions, another barrier can be a credibility gap. Your employee may believe in your good intentions but be skeptical of your determination to follow through on commitments. They may lack faith in the sincerity of your disclosures. Or, even more troubling, they may distrust the legitimacy of the entire process.
+
+- Does your employee believe that you mean what you say? Do they believe that you say what you mean? Do they believe that you've been sincere in your efforts to repair the relationship?
+
+- If not, you need to scrupulously examine your behavior to ensure that it aligns with your intentions and emotions, and then redouble your efforts to build trust. [7]
+
+Ability
+
+A final factor to consider is your employee's ability to reciprocate your efforts and serve as an active counterpart in the process. The factors above all have an impact here, of course--in their absence, your employee may be able but unwilling to play their part. But in some cases people are open in principle to improving a relationship and yet lack the ability to make the necessary changes. This is often related to difficulty with emotion regulation [8] or a reluctance to take responsibility for one's own actions. [9] And while emotion regulation and a willingness to take responsibility are learnable skills, that process inevitably takes time.
+
+- Does your employee have the capacity to manage their emotions, forgive you for your shortcomings (real and imagined), acknowledge their own contributions to the problem, and actively work with you to repair the relationship?
+
+- If not, you need to determine if that's going to change in the time you have available.
+
+With shared awareness and understanding of your intentions and emotions, as well as requisite degrees of trust and ability, you may conclude that continued efforts to fix this relationship are warranted. But as I advise my clients, be mindful of the consumption of your most precious resource--your attention--and the expected return on that investment. [10]
+
+Footnotes
+
+[1] Don't Wait
+
+[2] The Effective Executive, page 89 (Peter Drucker, 1966). Quoted in Merciful Exits (On Under-Performing Executives).
+
+[3] For example, see Replication and Analysis of Ebbinghaus’ Forgetting Curve (Jaap Murre and Joeri Dros, PLOS One, 2015).
+
+[4] Resolving a Protracted Conflict
+
+[5] The Difficulty of Empathizing Up
+
+[6] "The perception that vulnerability is weakness is the most widely accepted myth about vulnerability and the most dangerous... To feel is to be vulnerable. To believe vulnerability is weakness is to belief that feeling is weakness... Our rejection of vulnerability often stems from associating it with dark emotions like fear, shame, grief, sadness, and disappointment--emotions that we don't want to discuss, even when they profoundly affect the way we live, love, work, and even lead. What most of us fail to understand and what took me a decade of research to learn is that vulnerability is also the cradle of the emotions we crave. Vulnerability is the birthplace of love, belonging, joy, courage, empathy, accountability, and authenticity... I define vulnerability as uncertainty, risk, and emotional exposure." (Brené Brown, Daring Greatly, pages 33-34, 2015)
+
+[7] For more on trust, see the following:
+
+- Safety, Trust, Intimacy
+
+- Two Sides of Trust
+
+- Understanding the Trust Equation (Charles Green)
+
+[8] The Tyranny of Feelings
+
+[9] The Trium Group on Responsibility
+
+[10] Growth, Profitability and Return on Attention
+
+For Further Reading
+
+Better Working Relationships
+
+Work Style Differences
+
+Racing Up the Ladder of Inference
+
+Intent vs. Impact (When Communication Goes Awry)
+
+Make Feedback Normal. Not a Performance Review.
+
+Photo by Henry M. Diaz.
+

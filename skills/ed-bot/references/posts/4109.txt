@@ -1,0 +1,81 @@
+---
+title: Should You Apologize? (It Depends)
+url: https://edbatista.com/2022/03/should-you-apologize-it-depends.html
+slug: should-you-apologize-it-depends
+published: 2022-03-28T11:13:47
+updated: 2025-09-24T11:58:04
+source_body: wordpress-html
+---
+
+Mike Ditka is not sorry. [1]
+
+Most of my clients are CEOs, and most of the rest are senior leaders with a similar profile that puts them in the public eye. They give interviews and speak at conferences. A number have a large social media presence. And when something goes wrong or attracts adverse attention at their company, they're often responsible for addressing the issue, which means that they may be expected to offer an apology.
+
+If you're in the same position, there are many circumstances in which the ability to make a compelling apology will serve you and your organization well, and an inability to apologize effectively will magnify and escalate otherwise avoidable problems. Psychologist Karina Schumann notes the benefits of apologizing and the nature of meaningful apologies:
+
+Research on conflict management suggests that an apology is one of the most powerful tools that transgressors can use to resolve an offense...especially high-quality apologies that are comprehensive (i.e., include many apology elements, such as an acceptance of responsibility and offer of repair) and non-defensive (i.e., do not include self-protective strategies, such as justifications or victim blaming). [2]
+
+This is consistent with an observation from my practice, where conflicts are often truly resolved only after the higher-status person expresses vulnerability in some form. [3] Effective apologies typically convey a degree of vulnerability, which in most circumstances evokes an empathic response, which is the key to forgiveness.
+
+But is apologizing always helpful? Absolutely not, and work by political scientist Richard Hanania should give you pause before you issue a pro forma apology:
+
+There are reasons to believe that apologizing makes public figures appear weak and risk averse, which may make them less attractive as people and lead members of the public to want to punish them... Overall, the evidence suggests that when a prominent figure apologizes for a controversial statement, the public is either unaffected or becomes more likely to desire that the individual be punished. [4]
+
+Further, a study by ethicist and corporate governance expert Daryl Koehn and professor of management Maria Goranova on the impact of "corporate apologies" on the share prices of public companies revealed not only that such statements generally have a negligible effect, but also that investors actually react negatively to more emotional apologies. The authors conclude that, "What in theory might seem likely to restore trust may in practice damage the firm’s standing in the eyes of shareholders." [5]
+
+I'm not suggesting that you adopt the philosophy of 19th-century English educator and theologian Benjamin Jowett, who praised the advice of a friend: "Never retract. Never explain. Never apologise. Get it done and let them howl." [6] This approach may have a visceral appeal, but it clearly has its limitations. Psychologist Schumann has found that one of the main reasons people resist apologizing is because it threatens their self-image, a challenge that's compounded for people with low self-esteem. [7] This aligns with work by legal scholar Brent White, who notes that the ability to apologize is a sign of high self-esteem and emotional maturity:
+
+Individuals with high inner-directed self-esteem can more easily acknowledge their flaws because they believe fundamentally that they are reasonable and decent people. When such people apologize, they are merely admitting, in their minds, that they made a mistake, which does not threaten their identity. [8]
+
+If you find yourself automatically resisting every opportunity to apologize, a la Dr. Jowett, you run the risk of allowing feelings to prevent you from choosing the right course of action. But while emotions should inform our behavior, they shouldn't dictate behavior, and a theme in my work with leaders is the importance of emotion regulation and the means by which we can be more effective at managing our feelings. [9] Also, note that additional research cited by Schumann found that people "overestimate the aversiveness of apologizing, anticipating that it will feel more humiliating and stressful to apologize than it actually feels." [10]
+
+But you may well face the opposite problem and feel pressure to apologize for any perceived transgression, no matter how trivial. The penitent leader has become a familiar figure in contemporary culture, and as Keuhn and Goranova note, "Since the late 1990s, the number of apologies being offered by CEOs of large companies has exploded." [11] This raises the problem highlighted by Hanania and echoed by Keuhn and Goranova: Some apologies not only fail to evoke the intended response, but are actually counter-productive. Here, too, emotion regulation has an important role to play--if you always feel compelled to apologize, yet again, your feelings may well lead you down the wrong path.
+
+There's no simple solution to determining whether an apology is merited or will serve you well, of course, but a concept that comes up frequently in my practice may help you navigate these situations more easily: Empathy is not agreement. As I've written before,
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [12]
+
+I'm reminded of a relevant example from corporate history: Intel's Pentium launch in 1994. [13] The Pentium microprocessor contained an obscure design flaw that Intel had determined posed no risk to end users. But eventually the company responded to public outcry and pressure from partners such as IBM, offering to replace all of the defective chips and writing off $475 million in replacement parts and junked material ($900 million in 2022 dollars). CEO Andy Grove never agreed with users' concerns--he remained convinced that the design flaw was utterly trivial--but he empathized with consumers who had come to feel that "Intel Inside" was a sign of quality and that the company's actions were inconsistent with that brand promise. Even when announcing that Intel would replace all Pentium chips, Grove didn't apologize for the design flaw, but for appearing "arrogant and uncaring." [14] Intel's share price was essentially flat in 1994, but the following year it began a staggering 5-year bull run (before returning to earth in the first dot-com crash), making it clear that Grove struck the right balance, neither alienating consumers and investors, nor allowing himself to be perceived as weak.
+
+ 
+
+Footnotes
+
+[1] The Legend of Mike Ditka's Bird (NFL Films)
+
+"And you know what? If I had to do it over again, I'd do it over again. Screw 'em." ~Mike Ditka, 2015
+
+[2] The Psychology of Offering an Apology: Understanding the Barriers to Apologizing and How to Overcome Them (Karina Schumann, Association for Psychological Science, 2018)
+
+[3] Resolving a Protracted Conflict
+
+[4] Does Apologizing Work? An Empirical Test of the Conventional Wisdom (Richard Hanania, Behavioral Public Policy, 2015). Thanks to Ethan Mollick for the reference to this paper.
+
+[5] Do Investors See Value in Ethically Sound CEO Apologies? Investigating Stock Market Reaction to CEO Apologies (Daryl Koehn and Maria Goranova, Journal of Business Ethics, 2018)
+
+[6] "Never retract, never explain, never apologise." (Garson O'Toole, LinguistList, 2010). Jowett's friend was probably politician and educator James Kay-Shuttleworth. This saying is often attributed to people such as suffragist Nellie McClung, politician Agnes Macphail, Winston Churchill, or Gertrude Stein, but it seems likely that it originated with Jowett and Kay-Shuttleworth (who predate these others) in some form.
+
+[7] Schumann, 2018.
+
+[8] Saving Face: The Benefits of Not Saying I'm Sorry (Brent White, Law and Contemporary Problems, 2009)
+
+[9] For more on emotion regulation, see the following:
+
+- The Tyranny of Feelings
+
+- Attitude and Behavior
+
+- You Make Me Feel... (On Language and Responsibility)
+
+- Antonio Damasio on Emotion and Reason
+
+[10] Schumann, 2018.
+
+[11] Keuhn and Goranova, 2018.
+
+[12] The Difficulty of Empathizing Up
+
+[13] Only the Paranoid Survive: How to Exploit the Crisis Points that Challenge Every Company, pages 12-19 (Andy Grove, 1999)
+
+[14] Intel Surrenders Over Flawed Pentium Chip (Associated Press, Deseret News, December 20, 1994): "Since the uproar over the defects in its showcase product first surfaced a month ago, the company had required that owners show why they needed a replacement. This infuriated many customers, made Intel the butt of jokes and raised basic questions about Intel's sensitivity to the market. 'To some people, this seemed arrogant and uncaring. We apologize for that,' Andrew Grove, Intel's president and chief executive officer, said in a conference call with industry analysts. 'What we view as an extremely minor technical problem has taken on a life of its own,' Grove said. Intel has placed the chance of hitting the flaw as one in 27,000 years. 'We were motivated by a belief that replacement is simply unnecessary for most people. We still feel that way, but we are changing our policy because we want there to be no doubt that we stand behind this product.'"
+

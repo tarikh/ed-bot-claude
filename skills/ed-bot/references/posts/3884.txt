@@ -1,0 +1,97 @@
+---
+title: Five Levels of Communication
+url: https://edbatista.com/2015/08/five-levels.html
+slug: five-levels
+published: 2015-08-19T17:22:11
+updated: 2026-07-16T18:11:45
+source_body: wordpress-html
+---
+
+One of the most useful and flexible models of human interaction that I've encountered is Richard Francisco's Five Levels of Communication. [1] Francisco, a Lecturer at the Stanford Graduate School of Business and a psychologist at San José State University, essentially asks "In what ways do we communicate?" and then answers that question by mapping out a series of "levels" that represent increasing degrees of difficulty, risk, and potential learning in our interactions.
+
+Level 1: Ritual
+
+We begin with the most basic and fleeting form of communication, what Francisco calls "ritual," deriving the term from Eric Berne's work in the 1960s. [2] In this context, a ritual is a simple interaction that, Francisco writes, "allows two people to acknowledge each other as human beings."
+
+Most of our greetings and goodbyes, particularly in passing, take the form of ritual communication. They are heavily influenced by the setting and the respective roles and status of the parties involved, and they tend toward the predictable and formulaic. Typical forms of ritual include acknowledging an employee or our manager when we pass them in the office, or beginning the conversation with a client or customer as we sit down, or making small talk--a telling phrase--with a barista as we wait for our coffee or with a neighbor outside our home.
+
+But rituals' prosaic nature doesn't mean that they lack value; as Francisco notes, "Level One communication allows each participant to feel a sense of safety, security and well-being," even in a brief interaction, and it serves as "the foundation for deepening interpersonal relationships."
+
+Level 2: Extended Ritual
+
+Ritual communication can be extended in several ways. We can have an ongoing, iterative relationship with someone we see repeatedly, and the basic ritual form within that relationship can evolve over time, or we can have an longer, more comprehensive interaction, in which we exhaust the most basic ritual forms and begin to explore new territory, while still staying within certain conversational limits and avoiding more substantive topics.
+
+Typical forms of extended ritual include the more variegated interactions we have with colleagues we bump into regularly, or the longer conversations we have with a barista we see every day or with a neighbor we're seated next to at a dinner party. It's still "small talk," but it changes from day to day or over the course of the conversation as we move through a range of unofficially sanctioned topics.
+
+And that sanction serves a purpose; again, Francisco notes that, "while there is more depth to the level of communication in extended ritual than in ritual, it is nevertheless a very safe level of communication." In extended ritual we can engage "without fear of hurting the other" and with little to no risk of being misunderstood, which helps to further develop a foundation of safety and trust in the relationship. [3]
+
+Level 3: Content (or Surface)
+
+Francisco uses the term "Surface" for this next level, but I prefer "Content"; the former can sound pejorative, which I don't believe is Francisco's intent. This is the level on which most of our professional interactions take place (and for the remainder of this post I'll focus on professional life.) Level 3 communications, Francisco writes, "involve giving and receiving information, analyzing projects...problem-solving...sharing and talking about tasks, [and] sharing information about [ourselves]," albeit in limited and safe forms of self-disclosure.
+
+The boundary separating Level 2 from Level 3 is blurry. The distinctions between trivial small talk and more meaningful content are relative, and they may change from one setting to the next, and even from one conversation to the next. But what's clear is what's missing from Level 3 (as well as from Levels 1 and 2): feelings.
+
+Emotions are critically important factors in how we think and communicate, but we generally leave them out of our professional conversations. [4] Francisco notes that in many organizations we're taught to avoid the deeper conversations--see below--that inevitably involve feelings, but, he adds, "organizations merely reinforce established patterns that are learned through early childhood experiences and carried into adolescence and then then into adult life." We're well-trained, Francisco emphasizes, not to talk about our feelings.
+
+Level 4: Feelings About Content
+
+But not talking about our feelings in professional settings doesn't mean we're not having feelings during those conversations--we're just not talking about them. And because emotions are essential inputs in our decision-making and reasoning processes, not talking about them means that many Level 3 conversations in professional settings get stuck, with issues going unresolved or being resolved in only a superficial way. Further, as UCLA neuroscientist Matthew Lieberman has written, "There is a great deal of evidence to suggest that the process of sharing one's worry, of putting bad feelings into words, can diminish one's emotional distress." [5] So not talking about our feelings in professional settings can actually make them more difficult to manage, making it even harder to communicate effectively.
+
+This isn't to say that we should heedlessly ignore the many norms and "display rules" that discourage us from talking about feelings in professional settings. As Francisco notes, "Levels Four and Five are difficult and require certain skills to navigate safely." One of those skills is the ability to develop sufficient safety and trust through a series of interactions on Levels 1, 2 and 3. Going too deep, too quickly in a given relationship or conversation typically creates anxiety and stress, further undermining real communication.
+
+Another essential skill is the ability to talk about our feelings in a nuanced way that conforms sufficiently to the surrounding culture. In some settings, any acknowledgment of emotion is significantly counter-cultural, and feelings need to be discussed with care and attention paid to word choice, tone of voice, and body language, among other factors. And in some organizational and national cultures, certain emotions are easier to discuss than others. [6]
+
+The critical point is that we need to achieve a delicate balance. We almost always have feelings about the information exchange, analysis, problem-solving, task assignment, and limited self-disclosure that comprise the bulk of Level 3 conversations, and when those conversations fail to achieve our communication objectives it's often because of an inability to acknowledge and express those feelings appropriately.
+
+This should not be construed as a license to dive immediately into a Level 4 conversation or to express our feelings in a way that would be counter-productive. But we do need to use Levels 1, 2, and 3 to create a foundation of safety and trust; we need to seek out opportunities to develop the skills necessary to sense, understand, and talk about our emotions; and at certain moments, we need to find the courage to have a deeper, more meaningful conversation about the issue at hand.
+
+Level 5: Feelings About Each Other
+
+This is where it gets really challenging--Level 5 conversations involve how I feel about you, and how you feel about me, one of the most direct forms of interpersonal feedback. These conversations are the most difficult--because feedback conversations can be extremely stressful--and the riskiest--because we often lack the practice that's critical to develop the necessary skills at this level, leading to inevitable missteps and misunderstandings.
+
+But these conversations are also the among the most powerful we can have, with the greatest potential for learning and growth. When we've moved beyond a standard Level 3 conversation in a professional setting and are able to disclose how we feel about the issue at hand but still find ourselves stuck and unable to reach resolution, it's often because we have feelings about the other people involved (and vice versa) that are not being expressed. Moving beyond Level 4 and sharing our feelings about each other can allow us to break out of these seemingly endless loops and achieve a deeper sense of mutual trust and understanding.
+
+By no means am I suggesting that Level 5 conversations are easy, but there are a number of steps we can take to make feedback less stressful, most notably minimizing the risk of social threat; reframing feedback as a source of learning, not personal criticism; building a relationship with the other party (often by communicating at Levels 1 and 2); and creating an organizational culture in which feedback is normal and expected. [7]
+
+Even when we've taken these steps, Level 5 conversations in professional settings will almost always feel daunting in some way, in part because of their potential to challenge what the late Harvard Business School professor Chris Argyris called "defense routines." Argyris described these organizational dynamics as "actions or policies that prevent individuals or segments of the organization from experiencing embarrassment or threat... [W]henever human beings are faced with any issue that contains significant embarrassment or threat, they act in ways that bypass, as best they can, the embarrassment or threat." [8]
+
+By their very nature, Level 5 conversations carry the risk of embarrassment or threat--so we tend to avoid them, and so we don't develop the skills necessary to have them effectively, and the cycle perpetuates itself. But as I've noted before, when something feels risky to say, that's because saying it carries a short-term cost--and NOT saying it carries a long-term cost that will inevitably grow over time. [9] We need to confront the risk of embarrassment or threat--prudently, not rashly--and break the cycle that keeps us silent.
+
+That said, the goal is not to jump to a deeper level and stay there. As Francisco notes, "There are no wrong levels. Each level has a legitimate and proper function within the communication process." The key is insuring that we're able to reach the right level, at the right moment, in the right way, to best support our communication objectives.
+
+So when we find ourselves struggling to communicate effectively in a given relationship or interaction, we should ask...
+
+- What level are we communicating at right now? Are we stuck on a more superficial level and avoiding a deeper conversation? Are we attempting to have a deeper conversation too soon, without having built the necessary foundation?
+
+- If we're not communicating at the level that best suits our needs at the moment, how might we shift the conversation up or down? Are we able to move fluidly to different levels, or are there certain levels we never (or always) employ?
+
+- Are we able to talk about our feelings in the culture that defines this relationship or group? What are the norms and display rules regarding discussion of emotion in this culture that we need to be mindful of? What are our personal norms and display rules regarding emotion? What opportunities are there to challenge and modify these norms and display rules to make it easier to acknowledge and express emotion?
+
+Many thanks to Richard Francisco not only for the model discussed here, but also for his encouragement and support over the years.
+
+Footnotes
+
+[1] "Five Levels of Communication," Richard Francisco, Chapter 2.6 in the Reading Book for Human Relations Training, 8th edition, (Alfred Cooke et al, editors, 1999)
+
+- This volume was our primary text when I participated in Stanford's Group Facilitation Training Program in 2006-07, and I included excerpts on my syllabus when (years later) I taught Interpersonal Dynamics (aka "Touchy Feely"). Published by the NTL Institute, the home of the T-group methodology, the book is an essential resource for any experiential learning program, but it also has much to offer anyone interested in group dynamics in any setting.
+
+[2] Games People Play: The Psychology of Human Relationships (Eric Berne, 1964)
+
+[3] Safety, Trust, Intimacy
+
+[4] Antonio Damasio on Emotion and Reason
+
+[5] "Why Symbolic Processing of Affect Can Disrupt Negative Affect: Social Cognitive and Affective Neuroscience Investigations," Matthew Lieberman, Chapter 13, page 188 in Social Neuroscience: Toward Understanding the Underpinnings of the Social Mind (Alexander Todorov, Susan Fiske, and Deborah Prentice, editors, 2010)
+
+- For more on Lieberman's work on "affect labeling," see Talking About Feelings.
+
+[6] Erin Meyer on Culture and Communication
+
+[7] Make Getting Feedback Less Stressful
+
+[8] Overcoming Organizational Defense: Facilitating Organizational Learning, page 25 (Chris Argyris, 1990)
+
+[9] Risk Management (The Importance of Speaking Up)
+
+Photo by Rita Willaert.
+

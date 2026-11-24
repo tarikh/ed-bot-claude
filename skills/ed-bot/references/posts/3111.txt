@@ -1,0 +1,21 @@
+---
+title: 8 Million Bloggers...
+url: https://edbatista.com/2005/01/8_million_blogg.html
+slug: 8_million_blogg
+published: 2005-01-24T14:13:00
+updated: 2025-10-11T22:13:39
+source_body: wordpress-html
+---
+
+...can't be wrong.  That's the latest figure from the Pew Internet & American Life Project, culled from their memo (i.e. not a full-blown report) on The State of Blogging, issued on January 2nd.  Some other interesting numbers:
+
+- 32 million people read blogs (that's 27% of internet users, and the number increased 58% in 2004)
+
+- 11 million people read blogs frequently (9% of internet users)
+
+- 14 million people have posted comments or other material to a blog (12% of internet users)
+
+- 6 million people use an aggregator or newsreader (5% of internet users)
+
+But before we get too giddy, it's just as interesting to note that 62% of internet users don't even know what a blog is.  Great read, and it's just 4 pages.  It's also a useful update to Pew's Online Content Creation report, issued in February 2004.
+

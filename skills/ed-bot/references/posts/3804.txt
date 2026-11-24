@@ -1,0 +1,81 @@
+---
+title: What I Learned in Touchy Feely (This Time)
+url: https://edbatista.com/2013/11/what-i-learned-in-touchy-feely-this-time.html
+slug: what-i-learned-in-touchy-feely-this-time
+published: 2013-11-25T14:03:59
+updated: 2025-09-24T11:59:32
+source_body: wordpress-html
+---
+
+The most popular elective at Stanford's Graduate School of Business is formally titled Interpersonal Dynamics, but everyone calls it Touchy Feely. The school offers the course to 360 students every year, and there are roughly 400 students in each graduating class. The course is an intensive experiential learning process conducted in T-groups--"T" for "training"--a method developed by German psychologist Kurt Lewin [1] in the U.S. in the late 1940s and popularized in the '50s and '60s by Lewin's proteges, who founded the National Training Laboratory (known today as the NTL Institute) for that purpose. [2]
+
+Each T-group here at Stanford includes 12 MBA students and two facilitators, who not only guide the group as leaders but also participate as members. The course provides a conceptual framework in the form of traditional lectures and readings, but most of the work is done in T-groups, which meet for three to five hours each week.
+
+Group sessions sometimes include formal exercises but typically consist of open, unstructured time in which members switch among discussion topics, giving each other real-time feedback on interpersonal skills and communication styles, with a particular emphasis on emotion. As I've written before,
+
+The class highlights the fact that our interactions with others generate all sorts of feelings that influence how we express ourselves in the workplace and which have a significant impact on our working relationships. If we want to improve those relationships, it's important to be able to better understand, express and manage our emotions and to help others do the same. This doesn't mean just expressing "warm fuzzies" and getting everyone to feel good--far from it. It means taking some risks and being more candid about our feelings--both positive and negative--so we learn more about how we respond to others and how others respond to us. [3]
+
+The course culminates in a three-day retreat that includes 17 hours of T-group time, and we bring in a third facilitator, the "weekend trainer," to help support the group. I first took Touchy Feely as a student at Stanford in 1999, and I first facilitated in the course in 2007--and I've done the course two or three times every year since. But ten days ago I served as a weekend trainer for the first time, and it was a rewarding but also very intense experience--I felt like a novice surfer who was enjoying the ride but was never entirely sure how it would end. Here's what I learned in the process:
+
+1) Without empathy, no conflict can get resolved. With sufficient empathy, any conflict can get resolved.
+
+I'm reminded of Brené Brown's work on empathy and shame:
+
+Connection is our ability to forge meaningful, authentic relationships with other people. I believe that connection is the essence of the human experience. It is what..gives meaning to our lives. If you think about connection on a continuum...anchoring this end of of that continuum is empathy. It is what moves us toward deep, meaningful relationship. On the other side of the continuum is shame. It absolutely unravels our relationships and our connections with other people... Empathy is about being vulnerable with people in their vulnerability. [4]
+
+When we empathize with others we can envision ourselves in their circumstances and we vicariously experience their thoughts and emotions. This inevitably brings us closer together, even in the midst of conflict, and that feeling of closeness not only makes conflicts easier to resolve but also makes them seem laughable, even absurd.
+
+2) How much pain do we need to see or hear to feel empathy? How can we become more sensitive to others’ vulnerability?
+
+Despite the importance of empathy in resolving conflict, a challenge is that our empathic feelings may not be triggered by mere verbal disclosures or subtle cues. We can easily miss someone's expression of vulnerability, particularly if the conflict has triggered a threat response, which diminishes our capacity to take in and process information.
+
+But we can work to improve our skills in this area. Some recent research and clinical experience suggest that empathy can be learned, and the process involves slowing down, listening more closely, and heightening our awareness of others' emotions and our own. [5] By managing our threat response and sensitizing ourselves to others' vulnerability, we can feel empathy sooner and more strongly.
+
+3) How fully can we express our vulnerability? Especially in a conflict, can we take a risk and be more vulnerable with the other person?
+
+The flip side of this dynamic is that when we express our vulnerability more fully, we make it easier for others to empathize with us. This often feels risky when we're in a conflict, and so we tend to hide our vulnerability--or we disclose it in a sterile, non-emotional way, dampening the facial expressions, tone of voice and other cues that help others sense our feelings.
+
+Here's where we may need to "unlearn" some long-held beliefs about vulnerability and safety. In some cases those beliefs are well-founded--not everyone is equally trustworthy. But when we're habitually over-cautious, we never learn how to calibrate, and any expression of vulnerability feels unsafe and out-of-control. Taking the risk to express vulnerability more fully helps us practice doing so with greater control and allows us to discover who we can trust in a conflict.
+
+4) Intimacy requires deep trust & safety, which are easier to achieve when issues of status and power are acknowledged.
+
+Trust and safety are important not only in resolving conflict, but also in any experience of intimacy, which I've described as "a willingness to make the private public." [6] The more I trust you, the safer I feel with you, the more of my thoughts and feelings I'm willing to share with you. As trust and safety are established, we share more with each other, and a sense of intimacy is created.
+
+But the often unacknowledged elephants in the room are our mutual status and relative power. If you have higher status or more power than I do, I'm less likely to trust you until those differences are recognized. This need not require a diminution of your status or power, merely an acknowledgment that they exist.
+
+5) When I acknowledge my privilege, you’re more likely to acknowledge my individuality.
+
+As a straight, white, married, well-educated, able-bodied, middle-aged American man, I know I lead a privileged existence. The world I live in is run, for the most part, by people who look like me, and as I go about my daily routines I generally feel at home, rarely reminded of my various identities in a way that would make me feel other or unwelcome.
+
+That said, I'm more than just the sum of those identities--I'm an individual, and I want to be recognized as such. But I make it easier for people of other identities to see me as an individual when I also recognize the many privileges I enjoy. What this looks like in practice will vary depending on the situation and the relationship, but the first step is for us to simply be aware of our various identities, the privileges they bring in difference circumstances, and their potential impact on those around us.
+
+6) We can’t avoid mistakes. We can make smaller mistakes & recover from them faster, but the key is repairing when we inevitably screw up.
+
+Working on any of these issues involves taking risks and getting out of our comfort zone, so mistakes are inevitable. I'm not suggesting we should be heedless or fail to take responsibility for our mistakes, but when avoiding mistakes becomes our primary goal we cheat ourselves (and others) of the learning that would result. We need to embrace mistakes as a natural part of any learning process, and to do that we need to loosen the hold of the embarrassment and shame we feel when we make them. We need to adopt a growth mindset with regard to our interpersonal skills and admit that, like everyone else, we're doing the best we can, making it up as we go. [7]
+
+ 
+
+Footnotes
+
+[1] T-Groups, Facilitation and Experience (Mark Smith, Infed, 2001)
+
+[2] NTL Institute
+
+[3] T-Groups, Feelings and Management Theory
+
+[4] Shame & Empathy by Dr. Brené Brown [8:38 video]
+
+[5] For more on learning empathy:
+
+- Empathy Training for Resident Physicians: A Randomized Controlled Trial of a Neuroscience-Informed Curriculum (Helen Reiss, John Kelley, Robert Bailey, Emily Dunn and Margot Phillips, Journal of General Internal Medicine, 2012)
+
+- Can Compassion and Empathy Be Learned? (Dorrie Fontaine, University of Virginia Lifetime Learning, 2013)
+
+- Can Doctors Learn Empathy? (Pauline Chen, The New York Times, 2012)
+
+[6] Safety, Trust, Intimacy
+
+[7] What Is Mindset? (Carol Dweck, 2012)
+
+Photo by Mike Baird.
+

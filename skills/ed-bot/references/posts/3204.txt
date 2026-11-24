@@ -1,0 +1,13 @@
+---
+title: Technorati and the Tagged Web
+url: https://edbatista.com/2005/05/technorati_and_.html
+slug: technorati_and_
+published: 2005-05-24T19:38:46
+updated: 2005-05-24T19:38:46
+source_body: wordpress-html
+---
+
+Back in March Preetam Rai of betterdays posted a fantastic primer on the "tagged web" and how to use Technorati.  Great stuff, and I'm in his debt.
+
+Technorati has a good page on TypePad ping configuration, but Rai's post puts the technical details in a much more useful context.
+

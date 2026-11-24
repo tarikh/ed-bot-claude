@@ -1,0 +1,47 @@
+---
+title: Feedback Is Not a Gift
+url: https://edbatista.com/2020/07/feedback-is-not-a-gift.html
+slug: feedback-is-not-a-gift
+published: 2020-07-11T15:57:38
+updated: 2025-10-06T17:52:41
+source_body: wordpress-html
+---
+
+Feedback is a gift.
+
+We've been told this over and over, as if it were gospel. I've even preached it myself. [1] But as I noted some years ago, I stopped using this phrase because it "fails to acknowledge how difficult the experience of receiving feedback can be. This can lead us to ignore our stress levels in feedback conversations, or, worse, feel required to tough it out even when we’re distressed past the point of effective learning." [2] Feedback is often stressful, confusing or unwelcome. Some gift.
+
+The problem is compounded when we view feedback as inherently true, inscribed on tablets of stone and delivered from the mountaintop. [3] But if feedback isn't a gift, what is it? It's data. About our impact on a particular individual at a particular point in time. And while it may be "true" in the sense that the feedback-giver is accurately representing their perspective, that doesn't make it The Truth. Because feedback always says as much about the giver as the recipient. It's filtered through their reality-distortion fields, reflecting their personal values and priorities. Rather than reminding us of the scene above, feedback should really be viewed like this:
+
+The challenge, of course, is that we must bear these factors in mind while also remaining open to the possibility that there's potential value in any feedback we receive, even--and especially--when it's stressful, confusing or unwelcome. This is particularly important when we consider the impact of power dynamics, which may be explicit in hierarchical relationships but exist in all relationships and rather than being fixed are often contingent on the circumstances.
+
+The power we possess at a given moment distorts not only what others choose to tell us, but also what we choose to hear. The more power we have relative to someone else at a given moment, the more distortion there will be in the dialogue. So when we receive stressful, confusing or unwelcome feedback from someone with less power, we should take great care before rejecting it out of hand--it may not be The Truth, but it's still potentially useful data (and even if it's not entirely accurate data, it may be useful or of interest simply because it's rare.)
+
+This often comes up in my coaching practice in the context of a 360 review for a CEO or senior executive. I no longer conduct 360s, but I have in the past, and I still work with clients today to help them determine how to make use of their feedback in a 360 report conducted by another coach or consultant. This is often a stressful, confusing or unwelcome experience, typically because the client focuses on the negative feedback and ignores the positive, a predictable psychological response. [4] But, as I've noted elsewhere, the process of providing feedback anonymously can contribute to this dilemma--for example, 360 feedback providers often feel free to blame to the recipient for a problem, but rarely take responsibility for their own contribution to the situation. [5]
+
+And yet despite these inherent flaws in the 360 process, there may still be value in the data simply because a lack of psychological safety in the organizational culture or the working relationship has led the feedback provider to believe that they will be punished for speaking up and raising their concerns directly with the recipient. [6] So while we should acknowledge that the resulting data is likely to be distorted in order to determine whether and how to act upon it, the fact that it exists at all should be appreciated (and the distortion itself is valuable feedback, even if the giver doesn't realize it.)
+
+This perspective is at the heart of the impulse to call feedback "a gift." The idea is that it's better to have the data at our disposal than to be "unconsciously incompetent," blindly stumbling into unforced errors, and we should be grateful for the enlightenment. [7] But a further problem with the "gift" framing is that it can create a feeling of obligation to accept it. If feedback is a gift, it would be rude to refuse. And yet here the reminder that feedback is merely data can be useful in another way, because even when feedback is accurate, it's not a commandment that must be obeyed.
+
+The key here is to apply a "cost-benefit analysis" and assess the "return on investment" with regard to any prospective behavior change. At the heart of any piece of negative feedback is a request for change and a hope for a different way of working together. (This is often obscured by poor communication skills, heightened emotions, or a lack of practice, but it's as true for the clumsiest feedback as it is for the most graceful.) It's up to the recipient to determine the cost of the change being requested--including the cognitive effort required--and weigh it against the potential benefits--including the likelihood that other people might have similar feedback--and whether the resulting ROI is sufficient to be worth it.
+
+This alternative framing--feedback is data--allows us to be more judicious and intentional about whether and how we respond to it. And this matters because change is hard.
+
+Footnotes
+
+[1] Five Leadership Lessons
+
+[2] Make Getting Feedback Less Stressful (Harvard Business Review, 2014)
+
+[3] Exodus 31:18
+
+[4] Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen D. Vohs, Review of General Psychology, 2001)
+
+[5] The Problem with Anonymous Feedback
+
+[6] Make Your Employees Feel Psychologically Safe (Amy Edmondson interviewed by Martha Lagace, Harvard Business School Working Knowledge, 2018)
+
+[7] Conscious Competence in Practice
+
+Thanks to my friend and colleague Kevin Martin for the funhouse mirror metaphor.
+

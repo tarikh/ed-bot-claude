@@ -1,0 +1,199 @@
+---
+title: Three Questions with Suw Charman
+url: https://edbatista.com/2005/07/three_questions_1.html
+slug: three_questions_1
+published: 2005-07-05T04:00:00
+updated: 2005-07-05T04:00:00
+source_body: wordpress-html
+---
+
+Suw Charman is a consultant, journalist and author whose work focuses on blogging and social software. She writes Strange Attractor for Corante, and maintains a personal blog at Chocolate and Vodka, among other projects. She was also one of the 50 Honorable Mentions added to the AO/Technorati Open Media Top 100--I've expressed some skepticism about that list, but IMO Suw deserves the recognition. I'm very grateful for her outstanding responses to my three questions, which focus on microformats, organizational "unclenching," and Internet Relay Chat...
+
+1) You just attended Supernova 2005 in San
+
+Francisco. (And many thanks for your great session posts.) I think
+
+that when conferences truly succeed, they leave us eager to do
+
+something specific--talk to someone, kick off a project, start a
+
+company. What are you excited to do in the aftermath of Supernova 2005?
+
+Without
+
+a doubt the project that I saw discussed at Supernova, the thing I most
+
+want to get involved with is microformats. Kevin Marks, one of the team
+
+behind microformats, has been telling me about them for a while now,
+
+but it wasn't until I got into the microformats workshop and actually saw them in action that I started to get excited about it.
+
+In
+
+short, microformats are open standards for delivering small, formatted
+
+chunks of content, such as address cards or event data. The most
+
+exciting microformat is hCalendar, a way of publishing events data
+
+on your blog, say, in a way that other people can pull it into iCal or
+
+some other calendar software and have your schedule available to them.
+
+There's now an iCal generator too, and a plugin for MT which allows you to easily generate an hCal entry, plus it is supported by Upcoming.org.
+
+The
+
+grace of microformats is that they allow you to share formatted data
+
+without having to sign into some sort of centralised server. So instead
+
+of paying through the nose for some website that collates data for a
+
+named group, you can just publish your own and let people get it if
+
+they want to, without all having to be a member of the same web service.
+
+hCard
+
+is similar, providing address book data, and I see these microformats
+
+being potentially very disruptive to some people's business models. Any
+
+software or service which relies on a centralised sharing system for
+
+this sort of data is in trouble, because microformats allow you to
+
+retain sovereignty over your data, so your calendar is not held hostage
+
+to some monthly subscription. We still have a very long way to go to
+
+make microformats more accessible and easier to implement, but it's a
+
+very exciting project and I look forward to seeing how it progresses,
+
+and to getting more involved.
+
+2)
+
+Following the conference, you and I talked briefly about the difficulty
+
+of getting organizations to "unclench" as they begin blogging. How do
+
+you initiate that process when working with your clients?
+
+The
+
+first thing is to understand whether or not the business culture within
+
+which the nascent bloggers are working will even allow any sort of
+
+'unclenching' to happen. If I come across companies who simply cannot
+
+cope with the cultural changes required to allow blogging to flourish,
+
+then I advise them not to start blogging in the first place. A bad blog
+
+is worse than no blog at all, in my opinion.
+
+But I think the key
+
+is to take people outside of their normal business mental environment
+
+and try to show them what the world looks like from a blogger's point
+
+of view. I have found in the past that the only real way to explain
+
+blogging to people is to get them to blog, so I set up trial blog
+
+accounts for each individual and get them to experiment there and then,
+
+so that they can not just see how it works, but feel it too. I walk a
+
+new blogger through posting their first post, and when they track back
+
+to something I have written and see that ping show up on my blog, their
+
+understanding is emotional, not intellectual. They 'get it' far faster
+
+than they would if I tried to explain pinging and trackbacks with a
+
+bunch of PowerPoint slides.
+
+The issues around blogging in
+
+business are not really technical, although you do get IT departments who have a lock-down mentality and are openly hostile to any systems
+
+they haven't either written or discovered themselves. Instead, you
+
+are usually dealing with cultural and emotional issues. When I've done
+
+blog training or panels on blogging in the past, the questions people
+
+have are rarely to do with the technology and more to do with issues
+
+like 'How do I deal with people knowing more about me than I know about
+
+them?', 'I don't want to expose myself', or 'But I'm not a very good
+
+writer'.
+
+Using social tools is a hurdle for some people because
+
+they are afraid of humiliation. They don't want to make fools of
+
+themselves and they are scared that if they write a blog they will look
+
+like idiots. Translate
+
+that sort of fear into the business context, and you have people
+
+worrying about damaging their career or losing their jobs - and that's
+
+a massive limiting factor.
+
+Of course, many successful business
+
+blogging projects work precisely because they remove the emotional
+
+aspects of blogging completely. If you have a business blogging
+
+project, dark or light (i.e. internal or external) then people are
+
+writing very factual material. It's not a case of exposing one's inner
+
+soul to the world - or worse, your boss. It's about telling people what
+
+is going on. So you have this interesting set of conflicts
+
+between people's perceptions of what blogging is all about, where they
+
+assume that all blogs are personal diaries and are put off because they
+
+don't see the relevance of or necessity for that sort of content in the
+
+context within which they are working; the emotional nature of the
+
+blogosphere within which their external business blog must comfortably sit; and the non-confessional nature of business blogging, where it's not about how you feel, but what is going on in your business.
+
+My job is to try to figure out where the hurdles are, because every company and individual within that company will have a different concern and need to understand a different aspect of blogging. Once I know what the problems are, it's relatively simple to help assuage people's doubts.
+
+3) While at Supernova, you were the "official backchannel mole, monitoring IRC" for comments and discussions related to the conference. I thought this was fascinating, because as a relative non-geek, I find the world of IRC totally alien and intimidating. Why do you use IRC, and what advantages does it offer over other modes of communication?
+
+I used to use Yahoo! chat, long ago before it was flooded with teenagers asking for your a/s/l (age/sex/location). I hung out in the Books & Lit channel and met a whole bunch of really interesting people, until it became basically untenable to stay on Yahoo! chat because the a/s/l-ers were just overwhelming intelligent conversation.
+
+Then about 18 months ago, after years of not using chat at all, Gary Turner suggested to me that maybe I should try out #joiito on freenode, and I was instantly hooked again. I now have my own channel, #suwcharman on freenode, and IRC has become an integral part of my personal and professional life.
+
+What makes or breaks IRC is the people. I have met some really cool people through IRC, and have had some fantastic conversations. I've even got work because of the people I met on IRC, so it's an excellent networking tool. But, the corollary has to be that if you get a channel that's invaded by trolls it really can be very tedious and annoying.
+
+It does really come into its own at conferences, though, with the IRC backchannel keeping me amused during boring sessions, providing extra information and context for the interesting sessions, and allowing me to figure out who's who and arrange who I'm going to hang out with and where. Plus it allows people who aren't at the conference the chance to get a feel for whether or not they are missing anything and, if so, what.
+
+IRC is very much a 'your mileage may vary' sort of thing, but I think it's worthy of exploration. If you can find good channels, it can be well worth the time you invest into it.
+
+Bonus Personal Question: Your personal blog is called "Chocolate and Vodka," so what's your favorite chocolate and favorite vodka?
+
+Ah, easy! My favourite chocolate is Green & Black's 70% Cocoa Organic Dark Chocolate, which is just heavenly. For vodka you just can't beat Żubrówka, a Polish vodka naturally flavoured with bison grass. It's like drinking distilled summer.
+
+suw charman strange attractor corante microformats irc supernova2005 blogging
+

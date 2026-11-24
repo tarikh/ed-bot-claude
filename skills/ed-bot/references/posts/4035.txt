@@ -1,0 +1,47 @@
+---
+title: When Offers Fall Apart
+url: https://edbatista.com/2020/02/when-offers-fall-apart.html
+slug: when-offers-fall-apart
+published: 2020-02-29T22:28:46
+updated: 2025-10-06T18:21:30
+source_body: wordpress-html
+---
+
+I recently heard from a talented professional who had received an offer from an organization in their field, only to have it rescinded after two weeks of discussions on issues that had seemed resolvable. And over the years I've worked with a number of clients who thought a candidate for an executive position was about to accept an offer only to learn that it was rejected. What happens when offers fall apart? In my experience differences in these three areas lead parties to have second thoughts when an agreement once appeared imminent:
+
+1. Culture
+
+To be reductive about it, there are two different "cultures" (in the broadest sense) with regard to negotiating: "list-price" and "haggling." As I've written before, "In a list-price culture, there's a high degree of transparency and very little flexibility. An opening offer may not be take-it-or-leave it, but there's relatively little gamesmanship in the process... In a haggling culture, the opposite is true. There's very little transparency and a great deal of flexibility. Opening offers are never take-it-or-leave-it, and gamesmanship abounds." [1]
+
+When a list-price firm makes an offer to a haggling candidate, the latter assumes that the terms are merely gambits, and responds with a counter-offer, possibly an aggressive one. The firm may be surprised and question the candidate's motives or the sincerity of their interest in the position. Then the firm's response often surprises the candidate, who wonders whether the firm is trying to lowball them or acting in bad faith. Even when negotiations are expected, the cultural mismatch breeds misunderstandings and distrust, which sometimes brings one party to the breaking point. (It's also problematic when a haggling firm makes an offer to a list-price professional--the latter will leave money on the table and later become resentful--but that's a very different challenge.)
+
+The key is for both parties to learn more about their respective "cultures" as early as possible. It's not necessary for both parties to share the same culture to reach agreement, but when they don't, they "need to more clearly understand the implications of conducting a negotiation across this cultural divide and the potential surprises that await [them]." [2]
+
+2. Communication
+
+Even when both parties share the same negotiating culture, miscommunication in the process can lead one party to conclude that they're better off rescinding the offer or walking away from it. And as I've written before, "When our efforts to communicate go awry, one of the most common causes is a failure to distinguish between intent and impact. When delivering a message we typically imagine that these two concepts are aligned--it may not even occur to us to view them as distinct. Our intent is transparent to us, so we assume that it's equally clear to others and that our message is being received in that same spirit." [3]
+
+Topics that are common sources of miscommunication include the scope of issues under discussion, the distance between the two parties' positions, and the amount of progress being made over time. When an offer falls apart unexpectedly, the party caught by surprise was presumably under the impression that the issues under discussion were appropriate at this stage, that their stated positions were reasonable, and that progress was being made--but the other party had a very different interpretation of the situation. The key here is to recognize the possibility that the impact of any moves in these areas may be greater than was intended (or even diametrically opposed.)
+
+3. Connection
+
+One way we navigate the complex world of interpersonal relationships is through role clarity, and at the most basic level we identify others as friend or foe. David Rock, executive coach and founder of the NeuroLeadership Institute, notes that the neurological processes underlying these dynamics have significant implications for our working relationships:
+
+Fruitful collaboration depends on healthy relationships, which require trust and empathy. But in the brain, the ability to feel trust and empathy about others is shaped by whether they are perceived to be part of the same social group... Each time a person meets someone new, the brain automatically makes quick friend-or-foe distinctions and then experiences the friends and foes in ways that are colored by those distinctions. When the new person is perceived as different, the information travels along neural pathways that are associated with uncomfortable feelings (different from the neural pathways triggered by people who are perceived as similar to oneself). [4]
+
+But an aspect of offer negotiations that makes them so fraught is the absence of role clarity. The representatives of the firm and the candidate are simultaneously potential allies, seeking to establish trust and identify areas of common interest, and temporary adversaries, seeking to maximize value and gain an advantage over the other. In such circumstances it can be profoundly difficult to know how to connect with others effectively while continuing to safeguard one's personal interests.
+
+The key here is finding ways to establish interpersonal connection in ambiguous circumstances--conveying sufficient warmth to build relationships while maintaining the necessary distance to negotiate effectively. Inevitably this involves expanding our capacity for emotion regulation--but it's essential to note that "managing emotions doesn’t mean suppressing them. Efforts to ignore our feelings or pretend that they don’t exist aren’t sustainable over time (and may even exacerbate the very emotions that are causing us difficulty)." [5]
+
+Footnotes
+
+[1,2] List-Price vs. Haggling (Culture, Compensation and Negotiation)
+
+[3] Intent vs. Impact (When Communication Goes Awry)
+
+[4] "Managing with the Brain in Mind" (David Rock, strategy+business, 2009)
+
+[5] Taking the Leap (Dealing with Risk and Uncertainty)
+
+Photo by PxHere.
+

@@ -1,0 +1,25 @@
+---
+title: Just-In-Time Management
+url: https://edbatista.com/2005/11/justintime_mana.html
+slug: justintime_mana
+published: 2005-11-05T14:57:36
+updated: 2005-11-05T14:57:36
+source_body: wordpress-html
+---
+
+Stowe Boyd points to these words to live from Jason Fried at 37 Signals:
+
+People often spend too much time up front trying to solve problems they don’t even have yet. Sometimes it’s better to wing it...
+
+Don’t sweat stuff until you actually must. Don’t overbuild for scalability. Increase hardware and system software as necessary. If you’re slow for a week or two it’s not the end of the world. Just tell your customers you’re experiencing some growing pains. They’ll appreciate the candor.
+
+Bottom Line: Make decisions just in time, when you have access to the real information you need. In the meanwhile, you’ll be able to lavish attention on the things that require immediate care and feeding.
+
+Although these ideas grew out of 37 Signals' experience developing web services like Basecamp, I think they have relevance in any management context.  We constantly overplan and overprepare.  We waste crucial time and energy worrying about possible problems that may never materialize, and we pat ourselves on the back for our prudence when we should be kicking ourselves in the ass for not moving fast enough to solve the actual problems that are staring us in the face.
+
+Jason's commenters take him to task for ignoring planning, but they're missing the point.  He's not saying never plan, never prepare.  He's saying put planning in its proper place.  Patton said, "A good plan violently executed today, is far and away better than a perfect plan next week."  And he would know.
+
+I think Jason's point about candor is equally important.  We worry excessively about avoiding screwups so we won't look bad, which becomes a crippling fear.  Couple this with obsessive planning and you have a recipe for organizational (and personal) paralysis.  Candor breaks the logjam.  Candor allows us to try, fail, apologize, learn and then give it another (presumably better) shot.
+
+I'm not just pointing fingers here; I need to take these lessons to heart myself.  But thinking about them and articulating them is part of the process of putting them into practice.
+

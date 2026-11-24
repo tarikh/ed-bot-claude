@@ -1,0 +1,49 @@
+---
+title: Post-Modern Ethics
+url: https://edbatista.com/2005/01/today_harvard_l.html
+slug: today_harvard_l
+published: 2005-01-22T00:24:08
+updated: 2025-10-26T21:27:48
+source_body: wordpress-html
+---
+
+Today Harvard Law's Berkman Center is co-hosting a roundtable on blogging and journalism with the American Library Association and Harvard's Shorenstein Center on the Press, Politics and Public Policy.  The issue on everyone's mind is the revelation last week by Zephyr Teachout, former Director of Online Organizing for the Howard Dean campaign, that the campaign paid two prominent (and pro-Dean) bloggers, Jerome Armstrong of myDD.com  and Markos Moulitsas Zuniga of Daily Kos.
+
+Apparently this has been well-known among bloggers for some months now (But did I get the memo?), but it hit the mainstream media in the January 14 Wall Street Journal. Slate's Chris Suellentrop wrote a nice summary of the whole affair, and Teachout herself has posted her reaction to the WSJ piece, as well as some further thoughts, on Zonkette (points off for unoriginality) here, here, here and here.  Uh, and here's a FAQ she put together. ("14. Are you criminally stupid? Yes.")  Let's hope this is her final word on the subject.
+
+Although Armstrong shut down myDD while he was consulting to the campaign, and Zuniga posted disclaimers on his site that made it clear he was on the campaign's payroll, the question being asked at the Berkman Center and elsewhere is: Was this ethical?
+
+Conservatives, still smarting from the Armstrong Williams controversy, are quick to portray (Jerome) Armstrong and Zuniga as Williams' counterparts, equally guilty of a conflict of interest.  "See?" they clamor, "Everyone does it, and we're no worse than they are."
+
+Liberals just seem to be pissed that Teachout blabbed to the WSJ, their sworn enemy, or, like Joe Trippi, they're making rambling non-excuses via podcast.
+
+And journalists, of course, have their knickers in a serious twist.  Just a few months ago, the mainstream media saw bloggers as amateurs in pajamas, but now they've been outed as the unethical sharks they truly are.  (Damn Internet.  Don't you people ever watch TV?)
+
+I do think Teachout is either disingenuous or naive when she says that 2003 was "the wild west days of blogging" as a way of sidestepping the ethical issue.  "There were no rules!  It was just a crazy time, man!"  Actually, in the next sentence she unleashes an even more incredulous analogy:
+
+"[The Dean campaign was] like a small, young band that finds these amazingly talented fans who are flyering for our singer, and getting all these people to the concerts. We wanted to support them to make sure they kept flyering, and didn’t go off to another band – it was thrilling and new, and it was a chance to pay people for something that they loved to do."
+
+Howard Dean, punk rocker.
+
+But ultimately the ethics watchdogs are barking up the wrong tree.  (The conservatives?  They just wish they'd thought of it first.)  People are reading blogs--32 million readers, according to the WSJ--because of the very biases that the watchdogs would have us stamp out.
+
+I'm not a mainstream media-basher.  The institutions of traditional journalism still have a crucial role to play in our society, and more to the point, they aren't going away anytime soon.  But they aren't growing either, and one of the main reasons is the cacophony of independent, authentic, personal, funny, outrageous, biased voices calling out from the blogosphere.  Those biases aren't a reason to tune out--they make us want to tune in.
+
+I'm relying upon two things here: First, in the chaotic intellectual marketplace that is the blogosphere, the truth will emerge.  There are too many people out there fisking every story for big lies to stay hidden.  Yes, of course, there are plenty of crackpots out there, and there are plenty of gullible followers, too.  But information is like any other commodity--in an efficient market, its real value will quickly be established.
+
+And second, bloggers will--they must--contribute to the efficiency of this intellectual market by making their affiliations and financial relationships transparent, and letting their readers factor that information into the value they place on their blogs' opinions.
+
+Bloggers aren't journalists  (If we are, we're stand-alone journalists, in Chris Nolan's wonderful phrase.)  We're partisans, advocates, activists.  Sure, we want to inform--but more importantly, we want to convince.  We want to move you to take action.  And unlike journalists, our influence isn't rooted in a reputation for impartiality, but simply in our ability to communicate effectively with readers.
+
+So the question to ask isn't "Was it ethical for MyDD and Daily Kos to be on the Dean campaign's payroll?" but "Was it consistent with their attitudes, beliefs and values?  Did it reinforce or contradict their other writings and activities?" Ultimately, it's all about consistency. 
+
+This isn't a perfect metaphor, but it'll have to do: Back in the mid-80's, a few "college-rock" bands like the Del Fuegos and the Long Ryders accepted sponsorships from Miller Beer--some TV commercials, logos on tour T-shirts, that sort of thing--and the bands were ripped to shreds in the music press as sell-outs.  Today, U2 and Apple are so tightly intertwined you don't know where one begins and the other ends, but (despite the odd grumble from hipsters who liked Zooropa) U2 are still hailed as pure genius musicians.
+
+What's the difference?  Why were those 80's bands skewered while U2 is laughing their way to the Rock and Roll Hall of Fame?  In a word: consistency.  Rightly or wrongly, there was an inconsistency between the image those 80's bands had established (tough, edgy outsiders) and the new relationship they developed with a big, uncool beer company (and Miller was very uncool back then--don't let those Errol Morris "High Life" commercials fool you.)  Del Fuegos fans saw the band's slick TV commercials, heard their slightly toned-down sound, and said, "These guys are abandoning us--they're gonna turn into Bon Jovi!  Screw 'em!"
+
+In contrast, there's a very strong consistency between the image U2 has maintained for decades (hip, modern sophisticates) and the relationship they've developed with a big, supposedly cool technology company.  U2 fans are saying, "Wow, that's a badass iPod!" (Of course, even their fans are sick of hearing "Vertigo" by now, but that's another story.)
+
+Whether or not it actually happened, it seemed quite possible that the Del Fuegos changed their look, their style, and even their music to attract a wider audience and appease their new corporate paymasters.  But no one in their right mind thinks U2 has done anything of the sort for Steve Jobs.
+
+And MyDD and Daily Kos basically followed the U2 playbook: getting paid by the Dean campaign was entirely consistent with their established attitudes, beliefs and values, and their paid advocacy on behalf of Dean merely reinforced their other writings and activities.  Like it or not, ethics scolds, but these are the criteria by which bloggers will be judged.
+

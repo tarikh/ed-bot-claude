@@ -1,0 +1,45 @@
+---
+title: Running the Numbers
+url: https://edbatista.com/2005/06/running_the_num.html
+slug: running_the_num
+published: 2005-06-16T23:21:23
+updated: 2005-06-16T23:21:23
+source_body: wordpress-html
+---
+
+So just how many blog readers are there, anyway? And which blogs are the most popular? There's no definitive source, no single metric, and not even agreement on just what constitutes a "blog," but that doesn't mean we can't have a little fun with the numbers. Here are a few good places to start:
+
+1) The Truth Laid Bear's Ecosystem and Ecotraffic: The Ecosystem ranks some 28,000 blogs by the number of sites that link to them, like a simpler version of Google's Pagerank algorithm. The overall list is broken up into different classes: the top 10 are Higher Beings, 11-30 are Mortal Humans, 31-100 are Playful Primates, and so on down to the Insignificant Microbes among the bottom 2,500 or so. (As of today, I'm a Flippery Fish at #12,703.) The taxonomy is way too cutesy, there are some glitches in the system--today's top site is a blank Google syndication page--and ranking by links only gives us a sense of relative scale, but it's useful data all the same.
+
+TTLB's Ecotraffic page ranks the top 5,000 blogs by traffic, in the form of unique daily visitors. This gives us a better sense of absolute scale (and of the ruthless Pareto distribution in blog readership). Today the top site (DailyKos) has 443,451 unique visitors, the #10 site (PowerLine) has 67,311, #20 (Blog for America) has 33,746, #50 (Outside the Beltway) has 9,500, and #100 (whatevs) has 4,623. (I'm #2,495, with 84. Welcome to each and every one of you.) As with the Ecosystem, there are some problems--some odd exclusions (because it's an opt-in system) and some odd inclusions (of clearly defunct sites)--but it's still some of the best data we have.
+
+2) Technorati Top 100:
+
+Although the data's limited to the number of links from
+
+different sources, giving us no insight into absolute numbers of
+
+readers, I suspect that Technorati is the most accurate source of
+
+relative audience size. There's a Pareto distribution, but it's not nearly as stark at TTLB's traffic figures: Today's top site (BoingBoing) has 23,297 links from 15,364 sources, the #10 site (dooce) has 7,112 links from 6,322 sources, #20 (Scripting News) has 5,749 links from 4,723 sources, #50 (Random Bytes) has 3.073 links from 2,831 sources, and #100 (Oliver Willis) has 2,313 links from 1,819 sources. (I have 34 links from 16 sources. Thanks, Mom!)
+
+3) BlogStreet's BlogTops: BlogStreet ranks the 500 most Popular blogs, as determined by the number of other blogs BlogRolling them. It's very similar to TTLB's Ecosystem, but because it relies only on BlogRoll links, the absolute numbers are much smaller, and potentially not as accurate. BlogStreet also ranks the 500 most Influential blogs, as determined by their "Blog Influence Quotient," which factors in the identity of the who's doing the BlogRolling--if a popular site BlogRolls you, your "BIQ" goes up. I don't know how conclusive it is, but it's particularly interesting to see which sites have low popularity rankings but high influence rankings, and vice versa (see below.)
+
+4) Kmax Top 25 Solo Blogs: Kmax
+
+uses an opaque formula that "takes into account link popularity,
+
+updating frequency, and audience participation (comments)." Without
+
+knowing how these rankings are generated, they're of limited value,
+
+and the list is restricted to solo sites, but it's a data point to compare with other rankings.
+
+5) Alexa's Top 500 Websites: Alexa uses their client-side toolbar to extrapolate audience statistics for the top 100,000 websites. Their list of Top 500 sites is interesting in this context because it shows how small the blogosphere still is in absolute terms, and because it raises questions about the other rankings above. Today's #500 site is Fotop, which Alexa claims has 550 users per million (which is how they measure a site's audience, since they're extrapolating and not tracking actual usage. They're pretty candid about their methodology and its limitations.) Given the current figure of nearly 900 million internet users worldwide, that translates into a daily audience of 495,000 for Fotop, which is nearly 12% bigger than the TTLB figures for DailyKos, the biggest blog (by a large margin) in the Ecotraffic ranking. I'm not sure if it's a true apples-to-apples comparison (and it certainly doesn't take into account the fact that DailyKos and other bloggers are having an affect on our culture far out of proportion to their audience), but it's a useful reality check.
+
+In addition, a review of Alexa's Top 500 suggests that the only ranked site that could be considered a blog is the Drudge Report at is #252, with an extrapolated 4.5 million daily visitors. But Drudge isn't even listed on TTLB or Technorati, he's currently #19 on BlogStreet's most Popular list and #146 on their most Influential list. So Drudge is either A) the biggest blogger in the world by a factor of 10, B) a high-traffic but only modestly influential blogger, or C) not a blogger at all. See why this is confusing?
+
+UPDATE: Clay Shirky's Power Laws, Weblogs and Inequality discusses why and how power laws affect the blogosphere and is valuable background reading for any discussion of the popularity of "A-list" bloggers and the growth of the blogosphere as a whole.
+
+blogging traffic
+

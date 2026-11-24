@@ -1,0 +1,23 @@
+{
+  "name": "ed-bot",
+  "displayName": "Ed Bot",
+  "version": "4.2.0",
+  "description": "Executive self-coaching",
+  "author": {
+    "name": "Tarikh Korula",
+    "email": "edbot@getsuperculture.com"
+  },
+  "homepage": "https://getsuperculture.com/edbot/",
+  "keywords": [
+    "coaching",
+    "leadership",
+    "management",
+    "ed-bot"
+  ],
+  "metadata": {
+    "candidate": "semantic-public-release-preparation",
+    "sourceVersion": "4.1.2",
+    "archiveSnapshot": "2026-11-18"
+  },
+  "license": "CC-BY-SA-4.0"
+}

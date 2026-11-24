@@ -1,0 +1,11 @@
+---
+title: I'm an Attention Pimp
+url: https://edbatista.com/2006/03/im_an_attention.html
+slug: im_an_attention
+published: 2006-03-11T11:45:25
+updated: 2006-03-11T11:45:25
+source_body: wordpress-html
+---
+
+According to Valleywag.  I suppose it's better than being an "attention whore," but it's the same business in the end.
+

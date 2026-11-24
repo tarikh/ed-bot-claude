@@ -1,0 +1,133 @@
+---
+title: The Problem with Anonymous Feedback
+url: https://edbatista.com/2017/03/the-problem-with-anonymous-feedback.html
+slug: the-problem-with-anonymous-feedback
+published: 2017-03-20T05:00:00
+updated: 2025-10-09T19:42:35
+source_body: wordpress-html
+---
+
+The issue of anonymous feedback comes up consistently in my work as a coach to senior leaders. Many of my clients gather feedback from employees assessing their level of engagement or seeking input on problems, often through an anonymous survey. And I'm regularly asked to conduct 360 reviews for a CEO or a member of their executive team, typically via anonymous interviews with direct reports, peers, superiors, investors or board members
+
+I no longer offer 360 reviews in my practice—over the past decade I’ve concluded that I add the most value as a coach by working directly with individual leaders and focusing our time on preparing to have the difficult conversations for which anonymous feedback is often a precursor (or, more problematically, a substitute.) In the course of this work I sometimes discuss with my clients anonymous feedback they’ve received via 360 reports and employee surveys, and while these tools can be useful, I’ve come to feel ambivalent about the role anonymous feedback plays in our efforts to improve leaders’ effectiveness.
+
+Anonymity clearly has value under certain circumstances, but it also carries a cost, and it's important for leaders to understand both sides of the equation before committing to any anonymous feedback process. What is the value of anonymity? When people can voice perspectives anonymously, they presumably feel more comfortable sharing concerns or negative feedback that might otherwise expose them to risk in some way, and the data gathered is more candid and thus more useful. But note the underlying assumptions here: People are currently not being candid and can’t be trusted to speak up. Feedback generated through an anonymous process is more accurate than feedback expressed publicly. Hearing concerns or negative feedback will cause distress or anger. And anyone who shares such information is at risk because leaders will seek retribution.
+
+In any given organization these assumptions may well be true. I’m not naïve about the power dynamics of organizational life, and I know that much goes unsaid, that speaking up can trigger a hostile response, and that people with power often abuse it. [1] But when we assume that these conditions make anonymity necessary, we often fail to factor in the cost of doing so. What are the costs of anonymity? In my work as a coach I see three sets of counterproductive factors.
+
+1. Critiques become criticism.
+
+The work of psychologist John Gottman is based on observations of couples in long-term relationships, but many of his conclusions have important implications for organizational life. [2] One of Gottman’s key concepts is to distinguish between critiques and criticism:
+
+[Criticism] is different than offering a critique or voicing a complaint. The latter two are about specific issues, whereas the former is an ad hominem attack: it is an attack on [the other person] at the core. In effect, you are dismantling his or her whole being when you criticize. [3]
+
+For example, here’s a critique I commonly encounter in my practice: “Chris is getting into repeated conflicts with other members of the exec team over seemingly minor issues.” And here’s a similar sentiment in the form of criticism: “Chris is an abrasive person who lacks people skills and a domineering personality who has to win every argument.” The former focuses on specific behaviors; the latter is a broad generalization. The ability to voice critiques and complaints is essential to working through challenges in healthy relationships, but criticism is a sign of trouble in Gottman's framework because it often leaves the recipient feeling “assaulted, rejected and hurt,” and it can lead to more serious interpersonal difficulties. [4]
+
+Much anonymous feedback from employees toward a leader can be characterized as criticism rather than critiques. It doesn’t focus on specific behaviors, let alone specific instances of those behaviors, but applies a broad brush and tends to address the whole person. In part this is simply the result of the passage of time, our notoriously poor memories, and our confirmation bias. We misremember past events more often than we’re willing to admit, so any retelling inevitably blurs the details to fit our pre-existing narrative.
+
+But the anonymous nature of the process also serves to wipe away essential information that might prevent a critique from becoming criticism. Feedback providers are discouraged (explicitly or implicitly) from identifying themselves or from sharing specific details about the situation. What emerges is often highly generalized criticism of the leader, rather than a more nuanced set of critiques of their behavior in specific circumstances. Unsurprisingly, this is more likely to provoke defensiveness on the part of feedback recipients rather than a desire to learn and change.
+
+2. A tendency to blame and a failure to take responsibility.
+
+The fundamental attribution error is a cognitive bias identified by Stanford psychologist Lee Ross which leads us to believe that causality rests primarily with individuals rather than the with the surrounding situation. [5] A consequence of this dynamic is that leaders get more credit than they deserve when things go well—and they get more blame than they deserve when things go badly. I’m reminded of this passage from Brene Brown’s 2010 TED talk:
+
+There's no discourse anymore. There's no conversation. There's just blame. You know how blame is described in the research? A way to discharge pain and discomfort. [6]
+
+This is an apt description of many anonymous 360 reports and employee surveys—very little discourse, and a great deal of blame directed at leaders, most of which imagines that the leader’s personal attributes are primarily responsible for the situation being described, particularly anything associated with employees’ pain or discomfort. The leader’s behavior is often assessed in isolation, without much (or any) consideration of a group dynamic or organizational culture that might have given rise to said behavior. And the providers of the feedback frequently fail to take responsibility for their own contributions to the situations being described—everything is ascribed to the leader’s influence.
+
+The result is an unrealistic portrayal of the leader as an outsized, all-powerful authority figure and the infantilization of the other members of the organization. While this outcome is obviously undesirable, it can be dangerously seductive to both leaders and employees. We all find it gratifying to be viewed as influential and high-status, and leaders in particular generally have a strong need for power. [7] And as much as we want to be responsible adults, when we’re under stress or feeling disempowered it can be comforting to imagine that a commanding, parental figure will take care of our problems and make everything better. Thus, leaders and employees alike collude in the process of shifting responsibility from the latter to the former, when in truth leaders typically have more influence than all other individuals, but less influence than the employees as a group.
+
+This dynamic can occur in any feedback process, but it’s compounded by anonymity, in part because of the bystander effect. The presence of others discourages us from taking action to intervene in a difficult or dangerous situation, because we feel less responsible for the outcome. [8] Many anonymous processes convey to feedback providers (again, both explicitly and implicitly) that they are merely one voice among many, and, further, that they’ve already made a meaningful contribution merely by participating in the interview or the survey. The structure of the process suggests that once the interview is concluded or the survey is submitted, their work is done, and now it’s up to the leader to take action in response. There’s little if any recognition that the problems which gave rise to the negative feedback in the first place are likely to be solved only through collective efforts which take into account the larger group dynamic and organizational culture, even when those problems stem from an individual leader’s behavior.
+
+3. Necessary skills go undeveloped.
+
+Finally, delivering feedback through anonymous processes can forestall other conversations and interactions, slowing or even preventing the development of necessary skills by employees and leaders alike. One of the most important skills in organizational life is navigating a difficult conversation with just the right amount of assertiveness and minimal defensiveness. [9] Providing negative feedback to an authority figure is almost always challenging, and yet our ability to conduct these conversations improves when we overcome our resistance and actually step into them. Similarly, hearing negative feedback without defensiveness is profoundly difficult, and yet our ability to manage this response grows when we find themselves facing such feedback in an actual discussion, rather than in private reflection.
+
+This is because holding tough conversations isn’t a cognitive task that we can grasp intellectually—it’s an immersive emotional and physiological experience, and we need to practice repeatedly in order to habituate ourselves with the feelings and physical states that it evokes. We must become comfortable with discomfort. [10] This is one reason why the MBA curriculum at Stanford, where I teach, emphasizes in-person feedback in classes such as Leadership Labs, a required course for all first-year students, and Interpersonal Dynamics, our most popular elective. [11]
+
+It’s also important to note that the capacity to safely discuss risky topics isn’t simply a function of individual ability--it’s the result of individual skills being employed in the context of a unique group dynamic. Every human system, from one-on-one relationships to entire organizations, has a culture that makes it easier or more difficult to hold these conversations. Specifically, the norms regarding emotion awareness, regulation and expression have a significant impact on our ability to conduct these conversations effectively.
+
+Under optimal conditions, anonymous feedback can serve as a starting point for these discussions, but all too often the 360 report or employee survey serves to short-circuit this process. This is readily understandable—difficult conversations are hard, and when given the choice we almost always take the easier route. But when we continually divert these conversations into anonymous feedback processes, we fail to understand what norms best support the safe discussion of risky topics in a particular relationship or group, and we learn nothing about how to create a more functional culture. As a consequence, not only do we fail to develop our individual skills, but we also fail to cultivate a culture in our relationships and organizations that would allow us to employ these skills more effectively.
+
+Finally, recall that one of the initial assumptions supporting the need for anonymous feedback is the idea that people aren’t speaking candidly because they are afraid. In my experience fear and anxiety are facts of organizational life—we can try to diminish their impact through more enlightened management practices, but imagining that we can eliminate them entirely is magical thinking. A repeated theme in my practice is how leaders inevitably trigger fear and anxiety in subordinates despite the best of intentions and a heartfelt desire to do the opposite. [12]
+
+When we rely upon anonymous processes to provide feedback, we do make it safer for people to speak up—but we also deny them the opportunity to address and confront their fears and anxieties, and to test for themselves the accuracy of those concerns. As I note above, sometimes those concerns are well-founded, but when we prioritize safety above all else, one of the inevitable costs is a lack of learning and growth. [13]
+
+So what can we do?
+
+I’m not suggesting that there’s no place for anonymous 360 reports or employee surveys. In the absence of sufficient safety and trust, these mechanisms can serve as effective means to gather the data that’s necessary to initiate candid conversations. But we can’t simply assume that anonymous processes are always more effective or cost-free. The data generated by an anonymous process must be carefully scrutinized and assessed for bias, rather than simply accepted at face value. While anonymous mechanisms may surface data that would otherwise go undisclosed, the data itself is affected by the means through which it’s gathered—it’s not necessarily any more “true” for having been shared anonymously.
+
+A particular challenge with 360 reports is that in an effort to provide this service to a larger number of executives at a lower cost, organizations often allow feedback providers to simply type their comments into an application, and that unfiltered data is then shared directly with the recipient. It’s much more effective to have a skilled interviewer talk at length with feedback providers, compile and edit the comments resulting from these discussions, and then work with the subject over a period of time to interpret and act upon the feedback. Obviously, such a labor-intensive process is also much more expensive, and yet it’s important to ask whether the savings from an automated process are truly worth it, particularly with senior executives. At more junior levels, when organizations are uncertain whether the expense of an in-depth process is justified, decision-makers may well conclude that flawed feedback is better than no feedback at all. But it’s essential to acknowledge the potential shortcomings of that feedback, and at the very least organizations should insure that any anonymous 360 feedback is accompanied by sufficient coaching support.
+
+Postscript: My colleagues Dan Oestreich and Stephanie Soler are highly experienced practitioners who've conducted many 360s over the years. We're largely in agreement, but their nuanced comments in response to my original post offer useful counterpoints.
+
+Dan Oestreich:
+
+You are speaking to one of my pet peeves -- automated, anonymous "feedback" (can we really call it that?). Such purchasable processes may do more damage to givers and receivers precisely because of the dynamics of anonymity and the mechanical nature of the thing. I would also add that 360 processes are often based on "benchmarks" of successful managers and I often wonder about the validity of that, too. The idea is that somehow the combination of anonymity and benchmarks create something like an industrialized "objective" truth about a person -- a pretty darned big assumption.
+
+Moreover, you touch on the projections and narrowing of feedback about leaders without reference to context which, in my experience can lead to various emotional exaggerations and a host of responsibility and defensiveness problems by any and all the parties. And all based on the myth of individualism that ascribes all organizational problems to individual motivation, no matter what. A recipe for blame and control for whoever owns the process -- which is not likely the client leader. I agree with your suggestions, too, Ed, regarding the use of a coach to help interpret and share data, which is my only method of working with 360's.
+
+There are a few other things that are very important to me in the process as I do it, and these ideas may be helpful to others. First, the questions I ask on behalf of a leader are directly related to the leader's specific desires to learn. I don't use a standard set of inquiries. They are the product of a conversation about what the leader truly wants to learn.
+
+Second, who I speak with as a source of feedback is a shared decision. That could also include people outside a particular team or organization. It could include friends or even the spouse of the leader. But again, this is a mutual decision based on what the leader wants to learn about him/herself.
+
+Third, the data I gather is always in two categories, the behaviors that the leader is exhibiting and the conclusions that people draw about the behaviors. Behavioral feedback without knowledge of the conclusions people are drawing about it does not help the leader understand the significance of the behaviors to others, right or wrongly perceived. Conclusions without behavior, however, are not particularly actionable by themselves and create defensiveness -- they must be connected to behavior in order for the leader to choose to change behavior.
+
+Fourth, gathering this feedback and turning it into a report is a helpful record but only if it is customized to the person -- which means reporting patterns of behavior must be done with deep respect for the person who is receiving this information. It's not a bunch of numbers and scales. It's a personal letter from an advocate that balances truth (so far as we can know it) with deep care for the person receiving that snapshot in time.
+
+Fifth, a report is only the start of a process. After receiving the feedback, there's coaching work and a development plan created by and with the client. I then encourage clients to share the development plan with those who offered feedback to make sure the leader's on the right track -- because the process is so fallible. ( And, frankly, another reason for that conversation is to break down anonymity.) Additionally, it is most often useful to establish an ongoing support team of a few people who want to meet with the leader regularly thereafter -- but this is for mutual support and development; not just to monitor or help the leader alone.
+
+This is a personal and relatively expensive process that requires sensitivity, connection and time. The idea that this can be turned into a "factory" for self-knowledge through standardized forms and benchmarking drives me a little crazy. Self-understanding and personal growth are not commodities.
+
+My response to Dan:
+
+Thanks so much, Dan. I appreciate the in-depth perspective on how you pursue the practice, and we're in complete agreement on the risk factors as well as the potential ways to mitigate them. I'm particularly struck by this passage in your comment: "Behavioral feedback without knowledge of the conclusions people are drawing about it does not help the leader understand the significance of the behaviors to others, right or wrongly perceived. Conclusions without behavior, however, are not particularly actionable by themselves and create defensiveness -- they must be connected to behavior in order for the leader to choose to change behavior."
+
+This is a critical insight about any feedback to leaders, anonymous or attributed. Asking employees to identify the conclusions they're drawing about a leader's behavior is not only an important step toward helping leaders see the cost of said behavior (and how easily and how often their actions are misinterpreted), it's also a necessary step in encouraging employees to "empathize up," which occurs so rarely and yet can be such a helpful factor in these processes.
+
+Stephanie Soler: 
+
+Although anonymous feedback has some major drawbacks, it can be enormously valuable when done well. I agree wholeheartedly that verbatim, anonymous feedback does more harm than good. In my experience, a skillfully facilitated interview-based 360 feedback process can be an important component of helping a leader foster and role model a feedback-rich culture. Here are a couple of lessons I've learned in my coaching experience.
+
+First, it's important to emphasize that feedback is not a to-do list; rather, it is data. It is up to the receiver to go through the exercise of processing that data. What is the data telling you? What resonates? What's off base or unimportant? Going through this process with a skilled coach can help a leader have more empathy and skill when being on the giving side of of feedback.
+
+Second, there is no one, single right way to lead. This is why I avoid off-the-shelf, one-size-fits-all survey instruments. Leadership looks different in different contexts. I start each 360 interview by inquiring about the context. "What does this person most need to achieve for the business in the next 6 months? What impact does she need to have to be considered a success?" The answers here set the stage for the subsequent questions about the behaviors, skills and qualities that are helping and those that are getting in the way. It's not about being liked, it's about being effective in this context.
+
+Third, all parties involved can use the experience as a catalyst to have in-person conversations. When I hear critical feedback, I ask the giver, "What have you shared with this person directly?" When people are holding back, I talk with them about how to create the conditions and the skills to have direct conversations.
+
+Finally, an anonymous 360 can surface a great deal of previously unspoken positive, strength-based feedback. This can be just as insightful as the critiques - sometimes downright transformative.
+
+My response to Stephanie:
+
+Thanks, Stephanie. Great insights, and I appreciate the care and skill that you bring to the 360 process (which is no surprise to me). I think you and Dan Oestreich (who commented above) highlight how organizations can employ this process while mitigating the concerns I raise here. And your third point is most compelling to me, because no matter what data we have at our disposal (from 360 feedback to an assessment report) there is ultimately always a need to have real, in-person conversations.
+
+Footnotes
+
+[1] How to Feed a Monster (Leading in Elite Organizations)
+
+[2] Making Relationships Work (Diane Coutu, Harvard Business Review, 2007)
+
+[3] The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling (Ellie Lisitsa, The Gottman Institute, 2013)
+
+[4] Ibid.
+
+[5] The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process (Lee Ross, Advances in Experimental Social Psychology, L. Berkowitz, editor, pages 173-220, 1977)
+
+[6] The Power of Vulnerability [transcript] (Brené Brown, TEDx Houston, 2010)
+
+[7] McClelland and Burnham on Power and Management
+
+[8] Understanding the Bystander Effect (Kendra Cherry, Very Well Mind, 2018)
+
+[9] Learning to Yield (Navigating Tough Conversations)
+
+[10] Comfort with Discomfort
+
+[11] Interpersonal Dynamics at Stanford
+
+[12] How Leaders Create Safety (and Danger)
+
+[13] Taking the Plunge (Safety, Risk, Learning and Growth)
+
+Photo by Vincent Diamante.
+

@@ -1,0 +1,61 @@
+---
+title: Thoughts on the Ed Bot (Writing, Coaching and A.I.)
+url: https://edbatista.com/2023/12/thoughts-on-the-ed-bot-writing-coaching-and-ai.html
+slug: thoughts-on-the-ed-bot-writing-coaching-and-ai
+published: 2023-12-17T10:55:45
+updated: 2026-02-27T14:01:36
+source_body: wordpress-html
+---
+
+UPDATE: The original Ed Bot was taken down in 2024 after Heyday was acquired. But in April 2025 founder and coach Tarikh Korula trained a version of ChatGPT on the contents of this website, and we call it the Ed Bot 2.0.
+
+Last week the founders of Heyday, Samiur Rahman and Sam DeBrule, launched Ask Ed, which enables anyone to enter a question and receive an A.I.-generated answer derived from an interpretation of the contents of this website. I'm both honored and tickled that my work here, comprising more than 1,200 posts over the last two decades, could prove useful in this way. (My amusement was only heightened when my colleague Paul Loper dubbed this system "the Ed Bot.")
+
+While the Ed Bot is certainly an application of new technology, it's consistent with the ethos that's informed my writing since I began publishing here in late 2004 and with my approach to coaching since launching my practice in 2006. I also think it has something to teach us about the future of coaching and other helping professions.
+
+Why I Write
+
+I write for two reasons: to learn, and to share what I learn with coaching clients. It's gratifying when anyone who isn't a client finds something I've written of interest, but that's a bonus. I don't write to monetize what I've written by selling access to it or via advertising. That's not a criticism of anyone who relies on those business models--writing is hard work, and I'm all in favor of anything that helps a writer get paid.
+
+But I've found that what works best for me is monetizing the time I spend with clients in coaching sessions, which allows me to write entirely on my own schedule, in my own way, on topics that are of greatest interest to me and my clients. This also allows me to make my writing freely available under a Creative Commons license--anyone can copy, share and adapt my work, as long as they attribute the original to me and made their version available to others under the same conditions. (That's essentially what Samiur and Sam have done with the Ed Bot.)
+
+Writing and Coaching
+
+By no means is being a writer a prerequisite for being a coach. I have many outstanding colleagues who write rarely or not at all. But writing is deeply intertwined with coaching for me. My initial work on this blog played a meaningful role in my decision to pursue coaching as a professional path, and in the years since it's been instrumental in my efforts to advance my craft and to be of greatest use to my clients.
+
+One of the reasons I love coaching so much is that there's always more to learn. This includes coaching as a discipline, of course, but there's an endless range of topics that come up in the course of my work with clients, from psychology and group dynamics to labor and employment law, from neuroscience and decision-making to negotiations and sales. I'm not an expert in any of these fields, but my clients aren't looking to me for "the answer"--instead, they rely on me to be sufficiently well-informed to ask the most useful and important questions. And it's not enough for me to merely research these topics--to truly integrate what I've learned, I need to write about it.
+
+Writing and A.I.
+
+That's one reason why I don't use A.I. as a writer--it might yield a serviceable final product, but bypassing the labor would short-circuit the learning. I believe A.I. has a role to play, but I suspect its utility will be in condensing bodies of knowledge to assist in the creative process, not in creation itself. I'm reminded of insights from two brilliant 20th-century thinkers who foresaw and contributed to many of the developments that we're living through in today's A.I. revolution. In 1971 Herb Simon (1916-2001), who founded the School of Computer Science at Carnegie-Mellon, noted that the scarce resource is attention, not information:
+
+Whether a computer will contribute to the solution of an information-overload problem, or instead compound it, depends on the distribution of its own attention among four classes of activities: listening, storing, thinking, and speaking. A general design principle can be put as follows: An information-processing subsystem (a computer or new organization unit) will reduce the net demand on the rest of the organization's attention only if it absorbs more information previously received by others than it produces that is, if it listens and thinks more than it speaks. [1]
+
+And in 1988 Russell Ackoff (1919-2009), a pioneer in systems thinking and management science who taught at Wharton, articulated the distinctions among information, knowledge, understanding and wisdom:
+
+Information, knowledge and understanding all focus on efficiency. Wisdom adds value, which requires the mental function we call judgment. Evaluations of efficiency are all based on a logic which, in principle, can be specified, and therefore can be programmed and automated. These principles are general and impersonal. We can speak of the efficiency of the act independent of the actor. Not so for judgment. The value of an act is never independent of the actor, and seldom is the same for for two actors even when they act in the same way. Efficiency is inferrable from appropriate grounds; ethical and aesthetic values are not. They are unique and personal. At least this is how it seems to me. From all this I infer that wisdom-generating systems are ones that man will never be able to assign to automata. It may well be that wisdom, which is essential to the effective pursuit of ideals, and the pursuit of ideals itself, are the characteristics that differentiate man from machines. [2]
+
+Coaching and A.I.
+
+These insights have relevance not only for writing, but also for coaching. In the post announcing "Ask Ed," Sam rightly takes pride in Heyday's accomplishment while also setting expectations accordingly: "Is it as good as having Ed as your coach? No. Is it Ed who is answering your questions? Of course not! Will you still think it’s awesome? Hope so!"
+
+I do think it's awesome, and I have no doubt that advancements in A.I. await us that will make the Ed Bot look simplistic. And I'm equally confident that there will always be a need for a human in the process--although what that looks like will certainly evolve. In a sense, the Ed Bot is merely the latest development in a continuous process of recalculating how I and other coaches add value. Here I believe we'll be well-served by bearing Simon and Ackoff's ideas in mind, and perhaps it's appropriate that I'm left with more questions than answers:
+
+- The cost of information and the value of attention are inversely correlated. When information is essentially free, how can I best help clients preserve their increasingly-valuable attention? How can I help solve my clients' information-overload problems, rather than compounding them? [3]
+
+- What are the definitions of information, knowledge, understanding and wisdom in the context of coaching? How will I ensure that I'm providing clients with less of the former and more of the latter? How might I emphasize value rather than efficiency in the conduct of my practice? [4]
+
+Thanks to Samiur Rahman, Sam DeBrule and their collegues at Heyday.
+
+Footnotes
+
+[1] Designing Organizations for an Information-Rich World [PDF] (Herb Simon, pages 37-72 in Computers, Communications, and the Public Interest, Martin Greenberger, editor, 1971)
+
+[2] From Data to Wisdom [PDF] (Russell Ackoff, Presidential Address to the International Society for General Systems Research, St. Louis, June 1988). An edited version of this speech was published the following year as a journal article, From Data to Wisdom (Russell Ackoff, Journal of Applied Systems Analysis, 1989), also available in Ackoff's Best: His Classic Writings on Management (1999).
+
+[3] For more on this topic, see A Better Information Diet.
+
+[4] I also reference Simon and Ackoff in a related post, Drowning in Feedback.
+
+Photo by Fred Seibert.
+

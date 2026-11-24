@@ -1,0 +1,85 @@
+---
+title: Happiness, Excellence and Boundaries: A Framework for Leaders (Part 3 of 3)
+url: https://edbatista.com/2010/09/boundaries.html
+slug: boundaries
+published: 2010-09-30T04:00:00
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+This is the third and final post in a series based on a workshop I developed and presented to a group of leaders in Los Angeles in June.  See Part 1 for an overview of this series' fundamental premise and a discussion of the first topic, Happiness, and Part 2 for a discussion of the second topic, Excellence.
+
+III. Boundaries, Not Balance
+
+Michael Gilbert and Boundaries
+
+Many, and perhaps most, leaders view "work-life balance" as desirable in theory but unattainable, even illusory, in practice.  But if work-life balance is an illusion, what's the practical alternative?  Michael Gilbert, a former colleague of mine at the Nonprofit Technology Network and a deeply thought-provoking writer, has explored this issue thoroughly.  From Why Work-Life Balance is a Bad Idea:
+
+Although I am firmly allied with the mission and spirit of all the professionals and organizations who use the term "work-life balance" as something to strive for, I've come to the conclusion that it's fundamentally flawed, a dangerous trap, an all-around bad idea...
+
+The fact is that work is a part of life, not in opposition to it. The fact is that what we all seek is joyful work-life integration, not some sort of painful detente. The fact is that work-life balance is the sad refuge of those who have decided that work is not worth saving.
+
+Michael pursued this concept further in Good Fences: On Boundaries, Agency and Wholeness in Work Life:
+
+In regard to this exploration of "work-life balance," what's clear in our discussion is that we have been using the word "balance" when what we really seem to mean is "boundaries."  Boundaries keep things in their place.  Balance suggests the same amount of two things on either side of a scale.  Boundaries keep one of those things from oozing past the edge of its platter and taking over the other side...
+
+Boundaries and integration go together.  Maybe it's just the biologist in me, but it seems that good boundaries are what make integration work.  Just as functional membranes (letting the right things through and keeping the wrong things out) facilitate the healthy interaction of the cells of our bodies, so do functional personal boundaries facilitate the healthy interaction of the various parts of our lives.  Bad boundaries lead to either being overwhelmed or withdrawal. Good boundaries lead to wholeness and synergy.
+
+Boundaries and Interpersonal Communication
+
+A potential problem with this metaphor is that we tend to think of boundaries as features of a landscape, because that's how we encounter them when crossing a border or viewing a map.  But very few boundaries simply spring forth from the underlying geology; most of them exist because people envisioned them and took action to establish them.  In this context, boundaries are dynamics that exist in our working relationships and in our organizations.  But the boundaries we need at work aren't going to magically appear before us--we have to envision them and take action to establish them by interacting with others.  (This is particularly true for leaders, whose jobs often feel "unbounded" because there's always more to do and often no one else capable of doing it.)
+
+Whether we know it or not, in many of our professional interactions we're trying to identify boundaries and insure that they're clearly understood and respected.  From a leader's perspective, this could mean setting limits on the demands placed on us by a more senior figure or a board of directors, or it could mean setting clear expectations with a colleague or a direct report--or (just as importantly) it could involve putting work on hold long enough to fulfill other obligations and enjoy a personal life.
+
+Note that a common dynamic in these interactions is that we feel some frustration and anger while also feeling caring and compassion for the very same people who are making us frustrated and angry.  Learning how to express both sets of feelings together is an effective way to identify, express and sustain boundaries in our working relationships.  If we're doing work that's meaningful to us, we tend to feel caring and compassion for our colleagues--and at the same time, we also feel frustrated and angry with them on a regular basis because of the professional demands that continually pull our lives out of balance.
+
+Standard operating procedure in most organizations is to sweep those negative feelings under the rug until they get expressed in unproductive ways (at work or elsewhere.)  That's clearly not helpful--but what's also lost in that process are the positive feelings we have for our colleagues.  Note that these oppositional feelings don't cancel each other out. The frustration and anger we might feel at our colleagues is just as real as the caring and compassion we also feel for those same people.  We have to hold on to, honor and express both sets of feelings, as contradictory as they might be.
+
+Susan Scott and "Mineral Rights"
+
+Susan Scott is a coach and consultant whose book Fierce Conversations outlines a process for making difficult conversations more productive that she calls "Mineral Rights," named by a participant in a workshop of hers who noted, "If you're drilling for water, it's better to drill one hundred-foot well than one hundred one-foot wells."  Scott's model suggests that most of the conversations we have are the interpersonal equivalent of one-foot wells: too shallow to uncover what’s really going on.  In contrast, Scott writes:
+
+[A Mineral Rights conversation] interrogates reality by mining for increased clarity, improved understanding, and impetus for change... The questions asked during a Mineral Rights conversation help individuals and teams interrogate reality in such a way that they are mobilized to take potent action on tough challenges.
+
+Here are the steps in Scott's Mineral Rights framework:
+
+1. Identify your most pressing issue.  What is the most important thing you and I should be talking about?
+
+2. Clarify the issue.  What's going on?  How long has this been going on?  How bad are things?
+
+3. Determine the current impact.  How is this issue current impacting me?  What results are currently being produced for me by this situation?  How is this issue currently impacting others?  What results are currently being produced for them by this situation?  When I consider the impact on myself and others, what are my emotions?
+
+4. Determine the future implications.  If nothing changes, what's likely to happen?  What's at stake for me relative to this issue?  What's at stake for others?  When I consider these possible outcomes, what are my emotions?
+
+5. Examine your personal contribution to this issue.  What is my contribution to this issue?  How have I contributed to the problem?
+
+6. Describe the ideal outcome.  When this issue is resolved, what difference will that make?  What results will I enjoy?  When this issue is resolved, what results will others enjoy?  When I imagine this resolution, what are my emotions?
+
+7. Commit to action.  What is the most potent step I could take to move this issue toward resolution?  What's going to attempted to get in my way, and how will I get past it?  When will I take this step?
+
+As with any multi-step conceptual framework I discuss here, I'm not recommending that you follow Scott's Mineral Rights framework in some rigid, formulaic way.  But I do recommend looking at each step in this process and considering how it might help make your own conversations about boundaries more effective.
+
+Perhaps in your current conversations you're getting distracted or avoiding the real issues at stake, in which case you should identify your most pressing issue and clarify that issue.
+
+Or perhaps you're discussing that issue, but only in vague and abstract terms, in which case you should determine the current impact and future implications.
+
+Or perhaps you're talking in concrete and tangible terms, but you're not making progress toward a solution, in which case the first step is to examine (and take responsibility for) your personal contribution.
+
+Or perhaps you and the other party are (finally!) on the same page, but you just can't reach closure, in which case you should describe the ideal outcome and then commit to action to insure accountability.
+
+Next Steps and Questions to Consider
+
+- Where would stronger boundaries help?
+
+- What conversations do you need to have to establish those boundaries?
+
+- In what ways do you expect those conversations to be difficult?
+
+- How might the Mineral Rights framework make those conversations more productive?
+
+- Commit to having the most important conversations you need to have over the next three weeks with these concepts in mind, and assess their impact.
+
+As I noted at the beginning of this 3-part series (here's Part 1 on Happiness, and here's Part 2 on Excellence), these posts are based on a workshop I developed and presented to a group of leaders in Los Angeles a few months ago.  Once again, thanks to Mike Allison for the opportunity to work with a group of leaders he's been supporting for several years, and thanks to my Stanford colleagues Andrea Corney, Carole Robin, Lisa Schwallie and Ricki Frankel for the opportunity to collaborate with them and deepen my understanding of the topics addressed here.
+
+And many, many thanks to social psychologists Martin Seligman, Sonja Lyubomirsky and Mihaly Csikszentmihalyi; business thinkers Peter Drucker, Seth Godin and Michael Gilbert; and executive coach Susan Scott--their original work is the basis for this series and has made it possible for me to be of much greater service to my own clients and students, and I'm deeply grateful.
+

@@ -1,0 +1,13 @@
+---
+title: The Art of Self-Coaching @Medallia
+url: https://edbatista.com/2016/05/the-art-of-self-coaching-medallia.html
+slug: the-art-of-self-coaching-medallia
+published: 2016-05-26T18:36:25
+updated: 2025-09-24T11:59:27
+source_body: wordpress-html
+---
+
+Stanford's Office of Development recently asked me if I would volunteer to lead a workshop at Medallia, a SaaS CRM and feedback company co-founded by Amy Pressman, a fellow alumnus of the university's Graduate School of Business, and populated by a number of other Stanford grads. This afternoon I spent a few hours with roughly 100 members of their Palo Alto team talking about a number of topics related to The Art of Self-Coaching, the GSB class that I designed last year and am currently teaching again.
+
+My slides from today's workshop are above, and they cover mental models and change, emotions and reasoning, and emotion management. I had a great time and want to express my thanks to everyone who took a few hours away from their busy day to spend the afternoon with me. Particular thanks to the Stanford Development team--Mona Tekchandi, Donna Garton, and Felicity Meu (a fabulous guide)--and our organizers at Medallia--Farrah Mitra and Sydney Cohn--and to Amy Pressman and Julia Markish (another GSB alum and a former student of mine) for their enthusiastic introductions. It was a pleasure.
+

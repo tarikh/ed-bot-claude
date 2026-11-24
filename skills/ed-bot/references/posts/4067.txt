@@ -1,0 +1,131 @@
+---
+title: How Leaders Overcome Adversity
+url: https://edbatista.com/2020/03/how-leaders-overcome-adversity.html
+slug: how-leaders-overcome-adversity
+published: 2020-03-19T11:08:19
+updated: 2025-10-06T17:59:50
+source_body: wordpress-html
+---
+
+We believe that great leaders possess four essential skills, and...these happen to be the same skills that allow a person to find meaning in what could be a debilitating experience. First is the ability to engage others in shared meaning... Second is a distinctive and compelling voice... Third is a sense of integrity (including a strong set of values)...
+
+But by far the most critical skill of the four is what we call "adaptive capacity..." It’s composed of two primary qualities: the ability to grasp context, and hardiness. The ability to grasp context implies an ability to weigh a welter of factors, ranging from how very different groups of people will interpret a gesture to being able to put a situation in perspective. Without this, leaders are utterly lost, because they cannot connect with their constituents...
+
+Hardiness is just what it sounds like--the perseverance and toughness that enable people to emerge from devastating circumstances without losing hope.
+
+~Warren Bennis and Robert Thomas, "Crucibles of Leadership" [1]
+
+A crucible is a vessel used in chemistry and metallurgy in which substances are transformed through the application of extreme heat and pressure. We can think of the current global crisis as a "crucible experience"--a chapter in our lives that will undoubtedly transform us, for better or for worse. In "Crucibles of Leadership" Warren Bennis and his co-author Robert Thomas employ this metaphor as they explore the lives of leaders who went through such an experience, "a trial and a test, a point of deep self-reflection that forced them to question who they were and what mattered to them." [2] Studying a number of leaders who overcame adversity in such circumstances allowed Bennis and Thomas to identify the four (five, really) characteristics identified above that these leaders shared.
+
+Bennis taught leadership at USC's Marshall School of Business for over three decades, and before that he served as president of the University of Cincinnati for nearly a decade and taught at MIT's Sloan School of Business, where he earned his PhD. But his academic credentials notwithstanding, Bennis first learned about leadership as a teenager at war.
+
+During World War II he was one of the youngest lieutenants to serve in the European theater, earning the Purple Heart for being wounded in combat and the Bronze Star for heroic achievement. This chapter in his life profoundly shaped his understanding of leadership: "Overnight, I learned that a leader is not simply someone who experiences the personal exhilaration of being in charge. A leader is someone whose actions have the most profound consequences on other people’s lives, for better or for worse, sometimes for ever and ever." [3]
+
+So if you're a leader how might you leverage these five concepts to help your organization overcome the adversity we face today?
+
+1. Engaging others in shared meaning.
+
+An essential function of leadership is what organizational psychologist Karl Weick has called "sensemaking"--rendering a complex situation comprehensible to others, thereby enabling them to act in concert to achieve their goals. In a widely cited paper on how a loss of shared meaning can contribute to disastrous outcomes, Weick notes that our sense of life as a predictable process is an illusion: "People...act as if events cohere in time and space and that change unfolds in an orderly manner. These everyday cosmologies are subject to disruption." He goes on to discuss the process of sensemaking and its importance in organizational life:
+
+The basic idea of sensemaking is that reality is an ongoing accomplishment that emerges from efforts to create order and make retrospective sense of what occurs.
+
+Organizations can be good at decision making and still falter. They falter because of deficient sensemaking. The world of decision making is about strategic rationality. It is built from clear questions and clear answers that attempt to remove ignorance. The world of sensemaking is different. Sensemaking is about contextual rationality. It is built out of vague questions, muddy answers, and negotiated agreements that attempt to reduce confusion. [4]
+
+This is the essence of the challenge you face today. The "everyday cosmology" of our world, our sense of society's coherence has not changed in an orderly manner, but in a disruption so profound that people are finding it difficult to make sense of it all. This is the underlying source of the heightened anxiety and occasional panic that we see around us.
+
+In this context you will succeed not through good decision-making alone, but through your efforts to reduce confusion, quell panic, and soothe anxiety. This is precisely why you have been invested with authority in the first place, as the anthropologist and philosopher Ernest Becker has noted: "The universe contains overwhelming power. Beyond ourselves we sense chaos. We can't really do much about this unbelievable power, except for one thing: we can endow certain persons with it." [5]
+
+So your first task as a leader is to use your power to help people in the process of sensemaking. This doesn't mean that you have the "answers" or an "explanation"--who does?--but, rather, that you recognize that "reality is an ongoing accomplishment." Every action we take co-constructs a particular version of reality, and while this is ultimately a collective process, you have a special role to play as a consequence of the power with which you've been endowed by your followers. And that power doesn't merely reside in your authority to make decisions, but in your ability to gather your team and enlist them in a process of sensemaking.
+
+2. A distinctive and compelling voice.
+
+Anything you hope to accomplish during this crisis will rely on your ability to communicate effectively in a range of settings: team meetings, one-on-one conversations, broadcasting to an all-hands, and via the written word. You must be able to speak and write using language, tone, and gestures that feel personal and authentic, while also conveying a sense of calm. You must be direct and straightforward about the challenges ahead, while also expressing empathy for your employees' anxiety and fear.
+
+In these efforts you'll draw upon your capacity for emotion regulation--which is distinct from emotion suppression. Suppression involves efforts to ignore our emotional responses, or pretend we're not having them--this is possible in short bursts but not for extended periods (and it can even backfire, resulting in a heightened state of emotional arousal.) [6] In contrast, regulation entails acknowledging what we're feeling, labeling those feelings internally, and judiciously expressing them. This is one of the most important aspects of leadership in a crisis--as I've written before:
+
+Emotions are literally contagious--we sense them in others, pick them up and pass them on--and we're even more sensitive to the emotions of leaders and others we view as having high status.
+
+A leader who can leverage this dynamic effectively has a tremendous competitive advantage. They can acknowledge negative emotions (both their own and others) and manage or make use of them in a way that's healthy and productive, rather than A) seeking to repress or ignore them or B) letting them spiral out of control. And they can also more fully sense and express positive emotions (both their own and others), which can be a powerful source of influence and motivation. [7]
+
+3. A sense of integrity and a strong set of values.
+
+Effective leaders do not need to be liked during periods of adversity, when they must make difficult decisions that will cause pain and hardship for many people. But leaders must be trusted, particularly during periods of adversity when uncertainty is high, information is scarce, and time for communication is short. In the absence of sufficient trust, a wartime leader cannot be effective. [8]
+
+In this context, your integrity and values will be critical in maintaining trust. Hopefully you've established a baseline level of trust with your team--as technology executive Steven Sinofsky wrote recently, "Trust is the resource you have been building as a peacetime leader--to act during a crisis you dip into that reserve." [9] But whatever trust exists within your organization now will be tested in the weeks and months to come.
+
+You can act to maintain and build trust during a crisis by recognizing that it emerges from others' perception of two distinct qualities: your judgment and your intentions. [10] The difficult decisions you now face will inevitably test others' trust in your judgment when they disagree with the actions you intend to take, but this is an easier problem to solve, because you may be able to explain your rationale and change their mind, or they may be willing to "disagree and commit." [11]
+
+But if people doubt your intentions, this is a much harder problem to solve. They won't know whether there's simply been a misunderstanding, or whether you're acting out of opportunistic self-interest--and at a time of crisis they will seek to minimize the risk to themselves, resulting in a restricted flow of information, which will only heighten the sense of distrust.
+
+The key is having clarity on your values, communicating them openly, and acting in alignment with them at all times, even--and especially--when it's personally painful to do so. And the starting point here is being able to answer this fundamental question: What principles are guiding your actions in this crisis?
+
+4. The ability to grasp context.
+
+Let's return to Bennis and Thomas' definition here: the "ability to weigh a welter of factors, ranging from how very different groups of people will interpret a gesture to being able to put a situation in perspective." In this crisis it's crucial to recognize that different people are responding very differently to the global situation. A theme emerging in my work with leaders is what I'm calling the "rubber-band effect": Prescient leaders are ahead of the curve, seeing what's likely to happen to their organizations and communities well before those around them.
+
+This view puts those leaders several weeks or months ahead into the future, and the people around them aren't there yet. They don't quite see the future in the same way, and as a result they either discount the risk of COVID-19, urging business as usual, or they panic. The "rubber-band" stretches. So the prescient leader must "pull" people along with them, inviting them to see this vision of the future, both to put a stop to business-as-usual and to cultivate long-term hope and optimism. But people can't be "stretched" too far, too fast, or the "rubber-band" will break. This is the context you must grasp today.
+
+But in addition to helping others put the current situation in perspective you will likely need to do the same for yourself. In my practice even leaders with extensive wartime experience are occasionally finding themselves in the grip of fear and anxiety. I'm reminded of a mantra that has resonated in my work and life for many years: The impulse to hurry is usually a signal to slow down. [12]
+
+5. Hardiness.
+
+We may think of hardiness or resilience as a trait, a monolithic quality that we possess or lack. But in The Resilience Factor, psychologists Karen Reivich and Andrew Shatté identify seven behaviors that characterize people who demonstrate the ability to adapt and persevere in the face of adversity:
+
+How can we go about the process of making someone more resilient? Our work on the nature of resilience shows that it is comprised of seven abilities: emotion regulation, impulse control, empathy, optimism, causal analysis, self-efficacy, and reaching out [i.e. seeking support from others]. These seven concrete factors can be measured, taught, and improved. [13]
+
+There's no single step you can take to immediately expand your capacity for these behaviors, but merely being aware that they are the building blocks of resilience can help you be more mindful of engaging in them deliberately. And there are several practices that will enable you to become more effective: some form of mindfulness, regular exercise, and sufficient sleep. While it's obviously difficult to commit to these activities at a time of crisis--and it will get harder over time--they are investments, not indulgences.
+
+A final note on what Reivich and Shatté call "reaching out": Most of my clients are CEOs, and as I've written before,
+
+...an important aspect of the role that few people consider before launching a venture or pursuing a career in senior leadership is that it's lonely. Leaders must be friendly with employees, investors, customers, and other stakeholders, and yet in all of those relationships there are inevitably factors that complicate or even preclude true friendship. Leaders often begin their career with a rich network of friends from school and work, but as they grow more senior these relationships can founder as differences emerge in professional trajectories. [14]
+
+I see this dynamic compounded in my practice today--leaders are more important than ever as sources of support to others, and yet they are often lonelier than ever, feeling that their duty to be a source of calm and hope precludes them from sharing their own fears and anxieties. If you feel similarly, I urge you to identify the people in your life who are capable of empathizing with the challenges you face and reach out to them.
+
+Footnotes
+
+[1,2] "Crucibles of Leadership" (Warren Bennis and Robert Thomas, Harvard Business Review, 2002)
+
+- Bennis and Thomas collaborated on this classic HBR article, which grew out of their work together on Geeks and Geezers: How Eras, Values, and Defining Moments Shape Leaders (2002). Thomas, a former Managing Director at Accenture, continued studying the process of learning from experience, resulting in a full-length book on that theme, Crucibles of Leadership (2008), for which Bennis wrote the forward.
+
+[3] An Invented Life: Reflections on Leadership and Change (Warren Bennis, 1993)
+
+[4] "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster" (Karl Weick, Administrative Science Quarterly, Volume 38, Number 4, December 1993)
+
+[5] The Denial of Death, Chapter Seven: The Spell Cast by Persons--The Nexus of Unfreedom (Ernest Becker, 1973)
+
+[6] Mental Control and Ironic Processes (Daniel Wegner, a summary of The Handbook of Mental Control, edited by Wegner and James Pennebaker, 1992)
+
+- I discuss Wegner's work on "mental control" further in White Bears and Car Crashes (Thinking About Thinking).
+
+[7] Brené Brown, Vulnerability, Empathy and Leadership
+
+[8] From Peacetime to Wartime
+
+[9] Crisis Leadership (Steven Sinofsky, Medium, 2020)
+
+[10] Two Sides of Trust
+
+[11] While the principle of "disagree and commit" seems to have originated with Andy Grove or Scott McNealy, Jeff Bezos provided a useful definition in his 1997 letter to shareholders:
+
+Use the phrase "disagree and commit." This phrase will save a lot of time. If you have conviction on a particular direction even though there’s no consensus, it’s helpful to say, "Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?" By the time you’re at this point, no one can know the answer for sure, and you’ll probably get a quick yes.
+
+This isn’t one way. If you’re the boss, you should do this too. I disagree and commit all the time... [emphasis mine]
+
+[12] The Importance of Slowing Down
+
+[13] The Resilience Factor: 7 Keys to Finding Your Inner Strength and Overcoming Life's Hurdles, page 33 (Karen Reivich and Andrew Shatté, 2002)
+
+[14] The Friendship of Wolves
+
+For Further Reading
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+Get Moving! (Exercise for Busy People)
+
+A compilation of readings on the importance of sleep.
+
+Investments, Not Indulgences
+
+Photo by Dave Hogg.
+

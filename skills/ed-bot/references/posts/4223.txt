@@ -1,0 +1,151 @@
+---
+title: A Working Relationship Curriculum
+url: https://edbatista.com/2024/04/a-working-relationship-curriculum.html
+slug: a-working-relationship-curriculum
+published: 2024-04-12T14:28:17
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+A common theme in my practice is the difficulty a client is experiencing in a working relationship. Below is a set of articles that I've written over the years that comprise a curriculum organized around the following themes:
+
+- FOUNDATIONS: A "starter kit" on a set of fundamental topics, from dialogue and coaching tools to empathy and cognitive biases.
+
+- COMMUNICATION: Why our efforts to communicate often go astray and what to do when that (inevitably) happens.
+
+- EMOTION: How to regulate (rather than suppress) the complex feelings that relationships evoke, and why this matters so much.
+
+- CONFLICT: Sources of conflict, from style differences to competitive threats, and a potential path to resolution.
+
+- FEEDBACK: What feedback is (and is not), how to deliver it, how to respond, and why it can hurt.
+
+Note that feedback comes last, and that's by design. Rushing into feedback conversations before both parties are prepared is a reliable way to make difficult relationships even worse. While it's important to get to the point where feedback can be delivered with skill and received with grace, it may be necessary to take some time to get there and to practice a number of interpersonal skills along the way.
+
+If you're having difficulty in a working relationship, optimally you can invite your counterpart to explore this curriculum together. While that may feel daunting, merely expressing your interest in improving the relationship can be a step in the right direction. But even if that's not possible, I hope you'll feel encouraged to make use of these materials on your own until your counterpart is able to join you.
+
+ 
+
+1. FOUNDATIONS
+
+1.1. Better Working Relationships
+
+An issue that comes up frequently in my work as a coach and teacher is how to improve a working relationship in which one person feels disappointed, irritated, or upset with the other. In my coaching practice this typically involves a pair of co-founders or two members of an executive team. While my comments here are by no means comprehensive, they lay out a set of steps you can take to begin to address a working relationship that's faltering or didn't get off to a good start.
+
+1.2. How Great Coaches Ask, Listen, and Empathize
+
+Coaching is about connecting with people, inspiring them to do their best, and helping them to grow. It’s also about challenging people to come up with the answers they require on their own. Coaching is far from an exact science, and all leaders have to develop their own style, but we can break down the process into practices that any manager will need to explore and understand. Here are the three most important.
+
+1.3. The Difficulty of Empathizing Up
+
+We typically associate empathy with agreement, and we act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances.
+
+1.4. Seeing What's Not There (The Importance of Missing Data)
+
+One of the most significant cognitive errors is what Daniel Kahneman calls What You See Is All There Is, or WYSIATI, which is shorthand for the fact that we find it very difficult to envision missing data. Even when faced with massive gaps in information, we tend to focus on the information at our disposal and rely on it to construct a narrative, as flimsy as it might be. A corollary to Kahneman's WYSIATI might be called WYDSDE: What You Don't See Doesn't Exist. And as a result we're typically overconfident in the validity and coherence of our explanatory narrative.
+
+ 
+
+2. COMMUNICATION
+
+2.1. Learning to Yield (Navigating Tough Conversations)
+
+What does it mean to yield in our relationships? My client was careful to distinguish "yielding" from "capitulating," and I want to emphasize that distinction: I'm not talking about simply letting others get their way, or avoiding conflicts, or being nice. Instead, I see yielding as finding the right balance between deference and assertiveness, between inquiry and advocacy. So what does this look like in practice?
+
+2.2. Risk Management (The Importance of Speaking Up)
+
+If it feels risky to say, it's important. If it wasn't important, it wouldn't feel risky. And that sense of risk is a critical piece of data, a sign that the conversation is a meaningful one with larger implications.
+
+2.3. Intent vs. Impact (When Communication Goes Awry)
+
+When our efforts to communicate go awry, one of the most common causes is a failure to distinguish between intent and impact. When delivering a message we typically imagine that these two concepts are aligned--it may not even occur to us to view them as distinct. Our intent is transparent to us, so we assume that it's equally clear to others and that our message is being received in that same spirit.
+
+2.4. Connect, Reflect, Direct...Then Ask (On Coaching)
+
+Asking evocative questions, ensuring the other person feels heard, and actively conveying empathy remain the foundations of coaching. But there's certainly more to the process, and here's a sequence of steps that I employ frequently in sessions with clients that you may find useful if you're seeking to integrate coaching into your managerial style.
+
+ 
+
+3. EMOTIONS
+
+3.1. Talking About Feelings
+
+My work as a coach often involves encouraging clients and students to talk about their feelings--a process known to psychologists as affect labeling--in order to manage difficult emotions more effectively. Experience tells us that this is a useful practice, but why? How does talking about feelings make them easier to manage?
+
+3.2. The Tyranny of Feelings
+
+I don't believe that acknowledging the importance of emotions requires us to think like children, nor must we always privilege our subjective emotional experience in order to realize the benefits of a deeper understanding of emotion and enjoy a broader range of emotional expression at work. So what can we do? Here are some concepts I find useful to bear in mind.
+
+3.3. You Make Me Feel... (On Language and Responsibility)
+
+Saying that someone else "makes us feel" an emotion suggests that they are responsible for our emotional state, and that's highly problematic. When another person's statements and behavior trigger an emotional response in us, it's inaccurate to presume that the other person is the responsible party and that we're an innocent bystander.
+
+3.4. Defensiveness Is in the Eye of the Beholder
+
+A theme in my practice is defensiveness, which I define as an unwillingness to accept responsibility for setbacks, characterized by a disproportionately hostile, anxious or evasive response to critical feedback. When it arises as a topic I'm usually working with a client who's figuring out how to deal with a defensive employee or colleague, but occasionally I have a client who's been accused of defensiveness and is wondering what to do in response.
+
+ 
+
+4. CONFLICT
+
+4.1. Whether or Not to Fix a Broken Relationship
+
+A theme in my practice is the leader who's struggling to repair a damaged working relationship with an employee. In most cases we start with the assumption that a better relationship is possible and that even a long-running conflict can be resolved. This usually entails the following steps in some form.
+
+4.2. Work Style Differences
+
+We all have our preferred ways of working, and sometimes when we're locked in a conflict with a colleague it's the result of incompatible work styles. When we work with people who share our work style it may feel more comfortable, but homogeneous teams can have blind spots and be prone to groupthink. Teams whose members have a diverse range of styles can be more effective if they develop the ability to manage conflict successfully.
+
+4.3. The Trap of Competition
+
+While our social orientation is critical in enabling our success as a species, it also poses a substantial challenge for each of us as individuals. We must navigate in-group competition, which becomes even fiercer in larger groups. We're hyper-aware of our relative social status and our shifting position within group hierarchies. And in order to accomplish these tasks effectively we're constantly scanning our interpersonal environment for potential threats and opportunities, which necessarily involves comparing ourselves to others.
+
+4.4. Resolving a Protracted Conflict
+
+When we're locked in a protracted conflict with another person, there's one critical step that's usually necessary to reach a resolution in which both parties feel a sense of trust and remain committed to the relationship: The higher-status person must express vulnerability first.
+
+ 
+
+5. FEEDBACK
+
+5.1. Feedback Is Not a Gift
+
+Feedback is a gift. We've been told this over and over, as if it were gospel. I've even preached it myself. But I stopped using this phrase because it fails to acknowledge how difficult the experience of receiving feedback can be. The problem is compounded when we view feedback as inherently true, inscribed on tablets of stone and delivered from the mountaintop. But if feedback isn't a gift, what is it? It's data.
+
+5.2. Make Getting Feedback Less Stressful
+
+We need to recognize that receiving feedback is inherently a stressful experience. As Sheila Heen and Douglas Stone of the Harvard Negotiation Project have written, "Even when you know that [feedback is] essential to your development and you trust that the person delivering it wants you to succeed, it can activate psychological triggers. You might feel misjudged, ill-used, and sometimes threatened to your very core."
+
+5.3. How to Deliver Critical Feedback
+
+If we want our critical feedback to be truly useful to the recipient and not merely an exercise in self-indulgence, we owe it to our colleagues to be more thoughtful and intentional in how we deliver it. A valuable model in this context is known as "supportive confrontation," developed by David Bradford and Allan Cohen and discussed at length in their book Power Up.
+
+5.4. Four Responses to Feedback
+
+It's important to be open to feedback, even--and especially--when you disagree with it or find that it disconfirms prior assumptions. But being open to feedback doesn't necessarily mean that you should simply accept it. So when you receive feedback, whether it's in a formal performance review or an informal chat, here are four potential responses.
+
+5.5. Why Some Feedback Hurts (and What to Do About It)
+
+As with all data, feedback is comprised of both signal and noise. Even the most hurtful feedback usually incorporates some signal--valuable information that presents you with an opportunity to learn and grow, challenging though it may be. But there is almost certainly plenty of noise--unhelpful or irrelevant information that should be ignored. The key with any painful feedback is ensuring that you don't miss the signal while filtering out the noise.
+
+ 
+
+FOR FURTHER READING
+
+Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+Crucial Conversations: Tools for Talking When Stakes Are High (Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler, 2002)
+
+Difficult Conversations: How To Discuss What Matters Most, Douglas Stone, Bruce Patton and Sheila Heen, 2000/2010
+
+Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time (Susan Scott, 2002)
+
+Helping: How to Offer, Give, and Receive Help (Edgar Schein, 2011)
+
+Humble Inquiry: The Gentle Art of Asking Instead of Telling (Edgar Schein, 2013)
+
+Thanks for the Feedback: The Science and Art of Receiving Feedback Well (Douglas Stone and Sheila Heen, 2015)
+
+ 
+
+Photo by Thoroughly Reviewed via Flickr.
+

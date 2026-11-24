@@ -1,0 +1,17 @@
+---
+title: Intranets and Wikis and Blogs, Oh My!
+url: https://edbatista.com/2005/04/intranets_and_w.html
+slug: intranets_and_w
+published: 2005-04-13T22:11:46
+updated: 2005-04-13T22:11:46
+source_body: wordpress-html
+---
+
+At my new job, we're trying to get our collective heads around the somewhat thorny question of what knowledge sharing platform (or, more likely, platforms) will best meet our needs.  We've had an intranet for the past few years, and like most intranets, it's very good at some things (static document repository) and appallingly bad at others (dynamic sharing of new information from outside the company.)  The intranet's evil twin (from my long-distance, VPN-dependent perspective) is our public folder, which usually has just what you're looking for...if you know where to find it.
+
+We've just added a wiki, and although I'm a big fan of the medium, it's not yet winning rave reviews.  The fluidity that makes wikis such a great collaborative tool in an open intellectual market (a la the Wikipedia, where an idea's true value is eventually established by an Editorial Board of thousands) can be a hindrance in a small organization where accuracy has critical business implications, where it can be important to track changes across versions, and where we have Editorial Board of...two dozen.  There are also some minor annoyances like poor search capability and inadequate file storage--easily solved if you have the technical know-how, but those folks usually have better (i.e. revenue-generating) things to do.
+
+And we're spending an increasing amount of time thinking about and working on blogs for our clients, although as far as I know I'm the only one blogging extracurricularly (and calling my pathetic post-employment output blogging is a stretch.)
+
+I'm confident we'll soon figure out each tool can and can't do to meet out needs--there are more than enough smart people around for that.  But the real challenge, the problem that intellect alone can't solve, is the establishment of an appropriate knowledge-sharing culture that knits all these tools together effectively, that surfaces and shares tacit knowledge (because there's never enough explicit documentation in a small organization), and that's sufficiently structured to insure that we all get with the program, while also being sufficiently flexible to insure that the tools evolve to fit actual behavior.  That, my friends, is a lot harder than picking the right software.
+

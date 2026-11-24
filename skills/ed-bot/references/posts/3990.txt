@@ -1,0 +1,113 @@
+---
+title: Conform to the Culture Just Enough
+url: https://edbatista.com/2019/04/conform-to-the-culture-just-enough.html
+slug: conform-to-the-culture-just-enough
+published: 2019-04-19T22:17:03
+updated: 2025-10-06T20:24:51
+source_body: wordpress-html
+---
+
+Leaders must conform enough if they are to make the connections necessary to deliver change. Leaders who succeed in changing organizations challenge the norms--but rarely all of them, all at once... To change an organization, the leader must first gain at least minimal acceptance as a member.
+
+~Rob Goffee and Gareth Jones [1]
+
+You're in a new leadership role, you see some room for improvement, and you want to make some changes. If you're one of my coaching clients, the title of this post will be a recurring theme in our conversations. Unless it's a turnaround in which the intent is to radically transform a dysfunctional culture, your success will hinge on your ability to conform just enough. If you conform too much, you'll miss opportunities to influence positive change and make a difference. And if you don't conform enough, your efforts will be ignored or rebuffed, and eventually you'll burn out or be rejected.
+
+The first challenge is clarifying just what we mean by "culture"--it's an elastic word that stretches to accommodate a wide range of concepts, especially when we're talking about "culture fit." Michael Watkins of the International Institute of Management Development offers a useful set of distinct but overlapping definitions:
+
+Culture is consistent, observable patterns of behavior in organizations...
+
+Culture is a process of "sense-making" in organizations [which] moves the definition of culture beyond patterns of behavior into the realm of jointly-held beliefs and interpretations about "what is..."
+
+Culture is a carrier of meaning. Cultures provide not only a shared view of "what is" but also of "why is." In this view, culture is about "the story" in which people in the organization are embedded, and the values and rituals that reinforce that narrative...
+
+Culture is a social control system. Here the focus is the role of culture in promoting and reinforcing "right" thinking and behaving, and sanctioning "wrong" thinking and behaving. Key in this definition of culture is the idea of behavioral "norms" that must be upheld, and associated social sanctions that are imposed on those who don’t "stay within the lines..."
+
+Culture is a form of protection that has evolved from situational pressures. It prevents "wrong thinking" and "wrong people" from entering the organization in the first place. [2]
+
+Note the many layers and elements here: behavior, beliefs, meaning, narrative, norms. One of your most important tasks as a new leader is to explore and understand all of these aspects of your new culture. Without this awareness it's impossible to know when you're conforming just enough. So what does this look like in practice? Here are four tactics:
+
+1. Pay Attention
+
+Anthropologist and author Grant McCracken offers some invaluable advice: "Notice everything and pay attention to things that puzzle. Pay attention to things that demand your attention and then refuse your understanding. Pay attention to the failure of attention." [3]
+
+As a new member many aspects of the surrounding culture will seem curious or unusual or even irrational. This is invaluable data, and it won't be available to you indefinitely. As the culture grows familiar, it will become less visible to you--it will simply be "the way we are." With a fresh set of eyes you'll be able to see more clearly the behaviors, beliefs, meanings, narratives and norms that make up your new cultural landscape--but only if you're actively looking for them.
+
+This sounds easy but can be difficult to implement: New environments compel us to make many more decisions than usual; you're probably feeling pressure to get up to speed quickly; and the company may not have a well-crafted onboarding plan (or any plan at all.) Time spent observing the culture can seem like a luxury when there's a lot to do and you're feeling depleted. So give some thought to how you might "onboard yourself," and in that process recognize the long-term importance of investing time in these efforts. [4]
+
+2. Ask Around
+
+Much of this data will be tacit, undocumented, and assumed, so it won't be sufficient to merely observe--you'll also have to inquire. You started doing this weeks or even months ago during the hiring process, but there are limits on how much can be learned about an organization's culture by a prospective candidate: Interviewers are highly motivated to portray the culture in the best possible light, not only to land the prospect, but also to re-affirm their continued commitment to the organization. Candidates are reluctant to ask certain questions or point out potential concerns, for fear that they'll be deemed "not a fit." And even in more candid conversations employees may be unable to identify aspects of their culture with much specificity because it's become less visible to them--it's the water in which they swim.
+
+Presumably you learned enough about the culture to convince you to accept the opportunity, but you potentially have access to much more information now that you're in the role--and yet you'll surface this additional data only by engaging your new colleagues in dialogue. Your onboarding plan (whether it's official or one you've constructed for yourself) should include a series of conversations with people from across the organization, and every one of those exchanges is an opportunity to learn something about the culture.
+
+There's a parallel with the field of ethnography, in which researchers immerse themselves in a culture in order to empathetically understand what it's like to be a member. Drawing upon this process, McCracken reminds us to distinguish among the various "layers of knowledge" that can be unearthed through skillful conversation:
+
+What the other person knows and can offer easily.
+
+What the other person knows and can report with prompting.
+
+What the other person does not know they know but can reveal with prompting.
+
+What the other person does not know, cannot report, and cannot reveal, but the questioner can gather from one conversation.
+
+What the other person does not know, cannot report, and cannot reveal, but the questioner can gather from multiple conversations. [5]
+
+3. Lead with Warmth
+
+There's an important balance to strike in the process of conducting these conversations: It can be helpful to be perceived as "a new person eager to learn," because many colleagues will be equally eager to educate you (in part to win you over to their way of thinking.) And it will be problematic if you're perceived as "a nosy outsider"--that sows distrust and raises questions about your motives.
+
+The key is to seek to build trust from the very first interaction with every one of your new colleagues. But many new leaders often try to establish themselves by demonstrating their mastery and competence--they lead with strength. Harvard Business School professor Amy Cuddy and her co-authors Matthew Kohut and John Neffinger have studied the value of an alternative approach--leading with warmth:
+
+Leaders who project strength before establishing trust run the risk of eliciting fear, and along with it a host of dysfunctional behaviors. Fear can undermine cognitive potential, creativity, and problem solving, and cause employees to get stuck and even disengage...
+
+A growing body of research suggests that the way to influence--and to lead--is to begin with warmth. Warmth is the conduit of influence: It facilitates trust and the communication and absorption of ideas. Even a few small nonverbal signals--a nod, a smile, an open gesture--can show people that you’re pleased to be in their company and attentive to their concerns. Prioritizing warmth helps you connect immediately with those around you, demonstrating that you hear them, understand them, and can be trusted by them. [6]
+
+Being perceived as a warm and empathetic person is not an end in itself in a leadership role, of course. You will also surely be called upon to hold people accountable--but those are not mutually exclusive characteristics in a leader. [7]
+
+4. Learn to Translate
+
+The opportunities for improvement that you see in your new culture are informed by what you've learned from your previous cultures, and your ability to offer a broader perspective likely played a part in landing this leadership role. Perhaps your success in your last organization is what led to this new opportunity, or perhaps you've been exploring leadership skills and organizational culture in a training program like my MBA students at Stanford. Whatever path you've followed, the final step will be taking what you've learned and translating it to fit your new culture.
+
+A key in this process is eliminating any terminology from your vocabulary that might be perceived by your new culture as "jargon." The late activist Abbie Hoffman advised anyone seeking to foster change to "Be very conscious of your language":
+
+It cannot be stressed too strongly how much language shapes your environment... You can't afford the luxury of being boring or of creating a language that the average person cannot understand. Avoid, for example, using initials for the full name of an agency. Even if all the people you are addressing know that EPA stands for Environmental Protection Agency...say the full name. Why? As a reminder not to slip into the language of the bureaucracy. Those in power can, but not the challengers. [8]
+
+The equivalent of Hoffman's bureaucratic acronyms are any catchphrases you learned in your previous cultures. They were helpful shorthand when everyone understand them, but when you take these linguistic shortcuts in your new culture you run the risk of alienating a potential ally simply because you're not speaking their language. No matter how compelling your ideas, they must be presented in terms that align with your new culture's native vocabulary and communication style.
+
+A further step is distilling the conceptual lessons you've drawn from your previous cultures and translating those ideas into behaviors that will conform just enough to the norms of your new culture. An example that comes up frequently in my work is the role of vulnerability in organizational life, which is a hallmark of the experiential learning curriculum at Stanford. [9]. Expressions of vulnerability typically evoke empathy, so in circumstances where a greater degree of empathy would increase mutual understanding or resolve a conflict, a leader who can convey and demonstrate vulnerability will have a powerful advantage. [10]
+
+But "vulnerability" comes in an endless number of forms, and each culture has a set of norms that define acceptable expressions of vulnerability by a leader. If you deviate too far from these norms, the culture won't be able to accommodate your behavior--and if all you do is conform to those norms, you'll fail to help the culture evolve and will miss opportunities to take advantage of your prior training. The key, as always, is to conform just enough.
+
+Footnotes
+
+[1] Why Should Anyone Be Led By You?, pages 109-110 (Rob Goffee and Gareth Jones, 2006/2015)
+
+[2] What Is Organizational Culture? (Michael Watkins, Harvard Business Review, 2013)
+
+[3] Account planners and fearless noticing (Grant McCracken, 2007)
+
+[4] A Checklist for Someone About to Take on a Tougher Job
+
+[5] The Six Layers of Knowledge and Better Conversations
+
+[6] Connect, Then Lead (Amy Cuddy, Matthew Kohut and John Neffinger, Harvard Business Review, 2013)
+
+[7] Accountability and Empathy
+
+[8] "How to Fight City Hall" (Abbie Hoffman, originally published in Parade, 1984, currently available in The Best of Abbie Hoffman, 1993)
+
+[9] The Art of Self-Coaching, Class 7: Vulnerability
+
+[10] Brené Brown, Vulnerability, Empathy and Leadership
+
+For Further Reading
+
+Two Sides of Trust
+
+First Impressions
+
+The Accumulation of Cultural Debt
+
+Photo by Carleton Thomas Anderson.
+

@@ -1,0 +1,77 @@
+---
+title: The Traps We Set for Ourselves
+url: https://edbatista.com/2021/03/the-traps-we-set-for-ourselves.html
+slug: the-traps-we-set-for-ourselves
+published: 2021-03-21T12:47:40
+updated: 2026-01-30T16:45:52
+source_body: wordpress-html
+---
+
+Sometimes we're prevented from achieving our goals by factors beyond our control--the performance of a competitor, or the misdeeds of an adversary, or simply random chance and bad luck. But all too often we pay insufficient attention to the obstacles of our own making--the traps we set for ourselves. In my work as a coach to senior leaders (and in my own life), these traps tend to fall into three categories:
+
+Magical Thinking
+
+Then close your eyes, and tap your heels together three times. And think to yourself: There's no place like home!
+
+~Glinda, the Good Witch of the North [1]
+
+There's a positive correlation between optimism and effective leadership, in part because the optimistic leader has a contagious effect on others, rendering success more likely. [2] And yet there's a point at which unbridled confidence is merely a wish, and optimism becomes magical thinking, which can be particularly dangerous for a leader. Neuroscientist Richard Davidson notes that the risks of excessive optimism include resistance to negative data and failure to learn from experience. [3]
+
+What can we do? Cultivate a tolerance for cognitive dissonance. This is the mental state evoked when we're confronted with ideas or data that appear to be inconsistent, which most people find so unpleasant that they modify their beliefs (and their behavior) or simply ignore certain data in order to restore conceptual consistency. When we engage in magical thinking, what we're really doing is soothing the discomfort evoked by cognitive dissonance, wishing away the risks and concerns that are inconsistent with our preferred outcomes. We don't have to become pessimists, but we need to anticipate cognitive dissonance and take steps to become more comfortable with discomfort. [4]
+
+Self-Delusions
+
+There is nothing...to support the extraordinary judgment that it is the truth about himself that is the easiest for a person to know. Facts about ourselves are not peculiarly solid and resistant to skeptical dissolution.
+
+~Harry Frankfurt  [5]
+
+We like to think that we know ourselves well, and yet our view of ourselves is as subject to bias and distortion as our perspective on any other subject--perhaps even more so, given the host of blind spots that impede our view. This includes unrealistic self-regard and unrealistic self-criticism, and both are equally problematic. Leaders with an inflated estimation of their own abilities are staples of tragic stories in history, literature, and the annals of management practice. But in my experience as a coach the vainglorious hero who takes a fall is actually less common than the person whose perceived limitations become real ones, unable to get out of their own way. [6]
+
+What can we do? First, adopt a fundamental attitude toward ourselves: View ourselves as a work-in-progress, open to learning and change, and seek to maintain a growth mindset in which our capabilities are plastic and evolving. [7] Then hold regular "conversations with ourselves" by making a consistent commitment to turn our abstract reflections into more concrete thoughts through some form of writing, and engaging others in coaching conversations in order to gain some critical distance on our subjective experience. [8] Finally, actively solicit feedback from people we trust to minimize those blind spots--and note that in my experience positive feedback is actually more stressful than negative feedback, but it is just as valuable in raising our self-awareness. [9]
+
+What Ought to Be
+
+You want it to be one way, but it’s the other way.
+
+~Marlo Stanfield [10]
+
+We hold a set of beliefs about the way the world works, and these mental models have a profound impact on our experience of the world. [11] A subset of these beliefs involve the way the world is supposed to work, the way things "ought to be," and these ideas can be tremendously durable and resistant to modification. This makes sense, up to a point. We rely heavily on our mental models to determine cause-and-effect, predict likely outcomes, and modify our behavior accordingly, and they usually serve us well for these purposes. It would be a waste of effort to revisit them constantly. But in some circumstances we remain attached to our mental model of "what ought to be" even in the face of extensive evidence that it's wrong or out of date.
+
+What can we do? See our mental models as just that--simplified versions of reality that enable us to navigate the world which must be updated on a regular basis. When the territory doesn't resemble the map, we have to modify the map. [12] This often involves some form of "double-loop learning," in which we look beyond the results we're achieving (or failing to achieve) and exploring the assumptions and beliefs that underpin our current goals and strategies. [13] We're also well-served by enhancing our capacity for emotion regulation. [14] When our model of "what ought to be" is contradicted by reality, we often experience a surge of righteous indignation, and even when such passion motivates us to remake reality to conform with our ideals, we need to manage those feelings to enlist others in the cause and avoid burnout. Finally, we can take an entirely different stance toward these perceived impediments--they may be there not to block us, but to teach us, and it may be a lesson that could be learned in no other manner. Sometimes, the obstacle IS the way. [15]
+
+Footnotes
+
+[1] The Wizard of Oz (directed by Victor Fleming, produced by Mervyn LeRoy, based on the book by L. Frank Baum, portrayed by Billie Burke, Metro-Goldwyn-Meyer, 1939)
+
+[2] See Dispositional Affect and Leadership Effectiveness: A Comparison of Self-Esteem, Optimism, and Efficacy (Martin Chemers, Carl Watson, and Stephen May, Personality and Social Psychology Bulletin, 2000), and Impact of Leadership Style and Emotion on Subordinate Performance (Janet McColl-Kennedy and Ronald Anderson, The Leadership Quarterly, 2002).
+
+[3] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[4] The Cognitive Dissonance of the CEO
+
+[5] On Bullshit, page 67 (Harry Frankfurt, 2005. First published in The Raritan Quarterly Review, 1986.)
+
+[6] Three More Horsemen (How We Self-Sabotage)
+
+[7] Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives (Maria Popova, Brain Pickings, 2014)
+
+[8] Conversations with Ourselves
+
+[9] Make Getting Feedback Less Stressful
+
+[10] Refugees, The Wire, Season Four (Written by Dennis Lehane, portrayed by Jamie Hector, HBO, 2006)
+
+- Here's a brief clip that's worth watching.
+
+[11] Corn Mazes and Mental Models
+
+[12] The Map Is Not the Territory
+
+[13] Building Blocks (A Tactical Approach to Change)
+
+[14] The Tyranny of Feelings
+
+[15] The Obstacle Is The Way
+
+Photo by insight pest.
+

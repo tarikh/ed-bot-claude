@@ -1,0 +1,35 @@
+---
+title: Organizational Effectiveness
+url: https://edbatista.com/2008/05/effectiveness.html
+slug: effectiveness
+published: 2008-05-08T10:53:50
+updated: 2025-10-24T06:44:53
+source_body: wordpress-html
+---
+
+What makes organizations effective? For that matter, what do we even mean by effectiveness?
+
+I love the Peters/Waterman/McKinsey "7s" Model, and we can extend it in two directions: Looking within an organization we can reduce the model to its most essential elements, leaving People (or Staff, in the 7s Model) and Culture (an amalgam of Style, Skills and Shared Values.)  And looking beyond the organization, if we ask why it exists and whether it's fulfilling its purpose we begin to assess its Impact, which includes not only profitability and financial sustainability but also the value created for any stakeholders.
+
+My focus on these three elements is also due to their tightly interrelated nature--each element affects the other two in fundamental ways.
+
+The relationship between an organization's people and its culture is often poorly understood. Sometimes it's difficult to even know where to draw a boundary between the two: Where do I stop and where do my contributions to the culture around me begin? In part, this is why so many organizations operate without a clear understanding of their culture. (And every organization has a culture: "When you've decided you don't have a culture, you've got one...")
+
+But what's most important to recognize is the dialectical nature of this relationship. An organization's founders create the initial culture, which then exerts its influence on them in turn. Future colleagues are attracted to the pre-existing culture because in some way it meets their needs, and so they reinforce it.
+
+People and Culture are the primary drivers of an organization's Impact. This isn't to say that other factors are irrelevant, but ultimately people implement an organization's plans, and the culture in which they operate helps them or hinders them. Talented people can overcome misguided strategies and suboptimal systems, but they can't outrun a dysfunctional culture (not for long, anyway.)
+
+An organization's Impact--its ability to achieve its goals, fulfill its purpose and create value for stakeholders--directly affects its ability to attract and retain effective people and to build and sustain a high-performance culture.
+
+Having mapped out the relationships that exist among these three elements, what does each one stand for in practice? How might we define People, Culture and Impact in effective organizations?
+
+Here's my definition of effectiveness as it pertains to People. I emphasize connections with Culture and Impact; interpersonal skills and accountability; self-development and growth.
+
+Here's my definition of an effective Culture. I emphasize distributed leadership, continuous learning, openness, and decentralization. The final quote from Tom Peters deserves further explanation: The 7s Model is sometimes divided into "Hard" elements (Strategy, Structure and Systems) and "Soft" elements (Skills, Staff, Style and Shared Values). Our business culture tends to value the former and dismiss the latter, and Peters thinks this is entirely ass-backwards. The "hard" stuff, from strategic plans to complex financial structures, is actually pretty fuzzy and surprisingly easy to fake. The "soft" stuff--relationships, leadership, interpersonal skills (in short, culture)--is actually pretty resilient and surprisingly difficult to get right.  Hard is soft, soft is hard.
+
+I don't believe there's a universal definition of Impact--organizations define value-creation in different ways, and they're answerable to different sets of stakeholders. But I do believe that effective organizations share the characteristics listed above, which enable them to understand, measure and communicate their impact, and to use that information to drive decision-making (cf. Bob Sutton and Jeff Pfeffer's Hard Facts.) At the same time, they reality-check regularly and don't let data dictate decisions.
+
+Effective organizations also know when to give up and move on. They take a pragmatic approach and never let sunk costs fuel persistence--instead, they've mastered the art of strategic quitting. Finally, effective organizations have a vision of victory that they're driving toward. What would it look like to win? For some organizations, ultimate victory means putting themselves out of business because they've succeeded in fully and permanently meeting the need that they were created to fulfill.
+
+(Here's a PowerPoint file of the graphics above.)
+

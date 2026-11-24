@@ -1,0 +1,71 @@
+---
+title: Pat Croskerry on Successful Decision-Making
+url: https://edbatista.com/2007/03/pat_croskerry_o.html
+slug: pat_croskerry_o
+published: 2007-03-01T22:30:42
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+What elements contribute to successful decision-making? Canadian physician and psychologist Pat Croskerry has explored the conditions under which he and his fellow medical doctors make the most effective decisions, and his findings have implications for the rest of us as well:
+
+The successful decision-maker will be one who has an ergonomically optimized workplace, is well rested and well slept, is not driven by throughput pressures, is aware of the various cognitive and affective biases, and is able to safely blend cognitive intuitive and analytical styles according to the particular task at hand. This last is especially important. It invokes the concept of situational awareness--knowing what has gone before, what is happening now, anticipating what is coming, and then having one’s cognitive engine in the right gear. Occasionally, it may have to be meta-cognitively kicked up a notch to match the situation. [1]
+
+So how might we improve the quality of our own decisions? Some of Croskerry's recommendations are obvious, although we often fail to follow them: Make your workspace physically comfortable. Get enough sleep. Resist "throughput pressures" and take the time you need to think clearly. But he also touches on two topics that require more effort to integrate into our daily routines:
+
+1. Be aware of cognitive biases.
+
+Croskerry suggests that some of our cognitive heuristics--the mental shortcuts we employ in problem-solving--are by-products of evolution:
+
+There are persuasive arguments that we may be hard-wired to respond to certain features of our environment as well as to processing information in predictable ways... If there is any feature of cognitive activity that might influence whether or not our genes get into the next generation, decision-making would appear to be a good bet--presumably good decision-makers have a higher rate of survival. [2]
+
+This suggests that we should take great care to understand and compensate for the biases that stem from our cognitive inheritance:
+
+If we come to accept that certain [cognitive dispositions to respond] are, indeed, hard-wired, there are important implications... If heuristic strategies are the stuff upon which cognition evolved...it places an even stronger imperative on the need for research into de-biasing strategies--finding ways of undoing our innate tendencies that evolved in simpler times and which now may be counter productive in modern medicine. [3]
+
+How to put this into practice?  One place to start is by learning more about the cognitive heuristics and biases that can affect our decision-making. [4] As is so often the case, awareness by itself is insufficient to create change, but it's the necessary first step.
+
+2. Match the appropriate cognitive style to the task at hand.
+
+This raises several questions that require further exploration: What are the different cognitive styles at my disposal? What's my default style? To what extent can I change styles? And how much effort will be required to do so? While we seek to answer these questions, however, one overarching principle can guide our efforts: Learn when to trust our instincts and when to distrust them.
+
+As Croskerry notes, situational awareness is key, and even in a state of heightened perception we may have to "meta-cognitively kick it up a notch" to match our style to the situation. Essentially this means we sometimes need to "think about how we're thinking." Should we go with our intuition? Or should we discount our intuition and be more analytical? And clearly, familiarity with the cognitive biases noted above will help us select the right cognitive style.
+
+ 
+
+Footnotes
+
+[1] The theory and practice of clinical decision-making (Pat Croskerry, Canadian Journal of Anesthesia, 2005)
+
+[2] Ibid.
+
+[3] Ibid.
+
+[4] When Heuristics Go Bad
+
+ 
+
+For Further Reading
+
+Seeing What's Not There (The Importance of Missing Data)
+
+Racing Up the Ladder of Inference
+
+Cognitive Bias Cheat Sheet (Buster Benson)
+
+Cognitive Bias Codex (Designed by John Manoogian III using Benson's framework)
+
+- Large format paper version (Design Hacks)
+
+Wikipedia's list of psychological heuristics
+
+Strategic decisions: When can you trust your gut? (Interview with Daniel Kahneman and Gary Klein)
+
+Conditions for Intuitive Expertise (Daniel Kahneman and Gary Klein)
+
+ 
+
+Updated May 2022.
+
+Photo by Thomas Guignard.
+

@@ -1,0 +1,47 @@
+---
+title: Flawless Teamwork
+url: https://edbatista.com/2022/04/flawless-teamwork.html
+slug: flawless-teamwork
+published: 2022-04-06T10:35:09
+updated: 2025-10-05T17:16:23
+source_body: wordpress-html
+---
+
+The image above is a clip from a video shot at the 2013 Australian Grand Prix. [1] The Ferrari team had two drivers in the race that day, Fernando Alonso, who finished second, and Felipe Massa, who finished fourth, although I haven't been able to determine who was driving this car. [2]
+
+But the driver is the least interesting person in the scene to me. I'm much more interested in the 23 members of the pit crew, who do their jobs flawlessly, functioning as a single unit. I'm mesmerized by their synchronous movement, and I'm in awe of the training and dedication it must take to achieve that level of teamwork.
+
+I imagine the competition for each of these jobs is incredibly fierce. And yet these roles are essentially anonymous--if I can't even determine who's driving, I'll never learn the names of the pit crew. What a striking example of setting one's ego aside in order to participate on a high-performing team.
+
+I'm not suggesting this should be the model for every team at all times--organizational life isn't a Formula One race. But Wharton professor Ethan Mollick, who first brought this video to my attention [3], points to a case study showing how surgical teams reviewed pit crews to improve their coordination in the operating room. [4]
+
+So this clip prompts some questions worth asking when considering whether a team is achieving its full potential:
+
+- What kind of team we are?
+
+- Are the right people here?
+
+- Does everyone know their role?
+
+- How do we make decisions?
+
+- Have we built a sense of cohesiveness?
+
+- Do we know what effectiveness looks like?
+
+- What happens when we disagree?
+
+And while I find the loop above useful to observe each member at work and get a sense for the team's overall choreography, it's also worth listening to a version with the volume up to get the full F1 experience:
+
+The eagle-eyed Jim Bonsell has pointed out the #3 on the Ferrari's nose, which indicates that the driver is Fernando Alonso. Alonso not only placed second in that day's race, he also finished the 2013 F1 season in second, and he's finished first or second in seven other F1 seasons. Pretty good teamwork!
+
+Footnotes
+
+[1] Scott Bellchambers, Ferrari F1 Pit Stop Perfection (YouTube, 2013)
+
+[2] 2013 Australian Grand Prix, Melbourne, March 17, 2013
+
+[3] Ethan Mollick @emollick: "A great example of borrowing innovation from one field for another. Doctors at a struggling children's hospital sent videos of their post-surgical hand-offs to Ferrari's F1 pit crew (see the GIF!) to improve. They reworked the process & reduced associated errors rates by 66%." (October 15, 2020)
+
+[4] Ferrari’s Formula One Handovers and Handovers from Surgery to Intensive Care. (American Society for Quality, excerpted from chapter 10 of "Benchmarking for Hospitals: Achieving Best-in-Class Performance Without Having to Reinvent the Wheel," by Victor Sower, Jo Ann Duffy, and Gerald Kohers, 2008)
+

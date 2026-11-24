@@ -1,0 +1,215 @@
+---
+title: Rules Aren't Norms (On Better Meeting Hygiene)
+url: https://edbatista.com/2019/04/rules-arent-norms-on-better-meeting-hygiene.html
+slug: rules-arent-norms-on-better-meeting-hygiene
+published: 2019-04-21T12:48:31
+updated: 2025-10-08T09:06:26
+source_body: wordpress-html
+---
+
+All behavior is adaptive in some way, and organizational cultures are merely manifestations of the cumulative adaptations made by every individual. [1]
+
+1. Rules vs. norms
+
+You're a senior leader who meets regularly with a team of employees. A typical configuration in my coaching practice is a CEO who sits down with the 5 to 7 members of their executive team every week. Your team meetings are fine, but they could be much more meaningful and productive, and on occasion they're draining or even demoralizing. This is an ongoing theme in my work with clients, and I think of it as a function of "meeting hygiene"--the ways of interacting that characterize a particular group when they sit down to work together on a consistent basis.
+
+You've probably worked as a group to identify some "ground rules" to improve the quality of your meetings--that's a common exercise and one I've conducted myself. [2] But despite these efforts, your meetings haven't really improved. One reason why is the difference between "rules"--which are what we intend to do, or what we're supposed to do, and "norms," which are what we actually do. Richard McAdams of the University of Chicago Law School provides a useful definition of the latter:
+
+[Norms are] informal social regularities that individuals feel obligated to follow because of an internalized sense of duty, because of a fear of external non-legal sanctions, or both. [3]
+
+Economists Uri Gneezy, Andreas Liebbrant and John List offer another:
+
+Norms are patterns of behavior that are based on shared beliefs about how individual group members should behave in a given situation. They are enforced by internal and external sanctions, such as shame or punishment, internalized through social learning and socialization, and may lead to an enduring change in individuals’ motivations, such as their propensity to act pro-socially. [4]
+
+To repeat: Norms are informal social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave.
+
+Rules and norms are by no means mutually exclusive, and their influence on our behavior often overlaps. But they are distinct forms of social governance, and if you're trying to improve the quality of your meetings in a typical organization, it's important to recognize that rules on their own are often fairly weak, while norms are much more powerful--and often exert significant influence in the absence of any formal rules, for better and for worse.
+
+The problem is that our efforts to influence behavior in organizational life generally involve new or improved rules. And while exercises to create or clarify a set of rules for meetings are well-meaning, these efforts are often futile because in many organizational settings we don't feel obligated to follow rules, nor are they based on a set of shared beliefs.
+
+We choose to follow rules in organizational life most of the time, but we break them with impunity on a regular basis. Rules rarely generate an internalized sense of duty, and few organizational cultures have the ability to impose sanctions on rule-breakers without provoking a backlash. And rules are often simply imposed from above--they reflect the shared beliefs of the rule-makers, but not of those who are supposed to follow them. Norms are very different. When we violate a norm, we feel that we've failed to uphold an important duty, or we fear the sanctions that will result, or both.
+
+2. Where do norms come from?
+
+We are not only gregarious animals, liking to be in sight of our fellows, but we have an innate propensity to get ourselves noticed, and noticed favorably, by our kind.
+
+~William James, The Principles of Psychology [5]
+
+Human beings are deeply social creatures, and UCLA neuroscientist Matthew Lieberman cites a hypothesis that the evolutionary advantage conferred on humans by our larger brains derives not from our enhanced abilities as individual problem-solvers, but from our skill at connecting and cooperating with others, which enables us to work together in much larger groups than other primates. Lieberman notes that this social skill enabled our distant ancestors to deal with predators and other threats more successfully, but it also came at a cost:
+
+The downside of larger groups is that there is increased competition for food and mating partners within the group. If you are on your own and you manage to find food, it's yours. The larger your group, the more likely it is that one of the others in your group will try to poach it. Primates with strong social skills can limit this downside by forming alliances and friendships with others in the group...
+
+While there is tremendous upside to being part of a group, that is true only if you know how to play the odds and form the right coalitions to avoid the downsides of group living. It requires an expansive capacity for social knowledge. [6]
+
+So we evolved to be keenly aware of our relative social status and our standing in the group, and it is in this context that early humans faced the challenge of how to solve what legal scholar McAdams calls "collective action problems [which] arise when there is a disparity between the individual behavior that maximizes the welfare of the group and the behavior that maximizes the welfare of an individual in the group." [7]
+
+Today we solve many such collective action problems through the law--but lacking access to a legal system and the authority of the state, our distant ancestors developed something equally powerful (and much less cumbersome) that continues to govern our social life today: norms.
+
+Early research on norms was done by sociologists and anthropologists, and while this work established an essential foundation for our understanding of the concept, in recent decades legal scholars and economists (as noted above) have added further insights. [8] Richard McAdams has developed a theory I find compelling in light of Lieberman's ideas about the importance of our social orientation: Norms emerge from our need for the esteem of our peers and the anxiety that results when such esteem is withheld. McAdams writes:
+
+The initial force behind norm creation is the desire individuals have for respect or prestige, that is, for the relative esteem of others. Withholding esteem is, under certain conditions, a costless means of inflicting costs on others. These costs are often extremely small... But...dynamic forces can cause the weak desire for esteem to produce powerful norms, sometimes because individuals struggle to avoid deviance, sometimes because they compete to be heroic. [9]
+
+Note that withholding esteem is a "low-cost" means of sanctioning those who violate a norm--this makes it easy for the group to punish violators without imposing a burden on those who observe violations and take action in response. Also, the desire for mutual esteem does not need to be particularly strong--it merely needs to cross some minimal threshold, above which we feel its loss should it be withheld.
+
+William James, the pioneering psychologist and philosopher, summarizes these ideas concisely: We have an innate propensity to get noticed favorably by our kind.
+
+3. How do we foster productive norms?
+
+Bad feedback [has] more impact than good...and bad information is processed more thoroughly than good. The self is more motivated to avoid bad self-definitions than to pursue good ones.
+
+~Roy Baumeister et al. [10]
+
+While McAdams' "esteem theory" proposes that the power of norms comes from our desire for the regard of our peers as well as fear of its loss, further research suggests that the latter factor is significantly more influential. This is consistent with a well-established psychological principle that bad experiences register more strongly than good ones--while we will make an effort to win our peers' esteem, we'll work even harder to avoid its withdrawal.
+
+Biologist Sergey Gavrilets of the University of Tennessee and environmental scientist Peter Richerson of UC Davis conducted joint research that offers more specific insights into this process: "Norm internalization evolves much more easily and has much larger effects on behavior if groups promote peer punishment of free riders." [11]
+
+With this we can identify the necessary conditions in a group for the establishment of a productive norm:
+
+- A set of shared beliefs about how individuals should behave.
+
+- Sufficient mutual esteem among members so that its withdrawal would be felt as a loss by any individual.
+
+- A willingness by members to openly acknowledge a norm violation by a peer.
+
+- A willingness by members to withhold esteem from a peer as a consequence of a norm violation.
+
+In other words, a high-accountability, high-empathy culture. To be clear, this doesn't mean an authoritarian culture in which group members are being policed by management, but one in which members hold themselves accountable because of their shared beliefs regarding productive behavior and their desire to avoid the loss of mutual esteem. [12]
+
+As a leader, of course, you're well aware that this may be easy to understand in theory, but it's very difficult to put into practice. Because it is so difficult, many leaders focus solely on the first condition--creating a set of shared beliefs--and ignore the other three. This results in a set of thoughtful rules, which people agree to but then break as soon as adherence to the rule would be inconvenient for them. No one acknowledges their free-riding behavior, there's no withdrawal of esteem, and the thoughtful rules never become norms.
+
+This is why relationship-building on a team is so important and why leaders who dismiss it as fluffy bullshit are missing a critical factor in the process of developing productive norms. It's not about "liking each other"--it's about the power of mutual esteem. And to be clear, sufficient mutual esteem is a necessary but insufficient condition--what's also required is a mutual willingness to hold each other accountable, and this is the really hard work.
+
+4. Why is this work so difficult?
+
+Whenever human beings are faced with any issue that contains significant embarrassment or threat, they act in ways that bypass, as best they can, the embarrassment or threat. In order for the bypass to work, it must be covered up.
+
+~Chris Argyris, Overcoming Organizational Defenses [13]
+
+Over the course of a decade I spent more than 2,000 hours facilitating groups of MBA students at Stanford, primarily in the school's Interpersonal Dynamics course [14], which I later taught for several years, but also in the Leadership Fellows Program, which I helped to launch in 2007. During this same period of time, before focusing my practice on coaching individual clients I consulted to leadership teams that were seeking to work together more effectively. A regularly occurring activity in all of this work was the identification of existing group norms and interventions to encourage more productive behavior.
+
+This took place through a number of different processes, from highly-structured activities to informal conversations, but a universal response was anxiety, ranging from mild awkwardness to profound distress. As a leader who's hoping to improve your team's meeting hygiene, you should anticipate something similar. One of the causes of this pattern is that a candid examination of group norms causes us to acknowledge behaviors--our own and those of others--that we would rather ignore. Such open acknowledgment feels unsafe because it violates a "defense routine," a term defined by the late Harvard Business School professor Chris Argyris:
+
+[Defense routines] are actions or policies that prevent individuals or segments of the organization from experiencing embarrassment or threat. Simultaneously, they prevent people from identifying and getting rid of the causes of the potential embarrassment or threat. Organizational defensive routines are anti-learning, over-protective, and self-sealing. [15]
+
+Defense routines are universal in organizational life, and they're predictable and rational responses to the stress and uncertainty we face in most professional environments. Argyris notes that they "are rewarded by most organizational cultures, because the routines indicate a sense of caring and concern for people," and "minimize the risk of harming or upsetting people." [16]
+
+The dilemma you face as a leader seeking to foster a culture of productive norms is that, first, any currently existing dysfunctional norms must be openly acknowledged, and then violations of desired norms must be recognized and sanctioned by peers. All of these efforts are likely to trigger feelings of embarrassment and threat (or other vulnerable emotions), thus running headlong into the defense routines that have been carefully crafted with the best of intentions to minimize the risk of harm or upset.
+
+In fact, most of your team's current dysfunctional norms are defense routines--strategies to bypass embarrassment or threat--and these social dynamics function only when the bypass is covered up. So uncovering them compels us to admit that we've been colluding in the dysfunction, and this itself can be feel embarrassing. Obviously, this is a recipe for A) continued inaction, or B) avoiding the riskier topic of norms in favor of a safe-but-futile discussion about rules.
+
+The key to unlocking this dilemma is the establishment of sufficient psychological safety, a topic that's been studied extensively by Harvard Business School professor Amy Edmondson. In a psychologically safe organization, Edmondson notes:
+
+Individuals feel they can speak up, express their concerns, and be heard. This is not to say that people are "nice." A psychologically safe workplace is one where people are not full of fear, and not trying to cover their tracks to avoid being embarrassed or punished.
+
+What I am advocating is candor. Being open. And sometimes that might mean being direct to a fault, knowing that you have a right and a responsibility to ask hard questions about the work: "Is this the right decision? Are we collecting the right data? Do we know the impact this might have on others?" [17]
+
+There are a number of steps you can take as a leader to create a greater sense of safety among your team: actively encourage input, insure that people truly feel heard, and respond appreciatively--especially to unwelcome news. [18] But it's essential to also consider how your behavior as a leader might undermine these efforts by diminishing safety, triggering a threat response, or reinforcing existing defense routines. [19] As I've written before,
+
+Power distorts what others choose to tell us and what we choose to hear, and the more power we have relative to someone else, the more distortion there is in the dialogue. You can and should seek to heighten your self-awareness...but you should also explicitly ask for direct feedback from others and make it safe for employees to point out how you may be making things worse. [20]
+
+Finally, let's return to the concepts of mutual esteem and accountability, the essential preconditions for the establishment of productive norms. These qualities in a group have the potential to be both the result of and contributors to a greater sense of psychological safety. When we respect and feel close to the people around us, and when we trust that they will tell us the truth in a direct but empathetic way, it's a safer environment in which to deal with the feelings of vulnerability that inevitably accompany a truly candid conversation about group norms. In this context psychological safety isn't an end in itself, but, rather, a necessary means to the desired end of a truly high-accountability, high-empathy culture. [21]
+
+5. Questions to resolve for better meeting hygiene.
+
+Below are a number of questions that come up regularly in my work with leaders who are striving to improve their team's effectiveness, and each one touches on an issue that has the potential to meaningfully affect meeting hygiene. That said, it's essential to view them in light of the concepts above.
+
+You and your team could have a thorough discussion about each of these issues and craft a brilliant plan to cover every possible situation--and your efforts will largely be wasted in the absence of a psychologically safe environment in which members value each other's esteem and are willing to hold each other accountable. Rules aren't norms.
+
+- Why are we meeting? What happens if we don't know the answer?
+
+- Who's here? Who's not?
+
+- What happens if someone who's supposed to be here is absent?
+
+- What happens if someone's here who's not supposed to be?
+
+- What are our roles? Who are we to each other?
+
+- Where are we meeting? If we're all in the same room, who sits where?
+
+- If we're not in the same room, how are we using technology?
+
+- Who leads the meeting? What does "leading" mean here?
+
+- What's on the agenda? Who makes that decision?
+
+- What level of preparation is required? What happens if someone appears to be unprepared?
+
+- When do we start? What happens if people are late?
+
+- How do we start?
+
+- When do we finish? What happens if we run long?
+
+- How much time is allotted to each topic? What happens if we run long on a given topic?
+
+- How do we make decisions? When do we decide how to make a given decision?
+
+- How do we choose what process we use to make decisions? What happens if we disagree?
+
+- What's our policy regarding laptops? What's our policy regarding phones?
+
+- How do we express emotion? How do we regulate emotional expression?
+
+- What's our shared understanding of the answers to these questions?
+
+- How do we surface and resolve differences of opinion?
+
+Footnotes
+
+[1] In Defense of Normal
+
+[2] Ground Rules for Meetings
+
+[3] "The Origin, Development, and Regulation of Norms," page 340 (Richard McAdams, Michigan Law Review, 1997)
+
+[4] Ode to the Sea: Workplace Organizations and Norms of Cooperation, page 2 (Uri Gneezy, Andreas Liebbrant and John List, National Bureau of Economic Research, 2014)
+
+[5] The Principles of Psychology, Chapter X: The Consciousness of Self, page 126 (William James, 1890)
+
+[6] Social: Why Our Brains Are Wired to Connect, pages 33-34 (Matthew Lieberman, 2013)
+
+[7] Social Norms (Cristina Bicchieri, Ryan Muldoon, and Alessandro Sontuoso, The Stanford Encyclopedia of Philosophy, Winter 2018 Edition, Edward Zalta, editor)
+
+[8] "The Origin, Development, and Regulation of Norms," page 344, note 25
+
+[9] "The Origin, Development, and Regulation of Norms," page 342
+
+[10] Bad Is Stronger Than Good (Roy Baumeister, Ellen Bratslavsky, Catrin Finkenauer and Kathleen Vohs, Review of General Psychology, 2001)
+
+[11] "Collective action and the evolution of social norm internalization," page 6068 (Sergey Gavrilets and Peter Richerson, Proceedings of the National Academy of Sciences, 2017)
+
+[12] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[13] Overcoming Organizational Defenses: Facilitating Organizational Learning, page 25 (Chris Argyris, 1990)
+
+[14] Interpersonal Dynamics
+
+[15] Overcoming Organizational Defenses, page 25
+
+[16] Overcoming Organizational Defenses, page 29
+
+[17] Make Your Employees Feel Psychologically Safe (Martha Lagace interviewing Amy Edmondson, Harvard Business School Working Knowledge, 2018)
+
+[18] How Fearless Organizations Succeed (Amy Edmondson, strategy+business, 2018. Excerpted from The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth.)
+
+[19] How Leaders Create Safety (and Danger)
+
+[20] Hammering Eggs (Leadership and Problem-Solving)
+
+[21] Accountability and Empathy (Are Not Mutually Exclusive)
+
+For Further Reading
+
+Checking In: Start Meetings by Listening More
+
+Leadership, Decision-Making and Emotion Management
+
+Building the Emotional Intelligence of Groups (Vanessa Druskat and Steven Wolff, Harvard Business Review, 2001)
+
+Building a Feedback-Rich Culture
+
+Do We Really Need Another Meeting? The Science of Workplace Meetings (Joseph Mroz, Joseph Allen, Dana Verhoeven, and Marissa Shuffler, Current Directions in Psychological Science, 2018)
+
+Photo by Nan Palmero.
+

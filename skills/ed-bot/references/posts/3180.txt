@@ -1,0 +1,25 @@
+---
+title: Blogs Are STILL Obsolete
+url: https://edbatista.com/2005/05/blogs_are_still.html
+slug: blogs_are_still
+published: 2005-05-09T22:31:57
+updated: 2005-05-09T22:31:57
+source_body: wordpress-html
+---
+
+Interesting take from Fredrik Wacka of WebProNews on my last post:
+
+I guess the question is when to stop saying "You should consider blogging" and start saying "You know blogs, right, what if you should use that kind of publishing to strengthen your web presence?" or even "Hey, shouldn't you write more openly and authentic on your site?"
+
+Well said.  Fantastically said.  I'm a technology consultant (says so right on my business card), and if I advised anyone to "consider blogging" I'd smack myself.  IMO, the time to stop talking about blogging qua blogging is now.  "Blogging" is no longer the point, if it ever was.  The point is...using non-technical web publishing tools to enable genuine, direct conversations with your market (or donors, or advocates, or whatever collective noun floats your boat.)
+
+Another thoughtful colleague emailed me this morning:
+
+Some challenges for me intellectually with the very distinctions you raise. Blog as publishing tool vs. blog as form of individual expression.
+
+Which is an interesting way of framing the issue, but not the distinction I'm talking about.  Blogs have been successful as forums for individual expression because they're so easy to use as publishing tools.  Any idiot can run a blog these days.  (Yes, that's an intentional setup line.  Ba-dum-bum.  Thank you!  I'll be here all week.)  But what's really interesting is the way blogs, er, websites, have made it possible for anyone--an individual representing him- or herself, or someone representing an organization--to engage an astoundingly large and diverse audience (cf. The Long Tail.)  Blogs are fantastic tools for individual expression, and they're also fantastic tools for an organization seeking to reach its online audience precisely because blogging tools enable conversations, i.e. authentic, responsive, individual voices.
+
+The significant common factor isn't the underlying blogging technology, but how you approach your online audience.  Do you hand down stone tablets from the mountaintop?  Or do you speak in a genuine, human voice...and ask questions...and respond to questions asked of you?  If your answer is "Yes, all of the above" then you're engaged in an effective conversation with your online audience, and whether you're using a "blog" or not is irrelevant.  If your answer is "No," then you're irrelevant (or you soon will be) and a "blog" won't save you from the scrap heap.
+
+(Damn, I'm feisty tonight!  That's right, I said "scrap heap!")
+

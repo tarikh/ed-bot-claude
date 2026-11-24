@@ -1,0 +1,37 @@
+---
+title: The Politics of Software
+url: https://edbatista.com/2005/06/convio_one_more.html
+slug: convio_one_more
+published: 2005-06-13T11:30:20
+updated: 2005-06-13T11:30:20
+source_body: wordpress-html
+---
+
+I've appreciated Bobby Clark's well-reasoned series of posts at ProgressNow (see Parts One and Two) on the Convio/Alliance for Marriage (AFM) controversy, and I think he has some valuable things to say in Part Three as well, but he ultimately sidesteps the issue of whether a boycott of Convio is called for or not (even as he criticizes DailyKos for endorsing one.)  While Clark initially says, "this isn't as simple as I'd like to think that it is," suggesting that a boycott is too crude a tool to resolve such a complex issue, he concludes by saying, "I hope I live to see the day when my dream of equality becomes real. In the meantime, we're all left to choose a side. Even businesses," suggesting that a boycott just might be the right thing to do.
+
+The always-thoughtful Jon Stahl weighs in on the comments following my last post on the subject:
+
+I quite agree that the issue isn't about whether Convio's software/pricing is any good. It's whether progressive nonprofits want to do business with a firm that is willing to do business with not-so-progressive nonprofits -- when there are more-progressive alternatives available. It's one factor for clients to weigh as they evaluate tools.
+
+Where Bobby wrestles himself to the ground with his on-the-one-hand, on-the-other-hand reasoning, Jon's a little more forthright.  Not intemperate, but direct.  To his credit, he's made me realize that I myself have been sidestepping the issue of whether a boycott is warranted; unfortunately, I think he's wrong.  [Well, not exactly--see my Amplification below.]
+
+As I've written before, I don't support the AFM, I'd like to see them go out of business, and I wish Convio hadn't taken them on as a client.  But all that said, if I'm considering whether a nonprofit should use a certain company's software to help them advance their mission, how much weight should I give to factors beyond the software's actual performance (such as the company's other clients)?  In other words, does software have political values?
+
+Kos (predictably) takes an inflammatory, all-or-nothing position.  You're either with us, or you're agin' us...and if you're agin' us, screw you and your goddamn software. Bobby Clark looks at both sides of the issue and seems to suggest that, although it's unfortunate, we have to choose sides--and that just may mean choosing not to do business with a company like Convio who has chosen to to business with our opponents.  Jon simply says it's a data point--not dispositive in and of itself, but something to consider.
+
+I think you should simply select the best tool for the job, without worrying about who else is using it.  (I recognize there are some limits here.  It's helpful to have a user base of organizations that share your values, to make it easier for you to share lessons learned.  But that's at the margins and not really a first-order consideration.)  Ultimately, if the software under consideration is effective and efficient, than GLAAD could use it as just as well as AFM.   In fact, if it's such good software, it would be irresponsible for GLAAD not to use it.
+
+This doesn't get Convio off the hook entirely.  Kate Kaye quotes GetActive CEO Sheeraz Haji in her well-written Personal Democracy Forum article on the their 'internal client conflict policy': "We consider what is best for our business, based primarily on how a potentially controversial prospect will affect our existing clients, staff, and our reputation."  Which I read to mean that GetActive considers whether their current clients would be unhappy or whether the company would attract unwanted publicity if they took on a certain new client...like AFM.  Perhaps that's the realpolitik of software.
+
+So while I idealistically wish that Convio weren't working on behalf of AFM, and I cynically question their wisdom for taking on a client that was likely to become a PR headache, I categorically reject a Convio boycott because I reject the idea that Convio is responsible for the uses to which AFM puts their software.
+
+Amplification: I mulled all this over last night, and there are three points I'd like to add.  First, I think Jon and I agree in principle, although we might reach different conclusions in practice.  Nonprofits should take a look at a potential provider's client base as one factor among many in determing whether the provider would be a good fit for their needs.  I'd de-emphasize the ideological aspects of that analysis and instead ask more practical questions: Are the other users performing similar tasks with that software?  Will you be able to share lessons learned with that user base?  Will you be able to make common cause with them and exert pressure on the vendor, if necessary?
+
+Second, my opposition to a boycott is also rooted in a belief that the concept simply isn't practical when applied to a provider of enterprise-level services that are highly complex, carry significant switching costs, and are offered by a limited number of competitors.  In that context, customers could wind up bearing an even bigger burden than the target of the boycott--if they're current customers who decide to switch, they'll be imposing huge costs on their organization while having a minimal impact on the larger debate, and if they're potential customers who publicly rule out one provider as an option, they'll have less negotiating power with competitors.  It might make bloggers on the sidelines feel good to yell, "Boycott!" but it's irresponsible behavior if you're actually in a position to advise nonprofits on their technology choices.
+
+And finally, I recognize that I haven't found an effective (rather than symbolic) answer to the question of how to respond to Convio's decision to serve AFM if, as I do, you'd like to see AFM go out of business.  Ultimately, I think the only thing to do is to get out there and compete in the marketplace of ideas--raise more money, mobilize more advocates, have a greater impact on private behavior and public policy.
+
+Full disclosure: My employer also provides technology-related services to nonprofits, and although we have no financial relationships of any sort with Convio, we have recommended their software to some of our clients and have collaborated with them to serve mutual clients.  I know several Convio employees, but I have no personal relationship with any of them.
+
+convio getactive
+

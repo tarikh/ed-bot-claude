@@ -1,0 +1,45 @@
+---
+title: Can't Decide? Flip for It
+url: https://edbatista.com/2016/03/cant-decide-flip-for-it.html
+slug: cant-decide-flip-for-it
+published: 2016-03-22T05:00:00
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+In my work as a coach I'm often asked to help clients wrestle with big decisions, and I typically advise people to stop worrying about them. I'm not being flippant--to paraphrase former Sun Microsystems CEO Scott McNealy, "It's important to make good decisions. But I spend much less time and energy worrying about 'making the right decision' and much more time and energy ensuring that any decision I make turns out right."
+
+My attitude stems in part from the fact that by the time a client brings a decision to a coaching conversation, it's likely that they're weighing two equally good options that offer significantly different sets of pros and cons--what we call a tradeoff decision. At this point the answer isn't going to be found in the data. The individual has already made lengthy lists and gone over the various tradeoffs endlessly, and they still can't make up their mind.
+
+The answer is to stop using the mind--or, more specifically, to break the logical logjam by abandoning reason. I tell my client that we're going to conduct a thought experiment to which they need to fully commit themselves: They're going to flip a coin and allow the random outcome of that coin toss to determine this decision. Heads, they take the job in New York; tails, they stay in San Francisco. Heads, they accept the offer for their company; tails, they turn it down. Heads, they fire that difficult VP; tails, they give them another chance. The bigger the decision, the higher the stakes, the more important it is to psychologically commit to the experiment--to be prepared to allow a random event make the decision for them.
+
+This makes most clients feel ambivalent--it seems childish to evade responsibility for making the call, and yet the idea of letting fate take the decision out of their hands offers a sense of respite. But they usually agree to try it. So they flip the coin, there's a moment of intense anticipation, they reveal whether it's heads or tails... And just as their "decision" is made clear, I ask them, "How do you feel?" Typically they're experiencing one of two emotions: relief or regret. And that reaction tells them what the real decision should be. [1]
+
+There's a connection here with the conceptual model of System 1 and System 2, a way of "thinking about thinking" that was popularized by Nobel Prize-winning psychologist Daniel Kahneman [2], but which was originally coined a decade earlier by Keith Stanovich and Richard West [3]. This model suggests that we possess two distinct, parallel systems for reasoning: System 1 is automatic, unconscious, fast, and cognitively efficient, while System 2 is controlled, conscious, relatively slow, and cognitively burdensome. It's inaccurate to characterize System 1 as "emotion" and System 2 as "reason," because emotion plays a role in both processes. As Kahneman has written, "System 1 continuously generates suggestions for System 2: impressions, intuitions, intentions, and feelings. If endorsed by System 2, impressions and intuitions turn into beliefs, and impulses turn into voluntary actions. When all goes smoothly, which is most of the time, System 2 adopts the suggestions of System 1 with little or no modification." [4]
+
+In one of the responses to their paper, Stanovich and West describe the work of numerous colleagues who, "conceptualized emotions as interrupt signals supporting goal achievement. They see emotions as System 1 constructs that are particularly important in the characterization of systems whose behavior is governed by neither fixed action patterns nor impeccable rationality... The basic idea is that emotions serve to stop the combinatorial explosion of possibilities that would occur if an intelligent system tried to calculate the utility of all possible future outcomes." [5]
+
+In other words, emotions can serve as crucial inputs in the decision-making process, serving as biasing mechanisms that help us choose when the possibilities are too numerous or complex to for us to rely upon reason alone. [6] This isn't to say that emotions are always an accurate guide to the best decision, of course, but in the situation I've described here, the problem isn't an excess of emotion, but its opposite--insufficient emotion that's needed as an "interrupt signal" to break through the logical logjam.
+
+The drama of the coin flip--the uncertainty of the outcome and even the momentary thrill of irresponsibility that it fosters--creates a heightened emotional moment that allows us to tap into deeper System 1 impulses that can augment and inform--or disrupt--System 2.
+
+ 
+
+ 
+
+Footnotes
+
+[1] This method of decision-making is widely attributed to Freud, although I can't find a shred of reliable evidence. Still, it makes for a charming story.
+
+[2] Thinking, Fast and Slow (Daniel Kahneman, 2011)
+
+[3] Individual differences in reasoning: Implications for the rationality debate? (Keith Stanovich and Richard West, Behavioral and Brain Sciences, 2000)
+
+[4] Of 2 Minds: How Fast and Slow Thinking Shape Perception and Choice (Daniel Kahneman, Scientific American, 2012 [an excerpt from Thinking, Fast and Slow])
+
+[5] Stanovich and West.
+
+[6] Antonio Damasio on Emotion and Reason
+
+Photo by Marcy Leigh.
+

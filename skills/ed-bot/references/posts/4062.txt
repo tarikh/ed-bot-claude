@@ -1,0 +1,93 @@
+---
+title: The Truly Strategic People Leader
+url: https://edbatista.com/2020/06/the-truly-strategic-people-leader.html
+slug: the-truly-strategic-people-leader
+published: 2020-06-29T05:00:00
+updated: 2025-10-08T20:42:57
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs of growing companies, and most of them have a senior leader who's responsible for "people issues" in the organization: recruiting, hiring, training, retention, compensation and development, in addition to basic HR compliance and administration. Sometimes this role is awarded a C-level title--Chief People Officer--but more commonly it's Head of People or VP of People Operations. CPOs generally report to the CEO, but VPs and functional heads often report to a COO, CFO or another executive. And sometimes the senior leader ultimately responsible for people issues has a range of other responsibilities as well, in which case their title may be COO, SVP of Operations, or something similar. Whatever the title in a given organization, this is the role I'm referring to as a "People Leader."
+
+A common theme in my practice is helping CEOs reflect on the composition and performance of their executive teams, including their People Leaders, and I've had several clients who served in these roles themselves, so I've spent a significant amount of time considering the role of People Leader and assessing their impact and effectiveness. I've worked with a number of CEOs who hired or developed a truly strategic People Leader. I've worked with many more who were aiming for this goal. And I've worked with a few who had to terminate an inadequate or even toxic People Leader. All this has given me a perspective not only on the role of the People Leader, but also on the state of the People function in growing companies, why companies can lag in this area, and how to catch up when they fall behind.
+
+1. What makes a People Leader strategic?
+
+A truly strategic Chief People Officer is an incredible asset to a CEO. Consigliere, data maven, culture champion, team coach, senior closer. Note that tapping this power entails not only hiring a strategic THINKER, but also positioning People as a strategic FUNCTION.
+
+— Ed Batista (@edbatista) January 9, 2019
+
+Consigliere means "council member" in Italian, but the term was popularized in English decades ago by The Godfather and today refers to someone who serves as a trusted senior advisor to the head of an organization. A theme in my work with CEOs is that it's often a lonely job, and this can be heightened in later stages of the company's development as early employees are replaced by more experienced leaders. This transition makes the organization more effective, but it can also leave the CEO surrounded by highly skilled and ambitious people they barely know. While the CEO must develop good working relationships with these new C-level executives, in this context a truly strategic People Leader can play a special role as a thought partner and confidante.
+
+Data Maven: While effectiveness in the role obviously depends upon on strong interpersonal skills, that capacity is necessary but insufficient for strategic People leadership. As a company grows larger and more complex, the CEO will rely heavily on their People Leader's ability to manage engagement surveys, performance assessments, and periodic review platforms. The People Leader must not only oversee the process of selecting and deploying these tools, but to truly add value they need be able to help the CEO and other leaders interpret and act upon the resulting data. To play an even more strategic role, the People Leader should be able to understand and analyze relationships among the data from these sources and data derived from other areas of the business. And all of this entails the ability to assess statistical reliability, validity, and the extent to which general conclusions can be drawn from a given data set or body of research.
+
+Culture Champion: As I've noted before, "leaders are expected to scrupulously adhere to the organization's cultural norms and values, and their behavior is scrutinized for deviations." [1] This applies first and foremost to the CEO, but the next person under the microscope is often the company's senior People Leader. When leaders' behavior fails to conform with stated norms and values, employees rightly view the People function with distrust and cynicism. This is a common problem, of course--there's a reason why the Dilbert comic strip satirizing organizational life employs the villainous character Catbert as the director of human resources. [2] But when a company strives to live up to its stated commitments the senior People Leader can play a major role in championing productive behavior, both at the executive level and among employees. (A prominent example is Patty McCord, Chief Talent Officer at Netflix from 1998 to 2012. [3]) This requires an exceptional degree of personal probity on the part of the People Leader--a willingness to hold themselves to high standards, non-defensiveness in response to critical feedback, and a willingness to learn from their inevitable missteps.
+
+Team Coach: One of a CEO's most important tasks is managing the executive leadership team. [4] And as a company grows the people occupying the roles that comprise this team tend to change in ways that make them both easier and more difficult to manage. Experienced executives have generally learned to take feedback well and handle conflicts effectively. But they're also intensely ambitious and competitive, and they may put the interests of their individual careers or functional areas ahead of those of the company. It's equally true that as a company grows senior executives can find it difficult to influence a successful, prominent CEO or to enact necessary changes in established team norms. [5] A People Leader can act as an internal coach to all parties by observing and acknowledging communication patterns, by offering guidance and feedback, and by facilitating events and discussions aimed at improving team dynamics. But the essential quality here is trust, and the truly strategic People Leader grasps the vital necessity of ensuring that all parties have faith not only in their judgment but also in their intentions. [6]
+
+Senior Closer: Another critical responsibility of the CEO is making the final call on candidates for senior leadership roles, but here, too, a strategic People Leader can be an important ally in the process of sourcing, vetting and closing top prospects. Executive searches are expensive, lengthy processes, and an inability to close a desired candidate at a critical moment can be a costly failure for a growing company. Other members of the leadership team have a role to play in this process, but only a strategic People Leader is positioned to help both the CEO and the candidate reach agreement on issues such as scope, title, and compensation.
+
+But if what I'm describing here is the ideal scenario, it's clear that the reality in many companies looks quite different.
+
+2. Why do companies fall behind?
+
+Many CEOs will tell you that their employees are the company's most valuable resource, and yet many do not have a strategic People Leader--or they have one who's not treated that way. Why the gap between rhetoric and reality? In my experience companies get caught by surprise by the rapidly escalating complexity of People management, they fall behind in the development of a strategic People function, and it can be very difficult to catch up.
+
+As I note above, the effectiveness of the People Leader depends not only on their individual capabilities, but also on the extent to which the organization views People as a strategic function. And yet in the early stages of a company's development, it can be a poor use of limited resources to invest too heavily in the People function. Many startups understandably view HR as a hygiene factor--it's needed to ensure compliance with legal and regulatory obligations, and it provides employees with reliable payroll, access to benefits, and other essential services, but it does little to boost the company's competitive advantage or employees' intrinsic motivation.
+
+As a consequence HR becomes associated with other non-strategic administrative or operational elements in the organization. Early-stage HR administrators often split duties across functions--they're the Director of Operations, or even the Office Manager--or HR is outsourced to a third-party. This makes sense--until suddenly it doesn't. As I've written before, we're often unprepared for "the problems of success":
+
+We're usually at least somewhat prepared for things to go badly. We consider the various ways a given effort might fail; we assess the likelihood of failure; and we develop a set of contingency plans in accordance with those possibilities. But we can be caught by surprise when things go well. It's as if our negativity bias blinds us to the possibility that a given effort might not only succeed but even surpass our expectations. And then we find ourselves scrambling to cope with the various complications that result--the problems of success. [7]
+
+And it's the problems of success that often cause a company to fall behind in the transition from a compliance-oriented HR function to a truly strategic People function. Growth surges and fundraising goes better than expected, leaving an organization constrained not by insufficient demand or insufficient capital, but by insufficient talent, and there's a mad scramble to scale up. This entails not merely hiring more people, but hiring different people--experienced managers, senior executives, people with new skills that the organization hasn't needed in the past.
+
+This is where a compliance-oriented HR function rapidly becomes inadequate. Hiring managers lack the capacity or the expertise to screen prospects and close top candidates. Few aspects of the company culture have been made explicit, so new hires must discover the de facto norms and values for themselves, and onboarding is a shambles. Clear metrics to assess performance and tools to gather the necessary data are nonexistent, so underperformers are not identified (or, worse, retained because the hiring pipeline is barren.)
+
+Of particular importance in this context are issues related to diversity and inclusion. Early-stage companies often hire from personal networks, which can result in a workforce that essentially replicates itself. An organization seeking to recruit talent from a broader range of sources must not only improve hiring practices but also create a culture of belonging that acknowledges employees' multiple social identities while also fostering a company-wide sense of community. A compliance-oriented HR function will help mitigate discriminatory practices, but it won't necessarily contribute to a truly diverse workforce or an inclusive environment, nor will it take the initiative to establish equitable compensation structures.
+
+The CEO faces a special set of hiring and management challenges in a fast-growth environment. Senior executives come with high expectations, rendering negotiations around scope, status, title and compensation much more complex. [8] Top candidates for senior roles rarely need the job--the cost to them of making a sub-optimal career choice is usually much higher than waiting a few more months (or even years), so the process of closing them can be fraught and subject to failure. [9] And after senior executives have successfully been recruited, the CEO has to figure out how to lead and manage a group of people who may know more about their domains than the CEO does. A compliance-oriented Director of HR isn't going to be much help with any of this.
+
+3. How can companies catch up?
+
+The bad news is that it's very difficult to catch up quickly--the good news is that a number of steps can help a company avoid falling behind in the first place (or at least minimize the damage.)
+
+An obvious way to catch up is to simply hire an experienced People Leader with a mandate to upgrade the People function--but these individuals are relatively rare to begin with, and the ones willing to take on the task of transforming HR are even rarer. Making this hire successfully entails not only an extensive search, but also committing the resources necessary to attract top candidates. An alternative is to invest in a more junior person and empower them to grow into the role--this will inevitably take more time and increase the risk of failure, but it may be the only option for a mid-stage company that can't attract a proven candidate.
+
+But just as the best time to plant a tree was 20 years ago, the best way to catch up is to avoid falling so far behind in the first place. This requires the CEO to pay attention not only to the individual capabilities of their People Leader, but also to how they and their function are positioned within the organization. Expedient solutions in this area usually carry long-term costs, and any steps that position HR as a non-strategic function should be viewed as a form of "cultural debt." [10] It may still make sense, for example, for an early-stage startup to outsource HR or to delegate it to an Office Manager, but eventually that bill will come due and the cost of upgrading the People function (literal and figurative) will only increase over time. The prudent CEO will not allow expedient measures to dictate strategy for very long. [11]
+
+The People Leader's title and reporting line also send important messages regarding the value of their function. A Chief People Officer or VP of People who reports to the CEO is much more likely to play a strategic role than a Director of HR who reports to the COO or CFO. The relationship of the senior People Leader to the executive leadership team is also meaningful--in some companies they're a full-fledged member, while in others they occupy a lower-status auxiliary role, and in still others they merely provide occasional input.
+
+I'm not suggesting that every company needs to have a Chief People Officer or that the senior People Leader (whatever their title) must be viewed as the equivalent of a CTO or CFO at every stage of a company's development. Again, over-investing in this role too soon may be a poor use of limited resources. But a CEO who truly believes that employees are the company's most valuable resource and who wants a People Leader who's a strategic partner will pay close attention to the broader organizational context and actively promote the status of the role rather than inadvertently diminish it.
+
+The effective CEO will also attend closely to this working relationship, particularly if they're seeking to develop an less experienced leader who shows potential. A strategic People Leader must maintain a balance among a number of competing priorities and sets of stakeholders. They will be a party to innumerable interpersonal conflicts and power struggles, and yet they must remain above the fray. They will be privy to a vast amount of confidential information, some of which will trigger an ethical or legal duty to disclose. They must be trusted by everyone--including the Board. And they must be able to speak truth to power, with firmness and grace. But none of this occurs in a vacuum. These qualities will be heavily influenced by their relationship with the CEO and the extent to which they feel empowered by the CEO to act accordingly.
+
+Footnotes
+
+[1] Leader as Avatar
+
+[2] Catbert Comic Strips (Scott Adams, 1995-2020)
+
+[3] How Netflix Reinvented HR (Patty McCord, Harvard Business Review, 2014)
+
+[4] Three Buckets (On CEO Job Descriptions)
+
+[5] Rules Aren't Norms (On Better Meeting Hygiene)
+
+[6] Two Sides of Trust
+
+- For another view on the elements of trust, see Brené Brown's BRAVING framework [PDF].
+
+[7] The Problems of Success
+
+[8] List-Price vs. Haggling (Culture, Compensation and Negotiation)
+
+[9] When Offers Fall Apart
+
+[10] The Accumulation of Cultural Debt
+
+[11] Don't Wait
+
+Thanks to Anita Grantham, Daniel Heller, Holly May, and Liz Kosinski.
+
+Photo of Quan Am, the Vietnamese boddhisattva of compassion, by art@aditi.
+

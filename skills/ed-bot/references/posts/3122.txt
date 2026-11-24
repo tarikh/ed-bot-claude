@@ -1,0 +1,21 @@
+---
+title: The New PR
+url: https://edbatista.com/2005/02/the_new_pr.html
+slug: the_new_pr
+published: 2005-02-14T09:05:00
+updated: 2005-02-14T09:05:00
+source_body: wordpress-html
+---
+
+It's too easy to bust on Microsoft--so today, a bouquet.  Thanks to Jeff Jarvis and The Economist, I recently learned about Robert Scoble, a techie and well-known blogger who's now employed by Microsoft as "technical evangelist."
+
+In this capacity, Scoble's basically an in-house blogger--sort of a corporate ombudsman, to use an old newspaper term.  He has an insider's access, but writes from an outsider's perspective--well, as outside as you can get when you're on the payroll.
+
+According to The Economist, Scoble has "succeeded where small armies of more conventional public-relations types have been failing abjectly for years: he has made Microsoft, with its history of monopolistic bullying, appear marginally but noticeably less evil to the outside world, and especially to the independent software developers that are his core audience. Bosses and PR people at other companies are taking note."  In fact, Bruce Lowry, Director of PR for Novell, "can imagine blogs completely replacing press releases within ten years."
+
+So far, so good.  Blogs are (or at least appear to be) immediate and spontaneous, honest and personal--everything that traditional PR is not.  And that's what makes them powerful tools in corporate communication efforts.  But those boring press releases and and staged events are that way for a reason--spontaneity and honesty can get you in trouble.
+
+Stanford Law prof Joseph Grundfest, quoted in The Economist, says its "only a matter of time" before blogging missteps lead to lawsuits.  And Googling "fired blogger" yields 412,000 hits, in the wake of the high-profile firing of UK blogger Joe Gordon by bookseller Waterstone's.  (Guess they haven't heard about the new transparency.)
+
+Microsoft's clearly ahead of the curve on this trend and deserves credit for their efforts.  But will the lawyers shut down the party before it gets out of hand?  Will "official bloggers" become co-opted and morph into online flacks?
+

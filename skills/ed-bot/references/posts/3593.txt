@@ -1,0 +1,11 @@
+---
+title: Today in San Francisco
+url: https://edbatista.com/2009/04/today.html
+slug: today
+published: 2009-04-19T17:08:31
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+Nearly as many boats in the Golden Gate as sunbathers on Ocean Beach, thanks to an unusually warm and cloudless day.  Not a bad day to be alive, and I'm grateful for the opportunity to be here.
+

@@ -1,0 +1,145 @@
+---
+title: Compliance vs. Commitment (On Behavior Change)
+url: https://edbatista.com/2023/05/compliance-vs-commitment-on-behavior-change.html
+slug: compliance-vs-commitment-on-behavior-change
+published: 2023-05-07T13:34:29
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+At times a gap emerges between a leader's expectations and employees' behavior, and a theme in my practice is the question of how to close such gaps when they occur. Sometimes this entails adjusting a leader's unrealistic expectations, but most of my clients are striving to achieve something that's both ambitious and novel, and allowing the status quo to determine what's "realistic" may guarantee failure.
+
+So in many cases the challenge is how to influence employees to modify their behavior in order to make it more likely that a meaningful stretch goal will be accomplished. This need not be limited to financial or technical milestones--it includes all efforts to develop a more functional organization. Broadly speaking, there are two very different ways to accomplish such behavior change: enforce compliance or build commitment.
+
+Enforcing compliance is easy at first, but it becomes more difficult with time. People comply when they're either threatened with punishment or promised a reward. This is initially easy because some punishments and rewards are inexpensive and readily at hand: the leader's disapproval or approval, a reprimand or praise, the loss of a bonus or a minor bump in status or compensation.
+
+But this approach imposes increasing costs on both leaders and employees. People comply when they're being policed, which requires management to expend time and effort identifying violations--which people will be motivated to conceal. Many people will find such oversight heavy-handed and resent it, and the best people--who have the most options--will tend to leave.
+
+Further, the punishments and rewards themselves become more costly, both literally and figuratively. When disapproval and reprimands fail, the next steps are reassignment, demotion and, eventually, termination. When praise grows stale and the impact of minor bumps wear off, more effusive praise and major bumps are required.
+
+Even more fundamentally, enforcing compliance fails to address any resistance to the leader's expectations. Debate is stifled via threats and bribes, differing points of view are squelched, and resistance goes underground. Compliance ultimately relies on coercion, and people comply because they fear further and more severe punishments, or they fear the end of the gravy train and the loss of future rewards.
+
+I'm not suggesting that there's no place for compliance in organizational life. We rely on compliance all the time, but it works when there's a shared consensus on 1) what constitutes expected behavior and violations of same, and 2) the appropriate response for various violations. This is most apparent where organizational life meets the legal system, and a host of laws and regulations set out expectations for leaders and employees alike. Violations are met with punishments such as fines or imprisonment. The reward for compliance is simple: you keep your money and your liberty.
+
+But in most of the situations I discuss with clients there's no applicable legal or regulatory structure, nor is there a shared consensus on expectations for behavior. In fact, it's the absence (or breakdown) of such a consensus that typically leads a client to raise the issue with me. How do we define excellence or best effort? How much time and what resources should be allocated to a given task or initiative? What constitutes a productive company culture?
+
+Trying to resolve these challenges by enforcing compliance is often unsustainable and at times utterly impossible. But there's another way: building commitment. When people are compliant, they're essentially passive figures responding to external pressure and unlikely to expend further effort once a minimum threshold has been attained. But when they're committed, they're active agents who are internally motivated to take initiative and will draw upon their full capabilities to achieve--and surpass--a goal.
+
+Enforcing compliance is relatively mechanical, reducing human motivation to avoiding punishments and obtaining rewards. In this regard it reflects the industrial-era managerial philosophy that M.I.T. professor Douglas McGregor dubbed "Theory X" [1], which "assumes that people dislike work and must be coerced, controlled, and directed toward organizational goals." [2]
+
+Building commitment is a far more complex undertaking, but it's also far better-suited to the management of contemporary knowledge workers. And in this regard it's aligned with what McGregor called "Theory Y" [3], which "emphasizes the average person’s intrinsic interest in his [sic] work, his desire to be self-directing and to seek responsibility, and his capacity to be creative in solving business problems." [4]
+
+There's also a relationship with the distinction that psychologist Frederick Herzberg made between intrinsic and extrinsic motivation on the job. [5] Herzberg's research suggests that job satisfaction and dissatisfaction aren't endpoints on a single spectrum, but two distinct scales. Satisfaction is derived from sources of intrinsic motivation such as a sense of achievement, recognition, responsibility, and opportunities for growth.
+
+In contrast, sources of extrinsic motivation (also known as "hygiene factors") such as working conditions, compensation, status, and security generate dissatisfaction if they're perceived as inadequate. Compliant people remain so only as long as they aren't too dissatisfied, but the absence of punishment and the promise of rewards doesn't generate sustained motivation. Committed people are motivated, and the fulfillment they find in the pursuit of their aims makes them more likely to persist in the face of difficulties.
+
+As noted above, it gets more difficult and expensive to apply the right mix of punishments and rewards necessary to obtain compliance. Commitment is also costly, but more than money it requires other equally precious and limited resources, most notably the leader's time, attention and creative energy. So what does this look like in practice? How does a leader build commitment?
+
+Dialogue
+
+There's a reason why we use the phrase "disagree and commit." [6] So the first step is ensuring an open dialogue in which disagreements can be aired and a range of factors addressed: the leader's expectations, employees' existing behavior, any gaps that exist between the two, potential explanations for said gaps, the organization's relevant goals, and the assumption that alternative behaviors will increase the likelihood of successful outcomes.
+
+This inevitably requires a willingness on the leader's part to have some tough conversations in which resistance to their expectations can be safely expressed and explored. That doesn't mean leaders must defer to any resistance. But the absence of a free-flowing dialogue in which disagreement is welcomed ensures that any efforts to motivate behavior change will eventually default to enforcing compliance, whatever the leader's intentions.
+
+Influence
+
+Engaging in a dialogue presents a leader with opportunities to exert influence. And note the distinction between influence and coercion--the latter relies upon a simplistic formula of threats and rewards to induce behavior change, while the former is a much more nuanced process. The leader seeking to exert influence acknowledges and respects others' right to choose and expends time and effort to win them over.
+
+This doesn't mean that people are free to opt out with no consequences. Rejecting the leaders' expectations may result in a loss of opportunities, a reassigned role, or expulsion from the organization. But the leader who is seeking to build commitment through influence will make these consequences clear at the outset (or restore clarity when it's been lost), so that people can make both positive and negative choices with full awareness and agency.
+
+Work by psychologist Robert Cialdini identifies six factors that make us more (or less) open to another's influence. [7] While it may take years to master these principles, simply understanding Cialdini's framework provides a leader with a starting point to guide their efforts:
+
+- Likeability: We respond to people who convey warmth.
+
+- Reciprocity: We repay favors.
+
+- Social proof: We follow others' example.
+
+- Consistency: We strive to live up to stated commitments.
+
+- Authority: We defer to experts and authoritative figures.
+
+- Scarcity: We're anxious about potential losses or insufficiency.
+
+Norms
+
+The leader's aspiration is to have their expectations result in a set of behavioral norms, which are "social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave." [8] But it's important to recognize that compliant people have not adopted the leader's expectations as norms--they've adopted the norm of doing whatever it takes to avoid punishments and obtain rewards. When punishments and rewards no longer suffice (or grow too costly to implement), compliance will vanish.
+
+In contrast, committed people have adopted the leader's expectations as norms, and in so doing have come to internalize such expectations as their own--very possibly because engaging in open dialogue enabled them to influence the leader as well. And it's absolutely futile to try to establish norms in the absence of dialogue and mutual influence. The results aren't norms at all, but merely a set of rules, and we only follow rules when we're being policed--which brings us right back to compliance and coercion.
+
+But even arriving at a set of shared beliefs about how people should behave isn't necessarily sufficient to cause people to feel obligated to act accordingly. We've all participated in groups and organizations that proclaimed a lofty set of values that everyone agreed with in principle but were routinely ignored in practice--the proverbial "plaque on the wall." Once the dialogue and influence process has yielded a set of shared beliefs, what else is needed to transform those beliefs into norms?
+
+- Sufficient mutual esteem among members so that its withdrawal would be felt as a loss by any individual.
+
+- A willingness by members to openly acknowledge a norm violation by a peer.
+
+- A willingness by members to withhold esteem from a peer as a consequence of a norm violation.
+
+I define this as a high-accountability, high-empathy culture. [9] It's not merely a high-accountability culture, in which people are harshly punished for their lack of compliance, nor it is a merely high-empathy culture in which people are richly rewarded for following the rules. In such a setting leaders do very little policing at all--instead, employees hold themselves accountable because of their shared beliefs regarding productive behavior coupled with their desire to avoid the loss of mutual esteem.
+
+Again, all of this takes ample amounts of time, attention, and creative energy--and even many well-intentioned leaders are unable or unwilling to make these investments, so they wind up relying upon compliance. Which works, until suddenly it doesn't.
+
+ 
+
+This is a companion piece to the following:
+
+- Hard Problems in Soft Cultures
+
+- Accountability and Empathy (Are Not Mutually Exclusive)
+
+- Rules Aren't Norms (On Company Values)
+
+FOOTNOTES
+
+[1] "The Human Side of Enterprise," page 6 (Douglas McGregor, Leadership and Motivation, 1966):
+
+With respect to people, [Theory X management] is a process of directing their efforts, motivating them, controlling their actions, modifying their behavior to fit the needs of the organization. Without this active intervention by management, people would be passive--even resistant--to organizational needs. They must therefore be persuaded, rewarded, punished, controlled--their activities must be directed... Behind this conventional theory there are several additional beliefs--less explicit, but widespread:
+
+- The average man is by nature indolent—he works as little as possible.
+
+- He lacks ambition, dislikes responsibility, prefers to be led.
+
+- He is inherently self-centered, indifferent to organizational needs.
+
+- He is by nature resistant to change.
+
+This essay is McGregor's best-known and most influential work--it originated as a speech on the Fifth Anniversary of the School of Industrial Management at MIT (later known as the Sloan School) in 1957, and was published in the American Management Association's Management Review in November of that year. It subsequently formed the basis of his 1960 book The Human Side of Enterprise. My citations here are from a posthumous collection of McGregor's work issued by MIT two years after his death to commemorate his contributions.
+
+[2] Beyond Theory Y (John Morse and Jay Lorsch, Harvard Business Review, 1970)
+
+[3] McGregor, pages 15-16:
+
+People are not by nature passive or resistant to organizational needs. They have become so as a result of experience in organizations.
+
+The motivation, the potential for development, the capacity for assuming responsibility, the readiness to direct behavior toward organizational goals are all present in people. Management does not put them there. It is a responsibility of management to make it possible for people to recognize and develop these human characteristics for themselves.
+
+The essential task of management is to arrange organizational conditions and methods of operation so that people can achieve their own goals best by directing their own efforts toward organizational objectives.
+
+This is a process primarily of creating opportunities, releasing potential, removing obstacles, encouraging growth, providing guidance. It is what Peter Drucker has called "management by objectives" in contrast to "management by control."
+
+And I hasten to add that it does not involve the abdication of management, the absence of leadership, the lowering of standards, or the other characteristics usually associated with the "soft" approach under Theory X.
+
+[4] Morse and Lorsch, HBR.
+
+[5] One More Time: How Do You Motivate Employees? (Frederick Herzberg, Harvard Business Review, originally published 1968, republished 2003)
+
+[6] While the principle of "disagree and commit" seems to have originated with Andy Grove or Scott McNealy, Jeff Bezos provided a useful definition in his 1997 letter to shareholders:
+
+Use the phrase "disagree and commit." This phrase will save a lot of time. If you have conviction on a particular direction even though there’s no consensus, it’s helpful to say, "Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?" By the time you’re at this point, no one can know the answer for sure, and you’ll probably get a quick yes.
+
+This isn’t one way. If you’re the boss, you should do this too. I disagree and commit all the time... [emphasis mine]
+
+[7] The most concise articulation of Cialdini's model can be found in this classic Harvard Business Review article: Harnessing the Science of Persuasion (2001). Cialdini discusses his work more thoroughly in Influence: The Psychology of Persuasion (2021, 3rd ed. / 1984, 1st ed.) He also explains the principles of persuasion on his own website. (On that page he adds a seventh principle--"unity"--but that was not an element in his original framework, and I omit it here.) For further reading:
+
+- The Language of Persuasion (Robert Cialdini, Harvard Business Review, 2008)
+
+- The Uses (and Abuses) of Influence (Robert Cialdini, Harvard Business Review, 2013)
+
+[8] From Rules Aren't Norms (On Company Values). (The section above on norms is adapted from this piece.)
+
+[9] Accountability and Empathy (Are Not Mutually Exclusive)
+
+ 
+
+Photos: Police car by Scott Davidson. Tug-of-war by Napat Chaichanasiri.
+

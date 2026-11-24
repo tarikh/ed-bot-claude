@@ -1,0 +1,29 @@
+---
+title: Cross-Cultural Communication: Individualism vs. Collectivism
+url: https://edbatista.com/2009/06/cross-cultural-communication.html
+slug: cross-cultural-communication
+published: 2009-06-22T08:04:13
+updated: 2025-10-20T13:28:00
+source_body: wordpress-html
+---
+
+How do cultural differences affect communications across a cultural divide?  Specifically, how does a culture's individual or collective orientation affect communications?
+
+I've written before about the primary dimensions of cultural difference identified by Geert Hofstede.  One of the key dimensions is individualism vs. collectivism, which Hofstede defines as follows:
+
+The degree to which people in a country prefer to act as individuals rather than as members of groups.  On the individualist side we find
+
+societies in which the ties between individuals are loose: everyone is expected to look after him/herself and his/her immediate family. On the collectivist side, we find societies in which people from birth onwards are integrated into strong, cohesive in-groups, often extended families (with uncles, aunts and grandparents) which continue protecting them in exchange for unquestioning loyalty. The word 'collectivism' in this sense has no political meaning: it refers to the group, not to the state.
+
+In Yes!: 50 Scientifically Proven Ways to Be Persuasive, Noah Goldstein, Steve Martin and Robert Cialdini talk about the impact of this cultural dimension on communications:
+
+People from collectivistic and individualistic cultures tend to differ in the relative weight they give to two central functions of communication.  In short, one function of communication is informational: When we communicate, we convey information to others.  A second, less obvious function of communication is relational: When we communicate, we help build and maintain relationships with others.  Although both functions are clearly important to people in all cultures, social psychologists Yuri Miyamoto and Norbert Schwarz argued that individualistic cultures place a greater emphasis on the informational function of communication, whereas collectivistic cultures place a greater emphasis on the relational function...
+
+What do these findings say about influencing others within and outside the workplace?  As we discussed in previous chapters, relationships are a key component to the persuasion process--but this is especially true with people from countries with collectivistic orientations... These results suggest that, when dealing with people from collectivistic cultures, it is particularly important to attend to aspects of the relationship that the two of you share...
+
+These findings also suggest that we should be especially vigilant about providing such feedback with people from collectivistic cultures, letting them know that we're attending to the relationship that we share with them as well as to the information they're trying to convey.
+
+A point I'd add is that within any national culture, there are innumerable sub-cultures associated with different regions, industries and even organizations.  And these sub-cultures may differ substantially along the primary dimensions of cultural difference, including individualism vs. collectivism.  So even--and perhaps especially--when communicating with someone from your own country, it's worth taking some time to understand where they fall along this spectrum and tailoring your communication style accordingly.
+
+(In addition to the research by Yuri Miyamoto and Norbert Schwarz in the Journal of Experimental Social Psychology referenced above, Goldstein, Martin and Cialdini also cite the work of Ron Scollon and Suzanne Wong Scollon in Intercultural Communication: A Discourse Approach.)
+

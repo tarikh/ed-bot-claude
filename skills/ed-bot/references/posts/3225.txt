@@ -1,0 +1,19 @@
+---
+title: Do It Yourself
+url: https://edbatista.com/2005/06/do_it_yourself.html
+slug: do_it_yourself
+published: 2005-06-08T08:00:00
+updated: 2005-06-08T08:00:00
+source_body: wordpress-html
+---
+
+When I was a kid, "Do It Yourself" referred to 1) punk and indie rock bands that pressed their own records (yes, actual vinyl) and toured the country in second-hand vans, sacrificing the advantages of being on a major label for the satisfaction of having total control over their music, and 2) homeowners who took hammer in hand and wreaked havoc, er, tackled home-improvement projects without the benefit of professional guidance, sacrificing a perfect finish for the satisfaction of doing it their way.  People everywhere have caught the DIY bug, and in the spirit of the 21st century, you don't have to make sacrifices to have it your way these days--in some cases you don't actually have to do it yourself at all.  Going by some recent posts I've seen, it's a veritable epidemic:
+
+- Virginia Postrel discusses Neil Gershenfeld's new book Fab, on low-cost, easy-to-use fabrication technologies (although she's sensibly skeptical about taking DIY too far, and notes the economic benefits of specialization); Eric von Hippel's Democratizing Innovation, on user-driven innovations in products and services; and O'Reilly's just-launched MAKE magazine, which claims that "all of us can learn to become makers, just as we might learn to cook or use woodworking tools."
+
+- But you don't even have to get your hands dirty--you can just tell someone to DIMY (Do It My Way): Grant McCracken jumps off from the same Postrel post to an ongoing column at Trendwatching.com on the rise of the "Customer-Made": "corporations creating goods, services and experiences in close cooperation with consumers, tapping into their intellectual capital, and in exchange giving them a direct say in what actually gets produced..." McCracken uses this as an opportunity to blow the doors off Trendwatching's, uh, trendy attempt to ride the coattails of C.K. Prahalad's The Future of Competition, which apparently tackled the same subject first and in greater intellectual depth, but called it "Co-Creation."  (I think Grant makes an excellent point, but Trendwatching still provides a very extensive and useful list of real-world examples of the practice.)
+
+- But you don't even have to be operating in the real world--you can now DIY online: Marnie Webb recently referred me to Greasemonkey, "a Firefox extension which lets you add bits of [code called "user scripts"] to any web page to change its behavior," a process aptly described as "remixing the web."  There's an astonishingly large library of user scripts that cover a wide range of functions.  This stuff isn't really ready for prime-time use by non-techies--I was dying to put a delete button on my Gmail page until I read that the script might cause my account to temporarily lock down.  But it could be huge if it were a little safer and easier to user, and sites are going to have to start taking user-driven personalization into account.
+
+diy do it yourself virginia postrel greasemonkey
+

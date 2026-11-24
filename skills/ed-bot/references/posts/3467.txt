@@ -1,0 +1,23 @@
+---
+title: Tarpits: Where Ideas Go To Die
+url: https://edbatista.com/2006/09/tarpits_where_i.html
+slug: tarpits_where_i
+published: 2006-09-18T05:00:00
+updated: 2025-09-24T11:59:46
+source_body: wordpress-html
+---
+
+I've found David Allen's "Getting Things Done" (GTD) system an incredibly helpful way to organize my work and be more productive while reducing stress. (That's not to say I use it effectively all the time--if I were that together, I wouldn't need GTD in the first place.) One of the foundations of GTD is the process of sweeping out all the places you store ideas and action items--your email inbox, your actual inbox, all your notebooks and various lists--and combining and prioritizing their contents in a single place.
+
+The problem is that we typically try to store and organize too many of these items in our head, and we don't do a very good job of it--we either fail to prioritize items appropriately because we're always looking at a partial list, or we forget items entirely, or we stress ourselves out trying to keep track of too many things at once. And GTD usually solves this problem.
+
+But I've discovered a few loopholes in my application of GTD, and I've come to think of them as tarpits. Tarpits are places where I'm storing ideas or action items without actually realizing it. Because I don't consider them "inboxes" or "lists," they escape my regular sweeps, and their contents pile up and stagnate.
+
+For example, my browser has become a tarpit. I typically use Firefox, which allows me to open multiple websites simultaneously and work on them in separate "tabs." I've customized Firefox with a plugin called Session Saver, which remembers the tabs I have open when I close the browser and re-opens them the next time I launch the browser.
+
+This is a great feature, up to a point--but when I'm keeping thirty (!) tabs open across multiple browsing sessions, I'm not using it appropriately; I'm stuck in a tarpit:
+
+So what to do? The first step is recognizing that new tools (and old tools' new features) are changing my productivity landscape. My browser isn't just an application that I turn on and off; it's also a de facto list of ideas and action items.
+
+And the next step is extending my concept of GTD to incorporate this new landscape. Regular GTD sweeps help me manage my email inbox and my notebooks and lists--now I need to include my browser tabs in that process (and I need to keep an eye out for other tarpits I've been stumbling into.)
+

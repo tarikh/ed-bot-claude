@@ -1,0 +1,13 @@
+---
+title: Team Effectiveness
+url: https://edbatista.com/2014/08/team-effectiveness.html
+slug: team-effectiveness
+published: 2014-08-25T21:05:18
+updated: 2025-09-24T11:59:30
+source_body: wordpress-html
+---
+
+Last week I conducted a workshop in San Francisco on Team Effectiveness with a group of senior managers at a technology company. They were able to acknowledge right from the start that their communication as a team could be improved, and in my experience that's always a positive (and important) sign.
+
+The condensed deck above includes the slides covering the various concepts we discussed, but the slides related to the exercises we conducted have been removed. Thanks to everyone who participated--I felt privileged to be there.
+

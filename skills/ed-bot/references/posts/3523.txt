@@ -1,0 +1,29 @@
+---
+title: Experiential Learning Cycles
+url: https://edbatista.com/2007/10/experiential.html
+slug: experiential
+published: 2007-10-21T13:06:59
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+(UPDATE: A more recent version of the slides below can be found at Experiential Learning Revisited.)
+
+According to Roger Greenaway, an experiential learning cycle is "a structured learning sequence which is guided by a cyclical model." The concept comes up regularly in my work involving leadership and interpersonal skills development at Stanford's Graduate School of Business and is a central component of our "Leadership Labs," a series of experiential learning activities that are now part of the school's mandatory core curriculum.
+
+The primary model we use is a 4-stage cycle derived from David Kolb's learning styles model: Act, Reflect, Conceptualize, Apply.
+
+ACT: Do something--anything, in fact. Run a meeting, give a presentation, have a difficult conversation. (One of the most valuable aspects of this model is the way in which it allows us to turn every experience into a learning opportunity. The challenge, of course, is that we rarely complete the cycle and leave most potential learning untapped.)
+
+REFLECT: Look back on your experience and assess the results. Determine what happened, what went well and what didn't.
+
+CONCEPTUALIZE: Make sense of your experience. Seek to understand why things turned out as they did. Draw some conclusions and make some hypotheses.
+
+APPLY: Put those hypotheses to the test. Don't simply re-act. Instead, have a conscious plan to do things differently to be more effective. And begin the cycle again.   
+
+My colleague Andrea Corney has noted the parallels between the experiential learning cycle as we typically define it (based on Kolb's work), and Roger Greenaway's Active Reviewing Cycle and Chris Argyris and David Schon's work on Theories of Action. These models aren't identical, but they're similar enough that they can be overlaid on a 4-stage cycle. I found Andrea's sketch so helpful that I turned it into the graphic below (and here's a larger version, as well as a 2-slide PowerPoint file.)
+
+But the value of these models isn't in their conceptual elegance--it's in their ability to help you be more effective in the world.  Applying them shouldn't be a time-consuming or difficult process, and in some cases it may involve nothing more than a few moments of thought after an experience and prior to its repetition. In other cases, you may want to use more formal methods to complete the cycle, such as keeping a journal, or holding feedback sessions with colleagues--whatever works best for you. The point is to recognize how much can be learned from our every experience and interaction, and to begin to capture more of that learning on a consistent basis.
+
+Andrea notes that an even simpler version of the experiential learning cycle underlies the more complex ones above (and here's a larger version of the graphic below):
+

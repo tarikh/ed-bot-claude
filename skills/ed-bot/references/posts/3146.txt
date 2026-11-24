@@ -1,0 +1,17 @@
+---
+title: Quick Fixes
+url: https://edbatista.com/2005/02/quick_fixes_.html
+slug: quick_fixes_
+published: 2005-02-19T12:07:30
+updated: 2005-02-19T12:07:30
+source_body: wordpress-html
+---
+
+Seth Godin has some sage words on problem-solving:
+
+Big fixes are sudden, certain and precise. They represent instant solutions to long-term problems.
+
+The thing is, they are usually less reliable, more expensive and more painful than a more organic, slower solution.
+
+As long as we need to show the boss (or our shareholders) that we're taking dynamic action, then the big gesture will remain supreme. Amazingly, the winners seem to be those that test and measure, live for the long haul and embrace small solutions that are easy to adjust.
+

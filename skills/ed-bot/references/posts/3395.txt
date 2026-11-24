@@ -1,0 +1,157 @@
+---
+title: Michael Goldhaber on Openness in an Attention Economy
+url: https://edbatista.com/2006/06/michael_goldhab.html
+slug: michael_goldhab
+published: 2006-06-10T12:36:21
+updated: 2026-10-27T11:20:02
+source_body: wordpress-html
+---
+
+Over the the course of 2006 I've been writing fewer posts about technology (blogging and dead laptops excepted) and more about management and leadership.  That's partly because I've been writing more intensively about technology on my "day blog" at AttentionTrust, the nonprofit where I serve as Executive Director.  But it's primarily because technology has always been just a means to an end for me--I only started caring about it in the mid-'90s, when I saw how it would help the social services organization where I worked be more effective and more efficient.
+
+What's far more important to me than technology is helping people fulfill their potential (starting with myself.)  I firmly believe that technology can play an important role in that process, but looking toward the future, I'm increasingly interested in such disciplines as executive coaching and organizational development.  (If I hadn't settled into nonprofit management after college, I might have gone back to grad school to become a psychologist like my dad, but somehow I would up with an MBA.)
+
+Given all that, I'm thrilled when I come across concepts that bridge my vocational focus on technology and my avocational interest in personal development.  So this morning I'd like to touch on a topic that springs from my technology-related work at AttentionTrust but ultimately transcends technology entirely and speaks to such issues as how we relate to each other as individuals, how we relate to the world at large, and even the underpinnings of our social and economic structures.
+
+To provide some background: AttentionTrust's mission is to educate people about the existence of "attention data," (i.e. the various types of digital records that reflect what we pay attention to [and what we ignore], and in turn serve as the fundamental basis for determining value in our information-based economy), and to subsequently empower people to exert control over and make effective use of their attention data, thereby becoming active participants in the emerging "attention economy."
+
+One of the intellectual forefathers of the concepts that underlie our work is Michael Goldhaber, an incredibly thoughtful and gracious man whom I've had the pleasure of getting to know over the past year.  Michael just posted "The Value of Openness in an Information Based Economy" (PDF, 198 KB), a paper he delivered last month at First Monday's "FM10 Openness: Code, Science and Content" event.  I posted the following excerpts from Michael's paper on AttentionTrust's site, and I'm re-posting them here because I think they have some significant implications for how organizations and individuals define and obtain success.  (More on that in future posts.)  Please note that I've invented the headings--they're not in Michael's original paper:
+
+On the Term "Attention Economy":
+
+Others have adopted the term attention economy, as if it
+
+is simply one particular stage or way of looking at what they take to
+
+be eternal, namely the economy based on money, markets and standardized
+
+industry... Within that view, attention is seen as a resource, mostly
+
+of interest to advertisers. Then the "economics of attention" is only
+
+the study of how best to deploy and structure attention to greatest
+
+effect in the race for money.
+
+The problem with that debased concept of attention economy is that
+
+it leaves no useful term for the real changes that roil and motivate us
+
+now. Without a term to use for it, the concept itself is even harder to
+
+grasp than it would be otherwise. We badly need the original meaning,
+
+at least until some other term captures the same concept better...
+
+On the Definition of "Attention":
+
+...[N]o one really can define attention. Whatever it is
+
+is bound up in hard-to-grasp notions such as consciousness, awareness,
+
+focus, and so on. These are terms debatable, confusing and unsettling
+
+to fields from philosophy to neuroscience, from meditation gurus to
+
+advertising mavens, from psychoanalysis to test design. There remains
+
+nothing approaching a clear scientific understanding.
+
+On Anonymity vs. Attribution:
+
+Even if you in some way choose to remain anonymous,
+
+putting out your thoughts to the world allows other people to think
+
+them, which enlarges you. Even with some degree of anonymity, if you
+
+are canny, say, in your use of the Internet, you may draw on this
+
+attention as well.
+
+At the same time, to activate others' attention it helps to present
+
+as much of yourself as possible, so as to increase the number of
+
+associations that will connect various memories to you, so as to
+
+reawaken attention, etc.
+
+On Desirable Forms of Openness:
+
+Dissemination of your thoughts and other expression as
+
+widely as possible. This is the basic openness the Internet so well
+
+permits.
+
+Open access — having one’s thoughts, expressions, etc., as available
+
+and accessible as possible, with as few barriers as possible...
+
+Self-revealing — the more aspects of oneself that express who one
+
+is, the more opportunities exist for people to align their minds to
+
+one, and the richer the accumulation of attention one may get...
+
+Claiming priority by putting out one’s thoughts in their most
+
+preliminary forms...
+
+On the Transition from a Money Economy to an Attention Economy:
+
+...[M]oney tracks attention. That is, if one has enough
+
+attention one can earn quite a bit of money, while if one cannot
+
+attract attention one tends to earn less and less... It seems
+
+reasonable to expect that the causal relation between having attention
+
+and being able to obtain the money one wishes to buy the old kinds of
+
+goods and even services will continue to grow more exact. The irony is
+
+that money is primarily required and makes sense for paying for work
+
+that is increasingly poorly remunerated. If that is so, a point may be
+
+reached where money as currency is simply no longer necessary. It would
+
+do no more than duplicate attention flows that occur anyway, as easily
+
+extended via the internet, search engines, etc...
+
+One reason open-source and corporate models are sure to clash is the
+
+issue of intellectual property. There are few large corporations today
+
+that would-be profitable without patent, copyright and trademark
+
+exclusivity. Yet these are basically inimical to the Attention Economy,
+
+as they impose barriers of some sort to either paying or seeking
+
+attention...
+
+...[A] final question to raise is when the new economy might be
+
+widely understood as the way life works, by which time the use of money
+
+may well be on the decline, and major institutions will be seen, if
+
+still important, in a very different light from the consensus view
+
+still today... [W]hen will there come a time when openness in almost
+
+everything is the norm rather than the upstart being defended against?
+
+I would guess that the timescale will prove short — a couple of
+
+generations, not the twenty or thirty that intervened in the transition
+
+between the full, all-out feudal economy of knights and feoffs and the
+
+dominance of the full industrial market, money-based economy.
+

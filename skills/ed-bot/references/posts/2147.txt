@@ -1,0 +1,19 @@
+---
+title: Contact
+url: https://edbatista.com/2010/03/contact.html
+slug: contact
+published: 2010-03-30T14:44:18
+updated: 2025-09-25T14:24:11
+source_body: wordpress-html
+---
+
+Email is the best way to reach me, and I try to reply to every message, although please note that as a solo practitioner I put my clients first, so it's not always possible for me to respond promptly:
+
+I see most Twitter notifications, but email is preferable to DMs:
+
+@edbatista
+
+You can also stay in touch through this site's RSS feed and sign up for my monthly newsletter.
+
+Photo by Andrew Gustar.
+

@@ -1,0 +1,35 @@
+---
+title: Baby Got Back(-End)
+url: https://edbatista.com/2005/05/baby_got_backen.html
+slug: baby_got_backen
+published: 2005-05-11T21:09:46
+updated: 2005-05-11T21:09:46
+source_body: wordpress-html
+---
+
+(The Webbies should have categories for Best & Worst Post Title, and I hereby nominate myself in both categories.)
+
+Ruby Sinreich and Kurt Voelker both make great points in this ongoing dialogue we're having on blogs, their characteristics and their relation to the rest of the web, and whether the term "blog" is even useful anymore, now that most website share those same characteristics.  (I vote "No.")
+
+Ruby first:
+
+When I do presentations (and elevator speeches), I define blogs as having the following characteristics:
+1. first-person voice -> authenticity
+2. dialog (either between blogs and/or in the comments)
+3. database back-end (enabling archives and syndication)
+4. (or 3.5) permanently available archives [emphasis mine]
+
+My recent posts talked about those first two points extensively, but (non-techie that I am) neglected the latter entirely.  But Ruby's one of those worth-her-weight-in-gold techies who really understands the human side of the equation (or is she a people-person who really gets technology?)  That back-end she's talking about is essential--it's the foundation that everything else is built upon.
+
+Email groups and bulletin boards have been forums for authentic dialog for years, and they still have a valuable role to play.  But so many of these forums lack the ability to archive, search and syndicate that content, giving them a very short shelf-life and making it hard for people to spread the word.  But what about those forums that do have a web-accessible archive?
+
+Well, that brings up Kurt's point:
+
+...[T]o be bloggish, your site must connect to the network of conversations and people that are also being bloggish in a formally recognized way. Technically it should happen via RSS, trackback, and blogrolling - but it's not the technology that is important. What's important is that there is an unwritten, but agreed upon, standard for discoverability. [emphasis Kurt's]
+
+To illustrate the importance of this bloggish quality think about a moderated listserve with a web archive. Authentic voices? Check. Fresh content? Check. Permantently available archives? Yep. But there is no "listserve-o-sphere". Why? Because your listserve conversation is taking place without any context to make it discoverable by all of the other exciting conversations taking place in other similar listserves. Its the network effect of Blogs, I believe, that has really made them take off.
+
+Amen.  Add Kurt's "discoverability" to Ruby's checklist, and you have a concise definition of a blog.  But I feel compelled to add that these are the exact same qualities that are required of any effective web presence today.   No, not all sites are going to look or feel like "blogs" as we know them, but if a site's going to have an impact, it should 1) have an authentic voice, 2) enable conversations with and among their users, 3) support archived content and syndication, and 4) be easy to find within a network of related sites.
+
+And in a perverse way, I think the continuing use of the word "blog" is actually a barrier to the extension of these qualities across the web (although the spread of blogs themselves is obviously a big help.)  The more we talk about "blogs" and the "blogosphere," the easier it is for people to think we're referring to something other than websites on the web.  Kill your blog--save the web.
+

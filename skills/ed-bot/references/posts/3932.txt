@@ -1,0 +1,113 @@
+---
+title: The Difficulty of Empathizing Up
+url: https://edbatista.com/2017/03/the-difficulty-of-empathizing-up.html
+slug: the-difficulty-of-empathizing-up
+published: 2017-03-27T05:00:00
+updated: 2025-10-09T19:40:39
+source_body: wordpress-html
+---
+
+A common feature of organizational life that I observe from my perspective as an executive coach is our collective failure to "empathize up." We talk about "managing up" constantly, and it's well understood that professional success involves attending to our relationships with those in a position of authority or influence over us. Directors manage their VPs, VPs manage the C-level, C-level execs manage the CEO, and the CEO manages board members and investors. There's no shortage of managing up.
+
+But what's often lacking in that process is empathy. What do I mean by this? First, let's clarify the term: the dictionary definition of empathy is "understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another person." But this misses some important elements, and it includes some unstated assumptions that can be counterproductive in a work relationship. Theresa Wiseman is a medical professor and researcher at the University of Southampton, and her work explores the concept of empathy because of its importance for nursing and medical care. Wiseman identified four defining attributes of empathy:
+
+1. The ability to see the world as another person sees it. ("Without this, empathy cannot occur," Wiseman wrote.)
+
+2. The ability to understand another person’s feelings.
+
+3. The ability to suspend judgment.
+
+4. The ability to communicate this understanding, which is essential "if empathy is to be felt." [1]
+
+The ability to understand another person's perspective and sense their feelings--the dictionary definition--is necessary but insufficient when it comes to the actual expression of empathy in working relationships. In order to convey empathy effectively, we must also be able to suspend our own judgments regarding the other person's situation and their emotions, and we must be able to actively communicate our understanding to them. We often think of empathy as an intrapersonal state, but it’s really an interpersonal experience.
+
+The commonly understood definition of empathy also includes several implicit beliefs about its nature or its consequences which are problematic in this context. One is that empathy is equivalent to sympathy, a misunderstanding that Wiseman clears up directly:
+
+Sympathy involves 'feeling sorry' for the other person or imagining how we would feel if we were experiencing what is happening to them. Empathy differs in that we try to imagine what it is like being that person and experiencing things as they do, not as we would. [2]
+
+Similarly, we typically associate empathy with agreement, and we act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted.
+
+With this clarity on what empathy is and what it isn’t, let’s consider why we habitually fail to empathize up, the consequences of that failure, and what we might do differently.
+
+Why We Fail
+
+The fundamental barrier to empathizing up is that we’re less likely to empathize with people we perceive as different from us, and such difference is an inevitable result (and, at times, an intended function) of organizational hierarchy. Even if we have a good relationship with someone in a superior position, the relative nature of our respective positions can create a sense of "otherness" that makes it psychologically difficult for us to empathize with that person’s perspective and emotions.
+
+Another obstacle is posed by our general unawareness of a dynamic known as hedonic adaptation, and its implications for our view of leaders and others in positions of authority or influence. [3] Human beings are a tremendously adaptable species, and we typically adjust to new circumstances, both positive and negative, much more readily than we imagine. Research on people such as lottery winners and those who’ve suffered traumatic accidents indicates that after a short-lived increase or decrease in happiness as a result of such events, our overall level of happiness returns to its previous levels.
+
+The same is true of leaders and others in positions of power--the status, compensation, and other benefits such positions afford provide a short-lived boost in happiness, but these rewards are soon taken for granted. And yet if we don’t enjoy the same benefits, we find it difficult to conceive that they could fail to yield lasting happiness. "If only I were in that position," we imagine, "my problems would be solved." So when faced with an unhappy superior, we're often surprised that they don’t take greater pleasure in their position and its perks, and we're less likely to empathize with them.
+
+What Results
+
+A consequence of our failure to empathize up is that it becomes easier to misinterpret the behavior of leaders and those in positions of influence. As a species we’ve evolved a negativity bias--it's safer to assume that what looks like a stick might be a snake than to assume that what looks like a snake is really just a stick--and this bias can heavily influence our perception of others' behavior, particularly when we’re under stress. Recall that the expression of empathy involves not only comprehending another person’s perspective and emotions, but also suspending our own judgments. In the absence of empathy we lack an explanatory narrative that allows us to make sense of a superior’s behavior from their perspective, so we’re compelled to rely on our own interpretation, which tends toward the negative. [4] As a result, their behavior can easily trigger a threat response, otherwise known as a "fight, flight, or freeze response." [5]
+
+When we're in the grip of a threat response our own behavior is heavily influenced by a number of physiological, emotional and cognitive factors. We're primed to act more quickly and forcefully, to feel anger and fear more readily, and to accept snap judgments rather than carefully considering a range of explanations. These characteristics allowed our distant ancestors to successfully survive literal threats to their physical safety, but today they often lead us astray in social and interpersonal situations that we perceive as threatening in some way.
+
+So our failure to empathize up makes it more likely that we experience a threat response when interacting with superiors, even in the absence of overtly hostile behavior on their part, and once a threat response is triggered it becomes even more difficult to empathize with them. At that point we're deeply attached to the explanation we've crafted to explain their behavior, and it's highly unlikely that we’ll be able to slow down and consider alternative explanations until the interaction is over and we've calmed down. A theme in my work with senior leaders is a client's surprise at learning that they're perceived as intimidating or unfriendly by junior employees--my client feels no rancor or displeasure, and they’re not even aware of any negative interactions that might have triggered such perceptions. But in the absence of empathy it’s all too easy for any leader’s behavior that isn't overtly positive to be misperceived as negative.
+
+What We Can Do About It
+
+Note that by encouraging greater empathy for leaders and others in positions of authority or influence, I'm not suggesting that we excuse, ignore or tolerate abuses of power or other behaviors that deserve to be censured. Powerful people who misuse their authority or influence to intimidate, harass or bully those in subordinate roles should be held accountable and, if they persist in such behavior, removed from their positions. What I am suggesting that empathizing up is a useful tool that can make these relationships more productive and allow us to achieve our goals more effectively. How do we go about this?
+
+First, we can strive to cultivate a more empathetic response in general. We tend to think of empathy as an inborn trait, something we possess or lack, but recent research suggests that empathy can be learned [6] and, conversely, that it can diminish over time. [7] The process of learning to be empathetic begins with increased self-awareness of how we interact with others, which requires us to slow down, to develop better listening skills, and to heighten our sensitivity to emotional cues--our own and those of others. [8] Our ability to do this is supported by such reflective practices as meditation [9] or journaling, as well as taking care of ourselves physically--most importantly regular exercise and sufficient sleep.
+
+We can also make an effort to minimize the likelihood of a threat response when interacting with a superior. This involves increasing our comfort with discomfort by taking active steps to reframe the situation, soothe ourselves and talk about our own emotions, all of which can expand our ability to tolerate a potentially distressing interaction. Reframing in this context means challenging our initial explanatory narrative for a superior’s behavior, and challenging our tendency to adopt a negative interpretation. Self-soothing can include speaking more slowly and taking deeper breaths. And verbally disclosing our own emotions allows us to manage them more effectively, rather than simply allowing them to escalate internally. Again, note that all of these tasks are easier when we're well-rested, physically active, and committed to a meditation practice or some other mindfulness routine.
+
+We can also reassess our own beliefs about power, which can have a significant impact on our approach to these relationships. Patricia Day Williams, a physician, leadership development consultant, and professor at American University, has written about three common self-limiting beliefs that create a sense of disempowerment:
+
+1. Power is determined primarily by factors outside our influence or control.
+
+2. Our subjective view of the world is identical with objective reality.
+
+3. Power is a fixed commodity and a limited resource for which we must compete with others. [10]
+
+There's a kernel of truth to these beliefs, of course, but all too often we take them at face value. Challenging them can give us a different perspective on our relative sense of power and agency, which can allow us to empathize up more readily. While we’re always subject to some factors beyond our control in relationships with superiors, we often have more influence than we realize--and we can always exert control over our own response in the interaction. While it's comforting to believe that our subjective view is objective reality, we're subject to a vast array of cognitive biases, and being able to step out of our perspective and acknowledge the potential for distortion in our thinking is a critical step in empathizing up. [11] And while in some circumstances we truly are in a zero-sum struggle for power, in many relationships power is a function of reciprocal influence. Conveying our openness to the other party's influence makes them more open to ours, and both of us can then act more powerfully and assertively--and empathetically.
+
+Finally, we can simply remember to make the effort to empathize up--so often it never even occurs to us to try.
+
+In Closing: A Note for Leaders
+
+I’ve written this piece with a focus on empathizing up in our relationships with those in positions of authority or influence in part to help you empathize with the challenges your subordinates face. It’s essential to remember that the people you lead will find it very difficult to empathize with you. They will be unlikely to understand your perspective and your emotions unless you make the effort to be explicit about them. They will make snap judgments about you and readily misinterpret your behavior unless you go out of your way to share your rationale and explain your intentions. They will be reticent to communicate any of these views unless you initiate a dialogue in which you’re an active participant, not just a questioner. And even in the best of circumstances they're unlikely to want to hear your complaints about the burdens of leadership when they don’t enjoy the benefits—they may listen politely and even express a superficial version of empathy, but inside they’ll be wondering why you’re so ungrateful for what you have.
+
+Footnotes
+
+[1] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[2] Ibid.
+
+[3] Pain, Suffering and Hedonic Adaptation
+
+[4] Seeing What's Not There (The Importance of Missing Data)
+
+[5] David Rock on Neuroscience, Leadership and the SCARF Model
+
+[6] Empathy Training for Resident Physicians: A Randomized Controlled Trial of a Neuroscience-Informed Curriculum (Helen Reiss, John Kelley, Robert Bailey, Emily Dunn and Margot Phillips, Journal of General Internal Medicine, 2012)
+
+[7] Empathy in Medicine--A Neurobiological Perspective (Helen Reiss, Journal of the American Medical Association, 2010)
+
+[8] Can Doctors Learn Empathy? (Pauline Chen, The New York Times, 2012)
+
+[9] Meditation Increases Compassionate Responses to Suffering (Paul Condon, Gaëlle Desbordes, Willa Miller and David DeSteno, Psychological Science, 2013)
+
+[10] "Self Empowerment, Awareness, and Choice" (Patricia Day Williams, Chapter 7.10 in the Reading Book for Human Relations Training, edited by by Alfred Cooke, Michael Brazzel, Argentine Saunders Craig, and Barbara Greig, 1999)
+
+[11] When Heuristics Go Bad
+
+For Further Reading
+
+The Importance of Slowing Down
+
+How Great Coaches Ask, Listen and Empathize
+
+The Value of Journal Writing
+
+Get Moving! (Exercise for Busy People)
+
+Comfort with Discomfort
+
+Talking About Feelings
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+Photo by Gerry Scappaticci.
+

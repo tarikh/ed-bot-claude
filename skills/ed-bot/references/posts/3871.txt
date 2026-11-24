@@ -1,0 +1,73 @@
+---
+title: The Toyota Production System for Relationships
+url: https://edbatista.com/2016/04/the-toyota-production-system-works-for-relationships-too.html
+slug: the-toyota-production-system-works-for-relationships-too
+published: 2016-04-04T05:00:00
+updated: 2025-10-12T14:37:18
+source_body: wordpress-html
+---
+
+The innovations of the Toyota Production System (TPS) are well-documented in the management literature and standard features of business school curricula everywhere. [1] These concepts are usually discussed in the context of industrial operations, but I also see their applicability to interpersonal issues that my clients and students deal with every day.
+
+The TPS term jidoka means "automation with a human touch." [2] Rather than ignoring problems and plowing ahead mindlessly, Toyota assembly lines are designed to stop themselves, so that higher-order thinking can be applied to better understand and address the problem before production is resumed. Here's how Toyota describes the sequence of events:
+
+- A machine detects a problem and communicates it.
+
+- A situation deviates from the normal workflow.
+
+- The line is stopped.
+
+- Manager/supervisor removes the cause of the problem.
+
+- Improvements incorporated into the standard workflow.
+
+- Good products can be produced.
+
+The obvious advantage is that line workers (and the machines they operate) are able to correct problems immediately, at the source, rather than ignoring defective or substandard output, and these small interventions add up to an ongoing process of continuous improvement. But what this requires is a larger organizational willingness to stop production, repeatedly, and to trust that these "interruptions" will ultimately result in not only a better product, but also a more efficient and profitable operation overall.
+
+While we have to change the terminology a bit, this concept can be applied quite readily to almost any interpersonal interaction, from a one-on-one conversation to a fairly large meeting. Here's how I've seen this "interpersonal jidoka" work in high-functioning systems:
+
+- The people involved are trained to sense and respond to communication problems, both conceptual and emotional.
+
+- A communication problem disrupts the normal workflow of the interaction.
+
+- Anyone involved in the process is empowered to stop the forward progress of interaction toward its current goal (such as an agenda item.)
+
+- Everyone involved in the interaction is invited to talk about the communication problem (a meta-conversation, if you will.)
+
+- Improvements in communication (at both the 1:1 and group levels) are identified and implemented.
+
+- Better interactions can be had.
+
+Put more simply, the knowledge work equivalent of jidoka is the ability to stop a meeting's rush to agenda-completion and name a communication problem that's getting in the way of actual resolution. And just as in industrial operations, this requires a larger organizational willingness to tolerate "interruptions" and to trust that the result will be a better product and greater efficiency in the long run.
+
+As with most of the work I do as a coach and teacher, this is easy to grasp conceptually and often very difficult to put into practice. No one wants to get in the way of "progress," particularly when everyone just wants the meeting to end so they can get back to doing "real work." With that in mind, here are three ways to apply these ideas:
+
+- Establish norms that help the group both acknowledge and regulate emotion. [3] (And be aware that a collection of emotionally intelligent people don’t automatically comprise an emotionally intelligent group.)
+
+- Make it explicitly acceptable for anyone to pause the conversation in order to assess how it’s going. (Sometimes "talking about how we’re talking" is the very best use of the group’s time.)
+
+- Finally, recognize that these interventions work most effectively in a feedback-rich culture. [4]
+
+We don't get the organizational culture we deserve--we get the culture we tolerate. And when we habitually fail to interrupt dysfunctional interactions to address the underlying communication problems--when we fail to apply interpersonal jidoka--we collude in the perpetuation of bad meetings and organizational theater.
+
+Footnotes
+
+[1] For example, Decoding the DNA of the Toyota Production System (Steven Spear and H. Kent Bowen, Harvard Business Review, September-October 1999) and Toyota Motor Manufacturing, U.S.A, Inc. (Kazuhiro Mishina, Harvard Business School, 1992/1995)
+
+[2] Toyota Production System
+
+[3] Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven B. Wolff, Harvard Business Review, March 2001)
+
+- Group Norms Worksheet adapted from the HBR article above.
+
+[4] Building a Feedback-Rich Culture (Ed Batista, Harvard Business Review, 2013)
+
+For Further Reading
+
+Five Levels of Communication: When an interaction begins to go in circles, the conversation is often stuck at one level and must go deeper to achieve resolution. This almost always involves discussing emotions that feel risky or vulnerable to express.
+
+Risk Management: The Importance of Speaking Up: If something feels risky to say, saying it will carry a short-term cost--and not saying it will carry a long-term cost.
+
+Originally published at Harvard Business Review. Photo courtesy of HBR.
+

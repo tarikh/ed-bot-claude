@@ -1,0 +1,17 @@
+---
+title: Feed-Cleaning: One More Thought
+url: https://edbatista.com/2006/06/feedcleaning_on.html
+slug: feedcleaning_on
+published: 2006-06-11T10:49:58
+updated: 2006-06-11T10:49:58
+source_body: wordpress-html
+---
+
+How do I feel when I see new items queued up in my reader from a subscribed feed: A) "Great! Another post from [so-and-so]." Or B) "Sigh. Another post from [so-and-so]."
+
+I just realized that even after re-organizing and culling my feeds substantially, there are still a few underperformers that I'm hanging onto out of a sense of...obligation to keep up? hope that they'll return to form? fear of missing something?
+
+That's no way to run a blogroll.
+
+tags: feeds rss
+

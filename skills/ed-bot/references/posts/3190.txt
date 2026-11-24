@@ -1,0 +1,31 @@
+---
+title: On Innovation
+url: https://edbatista.com/2005/05/on_innovation.html
+slug: on_innovation
+published: 2005-05-02T21:54:12
+updated: 2005-05-02T21:54:12
+source_body: wordpress-html
+---
+
+You're only being truly innovative if you're aggravating people.
+
+So said Paul DePodesta, baby-faced (b. 1972) general manager of the Los Angeles Dodgers and erstwhile protege of the Oakland A's Billy Beane (of Moneyball fame), at CSFB's 2003 Thought Leader Forum.  Although I'm reluctant to take advice from anyone associated with a) the hated Dodgers or b) scandal-ridden investment banks, I have to say that I love this quote.
+
+DePodesta explored this theme further by quoting Jim Pinkerton, author of What Comes Next:
+
+Systems of any kind tend to degrade over time. Bugs accumulate, people figure out how to cut corners, and eventually they go through the motions and a lowest-common-denominator mentality prevails. And as the original purpose is forgotten, reflexive self-perpetuation becomes the only goal.
+
+So by definition, to innovate is to piss someone off, to challenge their entrenched interest.  DePodesta went on to quote Thomas Kuhn, the genius who popularized the concept of paradigms:
+
+The proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the recourse to philosophy and to debate over fundamentals, all these are symptoms of a transition from normal to extraordinary research.
+
+Kuhn was referring specifically to the idea that "science is not a steady, cumulative acquisition of knowledge," but rather (in the words of Science's Nicholas Wade) "a series of peaceful interludes punctuated by intellectually violent revolutions...the tradition-shattering complements to the tradition-bound activity of normal science."  But the fact that DePodesta, Beane & Co. have been applying them to baseball only shows their relevance to any enterprise or field of endeavor.
+
+But DePodesta's greatest debt is to that wily old master, Peter Drucker, who formulated the question that young Paul asked when he started with the (then dreadful) A's:
+
+If we weren't already doing it this way, is this the way we would start?
+
+If you can't radically refashion your own life by asking that very same question, you're either very, very lucky or woefully lacking in imagination.
+
+(Download a 9.75 MB PDF of all the CSFB speakers' PowerPoint slides, or check out Narasimha Chari's post on DePodesta's presentation.)
+

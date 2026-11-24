@@ -1,0 +1,47 @@
+---
+title: Tips for Coaching Someone Remotely
+url: https://edbatista.com/2015/03/new-post-at-hbr-tips-for-coaching-someone-remotely.html
+slug: new-post-at-hbr-tips-for-coaching-someone-remotely
+published: 2015-03-18T08:48:16
+updated: 2025-09-24T11:59:29
+source_body: wordpress-html
+---
+
+Leaders are providing less explicit direction to their employees these days, and relying more on coaching as a leadership tool, as organizations become flatter and more dependent on knowledge work. [1,2] But many people also manage teams that span locations and time zones, which means they must do at least some of their coaching virtually.
+
+While most of my coaching with clients and MBA students at Stanford is conducted face-to-face in the Bay Area, over the last decade I’ve worked with people across the U.S. and internationally, from Brazil to London to South Africa. Here are some guidelines for virtual coaching that I’ve found useful.
+
+Don’t dictate the medium. You may have a preference for phone or video, or your organization may rely on one more than the other. But for coaching conversations, it’s important that both parties choose what’s right for the situation, rather than have it dictated by you as the leader or by the organizational culture.
+
+In my experience, both phone and video can work well for coaching. One isn’t better than the other, but they are different, and it’s important to get a sense of which medium will work best for each relationship (this may change from call to call). Video can provide helpful visual context, but it can also be a distraction, particularly if there’s a poor internet connection. Try experimenting with both phone and video to see what works best with different employees.
+
+E-mail can play a useful role in virtual coaching, but I recommend using it to augment phone or video conversations. I often e-mail my clients and students follow-up questions and links to readings and other resources, but it’s much less useful for in-the-moment coaching. Text and chat provide a sense of immediate connection, but it’s difficult to use them to convey anything more complex than basic information. [3]
+
+Location still matters. The physical setting can have a significant impact on the success of a coaching conversation. When I’m coaching clients and students in person, we meet in a place that will allow for privacy and minimize distractions. This can take many forms, from a reserved conference room to a long walk around the placid Stanford campus.
+
+Because it’s far more difficult to pick up interpersonal cues when working virtually, it’s even more important to ensure that both you and the other person are in a private, comfortable space where you won’t be interrupted.
+
+Focus, focus, focus. Effective coaching in any setting requires focused attention on the other person. That can be tough when we’re coaching virtually, because of the pervasiveness of multitasking. A virtual coaching conversation is a special kind of interaction--very different from a typical conference call or online meeting, where we can often just partly tune in and still get the gist. When we’re coaching, the most important details are easy to miss. If we allow ourselves to become distracted, we’ll be less likely to notice things like a subtle change in someone’s facial expression or tone of voice, or an unusual turn of phrase that may signify something more. We may also fail to monitor our own emotional responses and instincts, which are vital sources of data. Even worse, others can sense when our attention wanders, leaving them reluctant to discuss truly important issues.
+
+Get the right equipment. Investing in better technical gear can dramatically improve the virtual coaching experience. One of the clients I work with via video is a CEO who leads a virtual financial services firm. Almost all of his employees are spread out across the country, and they do most of their collaboration online. His home office is equipped with high-quality webcams, monitors, and microphones that give him a vivid virtual presence. Our video coaching sessions aren’t quite as high-definition as real life, but they’re close.
+
+Even small investments in equipment can go a long way. I worked with a CEO who had a slight speech impediment that made it difficult for me to understand him over the phone. We had no problems communicating when we met in person, but most of our work was going to be virtual, so I bought the kind of immersive headset that’s used used by video-gamers, which allowed me to understand him perfectly. I also have an external microphone and speakers so that when I’m working with clients via video I don’t have to rely on my laptop components.
+
+Manage the time. In most meetings, including phone calls and video conferences, the discussion goes right up until the end of the allotted time, at which point we rapidly conclude and move on to the next meeting. This is another way in which coaching conversations are different: It’s part of your job, as the coach, to track time during the conversation--I usually set a timer to minimize distractions--and stop at a point you’ve agreed on in advance.
+
+It’s hard to tell where coaching conversations will end up. They tend to be more wide-ranging than typical meetings, which makes them more meaningful and valuable. But this also means you’ll want to leave some time between the end of the session and the next event on the calendar. This enables both you and the person you’re coaching to reflect on the conversation and deepen the learning. Coaching conversations can also bring up strong emotions, and it’s essential to leave time to process those emotions. Even a few minutes can make a substantial difference, helping both you and the person you’re coaching get the most out of the experience.
+
+ 
+
+Footnotes
+
+[1] How Great Coaches Ask, Listen and Empathize
+
+[2] Coaching and Feedback Tools for Leaders
+
+[3] The Communication Funnel
+
+This post originally appeared at HBR.org.
+
+Photo by Suzy Hazelwood.
+

@@ -1,0 +1,243 @@
+---
+title: How to Deliver Critical Feedback
+url: https://edbatista.com/2020/07/how-to-deliver-critical-feedback.html
+slug: how-to-deliver-critical-feedback
+published: 2020-07-19T12:56:25
+updated: 2025-10-06T17:50:28
+source_body: wordpress-html
+---
+
+Critical feedback is essential in improving professional performance, but all too often the ways we think about and provide feedback are inadequate or even counter-productive:
+
+- We call feedback "a gift." (It's not.) [1]
+
+- We think anonymous feedback is preferable. (It's not.) [2]
+
+- We fail to appreciate how stressful feedback can be. (It is.) [3]
+
+So if we want our critical feedback to be truly useful to the recipient and not merely an exercise in self-indulgence, we owe it to our colleagues to be more thoughtful and intentional in how we deliver it. A valuable model in this context is known as "supportive confrontation," developed by David Bradford [4] and Allan Cohen and discussed at length in their book Power Up. [5] It involves a series of three escalating approaches to feedback conversations, followed by a fourth step that should be included in most circumstances:
+
+- This is the effect of your behavior on me.
+
+- Your behavior is not meeting your apparent goals or intentions.
+
+- Your behavior may meet your goals, but it is very costly to you.
+
+- In what ways am I part of the problem?
+
+But before we consider how to deliver our feedback, it's worth asking why we're motivated to provide it in the first place. As Peter Block has noted, "the wish to get others to be different is a wish to control them, which in itself creates its own resistance," and I see this dynamic frequently in my coaching practice. [6] Organizational life is sometimes nothing more than a series of power struggles, with leaders and employees alike striving to exert control as a means of easing their anxiety. This doesn't imply that our critical feedback for a colleague is invalid or inaccurate--but such feedback does reflect a wish on our part for them to be different, and we should be honest with ourselves about the extent to which this is influenced by our need for greater control in this particular relationship.
+
+In addition, much critical feedback stems from differences in working styles, and as Bradford and Cohen note, "There is nothing inherently superior about one style of behavior or the other; in fact, diversity is required for high performance in a complex, interdependent world. One style can be useful for some problems and limiting for others." [7] While our preferred style may in fact be more effective in a given situation, we should also be honest with ourselves about the extent to which our critical feedback may simply reflect our preference for behavior that feels familiar and comfortable. As I wrote recently, "feedback always says as much about the giver as the recipient. It's filtered through their reality-distortion fields, reflecting their personal values and priorities." [8] In some cases we may be best served not by seeking to change the other person's behavior through feedback, but by letting go of our preferences and recognizing the value of a wider range of working styles. [9]
+
+All that said, there are obviously many circumstances in which critical feedback is necessary if we are to effect change in our working relationships and help colleagues achieve their professional goals, and in these situations I find Bradford and Cohen's framework immensely useful. Section 1 below discusses a range of concepts at length, while Sections 2-4 provide shorter additions to the model, followed by a 12-point summary.
+
+1. This Is the Effect of Your Behavior on Me
+
+The first step in supportive confrontation involves the simplest feedback model: When you do [X], I feel [Y].
+
+It's important to be specific about behavior [X], rather than speak in broad generalities. In some cases this is best accomplished by providing feedback promptly, so that the details are more easily recalled and agreed-upon by both parties. In the absence of a shared understanding of the specific behavior, feedback conversations can devolve into arguments about what did or did not occur. However, note that situations that result in critical feedback often trigger strong emotions, and, further, feedback conversations themselves can feel threatening, particularly when we don't have them regularly. [10] When we're in the grip of such feelings our ability to communicate effectively can be impaired--this applies to both the feedback giver and the recipient--so it may be preferable to allow some time to elapse before initiating the conversation.
+
+It's equally important to be specific regarding emotion [Y], which sounds easy but can be surprisingly difficult in the moment. We may lack a precise word for the relevant feeling, or the other party's definition for that emotion may not be the same as ours, increasing the risk of misunderstanding. So it can be very useful to expand our emotional vocabulary, particularly if our family, our cultural background, or our education and training haven't emphasized a wide range of nuanced feeling-words. [11]
+
+There are several reasons for disclosing our feelings in this model. First, emotions are attention magnets--their fundamental purpose is to orient us to potential threats and opportunities, so when we employ the appropriate feeling-words (neither too strong nor too weak) our feedback will automatically capture and hold the other party's interest. Also, disclosing our emotions is less likely to evoke a defensive response than making attributions about the other party's motives. As David Bradford and Mary Ann Huckabay have written:
+
+Most of us act like amateur psychologists in that we try to figure out why others act as they do. If you interrupt me (a behavior) and I feel annoyed (the effect on me), I try and understand why you would do that. So I make an attribution of your motives (it must be that you are inconsiderate)...
+
+As common as this attribution process is, it also can be dysfunctional. Note that my sense-making is a guess. That is my hunch as to why you act the way you do. I am "crossing over the net" from what is my area of expertise (that I am annoyed at your behavior), to your area of expertise (your motives and intentions). My imputation of your motives can always be debated, ("You don't listen." "Yes, I do." "No you don't.") whereas sticking with my own feelings and reactions is never debatable. ("I felt irritated by your interruption just now." "You shouldn't feel that way because I didn't mean to interrupt you." "Perhaps not, but I feel irritated nonetheless.") [12]
+
+So when we "cross the net" and guess at the other party’s motives, we create a plausible explanation that helps us understand their behavior, but we run the risk of being wrong--a risk that's heightened when we're in the grip of strong emotions. And if we do guess wrong, the other party will feel misunderstood, and our feedback will be perceived as unfair or inaccurate, resulting in defensiveness. The solution is to "stay on our side of the net" and stick with what we know--how we feel in response to the other party's behavior--and avoid making guesses about their motives or intentions.
+
+Note that in English we commonly use "I feel..." statements not to express emotion, but to assert beliefs as if they were facts. When "I feel..." is followed by "like..." or "that..." the resulting disclosure is not an emotion, but an assertion, which may or may not be true. "When you show up late to our meetings, I feel like you don't care" is not an expression of emotion--it's an asserted belief about the other person's state of mind. The key is to always follow "I feel..." with an actual emotion. "When you show up late to our meetings, I'm unsure about your commitment, and I feel disappointed and irritated."
+
+But there are several caveats to the use of emotions in this context. First, although emotions are attention magnets, note that magnets can repel as well as attract. Three lessons I learned from Scott Bristol, one of my mentors at Stanford, are relevant here:
+
+- Expressions of anger readily capture our attention because they signal a potential threat, but we generally turn away from others' anger and distance ourselves from it as soon as possible to manage our distress.
+
+- In contrast, we turn toward most expressions of vulnerability, such as fear and hurt.
+
+- Most expressions of anger are manifestations of a deeper (and often unexpressed) fear or hurt. [13]
+
+We often lack experience in expressing vulnerability in organizational life, and it may feel awkward or risky to do so. The key is to "translate" our feelings into language that conforms sufficiently to the surrounding organizational culture while still making use of the concepts noted above. As I've written before:
+
+"Vulnerability" comes in an endless number of forms, and each culture has a set of norms that define acceptable expressions of vulnerability by a leader. If you deviate too far from these norms, the culture won't be able to accommodate your behavior--and if all you do is conform to those norms, you'll fail to help the culture evolve and will miss opportunities to take advantage of your prior training. The key...is to conform just enough. [14]
+
+This is where a more subtle emotional vocabulary can be particularly useful. It may feel too heavy-handed to express "fear" or "hurt," but "concern" or "disappointment" may be just right. And while expressions of anger should always be handled with care, "irritation" or "frustration" will likely be more than sufficient. (Note that the challenge isn't coming up with these terms now, while you're reading this, but in the heat of the moment, when you're delivering your feedback. Practice helps.)
+
+Finally, it's important to recognize that even though we can accurately report on our feelings, we shouldn't assume that the other party will necessarily care--nor should they feel obligated to. While I firmly support the movement over the last century toward a more humane, empathetic approach to management, and I believe that empathy is essential in good working relationships, I'm equally firm in asserting that empathy is not agreement:
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [15]
+
+Emotions do not justify themselves. Our concern, disappointment, irritation or frustration may be entirely misplaced, and we should not expect others to respond to our feedback simply because it incorporates our feelings. If we want to effectively leverage the power of emotion to motivate others to respond to critical feedback, we have a responsibility to invest in the relationship--a process that begins well before the need for a feedback conversation. If we want them to care about our feelings, they have to know that we care about theirs.
+
+2. Your Behavior Is Not Meeting Your Apparent Goals or Intentions
+
+But even the most carefully constructed critical feedback may be insufficient to motivate change, particularly if the other party isn't interested in our feelings or views them as unjustified. The next step in Bradford and Cohen's framework is to identify and reference the other party's goals:
+
+The second approach to supportive confrontation is to show the other person how the particular behavior does not help advance his or her interests. That is powerful leverage for change. Most behavior is goal directed, intended to produce a desired result. A person who is behaving in a way that fails to achieve those results is more likely to take feedback seriously. [16]
+
+One of the underlying drivers here is the powerful impulse to appear consistent with our stated commitments. As psychologist Robert Cialdini has noted, "most people, once they take a stand or go on record in favor of a position, prefer to stick to it. Other studies reinforce that finding and go on to show how even a small, seemingly trivial commitment can have a powerful effect on future actions." [17] In part this is the result of cognitive dissonance, a psychological state first described by Leon Festinger:
+
+If a person knows various things that are not psychologically consistent with one another, he will, in a variety of ways, try to make them more consistent. Two items of information that psychologically do not fit together are said to be in a dissonant relation to each other. The items of information may be about behavior, feelings, opinions, things in the environment and so on... Cognitive dissonance is a motivating state of affairs. Just as hunger impels a person to eat, so does dissonance impel a person to change his opinions or his behavior. [18]
+
+Illustrating how the other party's behavior is at odds with their stated goals can be a powerful motivator--when we're aware of those goals and our knowledge is accurate and up-to-date. A challenge for leaders is that they often assume they understand an employee's goals without knowing much about what the employee truly cares about. So it can be helpful to restate our understanding of the other party's goals or to simply ask for clarification. At the same time, the other party may not fully understand our goals in providing them with critical feedback, particularly if this isn't a routine practice. As I've written elsewhere, "Our intent is transparent to us, so we assume that it's equally clear to others and that our message is being received in that same spirit." [19] A candid exploration of both parties' goals can be profoundly illuminating.
+
+3. Your Behavior May Meet Your Goals, But It Is Very Costly to You
+
+In some cases the other party's behavior enables them to achieve their goals, but at a cost that goes well beyond our negative emotional response. Or they may achieve short-term goals at the expense of longer-term goals that are apparent to us but not to them. For example, we may be less willing to collaborate with them or less open to their influence in the future. We may doubt their trustworthiness or their integrity, and other colleagues may have a similar reaction. As Bradford and Cohen note, "A poor reputation is very costly." [20]
+
+If the other party remains unmoved by our initial feedback and views it as the unavoidable consequence of accomplishing their goals, we may be able to evoke a degree of cognitive dissonance and motivate change by disclosing these additional costs, although this should be done with great care. It's all too easy for this to be perceived as a counter-productive threat or to put us in the position of either speculating about others' reactions or violating their confidentiality.
+
+I frequently see this in my practice when a leader has critical feedback for an employee who is pursuing their personal goals while failing to appreciate the negative consequences for other colleagues or for the organization. In some cases this results from the employee's peers or direct reports sharing their own critical feedback with the leader because they're reluctant to share it directly with the employee. The leader can easily amplify their initial feedback by sharing this broader perspective or disclosing additional data from colleagues, but this requires a great deal of subtlety and tact. A challenge is that this can easily trigger a threat response--often called a "fight, flight, or freeze response"--which inevitably hampers effective communication.
+
+The key here is psychological safety--when the other party feels sufficiently safe, we can raise the stakes in a feedback conversation by discussing the hidden costs of their behavior without overwhelming them, which Bradford and Cohen implicitly acknowledge:
+
+Diagnosing the many negative consequences doesn’t require that they all be dumped on the other person at once. It is best to reveal the minimum number of consequences that will motivate the other to enter into joint problem-solving. But knowing many different costs provides more potential sources of influence leverage, so one can escalate as needed. [21]
+
+A useful framework in this context is David Rock's SCARF Model, which identifies the potential sources of "social threat"--interpersonal experiences to which we respond as if they pose a literal threat to our physical safety. [22] I've written previously about how leaders can make use of the SCARF Model to create a safer environment when seeking to promote change [23], and those same principles can be applied here:
+
+- Status: The mere act of offering feedback can be perceived as diminishing the other party's status, so we should take care not to inadvertently bolster our own through behavior (such as interrupting) or other symbols (such as physical location or even camera angles, when meeting virtually.)
+
+- Certainty: While small talk serves an important function [24], uncertainty about the nature of the feedback and its consequences can be diminished by getting to the point without being unduly abrupt. This is easier when we hold feedback conversations on a consistent basis and when critical feedback is expected rather than surprising.
+
+- Autonomy: The other party should feel a sense of agency, which we can heighten by determining that they're truly ready to hold the conversation, by giving them a degree of choice in its timing, and by ensuring that they feel free to take a break if necessary. Merely asking, "Can I give you some feedback?" is insufficient here, particularly if we're in a leadership role. Almost everyone will automatically answer "Yes" whether that's true or not.
+
+- Relatedness: This refers to the extent to which we view others as members of the same social group, and offering feedback can heighten the sense of "social distance" between ourselves and the other party. This gap can be closed by emphasizing points of connection, such as shared interests or a common identity as employees, but these efforts can seem inauthentic in the short run. The only real solution is to convey our interest in the other person by actively investing in the relationship over time.
+
+- Fairness: Critical feedback will often be perceived as unfair or unjust, resulting in defensiveness, and one way to mitigate this is to avoid making assumptions and attributions and to stick with our internal response--to "stay on our side of the net," as noted above. But this is difficult when the costs of the other party's behavior involve the reactions of other colleagues, as Bradford and Cohen acknowledge: "Reporting the reactions of other colleagues can be helpful and motivating by making the wider costs clear, but it can also be abused if the response is a demand to know 'Who else said that?' [25] Assuming that we're not speculating about our colleagues' responses and we feel precluded from violating their confidentiality, we can simply encourage the other party to actively seek additional feedback elsewhere. And while I have a number of concerns about anonymity, when other colleagues have extensive critical feedback but are unwilling to share it--presumably due to their own lack of psychological safety--an anonymous 360 may be necessary. [26]
+
+4. In What Ways Am I Part of the Problem?
+
+All behavior is adaptive, and when we encounter behavior we view as problematic we should get curious about what the other party is adapting to--it may be us. So even in a conversation in which critical feedback has been accepted without defensiveness and amicable agreement has been achieved, it's worth including this step in the process. And in cases where steps two and three above have proven unsuccessful this step is absolutely essential.
+
+As Bradford and Cohen note, people don't operate in a vacuum: "Conventional discussion of behavior places its causes completely within the individual... But for most people most of the time, interactions with others heavily influence behavior." [27] This is particularly important when a senior leader has critical feedback for a subordinate, a common topic in my practice. As I once noted, "Powerful, charismatic leaders are like weather systems. They change the atmosphere, and people around them adjust accordingly." [28] Further, power can cause leaders to act more impulsively with fewer inhibitions. [29] These dynamics allow leaders to have significant influence in shaping the environment around them, but as a result it is necessary to recognize that undesirable behavior on the part of others may actually be an unintended consequence of the leader's own influence.
+
+Taking responsibility for our contributions can dramatically shift the tone of an otherwise contentious conversation, not only because the other party may appreciate our concession, but also because both parties are now free to acknowledge the others' influence, allowing for a much more thorough analysis of the factors underlying the problematic behavior. As Bradford and Cohen conclude:
+
+If either party to an interpersonal dispute that is being mutually reinforced can identify the pattern of reinforcement, that frees both of them to explore it. Naming it helps change the discussion from blame to problem solving about how to halt the pattern. [30]
+
+In Summary
+
+- Honestly assess your need for control in this relationship and your comfort level with working styles that may be different than yours or unfamiliar to you.
+
+- Invest in the relationship over time, convey your positive intentions, and earn the right to offer critical feedback.
+
+- Find the right moment--allow enough time to pass for heightened emotions to diminish, but not so much time that it becomes difficult to recall the details.
+
+- Describe the situation that triggered the feedback in terms that the other party will acknowledge as accurate and that focus on specific behaviors rather than general personality.
+
+- Describe your emotional response in terms that the other party will comprehend and that will be sufficiently consistent with the surrounding culture (of the organization and the relationship).
+
+- When you do [X], I feel [Y].
+
+- Stay on "your side of the net" by disclosing your emotional response and avoiding assumptions about their motives or intentions.
+
+- But bear in mind that "I feel like..." and "I feel that..." will convey beliefs and theories, not emotions.
+
+- Be sure you have an accurate and up-to-date understanding of the goals their behavior is intended to achieve.
+
+- Be sure they understand your goals in providing them with critical feedback.
+
+- Consider sharing the broader costs of this behavior to the other party.
+
+- Seek to understand how you've influenced the other party's behavior and take responsibility for your contributions.
+
+Finally, although throughout this post I've referred to a feedback conversation, effective feedback requires an ongoing dialogue, with consistent follow-up. Make feedback normal--not a performance review.
+
+Footnotes
+
+[1] Feedback Is Not a Gift
+
+[2] The Problem with Anonymous Feedback
+
+[3] Make Getting Feedback Less Stressful (Harvard Business Review, 2014)
+
+- Making Feedback Less Stressful (Harvard Business Review Webinar)
+
+- HBR webinar (1-hour video)
+
+- HBR's summary of my remarks (8-page PDF)
+
+- Webinar slide deck
+
+[4] Thank You, David Bradford
+
+[5] Power Up: Transforming Organizations Through Shared Leadership (David Bradford and Allan Cohen, 1998)
+
+[6] The Answer to How Is Yes: Acting On What Matters, page 113 (Peter Block, 2003)
+
+[7] Power Up, page 321.
+
+[8] Feedback Is Not a Gift
+
+[9] Work Style Differences
+
+[10] Make Getting Feedback Less Stressful (Harvard Business Review, 2014)
+
+[11] Vocabulary of Emotions
+
+[12] The Interpersonal Dynamics Reader, pages 4-5 (David Bradford and Mary Ann Huckabay, 1998)
+
+- Since its publication the Reader has been the primary text for the Interpersonal Dynamics course at Stanford, which I taught for several years after facilitating groups in the course for a decade. I've published my syllabus from the course, and I've also written a history of T-groups that includes a number of related resources, but the Reader is not publicly available.
+
+[13] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[14] Conform to the Culture Just Enough
+
+[15] The Difficulty of Empathizing Up
+
+[16] Power Up, page 331.
+
+[17] Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+[18] "Cognitive Dissonance" (Leon Festinger, Scientific American, October 1962, pages 93-94)
+
+[19] Intent vs. Impact (When Communication Goes Awry)
+
+[20] Power Up, page 332.
+
+[21] Power Up, page 332.
+
+[22] David Rock on Neuroscience, Leadership and the SCARF Model
+
+[23] How Leaders Create Safety (and Danger)
+
+[24] Bosses and Birthdays (The Importance of Small Talk)
+
+[25] Power Up, page 333.
+
+[26] The Problem with Anonymous Feedback
+
+- My colleagues Dan Oestreich and Stephanie Soler offer a number of thoughtful suggestions about how to administer a 360 process while accounting for the concerns I raise in the post.
+
+[27] Power Up, page 335.
+
+[28] Weather Systems (Power, Charisma and Leadership)
+
+[29] Drunk, Powerful, and in the Dark: How General Processes of Disinhibition Produce Both Prosocial and Antisocial Behavior (Jacob Hirsh, Adam Galinsky and Chen-Bo Zhong, Perspectives in Psychological Science, 2011)
+
+[30] Power Up, page 337.
+
+For Further Reading
+
+Better Working Relationships
+
+The Communication Funnel
+
+Setting the Table (Difficult Conversations)
+
+Seeing What's Not There (The Importance of Missing Data)
+
+Learning to Yield (Navigating Tough Conversations)
+
+The Problem with Positive Feedback
+
+Three Conversations (On Better Communication)
+
+Resolving a Protracted Conflict
+
+Talking About Feelings
+
+How We Connect (and Why We Might Not)
+
+Photo by Minda Haas Kuhlman.
+

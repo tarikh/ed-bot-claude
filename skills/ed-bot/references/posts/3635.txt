@@ -1,0 +1,77 @@
+---
+title: Coaching and Narrative Therapy
+url: https://edbatista.com/2010/03/narrative.html
+slug: narrative
+published: 2010-03-31T23:49:30
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+One of my most rewarding projects this past year has been collaborating with Prof. Carole Robin and fellow executive coaches Andrea Corney and Ricki Frankel on the development of a new class at the Stanford Graduate School of Business to be called Taking Stock and Moving Forward. The purpose of the class is to provide students who are about to graduate with a structured opportunity to "take stock" of what they've learned about themselves during their two years in business school and prepare to "move forward" into the next phase of their lives and careers.
+
+A hallmark of the class is an emphasis on the choices that we make in life, a stance that both holds us accountable for the results of those choices and allows us to assume greater responsibility for our own fulfillment. To explore this concept further, Carole recently wrote a paper entitled "On Choice," which includes a section on "narrative therapy":
+
+Narrative therapy posits that our identities are shaped by the accounts of our lives found in the stories or narratives we tell. The bridges of meaning we build with others through conversation helps us develop new perspectives and shape events into new, more hopeful narratives; listening to and telling stories about ourselves and our lives shape new realities...
+
+The [narrative] therapist's task becomes to help clients engage in making sense of their lives, which is far different from explaining their behavior. The belief is that in the course of telling and re-telling one's story...alternatives to the troubling story, the problem-saturated story, emerge... A narrative therapist does not much care about causes of problems. Instead, the focus is on conversations that generate multiple possible ways to move forward once a problem has arisen... [T]he therapist's task is to create the conditions for all these voices and all these stories to be "heard" so that new tales can be told.
+
+While you may be wondering what the relevance of narrative therapy is outside a therapeutic context, the fact is that any kind of story-telling about our lives is an opportunity to see that story in a new light and thus reshape it... In my coaching practice, I often see clients recognize that how they describe an event shapes the choices they see (or don't see) in front of them.
+
+As I wrote last year when discussing the parallels between coaching and gestalt therapy, "Executive coaching isn't therapy, and good coaches are aware of the distinction."  However, I continued, "This doesn't mean there's always a bright line distinguishing the two," and I see the processes Carole describes above at work in my own coaching practice, and I'm struck by the parallels between her description of narrative therapy and my approach to coaching. (No surprise, given how closely I've worked with Carole in recent years and how much I've learned about coaching from her.)
+
+First and Foremost, Coaches Listen
+
+My most important task as a coach is to listen. This may sound simplistic, but it's essential to understand both how difficult it can be to truly listen and what a powerful effect it has on us when we feel truly heard. The difficulties we face as listeners include:
+
+- Tuning out our "self-talk," the internal dialogues we conduct with ourselves, often formulating a response to the other person before they've actually finished speaking....
+
+- While still making use of our intuitions, the hunches that our pre-conscious brain makes based on a whole range of sensory data we pick up from the other person...
+
+- And always conveying to the other person through everything that we say and do (particularly our non-verbal expressions when we're not speaking) just how deeply we are listening so that they do truly feel heard.
+
+More than anything else I do as a coach, the steps that I take to make my clients feel truly heard create the conditions for a productive and meaningful conversation.  And in some of my most successful moments as a coach, listening is really all I'm doing--and it's enough.
+
+Coaches Don't Explain--They Help Make Meaning
+
+Despite the fundamental role of listening in coaching, I still have plenty to say to my clients and students--but I'm not explaining their lives and experiences to them.  Instead, I'm helping them interpret, re-interpret, and ultimately make meaning out of those experiences.  It's critical to recognize the distinction between these two alternatives.
+
+To "explain" is to set ourselves up as a source of objective Truth and to impress upon others the validity and accuracy of that Truth.  But Truth is elusive at best, and potentially nonexistent, in any interpersonal experience.  Your "truth" and my "truth" don't need to be the same; they don't even need to overlap.  So seeking to "explain" anything as a coach is a short cut leading nowhere.
+
+In contrast, helping to make meaning is very different process.  Once again, listening comes first.  The person I'm coaching may simply need to tell their story to someone who will allow them to feel heard, and in the process of hearing their story spoken aloud they come to understand what it means, or they arrive at a new meaning.  Or I may play a more active interpretive role and reflect possible meanings back to them--but how I do so is important.  I'm making full use of my intuitions and my hunches, and I pay very close attention to the feelings and thoughts that arise within me as I'm listening, but I hold onto the meanings that I'm creating very loosely.  When I offer them, they're hypotheses, suggestions, possibilities--not Truth.  And so any meaning that emerges from these conversations is ultimately owned by the other person, not by me.
+
+Coaches Focus on Solutions, Not Causes
+
+Last year's Harvard Business Review report on executive coaching included this table:
+
+Coaching
+Coaching & Therapy
+Therapy
+
+Focuses on the future
+Paid to ask the right questions
+Focuses on the past
+
+Fosters individual performance in a business context
+Tackles difficult issues at work and home
+Diagnoses and treats dysfunctionality
+
+Helps executives discover their own path
+Focuses on individual behavioral change
+Based on medical ethics
+
+I find it useful because it highlights the close relationship between coaching and therapy while making some crucial differences between the two disciplines, but it's clearly an oversimplification, particularly by suggesting that therapy focuses exclusively on the past while coaching focuses on the future. My clients and students sometimes talk extensively about their pasts, and obviously people in all forms of therapy sometimes talk extensively about their futures.
+
+But a dimension that's not fully reflected in this table is the extent to which a discipline focuses on causes vs. solutions.  Many forms of therapy seek specifically to understand and uncover the root causes of a client's behavior and life experiences, but as Carole notes above, narrative therapists don't "much care about causes of problems. Instead, the focus is on
+
+conversations that generate multiple possible ways to move forward once
+
+a problem has arisen."  And that's just what I do as a coach.
+
+Conclusions
+
+My intention here (and in my piece last year on "gestalt coaching") isn't to equate coaching and therapy.  I'm not a therapist, and one of my most important responsibilities as a coach is to be aware of the differences between the two disciplines so that when I'm working with someone who might need the support of a trained clinician, I can refer them to an appropriate resource.  But in our care to make that distinction, I want to be sure that we don't overlook the many parallels that exist between coaching and specific forms of therapeutic treatment, particularly gestalt therapy, narrative therapy and cognitive-behavioral therapy.  Coaching clearly has a relationship with these disciplines, and while I don't believe coaches need to be (or even should be) be clinicians, I do believe that more fully we understand those relationships, the more effectively we can serve our clients.
+
+Update: David Drake of the Center for Narrative Coaching appears to be working directly at the intersection of coaching and narrative therapy, and he describes what he does in greater detail in two posts from earlier this year, So, What Do Narrative Coaches Do? and What Do Narrative Coaches Do, Part 1.  (Hopefully Part 2 will be available soon.)
+
+Photo by Poldavo (Alex).  Yay Flickr and Creative Commons.
+

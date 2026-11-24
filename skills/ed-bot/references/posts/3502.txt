@@ -1,0 +1,17 @@
+---
+title: Why You Drink
+url: https://edbatista.com/2007/03/why_you.html
+slug: why_you
+published: 2007-03-18T08:21:04
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+From Le Grand Content, a brilliant and baffling 4-minute animated film by Clemens Kogler and Karo Szmit:
+
+Le Grand Content examines the omnipresent Powerpoint-culture in search for its philosophical potential. Intersections and diagrams are assembled to form a grand 'association-chain-massacre'. which challenges itself to answer all questions of the universe and some more. Of course, it totally fails this assignment, but in its failure it still manages to produce some magical nuance and shades between the great topics death, cable tv, emotions and hamsters.
+
+There's an obvious association with Jessica Hagy's Indexed (she lists Le Grand Content's URL in her blog header), but I'm not sure who's the Chicken and who's the Egg.
+
+Thanks to Paul Hebert for turning me on to Indexed in the first place.
+

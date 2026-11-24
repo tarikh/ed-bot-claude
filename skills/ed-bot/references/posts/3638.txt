@@ -1,0 +1,39 @@
+---
+title: Academic Journals Have an Offer You Can't Refuse
+url: https://edbatista.com/2010/03/journals.html
+slug: journals
+published: 2010-03-28T14:23:38
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+(Academic journal publishers?)
+
+The other day I referenced a post by Bob Sutton that was inspired by a recent study in the Journal of Experimental Social Psychology by Nathaniel Fast of USC and Lara Tiedens of the Stanford Graduate School of Business.  (Full disclosure: I know Lara and support courses that she teaches at the GSB, although we haven't worked together directly.  I was also a student of hers in a previous century.)
+
+I wanted to check out the study for myself, so I found the Journal's website and tried to locate the article.  I expected it to be locked away behind a paywall, but I assumed I'd at least find an excerpt.  But I couldn't.  I'm hardly a professional researcher, but I'm a reasonably proficient user, and I couldn't even find a link.
+
+I often run into problems like this with academic journal sites, and even when I successfully navigate their poor design and confusing search architecture, the article I want is almost always prohibitively expensive.  But I was so irritated yesterday that I kept up the search and finally found not just a link but the entire text of the study: Blame contagion: The automatic transmission of self-serving attributions.
+
+Success!  And yet it's merely the exception that proves the rule.  That study was published in the Journal's January 2010 issue, which happens to be the only issue of the 60 published in the last decade that is freely available online.  Why?  I don't know--and can't find out on their website.  How long will it be available?  I don't know--and can't find out on their website.
+
+So what if I wanted to read a article from another issue?  For example, I'd love to read Fooled by first impressions? Reexamining the diagnostic value of appearance-based inferences, which was just published this month--and I can, for just $31.50.
+
+That's pretty pricey, but it's reasonable to assume that brand-new content is going to be more expensive.  What if I wanted to read an article from, say, ten years ago?  I'm sure I'd find it rewarding to read The Consequences of Communicating Social Stereotypes, published in November 2000--and I can, for the same low price of $31.50.
+
+Well, perhaps the article prices are so high in order to encourage subscriptions--although perhaps not, because in order to get all six issues of the Journal delivered to my (literal) mailbox, I'd have to pay $191.00.  (Good news for students--you pay just $146.00!)  And does a subscription to the print edition include online access?  I don't know--and can't find out on their website.
+
+Good grief.
+
+I don't mean to single out this particular journal or its publisher--these figures and policies are typical in my experience.  But with competitive pressures transforming the business models of every other publisher, how is it that academic journals are able to stay afloat with this pricing structure?  What keeps this racket going?
+
+My best guess is that these journals have no incentive to cultivate a market of individual readers like me via lower prices because they already hold the institutional market hostage.  Academics seeking tenure must publish their research in a small number of established journals in order to gain the recognition of their peers, so the journal publishers enjoy oligopoly control over content.  And university libraries and other institutional clients must subscribe to these same journals in order to meet the needs of faculty and other researchers, so the publishers can command outrageously high prices for institutional subscriptions--over $1,000.00, in the case of the journal cited above!
+
+And of course, journal subscriptions are just one small line item among all the other costs passed on to the biggest "consumers" of academia, who typically pay for a aggregated "bundle" of services from the institution: parents and students paying tuition; federal, state and local governments making appropriations; donors giving gifts.  (Thanks to the Delta Project for their data on post-secondary education revenue sources.)
+
+I'm a realist, and if I'm right about the incentives described above, I don't expect this system to change anytime soon.  But it's still a shame that so much useful knowledge is so difficult to access.
+
+Postscript: My wife Amy, a recovering corporate attorney-turned-legal reference librarian, is a professional researcher, and she writes, "But you're married to a librarian!  You could have asked for help, you know.  But I agree that the UI sucks for most online journals."  And while I'm always grateful for Amy's expert guidance (as well as help from the great reference staff at the GSB's Jackson Library), my hope is that someday it'll be easier (and cheaper!) for lay readers like me to access and make use of academic research.
+
+Photo of The Sopranos © HBO and TimeWarner.
+

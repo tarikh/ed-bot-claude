@@ -1,0 +1,307 @@
+---
+title: Three Painful Truths (On Change, Leadership & Mortality)
+url: https://edbatista.com/2023/03/three-painful-truths-on-change-leadership-and-mortality.html
+slug: three-painful-truths-on-change-leadership-and-mortality
+published: 2023-03-25T22:46:04
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+I believe three things to be true:
+
+- We're entering an era of heightened uncertainty and instability.
+
+- Leadership roles will be increasingly stressful as a result.
+
+- This existence is finite, and we are mortal creatures.
+
+(You may wonder why two predictions are followed by such a self-evident proposition--I'll address that below.)
+
+I'm sorry to be the bearer of bad news, and if you'd rather ignore these painful truths I wouldn't blame you in the least. Some leaders will do just that, and they'll be happier as a result--for a while. They'll turn a blind eye to the increasing volatility that has characterized our world--until change imposes itself upon them. They'll continue to lead as they've led in the past, and they'll get by--until they're depleted and burned out. They'll do all the things we do when we imagine we're immortal--until that illusion is no longer sustainable.
+
+I'm not suggesting that we're incapable of rising to meet these challenges. A dynamic world is full of opportunities as well as risks. Tough times make great leaders and give them occasions to shine. And the finite nature of this existence is what makes it meaningful. At my best, I embrace all of this, and my hopeful nature picks me up when I'm daunted. But my pragmatism makes it very clear that faith alone will not see us through. We need to accept reality. We need to develop our resilience. And we'll need support along the way. First, though, it's worth exploring why these truths are so painful and how they're related.
+
+ 
+
+On Change
+
+We all have different orientations toward change, and our personal attitude can vary tremendously over the course of our lives. Some of us embrace it more willingly than others, and we're all more or less open at different times, depending on our circumstances. But we also possess a powerful drive to exert control in our lives. We may embrace change willingly, even eagerly, and yet it's vital that we experience agency in the process.
+
+As I've written before, "pioneering psychotherapist Alfred Adler theorized that a 'will to conquer' the cosmos is the fundamental human motivation [1], and work by psychologists over the past century indicates that a desire to exert influence and determine outcomes is widespread and pervasive. [2] Recent research by a team from Columbia and Rutgers suggests that this need for control is inherently biological, not merely a socialized preference." [3] [4]
+
+But data from a number of disciplines suggests that the pace of change is increasing, rendering our world less certain and more unstable, making it more difficult to exert control. We see this as a result of developments in artificial intelligence [5], the likelihood of future pandemics [6], concerns about the banking system and financial markets [7], long-term cycles of social discord [8], and even the weather. [9]
+
+Our inherent "will to conquer" and our evolved desire for control are in direct tension with these trends, all of which seem to be accelerating, albeit at varying rates. It will grow more difficult to exert control and experience agency in a world subject to larger and less predictable dislocations. And while these changes will present us with endless opportunities for innovation and growth (as individuals, as societies, as a species), it will be painful to recognize the inevitable limits on our control and agency, to submit to forces beyond our influence (or comprehension), to accept disruption as an ongoing state of affairs, rather than a brief jolt.
+
+ 
+
+On Leadership
+
+In this unsettling environment we will increasingly look to leaders for guidance and reassurance, placing more pressure on them to shield us from the forces of change--and to help us find courage when change overtakes us. This is a function of the symbolic role that leaders fill--leadership isn't just about making strategic decisions and allocating resources. It is also--and I would suggest first and foremost--about storytelling, a topic I've addressed at length:
+
+Storytelling [is] such a powerful process...because we depend upon narratives to navigate the world--they are our compass in the wilderness, our lantern in the dark. Organizational psychologist Karl Weick called this "sensemaking": we rely upon narratives to "make sense" of ambiguous situations and pursue a plan of action in coordination with others. But our reliance on narratives means that in the absence of a coherent story we will feel lost and ungrounded. This poses a risk when we face rapid change that may overtake our existing narrative and render it out of date, as Weick noted: "People...act as if events cohere in time and space and that change unfolds in an orderly manner. These everyday cosmologies are subject to disruption." [10]... Through the act of storytelling the leader provides the group with an explanatory narrative that is invested with their authority and informed by their expertise, and thus more influential and credible. [11]
+
+At the best of times this is hard work, both cognitively complex and emotionally taxing, and it will only grow more challenging in the era to come. What are the explanatory narratives that will reconstruct our "everyday cosmologies"? How will our ability to understand the world around us keep up with the accelerating pace of change? Leaders will be hard-pressed to answer these questions--and one way of interpreting the leadership failures we see everywhere today is as a failure of imagination, an inability to identify and communicate a compelling story that enables people to "make sense of ambiguous situations and pursue a plan of action in coordination with others."
+
+Compounding this difficulty is the dual burden we place upon leaders. We expect them to serve as avatars, embodying the community they serve, scrupulously adhering to cultural norms and values, and scrutinizing their behavior for any deviations. [12] But even as we impose these demands upon them, we simultaneously fail to "empathize up." As I've noted before, "Even if we have a good relationship with someone in a superior position, the relative nature of our respective positions can create a sense of 'otherness' that makes it psychologically difficult for us to empathize with that person’s perspective and emotions." [13] We will ask more of leaders and offer them less in return.
+
+But aren't leaders well-compensated for these pains? It's inarguable that executive compensation has risen dramatically since the 1970s. [14] And yet, as I wrote recently, "The status, compensation and other perks [of leadership roles] are pleasurable, to be sure, but their power as sources of motivation inevitably diminishes or even disappears. A process psychologists call 'hedonic adaptation' ensures that we adjust to our circumstances and eventually take them for granted. [15] I see this constantly in my practice--leaders may strive mightily for years to obtain a certain position or achieve a given financial goal, and when they do the feeling of accomplishment is frequently less fulfilling and more ephemeral than they expected." [16]
+
+I've witnessed all of this in my work with leaders over the past two decades as the trends described above gained strength. As they accelerate in the era to come, leaders will be insulated from some of the painful consequences of change, but the experience of leadership itself will grow more stressful and demanding.
+
+ 
+
+On Mortality
+
+This existence is finite, and we are mortal creatures. Why make such an obvious statement--and how is it relevant to my points above? First, what may appear obvious in principle is anything but in practice. It is painful to acknowledge our mortality, and we strenuously resist doing so. Anthropologist and philosopher Ernest Becker located this at the heart of the human condition:
+
+The essence of man is really his paradoxical nature, the fact that he is half animal and half symbolic... He is a symbolic self, a creature with a name, a life history, [but] his body aches and bleeds and will decay and die. It is a terrifying dilemma. [17]
+
+Our terror serves an essential purpose, Becker argues--the fear of death is "an expression of the instinct of self-preservation, which functions as a constant drive to maintain life and to master the dangers that threaten life." [18] But to function on a day-to-day basis we have to keep our fear of death on the margins of consciousness, a point Becker makes by citing the psychoanalyst and historian Gregory Zilboorg--the fear of death "must be properly repressed to keep us living with any modicum of comfort... Therefore in normal times we move about actually without ever believing in our own death, as if we fully believed in our own corporeal immortality." [19]
+
+And why does this matter? Because the definition of "normal times" is changing, and in the tumultuous era now underway many of us will be reminded of our mortality much more frequently. For billions of people mortality is already an everyday affair, of course, but Becker and Zilboorg are writing for anyone not yet familiar with death. (They were--Becker liberated a Nazi concentration camp at age 20, and Zilboorg witnessed the Russian Revolution at age 27.)
+
+The trying circumstances to come will be painful, but we will undoubtedly survive. I'm a realist, not an alarmist, and humanity has endured far worse. But I suspect that in this new era one of our most reliable tools for "terror management" [20] will be less effective. I'm referring to what we might call "heroic projects," a concept derived from Becker's work that has had a significant influence on my own:
+
+As described by Sam Keen in his introduction to Becker's The Denial of Death, Becker believed that "the basic motivation for human behavior is our biological need to control our basic anxiety, to deny the terror of death," and over the course of our lives we engage in any number of activities with the (typically unconscious) goal of achieving a symbolic victory over mortality, which offers us at least a provisional respite from this terror. These energies can be directed toward many different ends--raising a family, building a business, pursuing fame or status or wealth. [21]
+
+I believe that this is one of the primary reasons why people pursue leadership roles, despite all of the headaches and heartaches noted above. Leadership itself is a heroic project, an attempt to make a difference, leave a legacy, and in so doing strive to transcend mortality. Few leaders take a job or start a company with this goal explicitly in mind, but it's often a factor at some level. [22]
+
+This striving ultimately proves futile, and at some point we must all come to terms with mortality. Whatever we may believe about what precedes or follows this existence, its finite nature eventually asserts itself. And yet this doesn't render our heroic projects invalid or unworthy. It is right and necessary that we make these efforts--that's how we keep the terror of death at bay, which allows us to function. We raise the family, build the business, pursue fame or status or wealth, hoping that when we accomplish our goal we'll finally feel some ease, a sense of peace, mission accomplished. That hope may be misplaced, but there's nothing wrong with striving toward an illusory goal when it's the striving that matters, and heroic projects serve that purpose.
+
+But this work is hard enough when times are good and life is predictable, and it will be increasingly difficult in the era that is emerging. The factors noted above--artificial intelligence, future pandemics, financial instability, social discord, and even the weather will make it harder for leaders to reliably pursue and accomplish any number of heroic projects. This doesn't mean there will be fewer opportunities for heroism--as I note above, tough times make great leaders. But even the best leaders' efforts will be repeatedly thwarted, and it will be painful.
+
+ 
+
+So What Can We Do?
+
+There's no simple solution, but there are certainly steps we can take. We can ready ourselves by acknowledging and accepting reality. We can prepare by developing our capacity for resilience. And we can identify and obtain the support we'll need in the process. What will this look like in practice?
+
+Acceptance
+
+I'm not a Buddhist, but I've learned much from teacher and author Pema Chödrön, and I find myself returning to this passage in difficult times:
+
+We think that if we just meditated enough or jogged enough or ate perfect food, everything would be perfect... Doing this is setting ourselves up for failure, because sooner or later, we're going to have an experience that we can't control: our house is going to burn down, someone we love is going to die, we're going to find out we have cancer, a brick is going to fall out of the sky and hit us on the head... To be fully alive, fully human, and completely awake is to be continually thrown out of the nest. [23]
+
+Mindfulness, exercise, a healthy diet--all worthy endeavors that I highly recommend. [24] But many of us pursue such activities in precisely the way that Chödrön describes--with the goal of exerting control over our minds and bodies under the illusion that doing so will guarantee that our experience in the world is predictable and pleasant. The absurdity of that idea will likely grow more evident in the years to come.
+
+We should continue these efforts, but with full awareness that they will not keep us safe and secure in the nest. We can't predict the nature of the unexpected event that will throw us out, but somehow, some day, we will be thrown out. This need not entail a passive stance in the face of difficulties--but rather than react with shock and outrage, we can respond with acceptance and determination.
+
+Resilience
+
+We often misunderstand the meaning of resilience, confusing it with invulnerability or toughness. The etymological root of resilience is the Latin resilire, which means "to rebound, recoil or jump back." Resilient materials deform under pressure while retaining their internal consistency, later returning to their original form. Iron is tough, but it's not resilient--when it reaches its breaking point it shatters into pieces. Being resilient in the face of difficulties doesn't mean that we're unaffected by painful experiences. Being resilient means that we have the ability to absorb the impact, respond flexibly, adapt to the resulting stress and pressure, and persist in these efforts over time--without shattering into pieces. [25]
+
+A model of resilience was Admiral James Stockdale, a prisoner of war for seven years in Vietnam. When he was asked by business author Jim Collins who among his fellow POWs were least likely to survive, he replied,
+
+Oh, it’s easy. I can tell you who didn’t make it out. It was the optimists... They were the ones who always said, "We’re going to be out by Christmas." Christmas would come and it would go. And there would be another Christmas. And they died of a broken heart... This is what I learned from those years in the prison camp, where all those constraints just were oppressive. You must never ever ever confuse, on the one hand, the need for absolute, unwavering faith that you can prevail despite those constraints with, on the other hand, the need for the discipline to begin by confronting the brutal facts, whatever they are. We’re not getting out of here by Christmas. [26]
+
+Among the various factors that contribute to resilience [27], one of the most important is emotion regulation, which is what enables that critical balance between faith that we will prevail and discipline to confront the brutal facts. The popular conception of emotions as mindless impulses that are antagonistic to logical reasoning is woefully inadequate and out-of-date. Neuroscientists have known for decades that emotions are vitally important inputs to the reasoning process. [28] At the same time, as neuroscientist Antonio Damasio notes, "uncontrolled or misdirected emotion can be a major source of irrational behavior"--a truism evident to anyone who's witnessed a panicked mob...or a bank run. [29]
+
+We can't control our emotions--nor would we want to [30]--but we can regulate them, which entails improving our ability to sense, comprehend, articulate and express what we're feeling. [31] This is of the utmost importance for leaders in the midst of a crisis, not only because they must manage their own inner emotional state, but also because their emotions are contagious. [32] Establishing that balance between faith and discipline on a team--or in a nation--starts with the leader's ability to look within and do the same.
+
+Support
+
+Leading is an inherently social task, and yet it is often a lonely one. As I wrote years ago, reflecting on my own experiences, "If you're a leader at the head of an organization, by definition you don't have internal peers who share your perspective. Your Board of Directors isn't going to provide you with the developmental support you've enjoyed from previous mentors and managers--they're there to challenge you, not to nurture you. And your family is going to get tired of hearing about the challenges you face long before you get tired of talking about them." [33] So it's essential for leaders to have people they can turn to for support, and those relationships need to be up and running long before a crisis hits.
+
+While I'm obviously a strong supporter of coaching, by no means is a coach a leader's only option. I tell my clients that I'm merely one member of their "coaching team," and they should activate as many others as possible, while taking care to identify truly trustworthy allies. [34] This includes family members and friends, who, even if they have limited patience or skills, can be guided into serving as more effective sources of support. [35]
+
+I also advise my clients to think systemically, which in this context entails recognizing that all of the other leaders around them will be struggling with the challenges identified above. There are limits on colleagues' ability to offer support, thus the need for coaches and other external resources. But optimally peers and teammates will be there for each other when needed--and this rests upon an organizational culture that values empathy without sacrificing accountability. [36]
+
+ 
+
+In Closing
+
+ My work piles up,
+I falter with disease.
+Time rushes toward me--
+it has no brakes. Still,
+the radishes are good this year.
+Run them through butter,
+add a little salt.
+
+~Jim Harrison, "Zona" [37]
+
+This poem was among those found on Harrison's writing desk when he died in 2016. Harrison is a hero of mine, not least because he faced adversity--the loss of an eye as a child, the death of his father and sister in an automobile accident, years of struggle as a writer--and yet he persevered, living a richly fulfilling life and completing a vast body of work.
+
+He was dying when he wrote the lines above, and no doubt he knew it, but that knowledge didn't stop him from working, or from enjoying all that this existence has to offer, right up until the end. I hope to find inspiration in his example during the challenges I will no doubt face in the years to come. I hope this piece encourages you to do the same.
+
+The radishes are good this year. Run them through butter, add a little salt.
+
+ 
+
+For Further Reading
+
+Change
+
+- The Obstacle Is The Way
+
+- Aggression, Panic, Paralysis, Denial
+
+- Tumbling Down Maslow's Hierarchy
+
+- Fooled by Randomness: The Hidden Role of Chance in Life and the Markets (Nassim Nicholas Taleb, 2008)
+
+Leadership
+
+- How Leaders Overcome Adversity
+
+- From Peacetime to Wartime
+
+- Leadership as Professional Practice
+
+- Compass and Weathervanes (30 Questions for Leaders)
+
+Mortality
+
+- Not Every End Is a Goal (On Midlife Malaise)
+
+- The Final Third (On Mortality, Values and Spending Time)
+
+- Death: The End of Self-Improvement (Joan Tollifson, 2019)
+
+- Four Thousand Weeks: Time Management for Mortals (Oliver Burkeman, 2021)
+
+Acceptance
+
+- When We Are Ready, the Practice Will Be Waiting
+
+- On the Shortness of Life
+
+- When Things Fall Apart: Heart Advice for Difficult Times (Pema Chödrön, 1996/2016)
+
+- Gratitude (Oliver Sacks, 2015)
+
+Resilience
+
+- The Tyranny of Feelings
+
+- How to Cross Antarctica (On Surviving Chaos)
+
+- How I Read Stoicism
+
+- Ignoring Bandits and Building Resilience
+
+Support
+
+- How to Find (and Choose) a Coach
+
+- Getting Coaching for Your Team
+
+- Trauma Stewardship: An Everyday Guide to Caring for Self While Caring for Others (Laura van Dernoot Lipsky, 2009)
+
+- Helping: How to Offer, Give and Receive Help (Edgar Schein, 2009)
+
+ 
+
+Footnotes
+
+[1] "Individual Psychology" (Alfred Adler, Chapter 21 in Psychologies of 1930, edited by Carl Murchison, 1930)
+
+[2] Feeling of Control Viewed as Central in Mental Health (Daniel Goleman, The New York Times, October 7, 1986):
+
+Researchers are finding that the sense of being in control, and the desire for such control, are more crucial and pervasive aspects of personality than psychologists had previously realized... 'We have a deep need to feel competent, to be in control of our environment; it is one of the primary motives in behavior,' said Jerry Burger, a psychologist at the University of Santa Clara.
+
+[3] Born to Choose: The Origins and Value of the Need for Control (Lauren Leotti, Sheena Iyengar and Kevin Ochsner, Trends in Cognitive Science, October 2010):
+
+Belief in one’s ability to exert control over the environment and to produce desired results is essential for an individual’s well being. It has been repeatedly argued that the perception of control is not only desirable, but it is likely a psychological and biological necessity... Converging evidence from animal research, clinical studies, and neuroimaging work suggest that the need for control is a biological imperative for survival.
+
+[4] Excerpted from Authority and Control in Organizational Life.
+
+[5] Embracing the rapid pace of AI (Laurel Ruma interviewing Cliff Justice, US leader for enterprise innovation, KPMG, MIT Technology Review, 2021):
+
+Cliff Justice: Even if one could fully wrap their head around the progress of artificial intelligence and the potential of artificial intelligence, changing an organization and changing the mindset and the culture in a way to adopt and benefit from the opportunities that artificial intelligence poses and also protect against the threats take some time. So, it creates a level of anxiety and caution which is, in my view, well justified.
+
+[6] See Statistics Say Large Pandemics Are More Likely Than We Thought (Michael Penn, Duke Global Health Institute, 2021) and Pandemics Will be More Frequent (Abraham Haileamlak M.D., Ethiopian Journal of Health Science / National Library of Medicine, 2022).
+
+[7] To take just one example, see Fed Walks Tightrope Between Inflation and Bank Turmoil—but for How Long? (Greg Ip, The Wall Street Journal, 2023)
+
+[8] As I wrote in my December 2020 newsletter, "The historian Peter Turchin has a theory that complex societies undergo predictable periodic crises, driven by 1) a decline in general wages, 2) heightened competition among elites, and 3) the loss of asabiya, an Arabic term that refers to 'the capacity of a social group for concerted collective action.' This characterized the U.S. in the middle of the 19th century, and the result, Turchin would argue, was the Civil War. A similar set of circumstances prevailed in the U.S. after World War I, when the country experienced a surge of violent activity, from racist mobs to labor strife. At both junctures U.S. society underwent a profound and dramatic change, and Turchin believes we’re at a similar point in the historical cycle. We’re unlikely to return to the status quo ante, he suggests, because the current environment isn’t a function of the pandemic, or the current administration, or any single given cause. These factors may not be causes at all, but, rather, symptoms of much larger trends to be observed over the past 50 years in the three elements in Turchin’s model."
+
+[9] See Explaining Extreme Events in 2021 and 2022 from a Climate Perspective (American Meteorological Society, 2022)
+
+[10] "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster" (Karl Weick, Administrative Science Quarterly, Volume 38, Number 4, December 1993)
+
+[11] Excerpted from The Importance of Shared Narrative.
+
+[12] Adapted from Leader as Avatar.
+
+[13] Excerpted from The Difficulty of Empathizing Up.
+
+[14] See CEO Compensation: Data (David Larcker, Bryan Tayan, Stanford Graduate School of Business, 2019) and CEO Compensation (Carola Frydman, MIT Sloan School of Management and Dirk Jenter, Stanford Graduate School of Business, 2008)
+
+[15] Early research on hedonic adaptation dates back to the 1970s--for example, see Lottery Winners and Accident Victims: Is Happiness Relative? (Philip Brickman, Dan Coates and Ronnie Janoff-Bulman, Journal of Personality and Social Psychology, 1978). More recently, UC Riverside Sonja Lyubomirsky provides what I find to be the most useful descriptions of the concept:
+
+Although we may achieve temporary boosts in well-being by moving to new parts of the country, securing raises, or changing our appearances, such boosts are unlikely to be long-lasting. The primary reason...is that people readily and rapidly adapt to positive circumstantial changes. (The How of Happiness, page 63, 2007)
+
+The more we attain, the happier we become. But, at the same time, the more we attain, the more we want, which negates the increased happiness. (The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, page 120, 2014) 
+
+[16] Excerpted from Leaders Love Puzzles (for Better and for Worse).
+
+[17] The Denial of Death, pages 25-26 (Ernest Becker, 1973)
+
+[18] Ibid, page 16.
+
+[19] "Fear of Death" (Gregory Zilboorg, Psychoanalytic Quarterly, 1943, cited in The Denial of Death, page 17)
+
+[20] I'm not aware that Ernest Becker ever used the term "terror management," but his work has been the inspiration for a concept in psychology known as terror management theory.
+
+[21] Excerpted from Learning From Sisyphus.
+
+[22] I'm convinced that this explains much of the ongoing fascination with Apple co-founder Steve Jobs well over a decade after his death. While he deserves to be remembered as a gifted entrepreneur who launched and later rescued an iconic company that continues to influence the culture at large, it is the fact that he is remembered at all that makes him a mythic figure in the eyes of so many leaders today. Jobs succeeded--at least for the time being--in achieving his heroic project. Of all the successful businesspeople from the past, perhaps only Henry Ford compares, the Jobs of his era. We still know Ford's name, although it doesn't come up in my practice nearly as often as Jobs'. And while both will eventually be forgotten, the fact that they are remembered is what makes them relevant, even more than the accomplishments that made them memorable.
+
+[23] When Things Fall Apart, page 70 (Pema Chödrön, 1997)
+
+[24] See the following:
+
+- Don't Just Do Something, Sit There! (Mindfulness for Busy People
+
+- Get Moving! (Exercise for Busy People)
+
+- Low-Carb High-Fat (LCHF) Resources
+
+[25] Adapted from The Ruling Out of Possibilities (On Failure).
+
+[26] The Stockdale Paradox (Jim Collins, 2017)
+
+[27] Work by psychologists Karen Reivich and Andrew Shatté suggests that resilience is a function of the extent to which we manifest certain characteristics and engage in specific behaviors, all of which are learnable or subject to influence: Emotion regulation, impulse control, optimism, causal analysis, empathy, self-efficacy and reaching out. See The Resilience Factor: 7 Keys to Finding Your Inner Strength and Overcoming Life's Hurdles, Chapter 2: How Resilient Are You?, pages 31-47 (Karen Reivich and Andrew Shatté, 2002).
+
+[28] Antonio Damasio on Emotion and Reason
+
+[29] Descartes' Error: Emotion, Reason and the Human Brain, page 53 (Antonio Damasio, 2005)
+
+[30] "It is clear that emotion should not be very susceptible to willful control. If we could turn off all our emotions, feel no pain, never laugh, not be gripped by fear or despair, stop being excited, and so on, we could easily end up dead... The priority of emotions over will is important for our survival because it allows our plans to be interrupted by the immediate pressures of reality.." From White Bears and Other Unwanted Thoughts: Suppression, Obsession, and the Psychology of Mental Control, page 123 (Daniel Wegner, 2nd edition, 1994)
+
+[31] The Tyranny of Feelings
+
+[32] For more on leadership and emotional contagion:
+
+- The Contagious Leader: Impact of the Leader's Mood on the Mood of Group Members, Group Affective Tone, and Group Processes (Thomas Sy, Stephane Cote and Richard Saavedra, Journal of Applied Psychology, 2005)
+
+- For better results, emotional contagion matters (Sigal Barsade, Wharton @ Work, 2011)
+
+- Leadership and Emotional Contagion (Louise Altman, Intentional Communication, 2011)
+
+- Contagious leaders and followers: Exploring multi-stage mood contagion in a leader activation and member propagation (LAMP) model (Thomas Sy and Jin Nam Choi, Organizational Behavior and Human Decision Processes, 2013)
+
+- Emotion contagion in leadership (Inga Minelgaite and Egle Vaiciukynaite, Business and Economic Horizons, 2016)
+
+[33] Leading Is Lonely and Other Thoughts
+
+[34] The Friendship of Wolves
+
+[35] What Do You Need Right Now? (Advice, Listening, A Hug?)
+
+[36] For more on organizational culture, see the following:
+
+- Accountability and Empathy (Are Not Mutually Exclusive)
+
+- Hard Problems in Soft Cultures
+
+- Safety Is a Resource, Not a Destination
+
+[37] Dead Man's Float (Jim Harrison, 2016)
+
+ 
+
+Photos: Coyote traps courtesy of Fur-Fish-Game. The Edith Macefield house courtesy of My Modern Met. And Jesus Wept in Oklahoma City by Jerry Worster. San Francisco National Cemetery by Hitchster. Weightlifter by U.S. Navy 6th Fleet. Radishes by sk.
+

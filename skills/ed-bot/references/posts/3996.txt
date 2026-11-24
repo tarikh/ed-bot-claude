@@ -1,0 +1,153 @@
+---
+title: Hammering Eggs (Leadership and Problem-Solving)
+url: https://edbatista.com/2019/04/hammering-eggs-leadership-and-problem-solving.html
+slug: hammering-eggs-leadership-and-problem-solving
+published: 2019-04-01T17:42:05
+updated: 2025-10-08T12:33:59
+source_body: wordpress-html
+---
+
+You're a leader at a growing company who feels a great deal of responsibility to help your employees and colleagues solve problems. You're skilled at spotting trouble early, identifying a solution quickly, and implementing it with vigor, and this has served you well, particularly in the early stages of the business. As I've observed in my coaching practice, "in the first few months (and sometimes years) after launching the company...every task and issue seems important, there aren't many other people to delegate to, and it seems perilous to ignore things." [1] In such an environment, a leader's bias for action can mean the difference between survival and extinction.
+
+But as you grow more senior and your organization scales, this forceful approach to problem-solving will at times be like cracking eggs with a hammer: Something gets accomplished, but a mess is made in the process. You may see a problem where none exists, or you may misdiagnose it. Your preferred solution may not be the best option, or the process by which it's arrived at may generate resistance among your team. And you may miss organizational factors that will prevent or delay successful implementation of a solution.
+
+To be clear, I'm not suggesting that you should avoid acting decisively, abandon your intuitive judgment, or always delegate problem-solving to others. I am suggesting that you adapt your approach to problem-solving to fit the evolving needs of the organization around you, and this may entail doing less of what's worked in the past. A central theme in my practice is that "a leader who continues to lead by doing more often becomes less effective and may even undermine the organization as it grows larger and more complex." [2]
+
+So before you jump in with a hammer, slow down and ask these questions first:
+
+1. IS there a problem?
+
+Your vantage point as a leader allows you to see problems that others can't, and an ability to predict unanticipated problems may have enabled you to obtain a leadership role in the first place. At the same time, all human beings can be unduly influenced by vivid memories of past problems. Bad experiences are much more influential than good ones in shaping our impressions, and such memories are "more resistant to disconfirmation," so we can cling tightly to any information that we interpret as evidence of a problem. [3]
+
+And while your position affords you a broader perspective, your employees are probably closer to the issues at hand and may have more relevant or up-to-date expertise. As Peter Drucker realized long ago, "once beyond the apprentice stage, knowledge workers must know more about their job than their boss does--or else they are no good at all. In fact, that they know more about their job than anybody else in the organization is part of the definition of knowledge workers." [4]
+
+When you assume that a problem exists, employees may defer to your perspective and discount their own views.
+
+2. WHAT is the problem?
+
+Your experience allows you to pick up patterns that others miss and interpret data that others find opaque. Your holistic view across functions also enables you to see inter-dependencies that employees may not be able to observe. This can allow you to quickly diagnose the source of the issue--and yet a danger of early diagnosis is rooted in how our brains work, particularly when we're under stress.
+
+In every new situation, we construct an explanatory narrative that enables us to interpret what's happening, and we can do so almost immediately based on only a tiny fraction of the potentially available information. Our brains are operating on the principle that it's safer to have a story to help us make sense of our circumstances--any story at all--than to wait for additional information that will allow us to be absolutely sure our version of events is correct. We're usually right--this is how we navigate the world successfully--but when we're wrong it's extraordinarily difficult to let go of our initial explanation, leading to overconfidence in our beliefs. As Nobel Prize-winning psychologist Daniel Kahneman has written,
+
+The confidence that individuals have in their beliefs depends mostly on the quality of the story they can tell about what they see, even if they see little. We often fail to allow for the possibility that evidence that should be critical to our judgment is missing--what we see is all there is. Furthermore, [our brain] suppresses doubt and ambiguity. [5]
+
+When you leap to a diagnosis, it's easy to be "confidently wrong," so bear in mind how much you don't know and challenge your interpretation of events. [6]
+
+3. What MIGHT be the solution?
+
+The same skills that allow you to diagnose a problem rapidly may also you them to adopt a solution just as quickly--and, of course, the same cognitive biases noted above can hinder your ability to choose the best solution. Further, the difficulty of creative problem-solving is exacerbated when we're under stress, which reduces our ability to process information and collaborate effectively, as executive coach David Rock has noted:
+
+When threatened, the increased overall activation in the brain inhibits people from perceiving the more subtle signals required for solving non-linear problems, involved in the insight or 'aha!' experience (Subramaniam et al, 2007). [And] with the amygdala activated, the tendency is to generalize more, which increases the likelihood of accidental connections. There is a tendency to err on the safe side, shrinking from opportunities, as they are perceived to be more dangerous. People become more likely to react defensively to stimuli. Small stressors become more likely to be perceived as large stressors (Phelps, 2006). [7]
+
+The key is keeping stress levels sufficiently low--your own and those of your employees--in order to allow for more expansive thinking and intuitive insights. A leader's emotions are contagious, so your behavior and demeanor will have a significant impact on the surrounding atmosphere and the team's ability to generate options.
+
+4. How are WE contributing to the problem?
+
+The term "iatrogenic illness" refers to health care problems caused by the health care system. Philosopher Ivan Illich noted that "iatrogenesis can be direct, when pain, sickness, and death result from medical care; or it can be indirect, when health policies reinforce an industrial Organisation which generates ill-health." [8] There are analogous factors in business--we can think of them as "iatrogenic management." In our haste to solve problems we often fail to consider ways in which our own behavior is contributing to the issue. Further, our efforts to solve the problem may actually make it worse.
+
+It can be extremely difficult to assess the potential negative impact of our actions--we assume that our good intentions translate into positive results. Your perspective as a leader may allow you to observe how others are contributing to the problem, but sharing such observations can readily evoke defensiveness. This results from what Columbia Business School professor Adam Galinsky calls the "power amplification effect"--feedback from a leader often has a stronger impact than was intended, and ambiguous comments by those with more power tend to be interpreted negatively by those with less. [9] So it's essential to use clear language and to work on making feedback less stressful. [10]
+
+At the same time, you face the same challenge in assessing your own potential contributions to the problem, and others may be reluctant to give you this feedback. Power distorts what others choose to tell us and what we choose to hear, and the more power we have relative to someone else, the more distortion there is in the dialogue. You can and should seek to heighten your self-awareness by cultivating the practice of what Kennedy School professor Ron Heifetz calls "getting off the dance floor and going to the balcony" [11] to observe your own behavior, but you should also explicitly ask for direct feedback from others and make it safe for employees to point out how you may be making things worse.
+
+5. WHO owns the decision?
+
+This question was easier to answer early in the development of your company or team: You do. This offers advantages of simplicity and clarity, but when decision-making authority remains centralized as a business grows, the leader becomes a bottleneck, and decisions are made too far away from vital information. Employees need more agency and independence to move quickly and make full use of their expertise.
+
+Management thinker Jurgen Appelo has identified "7 Levels of Delegation" to help leaders and their teams clarify how a decision will be made in any given situation:
+
+1) TELL: Leader decides, no discussion
+
+2) SELL: Leader decides and convinces
+
+3) CONSULT: Leader seeks input and decides
+
+4) AGREE: Leader and group decide together
+
+5) ADVISE: Leader suggests and others decide
+
+6) INQUIRE: Others decide and inform leader
+
+7) DELEGATE: Others decide with no further discussion [13,14]
+
+(Here's an illustration.)
+
+While it's clearly useful to give some consideration to which level is best suited to a given issue, simply being aware of the options and agreeing on the process in advance may be the most important step.
+
+6. What's our collective readiness to CHANGE?
+
+Successful implementation of a solution will likely require organizational change--and that process is almost certainly more complex than it was when the company was smaller and you were working on issues that cut across fewer functions. This is where even talented leaders can struggle to adapt--they grow frustrated with the longer timelines and the wider range of stakeholders that senior roles and larger organizations must accommodate. After laboring to surmount the issues discussed above, when resistance to change is encountered during implementation a leader may revert to past practice and break out the hammer.
+
+Leaders in growing companies shouldn't simply give in to bureaucracy, but they also need to keep their hammers safely stowed for real emergencies. As London Business School professor Rob Goffee and INSEAD professor Gareth Jones have written,
+
+Leaders must conform enough [to the surrounding culture] if they are to make the connections necessary to deliver change. Leaders who succeed in changing organizations challenge the norms--but rarely all of them, all at once. They do not seek out instant head-on confrontation without understanding the organizational context. Indeed, survival (particularly in the early days) requires measured adaptation to an ongoing, established set of social relationships and organizational networks. [15, emphasis original]
+
+This advice obviously applies to leaders who join long-established organizations as change agents from outside, but it also applies to leaders within growing companies where the culture is continuously evolving. Using Reid Hoffman's metaphor, early-stage startups are like pirate ships--they "lack formal processes and are willing to question and even break rules." [16] However, Hoffman continues, successful startups transition from a "pirate culture" to a "Navy culture" that's more "sober and responsible." The leader whose piratical ways saved the company in its early stages may find themselves out of step in a culture that now finds value in a more thoughtful, measured approach. [17]
+
+When a leader is able to "conform to the culture just enough," they can promote change in a complex environment by challenging established ways of operating without triggering undue resistance. A key step in this process is creating a sense of psychological safety. Harvard Business School professor Amy Edmondson has been studying the concept of safety in organizations for decades. [18,19] Leaders can take three specific steps to enhance safety, Edmondson notes:
+
+First, set the stage. Create a shared understanding of the nature of the work we do and why everyone's input matters... This is not about calling out potential incompetence. It means acknowledging out loud that by their nature our systems can compound mistakes, and unless we do everything with interpersonal awareness and focus, things can go wrong.
+
+Having set the stage, it's also important to proactively invite input. Asking is the simplest and best way to get people to offer their ideas. Even if a leader has explained how error-prone the work is, people still have a threshold to overcome in speaking up with concerns or mistakes. To help them, simply ask questions...like: "What do you see in this situation?"...
+
+Third, respond appreciatively. Having explained the nature of the work and asked for input, if you bite someone’s head off the first time they bring bad news, that will kill the psychological safety pretty quickly... Responding appreciatively does not mean that you’re thrilled with everything that was said; it means that you recognize the courage it takes to come forward with bad news, or to ask a question when you’re unsure about something. [20]
+
+In the absence of psychological safety, we resist change because of what longtime MIT Sloan professor Edgar Schein called "learning anxiety," which is "the feeling that if we allow ourselves to enter a learning or change process, if we admit to ourselves and others that something is wrong or imperfect, we will lose our effectiveness, our self-esteem and maybe even our identity... It is the dealing with learning anxiety, then, that is the key to producing change... This process can be conceptualized in its own right as creating for the learner some degree of 'psychological safety.'" [21]
+
+So note that psychological safety in an organization is a resource, not a destination. The point is not to create safety for the mere sake of doing so, but to make it easier for people to experiment, take risks, learn and grow--in short, to change. [22]
+
+Footnotes
+
+[1] Early-Stage Survival and Later-Stage Success
+
+[2] How to Scale: Do Less, Lead More
+
+[3] Bad Is Stronger Than Good (Roy Baumeister, Ellen Bratslavsky, Catrin Finkenauer and Kathleen Vohs, Review of General Psychology, 2001)
+
+[4] Management Challenges for the 21st Century, Chapter 1: "Management's New Paradigms," page 18 (Peter Drucker, 2001)
+
+[5] Thinking, Fast and Slow, pages 87-88 (Daniel Kahneman, 2011)
+
+[6] Seeing What's Not There (The Importance of Missing Data)
+
+[7] SCARF: A brain-based model for collaborating with and influencing others, page 3 (David Rock, NeuroLeadership Journal, 2008)
+
+[8] Medical nemesis (Ivan Illich, The Lancet, 1974. Reprinted in the BMJ: Journal of Epidemiology and Community Health, 2003)
+
+[9] When You're In Charge, Your Whisper May Feel Like a Shout (Adam Galinsky, The New York Times, 2015)
+
+[10] Make Feedback Less Stressful
+
+[11] A Survival Guide for Leaders (Ron Heifetz and Marty Linsky, Harvard Business Review, 2002)
+
+[12] How to Scale: Do Less, Lead More
+
+[13] Leadership, Decision-Making and Emotion Management
+
+[14] The 7 Levels of Delegation (Jurgen Appelo, 2015)
+
+[15] Why Should Anyone Be Led By You?, pages 109-110 (Rob Goffee and Gareth Jones, 2006)
+
+[16] Why Uber Needs to Transition from "Pirate" to "Navy" (Reid Hoffman, LinkedIn, 2017)
+
+[17] Pirates In the Navy
+
+[18] Psychological safety and learning behavior in work teams (Amy Edmondson, Administrative Science Quarterly, 1999)
+
+[19] The Fearless Organization: Creating Psychological Safety in the Workplace (Amy Edmondson, 2018)
+
+[20] Make Your Employees Feel Psychologically Safe (Amy Edmondson interviewed by Martha Lagace, Harvard Business School Working Knowledge, 2018)
+
+[21] Kurt Lewin's Change Theory in the Field and in the Classroom: Notes Toward a Model of Managed Learning, page 5 (Edgar Schein, 1995)
+
+[22] Safety, Trust Intimacy
+
+For Further Reading
+
+The Importance of Slowing Down
+
+Taking the Leap (Dealing with Risk and Uncertainty)
+
+How Leaders Create Safety (and Danger)
+
+Photo by Matthew.
+

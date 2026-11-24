@@ -1,0 +1,59 @@
+---
+title: Self-Monitoring
+url: https://edbatista.com/2011/07/self-monitoring.html
+slug: self-monitoring
+published: 2011-07-16T14:33:17
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+There's an emerging body of research which suggests that the ability to "self-monitor" has a significant effect on our relationships and professional prospects, particularly for women. [1] So what does "self-monitoring" mean in practice? The concept is based on a 13-question instrument developed by psychologists Richard Lennox and Raymond Wolfe. [2] The first seven items in the instrument refer to one's "ability to modify self-presentation":
+
+1. In social situations, I have the ability to alter my behavior if I feel that something else is called for.
+
+2. I have the ability to control the way I come across to people, depending on the impression I wish to give them.
+
+3. When I feel that the image I am portraying isn't working, I can readily change it to something that does.
+
+4. I have trouble changing my behavior to suit different people and different situations.
+
+5. I have found that I can adjust my behavior to meet the requirements of any situation I find myself in.
+
+6. Even when it might be to my advantage, I have difficulty putting up a good front.
+
+7. Once I know what the situation calls for, it's easy for me to regulate my actions accordingly.
+
+And the final six items in the instrument refer to one's "sensitivity to expressive behaviors of others":
+
+8. I am often able to read people's true emotions correctly through their eyes.
+
+9. In conversations, I am sensitive to even the slightest change in the facial expression of the person I'm conversing with.
+
+10. My powers of intuition are quite good when it comes to understanding others' emotions and motives.
+
+11. I can usually tell when others consider a joke to be in bad taste, even though they may laugh convincingly.
+
+12. I can usually tell when I've said something inappropriate by reading it in the listener's eyes.
+
+13. If someone is lying to me, I usually know it at once from that person's manner of expression.
+
+While we might readily agree that the ability to "modify our self-presentations" and to "sense the expressive behaviors of others" are essential interpersonal skills, it can be challenging to determine how we might improve our skills in these areas without a clearer sense of just what those vague phrases mean. So even without completing the instrument, it can be useful to see these concepts broken down into specific behaviors.
+
+Such clarity won't immediately translate into more effective interpersonal behavior, of course. As with all desired behavior change, awareness is often insufficient on its own--but it's the necessary first step. My experience as a coach is consistent with the research's suggestion that self-monitoring can have a significant positive effect on our relationships, and I suspect that a clearer understanding of the behaviors that comprise self-monitoring, active intention to express those behaviors, and periodic reflection on our effectiveness can all contribute to improved interpersonal experiences.
+
+ 
+
+This is a companion piece to Self-Monitoring and Authenticity and Cautionary Tales (Authenticity at Work).
+
+Footnotes
+
+[1] For research on self-monitoring and women:
+
+- Overcoming the Backlash Effect: Self-Monitoring and Women's Promotions (Olivia O'Neill and Charles O'Reilly, Journal of Occupational and Organizational Psychology, 2011)
+
+- What’s Good for the Goose May Not Be Good for the Gander: The Benefits of Self-Monitoring for Men and Women (Frank Flynn, Journal of Applied Psychology, 2006)
+
+[2] Revision of the Self-Monitoring Scale (Richard Lennox and Raymond Wolfe, Journal of Personality and Social Psychology, 1984)
+
+Photo by impetush.
+

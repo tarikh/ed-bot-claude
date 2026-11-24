@@ -1,0 +1,55 @@
+---
+title: Peter Drucker on Knowledge Workers, Management and Leadership
+url: https://edbatista.com/2008/10/drucker-1.html
+slug: drucker-1
+published: 2008-10-05T23:16:45
+updated: 2025-10-02T23:01:09
+source_body: wordpress-html
+---
+
+If you're reading this, you're almost certainly a knowledge worker of one sort or another. And if you're a knowledge worker within an organization, here's an essential question you need to ask: Am I being managed, or am I being led? And if in turn you're responsible for the performance of other knowledge workers, you need to ask yourself: Am I managing, or am I leading?
+
+I'm prompted to ask these questions by Peter Drucker's Management Challenges of the 21st Century, one of the most insightful and thought-provoking books I've ever read, and one I return to regularly, nearly a decade after its publication. The first chapter in this pithy volume, "Management's New Paradigms," explodes six deeply flawed assumptions that Drucker saw underlying the discipline and practice of contemporary management. Assumption #3 is "There is, or there must be, one right way to manage people," and Drucker uses this as the starting point for an exploration of the characteristics of knowledge workers and why they must be led and not merely managed. An excerpt from pages 17-22 of the Harper Business paperback edition:
+
+In no other area are the basic traditional assumptions [about management] held as firmly...as in respect to people and their management. And in no other area are they so totally at odds with reality and so totally counterproductive...
+
+On [the] fundamental assumption that there is--or at least should be--one and only one right way to manage people rest all the other assumptions about people in organizations and their management.
+
+One of these assumptions is that the people who work for an organization...are subordinates...
+
+[F]ewer and fewer people are "subordinates"--even in fairly low-level jobs. Increasingly they are "knowledge workers."  And knowledge workers are not subordinates; they are "associates." For, once beyond the apprentice stage, knowledge workers must know more about their job than their boss does--or else they are no good at all. In fact, that they know more about their job than anybody else in the organization is part of the definition of knowledge workers...
+
+To be sure, these associates are "subordinates" in that they depend on the "boss" when it comes to being hired or fired, promoted, appraised and so on. But in his or her own job the superior can perform only if these so-called subordinates take responsibility for educating him or her... In turn, these "subordinates" depend on the superior for direction. They depend on the superior to tell them what the "score" is.
+
+Their relationship, in other words, is far more like that between the conductor of an orchestra and the instrumentalist than it is like the traditional superior/subordinate relationship...
+
+Altogether, an increasing number of people who are full-time employees have to be managed as if they were volunteers. They are paid, to be sure. But...[w]e have known for fifty years that money alone does not motivate to perform... What motivates--and especially what motivates knowledge workers--is what motivates volunteers. Volunteers, we know, have to get more satisfaction from their work than paid employees, precisely because they do not get a paycheck. They need, above all, challenge. They need to know the organization's mission and to believe in it. They need continuous training. They need to see results...
+
+Increasingly "employees" have to be managed as "partners"--and it is the definition of a partnership that all partners are equal. It is also the definition of a partnership that partners cannot be ordered. They have to be persuaded...
+
+One does not "manage" people.
+
+The task is to lead people.
+
+And the goal is to make productive the specific strengths and knowledge of each individual.  [Emphasis original]
+
+As a "Leadership Coach" (my job title) working within the "Center for Leadership Development and Research" (my unit at Stanford's Graduate School of Business) supporting such classes as "Strategic Leadership" and "Leadership Coaching and Mentoring," perhaps it's not surprising that I find this passage so compelling. Down with "management"! Up with "leadership"!
+
+But the current enthusiasm for "leadership" isn't just a semantic fad; it's directly related to the rise of the knowledge worker and their (our) needs as articulated by Drucker: satisfaction, challenge, belief in a mission, continuous training and results. Management can actually make it more difficult for knowledge workers to attain those goals, but leadership is essential to their success.
+
+What's the difference? Again I turn to Drucker, who is said to have remarked, "Management is doing things right; leadership is doing the right things." (Even if the quote's apocryphal, it neatly paraphrases Drucker's views on the subject.)
+
+Some recent personal experiences have helped make this distinction all too clear. For the last six months I've worked with two teams of MBA students in Stanford's Leadership Fellows program. I'm not their "boss," but I am tasked with insuring their effective performance and assessing the results. In retrospect it's obvious that I began my relationships with both teams with a misguided focus on their management; I knew what I wanted them to do, and I wanted them to "do things right." So I set our agendas, ran our meetings, defined the sub-teams and their responsibilities. And as a result, I had two teams of efficiently-managed but poorly-led and increasingly unhappy knowledge workers.
+
+Happily, our program strongly encourages students to provide us with feedback on our own performance--and the students on these teams are particularly thoughtful and candid--and thanks to this feedback I realized that my focus on their management was actually demotivating. This isn't to say they needed no management, but they needed a lot less than they'd been getting from me, and they needed a lot more leadership. They needed me to help them understand and define "the right things to do," and then they needed me to get out of their way to allow them to determine how to "do things right."
+
+I shared this perspective via email with the team members over the summer, and when classes began a few weeks ago, I said in the first meeting with both teams that I intended to play a different role going forward. At the time I wasn't thinking in terms of "management" vs. "leadership"--I hadn't re-read Drucker yet--but I did say that I wanted to be less directive and to foster a greater sense of empowerment and ownership among the team members. And over the past few weeks I've put this philosophy into practice: Not only have I stopped setting agendas, I don't even attend many of the meetings, and I don't run the ones I do attend.  I make fewer decisions, particularly with regard to logistics and the allocation of resources. And I've worked hard to insure that team members are free to fulfill their responsibilities as they see fit, with minimal direction from me.
+
+This isn't to say I'm no longer managing at all--that's still a part of my role, and at times I do get involved in how to "do things right." But I do so far less frequently, and with greater care for the consequences of my involvement at that level. I spend a lot more time and energy thinking about "the right things to do," and I'm acutely aware that the most important thing for me to do as a leader of knowledge workers is to help them realize Drucker's goals: feel both satisfied and challenged, sustain a sense of belief in our mission, obtain continuous training, and achieve results.
+
+We're only halfway through Fall Quarter, so a final verdict has yet to be rendered, but a positive change is already palpable. Both teams are more engaged and enthusiastic, and I am, too. There are a number of factors at work here--most notably the change from spring, when the students are preparing for the following academic year, to fall, when the Leadership Fellows program kicks off in earnest and the Second Year Fellows begin to meet with--and lead!--their teams of First Years. But I'm more convinced than ever in the fundamental rightness of Drucker's philosophy: One does not "manage" people. The task is to lead people.
+
+So are you being managed, or are you being led?  Are you managing, or are you leading?
+
+UPDATE: Things turned out well with both of the teams discussed above--see Authentic Leadership and Your "Crucible Story" for more.
+

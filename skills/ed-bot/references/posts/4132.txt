@@ -1,0 +1,99 @@
+---
+title: How to Deliver Bad News
+url: https://edbatista.com/2022/07/how-to-deliver-bad-news.html
+slug: how-to-deliver-bad-news
+published: 2022-07-27T16:59:43
+updated: 2025-09-24T11:58:03
+source_body: wordpress-html
+---
+
+The unpleasant task of delivering bad news is a common challenge for my clients: the CEO with bad news for their Board, the executive with bad news for their CEO, the investor with bad news for their LPs, the leader at any level with bad news for their employees. No one enjoys this onerous task, but over the years I've seen leaders make a bad situation worse by trying to avoid or delay the inevitable discomfort.
+
+You can't render the experience painless, but you can make it easier for all parties, including yourself, by delivering bad news in three steps. Below I refer to "a conversation," and in some cases all three steps should be undertaken in a single interaction, while in others they should be spaced out over an extended dialogue. Your specific circumstances will determine the timing, but however you choose to proceed this framework can help you structure your bad news in a way that minimizes rancor and increases everyone's willingness to work together toward a solution.
+
+1. Here's What Happened
+
+The first and most important step is simply initiating the conversation. You don't want to have this conversation, and there are undoubtedly a number of plausible reasons to keep putting it off, including the possibility that if you wait long enough some good news will render it unnecessary. But at this moment you still have a choice, and it's equally possible that if you wait too long you will lose that option. [1]
+
+The parties you've been reluctant to approach may hear your bad news first from some other source, and when this happens there will be a loss of trust. As painful as the conversation may be, by initiating it you may well gain trust and strengthen the relationship. In addition, other forcing functions may compel you to have the conversation under suboptimal conditions. By initiating the conversation you retain the ability to influence when and how it takes place and who participates. [2]
+
+Having initiated the conversation you may be inclined to downplay or discount the bad news and share only the bare minimum of information. Consider the importance in surgical procedures of "debridement"--the removal of dead, damaged or infected tissue is a necessary precursor to the healing process, and when any such tissue is left behind the wound only gets worse. Get it all out.
+
+2. Here's Why (or Here's What I've Learned)
+
+While being candid with bad news is the starting point, the next step is providing an explanation for its cause. In some cases you'll know exactly why the bad news occurred. Unfortunately this explanation may be embarrassing, particularly if your action or inaction was a contributing factor. Even if you aren't directly culpable, if you're in a senior role you may feel embarrassed that it happened on your watch. But trying to avoid acknowledging your embarrassment often only makes it worse. [3]
+
+It can be an even greater challenge when you don't know the cause, and here you face an inherent tradeoff. Delaying the conversation while you seek to determine the cause increases the risks noted above, but initiating the conversation and failing to provide any explanation will heighten the other parties' fears and anxieties. When we don't fully understand why something is happening, we rapidly construct an "explanatory narrative" to help us make sense of the situation. In the absence of complete information, we'll fill in the gaps by jumping to conclusions, and these speculations are likely to have a negative bias. [4]
+
+A compromise is to specify what you've learned about the cause and offer some potential explanations, while emphasizing that you're still gathering information. While doing so, bear in mind that you're also subject to the psychological dynamics described in the previous paragraph. Be aware of the self-protective tendency to respond to uncertainty by assuming the worst.
+
+3. Here's What I'm Planning to Do
+
+After sharing bad news with a nominal superior or an external stakeholder, it can be tempting to follow up by asking, "What should we do?" But this not only puts the burden on them to come up with a solution in the moment, it also diminishes your power and influence in the relationship. Alternatively, when sharing bad news with either superiors or subordinates, it can be equally tempting to simply tell them, "Here's what I'm going to do." And yet this is a missed opportunity to elicit their creative thinking and to invite them to share responsibility for the solution.
+
+It's preferable to complete the final step of the conversation by describing what you're planning to do on the basis of your current understanding of the root cause. This gives the other parties the benefit of your thinking while signalling your openness to their own. It also allows you to learn something about how they feel about your proposal--if they're in agreement, you get the benefit of their endorsement, and if not it's better to find out sooner rather than later.
+
+In the event that there's a lack of clarity (or outright confusion) over who will ultimately decide how to proceed, be sure to specify decision-making rights and procedures before moving on. [5] Optimally these issues have been addressed well in advance of any crisis, and all parties are operating under a shared understanding, but bad news has a way of upending previously settled agreements.
+
+This Is Hard. What Helps?
+
+Mapping out these steps in the abstract is easy--and it will be very different in the midst of a real crisis. So what else can you do to prepare? What might help?
+
+Trust
+
+The difficulty of delivering bad news is directly related to the level of trust in your relationships with the other parties. Situations that might merely be challenging can become catastrophic in the absence of sufficient trust. So it's imperative to assess the level of trust before committing to a relationship in which you may someday have to deliver bad news. Do you trust them to handle it well? If not, don't hire them. Don't work for them. And never take their money.
+
+In many cases you think the other party is trustworthy, but you're not sure, and you feel compelled to take a leap of faith. You make the hire, or you take the job, or you accept the investment, and hope it works out for the best. But in these circumstances you should be building trust--or testing for its absence--from the very start of the relationship. Don't wait for a crisis to learn how they respond under pressure.
+
+- Two Sides of Trust
+
+- Five Levels of Communication
+
+- Better Working Relationships
+
+Emotion Regulation
+
+Bad news invariably stirs up a host of feelings, which can range from mild disappointment to outright fury. And even if you think you're ready for it, there's usually an element of surprise, which tends to heighten our emotional responses and render them less predictable.
+
+The ability to employ the framework above successfully rests on a foundation of emotion regulation--and to be very clear, regulation is not suppression. The latter is nothing more than an act of make-believe, pretending that you're not feeling what you're feeling. This is only possible for short periods of time, but even then the act of suppressing your feelings in order to participate in this process effectively will prevent you from accessing emotions that might be helpful: empathy, compassion, remorse.
+
+- The Tyranny of Feelings
+
+- Comfort with Discomfort
+
+- Neuroscience, Leadership and David Rock's SCARF Model
+
+Perspective
+
+I'm keenly aware that bad news can have profound implications and lasting consequences. If you're like my clients, you're in a senior leadership role in which bad news means that important projects have failed, dollars have been wasted, people will lose their jobs, and dreams have come to an end. At the same time, even as you view these outcomes with justifiable concern and strive to avoid them, it's essential to maintain a sense of perspective.
+
+This may be one of our most important tasks in life, and we can take a step in that direction by recognizing how much there is to learn, even--and especially--from our gravest losses and disappointments. In so doing, we also tend to realize that so much of the "bad news" we face is far less significant than we imagined.
+
+- The Ruling Out of Possibilities (On Failure)
+
+- The Smoke Detector Principle (Why We Overreact)
+
+- Pain Is Mandatory. Suffering Is Optional.
+
+Footnotes
+
+[1] I'm reminded that Ray Dalio, founder of hedge fund Bridgewater Associates, attributes much of the firm's success to their commitment to always share bad news:
+
+Having a process that ensures problems are brought to the surface, and their root causes diagnosed, assures that continual improvements occur. For that reason I insisted that an issue log be adopted throughout Bridgewater. My rule was simple: If something went badly, you had to put it in the log, characterize its severity, and make clear who was responsible for it. If a mistake happened and you logged it, you would be OK. If you didn't log it, you would be in deep trouble. (Principles: Life and Work, page 62, 2017)
+
+[2] For more on how to prepare for and conduct these conversations, see the following:
+
+-
+Setting the Table (Difficult Conversations)
+
+-
+Learning to Yield (Navigating Tough Conversations)
+
+[3] The Value of Embarrassment
+
+[4] Seeing What's Not There (The Importance of Missing Data)
+
+[5] Leadership, Decision-Making and Emotion Management
+
+Photo by James Theiler.
+

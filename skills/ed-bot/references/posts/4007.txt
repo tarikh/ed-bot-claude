@@ -1,0 +1,163 @@
+---
+title: Attention Surplus Disorder (Anxiety and Distraction)
+url: https://edbatista.com/2018/08/attention-surplus-disorder-anxiety-and-distraction.html
+slug: attention-surplus-disorder-anxiety-and-distraction
+published: 2018-08-13T05:00:00
+updated: 2026-08-09T15:40:20
+source_body: wordpress-html
+---
+
+Anxiety and Attention
+
+At one time or another most of us have felt overwhelmed by anxiety or unable to stop worrying obsessively. Sometimes there’s a specific focus and a vivid response--we wake up in the night with a start, our mind racing, fixated on a recent argument or a stalled project or an avoidable mistake. Sometimes the experience is more generalized--a gnawing sensation distracts us, and our mind drifts away into a black cloud of concern.
+
+I see this pattern regularly in my work with clients and students--as well as in my own life--and I’ve come to think of it as attention surplus disorder. We habitually devote excessive amounts of attention to the objects of our anxiety, far out of proportion to the results we can reasonably expect that attention to yield. (It's important to distinguish between everyday anxiety and acute anxiety that may require clinical treatment or medication; for dealing with the latter, a list of anxiety resources can be found at the bottom of this post.)
+
+I’ve written about attention repeatedly over the past decade [1] and I even teach a class on the topic [2] because I believe that attention is our most precious resource. Attention is finite: we can focus intensely for a very limited amount of time each day before we feel fatigued. Attention can’t be sub-divided: misguided ideas about multi-tasking notwithstanding, we can truly pay attention to just one thing at a time. [3] What we call multi-tasking is really continuous partial attention, or rapidly shifting our focus from one object to another, and it typically works only with basic tasks requiring minimal cognitive effort. [4]
+
+And attention is tremendously powerful: whether we’re laboring at a task, reflecting and learning, or interacting with others, the amount of attention we can bring to bear on that experience usually determines how effective we are at accomplishing our goals. So when anxiety causes us to devote a surplus of this precious and limited resource to objects unworthy of our attention, we undermine ourselves in any number of ways.
+
+Attention Magnets and Mental Control
+
+There are two underlying dynamics at work here: 1) the power of emotion to capture our attention, and 2) the difficulty of controlling our thoughts and directing our attention. As I wrote in 2015, "psychologist Victor Johnston describes emotions as 'discriminant hedonic amplifiers,' meaning that they boost various signals in our mental landscape, drawing our attention toward certain issues and events and away from others. In other words, emotions are attention magnets." [5,6] This is one of the most important functions served by emotions; they nudge us (and sometimes shove us) in directions that are likely to ensure our continued survival, toward sources of health and happiness and away from threats to our safety or enjoyment.
+
+Note the emphasis on likely; as neuroscientist Joseph LeDoux has written, emotions are a "quick and dirty processing system" that allow us to rapidly assess the potential impact of a given situation on our health and happiness, but our intuitive emotional response to a given situation isn’t always accurate. [7] Emotions don’t work in opposition to our logic; work in recent decades by neuroscientists such as LeDoux and Antonio Damasio, among others, has made it clear that emotions play a crucial role in our reasoning process, and the quality of our decisions generally improves when we're in more in tune with our feelings. [8]
+
+But not always--and anxiety that fails to serve a useful purpose is a perfect example of the power of emotion. In many cases we know that our concern is misplaced, or at least disproportionate to the risk we face from the object of our anxiety--but that knowledge offers only limited resistance to the power of anxiety.
+
+The second dynamic at play when we’re distracted by anxiety is the profound difficulty of controlling our thoughts and directing our attention toward certain objects and away from others. The late Harvard psychologist Daniel Wegner was an authority on this process, known as mental control. [9] His research shows that conscious efforts to evoke or avoid specific mental states and direct our attention can work, but they can also backfire, particularly when we’re trying to suppress thoughts, resulting in the "the very mental states we are trying to avoid."
+
+And yet we must constantly filter out and ignore vast amounts of information. As neuroscientist and psychologist Ian Robertson has noted, "We have to inhibit the billions of bits of irrelevant information assailing our senses in order to concentrate on the fragments of information which are crucial for us at a particular point in time." [10] This highly selective focus is what makes it possible for us to complete any task, from driving a car to writing a sentence to having a conversation. But it’s a process that requires substantial cognitive effort under the best of circumstances, and when we’re tired or stressed our capacity for mental control is substantially impaired.
+
+Mindset and Change
+
+Our anxieties often take advantage of both of these dynamics, seizing us in their powerful grip when our ability to resist them is at a low ebb. So what can we do? First it's important to embrace what Stanford psychologist Carol Dweck calls a growth mindset, a view of ourselves in which we see our skills and abilities as subject to development, rather than a fixed mindset, in which we view such traits as inherent and impossible to change. [11] Dweck’s research shows that people with a growth mindset are more resilient when experiencing a setback and more persistent in the face of obstacles, and both of these qualities can be valuable assets when seeking to overcome anxiety. As I've written before, Dweck's work suggests that it's possible to adopt a growth mindset, and this begins with simply being aware of the difference between the two mindsets. [12,13]
+
+We can also pay attention to our inner dialogue and look for signs of a fixed mindset, particularly any messages regarding our difficulty in dealing with anxiety. When we hear such messages, it’s important to challenge their accuracy and not simply accept them at face value. Substantial research in recent years has shown that our brains continue to develop throughout our entire lives, and this property of neuroplasticity insures that change is almost always possible, even though it’s often difficult. [14,15]
+
+Once we see ourselves as capable of change, there are a number of steps we can take to manage our emotions more effectively and mitigate anxiety’s ability to capture our attention. Note that emotion management is different than suppression; the latter is a futile (and even counterproductive) effort to ignore our feelings or deny their existence, while the former is a productive strategy of active engagement.
+
+Emotion Management
+
+Emotion management starts with heightening our ability to sense what we’re feeling. Emotions such as anxiety begin as physiological events--the release of neurotransmitters in our brain or visceral muscular contractions--before they register in our consciousness. The shorter the gap between those events and our conscious awareness of what we’re feeling, the more control we can exert over how we are likely to respond to those feelings. Practices such as regular exercise, sufficient sleep, and meditation help us attune to our bodies and the physiological manifestations of our anxiety. [16,17,18]
+
+Once we can better sense our emotions as physical experiences, we can improve our ability to comprehend them, to label them with the appropriate words that allow us to translate what we’re (literally, physically) feeling into (conceptual) feelings. One simple way to start is to expand our emotional vocabulary. [19] It’s critical to distinguish the subtle variations in our feelings, particularly when identifying their depth and intensity. When we label all anxiety as a form of fear, and fail to differentiate among, for example, tension or nervousness or excitement, we frame the situation in a particular way, which has an impact on our behavioral response. Saying to ourselves, "I’m tense," or "I’m nervous" or "I'm excited" can put us in a very different state of mind than saying, "I’m scared."
+
+An improved emotional vocabulary allows us to more clearly articulate what we’re feeling to others, which serves several purposes. Research by neuroscientists Matthew Lieberman, Naomi Eisenberg and others has shown that talking about our feelings allows us to better manage difficult emotions such as anxiety by reducing activity in the regions of the brain associated with those emotions. [20] Openly stating what we’re feeling is also critical in helping others understand us and respond appropriately. We’ve evolved a finely-tuned ability to be aware of others’ emotions, but we can’t necessarily interpret the precise nature and cause of those feelings. When we’re anxious it’s essential to talk about it, which will tend to both make it easier for us to regain control over the emotion and invite others to provide support. Note that our ability to hold these conversations is a function of the surrounding cultural context. Different relationships, families, organizations, and nations have vastly different attitudes toward emotions, so it’s important to establish norms that make it acceptable for us to talk about our anxieties.
+
+Sensing, comprehending, and articulating our emotions more effectively ultimately allow us to express those feelings in more productive ways. Anxiety pulls us off course when we’re not attuned to its physical symptoms, when we label it incorrectly, or when we elect not to talk about it with others. When we’re anxious but unaware, when we mistake anxiety for deeper fears, or when we sit alone with our feelings, we’re more likely to seek comfort in counterproductive behaviors, including obsessive rumination. Improved emotion management helps us choose healthier outlets for our anxiety--a long walk, a heartfelt conversation, or just a good cry.
+
+Healthy Distractions
+
+In addition to loosening anxiety’s grip through improved emotion management, we can improve our attention management by strengthening our ability to control and direct our thoughts. Health journalist Lea Winerman covered a presentation by Wegner at the 2011 convention of the American Psychological Association, in which he described several strategies for mental control. [21] In the moment Wegner recommends that we minimize multi-tasking, which diminishes our cognitive load, frees up finite working memory and increases our ability to focus. In my work as a coach it’s evident that leaders who are able to ignore low-value demands on their time and focus on more important tasks are better able to manage the inevitable stresses and anxieties that accompany leadership roles. [22]
+
+The leaders I’ve worked with who’ve successfully guided their organizations through times of crisis also emphasize the importance of minimizing interruptions in order to devote their full attention to the task at hand. When we try to tackle multiple tasks at once or allow unwanted distractions to clutter our mental landscape, not only are we likely to perform less effectively, we also make it more difficult to direct our attention toward productive work and away from fruitless worry.
+
+Wegner also suggests identifying an "absorbing distractor" that will prevent us from becoming fixated on a more problematic focal point. If we can arrest our anxiety before we’re deeply in its grip, we can redirect our attention elsewhere away from the object of our concern. This can involve substituting an immersive activity for worrying, such as intense exercise or a stimulating cognitive task, or it can involve re-focusing our anxiety on a more useful object--an alternative issue that we have more control over.
+
+Over time, Wegner recommends that we build our capacity to resist distraction by committing to address unwanted thoughts during some designated period. Winerman notes that chronic worriers who set aside 30 minutes a day during which they were free to worry experienced less anxiety during the rest of their day. A related option is some form of journaling, which can be particularly helpful in processing emotions such as anxiety. [23] The class I teach at Stanford, The Art of Self-Coaching, as well as other classes I've taught in the past, such as Interpersonal Dynamics and Leadership Labs, all involve putting students through a range of challenging situations and then asking them to write about their experience, which serves in part to help them manage any difficult feelings that have been triggered. [24,25,26] And many of the leaders I coach in my practice find that taking just a few minutes in the morning or evening to jot down some notes is sufficient in helping them process the events of their day and avoid unnecessary worry.
+
+Finally, Wegner also notes that meditation and other mindfulness techniques help with mental control, a view that has become increasingly mainstream as researchers such as Jon Kabat Zinn of the University of Massachusetts Medical School [27] and neuroscientist Richard Davidson of the University of Wisconsin [28] have demonstrated its beneficial effects. In 2009 I heard Harvard Business School professor and former Medtronic CEO Bill George discuss his 30-year commitment to a daily meditation practice, and today it’s something I discuss with most of my clients and students. [29]
+
+A popular misconception about meditation is that it involves relaxing into some sort of bliss, but I find it more useful to think of it as a "mental workout." [30] Our minds wander constantly as a steady stream of thoughts enter and exit consciousness, and most meditation practices involve a steady--and difficult--process of returning our attention to a focal point, such as the breath, after every distracting thought. Just we grow stronger by lifting weights repeatedly, the intensive effort that meditation requires builds our capacity to notice when we’re distracted and re-direct our attention, a critical skill when seeking to avoid unproductive anxiety.
+
+The title of this post was inspired by Sam Anderson's "In Defense of Distraction," a thought-provoking piece that continues to inform my work on this topic:
+
+The truly wise mind will harness, rather than abandon, the power of distraction. Unwavering focus--the inability to be distracted--can actually be just as problematic as ADHD. Trouble with "attentional shift" is a feature common to a handful of mental illnesses, including schizophrenia and OCD. It’s been hypothesized that ADHD might even be an advantage in certain change-rich environments. Researchers have discovered, for instance, that a brain receptor associated with ADHD is unusually common among certain nomads in Kenya, and that members who have the receptor are the best nourished in the group. It’s possible that we’re all evolving toward a new techno-cognitive nomadism, a rapidly shifting environment in which restlessness will be an advantage again. The deep focusers might even be hampered by having too much attention: Attention Surfeit Hypoactivity Disorder. [31]
+
+Footnotes
+
+[1] Other posts of mine on attention:
+
+- The Art of Self-Coaching: Attention (@StanfordBiz Class of 2016 Reunion) (2017)
+
+- To Stay Focused, Manage Your Emotions (2015)
+
+- Growth, Profitability and Return on Attention (2015)
+
+- The Marshmallow Test for Grownups (2014)
+
+- Rubbernecking (Stop Wasting Attention) (2013)
+
+- Spending Attention (2013)
+
+- What Are You Paying Attention To? (2009)
+
+[2] The Art of Self-Coaching, Class 3: Attention and The Art of Self-Coaching: Attention (Stanford GSB Class of 2016 Reunion)
+
+[3] You're Not Multi-Tasking, You're Half-Assing
+
+[4] Continuous Partial Attention (Linda Stone)
+
+[5] To Stay Focused, Manage Your Emotions
+
+[6] Why We Feel: The Science of Human Emotions, page 156 (Victor Johnston, 2000)
+
+[7] The Emotional Brain: The Mysterious Underpinnings of Emotional Life, page 163 (Joseph LeDoux, 1998)
+
+[8] Antonio Damasio on Emotion and Reason
+
+[9] Mental Control and Ironic Processes (Daniel Wegner, a summary of The Handbook of Mental Control, edited by Wegner and James Pennebaker, 1992)
+
+[10] Mind Sculpture: Unlocking Your Brain's Untapped Potential, page 114 (Ian Robertson, 2000)
+
+[11] What Is Mindset (Carol Dweck, 2006-2010)
+
+[12] Learning How to Learn
+
+[13] How can you change from a fixed mindset to a growth mindset? (Carol Dweck, 2006-2010)
+
+[14] What is neuroplasticity and why is it so important? (Duncan Banks, The Conversation, 2016)
+
+[15] Why Change Is Hard
+
+[16] Get Moving! (Exercise for Busy People)
+
+[17] A compilation of readings on sleep
+
+[18] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[19] Vocabulary of Emotions
+
+[20] Talking About Feelings
+
+[21] Suppressing the "white bears" (Lea Winerman, Monitor on Psychology, Volume 43, No. 9, October 2011)
+
+[22] The Most Productive People Know Who to Ignore
+
+[23] The Value of Journal Writing
+
+[24] The Art of Self-Coaching at Stanford
+
+[25] Interpersonal Dynamics at Stanford
+
+[26] Teaching Leadership with Stanford's Leadership Fellows
+
+[27] History of MBSR [Mindfulness Based Stress Reduction] (University of Massachusetts Medical School: Center for Mindfulness in Medicine, Health Care, and Society)
+
+[28] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[29] Bill George on Leadership at the Stanford Faculty Club
+
+[30] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[31] In Defense of Distraction, page 7 (Sam Anderson, New York, 2009)
+
+For Further Reading on Anxiety
+
+When a Stress Expert Battles Mental Illness (Brad Stulberg, Outside, 2018)
+
+Dealing With Anxiety: Exploring the Patterns that Fuel the Anxious Process (Sarah Sarkis, 2017))
+
+Why Anxiety Is So Persuasive--and Pervasive (Sharon Salzberg, On Being, 2018)
+
+The Worry Cure (Robert Leahy, 2006)
+
+Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+Anxiety Disorders (National Institute of Mental Health)
+
+The Anxiety Algorithm (Adam Julian Goldstein, 2020)
+
+Photo by Joel Penner.
+

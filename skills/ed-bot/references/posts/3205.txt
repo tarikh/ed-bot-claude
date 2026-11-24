@@ -1,0 +1,63 @@
+---
+title: Think Blink: Malcolm Gladwell's Lessons for Web Design, Part 2
+url: https://edbatista.com/2005/05/think_blink_par.html
+slug: think_blink_par
+published: 2005-05-24T16:33:28
+updated: 2005-05-24T16:33:28
+source_body: wordpress-html
+---
+
+(Part 1, Part 3)
+
+Yesterday I began a series of posts on what Malcolm Gladwell's Blink can tell us about how people behave online and, by extension, how websites should be designed to reflect that behavior. To sum it up, they thin-slice.  In Gladwell's words, they "find patterns in situations and behavior based on very narrow slices of experience," and then make instinctive, snap decisions based on those patterns.
+
+Less Is More
+
+Throughout Blink, Gladwell refers to the importance of limited information: "[I]n good decision making, frugality matters...Overloading the decision makers with information...makes it harder, not easier.  To be a successful decision maker, we have to edit.  When we thin-slice, when we recognize patterns and make snap judgments, we do this process of editing unconsciously."  [pp. 141-42]
+
+The implication for web design is that in order to help your users thin-slice effectively (i.e. to help insure that the snap judgments they make online are the ones you want them to make), the elements you leave out of your site are as important as those you include.
+
+Far too many organizations take a kitchen-sink approach to their sites and a shotgun approach to their users.  They fit as much information as they possibly can on the page, and they assume that if they put a little something for everyone out there, then at least most people will be somewhat satisfied.
+
+But users are constantly thin-slicing as they interact with a site, making snap judgments based on limited information.  So it's essential to minimize the distractions and help users thin-slice effectively by focusing their attention on the information that will be most relevant to their needs (and your goals).  But how to choose?
+
+Different Strokes, And All That
+
+I'm going to leave Gladwell behind for the moment, because this is obviously an area he doesn't touch on directly in Blink, but I've been thinking about it ever since reading the book.  More on Malcolm tomorrow--for now, let's assume that your users fall into one of three buckets: 1) First-Timers who have never been to your site before; 2) Visitors who have been to your site a few times; and 3) Members who are familiar with your site and know what they want to do there.
+
+Your site's design should take into account not only the number of users in each bucket but also their collective net value to your organization.  In the long run, the more accurately you can segment your user base along these lines, and the more accurately you can determine your users' lifetime value (including acquisition and retention costs), the more useful the ideas discussed here will be.
+
+But you don't need mountains of data to get started--you just need to be able to make some informed decisions about how important each "user bucket" is to your organization.  Then you can begin to assess how effective your site is at helping different users thin-slice in different ways by focusing their attention on the goals you want them to accomplish.  Referring back to the different types of users noted above:
+
+- First-Timers: These users have never been to your site before.  They may be familiar with your organization, or they may know nothing about you.  Typical goals for First-Timers are:
+
+- Communicating your organization's identity and purpose through clear branding
+
+- Obtaining permission to contact them in the future (either directly through an email address or indirectly through a syndication service or other means)
+
+- Making them favorably inclined to visit again
+
+- Visitors: These users have been to your site before and know something about your organization, but they're only minimally familiar with your site and not yet fully oriented.  Assuming you've already accomplished the goals above by converting First-Timers into returning Visitors, typical goals for the latter are:
+
+- Increasing their awareness and understanding of your organization's services, and of how you provide or enable those services online
+
+- Learning more about their individual characteristics and preferences
+
+- Fostering a sense of affiliation with your organization
+
+- Members: These users are familiar with both your organization and your site, and they have a clear understanding of what they hope to accomplish on your site and how to go about it.  Assuming you've already accomplished the goals above by converting returning Visitors into affiliated Members, typical goals for the latter are:
+
+- Recognizing each Member as an individual (or at least as a segment of your user base with distinctive characteristics)
+
+- Delivering uniquely relevant content and opportunities for engagement based on that recognition
+
+- Anticipating their future needs
+
+Some obvious conclusions can be drawn here.  If your organization is relatively new and unknown, your site should be designed to help users thin-slice the organization itself, and it should readily answer questions such as "What do you do?" and even, "Who are you?"  We typically expect users to click through to an "About" page for this information, but wouldn't it be better if your site's branding could answer those questions immediately?
+
+Alternatively, if you have an established base of users who are already familiar with your site, you should put a greater emphasis on helping them thin-slice specific opportunities for deeper engagement by presenting them with appealing content that's relevant to their individual interests.
+
+Translating all this into specific design guidelines is a job for someone with far more user interface and information architecture expertise than I have.  But it's provided me with a helpful framework for further thought.
+
+(Part 1, Part 3)
+

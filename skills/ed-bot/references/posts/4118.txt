@@ -1,0 +1,115 @@
+---
+title: Extending Your Personal Runway
+url: https://edbatista.com/2022/01/extending-your-personal-runway.html
+slug: extending-your-personal-runway
+published: 2022-01-16T17:25:59
+updated: 2025-10-05T17:21:12
+source_body: wordpress-html
+---
+
+When a company isn't yet profitable, leadership is always keenly aware of their runway. The amount of cash at their disposal net ongoing expenses will determine the length of time they can continue to operate before something has to change: achieving profitability, raising additional capital, major cost-cutting, or ceasing operations. A theme in my practice is the leader who's assessing their "personal runway," which isn't quite as easy to calculate but has similar implications: There's a limited amount of time that they can sustain the status quo before something has to change.
+
+My clients typically begin a coaching engagement occupying a leadership role that they expect to hold for the foreseeable future. But we work together for relatively long periods of time, so it's not uncommon for me to talk with a client about the possibility of a professional transition. In some cases this is a result of a change in the business, such as a potential sale to an acquirer or a major shift in strategy.
+
+But just as often there's a change in my client, and they unexpectedly find themselves staring down the runway, wondering how far it extends. They're not planning to leave suddenly--which would be neither feasible nor desirable--but they've realized that they have a finite capacity to continue in their current role, and they're unsure how much time they'll have before they feel compelled to act.
+
+Why does this happen so often? Senior leaders do enjoy many advantages: They're well-compensated, have a great deal of autonomy, and often feel a strong sense of purpose. But such roles also come with significant downsides. Senior leaders are the subject of intense scrutiny, receive little developmental feedback, and are rarely viewed empathetically by others. [1] So despite the many benefits of these roles, feelings of stress, fatigue and isolation can cause senior leaders to entertain thoughts of leaving.
+
+If you're a senior leader and this resonates with you, what can you do about it? My work with clients in this area involves what we might call "extending your personal runway": Taking steps that will enable you to remain in the role long enough to engineer a desirable transition, rather than feeling obligated to make a suboptimal move. (Most of my clients are CEOs, and there are some factors that apply specifically to that role, but many of the issues I address here are relevant for anyone in a leadership position.)
+
+Get Support
+
+I'm biased, of course, but consider working with an executive coach. This need not be "career coaching," which involves helping you source and obtain a new role, should you choose to pursue one. It may be useful simply to have a trusted thought partner who understands the complexities of your role while remaining independent from the company. [2]
+
+A personal coach can play a special role as a dedicated professional, but they're just one potential member of your "coaching team." There are undoubtedly other people already in your life or within reach who can also serve as sources of support, but you have to identify them--and understand the limits on the support they can provide. Family members and friends may be eager to help, but they may not fully grasp the challenges you face--and your need to talk about these challenges may exhaust their capacity to be present. In addition, cultivate relationships with peers--not just friends, but other senior leaders in similar roles. [3] The key in all of these relationships is letting the other party know what you need--people are often quick to jump in with advice, when you may just want to unburden yourself to an empathetic listener. [4]
+
+A sometimes overlooked source of support is a truly outstanding executive assistant. If you don't have one, why not? As I've noted before, "a CEO who's spending time on tasks that could be delegated to an EA isn't being 'lean and scrappy'--they're stubbornly clinging to an outdated job description and hurting the business as a result." [5] Or perhaps you have a shared EA, or an "EA/office manager" for whom the role is merely a stepping stone to something better. In my experience when a leader finally finds a "professional EA" who views the role as a career path, the leader is not only much more effective, they're also far less stressed.
+
+Finally, assess your finances. You needn't be motivated primarily by money to feel a heightened sense of opportunity cost as your tenure in a role lengthens. Perhaps your base compensation hasn't kept pace with the market, or a lack of liquidity is imposing constraints that are no longer palatable, or you're fully vested with no refresh on the calendar. We fail to obtain the financial support we need for many different reasons, but a common dilemma is the expectation that the necessary conversations will be uncomfortable or fraught. This may be true, but as I've noted before, "If it feels risky to say, saying it will carry a short-term cost [and] NOT saying it will carry a long-term cost." [6] I'm not suggesting that all you need to do is ask--you may face substantial resistance. But we don't get what we deserve--we get what we negotiate. [7] And a reluctance to thoroughly explore the possibilities will almost certainly shorten your personal runway.
+
+Redefine Your Role
+
+Your current responsibilities were determined at a particular point in your company's evolution and in your own growth and development as a leader. Some of the stress and fatigue you feel today are likely the result of gaps that have emerged over time among A) the tasks you do because they're "your job," B) the tasks you do that create the most value, and C) the tasks you find most fulfilling. While you undoubtedly face constraints in re-defining your role, all too often I see leaders laboring under outdated job descriptions that should be updated--and this is as true of CEOs as it is of anyone else. It's important to distinguish between the value you create through specific tasks and the extent to which those tasks are personally fulfilling:
+
+This is obviously an oversimplified version of reality, and there are probably few, if any, neat and tidy divisions among your duties that correlate perfectly with this model--but it may still highlight some useful distinctions. As I've noted before, "I define 'work' as a vocation--a calling or a personal mission that provides us with an intrinsic sense of meaning and purpose. A 'job,' in contrast, is a set of responsibilities we fulfill in exchange for various forms of compensation. We get paid to do the job, but the work is its own reward." [8]
+
+If you're like many senior leaders these categories overlap substantially but have drifted apart in recent months or years, which may be one of the primary reasons you're considering the length of your runway. Almost certainly there are a set of tasks that you find unfulfilling but through which you generate so much value that it's unrealistic to consider delegating or abandoning them, at least at present. You may conclude that this is The Job, i.e. the reason you get paid. But what's in the top-right quadrant? What responsibilities are both value-generating and fulfilling? And what might enable you to operate here as much as possible?
+
+At the same time, there are almost certainly a set of responsibilities are are neither value-generating nor personally fulfilling, although perhaps they were in the past. A cynic might say, "This is The Job--this is why I get paid." But in my experience that's not true for senior leaders who enjoy a degree of control and agency in their work (although it may well be for people in other roles in dysfunctional bureaucracies.) Instead, senior leaders typically find themselves performing these tasks either because they have an outdated idea of the value being created, or they've placed insufficient value on their time and attention. Once these factors are recalculated, it can be surprisingly easy to...stop.
+
+To help assess your current role in light of this model, here are three questions to ask (which I've discussed at greater length previously [9]):
+
+1. What are you uniquely qualified to do?
+
+This is likely a function of the talent you can attract and retain at present. You probably own certain responsibilities because no one better qualified is available, and efforts to delegate these tasks will have to wait. But consider whether you're holding on to these responsibilities because of an outdated belief that certain tasks are too important to delegate, a counterproductive need to maintain personal oversight, or difficulties in building scalable systems. Your unique qualifications may be less expansive than you think.
+
+2. What are you obligated to do?
+
+All leadership roles come with some responsibilities that can't be delegated, no matter how talented your team or successful the company. But while these tasks may well be yours as long as you hold the role, it's often the case that as the company grows and your role becomes more prominent, the stakes will be higher, requiring more thorough preparation and a greater amount of your attention. Consider how narrowing the focus of your role might allow you to perform these duties more effectively and efficiently.
+
+3. What are you free to do?
+
+I'm not suggesting that you should prioritize personal preferences over organizational imperatives--this is not an excuse to hold on to responsibilities that should be delegated. But in addition to the work that you're uniquely qualified to do, and the work that you're obligated to do, consider what work you're free to do, what tasks might lift your spirits and make the job more intrinsically rewarding. Some of this will be value-generating, while some will simply be play--and although we may need to impose limits on the amount of play in our professional lives, a little goes a long way toward making stressful and fatiguing experiences more sustainable.
+
+Slow Down
+
+Whatever steps you can take to extend your personal runway, it's also worthwhile to examine the forces that are causing you to accelerate toward its endpoint. It may be possible to slow down and lengthen your tenure in the process. Here are three factors that may be propelling you forward:
+
+1. Inadequate Boundaries
+
+If you're like many of my clients, you're not necessarily seeking "work/life balance," but at the same time, you're disinclined to devote the same amount of time and energy to work as you did in the past. This can result from many factors: Increasingly complex personal obligations, such as the needs of children, aging parents, a spouse or partner; or diminished personal well-being, ranging from the typical ailments of middle age to serious health issues. Or you may simply feel discontented or bored--the passion that once fueled your appetite for work has waned.
+
+But while balance may be unattainable or even undesirable, you will almost certainly benefit from better boundaries. A healthy boundary isn't an impermeable barrier, but, like a cell membrane, it keeps the right things in the right places in the right proportions, while altering its permeability to adjust to changing conditions. As I've noted before, "Temporal boundaries designate certain times exclusively for family, friends, exercise, and other non-work pursuits... Physical boundaries ensure that we get out of our offices and workplaces at regular intervals and create actual distance between us and our work (which includes not only the office itself but also all our professional tools and artifacts–laptops, tablets, phones, papers, everything) [and] cognitive boundaries help us resist the temptation to think about work and focus our attention on the people or activity at hand." [10]
+
+2. A Sense of Urgency
+
+In this context it's important to distinguish between importance and urgency, which I define as follows:
+
+Important activities are truly meaningful and fulfilling--to you, to the people who matter to you, to your organization, or to some cause that you believe in. They’re not necessarily time-dependent; they can be accomplished almost anytime, and if they go undone for a short stretch no one may even notice.
+
+Urgent activities have a deadline attached to them that matters to someone—although not necessarily to you. They are time-dependent, at least in someone’s mind, and if they go undone that someone is going to be unhappy. They’re not necessarily meaningful or fulfilling, and accomplishing them may not actually make a significant difference. [11]
+
+The dilemma, of course, is that "the time and attention we would otherwise devote to Important But Not Urgent activities is often sacrificed to address Unimportant But Urgent matters. The challenge is that we’re the only ones who care about the former, while the latter have many advocates." [12] You'll accelerate when you allow others' sense of urgency to dictate your priorities--and you'll slow down when you commit to such important-but-never-urgent activities as time with loved ones, a mindfulness routine, a workout, a good night's sleep.
+
+3. Your Competitive Drive
+
+Humans evolved to compare ourselves to others, to have a keen sense of our relative status, and to compete for resources and opportunities. We can't turn off these drives, nor would we want to. As with so many other confounding aspects of our psychology, they're features for the species that as individuals we often experience as bugs. [13] Even if you don't feel overtly competitive, if you're like many of my clients your sense of disenchantment with your current role is related to a perception that you're behind in some way--lagging after peers, classmates, siblings, or (most importantly) your own expectations.
+
+The feeling of being behind inevitably provokes an urge to accelerate--you must catch up with whoever (or whatever) you're trailing--which will shorten your runway, potentially leading you to make suboptimal choices. There's no simple solution, but a starting point is considering the possibility that your competitive drive and the threat of loss that exacerbates it are, at least in part, illusions. To be clear, I'm not suggesting that you should accept your current situation or stop striving to improve it.
+
+But a counterpart to our proclivity for social comparison is the process of hedonic adaptation: We readily accommodate and soon take for granted changes in our circumstances. [14] The things we think will make us happy rarely make us as happy as we think they will, and the happiness they bring never lasts as long as we want it to. This is not a reason to stop trying to change your life for the better, but it may allow you to view your present condition with more equanimity, and to pursue your hopes for the future without rushing to get there.
+
+This is a companion piece to Not Every End Is a Goal (On Midlife Malaise).
+
+Footnotes
+
+[1] Watch That Next Step (CEO Problems)
+
+[2] How to Find (and Choose) a Coach
+
+[3] The Friendship of Wolves
+
+[4] What Do You Need Right Now? (Advice, Listening, A Hug?)
+
+[5] Three Stages of Executive Assistance
+
+[6] Risk Management (The Importance of Speaking Up)
+
+[7] Negotiating with Your Own Side
+
+[8] The Work and The Job
+
+[9] Three Buckets (On CEO Job Descriptions)
+
+[10] Happy Workaholics Need Boundaries, Not Balance
+
+[11] Importance vs. Urgency
+
+[12] Ibid.
+
+[13] The Trap of Competition
+
+[14] Stop Trying to Be "Good Enough" By "Getting Better"
+
+Photo by Victor.
+

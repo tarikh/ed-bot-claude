@@ -1,0 +1,11 @@
+---
+title: NTC Wiki
+url: https://edbatista.com/2005/03/ntc_wiki.html
+slug: ntc_wiki
+published: 2005-03-25T13:00:27
+updated: 2005-03-25T13:00:27
+source_body: wordpress-html
+---
+
+If you're attending the Nonprofit Technology Conference (and particularly if you're not), be sure to check out the NTC Wiki.  My fave page is the list of conference participants who are blogging the NTC.
+

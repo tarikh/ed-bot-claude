@@ -1,0 +1,87 @@
+---
+title: The SharpBrains Guide to Brain Fitness
+url: https://edbatista.com/2009/11/sharpbrains.html
+slug: sharpbrains
+published: 2009-11-11T00:02:00
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+My interest in neuroscience and its implications for executive coaching, personal development and professional effectiveness led me to have lunch recently with Alvaro Fernandez, co-founder and CEO of SharpBrains, a market research firm that focuses on the application of neuroscience in healthcare, education and related fields.  I was sufficiently inspired by my conversation with Alvaro that I went on to read The SharpBrains Guide to Brain Fitness, which he co-authored with Dr. Elkhonen Goldberg, his SharpBrains co-founder.  (Full disclosure: I know Alvaro personally from business school, and he loaned me a copy of his book.)
+
+The Guide, published earlier this year, is a great overview of current neuroscience research, with nearly 20 interviews with scientists, physicians, educators and others working in the field.  A few key points that caught my attention:
+
+1) Cognitive Training Can Lead to Behavioral Change
+
+Dr. Judith Beck, author of Cognitive Therapy (an outstanding overview of this system of psychotherapy's principles and application), has been highly successful at helping people achieve and maintain weight loss, which she found was a secondary goal of many of her patients suffering from depression and anxiety.  As Fernandez and Goldberg write in the Guide:
+
+Cognitive therapy (CT)...is based on the idea that the way people perceive their experience influences their behaviors and emotions.  The therapist teaches the patient cognitive and behavioral skills to modify his or her dysfunctional thinking and actions.
+
+CT aims at improving specific traits, behaviors or cognitive skills, such as planning and flexibility, which are executive functions...
+
+According to Dr. Beck, the main message of CT and its application in the diet world is that problems losing weight...reflect the lack of skills that can be acquired through training.  What skills is Dr. Beck talking about?  Mostly executive functions: the skills to plan in advance, motivate oneself, to monitor one's behavior, etc.
+
+Dr. Beck is also interviewed in the Guide:
+
+I found that many of the same cognitive and behavioral techniques that helped [my patients] overcome their other problems could also help them lose weight--and keep it off.
+
+I became particularly interested in the problem of being overweight and was able to identify specific mindsets or cognitions about food, eating, hunger, craving, perfectionism, helplessness, self-image, unfairness, deprivation and others that needed to be targeted to help them reach their goal.
+
+Although cognitive therapy's efficacy as a methodology extends well beyond its effectiveness in supporting weight loss, as a coach I find the connection compelling.  Many of my clients and students wrestle with issues unrelated to mental health but nevertheless rooted in mindsets similar to the ones Beck lists above, particularly perfectionism.  And while I am not a therapist and do not employ CT techniques per se, much of my work as a coach involves more general cognitive training intended to support and maintain behavioral change.  At the most basic level, simply helping a client reframe an experience or situation by viewing it from an alternative perspective can allow them to feel quite  differently as a result--and then to act in ways that better support their goals.
+
+2) Experiential Learning Has a Neurological Basis
+
+I've written before about the importance of experiential learning in my work as a coach and consultant.  David Kolb (and his colleague Roger Fry) first developed the experiential learning model in the 1970s, and today Dr. James Zull, a biologist and biochemist at Case Western Reserve, believes that activity in different regions of the brain corresponds with the four stages of this model:
+
+SharpBrains: How does learning happen?
+
+Zull: There are 4 stages in the "Learning Cycle."  Stage One: We have a concrete experience.  Stage Two: We develop reflective observations and connections.  Stage Three: We generate abstract hypotheses.  Stage Four: Then we actively test these hypotheses.
+
+In the fourth stage, we have a new concrete learning experience, and a new Learning Cycle ensues.  In other words, we get information (activating the sensory cortex), make meaning of that information (in the back integrative cortex), create new ideas from these meanings (in the front integrative cortex), and act on those ideas (using the motor cortex.)  From this, I propose that there are four pillars of learning: gathering, analyzing, creating and acting.  This is how we learn.
+
+On a tangential note, I'm also struck by the fact that Zull goes on to say that, "Learning in this way requires effort and getting out of our comfort zones.  A key condition for learning is self-driven motivation, a sense of ownership.  To feel in control, to feel that one is making progress, is necessary for this Learning Cycle."  Executive coaching is rarely successful unless the client is willing to stretch beyond their comfort zone, and it's never successful unless the client feels a sense of ownership over the process.
+
+3) Structured Learning Supports Peak Performance
+
+Dr. Brett Steenbarger is a professor of psychiatry at SUNY Upstate Medical University, as well as a financial trader with over 30 years of experience in the markets.  His current area of research is "how to enhance cognitive and emotional development among traders to help them become more successful."  Steenbarger is interviewed in the Guide:
+
+SharpBrains: What is the premise of your new book, "Enhancing Trader Performance"?
+
+Steenbarger: The premise is that elite performers in highly competitive fields share common traits... The elite performers are most distinguished by the structure of their learning process... Traders typically devote little time to practice and a structured learning process.  I want to encourage them to see that "learning on the job" is not a substitute for breaking down skills into components, drilling these, receiving feedback about performance, and making continuous modifications and improvements.
+
+In every field, elite performers devote more time to practice than to the actual performance.  To perform at the highest level, you need to protect and optimize practice and learning time.
+
+Specifically, Steenbarger recommends that traders who seek to improve their performance make use of 1) simulation and biofeedback tools, 2) reflection and regular feedback, and 3) mentors and coaches.  I'm struck by the parallel with the Leadership Labs we run for first-year MBA students at Stanford.  In a series of classes in their first Quarter in school, small groups of 8 students each go through simulations and role-plays that evoke how they respond in challenging situations, give each other feedback on their effectiveness, and work with a second-year "Leadership Fellow" who serves as a facilitator and mentor to the group.  (As a "Leadership Coach," I, in turn, work with groups of the second-year Fellows to help guide them through the experience.)
+
+Of course, perhaps it's no surprise that a coach recommends an expert who recommends coaching!  But at least I try to walk the talk--I support my own professional development through such structured learning experiences as having my own coach (who I see every few weeks), joining 3 other coaches for monthly conference calls (a new practice I just started), and being a member of a monthly group that meets in person to support each other, provide feedback and work on our interpersonal skills (although this Fall evening classes have conflicted with my group time 😛 )
+
+But the key finding for me is the inherent value in rigorous, structured learning, whatever form it takes.  If that inspires you to go out and retain a coach, great--but if it inspires you to keep a notebook on your bedside table and jot down a few lines before turning out the light, that's great, too.
+
+4) Cognitive Training Enhances Attention
+
+"Attention" is obviously a key cognitive skill, but we typically apply the term somewhat loosely to three distinct processes, as described by Dr. Michael Po
+
+sner, an emeritus professor of neuroscience from the University of Oregon and a leading expert in cognitive neuroscience:
+
+SharpBrains: Can you explain the brain basis for what we usually call "attention"?
+
+Posner: One of our major findings, thanks to neuroimaging, is that there is not one single "attention," but three separate functions of attention with three separate underlying brain networks... 1) Alerting: Helps us maintain an alert state.  2) Orienting: Focuses our senses on the information we want... 3) Executive attention: Regulates a variety of networks, such as emotional responses and sensory information... Executive attention is...the ability to manage attention towards [goal-oriented executive functions], towards planning... [Later in the interview, Posner stresses that "it is clear that executive attention...(is)...critical for success in school..."]
+
+SharpBrains: Tell us now about your recent research on attention training.
+
+Posner: Several training programs have been successful in improving attention in normal adults and in patients suffering from different pathologies...
+
+Let me add that we have found no ceiling for abilities such as attention, including among adults.  The more training, even with normal people, the higher the results.
+
+The topic of attention is also prominent in the Guide's interview with Dr. Daniel Gopher, a professor of cognitive psychology at the Technion, a scientist who's worked on cognitive performance programs with the Israeli military and the NBA:
+
+SharpBrains: Please summarize your research findings...
+
+Gopher: In short, I'd summarize by saying that cognitive performance can be substantially improved with proper training.  It is not rigidly constrained by innate, fixed abilities.  Cognitive task analysis enables us to extract major cognitive skills in any task.  Attention control and attention allocation strategies are critical determinants in performing at top level in complex, real-time decision environments.  Those skills, and other associated ones, can be improved through training.  Research shows that stand-alone, inexpensive PC-based training is effective to transfer and generalize performance.
+
+In other words: 1) Attention is a complex phenomenon comprised of 3 distinct processes; 2) The specific process of executive attention and the sub-tasks of attention allocation and control are critical to success in cognitively demanding environments, and 3) Inexpensive computer training has been shown to improve attention-related cognitive performance.
+
+So should we all be using these cognitive training tools?  And if so, which ones?  Well, those are the questions that SharpBrains is trying to answer, and I encourage you to check out their research.  The $20 Guide is aimed at laypeople like me with a general interest in neuroscience's implications for our own fields, and their $1,300 Market Report is aimed at analysts and others with a professional interest in the "brain fitness software market" (and bigger budgets.)
+
+Again, full disclosure: I know Alvaro Fernandez personally from business school, and he loaned me a copy of the Guide.  That said, there's no way I'd ever promote a company unless I truly found their products useful, and the Guide is the best high-level overview of the "brain fitness" field I've seen.
+

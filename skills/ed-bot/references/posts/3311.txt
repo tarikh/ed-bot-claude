@@ -1,0 +1,25 @@
+---
+title: Doc Searls on Saving the Net
+url: https://edbatista.com/2005/11/doc_searls_on_s.html
+slug: doc_searls_on_s
+published: 2005-11-16T15:42:31
+updated: 2005-11-16T15:42:31
+source_body: wordpress-html
+---
+
+When Doc Searls says its the longest and most important piece he's ever posted online, you should probably read it.  The bottom line?  The Internet as we know and love it (i.e. the scene of constant innovation because A) it's a dumb network with intelligence at the margins, not a smart network controlled from the center, and B) minimal government regulation) is in serious danger of being destroyed by those who view it as a transport mechanism and who are determined to extract their share of rents for carriage (i.e. the telcos and the cable companies, with strong support from "content providers" like the MPAA and Nanny-state regulators).  Some choice quotes:
+
+[W]e acknowledge the necessity of the transport metaphor; but also its insufficiency.
+
+Of course, at its base level the Net is a system of pipes and packets. But it's not only packets, or "content" or anything for that matter). Understanding the Net only in transport terms is like understanding civilization in terms of electrical service or human beings only in terms of atoms and molecules. We miss the larger context.
+
+That context is best understood as a place. When we speak of the Net as a "place" or a "space" or a "world" or a "commons" or a "market" with "locations" and "addresses" and "sites" that we "build", we are framing the Net as a place.
+
+Most significantly, the Net is a marketplace. In fact, the Net is the largest, most open, most free and most productive marketplace the world has ever known. The fact that it's not physical doesn't make it one bit less real. In fact, the virtuality of the Net is what makes it stretch to worldwide dimensions while remaining local to every desktop, every point-of-sale device, every ATM machine. It is in this world-wide marketplace that free people, free enterprise, free cultures and free societies are just beginning to flourish. It is here that democratic governance is finally connected, efficiently, to the governed.
+
+As a place, the Net has always been independent of the carriage on which it relies, which is one reason it also encourages and rewards independence. The independence of the Net and its inhabitants is precisely what accounts for countless new businesses and improved old ones.
+
+We need to stress the fact that the primary "end" in the Net's end-to-end architecture is the individual. The Net's success is due far more to the freedoms enjoyed by individuals than to the advantages enjoyed by large companies whose existence predates the Net.
+
+We need to make clear that the Net is the best public place ever created for private enterprise, and that the success of the Net owes infinitely more to personal initiative than to the mesh of pipes in the ground beneath it.
+

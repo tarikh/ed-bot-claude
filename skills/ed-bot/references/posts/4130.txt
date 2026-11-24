@@ -1,0 +1,121 @@
+---
+title: The Importance of Shared Narrative
+url: https://edbatista.com/2022/08/the-importance-of-shared-narrative.html
+slug: the-importance-of-shared-narrative
+published: 2022-08-08T19:51:22
+updated: 2025-09-24T11:58:03
+source_body: wordpress-html
+---
+
+Warren Bennis, the great leadership scholar and a World War II combat veteran, noted that of a leader's essential skills, "the first is the ability to engage others in shared meaning." [1] This process, which we might simply call storytelling, entails distilling a complex set of circumstances into a readily understandable narrative, providing distinct but mutually compatible versions of that narrative to different audiences, and repeating this process until the narrative is shared by the entire community.
+
+Why is this such an important aspect of leadership? Because reality is socially constructed, and the vehicle for that process is narrative. [2] There are few ground truths in social structures, organizational life, or interpersonal experience. Once we get beyond the realm of physics, the "truth" is what we believe to be true, and when enough people, or the right people, profess their belief in a given narrative its influence is as irresistible as gravity. The converse also holds, of course: when enough people, or the right people, withdraw their belief in a given narrative, it has no influence at all.
+
+But what's happening here? Why is storytelling such a powerful process? Because we depend upon narratives to navigate the world--they are our compass in the wilderness, our lantern in the dark. Organizational psychologist Karl Weick called this "sensemaking": we rely upon narratives to "make sense" of ambiguous situations and pursue a plan of action in coordination with others. But our reliance on narratives means that in the absence of a coherent story we will feel lost and ungrounded. This poses a risk when we face rapid change that may overtake our existing narrative and render it out of date, as Weick noted: "People...act as if events cohere in time and space and that change unfolds in an orderly manner. These everyday cosmologies are subject to disruption." [3]
+
+When disruptive events occur in organizational life, we require a shared narrative to re-orient ourselves and restore our understanding of the world around us. But as psychologist Daniel Kahneman has noted, in the absence of a complete data set that fully explains a given situation, we immediately construct an explanatory narrative using whatever data is at hand. Our brains are essentially betting that it's safer to have a coherent story--even one based on specious data--to help us make sense of the situation than to slow down and consider the full range of possibilities. [4]
+
+Yet our most important social, organizational, and interpersonal situations are often highly ambiguous and subject to a range of interpretations, particularly when they involve surprising or unexpected change, and it's never possible to gather all the data. In this context, a coherent story--even an inaccurate one--provides us with a necessary mental shortcut. Like all of our cognitive biases, our reliance on narrative works well the vast majority of the time, but under stressful circumstances we tend to overweight negative data and leap to self-protective assumptions. [5]
+
+This all happens invisibly and automatically when we're in the midst of an ambiguous or confusing situation. We don't observe these processes in operation, nor do we pause to consider that our assumptions might be wrong, or, further, that there's likely an extensive amount of data that we don't possess which might yield an entirely different explanation of the situation. [6] And this is where the leader has a vital role to play.
+
+Through the act of storytelling the leader provides the group with an explanatory narrative that is invested with their authority and informed by their expertise, and thus more influential and credible. The leader must tailor the narrative to the audience at hand, sharing more or less information as needed and conveying the appropriate emotions to evoke the desired response. And yet these distinct versions of the narrative must also be mutually compatible--they will differ but cannot contradict each other--because the ultimate goal is the creation of a shared narrative across the community at large.
+
+So if you're a leader, what can you do? How can you make use of these concepts and put them into practice?
+
+Your Every Move Tells a Story
+
+If you're like my clients, in your professional role you're under constant scrutiny. There are obvious occasions when you're literally onstage under a spotlight, but it's likely that even in your most casual interactions with employees and other stakeholders everything you say and do is being carefully analyzed for hidden meanings. This is the process of sensemaking in action--people are trying to interpret your remarks and behavior, and in the absence of a clear and comprehensible narrative that you provide, they will make up their own.
+
+People will also be acutely sensitive to any perceived incongruity between the "script"--the content of your remarks--and the "silent movie"--all other elements of the narrative, such as facial expressions, body language and tone of voice. Maintaining the necessary degree of self-awareness to ensure that you're always communicating congruently is exhausting, of course, which is why it's so important to invest in self-care. A mindfulness practice, regular exercise, sufficient sleep, and minimizing chronic stress aren't merely good for you--they create the foundation for your effectiveness as a storyteller.
+
+Compelling Stories Evoke Emotion
+
+This is obvious when we consider the various genres that we encounter in popular culture. Dramas, romances, thrillers, mysteries, comedies--they're all designed to trigger an emotional response, which is why they capture an audience's attention. And the same holds true for the explanatory narratives you're seeking to convey to your professional audience because emotions are attention magnets. That said, the goal is evoking the right amount of the desired feeling at a specific moment in time--so emotion regulation is critical.
+
+You'll probably also have to "translate" certain stories into language that your audience can grasp and respond to at an emotional level. Most leaders I know possess a degree of technical capability--they're rarely the most technical person in the organization, but they're more technical than many of the people they lead. If this describes you, then bear in mind that you may sense (and feel) the narrative in the spreadsheet or the code that many people in your audience cannot. You can't just put the data out there and expect it to tell your story for you.
+
+Prepare to Be Challenged
+
+Effective storytellers are made, not born--so the bad news is that you undoubtedly have your weaknesses as a communicator, but the good news is that everything you need to do to improve is a learnable skill. But this won't happen by accident--you need to be deliberate about seeking feedback, guidance and practice in order to challenge yourself and grow. This will inevitably involve getting out of your comfort zone and dealing with vulnerability and even embarrassment. (If you never feel these feelings, you're playing it safe and being too cautious.)
+
+And yet even when you've honed your skills to razor sharpness, you'll encounter a new challenge: The need to tell the same damn story over and over (and over) again. The language you use must evolve to meet the needs of a given audience, but the underlying narrative will be consistent. In part this is a function of people's limited attention spans, particularly when they're under stress. But repetition is also what creates a shared narrative--when people hear you tell a consistent story multiple times to different audiences in various settings, eventually that narrative is no longer yours as the leader, but the community's.
+
+Get the Help You Need
+
+While my work with clients often involves the creation and delivery of more compelling shared narratives in a wide range of settings, from fundraising pitches to all-hands events to difficult conversations, there are also coaches whose practices focus specifically on helping leaders communicate more effectively, and here are several I recommend:
+
+- Burt Alper, Presentation Coaching
+
+- JD Schramm, Communicate with Mastery
+
+- Lauren Weinstein, Storytelling and Authentic Communication
+
+- Matt Vassar, Spread Your Ideas
+
+- Peggy Klaus, Leadership and Communication
+
+ 
+
+Footnotes
+
+[1] "Crucibles of Leadership" (Warren Bennis and Robert Thomas, Harvard Business Review, 2002). Bennis and Thomas collaborated on this classic HBR article, which grew out of their work together on Geeks and Geezers: How Eras, Values, and Defining Moments Shape Leaders (2002). Thomas, a former Managing Director at Accenture, continued studying the process of learning from experience, resulting in a full-length book on that theme, Crucibles of Leadership (2008), for which Bennis wrote the foreward.
+
+[2] For more on this idea, see The Social Construction of Reality: A Treatise in the Sociology of Knowledge (Peter Berger and Thomas Luckmann, 1967).
+
+[3] "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster" (Karl Weick, Administrative Science Quarterly, Volume 38, Number 4, December 1993)
+
+[4] Thinking, Fast and Slow, page 85 (Daniel Kahneman, 2011)
+
+[5] For more on cognitive biases and our inclination to overweight negative data under stress, see the following:
+
+- When Heuristics Go Bad
+
+- Confronting the Negativity Bias (Rick Hanson, Psychology Today, 2010)
+
+- Negativity Bias, Negativity Dominance, and Contagion (Paul Rozin and Edward B. Royzman, Personality and Social Psychology Review, 2001)
+
+- Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen D. Vohs, Review of General Psychology, 2001)
+
+[6] Seeing What's Not There (The Importance of Missing Data)
+
+ 
+
+For Further Reading
+
+Your Every Move Tells a Story
+
+- Watch That Next Step (CEO Problems)
+
+- Three Conversations (On Better Communication)
+
+- Investments, Not Indulgences
+
+Compelling Stories Evoke Emotion
+
+- Why You Can't Stop Thinking About Something
+
+- The Tyranny of Feelings
+
+Prepare to Be Challenged
+
+- Conscious Competence in Practice
+
+- Brené Brown, Vulnerability, Empathy and Leadership
+
+- The Value of Embarrassment
+
+ 
+
+Appendix: Kurt Vonnegut on Storytelling
+
+The great 20th century novelist Kurt Vonnegut--one of my favorite authors--has an invaluable perspective on storytelling. Almost all narratives, he notes, conform to one of a small handful of storylines that can be graphed on a chart, as he demonstrates:
+
+- Kurt Vonnegut on the Shapes of Stories (Maria Popova, The Marginalian, 2012)
+
+- Kurt Vonnegut on the Shapes of Stories [4:43 video]
+
+ 
+
+Photo by Natalie Lucier.
+

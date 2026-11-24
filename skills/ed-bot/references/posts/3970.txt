@@ -1,0 +1,85 @@
+---
+title: Learning How to Learn
+url: https://edbatista.com/2018/07/learning-how-to-learn.html
+slug: learning-how-to-learn
+published: 2018-07-23T05:00:00
+updated: 2026-03-03T08:07:52
+source_body: wordpress-html
+---
+
+A theme in my coaching practice is that a high tolerance for cognitive dissonance is a hallmark of successful entrepreneurial leaders because it enables them to be exuberant optimists while remaining keenly aware of all the risks they face. [1] A further advantage of such tolerance is that it can play an important role in learning. As psychologist Elliot Aronson has noted,
+
+An extremely high drive to reduce dissonance would lead man to weave a cocoon about himself; he would never admit his mistakes and would distort reality to make it compatible with his behavior. But if a person is ever going to grow, improve, and avoid repeating the same errors, he must sooner or later learn to profit from past mistakes. One cannot profit from one’s mistakes without first admitting that one has made a mistake. And yet, the admission of error almost always arouses some dissonance. [2]
+
+By definition entrepreneurial leaders are doing something for the first time (and in some cases they're leading for the first time), which inevitably entails making mistakes. If they fail to learn from their mistakes, they won't be leading for very long, but this requires accepting the dissonance that comes from acknowledging a mistake in the first place. There's a connection here with the work of Carol Dweck, the Stanford psychologist who developed the concept of "fixed" and "growth" mindsets:
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success--without effort. They're wrong. In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work--brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment. [3]
+
+Our mindset has substantial implications for our ability to learn from mistakes. [4] When we hold a fixed mindset and believe that our abilities are inherent, we view mistakes as character flaws, and we have a strong negative emotional response to setbacks and failures. As a consequence we're less comfortable with risk and prefer to compete in settings where success (and approval) are assured. In contrast, holding a growth mindset and believing that our abilities are can be actively developed allows us to view mistakes as learning opportunities. We still respond negatively to setbacks and failures, but we're less distressed by the experience. And as a consequence we're more comfortable with risk and tend to seek out bigger challenges.
+
+Recent neuroscience research shows different patterns of activity in the brains of people with fixed and growth mindset that's relevant in this context. A study led by Jason Moser of Michigan State indicated that people with a growth mindset pay closer attention to mistakes and are more likely to improve their performance as a result, suggesting a relationship between a growth mindset and a higher tolerance for dissonance. [5]
+
+Our tendency toward a fixed or growth mindset derives from our formative experiences as children and our early education and professional training, and we all have a fixed mindset in some circumstances. But Dweck's work suggests that it's eminently possible to adopt a growth mindset, and this begins with simply being aware of the difference between the two mindsets and their implications for our learning and performance. [6] So what steps can we take to continue this process? How can we learn how to learn?
+
+A Work-In-Progress
+
+The concept of mindset is a type of mental model--a conceptual framework that we employ to explain some aspect of the world to ourselves. In this case, mindset is a model about ourselves that we use to understand our abilities and how we perform. Mental models are not neutral--they have a significant impact on our experience--but in most cases they're adaptive, enabling us to navigate situations and accomplish our goals more effectively. As a result our mental models typically operate automatically and unconsciously--we don't think about them any more than we think about breathing.
+
+The key step here is simple in theory but often challenging in practice: To surface and examine this particular mental model, and to deliberately and consciously see ourselves as a work-in-progress. An obstacle here is the traditional view of human development, which holds that our brains cease growing after adolescence along with the rest of our bodies. But an extensive body of research in recent years on neuroplasticity has demonstrated that our brains actually retain the potential for developmental growth and change throughout our lives. [7] The idea that we're a work-in-progress, which is the essence of a growth mindset, isn't merely a metaphor--it's the literal truth.
+
+An Ongoing Conversation
+
+Greater familiarity with neuroscience research can make us more open to a growth mindset, but we still need to actively engage ourselves in an ongoing conversation about our performance in order to learn. We need to do much of this work on our own in the form of reflection [8] and journaling [9], but it's also essential to talk with others about our experiences. [10] And it's particularly important for leaders to cultivate and maintain relationships that are sufficiently safe and trustworthy to talk openly about setbacks and mistakes. [11]
+
+But note that these activities rarely occur spontaneously without advance planning--particularly dialogues with trusted partners--and even then they can easily be pushed off the schedule unless we protect them from more urgent (but not necessarily more important) demands on our time and attention. If you truly value learning, you should be able to look at your calendar and know when it will happen on a regular basis. [12]
+
+The Power of Reframing
+
+Even when we're open to the idea of a growth mindset and actively engaged in practices that support our learning, our emotional response to mistakes can pose a barrier to progress. A generally accepted principle in psychology regarding the source of our emotions is known as "cognitive appraisal" or simply "appraisal theory," and psychologists Ira Roseman and Craig Smith provide a concise summary:
+
+According to appraisal theories, it is interpretations of events, rather than events themselves, that cause emotions. Since the same situation can often be interpreted in different ways, there are few if any one-to-one relationships between a situation and an emotional response. Because appraisals intervene between situations and emotions, different individuals who appraise the same situation in significantly different ways will feel different emotions; and a given individual who appraises the same situation in significantly different ways at different times will feel different emotions...
+
+Appraisal provides a highly flexible and therefore especially useful emotion generation mechanism, "decoupling" emotional responses from rigid one-to-one relationships with situational conditions. Emotional response will vary with variation not only in external circumstances but also in internal needs and coping resources. Thus appraisals adapt emotional responses to the individual and temporal requirements of the situations in which they occur. [13]
+
+Here's where we can leverage the power of reframing. Our intellectual interpretation of situations in which we've encountered setbacks or made mistakes has a significant influence on our emotional experience. One interpretation is that we lack the talent or ability--a hallmark of a fixed mindset. But an alternative explanation--a way to reframe the situation--is that we simply lack experience, and with feedback, practice, and hard work, our performance is likely to improve.
+
+Note that reframing does not mean failing to hold ourselves accountable. Recall the study led by Jason Moser noted above--the people who learned best from their mistakes spent a substantially higher amount of time and energy focusing on and reviewing what they did wrong in order to learn from it. They didn't shirk responsibility or fail to hold themselves accountable--just the opposite.
+
+Footnotes
+
+[1] The Cognitive Dissonance of the CEO
+
+[2] The Theory of Cognitive Dissonance: A Current Perspective, page 30 (Elliot Aronson, Advances in Experimental Social Psychology, 1969)
+
+[3] What Is Mindset (Carol Dweck, 2012)
+
+[4] Note that Dweck's work has come under scrutiny and the concept of a growth mindset has been challenged. For more, see Minding Our Mindset.
+
+[5] Mind Your Errors: Evidence for a Neural Mechanism Linking Growth Mind-Set to Adaptive Posterior Adjustments (Jason Moser et al, Psychological Science, 2011)
+
+[6] How can you change from a fixed mindset to a growth mindset? (Carol Dweck)
+
+[7] What is brain plasticity, and why is it so important? (Duncan Banks, The Conversation, 2016)
+
+[8] How to Think (More on Open Space and Deep Work)
+
+[9] The Value of Journal Writing
+
+[10] Self-Coaching Is SOCIAL
+
+[11] The Friendship of Wolves
+
+[12] Show Me Your Calendar, and I'll Show You What You Value
+
+[13] "Appraisal Theory: Overview, Assumptions, Varieties, Controversies," pages 6-8 (Ira Roseman and Craig Smith, Chapter 1 in Appraisal Processes in Emotion: Theory, Methods, Research, Klaus Scherer, Angela Schorr and Tom Johnstone, editors, 2001)
+
+For Further Reading
+
+Corn Mazes and Mental Models
+
+Mindset: The New Psychology of Success (Carol Dweck, 2007)
+
+The Dynamic Brain: Neuroplasticity and Mental Health (Jill Kays, Robin Hurley and Katherine Taber, The Journal of Neuropsychiatry and Clinical Neurosciences, 2012)
+
+Photo by R. Nial Bradshaw.
+

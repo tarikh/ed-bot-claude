@@ -1,0 +1,19 @@
+---
+title: Carly Fiorina, Take Two
+url: https://edbatista.com/2006/05/carly_fiorina_t.html
+slug: carly_fiorina_t
+published: 2006-05-24T09:28:16
+updated: 2006-05-24T09:28:16
+source_body: wordpress-html
+---
+
+Alan Murray has a piece in today's Wall Street Journal that looks back at the H-P/Compaq merger that was Carly Fiorina's crowning achievement as well as her undoing. Although Fiorina was booted because of a widespread perception that the merger had failed and was going to drag H-P down, over the past few years H-P has been substantially outperforming its competitors. So if Fiorina saved H-P, why couldn't she save herself? According to Murray,
+
+...H-P's board never completely lost faith in the merger... They just lost faith in Carly. She created a matrix-management structure they couldn't understand and muddled lines of reporting that made it difficult to hold anyone responsible. She concentrated too much power in her own office, and then took to the road making speeches and wasn't there when decisions needed to be made. Perhaps most importantly, she was disdainful of the board's efforts to change her ways.
+
+I still think that brand misalignment between the dynamic Fiorina and the stodgy H-P (magnified by a healthy dose of old-fashioned sexism) caused many of her problems. But Murray paints a picture (one that's consistent with other media reports) of an inflexible manager who had to do things her way and who failed to see that she was turning potential allies into antagonists.
+
+Fiorina's a fascinating case study to me, because she exemplifies a set of questions I ask myself all the time. How do you exert leadership without alienating others? How do you get others to invest in your mutual success? How do you build support for large-scale change, rather than simply mandating it? In hindsight, Fiorina clearly had the right answer for H-P, but she never found the right answers to these questions, if she even asked them in the first place.
+
+tags: carly fiorina h-p hp compaq alan murray
+

@@ -1,0 +1,11 @@
+---
+title: Dead Laptop: That's Not Good
+url: https://edbatista.com/2006/06/dead_laptop_tha.html
+slug: dead_laptop_tha
+published: 2006-06-02T09:50:12
+updated: 2006-06-02T09:50:12
+source_body: wordpress-html
+---
+
+My trusty ThinkPad T40 died this week, and life has been a bit more complicated as a result.  I've been able to keep working on my wife's laptop, but most other tech-related activity has come to a grinding halt--and work hasn't gone all that smoothly.  It's a sobering reminder that no matter how much of my digital identity has migrated to the cloud in recent years, a healthy chunk of it is still locked up, earthbound, in that goddamn wonderful machine.  So do I complete the transition, cut the tether that binds me to a particular box, and hope that I'll have access to the network whenever I need it?  I'm not quite ready to make that leap--there are too many times when I want to work off the net, if only to silence the ADDemons that thrive online and sharpen my focus on the task at hand.  But I clearly haven't gone far enough--so if you're so inclined, please say a little prayer for Herrick and the gang at Ameritech Computer Services.  I know you can do it, Herrick!  (And in the meantime, I probably won't be blogging much.  Hope to be back in action soon.)
+

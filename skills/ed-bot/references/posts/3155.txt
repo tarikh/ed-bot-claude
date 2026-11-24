@@ -1,0 +1,19 @@
+---
+title: Information Architecture
+url: https://edbatista.com/2005/04/information_arc.html
+slug: information_arc
+published: 2005-04-13T23:30:52
+updated: 2005-04-13T23:30:52
+source_body: wordpress-html
+---
+
+Re-reading this post, I buried the lede: the Information Architecture Wiki's Defining the Damn Thing (said thing being information architecture itself.)  A great piece of collective writing, rich with images (for us visual thinkers), some mordantly funny, and some just dense with information.
+
+OK, here's the background: Searching for a concise definition of "information architecture" led me to the Information Architecture Institute.  (I ransacked their definitions to come up with "the organization, labeling and presentation of information."  Neither elegant nor comprehensive, but it served my immediate need--go argue in the Comments.)  The IA Institute seems like a worthy group--plenty of heavy hitters on their Board of Directors--and I look forward to learning more about them.  They can be defensively boosterish at times ("This work is both a science and an art."), but that comes with the territory for any association, as I know all too well.
+
+(To digress, they're sadly unsophisticated when it comes to their own systems and promotional efforts.  The Membership Signup page is buried, and once you get there, you're told nothing about what you're getting for your $40.  Oh, and if you want to pay online but don't like PayPal, well, tough.  OK, enough griping from a former association executive director.  But really, folks, it's not that hard to do it better.)
+
+But the IA Institute ultimately led me to the IA Wiki (which, by the way, is a perfect example of how a (collectively edited) wiki differs from a conventional site.  They both deal with the same topic, many of the same people are involved on both sides, but they feel radically different.  While the IA Institute is slightly stuffy, the IA Wiki conjures up the Wild West, a comic book--anything but an professional association.  There's a valuable lesson in the contrast between the two.)
+
+And the IA Wiki led me to...well, that's where you came in.  Lots to think about here.  Too much, for the time being.
+

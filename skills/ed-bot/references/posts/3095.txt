@@ -1,0 +1,31 @@
+---
+title: It's Nick Denton's World
+url: https://edbatista.com/2005/01/its_nick_denton.html
+slug: its_nick_denton
+published: 2005-01-31T21:31:10
+updated: 2025-10-11T22:07:51
+source_body: wordpress-html
+---
+
+We're just blogging in it. Denton's Gawker Media launched Lifehacker today.  What's that about, you say?
+
+[Lifehacker's about] the endless possibilities of technology and how it can improve our lives. Lifehacker points out software, sites, tips and tricks that help you get things done, plain and simple... Let the adventures in productivity begin.
+
+It's actually a more interesting site than that lame copy would suggest.  My favorite tip from among their first offerings is the simple advice that you can search Google by filetype:
+
+Ever want to search the web for an Excel spreadsheet checkbook? Easy. Type filetype:xls checkbook into the search box at Google.
+
+Behemoth search engine Google indexes more than just web pages. Narrow your search down to specific types of files with the “filetype” directive.
+
+Hat tip to Jeff Jarvis, who's so wired that the Lifehacker launch itself isn't news to him:
+
+What's news is that Nick (a friend and business colleague of mine) signed up Sony for Lifehacker just as he signed up Audi for Jalopnik [Ed.: Gawker's neo-gearhead blog].
+
+And here's what's newsworthy about that:
+
+Since the internet started, many big-time publishers have struggled to convince big-time advertisers that this new medium is not just about direct response (click-through) but also about branding (that is, the value of associating your brand and product with a media brand -- the reason to advertise in a glossy magazine with a classy audience, for example). That is why the Online Publishers Association was created.
+
+But note what Denton has done twice: He got big-time advertisers to sign onto a product that didn't even exist yet. Take it from a guy who started a magazine; that doesn't happen. So why did they do it? Clearly, they wanted to be associated -- branded -- with the next, new, cool thing. Just being the first in equals branding. That is a value of this new medium: its newness.
+
+News about a blog, and meta-news about why that news is newsworthy.  Are you chasing your own tail yet?
+

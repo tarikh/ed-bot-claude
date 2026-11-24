@@ -1,0 +1,19 @@
+---
+title: McCovey Chronicles
+url: https://edbatista.com/2005/01/mccovey_chronic.html
+slug: mccovey_chronic
+published: 2005-01-24T19:41:25
+updated: 2025-10-11T22:19:07
+source_body: wordpress-html
+---
+
+Grant of Waiting for Boof, my old favorite S.F. Giants blog, has moved over to swanky new space at the McCovey Chronicles, my new favorite Giants blog.  From his first post a few days ago:
+
+Welcome to McCovey Chronicles, all.  Perhaps you are the type who picks up the San Francisco Chronicle each morning, hoping to find bathroom humor and a Journey reference mixed in the Giants article.  Every single day you do this.  Every single day you are disappointed.
+
+This is your site.
+
+I should also mention Athletics Nation, which covers, yes, that's right, the Oakland A's, but seems to take itself a little more seriously than the McC.  For example, here's a recent AN interview with Billy Beane.
+
+(It'll be readily apparent to visitors that both McC and AN are using nearly identical templates on the same platform, but I can't find any info on what they're using.  Anyone have any ideas?)
+

@@ -1,0 +1,23 @@
+---
+title: AttentionTrust
+url: https://edbatista.com/2005/07/attentiontrust-2.html
+slug: attentiontrust-2
+published: 2005-07-28T17:21:38
+updated: 2005-07-28T17:21:38
+source_body: wordpress-html
+---
+
+As noted in my last few posts, Seth Goldstein, Steve Gillmor and a number of other folks have launched AttentionTrust, a tremendously important work-in-progress whose goal is to "promote the basic rights of attention owners," i.e. all of us.  Yesterday Seth posted what you might call an Attention Manifesto:
+
+Attention is the substance of focus.  It registers your interests by indicating choice for certain things and choice against other things. As Steve reminds, the establishment of value in the attention economy is a dual register of what one pays attention to and what one chooses to ignore (or unsubscribe, turn off or tune out).
+
+The reason attention is becoming more important now is that the Internet has enabled the recording and sharing of these choices in real-time. The massively parallel synthesis of meta data streams has concentrated enormous influence in people and their sites.  Some consumers are proactive in gaining full control over their influence, but the majority are passive users of free services and offers (that actively capture and sell their intentions)...
+
+Our attention data is ours, each of us individually.  In the wake of the behavior of credit card companies, credit unions and data brokers, it is vital that we recognize our right, and our responsibility, to govern ourselves relative to the use of our private information... Our attention establishes intention; and our intention establishes economic value.  Once one recognizes the value of one's attention, it is shocking to see how cheaply most people offer theirs to companies looking for their business.
+
+But it's not just (or even primarily) about realizing economic value or preventing exploitation--it's also about preserving and improving our quality of life.  As noted in my last post, we're all struggling to stretch our finite amount of attention to keep up with the ever-increasing numbers of people and things demanding a share of it.  This is a particularly acute problem online.  The web has dramatically expanded the range of interesting things we could be paying attention to, just as it's dramatically expanded the range of things we're not interested in that have nevertheless found a way to steal a few precious moments of our attention.
+
+To avoid drowning in an ocean of irrelevancy, we must become aware of the value of our attention, and we must spend it wisely, in accord with our own desires, not merely the desires of those entities who have managed to find (or buy) their way onto our screens or into our inboxes.  I think the establishment of AttentionTrust is a significant step in that direction.
+
+attentiontrust attention
+

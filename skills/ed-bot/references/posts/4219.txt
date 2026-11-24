@@ -1,0 +1,45 @@
+---
+title: Lessons from Ferrari CEO Benedetto Vigna
+url: https://edbatista.com/2024/05/ferrari-ceo-benedetto-vigna.html
+slug: ferrari-ceo-benedetto-vigna
+published: 2024-05-10T06:25:42
+updated: 2025-10-05T15:36:47
+source_body: wordpress-html
+---
+
+I'm skeptical of glowing CEO profiles. When we put leaders on pedestals, we often set them up for a fall. That said, Ben Cohen's recent Wall Street Journal piece on Ferrari CEO Benedetto Vigna offers some interesting insights. [1] While it would be a classic example of the fundamental attribution error to give Vigna too much credit for the company's stellar performance, he's clearly made a meaningful contribution since taking on the role in 2021. [2]
+
+Respect for tradition, with a fresh perspective.
+
+Vigna cares deeply about the Ferrari tradition of excellence, dating back to his childhood when he was a devoted fan of the company's Formula 1 racing team. But his training in the semiconductor industry gives him a new perspective on the brand: "It's a luxury company where, contrary to other luxury companies, technology plays an important role."
+
+There's a noteworthy contrast here with Boeing, the world's largest aircraft manufacturer. Founded in Seattle in 1916, Boeing may have been seeking a fresh perspective when they relocated their headquarters to Chicago in 2001. But in the process they seem to have lost their traditional focus on engineering, laying the groundwork for a host of serious production problems today. [3]
+
+Cultural evolution.
+
+Respect for tradition doesn't mean no change at all. Vigna was dismayed to find an unnecessarily complex and multi-layered organizational structure, and he took steps to simplify it:
+
+The problem, he discovered, was that Ferrari was being weighed down by its "bureaucratic mass index," his name for the excess layers of an organization... At one point, Vigna counted nine levels of employees in a cybersecurity meeting and noticed that only the lowest-ranking person had anything useful to say. He restructured groups and reduced the number of organizational levels.
+
+But these changes appear to have been measured, not sweeping:
+
+When you change the culture of a company, it's never a revolution. It's an evolution. If you have a revolution, you will have a lot of passive resistance and you will be inefficient. You will was a lot of energy for a small gain.
+
+A freer flow of information.
+
+When Vigna became CEO, he was concerned that the company's structure was preventing important information from reaching him. He began his tenure by interviewing 300 employees from throughout the company, and he didn't stop there:
+
+Vigna also sought out the people who had spent the most time in Ferraris: the test drivers... He bumped the test drivers from six levels below the CEO to three with the goal of accelerating the flow of information. "They cannot be nested under the engineers," Vigna said. "Otherwise it's like asking the server how is the wine."
+
+While I thoroughly enjoyed Cohen's piece on Vigna, this post is also just a good excuse to share not only the gorgeous photo above--possibly a 225 Sport Spider from the 1950s--but also one of my favorite videos of all time:
+
+Footnotes
+
+[1] He Loves Speed, Hates Bureaucracy and Told Ferrari: Go Faster (Ben Cohen, The Wall Street Journal, April 20, 2024)
+
+[2] Roberto Fernandez, one of my best professors in business school, described the fundamental attribution error as "ascribing causality to personal characteristics when causality actually lies with the situation." The original research was also conducted at Stanford in the 1970s: The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process (Lee Ross, Advances in Experimental Social Psychology, L. Berkowitz, editor, pages 173-220, 1977)
+
+[3] Why Boeing’s Problems with the 737 MAX Began More Than 25 Years Ago (Bill George, Harvard Business School Working Knowledge, January 24, 2024)
+
+Photo by Bill Abbott.
+

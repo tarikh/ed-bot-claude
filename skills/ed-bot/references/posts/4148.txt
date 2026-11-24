@@ -1,0 +1,87 @@
+---
+title: How Far Apart Are We? (Degrees of Disagreement)
+url: https://edbatista.com/2022/03/how-far-apart-are-we-degrees-of-disagreement.html
+slug: how-far-apart-are-we-degrees-of-disagreement
+published: 2022-03-30T12:43:51
+updated: 2025-10-05T17:17:19
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs whose C-level executives have deep domain expertise, and most of the rest are operating leaders at other levels who highly value their employees' input. So it's rare for one of them to make a decision overruling a direct report, but that's an inevitable aspect of management. [1]
+
+When this occurs it's important for the leader to anticipate how their employee will respond and assess we might call the degree of disagreement. So if you're a leader about to veto an employee's preferences, reject their recommendation, or overturn a prior decision of theirs, consider where they're likely to land along this spectrum:
+
+- Understanding: Has a different point of view, but appreciates your perspective, with no loss of trust.
+
+- Disappointed: Wishes the outcome were different, but no lasting hard feelings, with no loss of trust.
+
+- Unhappy: Believes that you're making a serious error, with a loss of trust in your judgment.
+
+- Betrayed: Believes that you misled them, with a loss of trust in your intentions. [2]
+
+Note that the same spectrum applies to decisions related to hiring, firing, promotions and layoffs. If you're poised to make a decision that will affect someone's employment or modify their role, consider how they might feel about your working relationship:
+
+- Understanding: Eager to continue working with you or to work with you again in the future.
+
+- Disappointed: Willing to continue working with you or to work with you again in the future.
+
+- Unhappy: Reluctant to continue working with you or to work with you again in the future.
+
+- Betrayed: Will no longer work with you, and may advise others not to work with you.
+
+The goal is to increase the likelihood of understanding and minimize the risk of betrayal (and in the latter case, what matters is your employee's belief that they were misled, not whether you actually misled them.) There's no guaranteed means of arriving at understanding, nor can that be your only priority. If you're like my clients, you must regularly make decisions that are in the best interests of your organization but will leave people feeling disappointed, unhappy, and, on occasion, betrayed.
+
+The key is evoking empathy, which can be difficult under the best of circumstances. As I've written before, we typically fail to "empathize up" with people in positions of authority or influence over us:
+
+It’s essential to remember that the people we’re leading will find it very difficult to empathize with us. They will be unlikely to understand our perspective and our emotions unless we make the effort to be explicit about them. They will make snap judgments about us and readily misinterpret our behavior unless we go out of our way to share our rationale and explain our intentions. They will be reticent to communicate any of these views unless we initiate a dialogue in which we’re active participants, not just questioners. [2]
+
+So how might you make it more likely to achieve understanding, even--and especially--when stakes are high and there are strong feelings on all sides? There's no magical solution, but there are some steps you can take, in the moment and over time, that will help you handle these rare but inevitable situations with as much grace as possible:
+
+Identity and question your underlying assumptions regarding this decision (including whether you need to make it): 
+
+- Leadership, Decision-Making and Emotion Management
+
+- Authority and Control in Organizational Life
+
+- Racing Up the Ladder of Inference
+
+- Seeing What's Not There (The Importance of Missing Data)
+
+Prepare for a difficult conversation and choose the right medium for the dialogue:
+
+- Setting the Table (Difficult Conversations)
+
+- Learning to Yield (Navigating Difficult Conversations)
+
+- Intent vs. Impact (When Communication Goes Awry)
+
+- The Communication Funnel
+
+Cultivate your ability to speak directly and empathetically, as well as your capacity for emotion regulation:
+
+- Risk Management (The Importance of Speaking Up)
+
+- Force Isn't Power
+
+- Accountability and Empathy (Are Not Mutually Exclusive)
+
+- The Tyranny of Feelings
+
+Invest in your working relationships and their capacity to acknowledge, address and resolve difficult issues:
+
+- Better Working Relationships
+
+- Make Feedback Normal. Not a Performance Review.
+
+- Talking About Feelings
+
+- Safety Is a Resource, Not a Destination
+
+Footnotes
+
+[1] Two Sides of Trust
+
+[2] The Difficulty of Empathizing Up
+
+Photo by Sharyn Morrow.
+

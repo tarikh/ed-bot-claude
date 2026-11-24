@@ -1,0 +1,35 @@
+---
+title: Visual Images and Effective Communication
+url: https://edbatista.com/2009/07/images.html
+slug: images
+published: 2009-07-16T06:54:00
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+I've always found that well-designed images enhance effective communication, and current research in neuroscience is helping us to understand why.  Information designer Tom Wujec spoke at TED in February on the relationship between visual images and meaning:
+
+What is it about animation, graphics, illustrations that create meaning?
+
+Cognitive psychologists now tell us that the brain doesn't actually see the world as it is, but instead creates a series of mental models through a collection of "a-ha" moments or moments of discovery through various processing...
+
+The act of engaging and creating interactive imagery enriches meaning...
+
+We make meaning by seeing, by an act of visual interrogation...
+
+Wujec proposes three basic guidelines for anyone seeking to communicate more effectively:
+
+1) Use images to clarify what we're trying to communicate.
+
+2) Make those images interactive so that we engage much more fully.
+
+3) Augment memory by creating a visual persistence.
+
+Although my reliance on static images falls short on the interactive front, these concepts certainly underlie my recent posts on a framework for professional and personal development, the importance of time horizons, and the nature of influence.
+
+And these same concepts explain why I'm continually drawn to the efforts of designers like Dustin Curtis and writers like Virginia Postrel, who highlight the utility of good design while also doing work that just looks great.  There's also a connection with the work of Howard Gardner on influence--he notes that "A change of mind becomes convincing to the extent that it lends itself to representation in a number of different forms, with these forms reinforcing each other," and with a particular emphasis on alternative visual forms of representation.
+
+Finally, for some even more vivid examples of how effective communication can depend on visualization, see Nathan Yau's Flowing Data or the many projects undertaken by the breathtakingly creative people at Stamen.
+
+Thanks to Stephanie West Allen for the reference to Tom Wujec, and thanks to David Zinger for the reference to Nathan Yau.  If the meaning of the photo above from Spinal Tap is unclear, this clip might help.  (Warning: Profanity, power chords, mullets.)
+

@@ -1,0 +1,11 @@
+---
+title: Big Blue Blog
+url: https://edbatista.com/2005/05/big_blue_blog.html
+slug: big_blue_blog
+published: 2005-05-29T00:06:19
+updated: 2005-05-29T00:06:19
+source_body: wordpress-html
+---
+
+IBM is encouraging its employees--all 320,000 of them--to start blogging. The mind boggles. Hat tip to Todd Stephens.
+

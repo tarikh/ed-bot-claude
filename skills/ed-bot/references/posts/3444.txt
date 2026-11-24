@@ -1,0 +1,37 @@
+---
+title: Are You a Searcher or a Planner?
+url: https://edbatista.com/2006/08/are_you_a_searc.html
+slug: are_you_a_searc
+published: 2006-08-24T09:50:13
+updated: 2026-11-15T17:28:00
+source_body: wordpress-html
+---
+
+When it comes to tackling problems there are two types of people: Searchers and Planners. Searchers see a need, identify a feasible solution, find the resources required to get started, and hit the ground running. Planners see a need, identify the best solution, find the resources required to finish the job, and launch only when success is assured.
+
+In a recent Wall Street Journal column on the various approaches to treating malaria in sub-Saharan Africa, Jason Riley highlights the benefits of Searching and the dangers of Planning. [1] Riley lauds the efforts of entrepreneurial Searchers, who "prefer to work case-by-case, using trial and error to tailor solutions to individual problems, fully aware that most remedies must be homegrown." But he's dismayed by the bureaucratic Planners who, while well-meaning, take a bureaucratic, top-down approach to issues such as poverty, which they see as "technical engineering problem[s] that [their] answers will solve," in the words of economist William Easterly.
+
+I know nothing about malaria or public health policy, so I can't comment on the accuracy of Riley's views in this specific case. But I agree with his larger point: Planning is often overrated and sometimes even counterproductive. I studied entrepreneurship with the brilliant Chuck Holloway in business school [2], and one of his core principles was the necessity of being able to pull back, assess progress (or lack thereof), and adjust course accordingly. He taught us to avoid making any unnecessary long-term commitments--as well as plans that can't be revised--and to keep our planning horizons short. This philosophy is essential in any entrepreneurial situation where resources are tightly constrained and the future is highly uncertain, but it can be just as useful in other circumstances. (A distinct danger when resources are plentiful is an overemphasis on planning at the expense of actual work.)
+
+There's a parallel in the rise of the rapid development approach to software in the 1980s, which replaced longer-term, planning-intensive processes. As Wikipedia notes, "The problem with previous methodologies was that applications took so long to build that requirements had changed before the system was complete, often resulting in unusable systems." [3] Obviously that problem isn't limited to software.
+
+I don't mean to suggest that planning is useless. Eisenhower was a meticulous Planner, and it's hard to argue with the results of D-Day. But each planning process should be tailored to fit the situation, and we should bear in mind the tendency of plans to expand to consume available time and resources. We should also understand where we sit on the Searcher-Planner spectrum as individuals, because sometimes our natural inclination will be the right fit for the circumstances, while at other times we'll need to get out of our comfort zone or find someone else to do the job.
+
+I know from personal experience that planning can become an end in itself--we can get so caught up in the process of planning that the plan becomes a proxy for the problem, and when the plan's complete we feel a sense of accomplishment, even though all we've done is finish the plan! In Joan Didon's The Year of Magical Thinking, her moving, thoughtful and unexpectedly funny memoir about coping with several deaths in her family, she writes about her first years of marriage to the writer John Gregory Dunne:
+
+My memory of those years is that both John and I were improvising, flying blind. When I was clearing out a file drawer recently I came across a thick file labeled "Planning." The very fact that we made files labeled "Planning" suggests how little of it we did. We also had "planning meetings," which consisted of sitting down with legal pads, stating the day's problem out loud, and then, with no further attempt to solve it, going out to lunch. Such lunches were festive, as if to celebrate a job well done. [4]
+
+I've been there.
+
+And as my friend Greg Neichin reminds me, Herb Kelleher, the co-founder and former CEO of Southwest Airlines, had a firm stance on such matters: "We have a strategic plan. It's called doing things."
+
+Footnotes
+
+[1] Malaria's Toll (Jason Riley, Wall Street Journal, August 21, 2006)
+
+[2] Chuck Holloway, Stanford GSB
+
+[3] Rapid application development
+
+[4] The Year of Magical Thinking (Joan Didion, 2005)
+

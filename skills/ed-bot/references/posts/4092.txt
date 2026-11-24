@@ -1,0 +1,99 @@
+---
+title: Not Your Friends. Not Your Enemies. Not Your Boss.
+url: https://edbatista.com/2021/07/not-your-friends-not-your-enemies-not-your-boss.html
+slug: not-your-friends-not-your-enemies-not-your-boss
+published: 2021-07-21T13:46:59
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+The awful thing about life is this: Everybody has their reasons.
+
+~Jean Renoir, "The Rules of the Game" [1]
+
+Most of my clients are CEOs, and most of them have a Board of Directors. And a number of my clients are investors, most of whom sit on company Boards. So I get to view this relationship from both perspectives, and in almost all cases it's a highly complex one. There are many potential reasons for this state of affairs:
+
+- There's a substantial degree of information asymmetry. The CEO determines (or at least influences) the information that's shared with the Board about business operations. The Board can make life difficult for the CEO if they have concerns about the business, and may have the ability to remove them from the role. Both sides may wonder if the other is being entirely truthful, which can make it difficult to establish lasting trust.
+
+- Both sides need each other--and this can breed resentment. CEOs have typically pursued an entrepreneurial path because they prefer to operate with a great deal of latitude and autonomy, and requiring outside capital to scale the business can introduce unwelcome scrutiny and unwanted constraints. Board members are typically high-status figures who enjoy a great deal of deference, and a CEO's reluctance to follow their guidance can be perplexing and frustrating.
+
+- While we may refer to a Board as a group, more typically Boards are collections of individuals who have overlapping but distinct agendas and share only a minimal sense of group identity. So there are few if any incentives to invest time and effort in addressing problematic behavior or counter-productive norms, and everyone winds up colluding in the resulting dysfunction.
+
+- Finally, the power dynamics inherent in these relationships can change rapidly. At earlier stages the CEO may feel dependent on the Board for access to capital and other resources and, further, may worry about being replaced. And yet should the business gain substantial momentum Board members can feel anxious about maintaining their position and their ability to make additional investments without the CEO's approval.
+
+It's not uncommon for me to work with an investor on how to manage a difficult relationship with a CEO. But I talk to CEOs about problems with their Board even more frequently, and in this context I find it helpful to clarify for the CEO who their Board members are by reminding them who they are not: They're not your friends. They're not your enemies. They're not your boss.
+
+Not Your Friends
+
+This isn't to say that CEO/Board relationships are necessarily unfriendly. In the best situations such relationships are personally warm and mutually supportive. But even in these circumstances it's important to bear in mind that the interests and obligations of CEOs and Board members are largely aligned and not entirely aligned. CEOs typically feel a heightened sense of responsibility toward employees, customers, and other stakeholders and strive to act in their best interests. Board members typically have a fiduciary responsibility toward their limited partners and other investors and are obligated to act in their best interests. All parties will claim that they want what's best for the organization, but reasonable people can (and often do) disagree about what this means in practice.
+
+It's true, of course, that on occasion a CEO and a Board member are friends, particularly if the latter is serving at the former's invitation. In some cases the Board member understands that their purpose is to act as the CEO's ally, while in others there are no such expectations. The key is ensuring that both parties have clarity on their respective roles. [2]
+
+But these situations are relatively rare--it's far more common for CEOs and Board members who have a friendly relationship to find themselves unpleasantly surprised when they realize that their interests aren't identical, which often occurs in the context of compensation negotiations or discussions regarding the allocation and disposition of equity. [3] This doesn't mean that the prior friendliness was insincere. We can be sincerely friendly with people who aren't our friends, and we need not mistake emotional maturity for manipulation. It's not personal, it's strictly business. [4]
+
+Not Your Enemies
+
+But not all CEO/Board relationships are friendly, and there can be a great deal of rancor and friction, sometimes verging on hostility. When this occurs it's remarkably easy to conclude that the other party is an enemy, someone deliberately seeking to bring about our downfall, but this is the result of predictable cognitive biases. We're highly motivated to understand negative experiences--when something bad happens, we're compelled to craft an explanatory narrative. [5] And yet, given the information asymmetry noted above, there's often a great deal of "missing data," which I've discussed previously:
+
+We find it very difficult to envision missing data. Our brains, [psychologist Daniel] Kahneman says, are "radically insensitive to both the quality and the quantity of the information that gives rise to impressions and intuitions." Even when faced with massive gaps in information, we tend to focus on the information at our disposal and rely on it to construct a narrative, as flimsy as it might be. [6]
+
+Carole Robin, one of my mentors, puts this even more concisely: "In the absence of data, we make shit up." But assuming that the antagonism in a relationship springs from the other party's malice toward us tends to generate a vicious cycle: We trust them less and share less information with them, which exacerbates the information asymmetry, which prevents us from understanding their behavior, which causes us to assume the worst about their intentions, which erodes trust.
+
+There's a caveat here as well: So-called "sociopaths" are extremely rare, but they do exist. [7] As I've written before, "There are many circumstances under which we need to be cautious and thoughtful about what we disclose, and there are some people with whom we shouldn't share any information that could be used to our disadvantage." [8] But we should be highly skeptical of the impulse to label a difficult counterpart an "enemy"--it's far more likely that both sides are misconstruing the others' intentions.
+
+Not Your Boss
+
+This is particularly important for first-time CEOs to grasp, and at first glance it may seem puzzling. Don't CEOs report to the Board? Doesn't the Board have authority over the CEO? Well, yes and no. Obviously, many CEOs retain control over their Boards, and more experienced CEOs will sometimes go to great lengths to maintain this control to ensure that the Board does not have authority over them. But CEOs who lack full control need to understand the nature of their Board's authority and how it's likely to be employed.
+
+These CEOs are often concerned that open disagreement will lead the Board to replace them. This does happen, and I've coached investors who replaced a CEO, as well as CEOs who were replaced by their investors. But it's relatively rare, occurring in just 2% of U.S. corporations each year--and in my experience that number is even lower in private companies headed by a founder. [9] Boards are particularly reluctant to replace founders, not only because they know that many if not most early-stage employees will become flight risks, but also because they don't know how they'll replace the "founder magic" that played a role in bringing the venture to life in the first place.
+
+I'm not suggesting that CEOs should be blasé about the risk of being replaced, but it's often grossly exaggerated. What's far more likely is that an unhappy Board will simply take actions that the CEO finds distracting and annoying. There will be increased requests for information and possibly more frequent meetings. Communication will be blunt and interactions will be tense. Compensation discussions will be stressful at best and hostile at worst. Board members will express pointed opinions on operational issues that are typically under the purview of management. In short, the Board will make life difficult for the CEO, as noted above. None of this is pleasant, but it's rarely fatal.
+
+So What Can Be Done?
+
+There are no easy answers, but there are steps that can be taken to mitigate the challenges inherent in such fraught relationships. And although this piece has been written as guidance for CEOs dealing with a difficult Board, the recommendations below are equally relevant for Board members dealing with a difficult CEO:
+
+- Question our assumptions. When we encounter resistance or find ourselves in a conflict, we often respond on the basis of a set of self-protective, preconceived assumptions. Here it can be useful to remind ourselves of the line above from Jean Renoir's classic film: Everybody has their reasons. Rather than blindly assume that our interpretation of the other party's behavior is accurate, we need to entertain the possibility that we're wrong and get curious about their actual motives.
+
+- Talk about it. Curiosity is a much more productive stance from which to engage in an active dialogue--and we still need to actually have the conversation. Far too often CEOs and Board members feel precluded from speaking candidly about the difficulties in their relationship, and through their inaction they tacitly condone the dysfunction. I'm keenly aware that it can be risky to speak up, and yet it's also risky to censor ourselves.
+
+- Manage our triggers. But it's not always possible to speak candidly, to be clear. In some relationships there's been so much rancor and trust is so low that any attempts at repair will be rejected or even have a counter-productive impact. And yet even in such trying circumstances we don't really need our counterpart to do anything different in order to regulate our emotions and face them with equanimity.
+
+Footnotes
+
+[1] The Rules of the Game (directed by Jean Renoir, produced by Claude Renoir, screenplay by Jean Renoir and Carl Koch, Gaumont Film Company, 1939). One of my favorite quotes, this line is often rendered as "The real hell of life is that everyone has his reasons," which sounds more accurate to me, but this transcript suggests that the version above is faithful to the film.
+
+[2] Role Clarity and Role Confusion
+
+[3] Negotiating with Your Own Side
+
+[4] The Godfather (Directed by Francis Ford Coppola, produced by Albert Ruddy, screenplay by Mario Puzo and Francis Ford Coppola, Paramount Pictures, 1972)
+
+[5] Bad Is Stronger Than Good (Roy Baumeister, Ellen Bratslavsky, Catrin Finkenauer, Kathleen Vohs, Review of General Psychology, 2001)
+
+[6] Seeing What's Not There (The Importance of Missing Data)
+
+[7] Despite a great deal of pop psychology on the prevalence of anti-social personality disorder among powerful elites, the research makes clear that these conditions are rare to begin with and tend to be much more common among disadvantaged populations. For example, the lifetime prevalence of antisocial personality disorder is estimated at 1-4%, but that figure rises to 60% among male prisoners. See the following:
+
+- Epidemiology, Comorbidity, and Behavioral Genetics of Antisocial Personality Disorder and Psychopathy (Kimberly Werner, Lauren Few and Kathleen K. Bucholz, Psychatric Annals, 2015)
+
+- The epidemiology of antisocial personality disorder (Paul Moran, Social Psychiatry and Psychiatric Epidemiology, 1999)
+
+[8] Cautionary Tales (Authenticity at Work)
+
+[9] Why Are CEOs Rarely Fired? Evidence from Structural Estimation (Lucien Taylor, The Journal of Finance, 2010)
+
+For Further Reading
+
+Racing Up the Ladder of Inference
+
+Better Working Relationships
+
+Risk Management (The Importance of Speaking Up)
+
+Neuroscience, Leadership and David Rock's SCARF Model
+
+The Tyranny of Feelings
+
+Photo by Sofitel Dubai Downtown.
+

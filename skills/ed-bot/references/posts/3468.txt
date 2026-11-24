@@ -1,0 +1,21 @@
+---
+title: A Little Housecleaning: Feedback Requested
+url: https://edbatista.com/2006/09/a_little_housec.html
+slug: a_little_housec
+published: 2006-09-15T22:34:24
+updated: 2025-09-24T11:59:46
+source_body: wordpress-html
+---
+
+Just in case you haven't noticed, I've been cleaning things up around here over the past few days.  (Note to Explorer users: I know the boxes in the left-hand sidebar are running wide--I'm trying to determine the cause of the problem.  Thanks for bearing with me...and have you ever considered using Firefox?  Um, just a thought.  Note to feed readers: Feel free to skip this post.)  Here's a quick orientation--and any feedback would be greatly appreciated:
+
+- The "Stay in Touch" menu at the top of the left-hand sidebar includes links to subscribe to my feed, get updates by email, use my contact form, and my email and IM/Skype addresses.
+
+- The "About Me" menu at the top of the right-hand sidebar includes links to my About page, as well as my Recent Transitions and Local Meeting Spots posts.  (I'll keep the latter two up for a while, but I'll probably update and/or replace them shortly.)  And on my About page, I've consolidated my reputation/profile links under the "For More Info..." menu, which currently includes LinkedIn, Opinity, Trufina and RapLeaf.  I'm uncertain as to how useful these services are--if you've found them helpful (or not), I'd love to know.
+
+- I've moved the "Search This Site" links to the left-hand sidebar, at the top of the content navigation menus (Recent Posts, Recent Comments, Categories and Archives).  You can still choose between Google and Technorati, but I've added logos and simplified the interface.
+
+- I cut out a few menus from the sidebars that didn't really seem useful--like my Del.icio.us tagroll, which you can still find as a link under the "Tools I Like" menu on the left.  And I'm about to do a major culling of the sites in my blogroll--they're all worthwhile reads, but I'm currently oversubscribed to technology sites and undersubscribed to management sites, and I need to adjust my feed reading to fit my current interests.
+
+- I may not be done--I'm thinking about a new, less cryptic banner [Update: I've added a new banner and tweaked the color scheme] and a swanky top menu (if I have the guts to tackle it), and I'll definitely be adding a page on my professional services soon--but I'm reasonably happy with how things have turned out to date.  Thanks to TypePad for continuing to exceed expectations and to John Unger at TypePad Hacks for some great ideas.
+

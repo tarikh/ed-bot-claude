@@ -1,0 +1,69 @@
+---
+title: Doug Sundheim on Taking Smart Risks
+url: https://edbatista.com/2013/01/doug-sundheim-on-taking-smart-risks.html
+slug: doug-sundheim-on-taking-smart-risks
+published: 2013-01-03T00:38:09
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+Coach and consultant Doug Sundheim has been writing about risk for years. [1] But in Taking Smart Risks: How Sharp Leaders Win When Stakes Are High Sundheim lays out a comprehensive framework for looking at risk and provides an assortment of tools to help individuals and organizations take on the right risks at the right time.
+
+The most useful and thought-provoking ideas I encountered in Taking Smart Risks are laid out in the first three chapters, which comprise "Part One: Reframing Risk." Sundheim highlights the inherent value of risk-taking:
+
+In my work as a leadership and strategy consultant, this is a theme I hear often. Money is important, but a sense of accomplishment, growth, and self-knowledge is what really drives leaders, teams and organizations to take risks. When you play it safe, staying in the comfort zone for too long, you don't feel these things. You stagnate. And that puts everything at risk. [2]
+
+Sundheim cites the the work of Mihaly Csikszentmihalyi, Abraham Maslow, Frederick Herzberg and others in highlighting the necessary role that risk plays in our growth, development and pursuit of meaning:
+
+Over the past 60 years, professionals from the fields of psychology, philosophy and adult development have recognized the need to engage in meaningful challenges as a primary driving force in living a satisfying life... You need to get out of your comfort zone regularly if you want to enjoy life. That's because the real reward for leaving your comfort zone never lies in what you achieve by doing it; it lies in the process of doing it. [3]
+
+And as the section's subtitle implies, Sundheim emphasizes the importance of framing on our perception of risk, citing Daniel Kahneman and Amos Tversky's classic research on prospect theory and loss-aversion bias:
+
+We're naturally more averse to the costs of taking risks than to those of not taking risks because of the time frames in which we experience each cost. We experience the costs of taking risks immediately. Discomfort and uncertainty show up as soon as we engage in the risk... Conversely, we experience the costs of avoiding risks further in the future. Low growth, lack of accomplishment and limited fulfillment take time to manifest... In short, we have more trouble imagining what a lack of accomplishment will feel like in five years than what discomfort will feel like in five hours. [4]
+
+Sundheim encourages us to challenge this bias by focusing our attention not only on the potential gains a given risk may yield but also on the potential costs that may be incurred by playing it safe, and he provides several straightforward but effective tools for doing so. I regularly ask clients and students to do a simple cost-benefit analysis when facing a difficult decision, so I particularly liked Sundheim's modification of this concept, which asks us to identify--in this order--A) the benefits of a given risk, B) the costs of that risk, C) the benefits of avoiding the risk, and D) the costs of avoiding the risk, and then uses that data to help us determine how our framing of the risk is affecting our ability to move forward.
+
+But Sundheim's aware that while reframing risk is essential in getting unstuck and avoiding paralysis, it's likely insufficient to sustain action on its own, and he goes on to outline five principles that minimize the downside of any given risk:
+
+At the core of smart risk taking is something I call de-risking, or removing as much uncertainty as you can at every stage of a risk... Through years of coaching and consulting, I've found that smart risk takers consistently do five things well to de-risk whatever they're up to...
+
+[1] Find something worth fighting for... Finding something worth fighting for (I call it a SWFF) is the process of identifying and clarifying why risk taking is important to you in the first place. Smart risk takers understand that their emotional commitment to whatever they want to see happen is more than half the battle of getting it...
+
+[2] See the future now... Seeing the future now is the process of clarifying what exactly the big ideas mean in terms of real objectives, plans and intended results...
+
+[3] Act fast, learn fast... Test pieces of your hypothesis rapidly so that you can learn what will and won't work before you put too much on the line. Inherent in testing ideas rapidly is seeing failure as a necessary step in the process, not an unfortunate result of it...
+
+[4] Communicate powerfully... Smart risk takers assume that communication is going to break down (because it always does) and plan accordingly...
+
+[5] Create a smart-risk culture. Risk-taking, especially in an organizational context, is rarely an individual endeavor. Members of a team or larger group need to share the same mindsets and values about expected behavior... [5]
+
+These concepts form the core of Sundheim's approach, and the rest of the book explores each of them in depth in subsequent sections. The first of these--"Part Two: Find Something Worth Fighting For"--is most relevant to my work with client and students. Sundheim's concept of a "SWFF" resonates with me, particularly given his emphasis on values and emotion, two topics I discuss regularly in my practice and the classroom.
+
+Because emotions are at the heart of so many of the dynamics discussed by Sundheim--fear of failure, the power of enthusiasm, how to manage difficult conversations--I wanted him to explore that topic even further whenever it arose. This stems from my understanding of research on the importance of emotions in reasoning and decision-making, as well as my belief that we're much more effective at navigating complex situations--such as taking smart risks--when we acknowledge and address the emotional aspect of our experience. [6] But I recognize that Sundheim had to put some boundaries around his subject matter for practical reasons, and I appreciate the extent to which he does discuss emotion, a critical topic that's all too often ignored in books aimed at business readers.
+
+Sundheim's conclusion offers encouragement to the aspiring risk-taker:
+
+When done intelligently, risk taking never leaves you empty-handed. Even in failure, the experience provides critical learning for the future. The key is to start moving. Your path forward becomes clear once you're walking on it, not before. [7]
+
+I'm reminded--and not for the first time while reading Taking Smart Risks--of George Patton's (perhaps apocryphal) advice: "A good plan violently executed today is far and away better than a perfect plan next week." [8]
+
+ 
+
+Footnotes
+
+[1] The Gift of Risk (Doug Sundheim, Fast Company, 2006)
+
+[2] Taking Smart Risks: How Sharp Leaders Win When Stakes Are High, page 4 (Doug Sundheim, 2013)
+
+[3] Ibid, page 5.
+
+[4] Ibid, page 23.
+
+[5] Ibid, pages 36-37.
+
+[6] Antonio Damasio on Emotion and Reason
+
+[7] Sundheim (2013), page 238.
+
+[8] Patton and Voltaire on Perfection
+

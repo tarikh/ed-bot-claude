@@ -1,0 +1,172 @@
+---
+title: Very Cheap, Then Very Expensive (On Job Titles)
+url: https://edbatista.com/2022/07/very-cheap-then-very-expensive-on-job-titles.html
+slug: very-cheap-then-very-expensive-on-job-titles
+published: 2022-07-04T08:49:29
+updated: 2025-09-24T11:58:03
+source_body: wordpress-html
+---
+
+Despite the fact that people do not acknowledge a preference for hierarchy, such a preference can be inferred from behavioral patterns... The strongest piece of evidence is simply the regularity with which this form of organization is produced... When scholars attempt to find an organization that is not characterized by hierarchy, they cannot... In sum, the production of hierarchy is a central and omnipresent component of organizing.
+
+~Deborah Gruenfeld and Larissa Tiedens [1]
+
+Once you confer the Director or VP title on one person, you are signaling to every person in the company that titles are fair game at your company. Get ready for every person in the company (who deems themselves ready for the title) to campaign for a title in both subtle and unsubtle ways, for almost every accomplishment possible.
+
+~Gokul Rajaram [2]
+
+As psychologists Gruenfeld and Tiedens make clear, the impulse to establish hierarchical distinctions is universal [3], and as I've noted before, they "aren’t justifying or rationalizing hierarchy, and they cite a complex set of both positive and negative effects that result from hierarchical structures in organizational life, but they clearly demonstrate its persistence as an organizing principle." [4]
+
+A theme in my work with founder/CEOs is what I call "the judicious imposition of structure," which includes the need to clarify who's responsible for what and how decisions get made as the organization scales. [5] And an inevitable step in that process is the creation of hierarchical job titles, but as founder and investor Rajaram also makes clear, establishing titles comes at a cost.
+
+Those costs are often hidden at first, so titles may seem cheap--I've even had clients call them "free." But not only are those hidden costs eventually revealed, they also tend to escalate--so supposedly "free" titles ultimately become very expensive. And yet it's neither feasible nor desirable for companies to avoid titles forever. What explains these dynamics, and what can founders do about them?
+
+Why Titles Seem So Cheap
+
+They're not "real."
+
+When a company begins awarding titles, they're aspirational assertions and acts of imagination, existing only within the arbitrary confines of an org chart, which itself may be largely notional. Such titles have no intrinsic validity or independent worth--they're not code or cash--so founders may conclude that it costs little to offer them in exchange for services rendered.
+
+They offset other constraints.
+
+Most early-stage organizations are constrained in a number of predictable ways. If they're earning any revenue at all, they're rarely profitable, so cash compensation shortens their runway and increases the pressure on leadership to raise more capital sooner. They're also risky and unproven ventures that lack an established brand, so founders can find it difficult to convince talented people to join or stay with the company. In this context a title can be used to attract or retain employees who might pursue other forms of compensation or status elsewhere.
+
+Many founders don't care about them.
+
+As LinkedIn co-founder Reid Hoffman has noted, startup founders have much in common with pirates--not the sociopathic criminal types, but the "lovable rogues" who break archaic rules and bypass official channels in order to promote creative problem-solving and drive change. [6] In my experience this attitude is why many founders become founders in the first place, and they dismiss titles as so much corporate bureaucracy that can be safely ignored: If someone wants a particular title, who cares? Let them have it.
+
+Why Titles Become So Expensive
+
+Reality is socially constructed.
+
+When enough people--or the right people--believe a story, it suddenly becomes true. [7] Cash itself--and any other medium of exchange--is nothing but a collective narrative, and when the story changes, so does the value of the asset in question. The same is true of titles, and as a company scales and becomes more substantive, the value of a title within that construct adjusts accordingly.
+
+They become constraints in themselves.
+
+This is the essence of the risks highlighted by Rajaram: "Titles become a motivator... Titles lead to entitlement... The title parade never ends." [8] Titles are useful because they have the ability to influence behavior--they can attract or retain talent, and they clarify responsibilities and decision rights. But if obtaining a given title becomes an employee's superordinate goal, that drive is now the tail that wags the dog.
+
+They're very difficult to take back.
+
+Rajaram calls it "impossible" to "untitle" employees, and although I've seen it happen I would agree that it's very difficult. The most common challenge is the employee who continues to perform at an adequate level and remains an asset to the company but whose growth isn't keeping pace with the organization around them: The capable individual contributor who's unable to manage, or the capable manager who's unable to "manage managers." Even if they're willing to relinquish their title--which is rare--they will likely be perceived as having fallen short, which will hamper their effectiveness.
+
+So What Can Be Done?
+
+The first step for founders is raising your awareness of these dynamics and avoiding unnecessary mistakes. Even though titles seem cheap at first, they will inevitably become expensive, and that inflation should be factored into job design decisions from the start. With that in mind, Rajaram offers two specific proposals:
+
+a. Descriptive titles for individual contributors: Create job titles that precisely articulate what the person actually does. For example, Software Engineer, Firmware Engineer, Business Development Representative, Product Manager, Product Marketing Manager. This forces you to clearly spell out each person’s high level job description concisely as part of the job title, which is an excellent organizational design goal in and of itself.
+
+b. A better label for people managers: Use the term "Lead" (or a similarly generic term) for all people managers. This word replaces "Manager," "Director," "VP" or any other titles. Also make people manager titles as descriptive as possible. For example, Product Management Lead, Firmware Engineering Lead, <ProductName> Engineering Lead, <ProductName> Product Lead, <Geography> Sales Lead. [9]
+
+I support these ideas, and I've seen a number of clients employ them effectively. But my experience also suggests that they're unlikely to work in every organization, and they almost certainly won't work indefinitely. Bear in mind Gruenfeld and Tiedens' conclusion--"the production of hierarchy is a central and omnipresent component of organizing"--and it becomes apparent that in most cases efforts to forestall the establishment of hierarchical titles will eventually fail. So what else can be done?
+
+Learn to level.
+
+While it's difficult to "untitle" an employee who's under-performing relative to their role but remains a valued asset, with foresight and tact it's possible to level them under a new manager while retaining them within the organization. As I've noted before, the factors that contribute to a successful levelling include:
+
+- Data pointing to a performance gap.
+
+- Non-defensiveness on the part of the employee.
+
+- Trust in your good intentions toward them.
+
+- The potential to learn from the incoming manager.
+
+- Clarity on the distinctions between the employee's current and impending roles.
+
+- Graciousness on your part throughout the process. [10]
+
+This is much easier, of course, if you remember that titles eventually become expensive and avoid "over-titling" people from the outset. Failing that, this is why "Senior Directors" and "SVPs" exist.
+
+Pay attention to status.
+
+Sufficient role clarity allows us to answer some questions that are fundamental to organizational life: Who are we to each other? What are our relative positions in this environment? As I've noted before, "One of the most significant ways we establish role clarity in organizations is through formal hierarchies and reporting relationships, which often allow us to answer the questions above." [11]
+
+The dilemma, however, is that "even as these tools create greater role clarity, they set in motion a process that eventually generates role confusion. The key issue is the steady upward pressure experienced within a hierarchy to maintain and increase one's relative status." [12] But titles are just one form of status enjoyed by employees, and there are many others at your disposal: Access to and attention from senior leaders. Participation in decision-making. Early dissemination of information. Public acknowledgment and appreciation.
+
+Your tasks as a founder are to appreciate the essential role that status plays in organizational life [13] and to learn about the specific forms of status that your direct reports care about. You may not be able to give them the title they want--but you may not have to.
+
+Ask better questions.
+
+Simply asking "How can we prevent prevent people from desiring hierarchical titles indefinitely?" is unrealistic in most circumstances and can even be counter-productive. Particularly when hiring for senior leadership roles in later-stage organizations, the ambiguity inherent in a generic term such as "Lead" will turn away any number of talented people who have reached the point in their careers where they're unwilling to settle for anything less than a hierarchical title that meets or exceeds their previous levels. That said, there are a number of critical questions you should be asking:
+
+- Where are we feeling pressure to add or clarify titles? What specific titles are people seeking?
+
+- What are the implications of these titles for the organization today? What might they be in the future?
+
+- If we delay implementing these titles, how might we benefit? Alternatively, what costs might we pay?
+
+- If we implemented these titles now, how might we benefit?
+
+- Knowing that this would be an irreversible decision, what costs will we pay, not just now but thereafter?
+
+- At what point will this cost/benefit calculus change?
+
+Hierarchy isn't autocracy.
+
+Despite our universal preference for hierarchy, it's fallen into disfavor as a result of its abuse by autocratic leaders. We see this on a grand historical scale in the form of dictatorial governments, but it occurs every day in more mundane settings whenever a leader exerts positional power to overcome resistance and satisfy their personal preferences. But the establishment of titles need not be a step in this direction.
+
+A hallmark of a healthy organization is an ability to distinguish between hierarchy and autocracy, and work by professor of management Lindred Greer can help us understand the difference:
+
+In the past 15 years of my research, my collaborators and I have documented the many and nefarious ways in which hierarchy at work can cause tensions, conflict, and inequity. But I was forced to face the evidence that hierarchy can just as well lead to better coordination and collaboration... Based on extensive research and observation, I’ve come to realize that hierarchy is necessary to get work done, and it can be a force for good--better performance, relationships, and well-being at work--if teams are structured well and led by a skillful leader... My research has uncovered four different factors of work hierarchies that can lead to better performance, better relationships, and more cooperation...
+
+1. Build hierarchies based on expertise...
+
+2. Give employees areas of ownership...
+
+3. Create a triangle rather than a ladder. A hierarchy can take the form of a ladder or a triangle: a single line of people with less and less power, or a pyramid where lower levels get wider and wider...
+
+4. Reduce the power distance. Finally, the most effective hierarchies are the ones with a short distance between top and bottom, both objectively and according to people’s perceptions. [14]
+
+Rather than seeking to forego titles as a means of avoiding autocracy, how might you incorporate these guidelines into the establishment of an organizational structure that's both more hierarchical and more effective?
+
+ 
+
+Footnotes
+
+[1] Organizational Preferences and Their Consequences (Deborah Gruenfeld and Larissa Tiedens, Chapter 33 in the Handbook of Social Psychology, 2010)
+
+[2] Titles: The One Thing CEOs Should Delay as Long as Possible (Gokul Rajaram, Medium, 2017)
+
+[3] Critics of hierarchy may point to the alternative offered by "holacracy," coined in 2007 by consultant Brian Robertson and implemented most notably at shoe retailer Zappos, as well to other egalitarian approaches to management dating back to the 1970s and '80s. But as executive coach Harrison Monarth has noted, research suggests that the absence of job titles in no way eliminates the process of determining hierarchical status in organizational life:
+
+Humans subconsciously rely on visible cues like attractive features or extroverted personalities to assign status in a group that has no labels to indicate otherwise. In a company devoid of bosses, these perceptions of status will take hold to establish a pecking order. (A Company Without Job Titles Will Still Have Hierarchies, Harvard Business Review, 2014)
+
+And in recent years even Zappos has begun to return to a more hierarchical approach, as observed by journalist Aimee Groth. (Zappos has quietly backed away from holacracy, Quartz at Work, 2020)
+
+[4] Leadership as Performing Art
+
+[5] The Judicious Imposition of Structure
+
+[6] Uber Needs to Transition from "Pirate" to "Navy" (Reid Hoffman, LinkedIn, 2017)
+
+[7] For more on this idea, see The Social Construction of Reality: A Treatise in the Sociology of Knowledge (Peter Berger and Thomas Luckmann, 1967).
+
+[8] Rajaram, 2017.
+
+[9] Ibid.
+
+[10] The Fine Art of Levelling
+
+[11] Role Clarity and Role Confusion
+
+[12] Ibid.
+
+[13] For more on the importance of status, see the following:
+
+-
+Social: Why Our Brains Are Wired to Connect, pages 33-34 (Matthew Lieberman, 2013)
+
+-
+The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132 (Sonja Lyubomirsky, 2014)
+
+-
+Status Anxiety, pages vii-ix (Alain de Botton, 2004)
+
+- A Company Without Job Titles Will Still Have Hierarchies (Harrison Monarth, Harvard Business Review, 2014)
+
+[14] Four Keys to a Healthy Workplace Hiearchy (Lindred Greer, Greater Good Science Center, 2020). For more on Greer's insights on hierarchy, see Why Teams Still Need Leaders, an interview with Frieda Klotz (MIT Sloan Management Review, 2019).
+
+ 
+
+Photo by UK Parliament.
+

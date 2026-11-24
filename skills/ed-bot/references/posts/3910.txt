@@ -1,0 +1,65 @@
+---
+title: The Importance of Slowing Down
+url: https://edbatista.com/2017/01/the-importance-of-slowing-down.html
+slug: the-importance-of-slowing-down
+published: 2017-01-03T05:00:00
+updated: 2025-10-10T17:37:46
+source_body: wordpress-html
+---
+
+The impulse to hurry should often be interpreted as a signal to slow down.
+
+Our culture worships speed, particularly in the business world. We sing the praises of instant communication, always-available downloads, and same-day delivery as if they were miracles, and we curse the slightest interruptions in our expectations of immediacy.
+
+But a problem posed by speed is that the reflexive responses we feel under stress—in a crisis, or when engaging in conflict--are often counterproductive, making it more difficult for us to achieve our goals. We react quickly and impulsively, when we would be better served by slowing down and choosing a more thoughtful response.
+
+I’m not suggesting that speed is always undesirable. In many difficult situations it’s more important to make a good-enough decision and take action, and if we allow the perfect to be the enemy of the good, the delay will cost us. [1] Nor am I suggesting that we always perform worse under stress—up to a point the opposite is true, although once that threshold is crossed our effectiveness often declines rapidly.
+
+We tend to feel an increased sense of urgency when we encounter a situation that we perceive as threatening in some way, and the threat response (aka fight, flight or freeze response) that we’ve evolved to navigate these situations can lead us in precisely the wrong direction. When we’re in the grip of a threat response we experience a host of physiological and psychological reactions: our heart rate and blood pressure escalate, we’re more likely to feel fear and anger, and we process information more quickly, all of which prime us to make decisions quickly and take immediate, decisive action. But speed has a cost, and in these situations we also process information less accurately, and we’re less effective at creative problem-solving and collaboration.
+
+If we’re facing a literal threat to our physical safety we’re still well-served by rapid action, but few of us experience such threats on a regular basis in the contemporary world. It’s much more likely that we experience a threat response in the midst of a professional crisis or interpersonal conflict—what psychologists call social threat—and in these cases our inclination toward rapid action can be profoundly unhelpful.
+
+To begin with, our perception of threat may be entirely unwarranted. We may sense danger where there is none. Executive coach David Rock’s study of current neuroscience research indicates that we’re more likely to experience social threat under a specific set of circumstances: when we encounter someone of higher status or from another social group, when the outcome of a situation is uncertain, when we feel a loss of autonomy, or when we perceive an injustice. [2] And yet these circumstances are daily occurrences in our professional lives; if we treat every such encounter as a potential threat, we experience our workday in a permanent state of vigilance and paranoia.
+
+Further, our diminished capacity to process information accurately under stress means that we’re more likely to misinterpret environmental signals and interpersonal cues, and we suffer from a cognitive bias that makes it difficult to envision missing data. [3] Even when faced with massive gaps in information, we tend to focus on the information at our disposal and rely on it to construct an explanatory narrative, as flimsy as it might be. But a consequence is that we’re inclined to see threats where there may be none, and once we’ve come up with an explanation for the perceived threat, we’re unlikely to question our judgment and look for alternatives.
+
+So what can we do? What helps us slow down when we’re feeling a sense of urgency?
+
+Meditate
+
+Meditation is often promoted as a source of stress relief, when in practice it can actually be unpleasant and even distressing to try to "clear our minds" only to find that thoughts and emotions immediately distract us again. It’s more helpful to view meditation as a workout in managing our attention, and, like any tough workout, it’s not always going to be easy or fun. But the process of repeatedly noticing where our attention is focused and gently re-directing it strengthens our ability to do the same when we’re in the grip of a threat response.
+
+Exercise
+
+Among many other benefits, regular physical activity helps us be more attuned with our bodies. The significance here is that the feelings of anxiety, fear, frustration, and anger that can accompany a threat response have many physiological elements, and our ability to sense these cues earlier and more acutely can help us be more aware of a threat response in the moment.
+
+Sleep
+
+Our ability to do any of this work is enhanced when we’re well-rested and impaired when we’re sleep-deprived. This isn’t news—ample research supports the importance of sleep—and yet this awareness often fails to translate into behavior change that results in better sleep hygiene. One concept that I’ve found helpful in my practice is recognizing the distinction between importance and urgency; sleep is a quintessential important-but-not-urgent activity that we need to prioritize in order to do our best work. Another idea that can help is reframing the workday as a cycle that begins not when we wake up, but when we go to bed; all our subsequent efforts on any given day are support (or not) by our commitment to this first step.
+
+Practice
+
+The heightened degree of mindfulness and self-awareness that are required to slow ourselves down when we’re under stress require effort, and this can be uncomfortable. But if we fail to undertake this effort, if we fail to increase our comfort with discomfort, we guarantee our underperformance. We never learn what we might accomplish with a greater willingness to challenge ourselves. The good news is that when we spend time outside our comfort zones, they tend to expand.
+
+Footnotes
+
+[1] Voltaire and Patton on Perfection
+
+[2] David Rock on Neuroscience, Leadership and the SCARF Model
+
+[3] Seeing What's Not There (The Importance of Missing Data)
+
+For Further Reading
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+Get Moving! (Exercise for Busy People)
+
+A compilation of readings on sleep
+
+Importance vs. Urgency
+
+Comfort with Discomfort
+
+Photo by Jenny Jozwiak.
+

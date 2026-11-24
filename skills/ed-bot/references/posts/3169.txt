@@ -1,0 +1,11 @@
+---
+title: Search Me Redux
+url: https://edbatista.com/2005/02/search_me_redux.html
+slug: search_me_redux
+published: 2005-02-24T17:20:16
+updated: 2005-02-24T17:20:16
+source_body: wordpress-html
+---
+
+Why can't I find a (free) site search tool that works?  The Technorati searchlet that I installed recently on my day blog isn't working any more--it only searches the entire web and ignores instructions to search just my site.  Not helpful.  So I've put the Google search box back (TypePad makes it easy.)  But it's an imperfect solution at best.  It's not updated all that often (at least for a little ol' site like mine), so it excludes terms from recent posts.  And it includes terms from my sidebars, so you get a lot of false positives when searching for someone in my blogroll, for example.  PicoSearch had its own problems, so at this point I'm out of ideas.
+

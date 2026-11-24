@@ -1,0 +1,27 @@
+---
+title: Human Rights of Users
+url: https://edbatista.com/2005/06/human_rights_of.html
+slug: human_rights_of
+published: 2005-06-27T09:37:52
+updated: 2005-06-27T09:37:52
+source_body: wordpress-html
+---
+
+Jakob Nielsen's latest Alertbox explores the two sides of usability: empiricism (i.e. "conclusions and recommendations grounded in what is empirically observed in the real world) and ideology (i.e. "the belief in a certain specialized type of human rights").  He stresses that both sides play an important role:
+
+As a user advocate, you need both perspectives: usability as empiricism and usability as ideology. Each perspective requires a particular approach.  
+
+When taking the empirical approach, you must be unyielding and always report the truth, no matter how unpopular. If something works easily, say so. If something will cause users to leave, say so. The only way to improve quality is to base decisions on the facts, and others on your team should know these facts.  
+
+In contrast, when viewing usability as an ideology, you must be willing to compromise. Sometimes decisions must be made that will lower the design's usability quality, either because of limited time and budget or because of trade-offs with other desirable qualities.
+
+I agree wholeheartedly, but I'm particularly fascinated by the idea of the Human Rights of Users, which Nielsen enumerates:
+
+- The right of people to be superior to technology. If there's a conflict between technology and people, then technology must change.
+
+- The right of empowerment. Users should understand what's happening and be capable of controlling the outcome.
+
+- The right to simplicity. Users should get their way with computers without excessive hassle.
+
+- The right of people to have their time respected. Awkward user interfaces waste valuable time.
+

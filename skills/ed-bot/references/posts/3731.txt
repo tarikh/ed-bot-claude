@@ -1,0 +1,11 @@
+---
+title: Self-Coaching Session at Flixster
+url: https://edbatista.com/2012/12/self-coaching-session-at-flixster.html
+slug: self-coaching-session-at-flixster
+published: 2012-12-07T10:12:02
+updated: 2025-09-24T11:59:34
+source_body: wordpress-html
+---
+
+Yesterday I had the chance to give a talk on self-coaching to a group at Flixster, and a modified version of my slide deck is above. Thanks to the awesome Hannah Knapp and her colleagues for a great experience--I really enjoyed it.
+

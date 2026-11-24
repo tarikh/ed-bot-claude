@@ -1,0 +1,42 @@
+---
+title: Rocket Science, Part II
+url: https://edbatista.com/2005/06/rocket_science_.html
+slug: rocket_science_
+published: 2005-06-27T09:04:00
+updated: 2005-06-27T09:04:00
+source_body: wordpress-html
+---
+
+Seth Goldstein has finally concluded his epic series of essays on Media Futures.  I summarized Seth's five-part analytical structure (Automata, Algorithm, APIs, Alchemy, Arbitrage) and briefly excerpted his first seven essays a few weeks ago.  The eighth and ninth essays don't lend themselves to pithy reduction, so extended excerpts follow below, and I encourage you to read them both in full:
+
+- Part 5/5, ARBITRAGE, IV. New Markets, May 31
+Using Chris Anderson’s framework, as one moves down the tail by searching for ever more obscure (ie "un-covered") keywords, one inevitably finds companies like Nextag, Amazon and eBay/Shopping.com as the minimum bidders.  They believe that they have enough liquidity of product opportunities so as to be able to convert any cheap click (ie $.05) into a more qualified activity within their network... Shopping.com is doing more than $100m in annual sales off of these and other techniques leading to their recent acquisition by eBay, while Nextag remains private but purports to be doing just as much revenue.
+
+As we move further beneath the radar, there is another group of companies, mostly emerging from the online direct response agency world, that are generating significant profits by purchasing media, attracting prospects and selling leads to advertisers.  Four companies in particular stand out as the leaders in this space:  Adteractive, Azoogleads, Quin Street and NetBlue. Together they will generate more than $500 million in 2005 sales with 30%+ profitability.  Yes, $500m...
+
+The latest Release 1.0 article on Spyware features a fable that imagines advertisers as merchants at a Bazaar and their various adware proxies as pushy street urchins, “Miss!  Miss! Look here!  Special deal!"...
+
+While the modern US interpretation of the Bazaar has been typically pejorative (with a few notable exceptions), there is nonetheless a very useful economic system for transferring value that has emerged in around the Bazaar, namely Hawala. Hawala is a peer-to-peer payment system that enables any participant to make a decision as to any other participant's credit worthiness:
+
+The unique feature of the system is that no promissory instruments are exchanged between the hawala brokers; the transaction takes place entirely on the honor system. (From Wikipedia)
+
+It is unfortunate that Hawala got associated with the terrorist activities of 9/11, since as a structural mechanism it has much to offer us as a model for enabling the liquidity of attention markets that Media Futures require.  It takes courage to create new markets, but in so far as new markets establish new currencies of trust and individual control, then they are well worth the risk.
+
+-
+Part 5/5, ARBITRAGE: V. Therapy, June 19
+
+Let us understand therapy to be the practice of working with decay:  decay in the sense of something that has happened and needs to be worked through in order for one to move forward, grow, prosper, profit, progress, develop...
+
+As we spend time online we are actually impressing ourselves upon certain links within these social networks and choosing not to impress ourselves upon other links.  Our most popular email recipients and instant message buddies, our bookmarks, our cookie trails are residues of where we have decided to pay attention.  The net currently has a schizophrenic but unique way of remembering bits and pieces of these attention streams:  Not all data is captured; the consumer has no central attention management tool; and most companies don’t want you moving your history between their networks anyway.
+
+Despite these points of friction, more and more applications are being built upon our attention streams.  Every new web application or mash-up from HousingMaps to Backpack to Del.icio.us is simply a better enabler of some existing user behavior.  People were using Google to find Craigs Listings, people were using wikis and blogs to manage their projects and to-do lists, people were storing and sharing their favorite links for themselves and their friends.
+
+It is the promise of Internet media to know everything about you so that it can engage you in an intimate conversation with advertisers around specific products you are looking to buy.  But we are still many years away from a truly personalized advertising experience.  In the meantime, architects of participation are channeling specific community zeitgeists into hyper functional media products.  The consumer is invisible in the moment, leaving only traces of her clickstream behind her as a trail of evidence. Innovations in internet media are like handfuls of white flour dropped over the invisible outlines of consumer intention. At times, user behavior drives media construction directly, but at other times the original user behavior evolves beyond the ability of the media to engage it.  These hollow shells of former behavior are being swept up constantly by domain, banner, click-thru and lead brokers who recycle the detritus into more usable (aka monetizable) impressions.
+
+Remediation is the removal of pollution or contaminants from land (including sediments in waterways) for the general protection of the environment.  Remediation in terms of new media, is the representation of one medium in another. (from wikipedia)
+
+The process of remediation has become the status quo of Internet media consumption.  What we consume online is likely the residues of other people’s behaviors.  Innovation occurs through the subtle differences between my behavior and that of everybody else who has formed the sediment that I now surf upon.  In so far as my strange behavior becomes reinforced by that of others, then I am creating the foundation for new forms of media. 
+...All of these examples underscore the core thesis of Internet media therapy, namely the ability for quantitative reorganizations to produce qualitative change. This is perhaps best exemplified online by the Web API which routes multiples streams of data input into (the potential for) a qualitatively different stream out.
+
+metadata social media seth goldstein
+

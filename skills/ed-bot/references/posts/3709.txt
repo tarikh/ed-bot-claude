@@ -1,0 +1,49 @@
+---
+title: Let's Get Weird (Unusual Events and Creativity)
+url: https://edbatista.com/2012/06/lets-get-weird-unusual-events-and-creativity.html
+slug: lets-get-weird-unusual-events-and-creativity
+published: 2012-06-17T15:41:33
+updated: 2026-08-23T13:14:32
+source_body: wordpress-html
+---
+
+My colleague Doug Sundheim recently pointed to research by a team of Dutch and American psychologists on the benefits of weird experiences:
+
+Comparisons with various control groups showed that a diversifying experience--defined as the active (but not vicarious) involvement in an unusual event--increased cognitive flexibility more than active (or vicarious) involvement in normal experiences. [1]
+
+I'm always cautious about premature (and potentially spurious) interpretations of brand-new research, and yet practitioners like me can't sit around and wait for the scientists to get everything completely sorted out. At the same time, these findings resonate deeply with my own empirical experience as a coach.
+
+In my work at Stanford and with clients I often lead people through workshops, classes and other experiences intended to expand their perspective and get them thinking differently on a range of topics. Whenever possible, I begin these sessions with some type of exercise that's designed to (gently) shake people up in one way or another.
+
+For example, I'll have the group stand in a circle and ask them to sort themselves by height, with the tallest person on my left and the shortest person on my right. When they're done, I'll ask them to re-sort themselves by birthday, with the person born closest to January 1st on my left and the person born closest to December 31st on my right. And then I'll ask them to, say, re-sort themselves by "blue," with the "most blue" person on my left and the "least blue" person on my right. Someone in the group always asks what I mean by "blue," and I always tell them it's up to them to decide--there's no right answer.
+
+People typically find this a mildly weird way to begin a workshop--not so weird that it's alienating or off-putting, but just weird enough that it confounds their expectations and heightens their interest. (It also gets them up and moving, which I find always helps.)
+
+I think that what happening here is related to Hans Selye's concept of eustress: modest levels of stress improve performance, and weird or unexpected experiences are modestly stressful. [2] Such experiences push us slightly outside our comfort zone, and we can't go on auto-pilot anymore. We're a little nervous, a little excited, and we really have to pay attention to figure out what's going on and what might happen next.
+
+However, as Doug points out, "We often think we've gotten out of our comfort zone, when we really have only stretched it a bit." I suspect that there's a neurological basis for this--perhaps we acclimate to the heightened emotions triggered by weird experiences and other sources of discomfort, so we need to readjust what we define as our "comfort zone" (and what we mean by "weird") to re-enact those emotions.
+
+That's certainly been my experience with regard to improv. I wouldn't call myself a skilled improv player--in addition to the brief exercises I use to open workshops, I only participate in an extended session once or twice a year--but I've done enough of it that it's no longer "weird" to me, and it's well within my comfort zone. So if I'm truly going to reap the benefits of the dynamics uncovered by Ritter's research, I'm going to have to get much, much weirder. (Burning Man, here I come.)
+
+Footnotes
+
+[1] Diversifying Experiences Enhance Cognitive Flexibility (Simone Ritter, et al, Journal of Experimental Psychology, 2012), cited in Creativity: Why You Should Seek Out Unusual or Downright Weird Experiences (Jeremy Dean, PsyBlog, 2012). Thanks to Doug Sundheim for the reference.
+
+[2] The Nature of Stress (Hans Selye, 1982)
+
+[3] Doug Sundheim
+
+For Further Reading
+
+The Icebreaker Effect: Singing Mediates Fast Social Bonding (Eiluned Pearce, Jacques Launay and Robin I. M. Dunbar, Royal Society Open Science, October 2015)
+
+Pride and Pratfalls: Recounting Embarrassing Stories Increases Creativity (Elizabeth Wilson, Leigh Thompson and Brian Lucas, International Journal of Design Creativity and Innovation, September 2019)
+
+Team Video Gaming for Team Building: Effects on Team Performance (Mark Keith, et al, Transactions on Human-Computer Interaction, 2018)
+
+(Thanks to Ethan Mollick for these references.)
+
+Revised February 2021.
+
+Photo of Burning Man by Christopher Michel.
+

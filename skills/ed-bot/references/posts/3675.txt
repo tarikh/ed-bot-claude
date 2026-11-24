@@ -1,0 +1,17 @@
+---
+title: Experiential Learning Revisited
+url: https://edbatista.com/2011/09/experiential-learning.html
+slug: experiential-learning
+published: 2011-09-30T23:32:45
+updated: 2025-10-07T17:12:32
+source_body: wordpress-html
+---
+
+I've written before about experiential learning, but I recently updated the slides I use to illustrate the concept and thought I'd share them here. (And here's a 2-slide PowerPoint file.)
+
+The concept of experiential learning remains central to my work as a coach, particularly in Stanford's Leadership Labs, where we present this model and discuss it explicitly, but it's implicit in everything I do with students and clients, from facilitating T-groups in Interpersonal Dynamics (aka "Touchy Feely") to workshops on feedback and 1:1 coaching sessions.
+
+This version of the experiential cycle derives from the work of David Kolb on learning styles and Roger Greenaway on debriefing, but the concept is rooted in William James' belief that the privileged intellectual status of abstractions can cause us to fail to learn from our own direct experience.
+
+And if the image above seems too wordy, you can always boil it down its essence:
+

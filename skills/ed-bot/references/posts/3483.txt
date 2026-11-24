@@ -1,0 +1,99 @@
+---
+title: Double-Loop Learning and Executive Coaching
+url: https://edbatista.com/2006/12/doubleloop_lear.html
+slug: doubleloop_lear
+published: 2006-12-06T19:14:00
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+My last post before taking a few weeks off from blogging discussed Chris Argyris and his concept of double-loop learning, which I've continued to think about in the context of executive coaching. (Hey, I didn't spend November just taking naps and watching football.)
+
+That post prompted an exchange in the comments that helped to clarify my understanding of double-loop learning. Charles Green wrote:
+
+What's the difference between "double-loop learning" and "learning from your mistakes?" Apparently it's the depth of learning--do you examine fundamental
+
+assumptions, or are you just incrementally making improvements? This distinction sounds great, but in practical life it sometimes feels less clear.
+
+And here's a portion of my response to Charles:
+
+I believe you're looking in vain for a set of heuristics that will
+
+allow you to consistently distinguish between single-loop and
+
+double-loop learning. The distinction between the two processes is
+
+relative depending on who's doing the analysis and what preconceived
+
+notions they bring to the table. The key to double-loop learning is
+
+asking whether there are any unchallenged assumptions built into your
+
+current goals and strategies, and whether it's possible to pull back
+
+and include those assumptions in the frame of your analysis.
+
+In most circumstances, the learning we undertake is aimed at
+
+improving our performance relative to a set of goals and other factors
+
+that are taken for granted. Feedback from our performance (or "learning
+
+from our mistakes") typically cycles immediately back into our analysis
+
+of the strategies, tactics or techniques that led to our performance.
+
+This is important work, but it's inherently limited by those initial
+
+factors that are taken for granted at the outset and that remain
+
+unchallenged by an assessment of the performance results.
+
+In contrast, if we can pull back and expand the frame of our
+
+analysis, we begin to call into question some of the factors that we
+
+usually take for granted. Our performance results aren't simply used to
+
+assess the strategies that have been derived from those factors--they
+
+question the factors themselves.
+
+I've created some slides to help illustrate the distinction between single-loop and double-loop learning. (Click on each graphic or the links below to open up a window showing a larger version. You can also download a 4-slide PowerPoint file, 52 KB.)
+
+The first graphic below (here's a larger version) represents most of the learning that we experience.
+
+Results are used to assess our goals, values and strategies, which are
+
+then altered in order to obtain more desirable results--a process
+
+which certainly includes "learning from our mistakes."
+
+But factors other than results are used to determine our goals, values and strategies in the first place. These underlying assumptions are typically implicit and unspoken, and they go unchallenged and unquestioned. Because we may not even be aware of them, they're not included in the assessments we conduct, and they're not part of our learning process.
+
+What if we made a dedicated effort to be aware of these underlying assumptions and included them in our learning process? This would involve expanding our analytical frame to explicitly identify and subsequently challenge these assumptions. Our results would feed back twice, in two "learning loops." We'd continue the ordinary process of altering our goals, values and strategies based on our results, but at a deeper level, we'd ask questions about the truth and validity of our assumptions, and would seek to understand the ways in which they determine our goals, values and strategies from the start. Here's an illustration of this "double-loop" process (and here's a larger version of the graphic below):
+
+To make this distinction clearer, I've applied the concept to an issue that often comes up in executive coaching engagements and one that I've dealt with on a personal basis--communicating more effectively. In my own case, I received some feedback that helped me make a strategic decision to express my emotions more fully when speaking in order to have a greater impact. Here's an illustration of this strategy (and here's a larger version of the graphic):
+
+But as the graphic above makes clear, there were several assumptions implicit in my choice of strategies, such as "My audience will understand and share the meaning of my emotions," "My internal emotions and their external expressions are congruent," and "My language and my emotional expressions are perceived as consistent."
+
+These assumptions obviously had an important effect on the potential success of my strategy, which relied upon their accuracy. But because these assumptions were implicit and unchallenged, it was impossible for me to understand their impact on my results. Unaware of whether my assumptions were true or false, I couldn't know whether I succeeded (or failed) despite them (or because of them).
+
+This was a perfect opportunity for some double-loop learning, illustrated in the graphic below (here's a larger version):
+
+I expanded my frame of reference to look at the underlying assumptions that supported my strategy and began asking explicit questions that enabled me to develop a much more nuanced and sophisticated approach. This also gave me a clearer understanding of the causes of my success or failure as a communicator in a given situation.
+
+But there's one last wrinkle--having identified and challenged the underlying assumptions that supported my original strategy, those assumptions are now consciously integrated into that strategy. And as I continue to address the issues raised through the process of challenging my assumptions, what was initially double-loop learning becomes single-loop learning again.
+
+When we begin a double-loop learning process, everything comes to a full stop while we ask such challenging questions as "Why do we do this task this way?" and "Why do we do this task at all?" and, as discussed at length here, "What assumptions are embedded in our methods and our goals?"
+
+But the answers to (some of) those questions become well-understood, and the process of asking them (sometimes) becomes second nature. And at the very least, we simply don't have the time or the energy to invest in a continual process of challenging underlying assumptions. For all these reasons, we eventually find ourselves back in the routine,
+
+everyday process of single-loop learning, which is almost
+
+seamlessly integrated with our other activities.
+
+When the process works, the obvious benefit is that any lasting fruits of our double-loop learning allow us to become more efficient while obtaining better results. But even (and perhaps especially) when the process works, it's important to remember that there will always be more, and then still more, assumptions to be addressed in the future. There's no finish line; there's no point at which we can say, "I've successfully challenged and understood all my underlying assumptions, and integrated their implications into my goals, values and strategies. I rule!"
+
+The key is simply to remember that even though we can't live our lives in "double-loop mode"--how would you get through the day?--we all need to make time for it on a regular basis.
+

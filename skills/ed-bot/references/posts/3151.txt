@@ -1,0 +1,91 @@
+---
+title: A Blogger's Best Friend
+url: https://edbatista.com/2005/02/a_bloggers_best.html
+slug: a_bloggers_best
+published: 2005-02-17T18:54:07
+updated: 2005-02-17T18:54:07
+source_body: wordpress-html
+---
+
+Peggy Noonan has a great article on OpinionJournal today defending bloggers against their critics in the mainstream media (MSM). (Hat tip to Jeff Jarvis.) She writes:
+
+It is not true that the blogosphere is the Wild West. What governs members of the blogosphere is what governs to some degree members of the MSM, and that is the desire for status and respect. In the blogosphere you lose both if you put forward as fact information that is incorrect, specious or cooked. You lose status and respect if your take on a story that is patently
+
+stupid. You lose status and respect if you are unprofessional or deliberately misleading. And once you've lost a sufficient amount of status and respect, none of the other bloggers link to you anymore or
+
+raise your name in their arguments. And you're over. The great
+
+correcting mechanism for people on the Web is people on the Web.
+
+There are blogs that carry political and ideological agendas. But everyone is on to them and it's mostly not obnoxious because their agendas are mostly declared. (My emphasis)
+
+Noonan echoes one of the points I made last month while discussing the mini-controversy over revelations that MyDD and Daily Kos consulted for the Dean campaign. I wrote:
+
+...Bloggers will--they must--contribute to the efficiency of this intellectual market by making their affiliations and financial relationships transparent, and letting their readers factor that information into the value they place on their blogs' opinions.
+
+Bloggers aren't journalists (If we are, we're stand-alone journalists,
+
+in Chris Nolan's wonderful phrase.) We're partisans, advocates,
+
+activists. Sure, we want to inform--but more importantly, we want to convince.
+
+We want to move you to take action. And unlike journalists, our
+
+influence isn't rooted in a reputation for impartiality, but simply in
+
+our ability to communicate effectively with readers.
+
+So the question to ask isn't "Was it ethical for MyDD and Daily Kos to be on the Dean campaign's payroll?" but "Was it consistent with their attitudes, beliefs and values? Did it reinforce or contradict their other writings and activities?" Ultimately, it's all about consistency.
+
+...Getting paid by the Dean campaign was entirely consistent
+
+with [MyDD and Daily Kos'] established attitudes, beliefs and values, and their paid
+
+advocacy on behalf of Dean merely reinforced their other writings and
+
+activities. Like it or not, ethics scolds, but these are the criteria
+
+by which bloggers will be judged.
+
+(Glenn Reynolds thought I retreated from this position in a subsequent post; not so--I just questioned Kos' decision to use press credentials after having declared that he was not a "journalist.)
+
+Noonan goes on to make some interesting, but somewhat behind-the-times predictions:
+
+Some brilliant rising young
+
+reporter with a growing reputation at the Times or Newsweek or Post is
+
+going to quit, go into the blogging business, start The Daily Joe, get
+
+someone to give him a guaranteed ad for two years, and become a
+
+journalistic force. His motive will be influence, and the use of his
+
+gifts along the lines of excellence. His blog will further legitimize
+
+blogging.
+
+I'm not sure what some "rising young reporter" is going to bring to the party to "further legitimize" the blogosphere at this point. Didn't Michael Kinsley get that ball rolling a long time ago?
+
+Some publisher is going to decide that if you can't fight blogs, you can join them. He'll think like this: We're
+
+already on the Internet. That's how bloggers get and review our
+
+reporting. Why don't we get our own bloggers to challenge our work? Why
+
+don't we invite bloggers who already exist into the tent? Why not take
+
+the best things said on blogs each day and print them on a Daily Blog
+
+page? We'd be enhancing our rep as an honest news organization, and it
+
+will further our branding!
+
+It's noteworthy that mega-corporations are already way ahead of the MSM on this front, hiring their own in-house bloggers as "corporate ombudsmen." But despite these cavils, Noonan's support is heartening. And I think a line of hers bears repeating:
+
+The great
+
+correcting mechanism for people on the Web is people on the Web.
+
+The world has become too transparent (and switching costs are too low) for anyone to exert a claim on your time or your wallet without delivering on all of their promises--that's as true in the intellectual sphere as it is in any other market.
+

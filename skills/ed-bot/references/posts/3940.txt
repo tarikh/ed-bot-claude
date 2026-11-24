@@ -1,0 +1,99 @@
+---
+title: Huddle Up! (Building Group Cohesion)
+url: https://edbatista.com/2017/01/huddle-up-building-group-cohesion.html
+slug: huddle-up-building-group-cohesion
+published: 2017-01-30T05:00:00
+updated: 2025-10-10T15:59:27
+source_body: wordpress-html
+---
+
+I’ve spent countless hours working with small groups that aspire to become high-performing teams, in settings ranging from companies where I advised the CEO and their executives in their efforts to build a more effective organizational culture, to the Leadership Fellows program at the Stanford Graduate School of Business, which I helped launch in 2007 and supported for a decade. Here are some principles I've derived from that work to help teams foster excellence while also creating a sense of meaning and belonging:
+
+1. Initial Conditions
+
+We often think about how to make a good first impression in the context of a meaningful one-on-one relationship. [1] The less we know about the other person (and the less they know about us), the more important it is that the relationship gets off to a good start. In part this is because information vacuums make us anxious, so when we encounter one we immediately begin creating a narrative to explain the other person and make sense of their behavior. But this process is riddled with cognitive errors, most notably our tendency to trust our initial interpretation and our difficulty in imagining alternatives once we’ve settled on a story. [2]
+
+But we may fail to bear this process in mind when convening a new group, particularly when some of the participants already know each other, and yet in group settings it’s even more significant. For those who lack pre-existing relationships, the knowledge that other group members know each other may be a source of relief—and it may be a source of heightened anxiety. And even when everyone knows each other, coming together as a group for the first time is a new experience for all of the relationships in the room, and the very newness of the group itself will influence the behavior of the individuals comprising it.
+
+As a consequence it is critical to pay attention to the initial conditions that give rise to a new group, from the very first conversations about the idea to that moment when everyone finally comes together. (And note that when one or more new members join a small group, in some ways it's an entirely new group.)
+
+- To what extent do people already know each other? Are there any outliers who are significantly less connected to the rest of the group?
+
+- To what extent do people feel a sense of agency and control, and to what extent is their participation the fulfillment of an obligation?
+
+- How might the initial conditions help to strengthen feelings of connection and control? How might these conditions diminish such feelings?
+
+2. Safety, Trust, Intimacy
+
+I view safety, trust, and intimacy as the essential foundations for successful group development. [3] Safety is a sense of confidence that we won’t get hurt or taken advantage of. Trust is a belief in the validity of others’ statements and actions; people mean what they say and say what they mean. And intimacy is the ability to make the private public; I can share what I’m thinking with you, and we can invite the rest of the group to observe or join in this conversation. When safety, trust and intimacy have been established people are then willing to experiment, take risks and make themselves vulnerable.
+
+None of these steps need be grand or dramatic gestures—they’re often quite subtle. Experimentation involves an understanding of our habitual response to a given situation and the capacity to test alternatives. Risk-taking entails taking a step outside our comfort zones (which tend to expand when we do so.) And vulnerability can take many different forms; in some settings it’s vulnerable for someone to say, “I don’t know, what do you think?” When people are repeatedly engaging in these behaviors, the outcomes are greater learning, self-awareness, and behavioral change.
+
+This can trigger a series of productive dynamics: Learning, awareness and change become self-reinforcing norms as people share their results more openly. We become more willing to experiment, take risks, and express more vulnerability. We value the importance of safety, trust and intimacy and act to enhance these qualities in the group. And we identify and seek to replicate initial conditions that support the development of these qualities in the future.
+
+- How will the group's initial conditions support or inhibit the establishment of safety, trust and intimacy?
+
+- At each step of the group's subsequent development, are we increasing or decreasing the levels of these qualities?
+
+- What behaviors in the group dynamic support the development of these qualities?  And what behaviors inhibit these qualities?
+
+3. Boundaries
+
+Groups are defined by a number of boundaries, which can be tight or loose or anywhere in between. [4,5] For example, membership can be confined to a specific set of individuals, or people can float in or out. Meetings can be held at a specific date and time, or they can shift on the calendar. Meetings can start and end on time, or they can start late and run long. Attendance can be mandatory, or it can be optional.
+
+At the beginning of a new group, we tend to want looser boundaries, because we prefer freedom and choice. But if the boundaries are too loose, then the group may never develop a meaningful identity and sense of commitment, and it will fail to take off. And if the boundaries are too tight, people may resist the pressure and push back, slowing or stalling the group’s development. So we have to take care to determine how tight to make the boundaries without creating too much resistance.
+
+A version of this that comes up frequently in my practice is the composition of a company’s exec team, the senior leaders who meet regularly as a group with the CEO. If the group is too small, important perspectives will be left out, and if it’s too large, meetings will be chaotic and unproductive. One response is to loosen the boundaries by designating some meetings open to more junior execs, or by designating those execs informal members of the team, and yet these partial solutions create new problems in turn.
+
+There’s no single optimal set of boundaries, but groups that fail to address the topic early on will find themselves stuck with the ones that emerge haphazardly from the initial stages of their formation, which may not truly meet their needs. The challenge is that unless we pay close attention to the group’s development, we may not even be aware of the boundaries that are being set until they pose a problem, at which point they can be difficult to change.
+
+- What boundaries will best serve this group’s needs? What processes will we use to establish them?
+
+- What boundaries need to be established early on (or even immediately)? Which ones can (or perhaps should) be decided later?
+
+- How will the group know if the boundaries are supporting its goals? What processes exist to revise them when necessary?
+
+4. Norms and Emotion
+
+Every group has a set of norms--the unwritten rules that let us know what behaviors are acceptable in that particular setting. We rarely discuss these rules explicitly, but we can still sense them quite acutely and are keenly aware of any transgressions. Groups develop norms covering all aspects of our behavior, but norms regarding the regulation and expression of emotion are particularly important. [6] These norms are so significant because of the essential role that emotions play in communication and the tremendous potential they have to impact a group, both for better and for worse.
+
+Emotions are attention magnets—they tell us that something significant is occurring in our environment or our inner life, automatically orienting us in that direction and drawing us in, and when we’re in the midst of an emotional experience it can be extremely difficult to focus on anything else. [7] In many group settings the norms regarding emotion are intended to work against these dynamics, treating all feelings as unhelpful distractions and seeking to minimize their outward expression.
+
+There is utility in this approach—the mere experience of being in a group is often sufficient to generate an emotional response, and the ability to regulate our emotions allows us to co-exist and work together with a minimum of counterproductive conflict. Groups need norms that help us accomplish this task.
+
+The problem with this one-sided approach is that it fails to acknowledge the necessary and useful roles that emotions can play in a group experience. Emotions are critical inputs in our decision-making processes, build stronger interpersonal connections, forge a sense of group identity, and motivate us to care about the needs of the group in addition to our personal goals. And both positive and negative emotions are equally important. Groups whose norms only allow for the expression of positive emotions ultimately become stifling, unfulfilling environments.
+
+- What norms regarding the regulation and expression of emotions are the individual members bringing to this group?
+
+- How are those norms serving the group’s needs at present? How are they getting in the way?
+
+- What processes exist to explicitly identify these norms and make necessary changes?
+
+Here's a Group Norms Worksheet adapted from the work of Vanessa Urch Druskat and Steven B. Wolff, cited below, that can be useful in this process.
+
+Footnotes
+
+[1] First Impressions
+
+[2] Seeing What's Not There (The Importance of Missing Data)
+
+[3] Safety, Trust, Intimacy
+
+[4] One Stone at a Time (Building Boundaries)
+
+[5] Happy Workaholics Need Boundaries, Not Balance
+
+[6] Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven B. Wolff, Harvard Business Review, 2001)
+
+[7] Attention Surplus Disorder (Anxiety and Distraction)
+
+For Further Reading
+
+Symptoms of Group Strength
+
+Agile Coaching and Group Dynamics
+
+Team Effectiveness
+
+Photo by Greg Walters.
+

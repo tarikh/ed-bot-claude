@@ -1,0 +1,55 @@
+---
+title: The Marshmallow Test for Grownups
+url: https://edbatista.com/2014/09/new-post-at-hbr-the-marshmallow-test-for-grownups.html
+slug: new-post-at-hbr-the-marshmallow-test-for-grownups
+published: 2014-09-15T10:32:51
+updated: 2025-10-12T14:12:18
+source_body: wordpress-html
+---
+
+Originally conducted by psychologist Walter Mischel in the late 1960s, the Stanford marshmallow test has become a touchstone of developmental psychology. Children at Stanford's Bing Nursery School, aged four to six, were placed in a room furnished only with a table and chair. A single treat, selected by the child, was placed on the table. (In addition to marshmallows, the researchers also offered Oreo cookies and pretzel sticks.) Each child was told if they waited for 15 minutes before eating the treat, they would be given a second treat. Then they were left alone in the room. [1]
+
+Follow-up studies with the children later in adolescence showed a correlation between an ability to wait long enough to obtain a second treat and various forms of life success, such as higher SAT scores. And a 2011 fMRI study conducted on 59 original participants--now in their 40s--by Cornell’s B.J. Casey showed higher levels of brain activity in the prefrontal cortex among those participants who delayed immediate gratification in favor of a greater reward later on. [2] This finding strikes me as particularly important because of the research that's emerged over the last two decades on the critical role played by the prefrontal cortex in directing our attention and managing our emotions.
+
+As adults we face a version of the marshmallow test nearly every waking minute of every day. This doesn't involve sugary treats, but our browser tabs, phones, tablets, and even our watches--all the devices that connect us to the global delivery system for those blips of information that do to us what marshmallows do to preschoolers.
+
+Sugary treats tempt us into unhealthy eating habits because the agricultural and commercial systems that meet our nutritional needs today are so vastly different from the environment in which we evolved as a species. Early humans lived in a calorie-poor world, and something like a piece of fruit was both rare and valuable. Our brains developed a response mechanism to these treats that reflected their value--a surge of interest and excitement, a feeling of reward and satisfaction--which we find tremendously pleasurable. But as we've reshaped the world around us, radically diminishing the cost and effort involved in obtaining calories, we still have the same brains we evolved thousands of years ago, and this mismatch is at the heart of why so many of us struggle to resist tempting foods that we know we shouldn't eat.
+
+A similar process is at work in our response to information. Our formative environment as a species was information-poor as well as calorie-poor. The features of that environment--and specifically the members of our immediate community and our interactions with them--typically changed rarely and gradually. New information in the form of new community members or new ways of interacting were unusual and notable events that signified something of great importance. Just as our brains developed a response mechanism that prized sugary treats, we evolved to pay close attention to new information about the people around us and our interactions with them.
+
+But just as the development of industrial agriculture and mass commerce has profoundly altered our caloric environment, global connectivity has profoundly altered our information environment. We are now ceaselessly bombarded with new information about the people around us--and the definition of "people around us" has fundamentally changed, putting us in touch with more people in an hour than early humans met in their entire lives. All of this poses a critical challenge to our brains: the adult version of the marshmallow test.
+
+Not only are we constantly interrupted by alerts, alarms, beeps, and buzzes that tell us some new information has arrived, we constantly interrupt ourselves to seek out new information. We pull out our phones while we’re in the middle of a conversation with someone. We check our email while we’re engaged in a complex task that requires our full concentration. We scan our feeds even though we just checked them a minute ago. There’s increasing evidence suggesting that these disruptions make it difficult to do our best work, diminish our productivity, and contribute to a feeling of overwhelm.
+
+It doesn't help matters that trillion-dollar industries are dedicating some of their brightest minds and untold resources to come up with newer and better ways to capitalize on this mismatch between our neurological response to new information and our current information-rich environment. We are at the mercy of tremendously powerful and well-designed systems crafted with the express purpose of interrupting us and capturing our attention.
+
+The agricultural and commercial revolutions were clearly net gains for humanity, making it possible for more people to live better lives than ever before, and it would be both wrongheaded and fruitless to suggest that we should somehow turn back the clock on these advances. Similarly, the information revolution is helping us to make great strides as a species, and I’m tremendously grateful for it.
+
+But just as we need to be more thoughtful about our caloric consumption, delaying gratification of our impulsive urges in order to eat more nutritiously, we need to be more thoughtful about our information consumption, resisting the allure of the mental equivalent of "junk food" in order to allocate our time and attention most effectively. So what can we do?
+
+- Recognize the issue. Awareness is rarely sufficient to drive change, but it's always the necessary first step. How often do you check your phone? Does this get in the way of other interactions? How often do you interrupt focused work to look at your inbox? Does this break your concentration or affect how long it takes to accomplish these tasks? How often do you scan various feeds? Does this result in wasted time? We face the marshmallow test constantly--are you passing or failing?
+
+- See the tools around us and exert some control over them. These interruptions are deliberately provoked by the designers of the tools we use. The best tools we use come to feel like features of the landscape or even extensions of our own body; we ultimately fail to see them as tools. What tools are you using? How are they interrupting you? How do they make it easy for you to interrupt yourself? What alarms and alerts might you disable? What limits might you place on the "convenient" features that contribute to these interruptions?
+
+- Manage our emotions and cultivate our capacity for mindfulness. No technical interventions will be enough unless we’re also willing to work on ourselves. Emotions are at the heart of this dynamic--the excitement and anxiety generated by new information are the fuel that drives us to interrupt ourselves over and over again, and any changes we seek to make will be contingent on our ability to access, understand and leverage these emotions rather than being impulsively driven by them. As I've written before, there's no simple prescription for emotion management, but there are steps we can take: Regular physical activity and sufficient sleep are critical. Reflecting on our experiences through journaling or coaching conversations can help us understand and make sense of our emotional responses. And perhaps most importantly, even just a few minutes of meditation each day has been shown to have a powerful impact on our ability to sense our emotions and focus our attention. [3]
+
+Footnotes
+
+[1] Delaying Gratification (American Psychological Association)
+
+[2] Behavioral and neural correlates of delay of gratification 40 years later (Proceedings of the National Academy of Sciences, B.J. Casey, et al, 2011)
+
+[3] The Most Productive People Know Who To Ignore (Harvard Business Review, 2014)
+
+For Further Reading
+
+A Better Information Diet
+
+You're Not Multi-Tasking, You're Half-Assing
+
+Attention Surplus Disorder (Attention and Anxiety)
+
+The Art of Self-Coaching: Attention
+
+Originally published at Harvard Business Review.
+

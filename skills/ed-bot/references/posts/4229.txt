@@ -1,0 +1,31 @@
+---
+title: Ask Me Anything, Anytime: The Ed Bot 2.0
+url: https://edbatista.com/2025/04/ask-me-anything-anytime-the-ed-bot-20.html
+slug: ask-me-anything-anytime-the-ed-bot-20
+published: 2025-04-26T16:46:25
+updated: 2026-02-27T14:00:43
+source_body: wordpress-html
+---
+
+UPDATE: The Ed Bot can now be found at edbatista.ai.
+
+Tarikh Korula, founder and coach, has trained a version of ChatGPT on the more than 1,000 essays that I've posted to this website since 2005.
+
+We call it the Ed Bot 2.0, and you can use it to ask me anything, anytime.
+
+(Version 1.0 was taken down when the startup that developed it was acquired.)
+
+Privacy and Confidentiality
+
+Here’s how your information is handled when you use this GPT:
+
+- I do not have access to any of your interactions with the GPT. This GPT is based on my published writings, but I am not involved in your use of this tool and cannot see what you share.
+
+- Tarikh Korula created this custom GPT, but he does not have access to your individual questions or responses. He doesn’t see or store your conversations. Everything you share here stays between you and the GPT, unless you choose to share it elsewhere.
+
+- OpenAI, the platform behind this GPT, may store conversation data for system monitoring and improvement. These logs are typically anonymized, and OpenAI does not use them to identify individual users.
+
+- Please avoid sharing sensitive personal details. While your input is treated respectfully, this is not a private or confidential coaching relationship, and this GPT is best suited for general leadership insights and self-reflection.
+
+Photo by Fred Seibert.
+

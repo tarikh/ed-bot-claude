@@ -1,0 +1,81 @@
+---
+title: Why Change Is Hard
+url: https://edbatista.com/2014/12/why-change-is-hard.html
+slug: why-change-is-hard
+published: 2014-12-24T09:57:49
+updated: 2026-08-06T15:56:11
+source_body: wordpress-html
+---
+
+Why is change so difficult? Why do we resist it? What makes it hard to adapt even when our current methods aren't working?
+
+My work with clients in my coaching practice and MBAs at Stanford often involves helping people implement, manage or respond to change, ranging from CEOs scaling up a company to students in the midst of a career transition. My thinking about how we deal with change has been significantly influenced by the work of social psychologist Kurt Lewin [1] and management theorist Edgar Schein [2].
+
+Behavioral Stability
+
+In most domains of life our behavior tends to be stable and even predictable. This is true for us as individuals, and it's particularly true in our various roles as group members. We value stability because it's efficient--when we can predict behavior (both our own and that of others), we devote fewer mental resources to monitoring our surroundings and may even drop into a form of automatic thinking that is highly efficient and easy to execute. We also value stability because under predictable conditions we're unlikely to experience a threat response, the "fight, flight or freeze" reaction that is triggered when we perceive a threat. The stress and anxiety resulting from a threat response are not only unpleasant but also highly taxing, consuming significant amounts of attention and energy.
+
+Balanced Tension
+
+The stability of our behavior is also the result of a balanced tension between the driving forces that favor change and the restraining forces that resist it. A key driving force is known as "survival anxiety": We must change in order to accomplish our goals, and failure to change will threaten our existence. A key restraining force is known as "learning anxiety": Our identity and sense of worth are connected to our current behavior, and change will result in a new (and uncertain) identity or a loss of self-esteem.
+
+As Schein has noted, an increase in survival anxiety favoring change tends to produce "an immediate counterforce" in the form of heightened learning anxiety, resulting in stasis. [3] So we remain balanced--or stuck--in a set of behavioral patterns. In Lewin's term, we are "frozen" by this psychological equilibrium, reinforced by our tendencies to conserve resources, maximize efficiency, and avoid distress.
+
+Unfreezing
+
+Sticking with Lewin's metaphor, successful change requires "unfreezing," resulting from both an increase in survival anxiety and a decrease in learning anxiety. Schein has identified three steps in the "unfreezing" process: First, "disconfirmation," or a sense of dissatisfaction or frustration resulting from unfulfilled expectations or dashed hopes. Note that this condition is necessary but insufficient to bring about change, because such feelings are often dismissed ("It's not that bad.") or trigger a denial or blame response ("It IS that bad, but I can't do anything about it--or it's not my fault.")
+
+Second, a sense of survival anxiety must be aroused by the disconfirming data. But again, note that under typical conditions an increase in survival anxiety results in a corresponding increase in learning anxiety--we're deeply reluctant to let go of our current identity and sense of self, even in the face of failure. We habitually stick with our familiar patterns and behavioral routines, even when they aren't working, clinging to the hope that our circumstances will change so we won't have to.
+
+Given this dynamic, the third step before "unfreezing" can take place is the establishment of a sense of psychological safety. We must trust the people around us and the processes we're engaged in. We must feel comfortable being ourselves without worrying about being hurt. We must be able to be vulnerable. [4] Only under these conditions can we let go of our learning anxiety and overcome the defensiveness and denial that are typically triggered by survival anxiety.
+
+In other words, change occurs when survival anxiety is greater than learning anxiety under conditions of psychological safety. Only when these elements come together will we be truly open to taking risks and experimenting with new behaviors, the necessary precursors to learning and growth. [5] Such environments can take many forms, from long-term, one-on-one coaching relationships, to workshops lasting just a few hours. A prime example is the T-group [6], the working unit at the heart of Stanford's Interpersonal Dynamics course [7]--aka Touchy Feely--which, unsurprisingly, grew directly out of Lewin's work in the 1940s.
+
+Refreezing and New Patterns
+
+As temporarily energizing as it may feel to be liberated from our formerly frozen patterns, we can't live sustainably in that unfrozen state. It's inefficient and ultimately exhausting to have to constantly devise new strategies and to think through our responses to each encounter and situation. It's stressful--for ourselves and for those around us--because by definition many experiments fail. So we inevitably "refreeze" after a period of time, but if we've made effective use of our unfrozen time we don't revert back to our former patterns but rather adopt a new set of behaviors that are better suited to our current identity and circumstances.
+
+Our new patterns allow us to enjoy the same benefits of efficiency and stability as the old ones, but while enabling us to be more effective at meeting our needs and achieving our goals. Because the world around us continues to evolve after we "refreeze," It's inevitable that these new patterns will become outdated, and the cycle will repeat itself. But optimally we retain some memory of the conditions that contributed to successful change--we have learned how we learn--and we can recreate those conditions more readily in the future.
+
+Background
+
+Kurt Lewin was a social psychologist who immigrated to the U.S. in 1933, fleeing Germany after the Nazis' rise to power, eventually settling in at MIT. Lewin was particularly interested in group dynamics and the process of change, and in an influential 1947 paper he laid out a simple but compelling model to explain the process by which groups both influence individual members' behavior and re-make themselves:
+
+A successful change, therefore, involves three aspects: unfreezing (if necessary) the present level L1, moving to the new level L2, and freezing group life on the new level...
+
+The "unfreezing" of the present level may involve quite different problems in different cases. [Harvard psychologist Gordon] Allport has described the "catharsis" which seems to be necessary before prejudices can be removed. To break open the shell of complacency and self-righteousness it is sometimes necessary to bring about deliberately an emotional stir-up. (Section D.6., page 35) [8]
+
+Edgar Schein, a longtime professor at MIT's Sloan School of Management, did not know Lewin, who died in 1947, but as he has written, "...I was fortunate during my graduate school years at Harvard's Social Relations Dept. in 1949-50 to have been exposed to Alex Bavelas and Douglas McGregor, who, in my mind embodied Lewin's spirit totally. ...Lewin's spirit and the assumptions that lay behind it are deeply embedded in my own work." [9]
+
+Schein went on to build extensively on Lewin's previous work:
+
+I found Lewin's basic change model of unfreezing, changing, and refreezing to be a theoretical foundation upon which change theory could be built solidly. The key, of course, was to see that human change, whether at the individual or group level, was a profound psychological dynamic process that involved painful unlearning without loss of ego identity and difficult relearning as one cognitively attempted to restructure one's thoughts, perceptions, feelings, and attitudes.
+
+Unfreezing as a concept entered the change literature early to highlight the observation that the stability of human behavior was based on "quasi-stationary equilibria" supported by a large force field of driving and restraining forces. For change to occur, this force field had to be altered under complex psychological conditions because, as was often noted, just adding a driving force toward change often produced an immediate counterforce to maintain the equilibrium. This observation led to the important insight that the equilibrium could more easily be moved if one could remove restraining forces since there were usually already driving forces in the system. Unfortunately restraining forces were harder to get at because they were often personal psychological defenses or group norms embedded in the organizational or community culture. (pages 2-3) [10,11]
+
+Footnotes
+
+[1] Frontiers in Group Dynamics (Kurt Lewin, 1947)
+
+[2] Kurt Lewin's Change Theory in the Field and in the Classroom: Notes Toward a Model of Managed Learning (Edgar Schein, 1995)
+
+[3] Ibid.
+
+[4] Brené Brown, Vulnerability, Empathy and Leadership
+
+[5] Safety, Trust, Intimacy
+
+[6] A Brief History of T-Groups
+
+[7] Interpersonal Dynamics
+
+[8] Lewin.
+
+[9] Schein.
+
+[10] Schein.
+
+[11] Ross Wirth of Franklin University has written a useful 1-page summary of Schein's paper.
+
+Photo by ezioman.
+

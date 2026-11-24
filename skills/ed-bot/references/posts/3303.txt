@@ -1,0 +1,37 @@
+---
+title: Jonathan Schwartz Keynote at Syndicate
+url: https://edbatista.com/2005/12/jonathan_schwar_1.html
+slug: jonathan_schwar_1
+published: 2005-12-14T10:35:37
+updated: 2005-12-14T10:35:37
+source_body: wordpress-html
+---
+
+Doc Searls interviewed Sun President & COO Jonathan Schwartz as the Day 2 keynote here at Syndicate. Most of their discussion focused on hardware, business models, DRM and other topics better covered elsewhere. But what little Schwartz had to say about blogging was compelling. He's adamant about the need to eliminate almost all the distinctions between internal communications among employees and external communications with customers, partners and other stakeholders, and he clearly sees blogs as the best way to make that happen:
+
+There's very little communication internally that you want to keep private.
+
+Intranets are such an anachronism...they’re going to die.
+
+The dividing line between what's internal and what's external is diffusing, and the utility is dying away.
+
+The defensive approach is "Don't give employees [blogs]—they’ll leak information." The offensive approach is, "Give them [blogs]...they can communicate and create more opportunities."
+
+Schwartz also talked about how Sun used blogs to proactively address criticism of the company from competitors and others:
+
+Blogging has played an enormously important part in the revitalization of Sun’s reputation...
+
+Rather than spend $150 million on an ad campaign, let’s just start speaking in our own
+
+voices [on our blogs]. And guess what? Authenticity wins out.
+
+If you are authentic, if you communicate consistently, you can basically counter anything anyone says about you.
+
+This resonated with an earlier comment he made:
+
+Doc Searls: So transparency is the fulcrum on the lever now?
+
+Jonathan Schwartz: Authenticity is the fulcrum.
+
+tags: syndicate syndicate conference doc searls
+

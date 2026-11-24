@@ -1,0 +1,23 @@
+---
+title: Last.fm: Attention Data in Action
+url: https://edbatista.com/2005/12/lastfm_attentio.html
+slug: lastfm_attentio
+published: 2005-12-20T00:40:13
+updated: 2005-12-20T00:40:13
+source_body: wordpress-html
+---
+
+Last.fm is one of my favorite "attention data" use cases.  After installing their plugin, your iTunes playlist metadata is shared with Last, which creates a set of charts that depict your listening habits, a list of recommended listens and reads, and a musical "neighborhood" filled with people who share your tastes.
+
+One of the uses for attention data that I often discuss when describing AttentionTrust is getting connected with people who share your tastes via a system that can parse your mutually shared data, and that's precisely what your Last.fm neighborhood does.
+
+Here are the 20 musical artists I've listened to most frequently as of Dec. 20th.  (It's actually the top 21, just so I could include a reference to Haywood.)
+
+And here are the top 20 overall artists for my closest Last.fm neighbor:
+
+We share four artists in our top 20 (Jets to Brazil, Mission of Burma, Pavement and Paul Westerberg), and I know you'd find a lot more if you explored our charts further.  So who's the guy with such good taste?  My brother.
+
+I mentioned Last to him over the summer, and he installed the plugin.  I forgot he was using it until a few weeks ago, when I was checking out my Last neighborhood and saw him hanging out among my musical compadres.  I didn't need Last to tell me that my brother and I like the same music, but I was surprised that our tastes were so similar.  Attention data: bringing families together since 2005.
+
+tags: attention attentiontrust last.fm
+

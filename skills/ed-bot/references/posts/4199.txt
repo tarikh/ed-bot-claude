@@ -1,0 +1,120 @@
+---
+title: Drowning in Feedback
+url: https://edbatista.com/2023/09/drowning-in-feedback.html
+slug: drowning-in-feedback
+published: 2023-09-30T16:33:35
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+A wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it. In an information-rich world, most of the cost of information is the cost incurred by the recipient. It is not enough to know how much it costs to produce and transmit information; we must also know how much it costs, in terms of scarce attention, to receive it.
+
+~Herb Simon [1]
+
+A recent theme in my practice is a leader who feels overwhelmed by feedback purportedly intended to help them improve company and personal performance. Employee engagement surveys, executive 360s, performance reviews, NPS results...the list is long and growing, and the reports keep piling up. There's no shortage of feedback, and some leaders feel like they're drowning in it. What's happening here, and what can we do about it?
+
+First, we can characterize feedback and its value as a source of learning using a schema articulated by the late Wharton professor and systems thinker Russell Ackoff, who described the distinctions among data, information, knowledge, understanding, and, ultimately, wisdom [2]:
+
+Data are symbols that represent the properties of objects and events. Information consists of processed data, the processing directed at increasing its usefulness... Information is contained in descriptions, answers to questions that begin with such words as who, what, when, where, and how many. Knowledge is conveyed by instructions, answers to how-to questions. Understanding is conveyed by explanations, answers to why questions. [3]
+
+The feedback processes noted above generate plenty of data and information. You can undoubtedly review the various reports at your disposal and answer any number of questions "that begin with such words as who, what, when, where, and how many." But if you're like my clients, this is the point at which things get more difficult.
+
+You can surely glean some knowledge from these reports, extracting answers to some "how-to questions." And you may be able to obtain some understanding, uncovering explanations and formulating answers to a few "why questions." But these insights will be hidden from view, revealing themselves only after careful thought and reflection.
+
+Such efforts will require time and freedom from distraction, qualities that may be in scarce supply in your environment. And by the point at which you've arrived at any meaningful level of understanding, there will probably be several more rounds of reports waiting for your review. You're already behind.
+
+This dynamic reflects another aspect of "management information systems" that Ackoff observed: they reflect a series of mistaken assumptions that ensure "the continuing failure of most of these systems to satisfy the managers they are supposed to serve":
+
+The first is: management's most critical information need is for more relevant information. This is false: management's most critical information need is for less irrelevant information... Most managers suffer from information overload and, as the overload increases, the amount of information they use in making decisions actually decreases. Most managers could not read all the written and printed material they receive even if they spent all their working hours in reading. Moreover, more than half the data and information they receive are unsolicited. [4]
+
+I've observed this same pattern in some of my clients' working lives. The excessive amount of unsolicited feedback and the consequent inability to translate data and information into more useful knowledge and understanding is demoralizing. In some cases, leaders simply give up and stop trying to keep pace with the endless flow of reports. The more systems intended to yield improved performance, the less influence they actually have on leaders' behavior and decision-making.
+
+These challenges only compound further should you try to take the final step up the ladder, transforming whatever knowledge and understanding you've obtained into true wisdom. Ackoff considered this quality exceedingly rare, comprising perhaps a fraction of a percent of the contents of the human mind. [5] But wisdom is worth pursuing because of its unique ability to generate value:
+
+Information, knowledge, and understanding enable us to increase efficiency, not effectiveness. The efficiency of behavior or an act is measured relative to an objective... The value of the objective(s) pursued is not relevant in determining efficiency, but it is relevant in determining effectiveness. Effectiveness is evaluated efficiency. It is efficiency multiplied by value, efficiency for a valued outcome. Intelligence is the ability to increase efficiency; wisdom is the ability to increase effectiveness. [6]
+
+So even when it's possible to distill knowledge and understanding from the vast quantities of available data and information, the net result will be the ability to pursue existing objectives more efficiently. This is valuable under many circumstances, but if you're like my clients, you're operating under dynamic conditions that render it necessary to regularly reassess your objectives. At such moments it's insufficient to ask, How can we do this more efficiently? One must ask, Why are we doing this at all? and What might we do instead?
+
+If any of this resonates with you, what can you do about it? Here are some questions to ask and proposals to consider:
+
+What is our feedback culture?
+
+The proliferation of feedback systems and the generation of excess data and information that you're experiencing isn't happening in a vacuum, but in a specific organizational culture. In this context I refer to the definition provided by management professor Michael Watkins:
+
+Culture is consistent, observable patterns of behavior in organizations... Culture is a process of "sense-making" in organizations [which] moves the definition of culture beyond patterns of behavior into the realm of jointly-held beliefs and interpretations about "what is..." Culture is a carrier of meaning. Cultures provide not only a shared view of "what is" but also of "why is." In this view, culture is about "the story" in which people in the organization are embedded, and the values and rituals that reinforce that narrative. [7]
+
+So "drowning in feedback" is not only an "observable pattern of behavior," but also a manifestation of your organization's "narrative," the collective set of stories you and your colleagues tell yourselves about who you are, what you value, and why you do what you do. One story that's likely relevant here is the idea that "feedback is a gift," which I wholeheartedly reject--it's not a gift, it's data. [8]
+
+Another potentially relevant story is the assumption that people aren't being candid and can't be trusted to speak up, so you have to rely on anonymous surveys and other instruments to obtain "the truth." While your organization may or may not be an environment in which it's safe to speak up, the idea that anonymity will yield objective "truth" is another idea that I reject. Anonymous feedback is hardly free from bias. [9]
+
+There are no doubt other elements of your culture that are causing you to "drown in feedback," and no single initiative to solve the problem will succeed without addressing this broader context. To be clear, I'm not suggesting that you stifle efforts to provide feedback or stop seeking it out, but far too many organizations today have taken the concept of a "feedback-rich culture" to counter-productive extremes. [10]
+
+How am I part of the problem?
+
+You must also assess your own contributions to the generation of excess data and information in the form of surveys, 360s, reviews, and any other type of feedback that you request or initiate. The impulse underlying these processes is usually positive, springing from your desire to be helpful. But bear in mind Ackoff's warning: "Management's most critical information need is for less irrelevant information." You may be most helpful by providing less data and information, and by finding other ways to offer support, as I've written before:
+
+Providing information is a form of caring and an effort to demonstrate our worth as leaders. We care about the people we're working with, and we want them to know that. We we want to feel competent in our roles and to know that we're adding value. But the excess information that we're shoveling at people is a proxy for these qualities, not the thing itself. [11]
+
+And if you're a People Leader, such as a Chief People Officer or VP People Ops, you have a particularly important role to play. As I've noted before, "The People Leader must not only oversee the process of selecting and deploying [engagement surveys, performance assessments, and periodic review platforms], but to truly add value they need be able to help the CEO and other leaders interpret and act upon the resulting data." [12] Bear in mind that merely generating more data is not the solution, as noted by Herb Simon, the late computer scientist, economist and psychologist who comments open this essay:
+
+The proper aim of a management information system is not to bring the manager all the information [they need], but to reorganize the manager's environment of information so as to reduce the amount of time [they] must devote to receiving it. [13]
+
+How will I transform data into wisdom?
+
+No matter what role you occupy, your ability to influence the generation of excess data and information is limited. Most of my clients are CEOs, and even the most powerful at times find themselves at the mercy of the systems they ostensibly command. But you can still control your most precious resource--your attention.
+
+Only your focused attention will transform data and information into knowledge and understanding and then, with patience, wisdom. But this entails cultivating a number of habits, starting with the awareness that your attention is finite, and it must be directed toward your most important tasks. My work with clients often involves the development of an "information ecosystem" in which they're more mindful of the many demands on their attention, their own tendencies toward distraction, and the necessity of filtering out much of the data at their disposal. [14]
+
+Some of this work is as straightforward as managing your calendar to ensure that you have "longer blocks of uninterrupted time, free from distractions, to think creatively and to augment logical reasoning with intuition and inspiration." [15] This is simple to describe, and yet it will be difficult to put into practice, in part because the fact that your attention is a precious resource means that other people want more of it. But the hard work of protecting your attention in order to transform data into wisdom may be one of your greatest responsibilities as a leader.
+
+ 
+
+Footnotes
+
+[1] Designing Organizations for an Information-Rich World [PDF] (Herb Simon, pages 37-72 in Computers, Communications, and the Public Interest, Martin Greenberger, editor, 1971)
+
+[2] In common usage this schema is condensed by omitting understanding, and the result is described as the DIKW Pyramid. Ackoff is often cited as the originator of the schema in a 1988 speech and 1989 article (noted below), but that's not entirely accurate. In The Origin of Data Information Knowledge Wisdom (DIKW) Hierarchy, Google researcher Nikhil Sharma notes that economist Milan Zeleny articulated a similar schema in a 1987 article, Management support systems: Towards integrated knowledge management, and that engineer and author Mike Cooley did the same in his 1987 book Architect or Bee? The Human Price of Technology. Sharma also cites a 1982 article by diplomat and information theorist Harlan Cleveland, and although I can't locate the article itself, the illustration that accompanied it is reproduced at the top of Sharma's paper.
+
+I haven't explored these other sources any further, so I don't know whether their various schemas merely resemble one another, serving as variations on a theme, or whether Ackoff built directly on one or more of them. Apparently there are even more possible progenitors, including versions by geographer Yi-Fu Tuan and historian Daniel Bell, cited by Cleveland. However, as Sharma notes, they probably all owe a debt to these lines from T.S. Eliot's 1934 play "The Rock":
+
+All our knowledge brings us nearer to our ignorance,
+All our ignorance brings us nearer to death,
+But nearness to death no nearer to GOD.
+Where is the Life we have lost in living?
+Where is the wisdom we have lost in knowledge?
+Where is the knowledge we have lost in information?
+
+[3] From Data to Wisdom [PDF] (Russell Ackoff, Presidential Address to the International Society for General Systems Research, St. Louis, June 1988). An edited version of this speech was published the following year as a journal article, From Data to Wisdom (Russell Ackoff, Journal of Applied Systems Analysis, 1989), also available in Ackoff's Best: His Classic Writings on Management (1999). My citations here draw from both versions--this passage is from the 1989 article.
+
+[4] Ackoff, 1988.
+
+[5] Ibid.
+
+[6] Ackoff, 1989.
+
+[7] What Is Organizational Culture? (Michael Watkins, Harvard Business Review, 2013)
+
+[8] Feedback Is Not a Gift
+
+[9] The Problem with Anonymous Feedback
+
+[10] For more on a "feedback-rich culture":
+
+- Building a Feedback-Rich Culture
+
+- Building a Feedback-Rich Culture from the Middle
+
+[11] Stop Providing Too Much Information
+
+[12] Simon.
+
+[13] The Truly Strategic People Leader
+
+[14] A Better Information Diet
+
+[15] How to Think (More on Open Space and Deep Work)
+
+ 
+
+Photo by U.S. Army Corps of Engineers.
+

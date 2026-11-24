@@ -1,0 +1,89 @@
+---
+title: Necessary Friction (On CEOs and Product Leaders)
+url: https://edbatista.com/2021/09/necessary-friction-on-ceos-and-product-leaders.html
+slug: necessary-friction-on-ceos-and-product-leaders
+published: 2021-09-07T14:22:13
+updated: 2025-10-05T21:44:15
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs, and most of them played a major role in envisioning their company's product or service and turning that vision into reality. They weren't necessarily the sole originator of the idea nor do they think of themselves as "product visionaries," but their understanding of a customer's needs and their ability to orchestrate the development of an economically viable solution were essential in enabling the company to attain its current success. And yet in almost all of these cases my clients run into one or more limitations:
+
+- Their other responsibilities as CEO compel them to devote less time and attention to product leadership.
+
+- Their past experience in product management and development didn't prepare them to operate at scale.
+
+- Their expertise doesn't extend beyond the company's existing product and service lines or current customers.
+
+In these situations they need to hire a Head of Product, VP Product or Chief Product Officer with the requisite skills--and the relationship between the product-focused CEO and their new Product Leader is often a challenging one. A version of the same dynamic can exist between a CEO and any of their direct reports, but in my experience it's particularly complex in product. And yet a degree of friction in this relationship is actually necessary and healthy for the company. Too much friction and a saw gets stuck, but a slippery saw doesn't cut at all.
+
+So how can a product-focused CEO and an incoming Product Leader co-exist successfully? And how can they calibrate for the right amount of friction?
+
+If you're a CEO:
+
+Before you make the hire, determine what you're really looking for in a Product Leader. Do you need an extra set of hands to do more of what's working? You need capacity. Do you need someone who can bring in a proven playbook and run it on their own? You need expertise in a methodology. Or do you need someone with the ability to take a entirely different approach to the process? You need innovation. These qualities aren't mutually exclusive, of course, but a mismatch between your requirements and a Product Leader's capabilities and aspirations will inevitably result in too much friction--or not enough. [1]
+
+You can err in both directions here. You can "under-hire" by bringing in a junior person who will always defer to your authority. It'll feel good to get your way, for a while, but neither you nor the company will be well-served, and eventually you'll need to level them. [2] And you can "over-hire" by bringing in a senior person who will insist on more latitude and autonomy than you're truly ready to give. You'll live with this for a while, but eventually you'll find a reason to replace them.
+
+No matter who you hire you'll need to clarify the role you expect to play in product--and this is where you want the right amount of friction. It's easy to prevent friction: Either hire a Product Leader who's content to take direction, or bite your tongue and avoid hard conversations, always deferring to your Product Leader's point of view when you disagree. It's also easy to generate an abundance of friction: Throw your weight around and browbeat your Product Leader every time they disagree with you. Resist perspectives that you find challenging, and give in to the temptation to win every battle.
+
+But these are also unsustainable conditions.The right amount of friction is necessary not only to generate and select the best ideas, but also to establish a working relationship that lasts. Either insufficient friction or too much friction is a sign that one party is too dominant, and that's rarely tolerable for long. The excessively compliant Product Leader will need to be levelled. The browbeaten Product Leader will feel bullied and quit. And if you bite your tongue for too long, when you finally speak up it'll either be to fire them or will make them want to leave.
+
+Finally, if you're finding an ordinary and expected amount of friction in this relationship unbearable, consider the possibility that you may have "control issues." As I've written previously,
+
+The high need for control and strong sense of personal agency that have contributed to [a leader's] past success must be translated into new and unfamiliar behaviors to fit the evolving context. They must not only delegate more work, they must also delegate more important work to more experienced employees and allow them to work more autonomously. And at a certain stage in an organization's development, this entails leading leaders, who likely have a high need for control themselves. [3]
+
+If you're a Product Leader:
+
+Before you accept the role, be sure you understand what you're really being hired to do. A CEO may claim to want professional expertise or innovation and you'll be eager to live up to those expectations. But there can be a gap between what we say we want and what we really want, and then it's an unpleasant surprise when we get what we asked for. This isn't hypocrisy--it merely reflects how easy it is to fool ourselves, and CEOs are no exception.
+
+However the role is defined, if you're the first designated Product Leader hired by a product-focused CEO, don't expect them to simply hand over the keys and allow you to manage the function with minimal oversight. Not only is that unrealistic, it's actually undesirable. As a product-focused CEO (and, in many cases, a founder), they've had a host of tools at their disposal to manage the endless stream of conflicts and disputes that arise between technical functions and market-facing functions.
+
+You're now right in the middle of those same power struggles, but lacking the CEO's authority, credibility, relationships, and familiarity with the culture. I'm not suggesting that you pass the buck and ask the CEO to fight these battles for you--they undoubtedly want to delegate much of that work to you. But your CEO will be a better ally and thought partner to you in this work if they're actively involved in aspects of product management and development.
+
+The dilemma, of course, is that reasonable people will differ on an appropriate level of "active involvement." Here it's essential for you to do something that's ordinarily very difficult: Empathize up. We tend not to empathize with people we perceive as higher status in some way, and that's often exacerbated in a hierarchical relationship. [4] But consider that your CEO has probably hired you because they realized that their own limitations were holding the company back, and that can be a difficult and humbling experience.
+
+In this context determining the right level of involvement by your CEO will benefit both you and them, and one way to gauge this is by striving for the right amount of friction. The absence of any friction at all is a red flag--it almost certainly means that disagreements are being papered over or ignored, and you need to speak up (as do they). [5] And yet too much friction will be wearying for both of you, and one of you will decide that life's too short to put up with so many headaches.
+
+Finally, if you're finding an ordinary and expected amount of friction in this relationship unbearable, consider the possibility that you may have "authority issues." As I've written previously,
+
+We can view an employee with "authority issues" not as an angry person, but an anxious one. They're unsure of their own ability to create order and safety, and uncomfortable with the power required to do so. They're in awe of the leader who can create order and safety by wielding power effectively, desperate to do so on their own, and fearful that they will fail. They are profoundly stuck, and when they cannot exert agency by moving forward, they will do so by remaining firmly in place.
+
+Next Steps For Both of You:
+
+- Actively build a better working relationship.
+
+- Cultivate trust in your judgment and your intentions.
+
+- Identify and legitimize differences in your work styles.
+
+- Practice having tough conversations.
+
+- Expect to be misunderstood.
+
+Footnotes
+
+[1] Capacity, Methodology, Innovation (On Hiring)
+
+[2] The Fine Art of Levelling
+
+[3] Authority and Control in Organizational Life
+
+[4] The Difficulty of Empathizing Up
+
+[5] Risk Management (The Importance of Speaking Up)
+
+For Further Reading
+
+Better Working Relationships
+
+The Two Sides of Trust
+
+Work Style Differences
+
+Learning to Yield (Navigating Tough Conversations)
+
+Intent vs. Impact (When Communication Goes Awry)
+
+Photo by Tool Dude8mm.
+

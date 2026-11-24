@@ -1,0 +1,223 @@
+---
+title: Hard Problems in Soft Cultures
+url: https://edbatista.com/2022/11/hard-problems-in-soft-cultures.html
+slug: hard-problems-in-soft-cultures
+published: 2022-11-07T17:58:00
+updated: 2026-04-06T15:55:19
+source_body: wordpress-html
+---
+
+Photo of "The Albanians" by Marcel Oosterwijk.
+
+The philosophy of management by direction and control--regardless of whether it is hard or soft--is inadequate to motivate because the human needs on which this approach relies are today unimportant motivators of behavior. Direction and control are essentially useless in motivating people whose important needs are social and egoistic [i.e. related to self-esteem and reputation]. Both the hard and the soft approach fail today because they are simply irrelevant to the situation.
+
+People deprived of opportunities to satisfy at work the needs that are now important to them behave exactly as we might predict--with indolence, passivity, resistance to change, lack of responsibility, willingness to follow the demagogue, unreasonable demands for economic benefits. It would seem that we are caught in a web of our own weaving.
+
+~Douglas McGregor, 1957 [1]
+
+1. Organizational Culture Today
+
+A few years ago one of my clients was a C-level executive at a technology company that had met with early success but was now falling short of its goals. My client had deep expertise in their particular function, and they were hired into their role with the understanding that they would serve as a change agent, helping the company adopt new ways of operating in order to improve performance. They had strong support from senior management, positive relationships with the rest of the executive team, and substantial resources at their disposal. And even with all of these advantages, the process of fostering change was a profound struggle. Today I believe it's fair to say they would characterize their effort as a failure.
+
+What happened? What got in the way? The most significant obstacle was the culture--the ways of working together and the norms that define acceptable behavior which emerge early in a group's existence and rapidly evolve from subtle preferences to clearly-established practices. [2] And despite all the platitudes about excellence and performance, and the heartfelt desire by many people to actually live up to those platitudes, at bottom this culture didn't want to change--it preferred the comforts of mediocrity. While the specifics are unique, this is a type of culture that I've seen often in my work as a coach to senior leaders, one that poses a particular set of challenges for anyone seeking to enhance a company's effectiveness, and one that is newly relevant in today's economic and political environment.
+
+The complex relationship between culture and performance has recently become the subject of heightened scrutiny. Profitability has rapidly replaced growth as a metric of success, and leaders are responding accordingly, with layoffs, hiring freezes and other cost-cutting measures. This strategic shift has prompted a wave of commentary in the media and among management thinkers expressing concern about the negative impact not only on individual employees, but also on the cultures of the affected organizations. A central point seems to be that leaders pursuing this approach are making a fundamental error that will ultimately damage their culture and undermine performance.
+
+I share some of these concerns. I believe layoffs should be conducted in a thoughtful, humane manner that affords departing employees as much dignity and grace as possible. I agree with the late Intel CEO Andy Grove that employees must not be afraid to speak up and share bad news, a fear that he characterized as "poison." [3] I care deeply about the role of empathy in organizational life, not because it's "nice," but because I think it contributes to productive working relationships and, ultimately, value creation. [4] And I've worked with many clients who've suffered in dysfunctional organizations. [5] In nearly two decades as an executive coach, I haven't seen any evidence that harsh, unforgiving cultures motivate talented knowledge workers to give their best effort.
+
+But what some of these media reports and management thinkers seem to miss is that a host of organizations today are falling short of their potential not because their cultures are too hard, but because they're too soft--and the latter can be as dysfunctional as the former. I've talked with many leaders who are hesitant to hire candidates from a number of well-known companies because those organizations reliably foster low standards and a sense of complacency. A capable professional I know left a job at a high-profile company that paid in the mid-six figures because the environment was so unambitious and stultifying.
+
+A major theme in my practice is helping leaders of growing companies develop cultures that attract and retain the best talent while avoiding the common pitfalls that plague so many late-stage organizations. [6] And although Andy Grove wanted every employee to feel free from the fear of reprisal for speaking up, he also believed that a healthy "fear of losing" was needed for companies to "sharpen their survival instinct." [7] I know many leaders who are striving to ignite a similar competitive spirit in their organizations and feel thwarted by a suffocating culture of mediocrity.
+
+It's tempting to view problems with organizational culture as by-products of contemporary trends, but that's a narrow-minded view, the equivalent of old people (like me) perennially complaining about "Kids these days!" There are certainly some specifics unique to the 21st century [8], but the underlying problem has been with us for much longer, and to truly understand this we need to look to the history of management and one of its greatest theorists, Douglas McGregor. [9]
+
+2. Theory X and Theory Y
+
+A host of changes in management practice swept the business world in the mid-20th century, and one of the most important concepts in this context is known as "Theory Y," developed by McGregor during his career at MIT's Sloan School of Management. McGregor referred to conventional management as "Theory X":
+
+With respect to people, [Theory X management] is a process of directing their efforts, motivating them, controlling their actions, modifying their behavior to fit the needs of the organization. Without this active intervention by management, people would be passive--even resistant--to organizational needs. They must therefore be persuaded, rewarded, punished, controlled--their activities must be directed... Behind this conventional theory there are several additional beliefs--less explicit, but widespread:
+
+- The average man is by nature indolent—he works as little as possible.
+
+- He lacks ambition, dislikes responsibility, prefers to be led.
+
+- He is inherently self-centered, indifferent to organizational needs.
+
+- He is by nature resistant to change. [10]
+
+It's readily apparent how Theory X informed the labor practices of the early industrial era. Operating under the assumptions of Theory X, traditional businesses focused on increasing production with minimal concern for the people doing the producing. Such organizational cultures could be characterized as "produce-or-perish," in which people were rewarded strictly for performance, and productivity was maximized by imposing punishments for failure to meet certain standards or follow specified procedures. [11] But this "hard" version of Theory X inevitably yields problems in labor relations, McGregor noted:
+
+Restriction of output, antagonism, militant unionism, subtle but effective sabotage of management objectives. This approach is especially difficult during times of full employment. [12, emphasis mine]
+
+Unemployment in the United States plunged from an all-time high of 24.9 percent in 1933 during the Great Depression to a record low of 1.2 percent in 1944 at the height of World War II. [13] After a brief postwar increase, it dropped to 2.5 percent in 1953 and fluctuated for the next two decades but remained under 4 percent as late as 1969. During the anemic 1970s unemployment rose to a peak of 10.8 percent in 1982, but then dropped again until the financial crisis of 2008, peaking briefly at 10.0 percent the following year. And it's dropped ever since, despite a momentary surge due to the pandemic in 2020, and the latest figure for October 2022 is 3.7 percent. [14]
+
+Undoubtedly many factors contributed to the abandonment of "hard Theory X" management practices, at least for knowledge workers in the developed world, but relatively low unemployment in the postwar era has to be counted among them. And yet the "produce-or-perish" approach to management is just one version of Theory X. The alternative adopted by most organizations in response to changing conditions continued to assume that employees are "indolent, lack ambition and dislike responsibility," but offered proverbial carrots instead of sticks. McGregor characterized this as "soft Theory X," in which management emphasizes employees' security and comfort in the hope that improved productivity will result:
+
+The methods for directing behavior involve being permissive, satisfying people’s demands, achieving harmony. Then they will be tractable, accept direction. [15]
+
+But there are also problems with this "soft Theory X" approach, as McGregor noted in 1957, and which we continue to observe today in any number of ostensibly enlightened organizations:
+
+It leads frequently to the abdication of management--to harmony, perhaps, but to indifferent performance. People take advantage of the soft approach. They continually expect more, but they give less and less. [16]
+
+McGregor's solution to this dilemma was to propose an entirely different approach to management, neither "hard" nor "soft," which rejects the underlying assumptions of Theory X and substitutes an alternative set of concepts rooted in findings from social psychology. He called this Theory Y:
+
+People are not by nature passive or resistant to organizational needs. They have become so as a result of experience in organizations.
+
+The motivation, the potential for development, the capacity for assuming responsibility, the readiness to direct behavior toward organizational goals are all present in people. Management does not put them there. It is a responsibility of management to make it possible for people to recognize and develop these human characteristics for themselves.
+
+The essential task of management is to arrange organizational conditions and methods of operation so that people can achieve their own goals best by directing their own efforts toward organizational objectives.
+
+This is a process primarily of creating opportunities, releasing potential, removing obstacles, encouraging growth, providing guidance. It is what Peter Drucker has called "management by objectives" in contrast to "management by control."
+
+And I hasten to add that it does not involve the abdication of management, the absence of leadership, the lowering of standards, or the other characteristics usually associated with the "soft" approach under Theory X. [17, my emphasis]
+
+The passage in bold above is critically important and yet often overlooked. Theory Y is not a "soft" version of Theory X, in which management drops the sticks in favor of an endless supply of carrots and hopes for the best. While the "hard" version of Theory X is obviously useless with knowledge workers who enjoy mobility in a low-unemployment environment, the "soft" version that so many organizations have adopted as an alternative is equally problematic. Why?
+
+3. Maslow's Hierarchy
+
+Here we turn to yet another groundbreaking figure from the 20th century, psychologist Abraham Maslow, a close contemporary and colleague of McGregor's. [18] In the 1940s Maslow developed a highly influential concept known as the "Hierarchy of Needs." [19] This theory proposes that human needs are organized in a series of sequential steps, starting with the most basic--and urgent--and ascending to more refined mental and emotional requirements:
+
+- Physiological needs, such as hunger, thirst and sleep.
+
+- Safety: "Security; stability; dependency; protection; freedom from fear, from anxiety, and chaos; need for structure, order, law, limits; strength in the protector."
+
+- Belongingness: "Love and affection and belongingness needs... [The] hunger for affectionate relations with people."
+
+- Esteem: "A need or desire for a stable, firmly based, usually high evaluation of themselves, for self-respect, or self-esteem, and for the esteem of others."
+
+- Self-Actualization: "Even if all these needs are satisfied, we may still often (if not always) expect that a new discontent and restlessness will soon develop, unless the individual is doing what [they], individually [are] fitted for... What a [person] can be, [they] must be. This need we may call self-actualization." [20]
+
+Maslow didn't believe that the various levels of this hierarchy are mutually exclusive, or that higher needs emerge only after lower needs are entirely satisfied. [21] But he made clear that that the higher needs are felt more intensely when lower needs are largely met:
+
+A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else... But what happens to [a person's] desires when there is plenty of bread and when [their] belly is chronically filled? At once other (and higher) needs emerge and these, rather than physiological hungers, dominate the organism. And when these in turn are satisfied, again new (and still higher) needs emerge, and so on. [22, emphasis original]
+
+This highlights the fundamental limitation of "soft Theory X" management in a era of generally low unemployment for knowledge workers (which is unlikely to end anytime soon, recent economic news notwithstanding.) Most knowledge workers' primary needs for the physiological requirements of life and for safety are met in a modern economy. This is not always the case, as I noted in late 2020:
+
+Why does [Maslow's hierarchy] matter? More specifically, why does it matter today? It matters because in the current environment many people aren't moving up the ladder, they're moving down, and I see a version of this in my coaching practice. Most of my clients are CEOs, and all of them are high-status professionals for whom work fulfills many different needs, which is also true for the vast majority of their employees. And from the perspective of my clients and their colleagues the current environment has created a profound sense of unease as needs that had been largely fulfilled long ago are now making themselves felt again, in some cases for the first time in years. [23]
+
+Further, of course, there are many people whose primary needs may go unmet in times of economic distress: white- and blue-collar workers in industries undergoing disruption, people who lack the education or training to participate in the modern economy, and billions of others in the developing world. But while the concerns of these groups are of tremendous social and political importance, the vast majority of well-educated, highly-trained employees in the organizations I encounter have been living and working under very different conditions in "soft Theory X" cultures.
+
+The dilemma encountered by organizations that have pursued a "soft Theory X" approach is that an endless supply of carrots only provides a surfeit of material for lower needs that employees have largely fulfilled, while doing little or nothing to meet their higher needs for belonging, esteem and self-actualization. "Soft Theory X" leaders who express disbelief at the complacent cultures in their organizations despite the lavish compensation and perks enjoyed by their employees are witnessing exactly what McGregor predicted over half a century ago, as spelled out in the passage that opens this essay:
+
+The philosophy of management by direction and control--regardless of whether it is hard or soft--is inadequate to motivate because the human needs on which this approach relies are today unimportant motivators of behavior... People deprived of opportunities to satisfy at work the needs that are now important to them behave exactly as we might predict--with indolence, passivity, resistance to change, lack of responsibility, willingness to follow the demagogue, unreasonable demands for economic benefits. [24]
+
+So what can be done? I'm hardly in a position to offer a definitive solution to one of the most important challenges we face in contemporary life--but I have some suggestions.
+
+4. Bootcamps and Daycares
+
+In 2019 I highlighted the problems of both "hard Theory X" and "soft Theory X" by contrasting their respective emphasis on accountability and empathy:
+
+In a high-accountability, low-empathy culture there's a strong emphasis on production and minimal regard for people's needs. Rewards are allocated strictly for performance, and productivity is maximized through punishments for failure to follow clearly defined rules. This Bootcamp approach to management has been common throughout human history, and it remains the norm in many industries today....
+
+In a low-accountability, high-empathy culture [aka a Daycare] meeting employees' needs is a paramount priority, resulting in warm relationships, a comfortable, friendly atmosphere and a relatively relaxed pace. Management maximizes employees' security and comfort in the hope that improved productivity will be the result. [25]
+
+The problem is that most leaders believe that they're obligated to choose one approach or the other--they must either hold people accountable in a Bootcamp or empathize with them in a Daycare (and accept one or the other set of problems articulated by McGregor.) This is a false dichotomy, and yet it is consistently reinforced by the pre-existing culture. It's as difficult for a Bootcamp leader to actively empathize with their employees as it is for a Daycare leader to hold them accountable.
+
+So how do you get to Paradise? How do you build a high-accountability, high-empathy culture? How might you bring McGregor's Theory Y to life? McGregor himself knew how hard this would be: "It is no more possible to create an organization today which will be a fully effective application of this theory than it was to build an atomic power plant in 1945." [26] But he was speaking 65 years ago, and I'm hopeful that today we're in a better position to try. The key lies with three ideas that are conceptually simple but tremendously difficult to put into practice:
+
+- Update your models: If, like many leaders, you believe you can either hold people accountable or empathize with them, the starting point is recognizing that this is merely a model, a working theory about how to interact with your employees most effectively--and it's one you can change.
+
+- Accountability is not bullying: We often assume accountability entails a combative stance in an antagonistic interaction, with the goal of enforcing compliance--but that's not holding someone accountable, that's bullying them.
+
+- Empathy is not agreement: Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified.
+
+This is a companion piece to the following:
+
+- "Work Hard or Work Smart?" Is the Wrong Question (2017)
+
+- Accountability and Empathy (Are Not Mutually Exclusive) (2019)
+
+Footnotes
+
+[1] "The Human Side of Enterprise," page 14 (Douglas McGregor, Leadership and Motivation, 1966). This essay is McGregor's best-known and most influential work--it originated as a speech on the Fifth Anniversary of the School of Industrial Management at MIT (later known as the Sloan School) in 1957, and was published in the American Management Association's Management Review in November of that year. It subsequently formed the basis of his 1960 book The Human Side of Enterprise. My citations here are from a posthumous collection of McGregor's work issued by MIT two years after his death to commemorate his contributions. For more on McGregor, see footnote 9.
+
+[2] Consultant and professor Michael Watkins provides a more thorough definition in What Is Organizational Culture? (Harvard Business Review, 2013):
+
+Culture is consistent, observable patterns of behavior in organizations...
+
+Culture is a process of "sense-making" in organizations [which] moves the definition of culture beyond patterns of behavior into the realm of jointly-held beliefs and interpretations about "what is..."
+
+Culture is a carrier of meaning. Cultures provide not only a shared view of "what is" but also of "why is." In this view, culture is about "the story" in which people in the organization are embedded, and the values and rituals that reinforce that narrative...
+
+Culture is a social control system. Here the focus is the role of culture in promoting and reinforcing "right" thinking and behaving, and sanctioning "wrong" thinking and behaving. Key in this definition of culture is the idea of behavioral "norms" that must be upheld, and associated social sanctions that are imposed on those who don’t "stay within the lines..."
+
+Culture is a form of protection that has evolved from situational pressures. It prevents "wrong thinking" and "wrong people" from entering the organization in the first place.
+
+[3] Andy Grove on the Right Kind of Fear
+
+[4] For more on my thinking about empathy in organizational life:
+
+- The Strategic Importance of Empathy (2020)
+
+- Resolving a Protracted Conflict (2019)
+
+- Accountability and Empathy (Are Not Mutually Exclusive) (2019)
+
+- The Difficulty of Empathizing Up (2017)
+
+- Brené Brown, Vulnerability, Empathy and Leadership (2014)
+
+- The Strategic Importance of Empathy (2010)
+
+[5] For more on my thinking about dysfunctional cultures:
+
+- How to Feed a Monster (Leading in Elite Organizations) (2017)
+
+- Dysfunction Isn't Heroism (2017)
+
+- Surviving in a Toxic (Or Merely Dysfunctional) Culture (2013)
+
+[6] For more on my thinking about leadership in productive cultures:
+
+- The Judicious Imposition of Structure (2021)
+
+- Pirates in the Navy (2018)
+
+- "Work Hard or Work Smart?" Is the Wrong Question (2017)
+
+- How to Scale: Do Less, Lead More (2017)
+
+[7] Andy Grove on the Right Kind of Fear
+
+[8] 12 Companies with the Most Luxurious Employee Perks (Paul Schrodt, Money, 2017)
+
+[9] McGregor was a fascinating figure, in part because his life story seems so unlikely. Born in Detroit in 1906, he earned an initial engineering degree in Burma, and then dropped out of an American engineering school to work as a gas station attendant and to help with a family enterprise that provided food, career guidance and spiritual support to unemployed workers. (The McGregor Fund is still in operation today.) He returned to school and went on to graduate studies in psychology at Harvard before becoming one of the first professors at MIT's Sloan School of Management, where he did his best-known work. Sadly, he died of a heart attack in 1964, age 58.
+
+[10] McGregor, page 6.
+
+[11] The term "produce-or-perish" is derived from work by psychologists Robert Blake and Jane Mouton, whose Mouton-Blake Managerial Grid was published in Harvard Business Review in 1964: Breakthrough in Organization Development. There are many connections between McGregor's work and Blake and Mouton, and for more on the latter, see Historical Background: The Mouton-Blake Managerial Grid in Accountability and Empathy (Are Not Mutually Exclusive).
+
+[13] McGregor, page 6.
+
+[13] Unemployment Rate by Year Since 1929 Compared to Inflation and GDP (Kimberley Amadeo, The Balance, 2022)
+
+[14] U.S. Bureau of Labor Statistics
+
+[15] McGregor, page 6.
+
+[16] Ibid, page 7.
+
+[17] Ibid, pages 15-16.
+
+[18] Maslow, born just two years after McGregor, taught at Brandeis, near Boston, in the 1950s and 60s while McGregor was at MIT, and Maslow's ideas had a deep and abiding influence on McGregor's work, most notably in the formulation of Theory Y. It's not clear to me how they met, but their philosophies and worldviews were deeply aligned, and it's not surprising that they were personally acquainted. It's also plausible that they crossed paths through their involvement with T-groups, which were in the process of becoming popular in the management training and social psychology circles of the era, including a hotbed at MIT. Warren Bennis discussed Maslow's influence on McGregor and their shared impact on the development of T-groups (aka "sensitivity training") in his sidebar to An Uneasy Look at Performance Appraisal, a 1957 article by McGregor that Harvard Business Review re-published in 1972. Bennis also noted that McGregor's book The Human Side of Enterprise was still selling 30,000 copies a year over a decade after its publication.
+
+[19] Motivation and Personality (Abraham Maslow, 1970). Maslow first published "A Theory of Human Motivation" in the American Psychological Association's Psychological Review in 1943. This paper remained essentially intact as a foundational chapter in Motivation and Personality, his first and most influential book, not only in the 1st edition of 1954, but also in the definitive 2nd edition of 1970 and the posthumous 3rd edition of 1987.
+
+[20] Ibid, pages 39-46.
+
+[21] This attitude is sometimes reflected in the portrayal of Maslow's hierarchy as a pyramid, but he never employed that figure in his own work (although he didn't correct this misimpression, which helped popularize his ideas.) Instead, Maslow used a ladder, which evokes the image of hands and feet on multiple rungs simultaneously. These ideas are discussed in a thought-provoking paper that reinforces the value of Maslow's work while rejecting its customary presentation: Who built Maslow’s pyramid? A history of the creation of management studies’ most famous symbol and its implications for management education, page 91 (Todd Bridgman, Stephen Cummings, John Ballard, Academy of Management Learning and Education, 2019). Note that I'm precluded by the Digital Millennium Copyright Act (DMCA) from linking directly to a freely-available version of this paper, but you can search for it on the Victoria University of Wellington's open access repository, which is located outside the U.S. and not subject to the DMCA.
+
+[22] Maslow, pages 36-38.
+
+[23] Tumbling Down Maslow's Hierarchy
+
+[24] McGregor, page 14.
+
+[25] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[26] McGregor, page 16.
+
+Why "The Albanians"?
+
+It's worth asking why I chose to illustrate this post with the photo below (by Marcel Oosterwijk) of "The Albanians," the immense mosaic that adorns the National Historical Museum in Tirana, Albania's capital. I studied the history of Eastern Europe with Tom Simons, a former U.S. Ambassador to Poland, and he impressed upon me a tremendous appreciation for the historical struggles of the Albanian people, particularly under the regime of Enver Hoxha, the authoritarian dictator whose 40-year rule encompassed the creation of "The Albanians" in 1980. Hoxha's brand of socialist utopianism strikes me as a form of magical thinking that's as unrealistic as "soft Theory X"--albeit much less productive, and far more oppressive.
+

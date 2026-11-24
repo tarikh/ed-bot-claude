@@ -1,0 +1,105 @@
+---
+title: 1x 10x 100x (On Leverage)
+url: https://edbatista.com/2022/11/1x-10x-100x-on-leverage.html
+slug: 1x-10x-100x-on-leverage
+published: 2022-11-20T12:53:25
+updated: 2026-03-04T11:53:41
+source_body: wordpress-html
+---
+
+A theme in my practice is helping leaders determine which tasks and activities add the greatest long-term value (both professionally and personally), reallocate their time and attention accordingly, navigate around the obstacles that block their way, and resist the endless distractions that threaten to drag them off course.
+
+This isn't about productivity. That framing often yields a focus on "doing more things," or "doing things more efficiently." The efficient use of our time and attention is important, but doing the wrong things more efficiently is an easy way to expend a lot of energy going nowhere. We should never confuse motion with progress. [1]
+
+A more useful guiding principle is leverage. One way I discuss this with clients is by distinguishing among different orders of magnitude: 1x. 10x. 100x. These aren't precise measurements, but precision isn't the point--what matters is simply the recognition that some tasks and activities generate an immense amount of long-term value relative to others. So what can we do with this idea? And what are its implications?
+
+Return on Attention
+
+We're familiar with the concept of return on investment, but we usually think of the resource being invested as capital. This is understandable--most leaders operate under financial constraints, and grasping the ROI of a given initiative helps to ensure that their capital is being put to its best use. But we often fail to appreciate that our time and attention are also finite resources, and in some circumstances they're more limited than capital. [2] And going a step further, I'd argue that attention is a more important constraint than time. As I've noted before,
+
+Time merely passes, while focused attention makes things happen. When we’re able to gather and direct our attention toward a particular task or interaction, we can have a significant impact in a minimal amount of time. But when we’re unable to bring our attention to bear on the work at hand, all the time in the world is insufficient. [3]
+
+So we can assess the amount of leverage we derive from a given task or activity by understanding its return on attention. [4] A key is recognizing that "ROA" is a ratio, and both the numerator and the denominator matter. Consider the difference between a one-on-one with a direct report and a large-group meeting. A one-on-one is a tremendous "expenditure" of attention--each party is focused exclusively on the other person and their respective agenda. And yet the substantial return almost always justifies the expense. (Whenever this isn't the case, one or the other party will usually seek to conserve attention by cancelling the one-on-one.) [5]
+
+In contrast, most large-group meetings don't consume much attention at all--we see this in the tendency to multi-task during such gatherings (which can be interpreted as an effort to maximize the relatively low ROA.) A problem is that in many organizational cultures there's a high tolerance for low-ROA meetings because no one regards their attention as a finite resource.
+
+Again, note that the goal isn't mere efficiency or productivity. You could hold your one-on-ones en masse and feel very "efficient," or you could shorten your meetings to 10 minutes to be highly "productive," but you'd generate less long-term value as a result, not more.
+
+- How would you assess the ROA of the tasks and activities on your calendar?
+
+- Where might you gain leverage by maximizing the return?
+
+- Where might you gain leverage by minimizing the expenditure?
+
+Events < Processes < Systems
+
+When we first undertake a task or activity, we often conceptualize it as an event--a one-time occurrence that we prepare for and execute, after which we move on to other matters. But when we conduct a certain event repeatedly we generate more leverage by approaching it as a process--not a single discrete experience, but an ongoing, continuous series. And when we're engaged in a set of processes, we generate even more leverage by treating them as a system--an interrelated and organic whole. The goal is to continually generate more leverage by transforming events into processes and processes into systems.
+
+For example, two areas where this often comes up in my practice are fundraising and enterprise sales. The inexperienced CEO or sales leader views a pitch to a prospect as an event--they prepare, they do their best, they move on. Over time more capable CEOs and sales leaders develop a process, which can take any number of forms: Qualifying prospects so they refine their pitch in a deliberate sequence of conversations. Limiting the number of conversations they have in a given day. Conducting retros after each conversation to learn from every iteration. Etc.
+
+And the most capable CEOs and sales leaders integrate their various processes into a system, creating connections across a host of seemingly disparate tasks and activities: Engaging in self-care and managing their calendars so they're at their best when it matters most. Hiring the right team around them to augment their personal capabilities. Documenting their approach so they can teach others and delegate lower-leverage processes and events. Establishing a culture that attracts and retains the best talent. Ad infinitum.
+
+- Where do you see opportunities to approach events as processes?
+
+- How might you treat multiple processes as a single system?
+
+Time Frame Matters
+
+Leverage isn't always an inherent quality of a given task or activity. It can change dramatically depending on the relevant time frame. A good night's sleep is often a high-leverage activity because we're more effective at decision-making and emotion regulation when we're well-rested. [6] As a result it's usually a good investment to prioritize sleep over late-night work, which often adds relatively little value, because everything we do the following day will be of higher quality.
+
+On some occasions it's truly necessary to stay up late or even pull an all-nighter, but these circumstances will likely become less frequent as we grow more senior. [7] And yet over the course of our entire careers, we'll add the most value by consistently getting the right amount of sleep, in part because doing so contributes to better health and longer life. [8]
+
+Similarly, at any given moment pausing to reflect is usually a high-leverage task, because it helps to ensure that our time and attention are subsequently directed toward the most valuable ends. [9] In some rare situations, there's not be a second to spare, and we're best-served by simply following our intuition. But the longer the time frame--a day, a week, a year, a life--the more value we'll create by regularly reflecting on what we're doing and why. [10]
+
+So is sleep a 1x activity, or 10x, or 100x? Is reflection a 1x task, or 10x, or 100x? It depends, of course. The dilemma is that tasks and activities that generate a great deal of value over long time frames are always important but rarely urgent. As I've noted before,
+
+Important-but-not-Urgent activities are like brushing our teeth (or exercise or meditation): There are no real consequences if we skip a day, but if that becomes a trend we'll miss out on significant benefits and may run into serious problems. [11]
+
+- What Important-but-not-Urgent tasks and activities do you expect to generate the most value for you over time?
+
+- What boundaries will help you protect them on your calendar in the short term? [12]
+
+- What consistent habits will help you cultivate sustainable commitments? [13]
+
+Footnotes
+
+[1] Confusing Motion with Progress
+
+[2] The Problems of Success
+
+[3] To Stay Focused, Manage Your Emotions
+
+[4] Growth, Profitability and Return on Attention
+
+[5] The best guidance I'm aware of on how to conduct one-on-ones can be found Andy Grove's High Output Management, pages 72-79 (1st edition, 1983). Here's a passage I share with clients frequently:
+
+A key point about a one-on-one. It should be regarded as the subordinate's meeting, with its agenda and tone set by him. There's good reason for this. Somebody needs to prepare for the meeting. The supervisor with eight subordinates would have to prepare eight times; the subordinate only once. So the latter should be asked to prepare an outline, which is very important because it forces him to think through in advance all of the issues and points he plans to raise. Moreover, with an outline, the supervisor knows at the outset what is to be covered and can therefore help to set the pace of the meeting according to the "meatiness" of the items on the agenda. An outline also provides a framework for supporting information, which the subordinate should prepare in advance. The subordinate should then walk the supervisor through all the material.
+
+[6] For more on sleep and leadership effectiveness:
+
+- There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm, Harvard Business Review, 2016)
+
+- You Can't Do Your Job if You Don't Sleep (Tony Schwartz, Harvard Business Review, 2012)
+
+- Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes, Harvard Business Review, 2016)
+
+[7] How to Scale: Do Less, Lead More
+
+[8] For more on sleep, health and mortality:
+
+- Sleep Duration and All-Cause Mortality: A Systematic Review and Meta-Analysis of Prospective Studies (Francesco Cappuccio, Lanfranco D'Elia, Pasquale Strazzullo, and Michelle Miller, Sleep, 2010)
+
+- New Evidence on Sleep's Role in Aging and Chronic Disease (Population Reference Bureau, 2018)
+
+[9] How to Think (More on Open Space and Deep Work)
+
+[10] Time Horizons
+
+[11] Importance vs. Urgency
+
+[12] Happy Workaholics Need Boundaries, Not Balance
+
+[13] Building Blocks (A Tactical Approach to Change)
+
+Image courtesy of Inventors of Tomorrow.
+

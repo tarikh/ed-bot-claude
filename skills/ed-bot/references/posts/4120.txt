@@ -1,0 +1,67 @@
+---
+title: Risk Calculus and Social Norms
+url: https://edbatista.com/2021/12/risk-calculus-and-social-norms.html
+slug: risk-calculus-and-social-norms
+published: 2021-12-30T14:03:20
+updated: 2025-10-05T21:11:58
+source_body: wordpress-html
+---
+
+I'm old enough to remember when seat belts in automobiles went from simple lap belts to three-point shoulder harnesses. (The car of my Dad's that I loved the most, a 1966 Austin Healey, had seat belts that were largely notional.) But even more significant than the evolving technology were the evolving perceptions of risk and the social norms that governed behavior. Today seat belt usage in the United States exceeds 90 percent [1], but when I was growing up in the 1970s and '80s seat belts were routinely ignored. Although my parents were adamantly pro-seat belt--resulting in countless arguments that I always lost--by the time I was in high school seat belt usage was still well under 20 percent [2].
+
+One reason for this was the perception that seat belt usage conveyed a certain attitude toward risk and a sense of judgment. Seat belts were viewed by many as unnecessary, to be worn only by the fanatically cautious. Drivers who asked their passengers to wear seat belts were considered anxious or controlling. Passengers who proactively put on a seat belt were implicitly expressing a lack of faith in the ability of the driver to keep them safe. I recall getting into cars and having to make a decision about whether or not to wear a seat belt based not only my perception of the driver's capabilities, but also on my relationship with the driver and the likelihood that they might take offense.
+
+Today all this seems absurd, at least in the U.S. Seat belt usage has become so normative that for most people, most of the time, it's an automatic reflex. But it's worth noting that things weren't always this way, and it took decades of technological and social progress to arrive at the current arrangement [3]. And the reason I find this ancient history so interesting is that I see some important parallels with our response to the pandemic as we prepare to enter Year Three:
+
+We lack a shared risk calculus.
+
+By this I mean that we lack commonly understood definitions of "risky" and "safe." Although we now take it for granted that seat belts make us safer, for decades this was a point of contention. Seat belts were thought by many to cause internal injuries in the event of a minor collision or to pose a grave danger because of the possibility of entrapment in a burning or submerged vehicle. No one thinks this way anymore, even the small group of people who elect not to use seat belts in the U.S. They may be prioritizing comfort over safety, but they certainly don't think seat belts are "risky."
+
+In stark contrast, our current perceptions of the risk of infectious disease and what constitutes safe behavior are wildly divergent. This is understandable, given the relative recency of the pandemic, the emergence of new variants, and subsequent changes in the scientific consensus. But as a consequence individuals must rely on their own highly subjective perceptions of risk and safety, which has profound societal and organizational implications.
+
+We lack shared social norms.
+
+The lack of a shared risk calculus makes it difficult, if not impossible, to agree on a set of appropriate responses. As a result, we don't know how to interpret peoples' behavior, and they don't know how to interpret ours. During the decades when seat belt use was atypical, putting one on could mean any number of things: a sense of caution, a lack of trust, or even a rebuke to the driver. Today it's such a widely accepted norm that it's never perceived as having some hidden meaning.
+
+But in the absence of shared social norms regarding infectious disease, our behavior can be confusing or even inexplicable to others, and is therefore a subject of constant curiosity. What does it mean to attend an in-person event, or to decline to attend? What does it mean to wear a mask, or to refrain from wearing one? What does it mean to have physical contact, or to avoid it? We have no universally understood explanations, and in their absence we must interpret and reinterpret the world around us.
+
+Why does this matter--and what can we do about it?
+
+These issues have become a prevalent theme in my coaching practice at the moment, in part because we've reached a point in the pandemic when there's more confusion than ever. The recently emerged Omicron variant appears to be the most contagious yet--but it also appears to result in a relatively low rate of serious illness and hospitalization. This is making it even harder for the leaders in my practice to know how to respond.
+
+Should they--yet again--minimize or eliminate in-person activities for themselves and their employees? Should they mandate masks, or encourage them, or ignore them? Should they gird themselves for one more round of intensified infection control measures? Should they assume that such measures will become a recurring aspect of life? Or have we reached the point where the social, psychological and economic costs of such measures outweigh the benefits? Nobody knows for sure--despite the vast chorus of voices promoting their preferred solutions--which means we must decide for ourselves.
+
+I suspect that this confused state of affairs will persist for an extended period of time. It seems highly unlikely that society at large will arrive at a shared risk calculus and a shared set of social norms anytime soon. Recall that it took decades to reach a common understanding regarding seat belts, even though the science was relatively straightforward. But it does seem likely that in the next few months we'll recover from Omicron and continue the process of finding our way toward a "new normal."
+
+And yet as we resume in-person events, widespread travel, and other activities that we took for granted pre-pandemic, we'll inevitably encounter people who don't share our risk calculus or our social norms. Some people will attend small gatherings but not large ones, and some people won't make any distinction. Some people will avoid physical contact or offer an elbow bump, while others will go in for a hug. And some people won't wear masks at all, others will wear masks at certain times, and still others will wear masks whenever they're in public [4].
+
+We don't need a single risk calculus or a universal set of social norms to function effectively in groups, but the greater the divergence, the more likely it will be that we'll experience misunderstandings. So there are two helpful steps we can take in these potentially fraught situations: First, we can legitimize others' definitions of "risk" and "safety" and the resulting social norms that may differ than our own. I'm not suggesting that we should participate in activities that feel unsafe, or tolerate safety measures that feel oppressive. But we don't need to stigmatize others' choices and make them "wrong" in order to pursue the path that feels right to us.
+
+Also, we can help others understand our own behavior by proactively communicating to them aspects of our risk calculus, rather than forcing them to guess. And here I'm not suggesting that we provide a lengthy rationale or strive to extract an admission that we're "right." We can simply be a little more overt and explicit about what we're doing and why--and hope that they extend to us the same understanding we've tried to extend to them.
+
+This post is the sixth in a series on coping in the current environment:
+
+- Part 1: Pockets of Agency
+
+- Part 2: Aggression, Panic, Paralysis, Denial
+
+- Part 3: Tumbling Down Maslow's Hierarchy
+
+- Part 4: Wounded Creatures
+
+- Part 5: The Legitimacy of Loss
+
+- Part 6: Risk Calculus and Social Norms
+
+Footnotes
+
+[1] Seat Belt Usage in 2019 [PDF], (Traffic Safety Facts Research Note, National Highway Traffic Safety Administration, U.S. Department of Transportation)
+
+[2] How States Achieve High Seat Belt Use Rates [PDF] (James Hedlund, S. Hope Gilbert, Katherine Ledingham, and David Preusser, National Highway Traffic Safety Administration, U.S. Department of Transportation, 2008)
+
+[3] The Surprisingly Controversial History of Seat Belts (Erika Janik, Wisconsin Public Radio, 2017)
+
+[4] Nearly two decades after the SARS outbreak in East Asia, significant numbers of people continued to wear masks on public transportation. See Mass transit ridership didn’t snap back after the 2003 SARS outbreaks (Jake Blumgart, City Monitor, 2020).
+
+Photo by Stian Olsen. Austin Healey photo courtesy of Silodrome.
+

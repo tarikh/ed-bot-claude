@@ -1,0 +1,115 @@
+---
+title: Lessons in Falling Down
+url: https://edbatista.com/2021/07/lessons-in-falling-down.html
+slug: lessons-in-falling-down
+published: 2021-07-14T10:31:21
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+The longer I am employed as a professor, the less sure I become as to what a teacher is supposed to do. When students say, either explicitly or implicitly, "Teach me," I become confused, because I seldom feel as if I have anything to teach...
+
+I agree with the sentiments Carl Rogers expressed in "Personal Thoughts on Teaching and Learning" (1952). In essence, he contends that nothing of value can be taught, but that much of value can be learned. I suppose that's why I find teaching so unsatisfying and learning so much fun.
+
+~Jerry Harvey, "Learning to Not*Teach," 1999 [1]
+
+Harvey, a longtime professor of management at George Washington University, is best-known for the "Abilene Paradox" [2], and his simultaneously tongue-in-cheek and deeply heartfelt perspective has influenced my own views of teaching, leadership, and organizational life. In years past I believe I've lived up to Harvey's example, and my students in The Art of Self-Coaching at Stanford have learned a great deal--not because of my teaching, but because I extended an invitation to learn, and I created an environment in which almost all of them were eager to join me in the process. [3]
+
+But this year has been different. I share Harvey's enthusiasm for learning (and his ambivalence about "teaching"), and I know that some of our most important lessons are derived from our failures. [4] So in the spirit of Melanie Stefan's "CV of failures" [5] and Bessemer Venture Partners' "anti-portfolio" [6], I'm motivated to share some lessons learned from this past Spring Quarter.
+
+As I wrote last month, "I wasn't capable of doing my best work ever, but I did the best I could under the circumstances." [7] And I know some students valued their experience in the course, thanks to their appreciative messages, but the evaluations were the lowest I've ever received, and a few of the anonymous comments were quite critical. This wasn't surprising, although it was still disappointing. I made a number of choices that contributed to these results, and reflecting on them has been a rich learning experience.
+
+Lesson 1: Past performance is not indicative of future results.
+
+You'd think an MBA would have internalized this one, but apparently I'm still learning it. I assumed that because my first virtual Quarter went well I could replicate the experience, and I failed to consider what would change from one year to the next. In response to the pandemic Stanford moved all Spring 2020 classes online, and although it was certainly an adventure, given that my students and I were brand-new to virtual instruction, it felt like we rose to the challenge, and I look back on the experience as a success. In hindsight, however, it's clear that a number of factors changed from 2020 to 2021:
+
+- The bar got higher. My course is built around exercises and conversations in pairs and small groups, which translate readily to the virtual environment. In 2020 I think the course compared favorably with others that emphasized lectures and full-class discussion, which can be less engaging online. But by 2021, after a full year of remote learning students had higher expectations for the virtual experience, and I made relatively modest changes to my own use of the medium.
+
+- My students had changed. The year of remote learning had other consequences as well. My students in Spring 2020 regretted not having a final Quarter on campus, but my students this year spent a full 2/3 of their graduate school experience away from Stanford, often living and working under sub-optimal conditions. This Spring I received more requests from the school to accommodate students' various needs than I ever have before, and although I was more than willing to meet these requests, I failed to see this trend as an indicator of the challenges they were facing as a cohort.
+
+- I had changed. As I noted last month, "I know my students have had a far more difficult time during the pandemic than I have, in part simply because I've been able to maintain my practice remotely while they were largely denied the on-campus experience that they had been anticipating." [8] And although I'm well aware that while the privileges I enjoy have insulated me from many forms of suffering over the past year, I've still suffered, and I'm a different person as a result. I'm a better coach--and that's how I spend 99% of my working hours, so I get many more opportunities to improve--but I may be a worse teacher.
+
+As with so many changes triggered by the pandemic, it's unclear whether these factors are anomalies of 2021 or a "new normal" that I need to incorporate into my future plans.
+
+Lesson 2: Safety, trust, and intimacy are the foundation for learning.
+
+You'd think I'd have internalized this one as well. As I wrote over a decade ago,
+
+The foundational qualities that define every group are the levels of safety, trust and intimacy: Safety = A belief that we won't get hurt. Trust = We mean what we say and we say what we mean. Intimacy = A willingness to make the private public. When safety, trust and intimacy are established, these qualities support the actions that lead to greater success as a group: experimentation, risk-taking and a willingness to be vulnerable. When we feel able to experiment, take risks and make ourselves vulnerable, our ability to learn, to increase our self-awareness (and our awareness of others) and to change our behavior in order to achieve our goals more effectively increases dramatically. [9]
+
+Historically I would memorize students' faces from the class roster so that I could greet them by name the first time they walked in the door. Letting students know "I see you" goes a long way toward creating a safe, trusting, and intimate learning environment. Last year I wondered how we'd fare without access to this and other in-person practices, but it turned out to be relatively easy to establish sufficient safety, trust, and intimacy among my students in Spring 2020--and yet here, too, I failed to appreciate the impact of some significant changes this year:
+
+- I was an unknown. For several years I've taught in Autumn, Winter and Spring Quarters, but by the end of 2019 I knew I needed to reduce this load, a decision I made pre-pandemic. Last year I informed the dean who oversees my course that I wouldn't teach in Autumn 2020 and Winter 2021, and we agreed that I would return in Spring 2021. This was the right choice, but a consequence is that my students in 2021 knew very little about me, unlike in prior years when my Spring Quarter students had much more context from 72 of their classmates. This year's students had heard about the class and had high expectations for the experience, but I was an unknown entity, not a trusted figure.
+
+- I was less available. In addition to teaching less often during the course of the year, I needed to limit the amount of time I dedicated to the process, a decision I made as a consequence of the pandemic. My clients and I were facing the biggest challenge of our careers, and something had to give. So last Spring I decided not to hold coaching sessions with students, and instead offered optional introductory 1:1 meetings via video, and 35 out of 36 signed up. Those students may have regretted the opportunity for more in-depth coaching sessions, but I didn't hear concerns about my lack of availability, and our introductory meetings as well the context provided by my Autumn and Winter Quarter students presumably allowed them to feel a sufficient sense of safety, trust, and intimacy with their classmates. This year I again offered introductory 1:1 meetings in lieu of holding coaching sessions during the Quarter, but only 2/3 signed up, resulting in fewer connections. Despite this, there was also an appetite for more 1:1 time, at least among some students, that I was not fulfilling: One of the most pointed comments in this year's evaluations called me "potentially the least available GSB professor outside of class." Whether or not that was a widely-held view, it's easy to conclude that it contributed to a diminished sense of safety, trust, and intimacy.
+
+- I was less vocal. In my class I have students submit weekly essays that discuss their experiences in the course and the upcoming week's readings. Historically I've offered comments on each student's assignment--typically clarifications or references to other resources. But in recent years I began to wonder whether this might be counter-productive. I hope students view these essays as opportunities to make meaning for themselves, not performative exercises, and it occurred to me that my comments were reinforcing the latter. And some of last year's course evaluations suggested that my comments felt intrusive in what was essentially a personal journal. So this year I decided to comment very rarely--but several evaluations expressed frustration that their work wasn't being acknowledged. I don't know how many people felt that way, but it certainly didn't help to foster the learning environment I was aiming for.
+
+I can't return to teaching three Quarters a year, nor can I offer multiple coaching sessions to students. I could conceivably offer more feedback on written work, and yet it's unclear whether that's truly desirable. So I'm pondering how to be more known, available, and vocal in order to create a sufficiently safe, trusting, and intimate learning environment in this particular context.
+
+Lesson 3: What's most important can't be taught--it must be learned.
+
+Here I'm in full agreement with Harvey's comment above, and this credo has informed my work for well over a decade. In 2007, the year I joined Stanford's staff as one of the GSB's first Leadership Coaches, I saw an interview with Bill George, the former CEO of Medtronic who became an acclaimed professor at Harvard Business School, in which he had this to say about experiential learning:
+
+I don't think you can teach leadership, I think you can learn about it. I think you can learn about yourself. It comes from within, from who are you inside and what makes you tick, and what are those tapes playing in your head about what you want to be and what your limitations are. [10]
+
+For the next 10 years I sought to apply this principle in such settings as Leadership Labs, the Leadership Fellows program, and Interpersonal Dynamics (aka Touchy Feely). While my colleagues and I offered students relevant frameworks and research on leadership, group dynamics, and related topics, truly meaningful learning had to come from within. To learn anything of lasting value, students needed to translate these concepts into a personalized set of hypotheses and test them repeatedly in a wide range of scenarios.
+
+And for the last 7 years my aspiration in The Art of Self-Coaching has been to apply this same principle to the topics on my syllabus: change, attention, emotion, happiness, resilience, vulnerability, unhappiness, and success. While I believe I've compiled a useful body of conceptual material to help guide students through the course, I certainly don't think of myself as someone who can "teach" students all they need to know on these topics. I do think of myself as an experiential educator who can create the conditions in which people not only accept an invitation to learn, but also "learn how to learn" so that they can continue the process long after the class is over. [11] That didn't happen this year, at least not to the standard I set for myself.
+
+Lesson 4: Learning from failure doesn't feel good--and that's OK.
+
+The British trainer and consultant Roger Greenaway identifies four steps in the process of debriefing past experiences:
+
+- FACTS: What happened?
+
+- FEELINGS: What did I experience?
+
+- FINDINGS: Why did this happen?
+
+- FUTURES: What will I do differently? [12]
+
+The emphasis on emotion here is important. Failure reliably evokes uncomfortable feelings, and when we don't acknowledge them they often get worse. [13] So in addition to the lessons above, I've also learned (yet again) that I can admit failure and learn from it without being unduly distressed. I am disappointed that my students had such an unfulfilling Quarter, and at the same time I know that I did the best I could under the circumstances. As I wrote recently,
+
+Some failures are permanent and terminal, of course...but the vast majority of our "failures" aren't nearly so consequential, and whenever we're pursuing something ambitious...we will fail, repeatedly. But in the process we are also ruling out possibilities as we seek to understand what works. [14]
+
+ 
+
+Footnotes
+
+[1] How Come Every Time I Get Stabbed in the Back My Fingerprints Are on the Knife?: And Other Meditations on Management, pages 74-75 (Jerry Harvey, 1999)
+
+[2] Abilene: Lonelieness and Belonging in Organizational Life
+
+[3] In 2020 I made a version of the course freely available to the public and archived it on my site. The following page includes webinar videos, my slides, and all course readings. Anyone can take the course at their own pace, and all they need to provide is a partner:
+
+- The Art of Self-Coaching (Public Course)
+
+[4] The Working Out of Possibilities (On Failure)
+
+[5] A CV of failures (Melanie Stefan, Nature, 2010)
+
+- Other, similar efforts have received wider notice--notably that of Johannes Haushofer--but Stefan's was the first. Stefan was interviewed in 2017 by Veronika CH in her How I Fail series.
+
+[6] The Anti-Portfolio, Bessemer Venture Partners ("Honoring the companies we missed.")
+
+[7,8] June 2021 Newsletter
+
+[9] Safety, Trust, Intimacy
+
+[10] Bill George on Teaching Leadership
+
+[11] Learning How to Learn
+
+[12] Your Guide to Active Reviewing (Roger Greenaway)
+
+- Don't be put off by the somewhat baffling design of this website--it's a treasure trove of resources, such as Reviewing for Results and Reviewing by Doing.
+
+[13] Why You Can't Stop Thinking About Something
+
+[14] The Working Out of Possibilities (On Failure)
+
+ 
+
+Photo by Zombieite.
+

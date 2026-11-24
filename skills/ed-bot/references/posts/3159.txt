@@ -1,0 +1,141 @@
+---
+title: From Surfer to Donor
+url: https://edbatista.com/2005/03/from_surfer_to_.html
+slug: from_surfer_to_
+published: 2005-03-25T17:17:05
+updated: 2005-03-25T17:17:05
+source_body: wordpress-html
+---
+
+Vinay Bhagat of Convio organized a great session at the NTC entitled "From Surfer to Donor: Developing an eCRM Strategy."  My hastily scribbled notes follow:
+
+Bradley Duff-Hudkins
+International Fellowship of Christians and Jews
+
+Targeted Online Fundraising
+IFCJ sends weekly newsletters, and two issues each month contain a hard financial ask. The ask is located in the letter from the organization's leader, which is inside the newsletter, not in the email itself.
+
+Metrics
+Newsletter open rate is 16.5%, and the average click-through rate (CTR) is 4.86%. The average gift for soft asks is $75, and the average gift for hard asks is $173.
+
+Results
+IFCJ has significantly increased their basic ask amount, and now never ask for less than $300 in online appeals. (The group that gave the most were asked for $400.)
+
+Testing Multiple Elements
+IFCJ regularly tests different components of their online appeals:
+1) Subject heading
+2) Recurring delivery
+3) Table of contents
+4) Header design
+
+Customized Opt-In Messages
+A new feature for for 2005, including the following:
+1) Daily updates from Israel tour
+2) Hebrew word of the day
+3) Prayer network
+
+These messages are advertised primarily in their weekly newsletter, with sign-up options on relevant landing pages within their site.
+
+Email Marketing Campaigns
+1) Rosh Hashana/New year's eCard to the people of Israel.  The card was delivered to the Prime Minister office, and was apparently quite a success, although I didn't catch the stats.
+
+2) "Eight Nights of Contact" for Hanukkah.  IFCJ was worried about overexposure, but that turned out not to be a concern.  The campaign included such elements as a virtual menorah (which was IFCJ's 17th most viewed page in 2004), and a downloadable dreidel (which was their 4th highest download for the year.)
+
+Constituent Surveys
+1) Drive traffic to site by posting survey results online.
+2) IFCJ's surveys page was their 4th most-viewed page in 2004.
+3) Survey results garner coverage from major media, driving traffic back to the site.
+
+Online Advocacy
+IFCJ had two online advocacy campaigns in 2004.  Over 1,200 constituents took action, but the campaigns signed up just a handful of new constituents--an effective tool to mobilize current members, but limited in its appeal to new ones.  The average gift from an advocate is $101.
+
+The average age of an IFCJ online donor is 50.
+
+2004 Results
+1) IFCJ grew email list from 18,900 to over 45,000.
+2) Raised more than $1 million, up from $447K in 2003
+3) They're on track to double again in 2005 to $2 million.
+4) They've even found some new major donors online ($25,000 in one case), despite the conventional wisdom that this doesn't happen.
+
+<><><>
+
+Garth Moore
+American Society for the Prevention of Cruelty to Animals
+
+Key Elements of Online Presence
+1) Attract visitors with timely content and features--react quickly to external events that might interest your audience and draw them to your site.
+2) Prominently display interaction features.
+3) Offer registration items for visitor information throughout the site.
+4) Interact with customized emails.
+5) Send renewal notices.
+
+How to Get Visitors to the Website
+1) Direct mail--it's expensive, but still worthwhile.  All direct mail pieces should have a specific URL to determine the response rate.
+2) Use email to ask your audience to join advocacy efforts or take other actions that bring them back to the site.
+3) Incorporate a tell-a-friend component in every message.
+4) Establish relationships with online partners and develop tie-in promotions.
+5) Search engine registration.
+
+ASPCA's typical offline constituent is a 45-65 year-old woman, divorced or widowed, with two or more cats.  This demographic is moving online quickly, despite past perceptions, and the ASPCA's online results bear this out.
+
+Site Maintenance
+Update home page 3x week.  Liven up features with bulleted content, rendered graphics and related content.  Look to see which features can offer more than just content.  Browsing public is smart enough to avoid brochure sites.
+
+Beyond Content: Interactivity
+ASPCA visitors are encouraged to take action frequently on the site.  Every page has registration functionality.
+
+The ASPCA's average site visit is 3.2 pages--plenty of opportunities to encourage interaction.
+
+Static content must be spruced up with interaction features
+
+Registration Items
+1) Site access to exclusive content or incentive items (virtual or free)
+2) Giveaways, like free magnets (37,000 people gave name, address, email address to get the magnet), or free animal rescue sticker.
+
+Users should leave as much info as you need to contact them regularly
+
+Registration Profiling
+The ASPCA ask about professional and social interests and uses this info to engage their members more effectively.  Profile data is regularly synched between online and offline databases to insure maximum effectiveness.  You must get this info to fully understand your members' interests, and it's not that hard to get--65% of ASPCA registrants complete the professional and social interest fields.
+
+Email Registration Features
+1) Offer free newsletters using program content.
+2) Measure open rates.
+3) Tailor giving messages for specific audiences as finely as possible.
+4) Include soft asks and donation links in each message.
+5) Send weekly mailings for everything, and don't worry about oversaturation.  If they want to unsubscribe, they will.
+6) You must maintain consistency and frequency--send the same messages on the same days every week.  The ASPCA hasn't missed their weekly email newsletter drop in four years.
+
+Email vs. Direct Mail
+Not only is email more efficient, offering immediate returns, but the ASPCA's average online gift is double their average offline gift, $44 online vs. $22 offline.
+
+Interact with Customized Email
+1) Tailor content and graphics based on the recipients' interests.
+2) Customize every message with the recipient's name, location and any other personal info they provide.
+3) Don't be scared to ask users for the information you need to initiate a relationship.
+4) Customization works.  For example, ASPCA members who are identified as dog lovers are three times more likely to scroll down and read a newsletter if they get a message with a dog graphic at the top.
+5) Personal interests can also be used to create customized content--not just different graphics, but completely different stories in the newsletter.
+6) Customized content can raise click-through rate up to 8-10%.
+
+Online/Offline Integration
+The ASPCA regularly synchs their online and offline databases, and 25% of their donors who have given offline but supplied an email address give when asked online.
+
+Online Donor Value
+<> 38.75% of the donors with an active email address donated with an average value of $53.55.
+
+Recent Successes
+1) 2004 online donations up 46% from 2003.
+2) 140,000 new site registrants in 2004.
+3) 250,000 current email newsletter subscribers.
+4) Q1 2005 will be their best non-holiday quarter ever.
+
+Overall Success
+1) ASPCA launched with Convio in 2001.
+2) Their housefile has grown more than 1,000% in four years, from 43,000 to nearly 500,000.
+3) They will raise more than $1 million online in 2004.
+4) They grew their "advocacy brigade" by more than 900%, from 17,000 to 177,000.
+
+Final Thoughts
+1) Put action alerts right on the home page--hot news that will encourage users to act immediately.
+2) Once a user is in your database, you must have a plan to immediately and consistently follow up and interact with them.
+3) Insure that registration and other interaction opportunities are spread throughout your site.
+

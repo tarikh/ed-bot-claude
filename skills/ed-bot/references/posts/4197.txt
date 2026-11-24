@@ -1,0 +1,81 @@
+---
+title: Talking with Colleagues About Suffering
+url: https://edbatista.com/2023/10/talking-with-colleagues-about-suffering.html
+slug: talking-with-colleagues-about-suffering
+published: 2023-10-15T16:05:12
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader who's aware or senses that a colleague is suffering and would like to offer support but is unsure how to broach the topic--and a version of this occurs in my own work. In most cases when a client is suffering in some way our coaching sessions provide them with a setting in which they can express those feelings freely. But at times it's clear to me that a client is suffering and yet it's not the focal point of their agenda, or even on the agenda at all.
+
+It's not my place to determine our agenda--that's the client's job--but it's not uncommon for people to want to talk about something while also feeling ambivalent about raising the topic. If I ignore my intuition and defer to their stated agenda, we might miss a meaningful opportunity. And yet the client must always feel a sense of agency in our work together.
+
+It's complicated, but at least I have the benefit of being a coach, and in my relationships with clients it's expected that at times we'll explore troubling and even painful topics. But my clients may not have that kind of social contract with their colleagues, making it hard to know how to proceed when they sense that a co-worker is suffering. If you're in this situation, here are some suggestions:
+
+Take the Initiative
+
+Some people prefer to suffer in private, or they may be reluctant to discuss it with colleagues. They may resist or even resent our efforts to address the topic, and we should be careful to avoid "inflicting help." [1] But most of us tend to err on the side of caution, and while we tell ourselves we're "being sensitive," this also reflects our fear and anxiety. We're afraid that our efforts will be rebuffed, and we'll feel embarrassed. So instead we sit back and wait, hoping that when they need our help they'll ask for it.
+
+Sometimes this is true...and sometimes it's not. The suffering person may in fact feel embarrassed themselves, and they may want us to relieve them of the burden of initiating the conversation. They may wonder if we see their suffering at all, or if we even care. Or they may conclude that this isn't the kind of relationship, or the kind of company, where we talk about such things.
+
+So find the courage to take the initiative. This will be fraught, and it will feel risky, and sometimes you'll get it wrong. But you'll only improve your ability to sense the right time and to find the right language with practice. [2] Extend the invitation, and don't be discouraged if it isn't accepted at first. Try again later. Don't insist--the other person has to feel in control--but by signaling your interest you make it easier for them to respond when they're ready.
+
+Normalize Vulnerability
+
+Acknowledging suffering often evokes a sense of vulnerability in both parties. This is almost certainly true for the person who's suffering, who may believe that such acknowledgment is a form of weakness that will leave them feeling exposed and unsafe. They may worry that they'll be seen as less competent or capable, or that they'll be considered "emotional," a liability in many professional settings.
+
+But this is also likely true for the leader seeking to offer support, particularly when it's unclear if such support will be welcome. The leader may lack experience in having these conversations, or this may be a new frontier in their relationship with this individual. Or the person's suffering may be apparent while the underlying cause is unknown, compounding the leader's uncertainty about whether or how to proceed.
+
+The paradox is that in most settings expressions of vulnerability trigger an empathetic response, a mechanism that may be rooted in our evolutionary psychology. [3] This isn't guaranteed, of course, and it's necessary to take small steps at first and read the signs with care. A starting point is conveying any trepidation you might feel and letting the other person know that it's OK if they feel similarly.
+
+Understand What's Needed
+
+Leaders often rise to their position on the basis of their effectiveness as problem-solvers, and that's an identity as much as a skillset. In some circumstances colleagues are seeking a solution that will solve the problem, but much of the time there's none to be found, or at least not one that the leader can provide. This is certainly true of our greatest difficulties--a grievous illness, the loss of a loved one, a global crisis. [4]
+
+If you find yourself in such a discussion there are many ways to offer useful help and support, but it's important to understand what the other person actually wants. Even when you don't have a definitive solution, they may still value your advice on how to address or think about the problem. But note the tendency of problem-solvers to offer advice, even when it hasn't been asked for.
+
+Before jumping in to share your perspective, be sure to slow down and listen. The experience of truly feeling heard is surprisingly rare in organizational life, where people often listen in order to reply. Put your advice on hold, at least until it's requested, and just be fully present. You may find that this is sufficient.
+
+And you may also find that something more is called for, even--and perhaps especially--when there's no advice to give and listening isn't enough. The other person may simply need a literal or virtual hug, which can be daunting territory to navigate in organizational life. While it's essential to be aware of and respect another person's boundaries, we can be so cautious about avoiding offense that we inadvertently appear callous. Tone of voice and body language can go a long way toward expressing the sentiment. A murmur, a sigh, a moment of silence, or holding our hand to our chest can speak volumes.
+
+Why Bother?
+
+All of this work is easier if we take steps early in our professional relationships to lay a foundation for more meaningful dialogue later on. One of the most straightforward ways for a leader to accomplish this is by scheduling regular one-on-ones with direct reports, honoring that commitment by minimizing cancellations or rescheduling, and ensuring that employees feel a sense of ownership over the agenda. [5] And yet it will still require effort and a modicum of risk, and a leader may well ask, Why bother?
+
+One very pragmatic reason is that people who are suffering are incapable of doing their best work. They may be in the grip of a threat response, aka a "fight, flight or freeze response," which will impair creative thinking and render them more risk-averse and prone to distraction. [6] Talking about their distress and anxiety can play a significant role in helping them manage these feelings, enabling them to redirect their focus to other matters. [7]
+
+I would add that our professional relationships have the potential to be sources of belonging and connection [8], not merely vehicles for value creation, and we realize this potential fully only when we're willing to have hard conversations. This doesn't mean that companies are "families"--I agree with Shopify CEO Tobias Lütke that this is an inappropriate metaphor, and that colleagues are best-served by viewing each other as fellow members of an elite team who earn their positions by virtue of their performance. [9]
+
+Cultivating the ability to have hard conversations about suffering develops a set of skills that are equally valuable in hard conversations about performance: the courage to speak up, a sense for the right timing and the right language, comfort with vulnerability. This is yet another reason why "accountability and empathy are not mutually exclusive." [10]
+
+ 
+
+This is a companion piece to Talking with Colleagues About Divisive Topics.
+
+Footnotes
+
+[1] Inflicting Help
+
+[2] Conscious Competence in Practice
+
+[3] Forget Survival of the Fittest: It Is Kindness That Counts (Dacher Keltner interviewed by David DiSalvo, Scientific American, 2009)
+
+[4] This section is adapted from What Do You Need Right Now? (Advice, Listening, A Hug?).
+
+[5] How to Have Better One-on-Ones
+
+[6] Neuroscience, Leadership and David Rock's SCARF Model
+
+[7] Talking About Feelings
+
+[8] Abilene: Loneliness and Belonging in Organizational Life
+
+[9] Shopify CEO email to managers: We are not a family (Tobias Lütke, internal email, 2020, shared by Lukas Naugle, LinkedIn, 2021)
+
+[10] Accountability and Empathy (Are Not Mutually Exclusive)
+
+ 
+
+Photo by Christopher Matson.
+

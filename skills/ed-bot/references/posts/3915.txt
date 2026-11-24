@@ -1,0 +1,77 @@
+---
+title: You Make Me Feel... (On Language and Responsibility)
+url: https://edbatista.com/2016/12/you-make-me-feel-on-language-and-responsibility.html
+slug: you-make-me-feel-on-language-and-responsibility
+published: 2016-12-29T05:00:00
+updated: 2025-10-10T18:04:16
+source_body: wordpress-html
+---
+
+A recent conversation with a client reminded me of the power of language to shape our experience--and of the importance of taking responsibility for our experience. My client was describing a difficult conversation with an employee, one in which there were strong feelings on both sides. "He made me feel terrible," my client said. There's nothing unusual about that sentence--we say things like that all the time, at least in English:
+
+He made me feel terrible.
+
+She makes me so frustrated.
+
+You're making me really unhappy.
+
+Statements like this can serve a useful purpose--particularly when we're able to express them in the moment--because they clarify and reveal our emotional state. Anytime we can articulate our feelings toward another person rather than require them to make guesses based on our behavior, communication is more accurate and effective. [1,2]
+
+But statements like this also contain a fatal flaw, one that often makes communication more difficult: Saying that someone else "makes us feel" an emotion suggests that they are responsible for our emotional state, and that's highly problematic. When another person's statements and behavior trigger an emotional response in us, it's inaccurate to presume that the other person is the responsible party and that we're an innocent bystander.
+
+We're not passive recipients of the data through which we interpret and make sense of the world. We play an active role in every stage of the process as we gather, interpret, and respond to that data, which includes other people's statements and behavior. A useful model to illustrate this dynamic is the "Ladder of Inference," developed by Chris Argyris, a longtime professor at Harvard Business School, building on the work of linguist (and U.S. senator) S.I. Hayakawa and philosopher Alford Korzybski. [3]
+
+Consider the four steps in this process:
+
+- From all observable data, we select specific data to focus upon.
+
+- We interpret this data and invest it with meaning.
+
+- We develop theories and beliefs that explain our interpretation.
+
+- We take action on the basis of our theories and beliefs.
+
+Now apply this model to an interpersonal interaction that's triggering an emotional response in us, and consider the responsibility we bear at each stage:
+
+- We determine which of the other person's statements and behavior to focus on. Note that there's also a vast amount of data that we're simultaneously ignoring, and the choices we make (consciously and unconsciously) regarding what to pay attention to (and what to ignore) are profoundly influenced by our cognitive biases. [4]
+
+- We interpret the other person's statements and behavior in order to render it meaningful. There are always different possible interpretations, but the ones we assign to this data are derived from our mental models, the constructs that we've developed to make sense of and navigate the world. [5]
+
+- We develop theories and beliefs regarding the other person's motives and intentions to explain our interpretations. As with our interpretations, the belief structure that guides our actions is informed by our mental models and our (highly subjective) memories of our experiences with this person and others.
+
+- Finally, we act on the basis of this conceptual framework that we've created. Note that our emotional responses are actions even when we don't express them outwardly. Emotions are physiological events, starting with the release of neurotransmitters in our brain that trigger a cascading series of bodily reactions: changes in our heart rate, blood pressure, respiration, hearing, and vision, to name just a few. These internal responses contribute to our conscious awareness of an emotional state, which we may then express outwardly in ways large and small, from facial expressions and body language, to our manner of speaking, to the actual content of our statements.
+
+Clearly we're responsible in any number of ways when we have an emotional response to another person, and when we say, "You make me feel..." we're shirking our responsibility and foisting it onto the other person. At that moment we're acting like a victim. The Trium Group's definitions of a "responsible mindset" and a "victim mindset" are highly applicable here:
+
+Responsible Mindset
+
+I view myself as an integral factor in all situations. Every situation occurs and unfolds as it does in some measure as a direct outcome of my actions, non-actions and interpretations. I believe there is always something I can do to affect the situation.
+
+Victim Mindset
+
+I view myself as separate and disconnected from situations as they occur. Circumstances and events happen to me. I believe there is nothing I can do to affect the situation. [6]
+
+And Stanford professor Jeff Pfeffer has this to say about responsibility, in a paper that refers to work by Trium on the topic:
+
+Responsibility entails feeling efficacious and believing one has some obligation to make the world, including the organizational world, in which one lives a better place... [The] responsibility mindset is simply seeing oneself as an actor affecting, or trying to affect, what goes on rather than being in a more passive role of having things happen to oneself. [7]
+
+Which brings me back to the coaching client I mention above. My clients are senior leaders who are responsible for building a culture, and, to Pfeffer's point, they're committed to making their organizations better, a process in which their interactions with others are critical. And while they're realistic about the limits on their agency, they recognize that as leaders they have both an opportunity and an obligation to take responsibility for their role in effective (and ineffective) interactions. In all cases, no matter who we are, this starts with how we frame the experience.
+
+Footnotes
+
+[1] Five Levels of Communication
+
+[2] We're Leaky (Emotional Signals and Cognitive Dissonance)
+
+[3] Racing Up the Ladder of Inference
+
+[4] Seeing What's Not There (The Importance of Missing Data)
+
+[5] Corn Mazes and Mental Models
+
+[6] The Trium Group on Responsibility
+
+[7] "Changing mental models: HR's most important task" (Jeffrey Pfeffer, Human Resource Management, May 2005)
+
+Photo by Jonty.
+

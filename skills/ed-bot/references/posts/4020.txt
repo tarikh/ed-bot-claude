@@ -1,0 +1,69 @@
+---
+title: Three Conversations (On Better Communication)
+url: https://edbatista.com/2019/05/three-conversations.html
+slug: three-conversations
+published: 2019-05-22T20:23:18
+updated: 2025-10-08T08:55:08
+source_body: wordpress-html
+---
+
+When we're talking with another person, three conversations are being held at once:
+
+1) The Script: The words being spoken and the other explicit verbal expressions that could be captured in a written document.
+
+2) The Silent Movie: All other forms of interpersonal signalling, largely visual or non-verbal, but often easy to miss and hard to interpret. Facial expressions, body language, tone of voice, the rhythm and cadence of speech, heavy or shallow breathing, eye contact (or lack thereof), incipient tears (or actual tears), etc.
+
+3) The Inner Dialogue: The conversation with ourselves about how the first two conversations are going.
+
+What are the implications of this for our effectiveness as communicators?
+
+When we focus on the Script at the expense of the Silent Movie, we miss out on an immense amount of potentially useful data. The idea that "93% of communication is non-verbal" is a myth that has been refuted by Albert Mehrabian, the UCLA psychologist whose research was the basis for that figure. [1,2] That said, as an executive coach I hold more than 750 extensive one-on-one conversations with my clients and MBA students every year, and it's eminently clear just how much being expressed beyond the parameters of the Script. A key step in becoming a better communicator is heightening our awareness of all the action that's taking place at every moment in the Silent Movie.
+
+But it's equally important to recognize the limits on our ability to accurately interpret this data. As I've noted before, human beings are driven to "craft an endless series of explanatory narratives that enable us to navigate the world, and we might call this primal urge the 'narrative engine'...but one of the dilemmas we encounter in this process is that it's nearly impossible to turn this engine off--we can't help but create a story to explain a given situation, even when the information at our disposal is incomplete or inaccurate." [3]
+
+The stories we invent to make meaning out of the data observed in the Silent Movie are largely intuitive, and psychologists Gary Klein and Daniel Kahneman have jointly explored the extent to which our intuitions are accurate:
+
+McKinsey Quarterly: Is intuition more reliable under certain conditions?
+
+Gary Klein: We identified two. First, there needs to be a certain structure to a situation, a certain predictability that allows you to have a basis for the intuition. If a situation is very, very turbulent, we say it has low validity, and there’s no basis for intuition... The second factor is whether decision makers have a chance to get feedback on their judgments, so that they can strengthen them and gain expertise. If those criteria aren’t met, then intuitions aren’t going to be trustworthy. [4]
+
+So the more predictable and less "turbulent" an interaction, the more accurate our intuitions tend to be. We can't always maximize the predictability of our interactions, but we can be more sensitive to the level of "turbulence" we're experiencing and remind ourselves to challenge our intuitions under those conditions. To paraphrase Bonnie Wentworth, a former colleague of mine at Stanford, we should trust our intuitive sense that something is there, but we should hold our cognitive interpretations of that data very lightly.
+
+On Klein's second point, note that interpersonal interactions are infinitely rich sources of feedback, and while on occasion we may interrupt a conversation to explicitly inquire about an intuitive judgment and test its accuracy, we're constantly engaged in this process in a more subtle, implicit way. We intuitively sense the need for a humorous remark--and wait for a smile or laugh to test our theory. We intuitively feel the need to make eye contact--and wait to see if it's reciprocated. We intuitively open our mouths to interject--and wait to see if the other person pauses in response. The challenge is having the mental capacity to track these "tests" and learn from them over time while maintaining interpersonal contact.
+
+Which brings us to the third conversation, the running Inner Dialogue we maintain with ourselves to assess our effectiveness in the other two domains. [5] This dialogue needs to take place at the right "volume"--if it's too quiet, we'll miss cues telling us to change course and modify our behavior to have the desired effect. But if it's too loud, we'll be paralyzed with self-consciousness and incapable of acting fluidly and naturally.
+
+When we begin to absorb more data from the Silent Movie, the volume of the Inner Dialogue often gets turned up as well, and the resulting cacophony can be overwhelming. For a decade I helped train MBA students at Stanford in coaching principles and practices, and they inevitably experienced their first coaching sessions as exhausting, largely because their Inner Dialogue was a nonstop barrage of anxiety and criticism. And just as inevitably, with practice they became less self-conscious and found the volume knob. [6]
+
+So in your next one-on-one, ask yourself:
+
+- What's playing in the Silent Movie?
+
+- How am I interpreting this data?
+
+- How predictable or turbulent is this interaction, and how might that affect the accuracy of my intuitions?
+
+- What feedback am I getting on my intuitions, and what can I learn from it?
+
+- Is my Inner Dialogue at the right volume?
+
+- How might I turn it up or down?
+
+Thanks to my friend and colleague Erik Bengtsson for a fruitful discussion on this topic.
+
+Footnotes
+
+[1] Mehrabian and nonverbal communication (Olivia Mitchell)
+
+[2] "Silent Messages": A Wealth of Information About Nonverbal Communication (Albert Mehrabian)
+
+[3] A Better Information Diet
+
+[4] Strategic decisions: When can you trust your gut? (Olivier Sibony and Dan Lovallo interviewing Daniel Kahneman and Gary Klein, McKinsey Quarterly, 2010)
+
+[5] Psychologists refer to this process as "self-monitoring," and an instrument developed in 1984 by Richard Lennox and Raymond Wolfe asks people to assess their "ability to modify self-presentation" as well as their "sensitivity to expressive behaviors of others."
+
+[6] Conscious Competence in Practice
+
+Photo by Sayan Battacharjee.
+

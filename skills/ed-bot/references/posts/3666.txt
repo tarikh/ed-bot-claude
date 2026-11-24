@@ -1,0 +1,55 @@
+---
+title: Top 150 Management and Leadership Blogs
+url: https://edbatista.com/2010/04/top-150-management-and-leadership-blogs.html
+slug: top-150-management-and-leadership-blogs
+published: 2010-04-20T04:00:00
+updated: 2025-09-24T11:59:39
+source_body: wordpress-html
+---
+
+(Hey, that's me!)
+
+Jurgen Appelo, a Dutch technology manager and software developer, has devised a method for compiling "top blog lists," relying on Google PageRank, Alexa traffic rankings, Technorati Authority, other search engine links and numbers of comments.  (You can read about the process in detail.)
+
+Earlier this month Appelo compiled a list of the Top 150 Management & Leadership Blogs, and I was surprised and gratified to see my own site listed at # 48 (two spots below Stephen Covey, of all people.)
+
+Appelo's method seems reasonably defensible, although I'm certainly in no position to validate it (and it's worth noting that Appelo's own blog comes in at # 16 on the list.  That may be perfectly legit--I'm just sayin'.)
+
+In any case, I'm honored to join several people on the list whose work I read regularly and respect immensely:
+
+- Dispatches from the New World of Work by Tom Peters (# 9)
+
+- Grant McCracken (# 16)
+
+- Chief Happiness Officer by Alexander Krejulf (# 25)
+
+- Work Matters by Bob Sutton (# 27)
+
+- Rosabeth Moss Kanter (# 29)
+
+- Trust Matters by Charles Green (# 30)
+
+- Positive Organizational Behavior by Bret Simmons (# 33)
+
+- WeeklyLeader by (among others) my friend Pam Fox Rollin (# 34)
+
+- Management Craft by Lisa Haneberg (# 35)
+
+- Employee Engagement by David Zinger (# 59)
+
+- Marshall Goldsmith (# 61)
+
+-
+Unfolding Leadership by Dan Oestrich (# 86)
+
+-
+Studentlinc by Tim Milburn (# 122)
+
+While the list's uppermost spots are occupied by high-profile types like Tony Robbins, Guy Kawasaki, and Daniel Pink, many are occupied by ordinary people like me, an executive coach in San Francisco and a Leadership Coach at the Stanford Graduate School of Business; Bret Simmons, a professor at the College of Business of the University of Nevada, Reno; Pam Fox Rollin, a coach and consultant in here the San Francisco Bay Area; and Tim Milburn, Director of Campus Life at a university.
+
+I can't speak for the others, but my site is a strictly personal project that I support entirely with my own resources.  To the extent that we can rely on the validity of Appelo's method, it would seem that the web is doing its usual effective job of breaking down hierarchies and promoting conversations on the margins.
+
+That said, it's also worth noting that despite this technology-enabled democratization, the list is thoroughly dominated by white men, primarily Americans.  So some hierarchies remain firmly in place.
+
+Thanks to Jurgen for his efforts--his list is both a great collection of valuable management and leadership resources and an inspiration to further diversify this conversation.
+

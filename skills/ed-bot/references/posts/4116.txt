@@ -1,0 +1,150 @@
+---
+title: Why Executives Derail (and What You Can Do About It)
+url: https://edbatista.com/2022/03/why-executives-derail-and-what-you-can-do-about-it.html
+slug: why-executives-derail-and-what-you-can-do-about-it
+published: 2022-03-04T16:14:06
+updated: 2025-09-24T11:58:04
+source_body: wordpress-html
+---
+
+A theme in my practice is the CEO or senior leader who's hired or promoted an executive into a new role only to find that the executive fails to fulfill their initial promise. It's not a complete disaster--my clients are generally skilled at identifying executive talent, and it's rare that they utterly botch a hire.
+
+But it's definitely not a success, and as the executive struggles to meet expectations, my client is wondering why this is happening and what can be done to salvage things. While every situation is unique, there are some factors that show up repeatedly which can explain what's going wrong and may point the way toward a solution. The relevant term in the management literature is "derailment," described by Jean Leslie and Ellen Van Velsor of the Center for Creative Leadership as follows:
+
+The derailed manager is one who, having reached at least the general manager level, either leaves the organization nonvoluntarily (through resignation, being fired, or retiring early) or is plateaued as a result of a perceived lack of fit between personal characteristics and skills and the demands of the job. [1]
+
+It's likely that up until this point in the executive's career they've experienced substantial and perhaps even continuous success. This track record put them in the position to be selected for their current role, but it may have left them unprepared to cope with professional difficulties, as suggested in prior research cited by Leslie and Van Velsor:
+
+Executives who derailed also had run up a string of successes early on and were seen as technical geniuses or tenacious problem-solvers. Yet as they moved up in their organizations and job demands changed, some early strengths became weaknesses and some early weaknesses began to matter. [2]
+
+But if a string of sustained success may have set the stage for the derailing executive, what are they doing in their roles today that's causing their current problems? Here Leslie and Van Velsor build on and update prior research to identify a set of likely culprits, and their work is consistent with what I see in my practice [3]:
+
+Derailment Factors
+Percentage of Cases
+
+Inability to develop or adapt
+61
+
+Poor working relations
+57
+
+Inability to build and lead a team
+32
+
+Poor performance
+23
+
+Authoritarian
+23
+
+Too ambitious
+17
+
+Too narrow functional orientation
+17
+
+Not prepared for promotion
+14
+
+Conflict with upper management
+12
+
+Organizational isolation
+7
+
+I've highlighted the top three, which I see as closely interrelated. In Working with Emotional Intelligence, the science journalist Daniel Goleman drew upon Leslie and Van Velsor's work on derailment and characterized an "inability to develop or adapt" as "rigidity":
+
+[Derailing executives] were unable to adapt their style to changes in the organizational culture, or they were unable to take in or respond to feedback about traits they needed to change or improve. They couldn't listen or learn. [4]
+
+Executives with a rigid style who resist feedback also often struggle interpersonally, and Goleman concisely described what Leslie and Van Velsor call "poor working relations":
+
+Being too harshly critical, insensitive or demanding, so that they alienated those they worked with. [5]
+
+And it's common in my practice that the derailing executive is having trouble recruiting and retaining talent or is alienating the team that they inherited. While there may be a number of causes, it's almost certain that a rigid management style, resistance to feedback or defensiveness in response, and difficulty in building strong relationships are contributing factors.
+
+So if you're a CEO or senior leader with a derailing executive, what can you do?
+
+Talk About It
+
+You may have hired this executive with the expectation that they would require minimal management, but as a result, even if you're having one-on-ones to address tactical issues, you may not be holding a consistent dialogue in which you're sharing critical feedback with them on their leadership style and interpersonal behavior. And their resistance to feedback or defensiveness in response may understandably make you less eager to get started. But waiting until the next review cycle will only waste time and make the problem worse--people rarely respond well to unpleasant surprises. Instead, as I've noted before, it's preferable to make feedback normal--not a performance review.
+
+This doesn't mean that you should simply unload your feedback without worrying about its impact. As Carole Robin, one of my mentors, used to remark, "When people say they want to be 'brutally honest,' there's usually more brutality than honesty." It's essential for you to learn how to deliver critical feedback in a way that this executive will find motivational. And this will be a joint undertaking--the executive will also have to consider how to make getting feedback less stressful.
+
+Work On It
+
+Initiating a dialogue and conveying the existence of these problems to the executive is just the first step. Next they'll need to commit to addressing these issues, both with your support and on their own. This won't be easy--change is hard. It will take deliberate and sustained effort for them to become more adaptable and receptive to feedback, to develop better interpersonal relationships, and enhance their ability to build and lead teams.
+
+But in the right circumstances these are eminently learnable skills. An essential foundation is an environment in which the executive can acknowledge and deal with the uncomfortable feelings that inevitably accompany professional struggles. This will require you to take the initiative to create sufficient psychological safety and avoid triggering a sense of danger or threat. This does not mean failing to be direct or candid with the executive, but while you highlight the costs of their behavior you'll also need to empathize with the challenges they're facing. And you and your executive need not do this work alone--coaching can help.
+
+Resolve It
+
+Whether or not your executive is willing to join you in this work, allowing the situation to persist unresolved will carry a cost. Given the interpersonal impact of their rigidity, poor working relationships, and ineffective teamwork, the longer they remain in the role without trying to improve, the more likely it is that they'll have a negative impact on the performance and retention of their direct reports and peers. This is one of the main reasons why my clients' biggest regret is waiting too long. It may be possible to level the executive, but even if you decide to fire them, note that this may be the merciful choice.
+
+Learn from It
+
+However the situation is resolved, even--and perhaps especially--if you determine that it was a failure, it will present you with a valuable learning opportunity. You'll likely want to reflect on the process that led you to hire this executive in the first place and consider how you might conduct better interviews. A related theme in my practice is adapting hiring procedures to test for defensiveness, resistance to feedback, or a tendency to blame others, all of which are red flags. I'm reminded of the value of experiencing difficulties early in one's career, a point made years ago by the Reverend William Swing in a speech at Stanford: "Some people don't conspicuously fail until they are 45 years old, and it devastates them." [6] In some cases, rather than view a candidate's prior setbacks as negative indicators, we would do better to ask what they learned as a result.
+
+ 
+
+ 
+
+Footnotes
+
+[1] A Look at Derailment Today: North America and Europe, page 1 (Jean Leslie and Ellen Van Velsor, Center for Creative Leadership, 1996)
+
+[2] Ibid, page 2.
+
+[3] Ibid, page 11. The original data includes separate figures drawn from North American and European research, while the figures shown here are an average of both data sets.
+
+[4] Working with Emotional Intelligence, page 40 (Daniel Goleman, 1996)
+
+[5] Ibid.
+
+[6] William Swing advises graduates to follow their passions, not someone else’s (Stanford Report, 2007)
+
+ 
+
+For Further Reading
+
+Talk About It
+
+- Making Feedback Less Stressful (HBR Webiner Slides)
+
+- How to Deliver Critical Feedback
+
+- Make Getting Feedback Less Stressful.
+
+Work On It
+
+- Why Change Is Hard
+
+- Safety Is a Resource, Not a Destination
+
+- How Leaders Create Safety (and Danger)
+
+- Accountability and Empathy (Are Not Mutually Exclusive)
+
+- Getting Coaching for Your Team
+
+Resolve It
+
+- Don't Wait
+
+- The Fine Art of Levelling
+
+- On Firing a Senior Team Member
+
+- Merciful Exits (On Under-Performing Executives)
+
+Learn from It
+
+- The Ruling Out of Possibilities (On Failure)
+
+- Daniel Kahneman on Conducting Better Interviews
+
+- Learning How to Learn
+
+ 
+
+Photo by Brendan Zim.
+

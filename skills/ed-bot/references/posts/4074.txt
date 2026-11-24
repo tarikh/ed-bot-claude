@@ -1,0 +1,73 @@
+---
+title: Merciful Exits (On Under-Performing Executives)
+url: https://edbatista.com/2021/03/merciful-exits-on-under-performing-executives.html
+slug: merciful-exits-on-under-performing-executives
+published: 2021-03-24T11:27:59
+updated: 2025-10-06T06:11:35
+source_body: wordpress-html
+---
+
+A theme in my practice is the CEO with an under-performing executive who will ultimately have to be removed from their role. And yet, as I've noted before, this scenario results in one of the most common mistakes made by my clients:
+
+They waited too long when making the difficult decision to fire someone. There were good reasons for the delay--there always are--but in hindsight they generally wish they’d acted sooner, and often all parties would have benefited. [1]
+
+In most cases the CEO is wrestling with complex emotions that contribute to the delay. They empathize with the struggling exec, perhaps because they've been in a similar situation earlier in their own career. There's a feeling of loyalty, which is often mutual--the exec undoubtedly turned down other opportunities to come work for the CEO, and the CEO is grateful for that commitment. And there's always a sense of responsibility--the CEO awarded the exec their current role, and the exec's failure is the CEO's failure as well.
+
+Similarly, even if the CEO isn't consciously aware of the "fundamental attribution error"--the cognitive bias that leads us to ascribe causality to individuals when it's a function of the situation--in most cases they know that an exec's under-performance isn't solely the result of the exec's personal shortcomings. [2] The exec may have inherited a set of intractable problems or a dysfunctional team. There may have been early warning signs that the CEO should have seen or acted upon, or the CEO may have inadvertently contributed to the exec's difficulties.
+
+These factors often add up to an understandable impulse on the part of the CEO to defer necessary changes, in the faint hope that they will be rendered unnecessary. Sometimes this is the result of a CEO who hates disappointing people, avoids conflict, or resists making tough decisions, but in my experience it's more commonly a misguided sense of mercy. They want to be kind.
+
+The paradox is that leaving an under-performing exec in place can actually be a form of cruelty. The late Peter Drucker, one of the 20th century's greatest management thinkers, spells this out in explicit detail. This passage from 1966 shows its age in its gendered language, but his point remains as relevant as ever:
+
+It is the duty of the executive to remove ruthlessly anyone--and especially any manager--who consistently fails to perform with high distinction. To let such a man [sic] stay on corrupts the others. It is grossly unfair to the whole organization. It is grossly unfair to his subordinates who are deprived by their superior's inadequacy of opportunities for achievement and recognition. Above all, it is senseless cruelty to the man himself. He knows that he is inadequate whether he admits it to himself or not. Indeed, I have never seen anyone in a job for which he was inadequate who was not slowly being destroyed by the pressure and the strains, and who did not secretly pray for deliverance. [3]
+
+I take issue with the word "ruthlessly" in that passage, but I don't think Drucker truly meant that leaders should act "without pity or compassion." I think he meant that leaders shouldn't let pity and compassion prevent them from doing what's in the best interests of the organization and their other employees.
+
+To be clear, I'm not suggesting that a CEO should terminate an exec as soon as there are concerns about performance--that's counter-productive in a number of ways. Senior executive searches are time-consuming and expensive. Excessive turnover on a leadership team creates a climate of fear and prevents the members from developing the trust and safety that are necessary for optimal collaboration. [4] And immediately assigning blame for under-performance to an individual exec masks the other factors that are almost certainly part of the problem, as noted above. So there are many reasons for a CEO to invest in an under-performing exec and attempt to help--this is one of a CEO's primary obligations. [5]
+
+That said, by the time a CEO raises concerns about an under-performing exec in a coaching session with me, rather than acting hastily they've almost always given the matter a great deal of thought and are now feeling stuck. A useful question at that point is "Are you trying to decide whether to fire this person--or how?" When the response is "whether," we explore how the CEO can provide more effective coaching and feedback [6]--which usually involves more direct and candid critical feedback regarding performance [7]--as well as other potential interventions and means of gathering data.
+
+But sometimes the response is "how," and it's then that the CEO often realizes they've waited too long. At that point two further questions can help the CEO determine how to proceed: "What do you owe this person?" and "What do you NOT owe them?" My clients' responses have been very consistent over the years:
+
+I owe them...
+
+- Honesty. The exec needs to know that their performance hasn't met expectations. Withholding this information does them no favors, inhibits their growth, may even prevent them from succeeding elsewhere in the future.
+
+- Fairness. The news shouldn't come as a complete surprise, and it should be coupled with an appropriate severance package. It's unrealistic to put senior execs on "performance improvement plans," but optimally an exec who's being removed from their role has had an opportunity to turn things around (even if they would have wanted more time), and feels that their severance is reasonable (even if they would prefer more generous terms.)
+
+- Dignity. Exits proceed far more smoothly when the exec feels that they're being treated with respect, which entails not only such issues as the timing of their departure, the opportunity to say goodbye to colleagues, and an agreed-upon public narrative, but also the tone employed in all communication, particularly with the CEO. (And in my experience former execs don't bring wrongful termination suits simply because they disagree with the decision or the terms, but because they felt disrespected in the process.)
+
+I DON'T owe them...
+
+- A permanent role. Senior leaders must keep pace with the changes in their environment, particularly in rapidly growing organizations. Under-performing execs were often successful at an earlier stage of the business, but their skills and capabilities are now no longer sufficient to meet the current demands of their role.
+
+- Special treatment. An exec's under-performance is often readily apparent to their peers on the leadership team, and the CEO who avoids taking action because of a prior relationship, work history, or other factors runs the risk of undermining the entire team's performance.
+
+- A debate. While the CEO should expect that the exec will want to negotiate the terms of their departure, such as timing or compensation, if the CEO has definitively made the decision to remove the exec from their role it's important to avoid getting into a debate about the decision. When a termination conversation becomes a debate in which the exec seeks to overturn the CEO's decision, there are typically only two outcomes: The decision stands, but now the process has become more acrimonious, or the decision is temporarily delayed, and the inevitable has merely been postponed, wasting everyone's time in the process.
+
+When such situations are handled perfectly, the CEO and the exec both admit that it's the right move (albeit a regrettable one), reach mutual agreement on terms, and part ways amicably, perhaps even willing to work together again. But that's a very high standard, and it's not often achieved. More typically the CEO must make a good-faith effort to provide the exec with honesty, fairness, and dignity, while expecting that the exec will disagree with the decision as well as some or all of the proffered terms. But even in those cases it's eminently possible to avoid personal rancor, minimize the disruption to the organization, and provide the individual in question with a merciful exit.
+
+This is a companion piece to:
+
+- On Firing a Senior Team Member
+
+- The Fine Art of Levelling
+
+Footnotes
+
+[1] Don't Wait
+
+[2] The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process (Lee Ross, Advances in Experimental Social Psychology, 1977)
+
+[3] The Effective Executive, pages 87-89 (Peter Drucker, 1966)
+
+[4] How Leaders Create Safety (and Danger)
+
+[5] Three Buckets (On CEO Job Descriptions)
+
+[6] Coaching and Feedback Tools for Leaders
+
+[7] How to Deliver Critical Feedback
+
+Photo by Kurt Bauschardt.
+

@@ -1,0 +1,69 @@
+---
+title: Growth, Profitability and Return on Attention
+url: https://edbatista.com/2015/02/return-on-attention.html
+slug: return-on-attention
+published: 2015-02-09T05:00:00
+updated: 2025-10-07T18:31:28
+source_body: wordpress-html
+---
+
+When considering different tasks, projects, opportunities--and people--how should we decide where to focus our time and energy? If our attention is our most precious resource, how can we determine where to invest it and what returns we should expect?
+
+A recent conversation with colleagues about where to focus our efforts over the coming year reminded me of the growth-share matrix, more commonly known as the "BCG matrix" because it was developed by Bruce Henderson of the Boston Consulting Group or the "cash cow matrix," a term that Henderson may have coined and certainly popularized. [1]
+
+The concept arose out of BCG's work advising corporate clients on which businesses or product lines to invest in. The matrix maps market growth rate (a measure of the potential size of the business) across market share (an indicator of profitability through economies of scale and resistance to competition), and different opportunities can be sorted into one of four quadrants, each of which suggests a specific investment strategy:
+
+- Low growth/low market share: These are Dogs, and returns will be minimal. Get out of these businesses as soon as possible.
+
+- Low growth/high market share: These are Cash Cows, which will generate consistent, predictable returns but won't expand significantly. Maintain the necessary level of investment, but don't commit more resources than are required to sustain current operations.
+
+- High growth/low market share: These are Question Marks, because it's unclear if the potential growth can be realized through increased investment. Explore these opportunities further before making any long-term commitments.
+
+- High growth/high market share: These are Stars, because additional investment will yield significantly increased returns. Double down on these opportunities now.
+
+As an executive coach I don't advise my clients or students on financial investment strategies, but a consistent theme in my practice and my work at Stanford is helping people determine where to spend their time and energy.
+
+The growth-share matrix provides a useful framework to determine which tasks, projects, opportunities and people we should focus on. What we're gauging isn't necessarily financial results but rather our return on attention, a more subjective measure, to be sure, but, I'd argue, a more important one.
+
+Focused attention is both finite and our most precious resource. Spend a dollar, we can always earn another one. Direct our attention somewhere, for any amount of time, and we'll never get it back. Although our store of focused attention is replenished overnight, we begin each day with a limited amount and deplete it steadily. And as I wrote recently, attention is even more important than time, because the former "merely passes, while focused attention makes things happen. When we’re able to gather and direct our attention toward a particular task or interaction, we can have a significant impact in a minimal amount of time." [2]
+
+So how might we use this framework to assess our ROA--the return on our attention? In this context I consider "potential growth" in the broadest possible sense--not merely the size of the opportunity, but the possibility of achieving meaningful personal and professional growth as a result.
+
+Similarly, here I think of "profitability" not simply as a function of market share, but rather a measure of our ability to capitalize on an opportunity quickly, efficiently and with minimal stress and effort.
+
+Dogs are those tasks, projects and other opportunities that offer both low growth and marginal profits. We're not going to be transformed or stretched by them, and they may consume significant amounts of time and energy. Success will be stressful and will require substantial effort.
+
+The conclusion? Don't do them. If we're already engaged, stop. Learn to say "No." [3] This may be difficult, because presumably someone cares about this work, and we may have to overcome others' resistance or our own feelings of guilt and obligation. The risk here is the opportunity cost--we are spending our precious attention on efforts that will never repay that investment, while ignoring others that might.
+
+Cash Cows aren't opportunities for meaningful personal or professional growth, but they're highly profitable. We can execute the related tasks and projects relatively quickly and efficiently, and even if they're complex, large-scale efforts they're not all that stressful to deliver.
+
+The conclusion? Determine how much attention and energy are required to sustain the current level of success, and don't invest any more than necessary. The risk here is twofold: We can take these efforts for granted and fail to sustain them, but it's equally costly to pour additional resources into an already successful effort with no expectation of significant growth.
+
+Question Marks are mysteries, and we need to learn more about them before taking decisive action. The growth potential is clear, but the profitability is uncertain. We expect to be stretched and challenged by these efforts, but at what cost? They may be too time-consuming or stressful to be worth the effort.
+
+The conclusion? Investigate further before making any commitments. Fully understand what resources will be required to deliver success, and how much time and energy will be consumed in the process. Some of these may be Stars, but some will surely be Dogs, and the risk here is that we fail to tell the difference.
+
+Stars are those great sources of joy and fulfillment in life. We know we'll experience meaningful growth through these efforts, and the process will be highly profitable. The ROA is off the charts. This may mean that we can execute quickly or efficiently, or that the experience itself will be gratifying, or that the rewards--material and otherwise--will be substantial.
+
+The conclusion? Do more. Start today. And the risk here is simply that we miss these opportunities because our attention is being spent--or even wasted--elsewhere.
+
+Footnotes
+
+[1] BCG Classics Revisited: The Growth Share Matrix (Martin Reeves, Sandy Moose, and Thijs Venema, 2014)
+
+[2] To Stay Focused, Manage Your Emotions
+
+[3] Learning to Say "No" Is Part of Success
+
+Here's a condensed deck of this post:
+
+Photos:
+
+- Question Marks by Véronique Debord-Lazaro.
+
+- Stars by Hubble Heritage.
+
+- Pug by Alex Brown.
+
+- Cow by Steven Zolneczko.
+

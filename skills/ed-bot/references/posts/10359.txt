@@ -1,0 +1,79 @@
+---
+title: Fishbowl Coaching (A Group Exercise)
+url: https://edbatista.com/2023/08/fishbowl-coaching-a-group-exercise.html
+slug: fishbowl-coaching-a-group-exercise
+published: 2023-08-09T12:52:03
+updated: 2025-09-25T14:24:10
+source_body: wordpress-html
+---
+
+I encourage my clients to view coaching as a way of interacting with employees that should be a part of their leadership toolkit. The goal is for them to integrate coaching alongside their other tools and ways of interacting with employees, not to supplant those tools entirely, or to act as though their relationships with employees are the equivalent of a coach's relationships with their clients.
+
+If you're a leader who's interested in this approach, you may feel daunted. What would this look like? How will you know if you're having the desired effect? How can you improve your coaching skills? Here is a simple exercise that can be conducted by a small group in under an hour, with separate suggestions for in-person and virtual events, additional notes for event facilitators, and some technical tips for virtual events.
+
+PRE-READING (OPTIONAL)
+
+- Connect, Reflect, Direct...Then Ask (On Coaching)
+
+- How Great Coaches Ask, Listen, and Empathize
+
+- Leading in Four Dimensions
+
+- Feedback Is Not a Gift
+
+ 
+
+OPENING: If 6 or more people are participating, split up into small groups. Each group must have at least 3 people. Each person in the group should think of a real-life situation on which they're willing to be coached and come up with a concise description of the scenario. If there are multiple groups, the length of time for the steps below should be determined in advance so that each group stays on schedule.
+
+- In-Person: If there are multiple groups, spread out so you have some privacy from each other and won't be distracted by the work of other groups.
+
+- Virtual: Ensure that everyone has the necessary technical tools to participate effectively. (See the Tips for Virtual Events below.) If there are multiple groups, identify them in advance and assign them to different virtual rooms.
+
+STEP 1: One person in the group volunteers to coach. It's important for the coach to identify themselves first. Then one person in the group volunteers to be coached on their scenario--they are the "coachee." The other group members will be observers, and in the absence of a facilitator one of the observers should be designated as timekeeper.
+
+STEP 2: The coach and coachee conduct a brief coaching session of roughly 10 to 15 minutes. The coachee should very briefly describe their scenario to the coach. This should not be a lengthy, detailed monologue. The intent is to give the coach just enough context to get started, and then allow them an opportunity to begin the coaching dialogue. The observers should keep notes on the coach's behavior--their questions, statements, body language, facial expressions, demeanor, etc.
+
+- In-Person: The coach and coachee should be seated next to each other. The other observers should be seated nearby and close enough that they can clearly hear the conversation, while leaving the coach and coachee enough space to allow them to focus on each other. 
+
+- Virtual: Optimally the coach and coachee are the only parties visible onscreen. If participants can only designate one party to be visible, select the coach, not the coachee.
+
+STEP 3: At the time limit, the coaching session is concluded. If there are multiple groups, all groups must transition simultaneously. This will inevitably result in the coaching being interrupted, leaving the issue unresolved. This is perfectly fine and actually necessary. If the coach and coachee keep trying to reach a resolution, the coach will be robbed of the learning opportunity that is the whole point of the exercise. Now the entire group conducts a 10 to 15 minute discussion to provide feedback to the coach. The coach and coachee are active participants in the process alongside the observers. This completes one round of the exercise--return to Step 1 and repeat until everyone has had an opportunity to act as coach, coachee and observer.
+
+ 
+
+NOTES FOR FACILITATORS
+
+If you're conducting this exercise with a number of participants, here are some guidelines to bear in mind:
+
+- Whether or not the participants have completed the optional pre-reading, you may elect to open the exercise with a brief training session on one or more coaching skills. This shouldn't take longer than 5 to 10 minutes.
+
+- With roughly 20 to 30 minutes per round, you can structure the exercise in a variety of ways, depending on the number of participants, the available time, and the amount of space in the room for in-person events.
+
+- If you have a lot of people and relatively little time, use trios. If you have ample space for an in-person event, have them spread out to avoid distractions and increase privacy. This can allow you to get through the entire exercise with all three people acting as coach, coachee and observer in an hour.
+
+- If you have a smaller number of people but a longer span of time, you can use larger groups of 4, 5, etc. This will allow for a broader range of feedback to the coach, although it will take longer to give everyone an opportunity to be coach, coachee and observer over the course of the exercise. (That isn't absolutely necessary but is optimal.)
+
+- If you have limited space for an in-person event, you can use a smaller number of larger groups (4, 5, etc.) although it will take longer to allow everyone to play all 3 roles, if desired. Note that with just 2 groups the participants may be distracted by the other group's conversation, so at least 3 groups is generally preferable.
+
+- You can include or omit lessons on additional skills in between rounds, but once the groups understand the process they may develop some momentum, making additional lessons feel like an interruption.
+
+- Exercises like this have the potential to be more meaningful when participants trust the group. Remind everyone that their observations are to remain confidential.
+
+- If possible, after completing all rounds of the exercise an open question-and-answer session involving all participants can be a way to share lessons learned across groups.
+
+TIPS FOR VIRTUAL EVENTS
+
+- Privacy: Find a private space in which you won't be interrupted or distracted. If it's possible that other people with you might overhear your conversation, wear headphones to insure the privacy of the other participants.
+
+- Tools: In a virtual event the quality of the tools we use and the surrounding environment can have a big impact on the quality of the dialogue. Ensure that you’ll have uninterrupted access to a broadband connection. Consider using an outboard camera and microphone for better image and sound quality. Pay particular attention to your lighting and your background.
+
+- Presence: Virtual events can be meaningful only to the extent that everyone participating is fully present and actively involved. Turn off any devices, services or alarms that might distract you. Multi-tasking will be obvious to the other participants and will diminish the sense of safety and trust in the group. Strive to be fully present and make it as easy as possible to do so.
+
+- For Further Reading: Better Conditions for Working Remotely
+
+ 
+
+Many thanks to Carole Robin, who first introduced me to a version of this exercise at the Stanford Graduate School of Business when I was on her staff in the school's Leadership Coaching and Mentoring class, circa 2008.
+
+Photo by Dean McCoy.
+

@@ -1,0 +1,17 @@
+---
+title: Where's My Aggregator?
+url: https://edbatista.com/2005/01/wheres_my_aggre.html
+slug: wheres_my_aggre
+published: 2005-01-20T19:54:47
+updated: 2025-10-26T21:12:07
+source_body: wordpress-html
+---
+
+Remember when you got just a few emails a day, and each one was like a little gift, waiting to be unwrapped?  Now even personal messages feel like work, and  dealing with your inbox is a chore.  The same thing is happening with blogs and other frequently updated sites we like to--or must--keep up with.  There are simply too many of them to manage effectively.
+
+Everyone's saying that RSS is the answer, and I don't disagree.  But RSS in and of itself doesn't do a thing for me--I need an aggregator or a news reader to put it to use.  I've had a Bloglines account for a few months, but I haven't used it much.  It was recommended by my friend Hunter Walk, one of the smartest people I know, so I had high hopes at first.  But I don't like it.  It's ugly and boring.  Most of the sites I frequent are well-designed, or at least interesting to look at.  Not Bloglines.  Sure, it's more efficient than clicking around from site to site, and it's reasonably easy to use.  But it's not visually stimulating, and it's not much fun, so I don't use it--I just visit the sites I'm interested in on an almost random basis.  But that's not going to work for much longer.
+
+I need something better--something that's as, uh, stylish (see below) as the sites I'm visiting.
+
+UPDATE: Hunter's comment spurred me to give Bloglines a fair shake and try to use it more effectively.  I'm still not 100% satisfied, but in fairness, it is a tool that works better when you're a better user.  Score one for Mr. Walk.
+

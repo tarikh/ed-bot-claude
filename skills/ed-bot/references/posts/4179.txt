@@ -1,0 +1,145 @@
+---
+title: Why We Crave Attention (and What We Can Do About It)
+url: https://edbatista.com/2023/04/why-we-crave-attention-and-what-we-can-do-about-it.html
+slug: why-we-crave-attention-and-what-we-can-do-about-it
+published: 2023-04-02T15:57:42
+updated: 2025-09-24T11:58:01
+source_body: wordpress-html
+---
+
+The subject of attention has been a preoccupation of mine since 2005, when I first began to appreciate its value and its power. [1] What we pay attention to matters, particularly for leaders, as I've noted before:
+
+A leader’s most precious resource is not their time. It’s their focused attention. Time merely passes, while focused attention makes things happen. When we’re able to gather and direct our attention toward a particular task or interaction, we can have a significant impact in a minimal amount of time. But when we’re unable to bring our attention to bear on the work at hand, all the time in the world is insufficient. [2]
+
+Attention isn't merely an individual resource--it's a social one. The collective attention of a group of people has a powerful effect, particularly when we are the object of its focus. This is a key theme in Status Anxiety by contemporary philosopher Alain de Botton, who suggests that we pursue various forms of status in order to obtain love--not romantic love, but what he calls "love from the world":
+
+The predominant impulse behind our desire to rise in the social hierarchy may be rooted not so much in the material goods we can accrue or the power we can wield as in the amount of love we stand to receive as a consequence of high status. Money, fame and influence may be valued more as tokens of--and means to--love rather than ends in themselves. [3]
+
+A significant influence on De Botton's line of reasoning is Adam Smith's Theory of Moral Sentiments, which discusses attention explicitly:
+
+It is chiefly from this regard to the sentiments of mankind, that we pursue riches and avoid poverty. For to what purpose is all the toil and bustle of this world? What is the end of avarice and ambition, of the pursuit of wealth, of power and preeminence? Is it to supply the necessities of nature? The wages of the meanest laborer can supply them...
+
+What are the advantages which we propose by that great purpose of human life which we call bettering our condition? To be observed, to be attended to, to be taken notice of with sympathy, complacency and approbation, are all the advantages which we can propose to derive from it. It is the vanity, not the ease, or the pleasure, which interests us. But vanity is always founded upon the belief of our being the object of attention and approbation. The rich man glories in his riches because he feels that they naturally draw upon him the attention of the world...
+
+The poor man, on the contrary, is ashamed of his poverty. He feels that it...places him out of the sight of mankind... To feel that we are taken no notice of, necessarily damps the most agreeable hope, and disappoints the most ardent desire, of human nature. [4]
+
+I find Smith and De Botton's argument deeply thought-provoking: Why do we pursue wealth, power and status? Not for the material rewards alone, but for the attention. It is attention we crave, and we feel its absence acutely. This offers a compelling explanation for much behavior that otherwise seems curious or counterintuitive:
+
+- A theme in my coaching practice is the ambivalence many leaders feel about their engagement with social media. They want to represent their organization, build credibility, and maintain relationships, but they often find the experience stressful or distracting. And yet when they opt out they feel anxious and guilty.
+
+- During my 15 years at Stanford's Graduate School of Business, I taught over 1,000 MBA students, and held countless conversations with them about their career plans. A disproportionate number were drawn to high-profile opportunities with a low likelihood of success and had little interest in fields that promised a reliable path to wealth but were less socially prominent.
+
+- Tragically, there's a Wikipedia page tracking selfie-related accidents, which currently reports that 379 people have died in such incidents since 2008. [5] That's a minuscule number--more than 13,000 people die every hour. [6] But given the strength of our survival instinct, it's noteworthy that anyone would put themselves in jeopardy for such an ephemeral result.
+
+There are a number of causes behind these phenomena. Leaders possess a strong sense of responsibility and perform many onerous tasks as a result. MBAs believe they should take bigger risks now and pursue a more secure path only if necessary. And some people are just heedless and foolish.
+
+But a thread that connects them is the power of attention: Social media is the ultimate expression of the attention economy, and and the various platforms are carefully engineered to maximize engagement by manipulating attention. [7] Working in a glamorous field is an effective way to attract attention early in one's career, while growing wealthy in a steady but low-visibility industry is not. And when it may be difficult to attract attention by other means, the temptation to do so via a dangerous but eye-catching selfie can override one's good judgment. I'm sure you can think of other examples you've observed--or participated in.
+
+What's going on here? Why does the attention of others exert so much influence over human behavior? One school of thought views this as a moral failing, chastising "attention-seekers" for their seemingly insincere efforts to attract the spotlight. But while some people may go to bizarre lengths in their pursuit of attention, they strike me as different in degree, not in kind, from the rest of us.
+
+I think a more accurate and less judgmental explanation can be found in an understanding of evolution and its implications for our emotional life and social structures. Evolutionary psychiatrist Randolph Nesse, who's studied how biological history has shaped the human psyche, makes a telling comment:
+
+Evolution explains the origins of our amazing capacities for love and goodness and why they carry the price of grief, guilt, and, thank goodness, caring inordinately about what others think about us. [8, emphasis mine]
+
+We care deeply about others' opinions of us, and the most fundamental aspect of this process is whether or not they are paying attention to us. Recall Adam Smith: "To feel that we are taken no notice of, necessarily damps the most agreeable hope, and disappoints the most ardent desire, of human nature." We may think of such emotions as uniquely personal, arising out of our singular life experiences. But Nesse cites the eminent biologist Edward O. Wilson to disabuse us of this notion:
+
+Love joins hate; aggression, fear; expansiveness, withdrawal; and so on; in blends designed not to promote the happiness of the individual, but to favor the maximum transmission of the controlling genes. [9]
+
+So our emotional apparatus and the subjective feelings it gives rise to serve to support our evolutionary fitness and the ability to transmit our genes. Presumably, then, our craving for others' attention and the anxiety and dismay resulting from its absence offers an evolutionary advantage. To understand this, we need to consider the importance of our social nature as a species.
+
+Like all primates, humans evolved to rely upon social structures to obtain resources and to defeat or evade threats. Work by anthropologist Robin Dunbar shows that early humans were able to establish groups of approximately 150 members, a much larger number than our evolutionary rivals. [10] This advantage allowed us to dominate the planet, but it came at a cost--we faced the greatest competition for resources (most notably mating opportunities and food) from within the group. Neuroscientist Matthew Lieberman suggests that this intra-group pressure led us to focus intensively on our social environment, giving rise to a keen sensitivity to our relative group status:
+
+Evolution, figuratively speaking, made a big bet on the importance of developing and using our social intelligence for the overall success of our species by focusing the brain's free time on it... The repeated return of the brain to this social cognitive mode of engagement is perfectly situated to help us become experts in the enormously complex realm of social living... In essence, our brains are built to practice thinking about the social world and our place in it." [11, emphasis original]
+
+As with so many aspects of our psychology, all of these dynamics are "features" for the species that often manifest as "bugs" in our individual experience. Our distant ancestors who were more attuned to their social standing as a consequence of the emotions generated by others' attention (and its absence) were more likely to pass on their genes. Their more oblivious contemporaries were at greater risk of losing social status, losing competitions for resources, and losing opportunities to pass on their genes.
+
+The result, after 200,000 years and some 10,000 human generations, is that we're acutely sensitive to others' attention and the feelings that arise from its presence or absence. Being the "center of attention" can lead some people to feel flustered or self-conscious, so more attention isn't always better (although even embarrassment is socially adaptive. [12]) But a craving for attention is a potent driver of emotions and behavior.
+
+Perhaps you're like my clients, feeling ambivalent about your relationship with social media but unable to disengage. Or you're like some of my former MBA students, forgoing financially preferable options in search of greater visibility. Or maybe you've even done something foolish while taking a selfie. If these examples of attention-seeking behavior aren't relevant to you, I suspect you can identify numerous others that are.
+
+To be clear, there's nothing "wrong" with such behavior--my intention here is to show that these responses are the predictable result of the way our minds work, and to portray the benefits of these dynamics as well as the costs. But the benefits are spread across homo sapiens as a collective, while we bear the costs as individuals--a burden that seems to be increasing as the "attention economy" evolves.
+
+Further, when we bear in mind the well-established psychological principle that "bad is stronger than good," [13] it's apparent that attention-seeking behavior is driven more by our anxiety and dismay at the prospect of being ignored than by any satisfaction we derive from being noticed, which at the very least renders life more stressful. So what can we do? What helps?
+
+Self-Awareness
+
+Understanding why we do what we do starts with acknowledging and even embracing the flaws and foibles of our psyches. It's important to remind ourselves that we can't overcome evolutionary psychology, nor would we want to, given the potential benefits of these dynamics. In practice this entails a greater degree of mindfulness, which therapist and meditation teacher Linda Graham defines simply as "nonjudgmental awareness and acceptance of experience," [14] and which I describe as follows:
+
+Mindfulness need not be viewed as an esoteric or mystical subject, although it's often perceived that way. It's merely the process of noticing what's happening around us, observing where our attention is going as a result, and sensing our cognitive, emotional and physical responses. A heightened sense of mindfulness allows us to direct our attention toward an intended object of focus and away from undesirable distractions. [15]
+
+Note the relationship here between our awareness of others' attention (or its absence) and the impact on our own. Our craving for others' attention evokes a host of emotions, which we invariably find captivating because "emotions are attention magnets." [16] Mere awareness of these feelings isn't sufficient to alter our emotional experience, but in its absence they will exert a powerful influence on our behavior--occasionally to our detriment.
+
+Emotion Regulation
+
+At the most basic level, emotions alert us to perceived opportunities and threats, and we move toward the former with excitement and away from the latter with apprehension. As evolutionary psychiatrist Nesse notes, this typically helps us achieve our social goals more effectively--but not always:
+
+The utility of an emotion depends entirely on the situation. In the face of threats or losses, anxiety and sadness are useful, but happy relaxation is worse than useless. When opportunities emerge, desire and enthusiasm are useful, but worry and sadness are harmful... If only all situations were so simple. For humans trying to navigate inordinately complex social networks, almost every situation involves conflicting opportunities, risks, gains, and losses, with vast complexity and uncertainty. [17]
+
+The anxiety evoked by an insufficiency of others' attention and the pleasure that accompanies a surfeit can certainly be helpful sources of data in guiding behavior--this is a key lesson of evolutionary psychology. The dilemma is that emotions are a "quick and dirty signal," in the words of neuroscientist Joseph LeDoux, which can sometimes lead us off course. [18] Compounding the problem is our immersion in the increasingly subtle machinery of the "attention economy," which is designed to stoke our emotions--sometimes for better, often for worse, always for the benefit of the platform.
+
+While we can't control the emotions evoked by others' attention (or its absence), once we're more aware of those feelings we can intervene to regulate them. It's essential to bear in mind that emotion regulation does not mean suppressing our feelings. Suppression is an act of make-believe--we pretend we're not feeling what we're feeling and hope to distract ourselves until the feeling passes. We can do this for short periods, but not for an extended length of time, and the effort may even be counter-productive. In contrast, emotion regulation involves improving our ability to sense, comprehend, articulate and express what we're feeling, and we develop those skills by getting closer to our emotions, not by distancing ourselves from them. [19]
+
+Intentional Action
+
+Neuroscience research going back several decades makes clear that emotions are vitally important inputs to the reasoning process, the occasional "noisy signal" notwithstanding. [20] But with a greater capacity to influence--as opposed to control--our emotional experience, we can allow those feelings to inform our behavioral choices with greater forethought. We can act more intentionally.
+
+I'm not suggesting that our every move should be planned out in advance. As I learned many years ago, at times we're best served by acting instinctively, with a high degree of spontaneity and in the absence of self-consciousness. [21] But even the decision to adopt that stance can be an intentional one, rather than a reflexive response triggered by anxiety or apprehension.
+
+So perhaps you do stay active on social media--but you do so intentionally, sharing what truly interests you rather than inflammatory content that drives engagement, without obsessing over likes or follower counts, and logging off without anxiety. And perhaps you do pursue that risky venture--but you do so intentionally, driven by a search for meaning and purpose in your work, rather than a desire to impress others or a fear of missing out. And perhaps you even take that eye-catching selfie--but maybe you just fake it. [22]
+
+This is a companion piece to the following:
+
+- Attention Surplus Disorder (Anxiety and Distraction)
+
+- Why You Can't Stop Thinking About Something
+
+- A Better Information Diet
+
+Footnotes
+
+[1] In 2005 I was so inspired by Seth Goldstein's analysis of the potential value of metadata that I spent a year working with him and numerous others on an effort to empower people to gather and make use of their own "attention data." I left that role to launch my coaching practice in 2006, but my immersion in that world impressed upon me the importance of attention, a perspective that has heavily informed my work with clients and students in the years since. A compilation of my writing on attention through 2019 can be found at the conclusion of A Better Information Diet.
+
+[2] To Stay Focused, Manage Your Emotions
+
+[3] Status Anxiety, page 6 (Alain de Botton, 2005)
+
+[4] The Theory of Moral Sentiments, Section III, Chapter II (Adam Smith, 1759, pages 62-63 in the 2010 edition. An abridged version is cited on page 5 of Status Anxiety.)
+
+[5] List of selfie-related injuries and deaths (Wikipedia)
+
+[6] How Many People Die Each Day in 2023? (World Population Review)
+
+[7] A Better Information Diet
+
+[8] Good Reasons for Bad Feelings: Insights from the Frontier of Evolutionary Psychiatry, page xv (Randolph Nesse, 2020)
+
+[9] Sociobiology: The New Synthesis, page 4 (Edward O. Wilson, 1975/2000, and cited on pages 48-49 of Good Reasons for Bad Feelings)
+
+[10] Neocortex size as a constraint on group size in primates (Robin Dunbar, Journal of Human Evolution, 1992)
+
+[11] Social: Why Our Brains Are Wired to Connect, pages 19-22 (Matthew Lieberman, 2013)
+
+[12] The Value of Embarrassment
+
+[13] Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen Vohs, Review of General Psychology, 2001)
+
+[14] Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being, page 51 (Linda Graham, 2013)
+
+[15] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[16] Why You Can't Stop Thinking About Something
+
+[17] Good Reasons for Bad Feelings: Insights from the Frontier of Evolutionary Psychiatry, pages 55-56
+
+[18] The Emotional Brain: The Mysterious Underpinnings of Emotional Life, page 163 (Joseph LeDoux, 1998)
+
+[19] Adapted from The Tyranny of Feelings.
+
+[20] Antonio Damasio on Emotion and Reason
+
+[21] Awareness and Spontaneity
+
+[22] Two favorite examples: Photograph of Cliff Hanger Isn't Quite What It Seems (Dan Evon, Snopes, 2015) and Pilot says he Photoshops his selfies, and yet somehow people still think they're real (Gianluca Mezzofiore, Mashable, 2017)
+
+Photo of The National by Matt Biddulph.
+

@@ -1,0 +1,29 @@
+---
+title: Net Promoters
+url: https://edbatista.com/2005/05/net_promoters.html
+slug: net_promoters
+published: 2005-05-19T06:02:07
+updated: 2005-05-19T06:02:07
+source_body: wordpress-html
+---
+
+Mark Hurst posted yesterday on Fred Reichheld's concept of Net Promoters, which can be defined as the number of customers/donors/users who are willing to promote your organization to their friends and colleagues compared to the number of people who aren't--or who may even slag you off.
+
+When Reichheld, a former Bain bigwig, first started, er, promoting this concept about a year ago, it was seen as something of a departure from his previous work on customer loyalty.  Britton Manasco had a nice synopsis on Corante a while back that quoted Reichheld:
+
+"[Customer] retention rates have not progressed over the last decade. Where the rubber meets the road, customers are not demonstrating loyalty.... No one defined what loyalty was. There was no measurement, no link to profitability or growth. There was a lack of definition. What is loyalty? If what you mean is putting up with lousy value or service, do you want stupid customers?"...While [Reichheld] still believes companies should measure customer profitablity, he thinks they should also be identifying the "promoters" and "detractors" among their customers. Obviously, the objective is to increase the number of promoters..."The median ‘net promoter score’ is just above 10%," says Reichheld in Direct Magazine. "Most companies have 10% more promoters than detractors. But the best companies have 80% more. The net of promoters minus detractors doesn't show up in profit and loss statements, but detractors destroy your future and make your employees feel lousy.
+
+Mark considers the implications of this concept for your marketing efforts:
+
+Good experience sells itself. Note that "net promoter" says nothing - absolutely nothing - about how well your service is marketed via TV ads, promotional giveaways, or other traditional channels. It's the customers themselves who do the selling - and only then based on the actual experience they had. The best TV ad in history, plus a bad customer experience, equals a bad referral and a poor "net promoter" metric.
+
+This is not to recommend pulling all advertising budgets, and it's not predicting the end of advertising. Those traditional channels will be with us for the long-term; it's the budget for customer experience that I think should, and inevitably will, see a change for the better.
+
+I think this is an important step in the evolution of the by-now-cliched concept of viral marketing.  "Viral" just described how the process worked--people carried your message to their friends and colleague.  But thinking about your promoters makes you consider who is doing this and why they're doing it. Mark's absolutely right to focus on the quality of customer experience as the fundamental driver of this process.  (His site isn't called Good Experience for nothing.)
+
+In my world, nonprofits far too often view the quality of customer/donor/client/user experience as a secondary issue--something that would be nice to have, but not something they're willing to invest resources in (or even think seriously about.)  This is reflected in the shoddy, make-do quality of so many nonprofit events, publications and websites.  And it's not just a function of tight budgets--we've all seen massive companies waste gobs of money on websites and other services that provide terrible user experiences, and I've certainly seen lean, thoughtful, grassroots organizations deliver outstanding user experiences on miniscule budgets.
+
+Money helps, but its presence doesn't insure success, and its absence doesn't insure failure.  And as per Mark's comments, intelligent investments in user experience may be the best way to get around an inadequate marketing budget.  There's nothing prohibiting cash-constrained nonprofits from becoming positive net promoter organizations, but the first step toward that +80% level Reichheld cites is simply recognizing that user experience matters.  You should always be looking at your organization from the perspective of your donors, volunteers, advocates, and other "customers."  What can you do that would make them feel respected, listened to, satisfied, even thrilled?
+
+This ain't rocket science, but it's striking to see how many organizations still don't get it, and continue to look at the world from the inside out, from their perspective, rather than trying to look at their organization from the outside in, from their users' perspectives.  But that may be a luxury they can't afford any longer.
+

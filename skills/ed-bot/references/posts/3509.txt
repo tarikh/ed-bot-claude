@@ -1,0 +1,49 @@
+---
+title: The Problem with Positive Feedback
+url: https://edbatista.com/2007/02/the_problem_wit.html
+slug: the_problem_wit
+published: 2007-02-13T00:52:00
+updated: 2025-10-06T11:00:34
+source_body: wordpress-html
+---
+
+A common theme in my coaching and teaching is the ineffectiveness of positive feedback. It frequently fails to make an impact, and at times it can even cause intense anxiety. But isn't praise supposed to make us feel good? What's happening here? I see three factors at work:
+
+1. Waiting for the Other Shoe
+
+When we deliver negative feedback (or any unpleasant message), we often try to soften the blow by leading with something positive. As a result, people on the receiving end may come to hear positive feedback as a hollow preamble to the real message. Rather than feeling genuinely appreciated, they're waiting for the other shoe to drop.
+
+2. Staying Out of Debt
+
+A related dynamic is the use of positive feedback to overcome resistance to a request or a demand. The feedback can create a sense of obligation, a "social debt" that the recipient feels compelled to "repay" by acceding to the giver's wishes. There's an underlying logic here, but there's also an inherent contradiction: Most people don't like being indebted and don't feel good when they are.
+
+3. Currency Devaluation
+
+Like any currency, positive feedback loses value when there's too much in circulation. Psychologist Richard Farson and business author Ralph Keyes have noted that too much praise can render positive feedback effectively useless: "In the workplace, praise can become what is called a 'dissatisfier.' Like a salary, it is less likely to motivate when it’s given out than demotivate when it’s expected but withheld." [1]
+
+So how can we avoid these traps?  Three recommendations:
+
+1. Don't Abuse Soft Startups
+
+Although research supports the value of "soft startups" that initiate difficult conversations on a positive note, feedback given in that context should be authentic and relevant to the issue at hand. [2] Learn how to deliver critical feedback candidly and directly while minimizing the risk of defensiveness. [3] Don't abuse the soft startup principle by swaddling a substantive critique in superficial praise.
+
+2. Just...Stop
+
+Try giving some positive feedback...and stopping.  Don't overdo it--bear in mind that too much praise will eventually have the same effect as no praise at all.  But by uncoupling positive feedback from any goals other than acknowledging and expression appreciation for the recipient, you can increase its value as a motivator.
+
+3. Be a Better Recipient
+
+Finally, in addition to being more thoughtful about giving positive feedback, we may also need to be more thoughtful about receiving it. [4] If we blindly react to praise with (in Peter Vajda's words below) "skepticism, dis-belief, arm's-length appreciation,and/or embarrassment," that's going to make the giver feel awkward, if not resentful, and it's going to keep us from developing a stronger relationship.  As always in interpersonal dynamics, it's a two-way street.
+
+Footnotes
+
+[1] The Failure-Tolerant Leader (Richard Farson and Ralph Keyes, Harvard Business Review, 2002)
+
+[2] The Value of Soft Startups
+
+[3] How to Deliver Critical Feedback
+
+[4] Make Getting Feedback Less Stressful
+
+Photo by Aaron Matthews.
+

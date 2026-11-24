@@ -1,0 +1,89 @@
+---
+title: Technology and Unhappiness
+url: https://edbatista.com/2016/12/technology-and-unhappiness.html
+slug: technology-and-unhappiness
+published: 2016-12-26T05:00:00
+updated: 2025-10-12T14:17:40
+source_body: wordpress-html
+---
+
+I've always had a general interest in technology, and a few key events stand out in my memory:
+
+- In 1984 my parents bought a Macintosh 128K for the family's use, and I saw the power of desktop publishing as a tool for personal expression.
+
+- In 1994-95 I planned a lengthy, logistically complex motorcycle trip with a friend who lived on the East Coast via email, and I saw the ability of the net to facilitate long-distance, asychronous relationships and communities.
+
+- In 2001 I learned HTML (just enough to be dangerous), and I realized that desktop publishing on the net would be a transformative combination.
+
+- And in 2004 I started using Typepad--still my platform of choice--and the following year I helped two national nonprofits and a web consulting firm launch their very first blogs.
+
+I trot out these old-man stories to demonstrate my appreciation for technology's many contributions, not only to my life but to our shared communal aspirations. I'm no Luddite.
+
+That said, much of my work today as a coach and teacher involves helping people reflect on their happiness and fulfillment, and it's clear that technology can have a pernicious impact on those qualities unless we're mindful about the role we allow it to play in our lives. What's happening here?
+
+Technology Accelerates Hedonic Adaptation
+
+As I wrote recently, hedonic adaptation (aka the hedonic treadmill) is "the psychological process by which we readily adapt to improved conditions--and promptly take those improvements for granted." [1] UC professor Sonja Lyubomirsky has noted, "The more we attain, the happier we become. But, at the same time, the more we attain, the more we want, which negates the increased happiness." [2] This is true with regard to any aspect of our material conditions, and it's amplified in the case of technology because of the factors that relentlessly increase the pace of change in the industry. The tools and services that delight us today will seem woefully out of date and inadequate in a remarkably short period of time--perhaps even weeks. I'm not suggesting this is always a bad thing--but we often ignore this downside of "progress."
+
+Technology Facilitates Unhealthy Social Comparison
+
+I've also written about the inevitable process of social comparison:
+
+As we habitually look around us to understand what others are doing--and how they're doing--we inevitably use this data to assess ourselves. Lyubomirsky adds that, "social comparisons arise naturally, automatically, and effortlessly [and have] a profound effect not only on our evaluations of ourselves, but [also] on our moods and our emotional well-being." The issue, she continues, is that "comparisons to other people...are primarily responsible for our feelings of inadequacy and discontent." [3]
+
+The problem is that the online networks that mediate most of our social comparisons today present grossly inaccurate portrayals of our lives. Even if we're not exaggerating or misrepresenting our successes and joyful moments, that's the information we tend to share--we leave out the setbacks, the failures, the dark stuff. So when we compare the messy reality of our own lives with the carefully manicured and curated versions of others' lives that we see online, we tend to feel worse about ourselves. It's no surprise that numerous studies suggest a link between social media usage and depression. [4]
+
+Technology Erodes Boundaries
+
+Many of my coaching clients and MBA students don't lead balanced lives--they're "happy workaholics," and they don't want "life-work balance," even if it were possible to achieve it. But as I've written before, happy workaholics need boundaries: "While balance requires an unsteady equilibrium among the various demands on our time and energy, boundaries offer a sustainable means of keeping things in their proper place." [5] But one of technology's primary functions today is to erode and even eliminate boundaries. We're always wired, always available, always on. In many circumstances this is a great benefit--and in some situations it's a disaster. Deep reflection, full engagement with a challenging problem or a creative endeavor, and basic human intimacy are impossible when we allow ourselves to be constantly interrupted by our devices and distracted by our insatiable need for novelty and stimulation.
+
+So What Can We Do?
+
+There's no simple solution. Hedonic adaptation and social comparison are deeply-rooted psychological processes that we may be able to slow down, but we can't turn off. Our difficulty in setting boundaries is a function of our anxiety and our curiosity, powerful forces we're often unable to resist.
+
+But we can begin to make an effort simply by heightening our awareness of the impact of technology on our happiness and fulfillment, and by experimenting with behaviors that ameliorate the downside:
+
+- Remind ourselves that we apparently managed just fine a few months, years, and decades ago without the latest crop of tools and services, even if we can't imagine how.
+
+- Pause and appreciate what can be done with the current versions, even though we'll inevitably take them for granted.
+
+- Carefully regulate our social media consumption--and note that these environments have been designed to make it difficult for you to do just that.
+
+- Bear in mind that the unrelenting cheerfulness that permeates social media is a fictional representation of reality.
+
+- Turn off every unnecessary alert on our phones. Then turn off the "necessary" ones.
+
+- Remember that every day is a marshmallow test for grownups. [6]
+
+Footnotes
+
+[1] Stop Trying to Be "Good Enough" By "Getting Better"
+
+[2] The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does (Sonja Lyubomirsky, 2014)
+
+[3] Stop Trying to Be "Good Enough" By "Getting Better"
+
+[4] For more on social media and depression, see the following:
+
+- Seeing Everyone Else's Highlight Reels: How Facebook Usage is Linked to Depressive Symptoms (Mai-Ly Steers, Robert Wickham and Linda Acitelli, Journal of Social and Clinical Psychology, October 2014)
+
+- Association Between Social Media Use and Depression Among U.S. Young Adults (Liu yi Lin, Jaime Sidani, Ariel Shensa, Ana Radovic, Elizabeth Miller, Jason Colditz, Beth Hoffman, Leila Giles, and Brian Primack, Depression and Anxiety, January 2016)
+
+- Facebook’s emotional consequences: Why Facebook causes a decrease in mood and why people still use it (Christina Sagioglou and Tobias Greitemeyer, Computers In Human Behahavior, June 2014)
+
+- Facebook Use Predicts Declines in Subjective Well-Being in Young Adults (Ethan Kross, Philippe Verduyn, Emre Demiralp, Jiyoung Park, David Seungjae Lee, Natalie Lin, Holly Shablack, John Jonides, and Oscar Ybarra, PLOS One, August 2013)
+
+[5] Happy Workaholics Need Boundaries, Not Balance
+
+[6] The Marshmallow Test for Grownups
+
+For Further Reading
+
+A Better Information Diet
+
+Adult Thumb-Sucking
+
+Drowning in Feedback
+
+Image: HAL 9000 from 2001: A Space Odyssey, directed by Stanley Kubrick (1968).
+

@@ -1,0 +1,95 @@
+---
+title: The Antidote to "Manager Mode" is Actual Management
+url: https://edbatista.com/2024/09/the-antidote-to-manager-mode-is-actual-management.html
+slug: the-antidote-to-manager-mode-is-actual-management
+published: 2024-09-02T21:53:53
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+This is not the solution.
+
+Management as a concept seems to have fallen into disrepute. In a recent essay Paul Graham described "manager mode" as the unpalatable alternative to "founder mode." But what is Graham really criticizing? He recounts a talk given by Airbnb CEO Brian Chesky:
+
+The theme of Brian's talk was that the conventional wisdom about how to run larger companies is mistaken. As Airbnb grew, well-meaning people advised him that he had to run the company in a certain way for it to scale. Their advice could be optimistically summarized as "hire good people and give them room to do their jobs." He followed this advice and the results were disastrous...
+
+The way managers are taught to run companies seems to be like modular design in the sense that you treat subtrees of the org chart as black boxes. You tell your direct reports what to do, and it's up to them to figure out how. But you don't get involved in the details of what they do. That would be micromanaging them, which is bad.
+
+Hire good people and give them room to do their jobs. Sounds great when it's described that way, doesn't it? Except in practice, judging from the report of founder after founder, what this often turns out to mean is: hire professional fakers and let them drive the company into the ground. [1]
+
+So Graham isn't criticizing actual management. He's criticizing the absence of management, which is an issue I've observed in my practice for years and wrote about in 2022:
+
+It's possible for a less-experienced CEO to get in the way of their senior leaders--but more typically I see the opposite problem. The CEO gives their executives a great deal of space, only to find several months or quarters later that they backed off too far, and some important objectives were neglected and fell into the gap. [2]
+
+Why does this happen? Why do otherwise capable CEOs fail to provide sufficient oversight to senior leaders? And why is Graham's critique of "manager mode" resonating with so many people? In large part because the historic critique of management practices--a decades-old phenomenon, not a recent one--has been so badly misunderstood and so poorly implemented that many leaders are now so fearful of being called a "micromanager" that they fail to provide sufficient management at all.
+
+The concept of "micromanagement" is associated with the work of MIT professor Douglas McGregor, a mid-20th century pioneer in the application of behavioral science to the challenges of organizational life. [3] McGregor offered a compelling critique of the conventional approach to management, which he dubbed "Theory X." He noted that Theory X manifests in both a "hard" version that extracts employee compliance through coercion and threats, and a "soft" version that renders employees pliable by catering to their desires for comfort and security.
+
+While we associate "hard Theory X" with the early industrial era, and it remains common in certain sectors and parts of the world, today we encounter "soft Theory X" almost everywhere in the information economy. But both hard and soft Theory X are rooted in a shared view of human nature: that people are "indolent...lack ambition, dislike responsibility [and] prefer to be led" and therefore must be "persuaded, rewarded, punished [and] controlled" in order to give best effort in pursuit of organizational goals. [4]
+
+McGregor's alternative, Theory Y, takes as its starting point an entirely different set of assumptions about people and their capabilities:
+
+People are not by nature passive or resistant to organizational needs. They have become so as a result of experience in organizations.
+
+The motivation, the potential for development, the capacity for assuming responsibility, the readiness to direct behavior toward organizational goals are all present in people. Management does not put them there. It is a responsibility of management to make it possible for people to recognize and develop these human characteristics for themselves.
+
+The essential task of management is to arrange organizational conditions and methods of operation so that people can achieve their own goals best by directing their own efforts toward organizational objectives.
+
+This is a process primarily of creating opportunities, releasing potential, removing obstacles, encouraging growth, providing guidance. It is what Peter Drucker has called "management by objectives" in contrast to "management by control."
+
+And I hasten to add that it does not involve the abdication of management, the absence of leadership, the lowering of standards, or the other characteristics usually associated with the "soft" approach under Theory X. [5, my emphasis]
+
+It should be obvious that putting these Theory Y principles into practice isn't easy. Finding ways to confront and overcome this difficulty is one of the central themes in my work with clients and in my writing on this site. But compounding the problem is that McGregor's complex and nuanced ideas have been dumbed down to mean "Hire good people and give them room to do their jobs," which often results in "the abdication of management [and] the absence of leadership"--precisely the outcomes that McGregor sought to avoid.
+
+There's a noteworthy and relevant parallel here with the work of Amy Edmondson, whose research has highlighted the importance of psychological safety in organizational life. Sadly, this concept has been misinterpreted to mean, "No one's feelings can get hurt," when it really means "No one should be punished for speaking up and sharing bad news." What has resulted are organizational cultures in which leaders are fearful of being direct and walk on eggshells to avoid giving offense, which are actually psychologically unsafe environments. [6]
+
+So what can we do? First, let's rehabilitate the concept of management. While excessive direction and control on the part of leadership is unlikely to yield the best results from highly-skilled knowledge workers, those workers still need to be managed. They need leaders who are actively involved in the process of determining 1) who will do what by when, 2) to a certain standard of quality, 3) with regular check-ins to assess progress, 4) and the ability to intervene and change course when necessary. That's not "micromanagement"--that's just management.
+
+And yet let's not over-correct in the process. Graham doesn't offer much detail in his definition of "founder mode," other than endorsing engagement with a wide range of employees beyond the leader's direct reports. But he does offer a warning, in his final footnote:
+
+I also have another less optimistic prediction: as soon as the concept of founder mode becomes established, people will start misusing it. Founders who are unable to delegate even things they should will use founder mode as the excuse. [7]
+
+At certain stages in a company's life, the leader must be intensely involved in the most minute details of every aspect of its operations. Some issues will remain under the leader's close scrutiny indefinitely, while others will come and go depending on the context, and the cultivation of the ability to know the difference is an essential leadership skill.
+
+But just as McGregor and Edmondson's ideas have been misunderstood and misconstrued, I fear that Graham's concept of "founder mode" will be misinterpreted as both an excuse and an obligation for leaders to operate this way well beyond the point of diminishing returns, contributing not to excellence, but to under-performance and personal overwhelm. I want to free leaders from the fear of being called a "micromanager" when they're simply providing the necessary elements of management. But I also want leadership to be a sustainable calling, not a ticket to burnout. [8]
+
+ 
+
+This is a companion piece to the following:
+
+- "Work Hard or Work Smart?" Is the Wrong Question (2017)
+
+- Accountability and Empathy (Are Not Mutually Exclusive) (2019)
+
+- The Judicious Imposition of Structure (2021)
+
+- Hard Problems in Soft Cultures (2022)
+
+Footnotes
+
+[1] Founder Mode (Paul Graham, 2024)
+
+[2] Mind the Gap (On Leading Senior Executives)
+
+[3] In The Micromanagement Disease: Symptoms, Diagnosis, and Cure (Public Personnel Management, 2010), Richard White makes a connection between McGregor's work on Theory X and the subsequent emergence of the term "micromanagement." White cites the Oxford English Dictionary's attribution of the first usage of "micromanagement" to a 1975 article in The Economist, but I haven't been able to verify this.
+
+[4] "The Human Side of Enterprise," page 6 (Douglas McGregor, Leadership and Motivation, 1966). This essay is McGregor's best-known and most influential work--it originated as a speech on the Fifth Anniversary of the School of Industrial Management at MIT (later known as the Sloan School) in 1957, and was published in the American Management Association's Management Review in November of that year. It subsequently formed the basis of his 1960 book The Human Side of Enterprise. My citations here are from a posthumous collection of McGregor's work issued by MIT two years after his death to commemorate his contributions.
+
+[5] Ibid, pages 15-16.
+
+[6] Safety Is a Resource, Not a Destination
+
+[7] Graham, 2024.
+
+[8] For more on leadership and sustained excellence:
+
+- Happy Workaholics Need Boundaries, Not Balance
+
+- Open Space, Deep Work and Self-Care
+
+- Investments, Not Indulgences
+
+ 
+
+Photo via TomEatonSA.
+

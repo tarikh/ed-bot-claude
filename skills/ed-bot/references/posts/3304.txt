@@ -1,0 +1,15 @@
+---
+title: Jonathan Schwartz on Authenticity
+url: https://edbatista.com/2005/12/jonathan_schwar.html
+slug: jonathan_schwar
+published: 2005-12-14T09:41:56
+updated: 2005-12-14T09:41:56
+source_body: wordpress-html
+---
+
+Doc Searls is interviewing Sun's Jonathan Schwartz as the opening keynote on Day 2 at Syndicate. I'm sure I'll have more to say on this later, but I wanted to post this exchange immediately:
+
+Doc Searls: So transparency is the fulcrum on the lever now?
+
+Jonathan Schwartz: Authenticity is the fulcrum.
+

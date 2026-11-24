@@ -1,0 +1,73 @@
+---
+title: Blocking And Tackling (Fundamentals of Change)
+url: https://edbatista.com/2012/01/blocking-and-tackling.html
+slug: blocking-and-tackling
+published: 2012-01-19T09:54:20
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+This post has been extensively revised and updated--here's the current version:
+
+Building Blocks (A Tactical Approach to Change)
+
+ 
+
+I don't use that many sports metaphors, but there's something about "blocking and tackling" that perfectly describes my approach to change, whether it's with a coaching client or student, or in my own life.
+
+The phrase reflects the fact that flashy, dramatic plays in American football--like Steve Young's game-winning 49-yard scramble for the 49ers against the Vikings in 1988--are the result of a series of profoundly un-flashy, un-dramatic efforts that make big gains possible. And this is exactly how I think about any desired change--no matter how lofty or ambitious the goal, the path to its achievement will be paved with countless small, humble steps.
+
+So what does blocking and tackling look like in this context? I see the 5 strategies below as the fundamental tools at our disposal when when we're seeking to make a change--there are many others, to be sure, but in my experience these 5 tend to provide significant leverage:
+
+1) Break down large goals into smaller components.
+
+By definition, people seeking help accomplishing a goal, whether in a 1:1 coaching engagement or as part of a larger organizational transition, are grappling with a challenge that's too big or complex to address all at once. If that were possible, they'd simply do it and move on.
+
+This is understandable: We slap labels on a huge array of related activities in order to give us a conceptual handle on the overarching goal. But once we move beyond the conceptual realm into action, the labels start getting in our way. They obscure the distinctions between separate-but-related activities, they fail to acknowledge inter-relationships and dependencies, and they're useless at helping us prioritize.
+
+For example, in early 2008 I decided that I wanted to "be healthier," which was certainly a laudable goal, and even a motivational one in theory. But what the hell did that actually mean in practice? "Being healthy" was way too abstract for me to translate into action, and (after a number of experiments), I ultimately broke it down into five smaller, daily goals: 1) exercise, 2) meditate, 3) get enough sleep, 4) eat and drink moderately, 5) work on my intellectual/professional development.
+
+This framework allows me not only to get a clearer picture of my "health" by assessing each of these smaller goals individually, but also to see the inter-dependencies among them and to prioritize accordingly. I've noticed that sleep and my intellectual/professional development can be inversely correlated--which usually means I'm doing a lot of late-night study. Sometimes this is OK--but at other times it's not, and then I need to re-balance, prioritize sleep and trust that the work will get done. 
+
+2) Build enthusiasm and momentum by celebrating small victories.
+
+Success feeds on itself, and a benefit of breaking large goals down into smaller components is that it gives us many more opportunities to feel successful and reap the rewards. The smaller goals I outline above are all daily activities--so every single day I have an opportunity to succeed on each dimension. In this case, I track each of the goals mentioned above using Don't Break the Chain, a lightweight productivity tool that's so powerful because it's so simple: Set up a daily calendar, and every day you accomplish your goal just click on the date to add a "link" to the "chain." (My exercise calendar for this month--as of January 18th--is above.)
+
+A significant consequence of this approach is that I experience a small (but noticeable) thrill each time I get to click on a date and "add a link"--classic reward-driven behavior that's undoubtedly related to a tiny surge of dopamine in my brain each time I click: Press the lever, get the cookie! Equally significant is the small (but noticeable) feeling of absence that occurs when I fail to fulfill a daily goal and as a result am denied the reward.
+
+I can also celebrate milestones by looking at stretches of time on my calendars, from 4 weeks to 4 months to an entire year, and feel a sense of accomplishment and agency. Each of my daily successes over the course of a month, a quarter, a year add up to something bigger than I realized in the moment. (Conversely, when I consistently fail to accomplish a goal, the growing stretch of white space on the calendar can motivate me to get back on track, and in retrospect I can correlate that data with whatever was going on in my life at that time to better understand what happened and why.)
+
+3) Identify assumptions and mental models; then create experiments to generate new data.
+
+We often embark upon an effort to change with a commitment to re-assess our goals, values and strategies and judge them by their results. But a limitation of this approach is that so many of those very same goals, values and strategies are rooted in underlying assumptions and mental models that go untested because we view them as universal truths or because we're not even fully aware of their existence.
+
+We need to step back and expand our analytical frame to identify the assumptions and mental models that underlie the goals, values and strategies we're testing in the first place. This process is best described as double-loop learning, a term first coined by Harvard Business School professor Chris Argyris:
+
+The key tasks here are A) identifying our closely-held beliefs as assumptions and mental models rather than "truths," B) developing experiments that will generate data allowing us to test the veracity and utility of those assumptions and models, and C) being willing to revise and update our assumptions and models on the basis of that new data.
+
+In my case, a mental model deriving from my athletic training as an adolescent was the idea that exercising meant grueling, full-on workouts. Anything less was insufficient and "didn't count." But as a result of this belief, if I didn't have time to "do it right," then I wouldn't do it at all--I let the perfect be the enemy of the good. Even worse, I failed to take into account the fact that as I entered middle age, it was no longer possible for me to do everything that I did when I was in high school and college. I had to let go of the model of a "training regimen" designed for a young, competitive athlete and embrace the alternative concept of an "active life" designed for an old(er) guy who just wanted to feel better.
+
+At first, this new approach didn't feel right at all--my mental model told me I was slacking. But eventually I realized that being easier on myself (both physically and mentally) made it possible to be more active more consistently--which was actually my ultimate goal. New mental model, different strategy, better results.
+
+4) Avoid obstacles by taking alternative or parallel paths.
+
+This approach to change relies upon a sense of dynamism and fluidity. Breaking down large goals into smaller steps means more opportunities to celebrate little victories as well as more opportunities to test assumptions and mental models.
+
+But when we hit an obstacle--often in the form of our own resistance--everything grinds to a halt. So it's important to keep moving forward, in one way or another. And rather than overcome the obstacle or fight the resistance, it's often more effective to simply find another path toward the goal.
+
+This can take many forms--in my case breaking down the large goal of "being healthy" into five components gave me five paths to follow simultaneously. And while my intention is to pursue them all every day, that's not necessarily feasible--as shown in the occasional inverse correlation between sleep and work. But having multiple paths at my disposal allows me to continue to make progress on at least one of them every day. (It's pretty rare that I go "5 for 5" on a given day, but I don't go "0 for 5" very often either.)
+
+Another version of this strategy involves looking for experiences that parallel the goal we're pursuing in other aspects of life. My practice as a coach focuses on helping people be more effective and fulfilled in their professional lives, but in many cases my clients and students find the work-related issues they're addressing a little too daunting to tackle head-on. In that case, an option is to look for parallels in their personal lives, where there's often more support for change and where the risks of change can seem lower.
+
+5) Start small and scale up as needed. 
+
+Implicit in all of the strategies above is the idea that it becomes easier to make big changes when we're already experiencing success at a smaller scale. (Just note how many times I use the word "small" above.)
+
+Tackling smaller changes not only allows us to feel the reward and sense of efficacy that comes with accomplishment, but also helps us learn some important things about ourselves, such as our assumptions and mental models, other sources of resistance, how we respond to setbacks and what support we find most helpful. We learn best when we're slightly stressed but not overwhelmed, and changing at a smaller scale first allows us to have as much information as possible as our disposal when the stakes are higher.
+
+Successful small changes may also reduce the need for large-scale change. Change is often driven by a desire to be happier, but research shows that we exercise control over our sense of happiness and fulfillment most effectively through small-scale, consistent intentional activities, not through large-scale changes in our life circumstances.
+
+Finally, changing successfully at a smaller scale allows us to shift our mindset. We may think of ourselves as people who don't--or can't--change, and we may think of change as something alien or frightening. A running joke of mine with my wife is "I hate change"--and at one level that simply means that I enjoy ritual and routine; for example, I love returning to familiar restaurants, because I like re-connecting with the people we come to know through repeated visits. But at another level, I'm also saying that "Change is scary," and it's the successful efforts to change at a smaller scale that allow me to feel calmer and more courageous when the scale increases. I'm not sure what changes are in store for me at the moment, but the shift in mindset I've experienced by changing in small ways over the last 4 years will undoubtedly serve me well when I decide to take on something bigger.
+
+Photo courtesy of the United States Sports Academy.
+

@@ -1,0 +1,53 @@
+---
+title: Serious Blogging?
+url: https://edbatista.com/2005/06/serious_bloggin.html
+slug: serious_bloggin
+published: 2005-06-02T18:08:07
+updated: 2005-06-02T18:08:07
+source_body: wordpress-html
+---
+
+NYT reporter David Greenberg recently spent a week guest-blogging for Daniel Drezner, and his article on the experience gave Corante's Suw Charman serious pause for concern. Charman quotes Drezner, then rebuts him:
+
+Serious bloggers, I realized, aggressively report a pet issue, updating
+
+their sites throughout the day. They scavenge the Internet for every
+
+shard of information on a hot topic, like John R. Bolton's chances of
+
+becoming ambassador to the United Nations or Tom DeLay's ethical
+
+troubles.
+
+'Serious bloggers'? What does that mean? Are the
+
+people who aren't fixated on the spike of the power curve automatically
+
+dilettantes? I don't like this division. I always thought that the
+
+appealing thing about blogging was that it isn't a medium that submits
+
+to being split up thusly. It's not healthy for us to start believing
+
+that such divisions even exist because they don't - it's all in our
+
+perceptions - and by creating these divisions we forget and devalue the
+
+fact that blogging centres around individual bloggers and the
+
+conversations that they are having. We don't talk about 'serious'
+
+telephone users, so why talk about 'serious' bloggers?
+
+Amen. This is an important point that's in danger of being lost as organizations start taking blogging, uh, seriously. I've said it before, and I'll say it again: Blogs aren't just another "channel" for your "message". It's not about broadcasting; it's about conversations (in Cluetrain's sense of the word.) It's not about having an audience; it's about making connections. Ultimately, it's not even about blogs as a platform (because the web as a whole is becoming more "bloggish"); it's about blogging as an activity, a way of being online (a insightful distinction Marnie Webb made during our recent "Blogs Are Obsolete" discussion.)
+
+But I also want to make a point in Greenberg's defense. People who are unfamiliar with blogs tend to think of them not only as highly personal and subjective, but also as overly broad and intellectually shallow. Charman rightly takes Greenberg to task on the first issue--blogs are appealing and compelling precisely because they speak in a personal and subjective voice. That doesn't make them un-serious; that makes them authentic.
+
+But I don't think Greenberg's wrong to suggest a distinction between bloggers who focus on a set of issues they know well (i.e. they take them "seriously"), and those who write more superficially on a wider range of issues. This doesn't mean that only "experts" have a right to take part in these conversations; the beauty of the blogosphere is its openness to intellectual entrepreneurialism and its meritocratic dismissal of credentials. But Greenberg's stint as a guest-blogger opened his eyes to the fact that quite a few "amateurs" are as highly informed as any "expert," and by calling them "serious," I think he meant to credit their depth, not to belittle other bloggers.
+
+My solution is to use this site to discuss a particular set of issues--design, technology, advocacy and marketing, just like it says on the wrapper--that I think about every day, that I grapple with professionally, that I have strong feelings about, and that I want to talk about with others. All the other stuff I like to write about, but don't necessarily feel the need to debate--from CD reviews to my latest home improvement project--goes up on a personal site.
+
+Both sites are personal, subjective and authentically mine. But I take this one more seriously, and I would expect to be taken more seriously on the topics discussed here. If you don't like Aimee Mann or Haywood, well, that's no skin off my nose. But if you don't like my take on, say, Seth Goldstein, them's fightin' words.
+
+corante blogging suw charman
+

@@ -1,0 +1,129 @@
+---
+title: The Hero's Journey in Everyday Life
+url: https://edbatista.com/2020/02/the-heros-journey-in-everyday-life.html
+slug: the-heros-journey-in-everyday-life
+published: 2020-02-06T19:12:23
+updated: 2025-10-11T08:30:30
+source_body: wordpress-html
+---
+
+What can myths and folk stories tell us about our day-to-day lives? In what ways do we re-enact these tales handed down to us over thousands of years? And what are the implications for the leaders I work with in my coaching practice?
+
+The whole sense of the ubiquitous myth of the hero's passage is that it shall serve as a general pattern for men and women, wherever they may stand along the scale. Therefore it is formulated in the broadest terms. The individual has only to discover their own position with reference to this general formula, and let it then assist them past their restricting walls.
+
+~Joseph Campbell, The Hero with a Thousand Faces [1]
+
+Joseph Campbell was an American scholar who applied the insights of psychology to his study of mythology, folklore and religious traditions from around the world. He taught at Sarah Lawrence for nearly four decades, retiring in 1972, and continued to speak and lecture widely until his death in 1987. His central themes are discussed in The Hero with A Thousand Faces, first published in 1949, although his work only became well-known decades later as a result of The Power of Myth, a series of televised interviews conducted with journalist Bill Moyers and originally broadcast on PBS in 1988.
+
+One of Campbell's most important ideas is the Hero's Journey, which he also called the monomyth because it appears in some form in every culture and represents the basic conceptual framework for a vast number of sagas, legends, folk tales, and holy texts. I find the Hero's Journey relevant in my work with a number of leaders because it's so deeply ingrained in the human psyche that it can be a useful way to illuminate a person's path and interpret what's happening around them, no matter what kind of work they do.
+
+Note that in analogizing the leaders in my coaching practice to "heroes," I'm not endorsing a style of leadership sometimes described as "heroic." I'm in full agreement with Stanford's Jeff Pfeffer and Bob Sutton, who assert that, "Effective leaders must learn when and how to get out of the way and let others make contributions. Sometimes the best leadership is no leadership at all." [2] And as I've written before, "Great leaders know when to assert their authority and act with power. This need not entail a full-blown return to heroic leadership... [I]t does require a level of comfort with authoritative and directive behaviors, an ability to summon and employ a forceful interpersonal presence, and a high degree of emotional intelligence [but] a little heroic leadership can go a long way." [3]
+
+The indented and italicized passages below are from the New World Library's Third Edition of The Hero with a Thousand Faces. Page numbers are indicated in brackets. And in most cases I've changed Campbell's "he/him/his" to the third person singular "they/them/theirs," which I find the most elegant and least intrusive way to insure that these concepts feel equally accessible and relevant to everyone.
+
+In the monomyth we live in the World of Common Day, distinct from a Region of Supernatural Wonder. This alternative world may be surprisingly close at hand, but it remains set off by a clearly marked boundary. We leave our ordinary world when we are called to adventure in some way, as Campbell writes:
+
+The call rings up the curtain, always, on a mystery of transfiguration--a rite, or moment, or spiritual passage, which, when complete, amounts to a dying and a birth. The familiar life horizon has been outgrown; the old concepts, ideals, and emotional patterns no longer fit; the time for the passing of a threshold is at hand. [pp 42-43]
+
+This first stage of the mythological journey--which we have designated the "call to adventure"--signifies that destiny has summoned the hero and transferred their spiritual center of gravity from within the pale of their society to a zone unknown... [p 48]
+
+I see many different versions of the call to adventure in the lives of my clients. An entrepreneur leaves a secure job to found her startup. A CEO is eager to keep up with the challenge of running a rapidly-growing organization. Another CEO steps down to pursue meaning and purpose elsewhere. A CTO yearns for the opportunity to run his own company. A mid-career executive searches for a more fulfilling operating role before he finds himself unable to leave investing.
+
+And I've lived through several iterations of this process myself, most recently in 2006 when I left my last position in management to launch my coaching practice and again in 2016 when I resigned from my full-time role at Stanford to focus on my private clients. At some point most of us feel this call, a desire to leave the everyday world of our current career and seek our professional fortunes elsewhere--but we don't always heed it.
+
+Often in actual life, and not infrequently in the myths and popular tales, we encounter the dull case of the call unanswered; for it is always possible to turn the ear to other interests. Refusal of the summons converts the adventure into its negative. Walled in by boredom, hard work, or "culture," the subject loses the power of affirmative action and becomes a victim to be saved...
+
+The myths and folktales of the whole world make clear that the refusal is essentially a refusal to give up what one takes to be one's own interests. The future is regarded not in terms of an unremitting series of deaths and births, but as though one's present system of ideals, virtues, goals, and advantages were to be fixed and made secure. [p 49]
+
+I often see this refusal of the call in people who feel frustrated or dissatisfied with their lives in some way but are reluctant to make meaningful change. This resistance to the call can come from many sources: perceived responsibilities to their families or obligations to their current organizations; fears and anxieties about what might be lost; or confidence that the path to adventure will always be open to them in the future. Some of these people make their peace with this tension and adjust to their current lives. Others successfully postpone the call and take it up months or even years later. And still others do neither and live with regrets.
+
+But in my work with clients I typically spend time with people who've heeded their call in one way or another.
+
+For those who have not refused the call, the first encounter of the hero-journey is with a protective figure...who provides the adventurer with amulets against the dragon forces they are about to pass. [p 57]
+
+Such figures aren't as colorful in ordinary life as they are in the myths, but having heeded the call, it's not uncommon to suddenly encounter unexpected guides and advocates. I'm not suggesting a supernatural process, but a more prosaic one: When we let the world know that we're open to adventure, the world often takes an interest. At earlier stages in life, teachers or coaches often encouraged my clients to take risks and expand their horizons by applying to more selective schools, moving to new cities, or pursuing more fulfilling work. Today, former managers and other mentors can play a similar role in my clients' lives by offering guidance on leadership and business challenges--although these figures can become scarcer and harder to access as we grow more senior.
+
+What such a figure represents is the benign, protecting power of destiny... One has only to know and trust, and the ageless guardians will appear. Having responded to their own call, and continuing to follow courageously as the consequences unfold, the hero finds all the forces of the unconscious at their side... And in so far as the hero's act coincides with that for which their society is ready, they seem to ride on the great rhythm of the historical process. [p 59]
+
+I see this aspect of the Hero's Journey at work in ways both large and small. A number of my clients have gone right up to the brink of selling or shutting down their company, only to have a source of capital materialize at the last moment. Others have despaired of ever making the leap into a new career, when a nearly-forgotten contact reaches out with an unexpected opportunity. This isn't to say that things always go as we wish, or that there's some sort of mysticism at work--but heeding the call can set events in motion that are well beyond our current awareness.
+
+The hero goes forward in their adventure until they come to the "threshold guardian" at the entrance to the zone of magnified power. Such guardians bound the world...standing for the limits of the hero's present sphere, or life horizon. Beyond them is darkness, the unknown, and danger... The usual person is more than content, they are even proud, to remain within the indicated bounds, and popular belief gives them every reason to fear so much as the first step into the unexplored. [p 64]
+
+My clients encounter "threshold guardians" repeatedly: Accelerators that could sustain a fledgling venture, investors that could provide the capital necessary to succeed at the next level, strategic acquirers that could buy the entire business, all the gatekeepers involved in taking a company public, and any number of figures in a position to make valuable introductions or extend privileged invitations. We tend to assume that a favorable response by the guardian is an occasion for joy or relief, but Campbell reminds us that "beyond them is darkness, the unknown, and danger," and that most people fear to take such steps. What I see in my practice that the attainment of any of these goals does not resolve a leader's problems--it transforms them into an entirely new (and often much more daunting) set of challenges. [4]
+
+The idea that the passage of the magical threshold is a transit into a sphere of rebirth is symbolized in the worldwide womb image of the belly of the whale. The hero, instead of conquering or conciliating the power of the threshold, is swallowed into the unknown, and would appear to have died. [p 74]
+
+This is a reflection of the power of the "region of wonder" that lies beyond the threshold. Prestigious accelerators, wealthy investors, massive corporations, the public markets, and well-connected individuals offer leaders vast opportunities while simultaneously threatening to disempower and absorb them. Having accepted such an opportunity, my clients often must struggle to maintain their independence and autonomy.
+
+Once having traversed the threshold, the hero moves in a dream landscape of curiously fluid, ambiguous forms, where they must survive a succession of trials... In the vocabulary of the mystics this is the second stage of the Way, that of the "purification of the self," when the senses are "cleansed and humbled," and the energies and interests "concentrated on transcendental things"; or in a vocabulary of a more modern turn: this is the process of dissolving, transcending, or transmuting the infantile images of our personal past. [pp 81-85]
+
+This highlights not only the sense of endless struggle that my clients often experience, but also the realization that the skills and capabilities that have helped them succeed to date are insufficient to allow them to overcome the "succession of trials" they now face. Success in these new realms will require a commitment to growth and a willingness to learn. [5]
+
+But success rarely comes easily, as Campbell reminds us:
+
+The original departure into the land of trials represented only the beginning of the long and really perilous path of initiatory conquests and moments of illumination. Dragons have now to be slain and surprising barriers passed--again, again, and again. Meanwhile, there will be a multitude of preliminary victories, unretainable ecstasies, and momentary glimpses of the wonderful land. [p 90]
+
+My clients are sometimes disheartened by the struggle and depleted by its intensity. Such feelings aren't always negative--the emotional roller-coaster of leadership can take them to depths of despair, but it can also provide peak experiences affording "momentary glimpses of the wonderful land." But even these highs take a toll, and key themes in my practice include becoming better equipped to handle these extremes sustainably by regulating emotions and investing in self-care. [6,7]
+
+But even as we strive against external foes, it's essential to recognize that our greatest obstacle usually lies within.
+
+The crux of the curious difficulty lies in the fact that our conscious views of what life ought to be seldom correspond to what life really is. Generally we refuse to admit to ourselves...the fullness of that pushing, self-protective, malodorous, carnivorous, lecherous fever which is the very nature of the organic cell. Rather, we tend to perfume, whitewash, and reinterpret; meanwhile imagining that all the flies in the ointment, all the hairs in the soup, are the faults of someone else. [pp 101-102]
+
+Campbell isn't denying the existence of external foes--there are dragons to be slain and barriers to be surmounted--but he's highlighting the importance of self-awareness in these efforts. We habitually turn a blind eye toward our less appealing qualities--the "carnivorous, lecherous fever" that underlies so many of our personal and professional aspirations. But such blindness leaves leaders vulnerable--to their fears and anxieties, their unrestrained appetites, their sense of social comparison. My clients who are most successful at fighting these battles are able to view themselves clearly, acknowledge their faults and shortcomings, and take responsibility for addressing them without defensiveness or blame.
+
+Having succeeded in the struggle against outer foes and inner demons, the leader now realizes how much work remains to be done.
+
+When the hero-quest has been accomplished...the adventurer still must return with their life-transmuting trophy. The full round, the norm of the monomyth, requires that the hero shall now begin the labor of bringing [their trophy] back into the kingdom of humanity, where the boon may redound to the renewing of the community... [p 167]
+
+This is a reminder that no victory is final, and a leader's work is never truly complete. The fulfillment of a quest, the achievement of a goal, is and should be an occasion for celebration--and yet immediately thereafter the work begins of putting the prize into action. While my clients don't shrink from hard labor, they can sometimes be surprised to discover that a victory is a beginning, and not an ending. As I've written before, "This is perhaps the fundamental problem of success: What happens after we win?" [8]
+
+And even though leaders often expect life to get easier after the prize has been claimed, it can remain profoundly challenging, particularly because possession of the prize affects their relationships with others, creating a degree of social distance.
+
+This brings us to the final crisis of the round...the paradoxical, supremely difficult threshold-crossing of the hero's return from the mystic realm into the land of common day... [T]hey have yet to re-enter with their boon the long-forgotten atmosphere where men who are fractions imagine themselves to be complete. They have yet to confront society with their ego-shattering, life-redeeming elixir, and take the return blow of reasonable queries, hard resentment, and good people at a loss to comprehend. [p 186]
+
+This can take a myriad of forms: A founder launches a new venture, and finds that some of the friends who helped aren't capable of scaling up. A mid-stage leader who has helped a business grow by orders of magnitude finds that relationships with early employees are now more formal and less fulfilling. A CEO succeeds at selling the company, and must now navigate the alien interpersonal landscape of the acquirer.
+
+Despite these difficulties, the leader must strive to serve as a bridge between the two realms and to integrate them--this is the ultimate purpose of the entire journey.
+
+The hero adventures out of the land we know into darkness; there accomplishes their adventure...and their return is described as a coming back out of that yonder zone. Nevertheless--and here is a great key to the understanding of myth and symbol--the two kingdoms are actually one. The realm of the gods is a forgotten dimension of the world we know. And the exploration of that dimension...is the whole sense of the deed of the hero. [p 188]
+
+This requires the leader to cross back over the threshold that distinguishes the world of adventure and return to a more ordinary existence.
+
+The first problem of the returning hero is to accept as real, after an experience of the soul-satisfying vision of fulfillment, the passing joys and sorrows, banalities and noisy obscenities of life. [p 189]
+
+In my practice leaders both relish and resent the "banalities and noisy obscenities of life" following the successful completion of a quest. Such efforts typically entail some combination of long hours, risky bets, extensive travel, and fraught performances before skeptical audiences. But for those very reasons they are also opportunities for a leader to do their best work, to experience a sense of flow, and to enjoy feelings of agency and triumph that are often lacking in ordinary times. The completion of a quest allows a leader to return to their families and their colleagues--and after a celebratory homecoming in both settings they are likely to be met with a long list of mundane obligations.
+
+This is when it becomes necessary for the leader to relinquish the role of "hero" and adopt a more humble stance:
+
+What, now, is the result of the miraculous passage and return?... [O]ne may invent a false, finally unjustified, image of oneself as an exceptional phenomenon in the world... Such self-righteousness leads to a misunderstanding, not only of oneself but of the nature of both humanity and the cosmos. [pp 205-206]
+
+The failure to make this adjustment not only keeps the leader at a distance from the people around them, potentially diminishing their ability to make effective use of the fruits of their quest, it also imposes a substantial cost on the leader themselves. The leader who cannot find peace in the "world of common day," with all its "banalities and noisy obscenities," must venture out on more daunting quests, striving for ever-greater triumphs. This rarely ends well.
+
+An alternative, Campbell suggests, is to view our quests and adventures from a larger perspective, to see the Hero's Journey as a way of transcending our existential struggles rather than as mere instrumental means to material ends:
+
+Man in the world of action loses his centering in the principle of eternity if he is anxious for the outcome of his deeds... "Do without attachment the work you have to do... Surrendering all action to Me, with mind intent on the Self, freeing yourself from longing and selfishness, fight--unperturbed by grief." (Bhagavad Gita, 3:19 and 3:30)
+
+Powerful in this insight, calm and free in action...the hero is the conscious vehicle of the terrible, wonderful Law, whether their work be that of butcher, jockey or king. [p 206]
+
+I find this a compelling rationale to pursue my own Hero's Journey, striving for success without worrying too much about the results, feeling grateful for the opportunity, trusting that meaning is be found on the path, not at any destination.
+
+Footnotes
+
+[1] The Hero with a Thousand Faces, page 101 (Joseph Campbell, New World Library, Third Edition, 2008)
+
+[2] Pfeffer and Sutton on Leadership
+
+[3] What Do Great Leaders Do?
+
+[4] The Problems of Success
+
+[5] Learning How to Learn
+
+[6] The Art of Self-Coaching, Class 4: Emotion
+
+[7] Investments, Not Indulgences
+
+[8] The Problems of Success
+
+Photo by J Brew.
+

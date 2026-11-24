@@ -1,0 +1,47 @@
+---
+title: Self-Monitoring and Authenticity
+url: https://edbatista.com/2011/07/self-monitoring-and-authenticity.html
+slug: self-monitoring-and-authenticity
+published: 2011-07-18T23:19:40
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+Can we self-monitor and remain authentic? When does self-monitoring become inauthentic self-presentation? And what do we mean by "authenticity" anyway?
+
+After my recent post on self-monitoring [1], a friend responded:
+
+My immediate response/question to the issue of self-monitoring, which I think is incredibly important and relevant, is how it intersects with building authentic and trusting relationships. Can someone be so adept at self-monitoring, and have such strong intuition and sense of others' motivations and emotions, and thus adapt their behavior accordingly with every single interaction, that it could lead to questioning the authenticity of the self-monitoring individual--and thus an inability to build a truly trusting relationship? Perhaps this is self-monitoring on steroids, which, like any behavior taken to its extreme, can actually be counter-productive at best and destructive at worst. Or perhaps it is not self-monitoring at all but a true lack of an authentic self that is not defined in relation to others, or a highly evolved (devolved) mechanism for trying to bring others around to one's own actual self-interest. Or perhaps it is merely manipulation at its finest.
+
+They raise an important point, one that comes up regularly in my work as a coach, where I often help people explore how to develop and maintain more effective working relationships. This process typically involves raising our level of self-awareness, learning more about how others perceive our default behavior, and modifying our behavior in response (when we decide its in our interest to do so.) In some settings, such as Stanford's Interpersonal Dynamics course [2], this is one of the explicit and primary purposes of the experience, and students in that class always raise concerns about authenticity: If I'm consciously changing my behavior, am I being my authentic self?
+
+Before I respond to my friend's concerns, let me address an underlying issue by asking what precisely do we mean by the "authentic self"? Further, how do we come to know this authentic self? If we mean a sort of "elemental identity at the core of our personalities," you might say we have to discover our authentic self, and it is revealed to our consciousness over time. But I don't subscribe to this notion. I think authenticity is a dynamic and subjective state of being that we move into and out of, not a static feature of our internal landscape.
+
+We're more or less authentic at any given moment, and it's in those experiences that we feel authentic that we are our authentic selves. Of course, the dynamic and subjective nature of this state means not only that it's changing all the time, but also that our perspective on it is changing all the time. How we define authenticity at one point in time may not be how we defined it in the past, or how we'll define it in the future. So rather than discover our authentic selves, I believe we create our authentic selves.
+
+We do so by trying out new behaviors and seeing how they fit with our self-concept, how they affect our relationships with others, and how they support our goals. Most new behaviors feel inauthentic at first--I can't do this; it's not ME! And if that feeling persists over time, we end the experiment and move on. But my experience as a coach has made it clear just how often that feeling does not persist, and how capable we are of integrating the new behavior into our repertoire, expanding what it means to be authentic as we do so. (My experience as a coach--and as a coaching client--has also highlighted the many obstacles we face in this process, from embarrassment to impatience.)
+
+Returning to the concerns raised by my friend, I think it's helpful to view self-monitoring behavior along a continuum, ranging from a deficit to an excessive amount. We've all encountered people who lack the ability to self-monitor effectively, and their inability to adapt is cringe-inducing at best and traumatic at worst. But we've also encountered people whose hyper-attentiveness to our responses causes us to doubt the truth of their self-presentation--we sense their intense desire to influence or please us, and we suspect there's more to the story that we're not being told.
+
+I've worked with people who give off this vibe before, and they've tended to be perfectionists with unusually strong drives to please others, particularly authority figures. This isn't to suggest that these people aren't trying to manipulate us. But to what end? My experience suggests that they have an agenda that--to them--is worthwhile and even virtuous. They simply fail to realize that the behaviors they're employing to pursuing that agenda cause the rest of us to question their motives and intentions.
+
+My approach in these cases is to have a dialogue in which I can both ask questions that allow me to learn more about their motives and intentions, and also share my reactions and responses to the behaviors I've observed. Typically, the issue isn't a lack of authenticity--instead, bad judgment, poor communication skills, and a set of mistaken assumptions have all combined to create a huge gap between intention and impact. [3]
+
+This isn't to say that truly inauthentic, unscrupulous, manipulative people don't exist--of course they do. But when we encounter excessive self-monitoring in our daily professional lives, it's much more likely to be a by-product of well-meaning ineptitude.
+
+Many thanks to Scott Bristol, who's had a substantial influence on my thinking about authenticity, among other topics.
+
+This is a companion piece to Self-Monitoring and Cautionary Tales (Authenticity at Work).
+
+Footnotes
+
+[1] Self-Monitoring
+
+[2] A Brief History of T-Groups
+
+[3] Intent vs. Impact (When Communication Goes Awry)
+
+Updated January 2022.
+
+Photo by Rachel Voorhees.
+

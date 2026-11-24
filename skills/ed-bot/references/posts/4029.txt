@@ -1,0 +1,103 @@
+---
+title: Working from Home...Together
+url: https://edbatista.com/2020/03/working-from-home-together.html
+slug: working-from-home-together
+published: 2020-03-16T16:35:51
+updated: 2026-10-23T15:00:36
+source_body: wordpress-html
+---
+
+Claudette Colbert: "That, I suppose, makes everything quite all right?"
+
+Clark Gable: "Well, I like privacy when I retire. Yes, I'm very delicate in that respect. Prying eyes annoy me. Behold the walls of Jericho! Maybe not as thick as the ones that Joshua blew down with his trumpet, but a lot safer."
+
+~It Happened One Night, 1934 [1]
+
+A theme in my recent conversations with leaders who are implementing work-from-home policies at their companies is how to personally adjust to these new domestic arrangements. In many cases my clients have a spouse or partner who's also now working from home, and often they're both tasked with childcare or some form of home-schooling for their children. Some clients have dedicated home workspaces, but many do not--or they're finding (like me!) that a home workspace organized for one person can feel a little crowded when it's asked to accommodate two. Given what we already know about the problems of open offices [2] and that our homes are now being converted to "open offices" for weeks if not months, what will help?
+
+Boundaries.
+
+As my former colleague Michael Gilbert noted over a decade ago, the term "work-life balance" is "fundamentally flawed, a dangerous trap, an all-around bad idea... The fact is that work is a part of life, not in opposition to it. The fact is that what we all seek is joyful work-life integration, not some sort of painful detente." [3] The problem we face now, of course, is too much integration, so we're unbalanced in entirely new ways. But Gilbert had a better alternative to "balance" that couldn't be more timely today:
+
+We have been using the word "balance" when what we really seem to mean is "boundaries." Boundaries keep things in their place. Balance suggests the same amount of two things on either side of a scale. Boundaries keep one of those things from oozing past the edge of its platter and taking over the other side...
+
+Boundaries and integration go together. Maybe it's just the biologist in me, but it seems that good boundaries are what make integration work. Just as functional membranes (letting the right things through and keeping the wrong things out) facilitate the healthy interaction of the cells of our bodies, so do functional personal boundaries facilitate the healthy interaction of the various parts of our lives. Bad boundaries lead to either being overwhelmed or withdrawal. Good boundaries lead to wholeness and synergy. [4]
+
+So what do good boundaries look like in practice? In the past I've described three different types of boundaries--temporal, physical, and cognitive--that "happy workaholics" [5] could use to promote "wholeness and synergy," and here's how they might be employed by two or more people working together at home.
+
+Temporal boundaries designate certain times for certain activities.
+
+When work takes place outside the home, temporal boundaries are more clearly defined. We "go to work," and there we have a host of boundaries that determine who we spend time with, for what purpose, and for how long. This will still occur with the colleagues with whom we'll be interacting virtually--our schedules may even need to be more tightly coordinated, because we won't have the ability to walk over to their desk, or bump into them serendipitously.
+
+But what about our new "colleagues"--the people we live with who now share our workspaces? While we probably have some rituals with them that govern how we spend time together before and after work, our professional calendars may be completely out of sync. And when we're working from home, what does "before work" and "after work" even mean? What does it mean to be "working" at all? When do we stop? When are we available to the people we're living with, and when are we not?
+
+The key is establishing some temporal boundaries that help us both connect with our virtual colleagues and co-exist harmoniously with our co-located "colleagues." What might this look like?
+
+- If you and the people who live with you don't have separate (and soundproof) workspaces, you may need to coordinate your call schedules so that you minimize the disruption to others.
+
+- Even if you do have separate workspaces, consider coordinating your schedules so that you can take meals or breaks together. Alternatively, you may need to coordinate your schedules in order to take meals and breaks apart. I suspect we'll all need a mix of both over the long haul.
+
+- Creating the time and space necessary for deep thought and reflection has always been difficult. [6] It's now even harder working alongside people who generally have no problem interrupting us. We now need to clarify the times when we're open to being interrupted and the times when we're not. Headphones are the universal symbol for this in many office environments, but our new "colleagues" may have different norms, so being more explicit about our availability may be useful.
+
+- For two parents a schedule designating the primary caregiver at specific times so that childcare responsibilities feel fairly allocated may be absolutely essential--and for anyone providing childcare on their own, journalist Lyn Lenz has some sage (and very funny) advice.
+
+Physical boundaries designate certain places for certain activities.
+
+Back when we "went to work," the physical boundaries were embodied in the corporate campus, the downtown building, a series of rooms, a series of desks. We entered and engaged these spaces and we were "at work"--and, as with the temporal boundaries embedded in our work schedules, these professional boundaries determined who shared space with us and for how long. The dilemma we face now is that those boundaries have been collapsed--or at least severely compressed. There is no "at work" or "at home"--it's all the same place, and we're sharing it with the same people all day long. The key is realizing that physical boundaries need not be (and rarely are) impassable obstacles--in Gilbert's framing, they're permeable "membranes":
+
+- If you're lucky enough to have a home workspace with a door you can close, count your blessings--but even a door is easily opened. The door isn't a barrier, it's a symbol--and we can create other symbolic boundaries to designate the purpose of a given space in our homes and to allocate the spaces that are available among our new colleagues. Although this can be taken to extremes, of course:
+
+- An awareness of physical boundaries in the past helped ensure that we got out of the office on a consistent basis at regular intervals to create some literal distance between us and our work, and that's going to be even more important now. While anti-infection measures will likely restrict our movements in our communities (as occurred today in the Bay Area), we should continue to get outside and leave our homes behind, if only for a brief walk, in order to give ourselves and our new colleagues a break from each other (and note that this is still fine in the Bay Area as long as you're 6 feet away from people you don't live with.) To my point above, all of this will be easier if we have some consistency in our shared schedules, and while it will be harder to accomplish for parents with children at home, it will likely be even more important.
+
+Cognitive boundaries direct our attention toward an object of focus (and away from distractions).
+
+This has always been a challenge in the workplace, one made worse in recent years by open offices [7] and all the tools in our work environment that have been designed to capture our attention. But at the root of the issue are several fundamental aspects of human psychology: Attention and deliberate focus are finite mental resources, and in order to conserve them for important situations, we've evolved to experience their expenditure as depleting. And emotions are vitally important in orienting us toward perceived opportunities and threats, so as a consequence emotions are "attention magnets." [8]
+
+And this will only grow more challenging now that work and home have been collapsed into the same space and we find ourselves with a new set of "colleagues"--the family members and housemates who are also people to whom we typically devote a great deal of attention and who invariably evoke strong feelings (for better and for worse.)
+
+My wife Amy and I usually begin our days sitting across from each other in the living room after she's finished breakfast in the kitchen. (Just coffee for me.) I'm on a laptop responding to email or other work that requires low levels of focus, and she's on her phone, often sharing anecdotes or news stories with me. But the pandemic has altered my schedule so that I now need to use this  time for writing and other work that requires more intensive focus. Yesterday morning I was working on this very post, struggling to avoid being distracted, and she could tell that I was starting to feel frustrated. What's going on? she asked.
+
+I'm trying to write something, and it's hard to focus.
+
+What are you writing?
+
+A post about how hard it's going to be for people to work from home together...
+
+(We had a good laugh.)
+
+So what can we do?
+
+- The tools discussed above--temporal and physical boundaries--are all ultimately intended to help support cognitive boundaries that allow us to direct our attention as productively as possible. In the current situation it won't be possible to perfect our temporal and physical boundaries--we'll all have to do the best we can. But a helpful start is simply being aware that attention and deliberate focus are limited resources, and to mindfully observe ourselves (and our new colleagues) as we work together.
+
+- With this heightened sense of awareness regarding our attention, we can take some steps to manage its expenditure, even in the absence of optimal temporal and physical boundaries. For example, I've found that white noise through headphones goes a long way toward allowing Amy and I to be together at home while I'm working. (This 10-hour clip is my favorite.)
+
+- But recall that good boundaries "let the right things through and keep the wrong things out," so the point of establishing cognitive boundaries isn't simply to manage our attention so that we can get more work done--it's equally essential to leverage those boundaries to stop thinking about work (and COVID-19) in order to pay attention to the people around us, our new "colleagues." We have to manage our "information diets" so that we're not constantly distracted by work (and the news) in order to be truly present with the people we love. [9] It will be difficult, particularly as the crisis worsens, but it may be some of the most important work we can do to survive it.
+
+In Closing
+
+I'm keenly aware that countless numbers of our loved ones and neighbors do not have the luxury of dealing with these problems because their work cannot be conducted online. My brother David voluntarily closed his bar in Washington D.C. to support social distancing, and he will not be able to earn a living until we can return to normal social activity. I don't know how to help in your community, but here in San Francisco we can give to the Season of Sharing Fund, or the city's Give2SF fund.
+
+This is a companion piece to Working from Home...Alone.
+
+Footnotes
+
+[1] It Happened One Night, directed by Frank Capra and released by Columbia Pictures in 1934, stars Claudette Colbert as an heiress on the run and Clark Gable as a reporter with a tough hide and a soft heart. In the famous "Walls of Jericho" scene, shown above, Gable drapes a blanket across a clothesline to enable the two travelers (who are, of course, slowly falling in love) to share a motel room. Here's a wonderful retrospective: Looking Back: "It Happened One Night" (Michael Oleszczyk, Movie Mezzanine, 2013). And here's an uncredited description of the "Walls of Jericho" scene.
+
+[2] The Uneasiness of the Open Office
+
+[3] Why Work-Life Balance Is a Bad Idea (Michael Gilbert, 2008)
+
+[4] Good Fences: On Boundaries, Agency and Wholeness in Work-Life (Michael Gilbert, 2008)
+
+- Here I link to the Internet Archives' copies of Gilbert's articles above as, sadly, his website (and most other recent traces of him) have disappeared.
+
+[5] Happy Workaholics Need Boundaries, Not Balance
+
+[6] How to Think (More on Open Space and Deep Work)
+
+[7] The Uneasiness of the Open Office
+
+[8] A Better Information Diet
+
+[9] Ibid.
+

@@ -1,0 +1,49 @@
+---
+title: Stop Worrying About Making the Right Decision
+url: https://edbatista.com/2013/11/new-post-at-hbr-stop-worrying-about-making-the-right-decision.html
+slug: new-post-at-hbr-stop-worrying-about-making-the-right-decision
+published: 2013-11-08T11:21:59
+updated: 2025-09-24T11:59:32
+source_body: wordpress-html
+---
+
+Much of my work as a coach involves helping people wrestle with an important decision. Some of these decisions feel particularly big because they involve selecting one option to the exclusion of all others when the cost of being "wrong" can be substantial: If I’m at a crossroads in my career, which path should I follow? If I’m considering job offers, which one should I accept? If I’m being asked to relocate, should I move to a new city or stay put?
+
+Difficult decisions like this remind me of a comment made by Scott McNealy--a co-founder of Sun Microsystems and its CEO for 22 years--during a lecture I attended while I was in business school at Stanford. He was asked how he made decisions and responded by saying, in effect, It’s important to make good decisions. But I spend much less time and energy worrying about "making the right decision" and much more time and energy ensuring that any decision I make turns out right.
+
+I’m paraphrasing, but my memory of this comment is vivid, and his point was crystal clear. Before we make any decision--particularly one that will be difficult to undo--we're understandably anxious and focused on identifying the "best" option because of the risk of being "wrong." [1] But a by-product of that mindset is that we overemphasize the moment of choice and lose sight of everything that follows. Merely selecting the "best" option doesn’t guarantee that things will turn out well in the long run, just as making a sub-optimal choice doesn’t doom us to failure or unhappiness. It's what happens next (and in the days, months, and years that follow) that ultimately determines whether a given decision was "right."
+
+Another aspect of this dynamic is that our focus on making the "right" decision can easily lead to paralysis, because the options we're choosing among are so difficult to rank in the first place. How can we definitively determine in advance what career path will be "best," or what job offer we should accept, or whether we should move across the country or stay put? Obviously, we can't. There are far too many variables. But the more we yearn for an objective algorithm to rank our options and make the decision for us, the more we distance ourselves from the subjective factors — our intuition, our emotions, our gut--that will ultimately pull us in one direction or another. And so we get stuck, waiting for a sign--something--to point the way.
+
+I believe the path to getting unstuck when faced with a daunting, possibly paralyzing decision is embedded in McNealy's comment, and it involves a fundamental re-orientation of our mindset: Focusing on the choice minimizes the effort that will inevitably be required to make any option succeed and diminishes our sense of agency and ownership. In contrast, focusing on the effort that will be required after our decision not only helps us see the means by which any choice might succeed, it also restores our sense of agency and reminds us that while randomness plays a role in every outcome, our locus of control resides in our day-to-day activities more than in our one-time decisions.
+
+So while I support using available data to rank our options in some rough sense, ultimately we’re best served by avoiding paralysis-by-analysis and moving forward by:
+
+- Paying close attention to the feelings and emotions that accompany the decision we’re facing.
+
+- Assessing how motivated we are to work toward the success of any given option.
+
+- Recognizing that no matter what option we choose, our efforts to support its success will be more important than the initial guesswork that led to our choice.
+
+This view is consistent with the work of Stanford professor Baba Shiv, an expert in the neuroscience of decision-making. Shiv notes that in the case of complex decisions, rational analysis will get us closer to a decision but won’t result in a definitive choice because our options involve trading one set of appealing outcomes for another, and the complexity of each scenario makes it impossible to determine in advance which outcome will be optimal.
+
+Two key findings have emerged from Shiv’s research: First, successful decisions are those in which the decision-maker remains committed to their choice. And second, emotions play a critical role in determining a successful outcome to a trade-off decision. As Shiv told Stanford Business magazine, emotions are "mental shortcuts that help us resolve trade-off conflicts and...happily commit to a decision." Going further, Shiv noted, "When you feel a trade-off conflict, it just behooves you to focus on your gut." [2]
+
+This isn’t to say that we should simply allow our emotions to choose for us. We’ve all made “emotional” decisions that we later came to regret. But current neuroscience research makes clear that emotions are an important input into decision-making by ruling out the options most likely to lead to a negative outcome and focusing our attention on the options likely to lead to a positive outcome. More specifically, research by Florida State professor Roy Baumeister and others suggests that good decision-making is tied to our ability to anticipate future emotional states: "It is not what a person feels right now, but what he or she anticipates feeling as the result of a particular behavior that can be a powerful and effective guide to choosing well." [3]
+
+So when we’re stuck or even paralyzed by a decision, we need more than rational analysis. We need to vividly envision ourselves in a future scenario, get in touch with the emotions this generates and assess how those feelings influence our level of commitment to that particular choice. We can’t always make the right decision, but we can make every decision right.
+
+ 
+
+Footnotes
+
+[1] How Anxiety Can Lead Your Decisions Astray (Francesca Gino, Harvard Business Review, 2013)
+
+[2] "Dynamics of Decision-Making" (Marina Krakovsky, Stanford Business Magazine, February 2008)
+
+[3] "Do Emotions Improve or Hinder the Decision-Making Process?" (Roy Baumeister, Nathan Dewall and Liquing Zhang, Chapter 1 in Do Emotions Help or Hurt Decisionmaking?, edited by Kathleen Vohs, Roy Baumeister and George Loewenstein, 2007)
+
+Originally published at Harvard Business Review, this post is an updated version of an earlier post on this site. Thanks to Stanford's Baba Shiv and Florida State's Roy Baumeister, whose research has heavily influenced my thinking on this topic, and to Scott McNealy, whose seemingly offhand comment 15 years ago pointed me in this direction in the first place. And continued thanks to Tim Sullivan for his guidance and encouragement.
+
+Photo courtesy of HBR.
+

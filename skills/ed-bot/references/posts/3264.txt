@@ -1,0 +1,21 @@
+---
+title: Outfoxed
+url: https://edbatista.com/2005/07/outfoxed.html
+slug: outfoxed
+published: 2005-07-25T21:26:45
+updated: 2005-07-25T21:26:45
+source_body: wordpress-html
+---
+
+Outfoxed is a Firefox extension that allows you to rate websites (thumbs up, thumbs down, or dangerous), share your ratings, and rely upon the ratings of those you know or trust.  Check out my Outfoxed page: it shows that I've accepted Stan (the author of Outfoxed, a grad student in Germany) and the Outfoxed home page as "informers," i.e. people whose site recommendations I'm interested in, and it shows a list of my "reports," i.e. sites that I've issued a rating on (which at this point is simply the list of Firefox bookmarks that I allowed Outfox to import when I installed it.  (It's somewhat similar to Delicious and Stumbleupon, but Stan does a better job than I could of explaining why Outfoxed is better.)
+
+Applications like Outfoxed that run on social metadata, i.e. information about our preferences and habits that we share with others--Audioscrobbler is another example I wrote about recently--are going to have an enormous effect on the way not only on how we use the web, but also on how we connect with other people and how we make ourselves known to them.
+
+Today in some circles it's seen as odd if you're not actively blogging, because that's simply how you engage the community--you present your ideas, comment and expand upon others' ideas, all on a platform that's discoverable, searchable, archivable and linkable.  You make yourself known and you participate in a community through your posts and comments--your data.
+
+What if your social metadata could have a similar impact?  What if it could be used to make yourself known and visible to a larger community?  OTOH, metadata's not as rich as data--voting thumbs up or thumbs down on a site is a shallow substitute for a lengthier blog post explaining that vote.  But OTOH, metadata's much richer than data, because there's so much of it and more is piling up every second you're online--the challenge is finding the appropriate mechanisms to capture, measure and analyze that metadata in order to extract meaning (and value) from it.
+
+Thanks to Steve Gillmor and Seth Goldstein of AttentionTrust for the tip.
+
+outfoxed metadata social metadata
+

@@ -1,0 +1,97 @@
+---
+title: Conscious Competence in Practice
+url: https://edbatista.com/2015/02/conscious-competence-in-practice.html
+slug: conscious-competence-in-practice
+published: 2015-02-03T14:02:47
+updated: 2025-10-04T15:06:55
+source_body: wordpress-html
+---
+
+The Conscious Competence model was first formulated by Martin Broadwell in 1969, and I find it useful when I'm working with someone who's stretching themselves to cultivate new skills and in my own growth and development. [1] The model proposes that we cycle through four different phases as A) our competence in a given discipline and B) our consciousness or in-the-moment self-awareness evolve over time.
+
+When we start out in any discipline we're Unconsciously Incompetent. We don't know what we're doing, and we don't know what we don't know. We're making mistakes, and we're unaware of those mistakes and their impact on us and others.
+
+This lack of awareness isn't necessarily a permanent condition. When we're compelled to step back and take stock, we may realize the scope of the problem from that new vantage point. But we lose perspective the moment we take action again, and, unaware, we repeat the same mistakes.
+
+Put simply, in Phase 1 we're blind, and we need feedback.
+
+When we have the opportunity to get useful feedback [2] our awareness tends to outpace our skills, and we become Consciously Incompetent. We still don't truly know what we're doing, but now at least we realize this. We're making mistakes, and we see their impact.
+
+So in Phase 2 we're unskilled, and we need guidance.
+
+This is the point where we often need some targeted help to get over the hump. Just doing more of what we've been doing may not make a meaningful difference. And assuming we're engaged in a difficult learning process it's likely that simply being instructed will also be insufficient--no one can tell us precisely what needs to be done in these circumstances, because the task is too complex. (Here's where coaching can be particularly useful.)
+
+When we get the guidance we need, we skill up and become Consciously Competent. We're not perfect, but we're making fewer mistakes, and we're generally achieving our goals and desired outcomes. But at this stage the process still requires a significant amount of deliberate effort and forethought, which is tiring and limits our capacity.
+
+So in Phase 3 we're self-conscious, and we need practice.
+
+With repetition we eventually relax, and the process becomes more automatic and require less deliberation.This doesn't mean that we lose all awareness of our abilities, but when engaged in an activity we don't need to focus intensely on our goal to hit the mark.
+
+Optimally our skills are balanced with the challenge at hand and we achieve what psychologist Mihaly Csikszentmihalyi (pronounced Cheek-sent-me-high) has called a flow state, in which we become fully absorbed in our task and may even lose track of time. [3] But as Csikszentmihalyi also points out, when our skills increase relative to the challenge we face, inevitably we drift out of that engrossment and become bored.
+
+So finally, in Phase 4 we're in the flow, and we need new challenges.
+
+Here's a simple way to put this model into practice:
+
+1. Consider a meaningful and complex effort that you're pursuing. For example, "Be a better leader," or "Communicate with my team more effectively."
+
+2. Identify specific activities or disciplines that comprise this process, and determine where you'd locate yourself with regard to each one in the model. Be sure to identify at least one activity or discipline in each quadrant.
+
+3. Optimally, do this with a group and share your results. Together or individually, ask...
+
+- Where do I need feedback?
+
+- Where do I need guidance?
+
+- Where do I need practice?
+
+- Where do I need a new challenge?
+
+Recently I put this model on the whiteboard and discussed it with a group of my Stanford students. I had them spend a few minutes reflecting on their personal and professional development, and identifying one specific activity or discipline that would fall into each quadrant. Then we all wrote those activities and disciplines on the board, which prompted a thoughtful discussion about our respective areas of competence and incompetence, unconsciousness and self-consciousness.
+
+Here's what I put on the board for myself and how I discussed each item with my students:
+
+Phase 1, Unconscious Incompetence: Managing Anger
+
+I experience anger pretty rarely--I get annoyed as often as anyone, but full-on anger is unusual. As a consequence, it can catch me by surprise, and I sometimes find myself over-reacting and upsetting people before I'm even aware that it's happened. So it's a priority for me to get feedback on when I'm giving off any signals that might suggest that I'm angry, so I can better attune myself to what's going on.
+
+Phase 2, Conscious Incompetence: Diversity
+
+Issues related to diversity and social identity more broadly are important to me, for professional and personal reasons. At the very least I need to be able to work effectively as a coach with a wide range of people. So I've made a meaningful effort in recent years to step more fully into conversations on these issues. I've made plenty of mistakes along the way, but I've benefited from a lot of helpful support, and I'm determined to keep trying.
+
+Phase 3, Conscious Competence: Empathy
+
+Empathy is critically important in my work as a coach. My clients and students need to know that I truly understand and share their feelings, particularly those that involve any form of embarrassment or shame in the face of a struggle. At the same time, my reflexive response to others' challenges often takes the form of problem-solving or advice, which can be helpful in certain circumstances but often blocks the full expression and reception of empathy. Feedback from my students and clients suggest that I'm effective at conveying empathy, and yet I know it requires some degree of conscious effort to avoid unhelpful responses.
+
+Phase 4, Unconscious Competence: Support and Challenge
+
+Perhaps the most essential role I play as a coach is providing a balance of support and challenge, and I have to be able to provide both in every relationship (and optimally in every single interaction.) If a client or student feels that I'm a comforting source of support but haven't really challenged them, we're leaving important learning on the table. And if they feel that I offer a bracing challenge but are unsure of my support, they'll be unlikely to trust me fully. I've worked on this discipline for many years, and at this point it feels like second nature to me--it's simply how I am as a coach.
+
+Here's a slide deck of the images above:
+
+Footnotes
+
+[1] Teaching for Learning (Martin Broadwell, The Gospel Guardian, 1969. Also archived via the Wayback Machine and available as a PDF.) Broadwell was a management instructor and Bible teacher from Atlanta, Georgia who appears to have been active from the 1960s through the 1990s, although little information is available about his life and work. I also find Broadwell's Success in Bible Teaching [PDF], written with Sam Binkley in 1973, a wellspring of insights:
+
+- "An alert teacher will always ask, 'Could this class have been run with­out the students?' If the answer is 'Yes' then there is a good chance not much was learned."
+
+- "The key to successful learning is the quantity and quality of feedback that gets to both the teacher and the learner. This is just a fancy way of saying that the students need to know where they are and the teacher does too."
+
+- "The more feedback there is the more each can adjust to the situation... This means that good teachers will try to get as much feedback as early as possible so they can make whatever adjustments are needed."
+
+- "The evidence we have on how we remember shows that we remember the things we say--especially the conclusions we reach--much longer than the conclusions or things we hear someone else say. This means that the effective teacher will quit just before the conclusion, rather than just after he has given it. The difference seems insignificant, but in the long run, the student will benefit considerably from the things he says."
+
+[2] Coaching and Feedback Tools for Leaders
+
+- Specifically, see Make Getting Feedback Less Stressful
+
+[3] Spiral Learning and Flow States
+
+- For more on "flow," see Flow: The Psychology of Optimal Experience (Mihaly Csikszentmihalyi, 2008)
+
+For Further Reading
+
+Conscious Competence Learning Model
+
+Updated February 2021.
+

@@ -1,0 +1,31 @@
+---
+title: sIFR
+url: https://edbatista.com/2005/02/sifr.html
+slug: sifr
+published: 2005-02-19T22:38:23
+updated: 2005-02-19T22:38:23
+source_body: wordpress-html
+---
+
+I don't fully (read: at all) understand the underlying technology, but given my interest in good design, I can't help but feel that sIFR (Scalable Inman Flash Replacement) represents a big step forward for the online experience by offering an open source "standards-compliant way to deliver rich typographical text in a flexible manner to over 90% of web users."  (It was introduced in August 2004 and updated in December.)
+
+Geeks will want to read everything sIFR creator Mike Davidson has to say (there are lengthy comments threads as well.)  Ambitious non-geeks like me might find this synopsis of interest:
+
+The following explains the sIFR process:
+
+- A page is requested and loaded.
+
+- Javascript detects if Flash 6 or greater is installed.
+
+- If no Flash is detected, the page is drawn as normal.
+
+- If Flash is detected, the HTML element of the page is immediately given the class “hasFlash”. This effectively hides all text areas to be replaced but keeps their bounds intact. The text is hidden because of a style in the stylesheet which only applies to elements that are children of the html.hasFlash element.
+
+- The javascript traverses through the DOM and finds all elements to be replaced. Once found, the script measures the offsetWidth and offsetHeight of the element and replaces it with a Flash movie of the same dimensions.
+
+- The Flash movie, knowing its textual content, creates a dynamic text field and renders the text at a very large size (96pt).
+
+- The Flash movie reduces the point size of the text until it all fits within the overall size of the movie.
+
+The rest of you will simply be happy to know that the geeks are working hard to make the web look better.  Hat tip to Jeffrey Veen.
+

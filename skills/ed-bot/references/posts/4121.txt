@@ -1,0 +1,209 @@
+---
+title: Group Dynamics: Norms and Emotion
+url: https://edbatista.com/2021/12/group-dynamics-norms-and-emotion.html
+slug: group-dynamics-norms-and-emotion
+published: 2021-12-05T18:13:50
+updated: 2025-10-08T14:06:12
+source_body: wordpress-html
+---
+
+A frequent theme in my work is the leader who's striving to help a group be more effective. In my practice this typically involves a CEO and their executive team, but similar challenges occur at every level in an organization. One of the most useful resources I've encountered on this subject is a classic Harvard Business Review article by Vanessa Urch Druskat and Steven Wolff on "Building the Emotionally Intelligent Group":
+
+Study after study has shown that teams are more creative and productive when they can achieve high levels of participation, cooperation, and collaboration among members. But interactive behaviors like these aren't easy to legislate. Our work shows that three basic conditions need to be present before such behaviors can occur: mutual trust among members, a sense of group identity (a feeling among members that they belong to a unique and worthwhile group), and a sense of group efficacy (the belief that the team can perform well and that group members are more effective working together than apart). At the heart of these three conditions are emotions. Trust, a sense of identity, and a feeling of efficacy arise in environments where emotion is well handled, so groups stand to benefit by building their emotional intelligence. [1]
+
+To specify the meaning of "emotional intelligence" in this context, Druskat and Wolff refer to the work of author and science journalist Daniel Goleman, who defines someone with high emotional intelligence as both "aware of emotions and able to regulate them--and this awareness and regulation are directed both inward, to one's self, and outward, to others. 'Personal competence,' in Goleman's words, comes from being aware of and regulating one's own emotions. 'Social competence' is awareness and regulation of others' emotions." [2] (Note that emotion regulation is not suppression. [3])
+
+However, Druskat and Wolff add, it's insufficient for a group to simply rely upon individual members' capacity for emotion awareness and regulation. Individuals' behavior in a given group is highly influenced by that group's norms, which I've defined elsewhere as "social regularities that individuals feel obligated to follow, and patterns of behavior based on shared beliefs about how individuals should behave." [4] And it's essential to distinguish between norms, which are what we actually do, and rules, which are what we intend to do, or what we're supposed to do, or what we aspire to do.
+
+So a group's emotional intelligence is a function of the norms that A) create awareness of emotion and B) support emotion regulation during group activities, and when considering how to help a group be more effective, it's important to analyze group behavior in these domains. To help in this process, I've adapted the table below from Druskat and Wolff's much more comprehensive selection. In my work with executive teams as well as in T-groups at Stanford [5], I've found that these 14 behaviors are more than adequate to enable a group to understand and assess how their norms support--or inhibit--emotion awareness and regulation.
+
+(Here's a 1-page, printer-friendly worksheet.)
+
+Norms That Create Awareness of Emotion
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+1. Spend time getting to know each other personally.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+2. Ask how people are doing (e.g., check-ins at the beginning of meetings).
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+3. Share our thoughts and emotions in the moment.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+4. Ask those who have been quiet in a discussion what they think.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+5. Fully explore resistance to decisions.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+6. Discuss and evaluate our own effectiveness as a group.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+7. Acknowledge and discuss the feeling in the group in the moment.
+
+Norms That Help Regulate Emotion
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+1. Have clear ground rules for productive behavior in meetings.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+2. Call out behavior that violates those ground rules.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+3. Express acceptance of others' emotions.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+4. Discuss difficulties within the group and the emotions they generate.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+5. Use playfulness and humor to acknowledge and relieve stress.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+6. Express optimism about our capabilities as a group.
+
+We never...
+We always...
+
+•         •         •         •         •         •
+
+7. Provide positive feedback to each other in the moment.
+
+Putting It Into Practice
+
+In some groups it may be enough to review this framework before holding a frank discussion about norms and emotion. But in my experience most groups find it difficult to analyze their own behavior without first making some dedicated time for such an activity and then conducting an exercise designed not only to surface the necessary data, but also to foster a sense of psychological safety that will encourage greater candor. [6] Below is an exercise intended for groups up to approximately a dozen people--my slides generally include minimal text, so the outline provides some additional guidance for a group or facilitator. An hour is sufficient, but the time can be extended up to 90 minutes. (Allotted times for each segment are suggestions, not exact figures.)
+
+Step One: Conceptual Framing and Worksheets (15 minutes)
+
+- Explore the concepts that underlie the exercise. (It may be useful to read Building the Emotional Intelligence of Groups or the other readings linked below in advance, but this isn't necessary.)
+
+- Druskat and Wolff define group effectiveness as high levels of participation, cooperation and collaboration, and their work suggests that these behaviors are fostered by the presence of mutual trust, a sense of group identity, and a sense of group efficacy.
+
+- In turn, these characteristics derive from a group's emotional intelligence, which is a function of the group's norms regarding emotion awareness and regulation. It's often helpful to note that emotion regulation is not suppression.
+
+- The fundamental purpose of this exercise is to identity productive norms and make them more explicit, a process that should be repeated at regular intervals, not conducted once and forgotten.
+
+- Distribute the worksheets and allow several minutes for their completion. Be sure to note that norms aren't rules--it's important to assess actual behavior, not aspirations.
+
+- Also note that people will not have to share their actual worksheets, but their responses will be disclosed via the group activity below--this helps to create safety.
+
+Step Two: Partner Identification and Group Activity (15 minutes)
+
+- Have people find their partners, which should be assigned in advance, either randomly or deliberately. (Choosing partners at this point tends to create unnecessary anxiety.) If there's an odd number of people participating, form one trio.
+
+- Everyone will observe their partner during the group activity and then have a pair conversation afterwards.
+
+- Clear sufficient space in the room, and spread out 6 cones in a curved line--use as much space as is available. (Small playing field cones are perfect. I've also used 7 cones, which allows people to register a neutral opinion, while 6 cones compels people to express a positive or negative opinion. Note that the worksheet linked above has 6 points on the scale.)
+
+- Start by having the group stand behind the curved line of cones. (The curve will allow people to see where others are located.)
+
+- Go through each of the 14 norms in turn, having people place themselves along the spectrum behind the cone that reflects their response to the question "We always..." or "We never..."
+
+- Proceed slowly, and pause once everyone is settled so that they can note their partner's position, as well as make general observations about the group consensus.
+
+- The exercise generates an immense amount of data in a short amount of time, which is why the partners are so important. It's not possible to track the entire group at once (beyond general observations), but it should be possible for partners to track similarities and differences in their responses.
+
+- Note that if there are any outliers in a given set of responses, this is extremely important data, and these individuals may feel exposed or vulnerable. This is one reason why attending to psychological safety is so important. If the group is experiencing conflict, this exercise may well provoke further distress for some individuals. That's not necessarily a reason to avoid the exercise, but the group should be prepared to address these issues and spend more time in discussion as a result.
+
+Step Three: Pair Discussion (15 minutes)
+
+- After the conclusion of the group activity, pairs should spread out and discuss their observations. It's preferable to keep the pairs in the room and maintain the momentum and energy in the exercise, rather than having people leave the room and return for the group discussion.
+
+- Three questions are suggested:
+
+- What norms are working well?
+
+- What norms are getting in our way?
+
+- How do our actual norms differ from our goals?
+
+Step Four: Group Debrief (15 to 45 minutes)
+
+- Following the pair discussion, the group reassembles for a full debrief. Optimally all members are seated in a circle without a table, so that everyone has equal access and can see everyone else.
+
+- Four questions are suggested (although the three questions above can simply be repeated):
+
+- What did we learn?
+
+- What’s working?
+
+- What’s not?
+
+- What might we do differently?
+
+- As a final step in the debrief, consider the conversation that was just held:
+
+- How did the group conduct this discussion?
+
+- What norms were enacted in the process?
+
+Slideshare: Group Dynamics: Norms and Emotion
+
+Footnotes
+
+[1] Building the Emotional Intelligence of Groups (Vanessa Urch Druskat and Steven B. Wolff, Harvard Business Review, 2001)
+
+[2] Ibid.
+
+[3] The Tyranny of Feelings
+
+[4] Rules Aren't Norms (On Company Values)
+
+[5] "Building the Emotional Intelligence of Groups" was on my syllabus when I taught Interpersonal Dynamics at Stanford, and the exercise described above is adapted from my Group Norms and Roles class.
+
+[6] Safety Is a Resource, Not a Destination
+
+Photo by Woodley Wonder Works.
+

@@ -1,0 +1,21 @@
+---
+title: TalkDigger
+url: https://edbatista.com/2005/08/talkdigger.html
+slug: talkdigger
+published: 2005-08-08T11:04:34
+updated: 2005-08-08T11:04:34
+source_body: wordpress-html
+---
+
+TalkDigger = metasearch for blogs.  From their How it Works? page:
+
+TalkDigger is a meta-search engine. It asks major search engines: "Who links that URL?" The results will then be processed and displayed on Talk Digger. This is a free web service developed by Frederick Giasson.
+
+Couldn't be easier to use, and I love Frederick's honesty on his About page:
+
+I developed an addiction for my blog statistics and for people talking about my writings. I was always checking the link-backs to my domain name on the major search engines...
+
+Then some weeks ago I asked myself that question: why don't you build an application to query all these search engines for you, displaying the results and some statistics of these queries... Then Talk Digger was born.
+
+Hat tip to Anonymous 😉
+

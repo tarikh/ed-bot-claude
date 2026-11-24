@@ -1,0 +1,117 @@
+---
+title: Safety Is a Resource, Not a Destination
+url: https://edbatista.com/2021/10/safety-is-a-resource-not-a-destination.html
+slug: safety-is-a-resource-not-a-destination
+published: 2021-10-13T10:16:00
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+I believe deeply in the importance of psychological safety in organizational life and other group settings. I've been writing about safety and related topics for over a decade. [1] The very first book that I recommended in my monthly newsletter was The Fearless Organization, by Amy Edmondson, the Harvard Business School professor widely regarded as the expert on the subject. [2] And I'm heartened to see more leaders paying closer attention to the psychological environment within their executive teams and in their companies at large.
+
+But I'm also concerned that an increased emphasis on psychological safety in recent years has had some inadvertent and counter-productive consequences, driven in part by a misunderstanding of the term and why it matters. Edmondson provided a concise definition in a 2018 interview:
+
+What makes a workplace psychologically safe or not?
+
+Individuals feel they can speak up, express their concerns, and be heard. This is not to say that people are "nice." A psychologically safe workplace is one where people are not full of fear, and not trying to cover their tracks to avoid being embarrassed or punished.
+
+What I am advocating is candor. Being open. And sometimes that might mean being direct to a fault, knowing that you have a right and a responsibility to ask hard questions about the work: "Is this the right decision? Are we collecting the right data? Do we know the impact this might have on others?" [3]
+
+To be very clear: Psychological safety entails candid and direct communication. It requires asking and answering hard questions. It does not mean "being nice." It does not mean avoiding difficult conversations or fraught topics to ensure that no one experiences distress. To the contrary, a setting in which people are reluctant to be candid and direct for fear of triggering any distress in others is psychologically unsafe.
+
+I'm not suggesting that we should be heedless about the impact of our communication. Carole Robin, one of my mentors, used to remark, "When people say they want to be 'brutally honest,' there's usually more brutality than honesty." Good intentions aren't enough, and it's essential that we communicate with care and deliberation and that we take responsibility for our contribution to misunderstandings and conflicts. [4] This is particularly true for leaders, whose words will be amplified by the power of their position. [5]
+
+Nor do I believe that emotions should be dismissed or discounted. As I've written before, since launching my coaching practice in 2006 I've observed "a greater appreciation for the value of emotions in professional life and a corresponding acceptance of a wider range of emotional expression [and this] has yielded substantial benefits. People can communicate more clearly, more directly, and on a wider range of topics. They can develop deeper, more meaningful relationships with colleagues... And people can simply be themselves more fully on the job, accessing their instincts and intuition without worrying that they'll be labelled 'emotional.'" [6] But there's a shadow side to these developments, as I noted in the same piece:
+
+I'm also observing an increasing cost, which I describe in brief as "the tyranny of feelings," or, more expansively, as the constant privileging of our subjective emotional experience. A simplistic interpretation of the idea that "emotions matter" is "My feelings are justified, because they are my feelings. My feelings at this moment take precedence over all other considerations. I have the right to express my feelings any way I see fit. And if I believe that you are causing my feelings, you are obligated to modify your behavior in order to align with my desired emotional state." [7]
+
+This attitude is often associated with a misunderstanding of the definition of psychological safety and why it matters. When people believe that they should be shielded from all forms of distress and that they can invoke their feelings as an unassailable justification for the rightness of their position, that's not psychological safety--that's emotional blackmail. That's a failure to recognize that a hallmark of adulthood--and perhaps one of the most difficult and important tasks in life--is the cultivation of our capacity for emotion regulation. It also represents a profoundly flawed understanding of how we respond to distress and trauma and our capacity for resilience. [8]
+
+Much of this confusion derives from the belief that psychological safety is a destination--a state to be achieved, at which point the group has accomplished its aims. In this paradigm the absence of distress is the goal, and sources of distress are threats to safety that should be mitigated or eliminated. But this inevitably leads to paralysis and, paradoxically, a less safe environment in which people are reluctant to be candid and direct because someone might experience some form of distress.
+
+It's far more healthy to view psychological safety as a resource--a form of social capital that is amassed so that it can be invested. From this perspective the absence of distress is always a temporary lull in the tumult of human affairs, and sources of distress are also sources of learning that merit further exploration--which is only possible when the setting offers sufficient psychological safety.
+
+This prompts the question, "What's sufficient?" How much safety is necessary to support candid and direct communication, and what does it look like here, now, for us? That's entirely subjective, to be sure. What feels sufficiently safe to me might seem quite unsafe to you, and vice versa. But when we view safety as a resource rather than a destination we make it easier to have an open dialogue about what feels safe (and threatening) to everyone, making it more likely that we'll arrive at a mutually satisfactory understanding.
+
+So what can we do? While every member of a group has a responsibility to consider their contribution to the collective sense of safety, leaders have a special obligation to do so, not only because they serve as role models in determining normative behavior, but also because they may have the ability to remove other members from the group (which can be a primary source of fear and anxiety.) If you're a leader in a setting where safety may be a concern, consider the following:
+
+- Meaning matters. It's not enough to care about psychological safety--every group requires a commonly understood definition of the term. If you sense that "safety" is becoming shorthand for "the absence of distress," have a broader conversation about what people mean by it and how those definitions support (and inhibit) candid and direct communication. Merely initiating such a dialogue may feel risky, but avoiding the topic also carries a cost.
+
+- We can't see our blind spots. It's unlikely that you think of yourself as an intimidating figure (except perhaps on those rare occasions when it's useful to be perceived that way.) But it's very likely that at times your behavior is a source of distress for others, so it's essential to actively solicit feedback on a regular basis. And if you learn that you're inadvertently undermining safety, note that you need not agree with that response, but you can empathize with it--because empathy is not agreement.
+
+- If safety's not the destination, what is? People may conclude that safety is a destination because you've failed to convey what other purpose it might serve. Safety, trust, and intimacy form an essential foundation for experimentation, risk-taking, and vulnerability--which in turn support learning, self-awareness, growth, and change. But these connections aren't always obvious, so you need to make them explicit. Psychological safety isn't an end goal, but, rather, a starting point.
+
+ 
+
+Footnotes
+
+[1] More of my work on psychological safety and related topics:
+
+- Safety, Trust, Intimacy (2010)
+
+- Neuroscience, Leadership and David Rock's SCARF Model (2010)
+
+- Taking the Plunge (Safety, Risk, Learning and Growth) (2012)
+
+- Risk Management (The Importance of Speaking Up) (2012)
+
+- Why Change Is Hard (2014)
+
+- Make Getting Feedback Less Stressful (2014)
+
+- The Danger of Playing It Safe (2016)
+
+- How Leaders Create Safety (and Danger) (2017)
+
+- Taking the Leap (Dealing with Risk and Uncertainty) (2017)
+
+- Accountability and Empathy (Are Not Mutually Exclusive) (2019)
+
+- How We Connect (and Why We Might Not) (2020)
+
+- Feeling Safe in an Unsafe World (2020)
+
+[2] August 2020 Newsletter
+
+[3] Make Your Employees Feel Psychologically Safe (Martha Lagace interviewing Amy Edmondson, Harvard Business School Working Knowledge, 2018)
+
+[4] Intent vs. Impact (When Communication Goes Awry)
+
+[5] The Blue Problem (Communication and Power)
+
+[6] The Tyranny of Feelings
+
+[7] Ibid.
+
+[8] For more on distress, trauma and resilience:
+
+- The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It (Kelly McGonigal, 2016)
+
+- The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma (Bessel van der Kolk, 2015)
+
+- Trauma Stewardship: An Everyday Guide to Caring for Self While Caring for Others (Laura van Dernoot Lipsky, 2009)
+
+- Waking the Tiger: Healing Trauma (Peter Levine with Ann Frederick, 1997)
+
+- In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness (Peter Levine, 2010)
+
+- The Resilience Factor: 7 Keys to Finding Your Inner Strength and Overcoming Life's Hurdles (Karen Reivich and Andrew Shatté, 2003)
+
+ 
+
+For Further Reading
+
+The work of Harvard Business School professor Amy Edmondson has heavily influenced my perspective on psychological safety:
+
+- Make Your Employees Feel Psychologically Safe (Martha Lagace interviewing Amy Edmondson, Harvard Business School Working Knowledge, 2018)
+
+- How Fearless Organizations Succeed (strategy+business, 2018; excerpted from Edmondson's book below)
+
+- The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation and Growth (2018)
+
+- Building a psychologically safe workplace [11:26 video] (TEDxHGSE, 2014)
+
+ 
+
+Photo by Daniel.
+

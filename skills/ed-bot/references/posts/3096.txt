@@ -1,0 +1,29 @@
+---
+title: Our Band Could Be Your Life
+url: https://edbatista.com/2005/01/our_band_could_.html
+slug: our_band_could_
+published: 2005-01-30T22:11:44
+updated: 2005-01-30T22:11:44
+source_body: wordpress-html
+---
+
+Back in December, Merlin Mann of 43 Folders posted a fantastic rant on Five Mistakes Band & Label Sites Make. Don't assume that his warnings apply only to musicians; we've all seen way too many "creative" sites that violate his simple List of Website No-No's:
+
+- Too Much Flash
+
+- Crappy or Non-Existent MP3 Metadata*
+
+- Too Artsy, Too Fartsy
+
+- No Search
+
+- One-Way Communication (i.e. No contact info)
+
+Please read the whole thing, all you site designers with itchy trigger fingers. The world will thank you.
+
+Mann's speaking for all of us Joe Users who frequent fashion-forward sites. Your site doesn't need to look like Jakob Nielsen's (as the guys at Design by Fire made clear.) But Mann is pointing the way toward sites that look good AND work well. Usability doesn't have to be ugly.
+
+*MP3s or no, the concept of metadata is still crucial to your site. (Although obscure blogger Todd Stephens recently theorized that RSS will kill conventional metadata, and big-shot blogger Cory Doctorow opined at the height of the dot-com bubble that metadata is "a pipe-dream, founded on self-delusion, nerd hubris and hysterically inflated market opportunities.")
+
+Hat tip for the title: "History Lesson, Pt. 2" (Windows Media Stream)
+

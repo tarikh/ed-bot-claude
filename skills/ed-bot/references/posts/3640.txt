@@ -1,0 +1,67 @@
+---
+title: Chief Culture Officer
+url: https://edbatista.com/2010/03/cco.html
+slug: cco
+published: 2010-03-26T11:41:26
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+For the past few months I've wanted to recommend Grant McCracken's Chief Culture Officer, a terrific book that came out last December, although I had to wait until I began writing again a few weeks ago.  (Full disclosure: I consider Grant a friendly colleague, and his publisher sent me a review copy of the book.)  In a feat of imagination, Grant has willed into being an entirely new profession--the CCO--and is now tackling the daunting task of telling the business world how to fill a void it didn't even know existed.
+
+So just what is a CCO?  I'll let Grant describe it in his own words (I've added headings for clarity):
+
+The Professional CCO
+
+[pp 14-15] In [many] cases, someone can act as a CCO not because he has studied contemporary culture but because he comes from that culture.  He knows it in his bones.
+
+The problem with this approach is the "best by" date stamped on knowledge.  Our community carries on without us.  In the early days, we can update our knowledge without much effort, but eventually our knowledge wears out.  We have lost our "seal" with culture.
+
+The other problem is that we must finally transcend the community from which we come... Eventually every CCO has to know about the whole of culture, and not just the part of it he or she knows from personal experience.
+
+This is, finally, an issue of professionalism, of systemizing our knowledge, of getting organized, of going beyond our own preferences and comfort zone.  Unofficial CCOs may rely on particular knowledge, on "hunches."  They may feel things "in the gut," as if culture were a probiotic enterprise, after all.  But the professional CCO has a breadth and depth of knowledge.  The CCO has to know the whole of the waterfront, not just his or her favorite patch or point of origin...
+
+Standards, knowledge, continual learning, the ability to process massive bodies of data and possibility, the ability to spot the crucial development in a perfect storm of possibilities--this, and not intuition, is the work of the CCO.
+
+The CCO and the Consumer
+
+[p 30] [The role of the CCO is] to dolly back far enough to see the consumer in her life, in her culture.
+
+Actually, CCOs move in two directions.  The go inward toward the consumer more than anyone else in the C-suite.  They come to know what these lives feel like.  But CCOs also move outward to capture the bigger picture.  Dolly up.  Dolly back.
+
+The CCO and "Homeyness"
+
+[p 46] It is topics like homeyness that separate the CCOs who are moved by genuine curiosity about their culture from those who are merely in it for the really stylish eyewear.  There is nothing in homeyness that will make you look hipper to your friends.  There is nothing here you can drop into conversation at a party.  There is no knowledge here that really works as social capital.  No, the CCO wants to know about homeyness because it is part of American culture, and that's his job.
+
+The CCO, Marketing and Smart Culture
+
+[pp 92-93] The world of marketing is changing at light speed.  And this is another reason to hire a CCO.  If the corporation is now going to talk to consumers, instead of shout, or lie, it needs to know how to start and sustain the conversation... It needs to proceed with a new order of intelligence.  As Steven Johnson says in Everything Bad is Good for You, "For decades we've worked under the assumption that mass culture follows a steadily declining path toward lowest-common-denominator standards, presumably because the 'masses' want dumb, simple pleasures and big media companies want to give the masses what they want.  But in fact, the exact opposite is happening: the culture is getting more intellectually demanding, not less."  To live in this culture, to profit in this new marketplace, a CCO is called for.
+
+This may require a complete replacement of the marketing team.  In the meantime, it will require the presence of the CCO, someone who knows the culture well enough to engage with it, to talk about it, to contribute to it.
+
+The CCO and Profitability
+
+[p 107] There are two ways the CCO pursues profit.  The first is in the workaday business of making the C-suite's decisions better informed of the opportunities and the risks that come from culture.  The second is by acting like an internal entrepreneur, an innovation agent inside the corporation.
+
+The CCO and Corporate Respiration
+
+[p 119] Things are more complicated now.  Now the corporation is not just an economic actor, it is also a social and a cultural one... Instead of the interest-seeking automaton, the corporation looks more organic, like something living and breathing.  A key part of its respiration now is the movement of culture in and culture out.  Only a CCO in the C-suite and only a very smart person serving as CCO can manage this respiration.
+
+Paying particular attention to A) Grant's reference to Steven Johnson's Everything Bad is Good for You (another great book) and the idea that our culture is actually getting smarter all the time, and B) the concept of "corporate respiration," the process by which corporations absorb and (in turn) influence the culture at large, I'm reminded of the first three theses of the Cluetrain Manifesto (surely no accident on Grant's part):
+
+- Markets are conversations.
+
+- Markets consist of human beings, not demographic sectors.
+
+- Conversations among human beings sound human. They are conducted
+
+in a human voice.
+
+Grant's convincing case that a CCO is now a necessary function ultimately derives much of its power from the fact that the world now looks a lot like the Cluetrain visionaries said it would.  Old-school marketing wasn't a conversation, it was a broadcast, or, at best, a one-way feedback loop informed by the findings of focus groups and (gag) "cool-hunters."  That system never really worked well--e.g. John Wanamaker's "Half the money I spend on advertising is wasted; the trouble is I don't know which half."--and its shortcomings explain why we now need a new profession to augment the position formerly occupied by the CMO.  Marketers know how to broadcast to demographic sectors, but they don't necessarily know how to hold a conversation with other human beings (in their professional capacity, that is--I certainly know plenty of marketers who are a joy to talk with 🙂
+
+This highlights one shortcoming of Chief Cultural Officer: any newfangled CCO will face a huge challenge in navigating the complex relationship with their conventional marketing colleagues, and I wish Grant had explored that topic further.  In a section entitled "Playing Well with Others: The Rest of the C-Suite," Grant rightly emphasizes how important it will be for CCOs to never "play the cool card" or be "hipper than thou," and to collaborate with their colleagues by making themselves useful.  But I suspect that while this will be easier said than done, this is actually where CCOs will need to focus a great deal of energy to be most effective.  Even companies that buy into the concept of a CCO will likely continue to maintain a separate marketing function under the direction of a CMO or the equivalent, and the CCO's ability to help the organization make best use of those resources will depend on the strength of the collaborative relationships they build with their marketing peers.
+
+As Grant continues to proselytize on behalf of this fledgling profession, I suspect he'll use lessons learned from the field to fill in this gap.  And this quibble aside, I do highly recommend the book--it's a thoughtful read from a skillful writer and provocative thinker.
+
+(FYI, two other concepts by Grant have had a big influence on me: the Swift Self, and the Elements of Reinvention.)
+

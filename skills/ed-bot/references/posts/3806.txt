@@ -1,0 +1,53 @@
+---
+title: Underdoing It and Overdoing It (Assertiveness Over Time)
+url: https://edbatista.com/2013/11/underdoing-it-and-overdoing-it-assertiveness-over-time.html
+slug: underdoing-it-and-overdoing-it-assertiveness-over-time
+published: 2013-11-12T05:00:00
+updated: 2025-10-15T22:18:29
+source_body: wordpress-html
+---
+
+We often live out the pattern shown above: If we're initially unsuccessful when advocating for a position or seeking to influence others, we imagine that we'll steadily escalate our assertiveness as time progresses (as shown on the dotted blue line).
+
+But what we actually do often looks very different. Early in the process we tend to underdo it--we do escalate, but far too slowly. "That's OK," we say, "it's no big deal"--masking our increasing frustration. Eventually a switch gets flipped, and we assert ourselves much more vigorously. Soon we're overdoing it, unable to control our frustration, and we say or do things we later regret (as shown on the solid red line).
+
+How can we understand what's happening here?
+
+First, we need to ask why we're so slow to assert ourselves in this particular context or relationship. It's likely one in which we're at risk of experiencing a social threat--an interpersonal situation that we perceive as threatening in some way. David Rock's SCARF model reminds us that we tend to experience social threats when dealing with people of higher status or from different social groups, in conditions of uncertainty or diminished autonomy, or when our sense of fairness has been violated. [1]
+
+All of these circumstances tend to cause us to act cautiously--and so we underdo it. But that initial reticence makes it more likely that our efforts at advocacy or influence will fail--and so the situation persists as we keep trying the same (cautious) approach. Eventually our impatience overcomes our caution, and we start to escalate.
+
+But by this point our capacity for mental and emotional control, always limited, is running out, and our ability to finely calibrate our behavior or choose our words has been undermined. [2] A misstep on our part or the other party's can easily trigger a threat response, and soon we're experiencing a full-blown "amygdala hijack," which Daniel Goleman describes as follows:
+
+When [neural] circuits [in the amygdala, a region of the brain involved in processing emotion,] perceive a threat, they flood the body with stress hormones that do several things to prepare us for an emergency... Attention tends to fixate on the thing that is bothering us... That means that we don't have as much attentional capacity left for whatever it is we’re supposed to be doing or want to be doing. In addition, our memory reshuffles its hierarchy so that what's most relevant to the perceived threat is what comes to mind most easily--and what's deemed irrelevant is harder to bring to mind. That, again, makes it more difficult to get things done than we might want. Plus, we tend to fall back on over-learned responses, which are responses learned early in life--which can lead us to do or say things that we regret later. It is important to understand that the impulses that come to us when we're under stress--particularly if we get hijacked by it--are likely to lead us astray. [3]
+
+In the graph above this is when we hit the inflection point in the solid red line--our levels of assertiveness and expressiveness shoot skyward, and suddenly we switch from underdoing it to overdoing it.
+
+So what can we do about this? Four suggestions:
+
+1. Assess the situation.
+
+What's the context? What's the relationship? What's the likelihood that we might perceive some dynamic in the situation as threatening? Here Rock's model can be tremendously helpful: look at every situation from the perspective of each party's status, certainty, autonomy, relatedness and sense of fairness. When any of those factors are undermined, there's a potential social threat.
+
+2. Recognize our "tells."
+
+Although these biological processes are universal, we consciously experience the stress of a threat response in uniquely individual ways. I get a sinking feeling in the pit of my stomach, or my hands get sweaty, but you may feel a tightness in the back of your neck or a shortness of breath or a sense of tunnel vision. Just as poker players scan their opponents for "tells"--signs of fear or overconfidence--these physical and emotional signals are the signs that we're in the grip of a threat response.
+
+3. Question our responses.
+
+As Goleman points out, when under stress we tend to revert to responses that we learned early in life--and those responses aren't necessarily helpful when seeking to influence others or advocate for our position effectively. It's essential to determine when our habitual behavior under stress--which probably feels quite natural and familiar to us--is preventing us from achieving our goals and needs to change.
+
+4. Try NOT to underdo it.
+
+I suspect that we eventually overdo it in part because we underdo it at the start. Our reluctance to be more assertive and expressive at the outset ultimately contributes to our over-assertiveness and hyper-expressiveness later on. By being so cautious at first, when we have the greatest capacity to manage our emotions and calibrate our behavior, we miss a critical opportunity to influence and assert ourselves more effectively. I'm not suggesting we should compete aggressively right away in every interaction--we're likely to be much more effective with a soft startup. I am suggesting that by being slightly more assertive at the outset--by aiming for the dotted blue line above--we may actually lessen the risk of finding ourselves in a counterproductive confrontation.
+
+Footnotes
+
+[1] Neuroscience, Leadership and David Rock's SCARF Model
+
+[2] White Bears and Car Crashes (Thinking About Thinking)
+
+[3] The Brain and Emotional Intelligence (Daniel Goleman interviewed by Monty McKeever, Tricycle, 2011)
+
+- Here's an excerpt from the interview that was previously posted to Goleman's personal site.
+

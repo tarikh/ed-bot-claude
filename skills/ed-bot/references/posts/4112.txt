@@ -1,0 +1,85 @@
+---
+title: Make Feedback Normal, Not a Performance Review
+url: https://edbatista.com/2022/03/make-feedback-normal-not-a-performance-review.html
+slug: make-feedback-normal-not-a-performance-review
+published: 2022-03-15T15:37:34
+updated: 2025-10-04T20:43:11
+source_body: wordpress-html
+---
+
+I first expressed this idea in 2015 during a webinar I conducted for the Harvard Business Review [1], and apparently it continues to resonate with people. [2] The slide above from my webinar is based on a passage in the HBR article that preceded it:
+
+We should strive to create a culture in which feedback conversations are less stressful for all members of the organization. Among other steps, this involves giving and receiving feedback more frequently so that it becomes a normal aspect of organizational life, making it OK to both postpone feedback conversations until a better time, and ensuring that senior leaders walk the talk by offering and inviting direct feedback on a regular basis. [3]
+
+One reason why this concept struck a chord is our continued reliance on traditional performance reviews, despite a growing body of research suggesting that such practices not only fail to have the desired effect, but may even be counter-productive. [4]
+
+I don't think reviews are going to disappear, in part because they serve a number of purposes other than motivating learning and growth, such as creating a predictable calendar for discussions about compensation and career progression, or documenting poor performance as prelude to a termination. In this regard they are similar to interviews, which are deeply flawed as predictors of a successful hire and yet will undoubtedly continue to play a role in the hiring process. [5]
+
+But the persistence of performance reviews need not prevent you from "making feedback normal" in your organization. What might that look like in practice? It's a topic I've explored numerous times over the years:
+
+Make feedback less stressful:
+
+- When delivering feedback, be mindful of subtle steps that might inadvertently trigger a sense of threat in the recipient.
+
+- When receiving feedback, note that how your perceive or frame the experience will affect your stress level.
+
+- Over time, build stronger relationships with the people who'll provide and receive feedback in your organization.
+
+Build a feedback-rich culture as a leader:
+
+- Foster an increased sense of safety and trust.
+
+- Balance critical feedback with heartfelt appreciation.
+
+- Seek out opportunities to give--and receive--feedback in public.
+
+- Ask for feedback from your employees.
+
+Build a feedback-rich culture from the middle:
+
+- Cultivate support among senior leadership.
+
+- Make a case that better feedback supports better business results.
+
+- Ask for feedback from leadership.
+
+Deliver more effective critical feedback:
+
+- Clarify your motivation and intentions.
+
+- Acknowledge and question your need for control.
+
+- Be behaviorally--and emotionally--specific.
+
+- Ask how you're contributing to the problem.
+
+Footnotes
+
+[1] Making Feedback Less Stressful (Harvard Business Review Webinar)
+
+- HBR webinar (1-hour video)
+
+- HBR's summary of my remarks (8-page PDF)
+
+- Webinar slide deck
+
+[2] "Make feedback normal. Not a performance review." on Twitter.
+
+[3] Make Getting Feedback Less Stressful (Originally published at Harvard Business Review)
+
+[4] David Rock and his colleagues at the NeuroLeadership Institute have been making thoughtful critiques of traditional performance review practices for nearly a decade:
+
+- Give Your Performance Management System a Review (David Rock, Harvard Business Review, 2013)
+
+- Kill Your Performance Ratings (David Rock, Josh David and Beth Jones, strategy+business, 2014)
+
+- Why More and More Companies Are Ditching Performance Ratings (David Rock and Beth Jones, Harvard Business Review, 2015)
+
+- Why Performance Management Needs to Become Feedback Management (David Rock, Your Brain at Work, 2019)
+
+[5] Daniel Kahneman on Conducting Better Interviews
+
+For Further Reading
+
+Coaching and Feedback Tools for Leaders
+

@@ -1,0 +1,23 @@
+---
+title: A Little Feed-Cleaning
+url: https://edbatista.com/2006/06/a_little_feedcl.html
+slug: a_little_feedcl
+published: 2006-06-09T01:58:50
+updated: 2006-06-09T01:58:50
+source_body: wordpress-html
+---
+
+I'm not in love with Bloglines, but I still prefer it to the other feed readers (newsreaders, aggregators, whatever) I've tried in the past. (The best reading experience, best mobile access, and decent sharing options overcome the improved-but-still-lousy feed management interface.)
+
+But I've noticed that my list of subscriptions has grown somewhat stale lately--time for an update. First to go is the folder structure I originally set up (1. Heavy Rotation, 2. Regular Spins, 3. Occasional Listens...) that provided a rough ranking of a) how important various authors were to me and/or b) how frequently I felt compelled to check their feeds. That made a little more sense when I was managing my blogroll "by hand" and clicking through to visit sites "in person." I'd visit the sites in the top folder several times a day, those in the second folder once daily, etc.
+
+But now that I read most posts from within Bloglines and rely on the feeds themselves to tell me when there's something new, that structure's meaningless. It's also useless to rely on such a static structure to convey each author's importance to me, because their meaning and value are so dynamic and so dependent not only on the quality, frequency and subject matter of their posts, but also on my own needs and schedule. (What I really need is an intelligent system that will note what I'm actually reading and how often, and use that data both to tell others what I'm paying attention to and to recommend other content that I'd likely be interested in. Maybe some people should get cracking and do something about that.)
+
+So I'm scrapping the hierarchical folders, but I still want to group my subscriptions in clusters that correspond to my various feed-reading modes. For now I'm going to go with AttentionTrust (for my day job), Other Technology, Management, Culture, and Personal. Although I reserve the right to scrap the whole damn thing when a better system comes along.
+
+UPDATE: So far, so...well, better, if not actually good. Clustering feeds in themed folders is a much more effective way to deal with them--I can concentrate on a specific folder depending whether I'm working, focusing on personal interests, or just surfing. The estimable Geof Morris has recommended FeedLounge (again)--I do like what I see (tag your feeds, slick interface), but I don't feel like paying $5 a month (that's not an unreasonable amount, but I'm not that unhappy with Bloglines.) I also spent a little time getting reacquainted with Rojo and Google Reader, and they just don't work for me at all. So Bloglines it is.
+
+And to actually see the feeds I subscribe to, either click on "Feeds I Subscribe To" (brilliant, eh?) near the top of the left-hand sidebar, under my own subscription links, or scroll down near the bottom of the right-hand sidebar, where that list is displayed as a blogroll. For anyone so inclined, the former link will take you to a Bloglines page where you can export these subscriptions as an OPML file.
+
+tags: bloglines feeds rss
+

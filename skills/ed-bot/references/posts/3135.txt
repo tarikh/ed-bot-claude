@@ -1,0 +1,11 @@
+---
+title: Adaptive Path
+url: https://edbatista.com/2005/02/adaptive_path.html
+slug: adaptive_path
+published: 2005-02-23T17:50:15
+updated: 2005-02-23T17:50:15
+source_body: wordpress-html
+---
+
+My post below on Jesse Garret's Ajax primer led me to take a closer look at Garret's company, Adaptive Path.  They're a user experience design shop, and they have some great resources on their site, ranging from paid reports on topics like "How Labels Affect Usability and Branding" ($20) and "How ROI Changes User Experience" to free articles on topics like "Making a Better CMS" and "Metadata for the Masses".  Very cool.
+

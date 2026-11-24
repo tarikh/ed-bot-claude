@@ -1,0 +1,227 @@
+---
+title: Building Blocks (A Tactical Approach to Change)
+url: https://edbatista.com/2019/03/building-blocks-a-tactical-approach-to-change.html
+slug: building-blocks-a-tactical-approach-to-change
+published: 2019-03-16T09:52:54
+updated: 2025-10-09T09:00:00
+source_body: wordpress-html
+---
+
+We tend to think about change in broad, sweeping terms. We grow dissatisfied with some aspect of our lives or ourselves and we proclaim that THINGS WILL BE DIFFERENT FROM NOW ON. But having coached hundreds of senior leaders and MBA students at Stanford since 2006, I've observed that broad, sweeping change is rare--and this way of thinking about change is at odds with the practices that make successful change efforts more likely.
+
+Our preference for familiar patterns of behavior typically renders dramatic change unsustainable, and we readily revert back to the previous state. And the fantasy of the grand gesture obscures the boring reality that the path toward any desired change, no matter how lofty or ambitious, will be paved with innumerable small steps. Change generally involves making different choices, but we rarely resolve an important issue by making a single choice in isolation; successful change entails making the right choice over and over again.
+
+The difficulty of sustaining change over time, and the stark contrast between what we imagine change will be like and what it actually involves can leave us feeling demoralized and incapable--and so we give up. But if our conventional model of change hurts our chances of success, an alternative model can help. Instead of thinking of change as something grandiose, we can break it down into some simple building blocks:
+
+1. Turn goals into activities.
+
+2. Start small.
+
+3. Cultivate habitual routines.
+
+4. Identify assumptions and beliefs.
+
+5. Celebrate little wins.
+
+1. Turn goals into activities.
+
+Our vision of change as a broad, sweeping process is often connected to an ambitious goal that we find inspiring. But a big goal can be a form of shorthand--an overarching label that encompasses a range of related activities. And when we're seeking to act upon our intentions, the label can get in the way by making it harder to define progress or navigate around obstacles.
+
+As I entered my 40s I realized that I needed to take better care of myself and decided to "be healthier." But what did this mean in practice? How would I actually pursue this goal? I was highly motivated, but "being healthy" was too abstract to translate into action, and I eventually identified a set of specific activities that contributed to my well-being: regular exercise, a meditation practice, sufficient sleep, eating and drinking in moderation, and reflective study.
+
+Breaking down "health" into a set of related activities allowed me to see much more clearly where I was making progress and where I was falling short. I could also observe relationships among these activities and adjust accordingly, e.g. sleep and study were often inversely correlated, so I changed my calendar to make time for study earlier in the day.
+
+Further, meaningful change efforts often meet with resistance--we struggle to get started, our initial efforts are halting, the temptation to give up is constant. When we hit these barriers in the pursuit of one large goal, it can feel like all progress comes to a halt. But if we've identified a set of related activities that contribute toward our goal, we can continue to move forward in one area when we're stuck in others. Pursuing the goal of "being healthier" along multiple paths allowed me to make progress on at least one every day. (Over a decade later I still track my efforts in these areas, and while it's rare to engage in all of them on a given day, I usually accomplish most of them.)
+
+- What are your big, ambitious goals?
+
+- What specific, concrete activities would enable you to move toward them?
+
+2. Start small.
+
+While it's useful to pursue a limited set of activities in parallel, at the same time we have to manage our aspirations to insure that our appetite for change doesn't undermine our efforts. This sounds easy, but it can be hard to put into practice. My clients and students are ambitious people who hold themselves to high standards, so when they believe that it's time for change in their lives they typically want to START BIG and address multiple issues simultaneously. It can feel insufficiently challenging or even meaningless to define the scope of the process too narrowly.
+
+But when we try to implement too much change at once, we can set ourselves up for failure, and not only in the short run, but over the long term as well. If we seek to make change in multiple areas and fall short of our goals, we may come to think of ourselves as incapable of change. And the beliefs that we hold about our capacity for change have a significant impact on the outcomes of these efforts. Stanford psychologist Carol Dweck has identified two distinct "mindsets" from which these beliefs stem:
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits... In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. [1]
+
+Concentrating our efforts in specific areas and scaling up over time allows us to feel a sense of efficacy and accomplishment, which can reinforce our belief in our capacity to change and heighten our identification with a growth mindset. Conversely, spreading ourselves too thin at the outset of the process can lead us to flounder and backslide and can have the opposite effect.
+
+Experimenting at a small scale also helps us gather data that can prove useful if it ever becomes necessary to pursue larger, more comprehensive changes in our lives. Efforts to change can help us better understand our underlying assumptions and beliefs (discussed below), how we respond to setbacks, and what support we find most helpful. We learn best when we're slightly stressed but not overwhelmed, and changing at a smaller scale first allows us to be more thoughtful and intentional when the stakes are higher. [2]
+
+Finally, successful small changes may reduce the need for large-scale change. Our desire for change is often driven by unhappiness or a lack of fulfillment, and yet research suggests that a consistent commitment to small, intentional activities may have a bigger impact on those feelings than large, dramatic changes in life circumstances. [3,4]
+
+- Where could you focus your current efforts to change?
+
+- Where would it be easiest to start?
+
+- Where do you anticipate the highest returns on your initial investments of effort and attention?
+
+3. Cultivate habitual routines.
+
+Much of the change that we seek to bring about in our lives entails making different choices regarding activities that we want to engage in (or refrain from) more consistently, and the key to success in these efforts lies in developing and maintaining habitual routines. In William James' 19th-century master-work Psychology: Briefer Course, the founder of modern psychology discusses the "practical effects of habit":
+
+First, habit simplifies our movements, makes them accurate, and diminishes fatigue... Second, habit diminishes the conscious attention with which our acts are performed. [5]
+
+These dynamics are rooted in what Princeton psychologist Daniel Kahneman describes as "the law of least effort," which compels us to "gravitate to the least demanding course of action" in order to preserve our limited capacity for deliberation and active decision-making. [6] Journalist Charles Duhigg explores this concept further in The Power of Habit:
+
+Habits, scientists say, emerge because the brain is constantly looking to save effort. Left to its own devices, the brain will try to make almost any routine into a habit, because habits allow our minds to ramp down more often. This effort-saving instinct is a huge advantage. An efficient brain...allows us to stop thinking constantly about basic behaviors... [7]
+
+As a consequence, one of the most significant factors in whether we'll follow through on a desired change and engage in (or refrain from) a given activity now is whether we've done so before. It's easier to stick with an ongoing commitment and maintain momentum than it is to start a new process from scratch, because once a routine has been established fewer decisions are required to repeat the process and less mental effort is expended (and humans evolved to be "cognitive misers," in Kahneman's apt phrase.)
+
+There are a number of "habit trackers" that can help with this--see the Postscript below--and these tools operate on the same basic principle: Create a calendar to track your progress on a desired activity, and mark off each day you follow through on your commitment. The first such tool of this type that I learned about, Don't Break the Chain, was named after advice that Jerry Seinfeld is reported to have given to developer and former stand-up comic Brad Isaac:
+
+[Seinfeld] revealed a unique calendar system he uses to pressure himself to write. Here's how it works.
+
+He told me to get a big wall calendar that has a whole year on one page and hang it on a prominent wall. The next step was to get a big red magic marker.
+
+He said for each day that I do my task of writing, I get to put a big red X over that day. "After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain."
+
+"Don't break the chain," he said again for emphasis. [8,9]
+
+Despite Seinfeld's belief in the necessity of keeping a chain going, there are potential downsides that I've observed in a number of clients and students (and in my own life). While a growing chain can be motivating, if we feel that success is defined by maintaining a perfect record indefinitely, we may eventually view the activity as an onerous duty and come to resent it.
+
+And when a lengthy streak is broken, we may feel so demoralized that we're actually less likely to start a new one. Resilient and failure-tolerant processes that accommodate our shortcomings are often preferable to demanding-but-fragile ones that don't. As Voltaire reminds us, "The perfect is the enemy of the good." [10]
+
+- What different choices are you trying to make?
+
+- What habitual routines would be helpful in this process?
+
+- What tools could you use to track your progress?
+
+4. Identify assumptions and beliefs.
+
+We embark upon change efforts with the intention of altering our goals and strategies in order to obtain better results. But a limitation of this approach is that our goals and strategies are rooted in underlying ideas that go untested because we take them for granted, view them as universal truths or are unaware of their influence on our thinking.
+
+It's important to step back and identify the assumptions and beliefs that give rise to our goals and strategies in the first place. This process of "double-loop learning" was first articulated by Harvard Business School professor Chris Argyris, who illustrates the concept with a common household device:
+
+Single loop learning can be compared with a thermostat that learns when it is too hot or too cold and then turns the heat on or off. The thermostat is able to perform this task because it can receive information (the temperature of the room) and therefore take corrective action.
+
+If the thermostat could question itself about whether it should be set at 68 degrees, it would be capable not only of detecting error but of questioning the underlying policies and goals as well as its own program. That is a second and more comprehensive inquiry; hence it might be called double loop learning. [11]
+
+Most of our learning is "single-loop"--we make improvements within an existing system that rests on assumptions and beliefs that are implicit and unchallenged. In a "double-loop" process we expand the analytical frame to explicitly identify and question those assumptions and beliefs, and then modify our goals and strategies accordingly. This is easy to understand, but Argyris explains why it can be difficult to execute:
+
+Put simply, because many professionals are almost always successful at what they do, they rarely experience failure. And because they have rarely failed, they have never learned how to learn from failure. So whenever their single-loop learning strategies go wrong, they become defensive, screen out criticism, and put the "blame" on anyone and everyone but themselves. In short, their ability to learn shuts down precisely at the moment they need it the most. [12]
+
+Note the need for emotion regulation in this process. Meaningful change generally involves not only acknowledging the failure of our "single-loop" efforts in the past, but also admitting that some of our most closely-held ideas are wrong or outdated. In order to be able to revise and update these ideas, we must manage the defensiveness that arises when they're challenged. As Stanford professor David Bradford notes, "Failure is inevitable, and what matters is how you handle it, not how you avoid it." [13]
+
+Ten years after I began my initial efforts to be more physically active again, I was fitter and stronger than I'd been since I was a competitive athlete in high school--and then I began suffering a series of painful injuries. The pattern had to repeat itself several times before I finally realized that a powerful assumption of mine was that vigorous exercise would forestall the aging process indefinitely. It's been hard to admit that in my 50s I need to accept limits on my physical capabilities, and I've resisted it strenuously. Coming to terms with aging has stirred up a host of complex feelings, and the ongoing process of working through them has been essential in allowing me to adjust my goals and strategies related to health and wellness.
+
+- What underlying assumptions and beliefs are shaping your goals and strategies?
+
+- How might you make these ideas more explicit?
+
+- What experiments might you run to test the accuracy or continued relevance of these ideas?
+
+- What support will help you work through feelings that may be evoked as a result?
+
+- Note the value of journaling and coaching conversations in this process. [14,15]
+
+5. Celebrate little wins.
+
+A final benefit of this approach is that it creates many opportunities to experience little wins, which can have a surprisingly large and positive effect on our state of mind. But this won't happen by accident--it requires a willingness to celebrate and a degree of mindfulness. Returning to Duhigg's The Power of Habit:
+
+This process [of habit formation] within our brains is a three-step loop. First, there is a cue, a trigger that tells your brain to go into automatic mode and which habit to use. Then there is the routine, which can be physical, mental or emotional. Finally, there is a reward, which helps your brain figure out if this particular loop is worth remembering for the future.
+
+Over time, this loop--cue, routine, reward; cue, routine, reward--becomes more and more automatic. The cue and reward become intertwined until a powerful sense of anticipation and craving emerges. [16]
+
+While much of the literature on change stresses cues and routines, it's just as important to highlight the rewards--and yet we can be reluctant to do so. In my experience high-performing people often merely "check the box" when they've completed a task without allowing themselves to feel victorious or celebrate the milestone. This may spring from a fear that acknowledging the accomplishment will dampen their drive, but Harvard Business School professor Teresa Amabile and productivity researcher Steven Kramer note that the experience of making progress can serve as a stimulus:
+
+Of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work. And the more frequently people experience that sense of progress, the more likely they are to be creatively productive in the long run. [17]
+
+Elsewhere Amabile and Kramer explain that a sense of progress can spur us on to reach new heights:
+
+When people make progress toward, or actually meet, personally meaningful goals, the good match between their expectations and their reading of reality allows them to feel good, grow their positive self-efficacy, get even more revved up to tackle the next job, and mentally move on to something else. Progress motivates people to accept difficult challenges more readily and to persist longer. [18]
+
+One of the reasons bad habits are so hard to break is because the reward is built in at a neurological level--consider the effects of nicotine, alcohol, or social media. [19] In contrast, the habits that we're striving to cultivate as a part of our change efforts are unlikely to have such a visceral impact on the brain. So we need to deliberately create positive experiences that generate a feeling of reward and a sense of progress.
+
+These experiences don't need to be elaborate or time-consuming, but we do have to remember to pause and take in the moment. This is one reason why habit trackers can be so useful: We can feel a small surge of pride each time we "add a link" to one of our chains--as long as the activity hasn't become an onerous obligation. And we can celebrate milestones on these calendars that make our progress visible and feel rewarded for our diligence--as long as we're not anxious about maintaining a perfect streak forever.
+
+- What little wins are you experiencing?
+
+- How will you track your progress toward these milestones?
+
+- What would it be like to celebrate them more fully?
+
+Putting It All Together
+
+Some recommendations to help you put this framework into practice:
+
+- Keep it simple. Identify an easy way to track your progress, and the simpler, the better. Any unnecessary complexity will make it less robust and more fragile. So use pen and paper, a spreadsheet, or a "habit tracker," such as Don't Break the Chain, Don't Break the Chain for iOS, Chains for web and iOS, Day by Day for Android, and Productive for iOS, among a host of others.
+
+- Design your environment. Assess the spaces around you to create the conditions that will nudge you in the direction of desired activities and away from undesired ones. This includes your physical environment as well as your calendar and other virtual settings. (For example, one of the most common changes made by my clients and students who want to spend less time on their phones or get better sleep is simply charging their phone outside their bedroom rather than on their nightstand.) Willpower is not enough. [20]
+
+- Ask for help. Let people who you trust know what you're trying to accomplish, and allow them to help you track your progress, nudge you in the right direction, and celebrate small wins together. When we voluntarily make such public commitments, we're more likely to follow through with our intentions. This stems from a desire to maintain a coherent identity and avoid the cognitive dissonance evoked when our behavior is inconsistent with our stated commitments. [21]
+
+- Get curious. When you fall short of your aspirations--as we inevitably do--be compassionate toward yourself [22] and remember that you're a work in progress. [23] Step back, look at the data, and get curious: What patterns do you see? What is there for you to learn? How might you modify your hypotheses in response and run the experiment differently now?
+
+Footnotes
+
+[1] What Is Mindset (Carol Dweck, 2010)
+
+[2] Neuroscience, Joyful Learning, and the SCARF Model (2010)
+
+[3] Understanding "The Pie Chart" in The How of Happiness (2017)
+
+[4] Lyubomirsky's Person-Activity Fit Diagnostic (2014)
+
+[5] Psychology: Briefer Course, Chapter X: Habit (William James, 1892)
+
+[6] Thinking, Fast and Slow, page 35 (Daniel Kahneman, 2011)
+
+[7] The Power of Habit, page 17 (Charles Duhigg, 2012/2014)
+
+[8] Don't Break The Chain / What
+
+[9] Jerry Seinfeld's Productivity Secret (Gina Trapani, 2007)
+
+[10] Voltaire and Patton on Perfection (2009)
+
+[11] Double Loop Learning in Organizations (Chris Argyris, Harvard Business Review, 1977)
+
+[12] Teaching Smart People How to Learn (Chris Argyris, Harvard Business Review, 1991)
+
+[13] On Failing and Trying Again (2006)
+
+[14] The Value of Journal Writing (2008, revised 2018)
+
+[15] Coaching Tools for Leaders
+
+[16] The Power of Habit, page 19 (Charles Duhigg, 2012/2014)
+
+[17] The Power of Small Wins (Teresa Amabile and Steven Kramer, Harvard Business Review, 2011)
+
+[18] The Progress Principle, page 91 (Teresa Amabile and Steven Kramer, 2011)
+
+[19] Nir Eyal: The psychology of building addictive products (Sylvia Li Sam, 2016)
+
+[20] Against Willpower (Carl Erik Fisher, Nautilus, 2017)
+
+[21] Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+[22] The work of Kristin Neff on self-compassion is immensely useful here.
+
+[23] Learning How to Learn
+
+For Further Reading
+
+Why Change is Hard
+
+Babies, Bathwater and Goal-Setting
+
+Think Small (The Value of Micro-Goals)
+
+William James on Habit
+
+Double-Loop Learning
+
+The Art of Self-Coaching, Class 2: CHANGE
+
+- Slides, readings and related materials from my course at the Stanford Graduate School of Business.
+
+The Art of Self-Coaching, Chapter 2: CHANGE
+
+- A set of related of posts that will ultimately be compiled in a single volume.
+
+Photo by Raúl Hernández González.
+

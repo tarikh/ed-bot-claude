@@ -1,0 +1,119 @@
+---
+title: Talking with Colleagues About Divisive Topics
+url: https://edbatista.com/2023/11/talking-with-colleagues-about-divisive-topics.html
+slug: talking-with-colleagues-about-divisive-topics
+published: 2023-11-07T22:32:11
+updated: 2025-09-24T11:57:59
+source_body: wordpress-html
+---
+
+A theme in my practice in recent years is the leader who's aware that a number of their employees have strong feelings about a divisive topic, often a pressing social or political issue. The leader may or may not share these feelings, and the issues may or may not directly affect the business, but there's an evident gap between what people are feeling and what's being openly discussed. And this state of affairs is creating a sense of uncertainty and discomfort within the organization that could affect the team's working relationships and ability to perform.
+
+This presents the leader with some difficult questions: Should we address the issue? Should we discuss our feelings? If so, where and how would we do that? What's the purpose of such a discussion? What are our goals and objectives? What's the agenda, and how should it be determined? And what role should I play in the process? If you're a leader in this situation, here are some areas to explore and recommendations to consider:
+
+1. Risk
+
+People are often reluctant to address divisive topics in a work setting. Sometimes this is a mistake, because the suppressed feelings may leak out in counterproductive ways. And sometimes this is the right decision, because exploring a divisive topic in a group almost always involves some risk. There's the risk of further inflaming heightened emotions, leaving people more upset and distracted than they were before.
+
+There's the risk of failing to reach any sort of resolution in the time available, leaving people feeling incomplete and frustrated. And there's the risk of open conflict between colleagues, who may find their working relationship damaged. This doesn't mean we should avoid directly addressing divisive topics, but it's important to be aware that such efforts carry risks and to have a plan to mitigate them.
+
+2. Resistance
+
+If you're prepared to address these risks, one of the first steps to take is anticipating resistance from your employees, which can range from mild reluctance to outright refusal. Resistance should generally be viewed as a form of self-protection that stems from anxiety, so it's essential to avoid taking any steps that people might experience as coercive. This will only affirm their anxiety and redouble their resistance. Even if people feel obligated to participate in order to appear compliant, they will remain guarded and wary. At best, the discussion will be an empty, superficial exercise, and you will have lost trust in the process.
+
+This doesn't mean that you must always defer to resistance, but you need to meet it with thoughtfulness and care, not force. And it's surprisingly easy for leaders to be perceived as acting more forcefully than they intended. [1] A little social pressure--a "nudge"--is tolerable, but no one should ever feel "shoved" or compelled to participate in ways that make them feel less safe.
+
+3. Safety
+
+The paradox is that talking about the divisive topic may ultimately make it a safer environment, so it can be worth taking the risk to make the effort. The key is ensuring that people feel as safe as possible along the way, although what is meant by "psychological safety" is often profoundly misunderstood, a topic I've addressed before:
+
+Psychological safety entails candid and direct communication. It requires asking and answering hard questions. It does not mean "being nice." It does not mean avoiding difficult conversations or fraught topics to ensure that no one experiences distress. To the contrary, a setting in which people are reluctant to be candid and direct for fear of triggering any distress in others is psychologically unsafe. [2]
+
+A deep-seated problem with many formal programs intended to address divisive topics in recent years is that they mandate a particular point of view on an issue. Participants are expected to adhere to the officially sanctioned doctrine. Questions are viewed as resistance, and resistance isn't tolerated. As a consequence, these events are little more than theatrical performances. They may enforce compliance, but they never build commitment. [3]
+
+4. Intentions
+
+Sometimes it's our intention to enforce compliance--that's why so many mandatory HR programs are designed the way they are. But if you have other goals in mind for this discussion, it's necessary to clarify those intentions and get people aligned around them. Because of past experience with mandatory HR programs, people may assume that the purpose of the discussion is to obtain (or dictate) a group consensus about the issue. Or they might assume that the goal is to problem-solve and recommend a solution.
+
+But neither of these outcomes is feasible for a meaningful discussion on a divisive issue of any consequence. If you want everyone to be in agreement, you'll get hollow HR theater. And if you think you and your employees need to "solve" a weighty social or political issue, you're setting everyone up for failure and frustration. I'm not suggesting you can't accomplish something important--you can. There's a significant goal within reach for you and your team in almost all circumstances: empathy.
+
+5. Empathy
+
+Medical professor and researcher Theresa Wiseman has explored the concept of empathy because of its importance for nursing and healthcare. She identifies four defining attributes of empathy:
+
+- The ability to see the world as another person sees it.
+
+- The ability to understand another person’s feelings.
+
+- The ability to suspend judgment.
+
+- The ability to communicate this understanding, which is essential "if empathy is to be felt." [4]
+
+Note that empathy is not sympathy, which Wiseman makes clear: "Sympathy involves 'feeling sorry' for the other person or imagining how we would feel if we were experiencing what is happening to them. Empathy differs in that we try to imagine what it is like being that person and experiencing things as they do, not as we would." [5] Similarly, empathy is not agreement, a point I've made previously:
+
+We typically associate empathy with agreement, and we act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing, we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [6]
+
+6. Emotions
+
+It's inevitable that this will be an emotional discussion. The primary reason you're having it is your awareness that people have strong feelings about this divisive topic that they're not expressing with colleagues, and you're concerned that if people continue to suppress such feelings it may exacerbate the climate of uncertainty and discomfort. But a critical counterpart to emotional expression is the capacity for emotion regulation. [7]
+
+In almost all professional settings we err on the side of regulation--one way of distinguishing between professional and personal relationships is that the former are usually much more regulated than the latter, and this is an essential feature of most organizational cultures. Cultures are defined by behavioral norms, and in this discussion you're likely seeking to alter the norms that govern emotional expression without suspending them entirely. [8]
+
+It's hard to create an environment that simultaneously invites greater emotional expression while supporting the necessary emotion regulation that will allow everyone to return to work when it's over. Hard, but not impossible, and this is why it's so important to mitigate the risks, meet resistance with understanding, and work to ensure safety. These are the conditions under which people are willing to be vulnerable, and expressions of vulnerability in a safe environment are the most reliable means of evoking empathy. [9]
+
+7. An Invitation
+
+If you're ready to proceed, consider the collective capacity of your team to handle such a discussion, and ask your key leaders to share their impressions. If you and your leaders are in sufficient agreement, initiate your efforts by extending an invitation, and asking people if they'd like to join you in a discussion. Make it opt-in and not mandatory, and make it clear that people are truly free to opt out, and that no one is obligated to attend. As I note above, it's fine to "nudge" people to attend, but no one should feel "shoved"--this will make it a safer environment for everyone.
+
+Convey your intentions in this invitation. The goal is not to obtain consensus or to get everyone to agree on any particular position. The goal is not to "solve" the problem. The goal is empathy. This will require people to make disclosures, to explain the world as they see it, and to talk about their feelings. This will require listening to understand those feelings, and the suspension of any judgments that may arise along the way. This will require expressing that understanding, in words that ensure that others feel heard. This will not require agreement. Setting these expectations will help people decide how and whether to participate, and will enable them to aim toward a successful outcome.
+
+8. The Agenda
+
+Consider how you want to develop the agenda. You could simply craft it and present it to your employees--this will be simplest, but it may also be a missed opportunity to build commitment. An alternative could be to invite the most interested members of your team to join you in a working session to co-create the agenda. This will also help ensure that you surface ideas about what people would like to do with the time, rather than simply making assumptions about what they think would be best. Yet another option would be to conduct a survey to gather input. However you determine your agenda, circulate it in advance. This will also help people determine whether and how to participate, and will make it feel safer by giving people visibility into what will happen.
+
+9. Logistics
+
+- Timing: You don't want people to feel rushed, and you don't want it to last too long. An hour is probably the minimum, but two will probably feel taxing--90 minutes may be a good compromise.
+
+- Configurations: Consider having people participate in multiple configurations over the course of the discussion, such as pairs or small groups, in addition to the full group. This is one area in which working virtually on a platform like Zoom offers advantages, because you can move people into pairs or small groups and back into the main room very easily. The pairs and small groups can be assigned in advance, or chosen by the participants, or selected at random, but you'll want people to be prepared for the process.
+
+- Facilitation: The presence of an outside facilitator for such a discussion has pros and cons. They're not a member of the organization, which may make people feel less safe, but they may also be perceived as a source of expertise. Their presence will enable you to participate more freely, but if you're not aligned you may get in each other's way. I encourage clients to consider facilitating such discussions themselves, while recognizing that at times it's valuable to have an experienced partner.
+
+10. Next Steps
+
+Finally, be prepared to think of this as an ongoing dialogue, not necessarily a one-time event. The feelings evoked, both positive and negative, may not be fully resolved in a single session. There may be an appetite, and even a need, to continue the conversation. Consider how much time and energy you'll be able to devote to this effort, if any, beyond an initial discussion.
+
+ 
+
+This is a companion piece to Talking With Colleagues About Suffering.
+
+Footnotes
+
+[1] The Blue Problem (Communication and Power)
+
+[2] Safety Is a Resource, Not a Destination
+
+[3] Compliance vs. Commitment (On Behavior Change)
+
+[4] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[5] Ibid.
+
+[6] The Difficulty of Empathizing Up
+
+[7] The Tyranny of Feelings
+
+[8] Group Dynamics: Norms and Emotion
+
+[9] Brené Brown, Vulnerability, Empathy and Leadership
+
+ 
+
+For Further Reading
+
+CONNECTIONS: Meaningful Virtual Conversations
+
+ 
+
+Photo by Adam Cohn.
+

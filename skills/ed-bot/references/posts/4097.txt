@@ -1,0 +1,39 @@
+---
+title: What Kind of Team Are We?
+url: https://edbatista.com/2021/06/what-kind-of-team-are-we.html
+slug: what-kind-of-team-are-we
+published: 2021-06-19T06:57:45
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+My clients and I spend a great deal of time discussing their team. We talk about team culture, team norms, and team performance. We consider various members of the team, their respective capabilities, and their fulfillment and effectiveness. We assess the many relationships within the team: between the leader and each member, between individual members, and among the group as a whole.
+
+But note that the word "team" has many different meanings. Early-stage founders use it to refer to the entire company. Leaders at larger companies use it to refer to their direct reports or their function. Investors use it to refer to their partners in the firm. These groups are all "teams," of course, but it's important to clarify the distinction between different kinds of teams. When we use the word indiscriminately, we create a gap between language and reality, leading to unrealistic expectations or outright confusion. In this context athletic teams can serve as useful analogies, and I find that most teams are one of three types:
+
+A track & field team shares a common identity, but members have different skills and compete independently in separate events. The success of the team as a whole isn't irrelevant, but individual results can matter as much (or even more) to members than their teammates' outcomes. Members offer each other encouragement, but aren't closely involved in others' activities.
+
+An American football team must work together to succeed, but its members have highly specialized skillsets and distinct responsibilities. The team wins or loses as a whole, but members experience variable degrees of individual success and visibility. Members conduct their activities interdependently but separately, often unaware of each others' performance in the moment.
+
+A basketball team can include a degree of specialization among its members, but not always. Sometimes everyone on the court is capable of playing every other position. There are distinctions between stars and role players, but there's also a high need for coordination and interdependence. Members are aware of--and potentially involved in--each others' activities at all times.
+
+These descriptions are oversimplified, but they can be a starting point in assessing a team, surfacing hidden assumptions, and closing any gaps between expectations and reality. If you think we're on the basketball court, and I think we're at a track & field meet, we're going to frustrate each other. If members are incentivized to compete as individuals, but the leader thinks they should be operating as a single unit, they're all going to have problems. There's no right way to organize a team, of course, but we need to be clear on just what kind of team we are.
+
+ 
+
+For Further Reading
+
+Huddle Up! (Building Group Cohesion)
+
+Freud on Startups (Conditions for Group Effectiveness)
+
+Symptoms of Group Strength
+
+Work Style Differences
+
+Abilene: Loneliness and Belonging in Organizational Life
+
+ 
+
+Photos: Track by Santeri Viinamäki. Football by Joe Halbach. Basketball by PxHere.
+

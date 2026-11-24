@@ -1,0 +1,115 @@
+---
+title: Primates Wearing People Masks
+url: https://edbatista.com/2024/05/primates-wearing-people-masks.html
+slug: primates-wearing-people-masks
+published: 2024-05-30T11:06:02
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+Primates take...a mass of social information into account, and are so finely attuned to the moods and intentions of others, that it has been speculated that their high intelligence evolved in order to deal with an increasingly complex group life. This idea, know as the Social Intelligence Hypothesis, may also apply to the enormous brain expansion in our own lineage.
+
+In this view, technical inventiveness is a secondary development: the evolution of primate intelligence started with the need to outsmart others, to detect deceptive tactics, to reach mutually advantageous compromises, and to foster social ties that advance one's career. Chimpanzees clearly excel in this domain. Their technical skills are inferior to ours, but I would hesitate to make such a claim with regard to their social skills.
+
+~Frans de Waal, Chimpanzee Politics [1]
+
+If you're a leader navigating the challenges of organizational life, it's useful to bear in mind that human beings are really just a special type of primate, and this has significant implications for how people behave in groups. We sometimes focus on our special qualities as a species--our capacity for logical reasoning, our facility with tools, our extensive use of symbols--and imagine that we have little in common with our evolutionary cousins. But then we encounter some curious behavior in a group setting, or we find ourselves perplexed by our own behavior in a group, and we may question just how evolved we really are.
+
+This is where it's important to remember that humans are "primates wearing people masks." We put on clothing, adorn ourselves, and employ any number of symbolic artifacts, from wedding rings and Swiss watches to job titles and even our very names. But these accoutrements don't extinguish our underlying identity as primates. So what are the implications of all this for organizational life?
+
+We're Social Animals
+
+Most people are aware that our success as a species is in some way related to the size and complexity of the human brain, but we often mistakenly assume that our evolutionary advantage was derived from our enhanced cognitive abilities as individual problem-solvers. Instead, research suggests that the greatest benefit of a larger brain was our social intelligence--the ability to conceive of and operate within a vast network of interpersonal relationships. [2]
+
+As a consequence, group experiences loom large in our mental landscape, and the social dynamics operating within any group have a powerful effect on its members. This is sometimes overlooked in contemporary Western culture, given our emphasis on the individual. [3] We readily acknowledge the impact of groups in extreme circumstances, such as when a crowd becomes an unruly mob [4], but we often miss the pervasive influence of groups in everyday life.
+
+We're not herd animals, and another defining human characteristic is the ability to wrestle with and overcome our primal impulses, but we remain acutely sensitive to group dynamics and highly motivated to abide by prevailing norms. This can be dysfunctional at times, causing us to censor ourselves or ignore our better judgment. [5] But as with so many confounding aspects of human psychology, it's a feature for the species that occasionally acts like a bug.
+
+So a starting point in organizational life is simply recognizing that people are are profoundly social and keenly sensitive to the impact of group experiences, for better and for worse. Groups aren't merely collections of individuals (although they are that), but can also take on a life of their own, exerting tremendous influence on individuals' judgment, perception, choices and behavior. Countless leaders have exploited this aspect of human psychology to others' disadvantage in dictatorships, cults, street gangs--and some companies. But group dynamics aren't necessarily nefarious, and thoughtful leaders can harness them in ethical ways. [6]
+
+We're Emotional Animals
+
+Psychologists disagree on whether the affective responses we observe in animals should truly be called "emotions" [7], but it's certainly the case that non-human primates display a wide range of such responses that are analogous on some level to human feelings and which serve as a form of "social information" that enables them to co-exist in groups, as the eminent biologist Frans de Waal notes above. The human experience of emotion may be substantially more complex than that of other primates, but in this sense there's a parallel: group experiences always have the potential to evoke emotions, and this "social information" plays a valuable role in organizational life.
+
+Given the nature of coaching, I often talk with leaders about group experiences gone awry as the result of negative emotions. As a consequence it can be tempting to conclude that emotions are a "problem," and being called "emotional" generally carries a stigma in professional settings and suggests a lack of clear thinking. But this misjudges the nature of emotions and their function.
+
+The idea that emotions are antagonistic to reasoning is a popular misconception, one that's exacerbated when we believe that emotions are some sort of base instinct. But neuroscientists have known for decades that emotion and logic work together in concert, and our feelings are vital inputs in reasoning. [8] Emotions allow us to process massive amounts of data very efficiently in a short period of time. In comparison, logical reasoning is a slow and resource-intensive process.
+
+This doesn't mean our feelings are always reasonable or justified, of course. [9] They're a "quick and dirty signal," as noted by neuroscientist Joseph LeDoux. [10] But we rely on emotions to make sense of dynamic, data-rich environments--and that's exactly what occurs in any group setting. Other people are our most vital resource and, potentially, our gravest threat. It's of the utmost importance that we understand their thoughts and intentions, but explicit communication is often insufficient, particularly when we have concerns that our counterparts might lack sound judgment or be untrustworthy.
+
+Emotions fill in those communication gaps by enabling us to rapidly perceive and interpret a host of factors--tone of voice, eye contact, facial expressions, body language--while simultaneously assessing what we know or can surmise about the other people involved. So we shouldn't view emotions as unerring guides to right action, and it's essential to observe and correct for any patterns in which emotions--both positive and negative--repeatedly result in mistaken conclusions or counterproductive behavior. But we should expect that groups will reliably trigger a host of feelings, and we should heighten our ability to sense, comprehend, articulate and express them in order to make most effective use of them.
+
+Simultaneously, we must also expand our capacity for empathy, which can be defined as the ability to see the world from another person's perspective, understand their feelings, suspend our judgments about them, and communicate our understanding. [11] All this entails substantial effort, made easier when we remember that people in groups will reliably trigger emotions in each other, those feelings are potentially useful data (and occasionally misleading), and our "people masks" aren't always accurate indicators of who's feeling what and why.
+
+We're Competitive Animals
+
+As noted above by biologist de Waal, humans' social intelligence differs from that of other primates not in kind, but in degree. One of the most significant differences is our capacity to operate in relatively large social units, and it was the development of advanced social capabilities that enabled early humans to form groups much larger than their evolutionary rivals. Work by anthropologist Robin Dunbar sets this number at roughly 150 people, and a group of that size contains more than 10,000 one-on-one relationships. [12]
+
+A group of 150 people is a powerful force, capable of securing resources and food, fighting off predators, and coping with environmental challenges. Our ability to operate within such large groups is what has enabled us to become the dominant species on the planet, but this advantage also carries some costs. As UCLA neuroscientist Matthew Lieberman has written, "The downside of larger groups is that there is increased competition for food and mating partners within the group. If you are on your own and you manage to find food, it's yours. The larger your group, the more likely it is that one of the others in your group will try to poach it." [13]
+
+More fundamentally, survival depends on one's ability to remain a member of the group. Although bands of early humans came to dominate their environments, individuals were defenseless on their own, vulnerable to attack and the elements. Being left behind or expelled was a death sentence. As a result, we evolved to be acutely sensitive to our social standing and our relative status in the group. [14]
+
+But evolution has solved for the survival of the species, not for our individual happiness or peace of mind. So this heightened awareness of our relative status keeps us collectively striving toward greater accomplishments, while simultaneously being the source of much personal misery. The key for a leader in organizational life is recognizing that our predisposition to social comparison will reliably trigger status contests and power struggles [15] on a near-constant basis, fueled by the unhappiness people feel when they perceive themselves to be "behind" in some way. [16]
+
+Managing these competitive dynamics among employees is one of a leader's primary responsibilities. This is obvious when it comes to issues such as compensation [17] and titles. [18] But it also applies to more subtle forms of status, like the communication patterns within a group. [19] A common theme in my practice is the surprise many clients express at the range and persistence of the interpersonal competitions they're compelled to oversee. But in addition to managing these dynamics among others, we must also bear in mind that we are subject to them ourselves.
+
+Leaders, particularly the CEOs who comprise the majority of my practice, are shielded from aspects of social comparison within their companies, in part because of the status and autonomy that they enjoy as a function of their role. But that very same role puts them in competition with other leaders outside their companies. Sometimes these contests are direct and explicit, as when two companies are going head-to-head in the same market. But more often such competition is symbolic, as when a leader compares their accomplishments to those of friends, classmates, role models, and even historic figures.
+
+As a leader you're almost certainly making such comparisons, and they stoke your competitive fires. [20] Learning how to harness and manage this drive within yourself is one of your most important tasks. The challenge is that the good feelings that accompany success and the flush of victory are inevitably fleeting. And while you'll put certain concerns and anxieties behind you with each new level of accomplishment, new perceived needs will emerge. It's unlikely that you'll switch off this drive, nor is that necessarily desirable--it has undoubtedly contributed much to your ability to generate value for yourself and others. But it also has the potential to render you permanently dissatisfied, competing at ever-higher levels for ever-scarcer prizes. The key is coming to terms with your fundamental nature as a primate in competition with other primates, while determining for yourself what constitutes enough. [21]
+
+ 
+
+Footnotes
+
+[1] Chimpanzee Politics: Power and Sex Among Apes, pages 38-39 (Frans de Waal, 1982, 2nd edition 2007)
+
+[2] "Our social nature is not an accident of having a larger brain. Rather, the value of increasing our sociality is a major reason for why we evolved to have a larger brain." From Social: Why Our Brains Are Wired to Connect, page 33 (Matthew Lieberman, 2013).
+
+[3] "No civilization, as far as I know, has given more scope to individual expression and initiative than the West. Non-Western civilizations have generally tended to subordinate the needs of the individual to those of the collective. Despite important exceptions, including Plato, Aristotle, Hobbes, Rousseau, and Hegel, the prominence of the individual is one of Western civilization’s distinguishing marks. This individualism, as Colin Morris puts it in The Discovery of the Individual, is 'an eccentricity among cultures.'" From A Brief Primer on Individualism in Western Intellectual History (Tamer Nashef, Areo, 2018).
+
+[4] "In a group the individual is brought under conditions which allow him to throw off the repressions of his unconscious instinctual impulses. The apparently new characteristics which he then displays are in fact manifestations of this unconscious, in which all that is evil in the human mind is contained as a predisposition." From Group Psychology and the Analysis of the Ego , page 9 (Sigmund Freud, 1921).
+
+[5] "We frequently fail to take action in an organizational setting because we fear that the actions we take may result in our separation from others, or...we are afraid of being tabbed as 'disloyal' or are afraid of being ostracized as 'non-team players.'" From The Abilene Paradox: The Management of Agreement, page 6 (Jerry Harvey, Organizational Dynamics, Summer 1974). Also see The Abilene Paradox and Other Meditations on Management (Jerry Harvey, 1988).
+
+[6] I discuss how leaders can effectively leverage group dynamics in Loyalty Oaths and Kicks in the Ass.
+
+[7] As a devoted dog owner, I believe that animals' affective responses can be characterized as emotions, but for more on the opposing point of view, see Lisa Feldman Barret's How Emotions Are Made: The Secret Life of the Brain, Chapter 12: Is a Growling Dog Angry? (2017).
+
+[8] Antonio Damasio on Emotion and Reason
+
+[9] The Tyranny of Feelings
+
+[10] The Emotional Brain: The Mysterious Underpinnings of Emotional Life, page 163 (Joseph LeDoux, 1998)
+
+[11] A Concept Analysis of Empathy (Theresa Wiseman, Journal of Advanced Nursing, 1996)
+
+[12] Neocortex size as a constraint on group size in primates (Robin Dunbar, Journal of Human Evolution, 1992)
+
+[13] Lieberman, page 34.
+
+[14] In addition to Lieberman's Social, see the following:
+
+- Good Reasons for Bad Feelings: Insights from the Frontier of Evolutionary Psychiatry (Randolph Nesse, 2020)
+
+- The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does (Sonja Lyubomirsky, 2014)
+
+- Status Anxiety (Alain de Botton, 2004)
+
+[15] Power Struggles Among Nice People
+
+[16] Learning How to Fall Behind
+
+[17] Culture, Compensation and Negotiation
+
+[18] Very Cheap, Then Very Expensive (On Job Titles)
+
+[19] Group Dynamics: Very Loud (and Very Quiet) People
+
+[20] "Most of the time, it's impossible not to compare ourselves with others... Social comparisons arise naturally, automatically, and effortlessly." (Sonja Lyubomirsky, The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132, 2014)
+
+[21] The Trap of Competition
+
+ 
+
+Photo by Brecht Bug.
+

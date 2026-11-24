@@ -1,0 +1,91 @@
+---
+title: Your 360 Report Is Ready
+url: https://edbatista.com/2022/03/your-360-report-is-ready.html
+slug: your-360-report-is-ready
+published: 2022-03-12T11:38:46
+updated: 2026-11-09T15:53:43
+source_body: wordpress-html
+---
+
+You're a senior leader who's initiated or agreed to participate in a 360-degree feedback assessment, with input from your direct reports and other colleagues, including (if applicable) peers, Board members, investors and other stakeholders. A coach or consultant has conducted a series of interviews with your feedback providers and distilled and edited their responses, or perhaps the qualitative feedback was entered directly by your providers and will be shared with you unedited.
+
+If your 360 also included a quantitative component, your providers rated your capabilities on a number of items on a multi-point scale, and your feedback will be compared with others' to illustrate perceived strengths and weaknesses. Your ratings will probably be compared with those for all the leaders in your company who participated in the process, but the 360 provider may also have a larger data set derived from other organizations to provide a baseline.
+
+You've just learned that your 360 report is ready, and you're about to review it for the first time. What can you expect? Here are four themes that characterize the 360 reports I've observed over the years:
+
+1. It will be full of negative feedback and criticism.
+
+It's typical for 360 reviews to be conducted in organizations where feedback is relatively infrequent, occurring at lengthy intervals in the context of formal processes, rather than on an as-needed basis in normal conversations. Anonymous 360s are often proposed as a way to navigate around a reluctance to share feedback more freely or discomfort with face-to-face dialogue. As a result, negative feedback is stored up instead of being discharged, which gives it more force and intensity when it finally finds expression in a 360. Further, in a 360 a number of separate incidents and situations are often distilled into a single comment, which can take the form of global criticism, rather than thoughtful critique, to use a distinction derived from the work of psychologist John Gottman: "[Criticism] is different than offering a critique or voicing a complaint. The latter two are about specific issues, whereas the former is an ad hominem attack: it is an attack on [the other person] at the core." [1]
+
+2. It will have positive feedback as well, which you will discount or ignore.
+
+One of the most reliable patterns in human psychology is the strength and duration of negative emotions and the relatively weak, fleeting nature of positive emotions. [2] This clearly benefits us as a species--evolution has selected for this response because it focuses our attention on potential threats and keeps us safe from harm--but at the individual level it also imposes a cost. We have to work much harder to acknowledge or even notice forms of appreciation and encouragement. As a consequence of this dynamic, every single time I've reviewed a 360 report with an executive they've rushed through all of the positive feedback it contains, or ignored it entirely, and focused almost exclusively on the negative.
+
+3. If you have peers who provided feedback, they'll be the most negative.
+
+This is a function of hierarchy and the role it plays in our working relationships. Even in relatively flat organizations, we consistently establish hierarchies--research psychologists Deborah Gruenfeld and Larissa Tiedens have noted that "the production of hierarchy is a central and omnipresent component of organizing." [3] We typically make a greater effort to regulate our behavior when interacting with someone who's more senior or junior to us in a hierarchy, and when a conflict occurs across a hierarchical boundary, the shared knowledge that the senior figure may choose to resolve the dispute by exerting their authority usually limits the extent of the struggle. In contrast, we're less regulated with people who occupy the same level in a hierarchy, and we often lack clarity on how to settle conflicts with peers, resulting in more rivalries and rancor. A predictable consequence of these factors is that 360 feedback from peers is more critical than feedback from superiors or subordinates. Executives are often surprised by this and may even feel betrayed because they view some of their peers as friends--and yet this, too, is a result of the relaxed boundaries and broader range of emotional expression that we allow ourselves with peers.
+
+4. The feedback will focus on your agency to the exclusion of other factors.
+
+In other words, you'll be portrayed as responsible for all of the problems cited in the report. (This will be more pronounced if you're the CEO, but it will be a theme in your report no matter what your title.) This is the result of another aspect of human psychology, a cognitive bias known as the "fundamental attribution error" which leads us to ascribe greater causality to individuals than to situational factors. [4] But this bias is heightened by the construct of the 360 itself, in which you're positioned as the player on the field and your feedback providers are positioned as "objective observers." What this framing fails to take into account is that the "observers" are also players, whose actions have shaped and influenced your own--but don't expect your feedback providers to take responsibility for their contributions, because being asked to provide feedback to someone else rarely prompts self-reflection.
+
+So you've read your 360 report. Now what? What should you do with it?
+
+Digest It
+
+Most people initially have a negative response to their 360 report. This can be confusing, because in contemporary business culture we're so often told, "Feedback is a gift." And yet in my experience much feedback is stressful and unwelcome--some gift! The key is recognizing that all feedback, including your 360 report, is data. [5] And as you would with any data, you have to separate the noise from the signal. This is the essence of my commentary above--there's plenty of noise in your report, but there's also some very valuable signal. The task is to identify and focus on the latter without being overwhelmed by the former.
+
+Specifically, be sure to thoroughly review and fully acknowledge the positive feedback in your report--it may be even more useful to you than the negative feedback, as the great management thinker Peter Drucker noted:
+
+Waste as little effort as possible on improving areas of low competence. Concentration should be on areas of high competence and high skill. It takes far more energy and far more work to improve from incompetence to low mediocrity than it takes to improve from first-rate performance to excellence. [6]
+
+Acknowledge It
+
+Reviewing your report may feel like the end of the process, but it's really just the beginning. Once you've digested it, the next step will be to talk about it. This may seem paradoxical--didn't you go through the trouble of an anonymous 360 to avoid having these awkward conversations? That may have been the original plan, but organizations make a huge mistake when they imagine that leaders will read their 360 reports and magically transform themselves without any messy dialogue. The real value of a 360 report is in providing a shared data set and a common starting point for a series of conversations, and while these conversations won't necessarily be easy, they can be made less stressful. [7]
+
+In many cases this process begins with the person who interviewed your feedback providers. They'll be able to clarify any ambiguous remarks and provide additional color. But there are limits to what you can accomplish here, especially if you feel inclined to argue with them about what you perceive as flaws or shortcomings in the report. Once they've answered your questions and provided some further context, stop. Don't argue with them. Go talk to the people whose perspective matters most--your feedback providers and other stakeholders:
+
+- One-on-one: At the very least, I highly recommend meeting individually with each of your feedback providers to discuss your report. This will require a significant investment of time, but it will be the best way to separate the signal from the noise, because it will be easier for both parties to speak candidly. These conversations may still feel risky, but that's actually a reason to have them. [8]
+
+- In a small group: Also consider meeting jointly with a subset of your feedback providers, typically your direct reports. This may also feel risky, even daunting, but it will be a unique opportunity to model how to respond to feedback, which will make it easier when you have critical feedback for them. [9] It will also create an opening for the other members of the group to consider their contributions to the problems identified in your 360.
+
+- In larger settings: Finally, it may be advisable to share some remarks with a larger group that includes people who didn't provide feedback but still have a stake in your performance in some way. If you're a CEO or a functional leader this could be at an all-hands or an offsite, which is one of the most effective ways to build a feedback-rich culture. [10]
+
+Respond to It
+
+In whatever settings you choose to acknowledge the feedback you've received in your 360, it will be necessary to also respond to it by indicating what will happen--and what will not happen--as a result. Once again, positive feedback is often overlooked here, so be sure to articulate what you'll continue to do (or do even more of) in response. It's harder to determine how to respond to the negative feedback, but you don't need to agree with it or treat it like a set of obligatory duties. That's a sure path to overwhelm and resentment. But it's essential to avoid responding defensively or to reject it out of hand. Instead, recognize that every piece of negative feedback contains a request for change and that all change carries a cost. With that as a guideline, you can distinguish among the following:
+
+- Easy changes you're happy to make: Your 360 report undoubtedly includes negative feedback on certain behaviors or aspects of your management style that you're not attached to and can modify without undue effort. Remind people that we all have blind spots, and they don't need to wait for a 360 review to give you similar feedback in the future.
+
+- Hard changes you're willing to attempt: Your report probably also includes negative feedback on behaviors or aspects of your style that feel more deeply rooted or will be more difficult to change. Invite people to partner with you in this process, by offering help, support and understanding, and possibly by taking some responsibility for their contributions to the issue.
+
+- Changes that will be too difficult or costly to undertake: By no means should you feel compelled to accede to all of the negative feedback in your report. Some of the changes people are asking for will either impose an intolerable burden on you or will prevent you from accomplishing your goals as a leader. But bear in mind that they're requesting these changes because these behaviors or aspects of your style are imposing a cost on them. You need not grant their request or agree with their point of view, but you can empathize with it. [11]
+
+This is a companion piece to The Problem with Anonymous Feedback.
+
+Footnotes
+
+[1] The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling (Ellie Lisitsa, The Gottman Institute, 2013)
+
+[2] Bad Is Stronger Than Good (Roy Bauermeister, Catrin Finkenauer, Ellen Bratslavsky, and Kathleen D. Vohs, Review of General Psychology, 2001)
+
+[3] Organizational Preferences and Their Consequences (Deborah Gruenfeld and Larissa Tiedens, Chapter 33 in the Handbook of Social Psychology, 2010)
+
+[4] The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process (Lee Ross, Advances in Experimental Social Psychology, 1977)
+
+[5] Feedback Is Not a Gift
+
+[6] "Managing Oneself," Chapter 6 in Management Challenges for the 21st Century (Peter Drucker, 2001)
+
+[7] Make Getting Feedback Less Stressful
+
+[8] Risk Management (The Importance of Speaking Up)
+
+[9] How to Deliver Critical Feedback
+
+[10] Building a Feedback-Rich Culture
+
+[11] Accountability and Empathy (Are Not Mutually Exclusive)
+
+Image by the Electronic Frontier Foundation.
+

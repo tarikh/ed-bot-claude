@@ -1,0 +1,51 @@
+---
+title: Why I (Keep Trying To) Meditate
+url: https://edbatista.com/2012/01/why-i-meditate.html
+slug: why-i-meditate
+published: 2012-01-16T14:16:56
+updated: 2025-09-24T11:59:36
+source_body: wordpress-html
+---
+
+I'm not a very good meditator--in fact, I'm terrible at it. I say that tongue-in-cheek, knowing full well that striving to be a "good" meditator is an exercise in absurdity--but what I mean is that I find meditation difficult, I regularly avoid doing it, and yet I persist in the practice. Why?
+
+Two of my standing goals are to exercise and mediate daily. I track goals like this using a simple tool called Don't Break the Chain [1], and looking back at the last six months of 2011, I can see that I exercised exactly 75% of the time--138 days of out of 184. But during that same span I meditated just 45% of the time--83 days. See what I mean? Not very good 🙂
+
+But in truth I know that my resistance to meditation is an indicator that it's a healthy practice for me, and the fact that it's difficult for me to do it daily is one of the primary reasons I keep at it. I'm not saying I should force myself to do all the things I resist doing. Helping people deconstruct a rule like that--a powerful mental model [2], by the way--is something I do in my coaching practice, and I strive to do the same in my own life.
+
+Rather, I'm saying that there are some specific steps that occur in the meditation process that are valuable for me to experience precisely because of my resistance to the practice. So what are those steps? What happens for me in the meditation process?
+
+I see it as a four-stage cycle:
+
+It starts with Stillness, which sounds easy and yet can be quite hard for me. My mind is always in motion, and I'm constantly thinking and planning ahead. I'm tracking an endless list of ideas and to-dos, and while I find this stimulating, it also creates a lot of noise. The last time I re-committed myself to regular meditation, in early 2011, I described the experience as feeling "mentally itchy"--meditation allows (and compels) me to just be still.
+
+The next step is Awareness. In the stillness I can see where my attention goes and sense what I'm feeling, both emotionally and physically, much more clearly. Note that I'm not saying that I "clear my mind" or "think of nothing" or anything like that. My mind's still working away, and thoughts and emotions continue to rush through me, but I'm much more aware of them.
+
+The next step is Choice. The awareness of my thoughts and emotions that comes with the stillness allows me to be more intentional, and to focus my attention and make use of my emotions in ways that better support my goals. This isn't to say that I'm always seeking to consciously influence my cognitive and emotional processing; that's neither possible nor desirable. But even the ability to simply notice what I'm thinking about and feeling allows me to choose to filter out the noise and focus on more meaningful cognitive and emotional signals.
+
+The final stage of the process is Discipline. And while I use that word deliberately, I want to be careful to avoid the negative connotation that can often accompany it. Jon Kabat Zinn notes that our minds will constantly wander during meditation, just like a puppy wandering away while being paper-trained, and we need to treat ourselves just as would treat the puppy--not harshly, but compassionately, with firmness and with care. [3] Because the cycle described here repeats not just from day to day but many, many times in the course of a single meditation session, and the act of noticing that my mind has wandered and is speeding up again, slowing it down and returning to a sense of stillness is itself a useful form of disciplined practice.
+
+I'm not off to a great start in 2012--I've meditated just 6 times in 15 days. But writing this post has helped clarify the value I derive from the practice and inspires me to do it even more. Many thanks to Bill George, whose discussion of his own meditation practice has been highly motivating. [4]
+
+Two concluding thoughts: First, there's an extensive and growing body of research demonstrating the psychological, physiological and performance benefits of meditation. That's a post for another day, but for now I'll express my continued thanks to David Rock for pointing me in that direction. [5]
+
+And I'm reminded of the master's dictum: If you don't have time to meditate for 30 minutes, then meditate for an hour. I'm all too aware that as I get busier and have less time to meditate, I tend to cycle faster and need to put on the brakes all the more. I'm not saying I live by that credo, but it's an aspiration.
+
+Footnotes
+
+[1] Don't Break the Chain
+
+[2] Corn Mazes and Mental Models
+
+[3] Mindfulness Meditation for Pain Relief (Jon Kabat-Zinn, 2010)
+
+[4] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+54] David Rock on Neuroscience, Coaching and Leadership
+
+Here's a 2-slide PowerPoint of the graphics above.
+
+Updated March 2021.
+
+Photo by Holly Ford Brown.
+

@@ -1,0 +1,17 @@
+---
+title: Happy Birthday, Jakob!
+url: https://edbatista.com/2005/06/happy_birthday_-2.html
+slug: happy_birthday_-2
+published: 2005-06-01T09:54:31
+updated: 2005-06-01T09:54:31
+source_body: wordpress-html
+---
+
+Ten years of Alertbox and counting.  We're all in Jakob Nielsen's debt, and even when people tweak his anti-style, they do it with love.
+
+I've learned a great deal from Nielsen, not only explicitly through his regular Alertbox updates and numerous white papers, but also implicitly through his business model and his approach to knowledge sharing.  I can't afford to attend one of his seminars, but because he's freely shared so much useful information, I'm more than happy to promote his ideas and services through links, references, and occasional posts like this.
+
+Thanks, Jakob, and here's wishing you ten more years of success.
+
+jakob nielsen usability
+

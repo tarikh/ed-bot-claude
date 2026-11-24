@@ -1,0 +1,37 @@
+---
+title: Buzzword Bingo
+url: https://edbatista.com/2005/05/buzzword_bingo.html
+slug: buzzword_bingo
+published: 2005-05-26T21:03:00
+updated: 2005-05-26T21:03:00
+source_body: wordpress-html
+---
+
+If your work involves technology or marketing in any way, you run across (and probably use) buzzwords every day.  Ever wondered why?  VC blogger Tim Oren recently posted on the up- and downside of buzzwords and does a masterful job of exploring their useful purposes as well as the ways in which they can be abused.
+
+In response to a commenter who asked, "Why is the tech industry to quick to fall into the latest buzzword?" Tim writes:
+
+Because detecting and analyzing a pattern in development of technology, to the point where it is a useful predictive tool, can require skills ranging across analysis of a platform's APIs, the prospects for nanometer scale fabrication, transactions costs economics effects, user's acceptance of new interfaces and form factors, Internet impacts on distribution and supply channels, just to name a few. It's a rare head that combines skill in enough of these domains to grasp all the factors likely to drive the trajectory of a particular technology. When that knowledge is combined with business sense, you get a Bill Gates. The rest of us need to find a way to speak to others whose knowledge is in different domains, who can't understand the minutiae, or command the intuition, that we have in our fields, and vice versa.
+
+He goes on to discuss a timely case in point:
+
+Now let's talk about The Long Tail, Chris Anderson's phrasing of the citizens' media erosion of the mass media market. It was my busting of inappropriate use of that phrase that caused the original post and comment.
+
+Anyone who's been reading this blog for a while realizes that the fundamental behaviors behind the Long Tail have been known for some time...I even had my own little try at metaphorizing it over 18 months ago. So why does Chris have the big book advance, while I'm still watching my mailbox for the publishing contract? Is there no justice in this capitalistic world? Well, actually, there is in this case. His formulation is better than mine, along the axes I defined above: technology, market, finance....
+
+[Anderson's formulation] provides a synchronizing vision for the multiple interests I identified. To the technologist, an über-goal for design: Help extend the tail by reducing entry and transaction costs for new media creators. To the financier: Here's why your major media stocks are in trouble, here's where to hedge, or play the new opportunity. To the customer (the advertiser): Here's where your target demographic is hiding, how do you plan to reach them now? To the customer (the reader): You don't have to settle for one-size-fits-all coverage any more."
+
+Ah, but what about the downside, you ask?
+
+So far I've given you the upside. I am in venture capital, right? There are downside risks associated with buzz phrase addiction.
+
+The failure mode best known to the VC is the drift of the buzz phrase and theory from tool for analysis, to substitute for analysis. In the best of worlds, the theory becomes a interrogative model for a business or technology vision. Does this explain what's happening to me? Is this a movement I can exploit? Can I spot a new opportunity that I'm uniquely suited to fill?
+
+In the worst of worlds, I get a business plan littered with catch phrases, where there has been no analysis applied to make sure that the conditions precedent to the underlying theory actually apply...
+
+One can argue that sort of semantic degradation is a nearly inevitable outcome of Valley hucksterism of various sorts. An equally frequent failure is miscalling the rate or extent of a change...
+
+Then there are the buzz phrases that are just wishful thinking, that don't actually stand for any True pattern of human behavior and technology possibility. They tend to come and go a bit faster, since market validation never arrives. But they can take quite a lot of money and effort down with them...
+
+So, yes, buzz phrases and their attendant theories are a bit like drugs. Taken in moderation, they can be beneficial to your business analysis and model. But they carry the same warnings: Make sure they fit your symptoms. Take only as directed. Throw away when expired. And beware of quacks.
+

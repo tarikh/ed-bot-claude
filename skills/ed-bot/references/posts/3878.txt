@@ -1,0 +1,103 @@
+---
+title: First Impressions
+url: https://edbatista.com/2016/03/first-impressions.html
+slug: first-impressions
+published: 2016-03-15T05:00:00
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+Precedents matter. What you do and say early on in a relationship (romantic or business) sets the expectation; hard to change. (via @ramit)
+
+— Ben Casnocha (@bencasnocha) October 12, 2015
+
+I made a note of this tweet from Ben Casnocha last Fall and am reminded of it as I prepare to meet a new group of students at Stanford when Spring Quarter begins in a few weeks. As a coach and teacher, I begin new professional relationships all the time. (I started seeing my wife in 1986, so it's been a few decades since I began--or ended--a romantic relationship.) But even without an academic calendar delivering new students to their door, most leaders I work with also have to manage an endless series of first impressions.
+
+The nature of this dynamic changes as we get more senior, of course. Early in our career we often try to make a "good impression" at the outset of a relationship by sensing what the other party is looking for and demonstrating our ability to provide it, and there's certainly some value in learning to convey the basics: warmth, caring, competence. But soon enough we realize that there's also a cost to be paid if we continue to prioritize making a good impression over making an accurate one. [1] Because the very idea of a "good impression" connotes a certain flexibility and responsiveness that can be useful to convey when we're just grateful for the opportunity, and counterproductive when we need to truly be ourselves in order to add value.
+
+The critical thing to notice early on in a relationship is the extent of the vacuum that surrounds us, reflecting how little we know about each other. What are your intentions? What are your capabilities? Are you trustworthy? Will you have my back? Who ARE you? And this vacuum causes anxiety, which we seek to dispel immediately by gathering data--and in the absence of data we make shit up, as my colleague Carole Robin says.
+
+So we rapidly extrapolate from the first few data points generated in a new relationship, a sub-conscious process that begins within 1/10 of a second [2], and lacking real knowledge we create theories to explain the other party, their behavior, and their choices, rapidly racing up the ladder of inference. [3] And then our confirmation bias causes us to look for (and find!) more data that fits our theories.
+
+A theme in my work is the importance of slowing down, and that's particularly important early in a relationship. [4] We often find new people stimulating, so initial interactions can be exciting or stressful (or both.) In this state we're less effective at taking in data and less effective at interpreting it correctly, so it's essential to be mindful of the data we're gathering and the data we might be leaving out, and to challenge any theories we're constructing on the basis of that data. [5]
+
+The most useful stance is one of curiosity--and not only about the other person, but also about ourselves and our reactions to them. Notice what actions we're taking or considering. Notice the theories, beliefs, and emotions underlying those actions. Notice the interpretations that give rise to those ideas and feelings. Notice the data that we're interpreting. Notice what we notice...and what we ignore. How interesting, how curious. [6]
+
+The longer we can maintain this stance of curiosity, the more data we can gather and the more accurate our theories. And yet we can't just sit back and be passive observers in this process until we feel we understand the other person sufficiently to act with confidence. That would be weird and creepy, of course, but more significantly we'd miss the opportunity to take advantage of the point Ben makes above--our initial statements and actions in a relationship set precedents that have weight and are hard to undo. This is both a challenge and an opportunity. The challenge is that it's easy to guess wrong--we come in too flexible, or too authoritative, or we just misunderstand the other person and wind up setting precedents that don't serve the relationship. But with effort and practice, we can take advantage of the opportunity to set the right precedents, to begin relationships in the right way, with the right balance of flexibility and authority and mutual understanding.
+
+This isn't rocket science, but it does require:
+
+- A sense of self-awareness, even (and especially) when stressed or energized.
+
+- A recognition that small moments matter.
+
+- A commitment to regular practices that build our capacity for attention management and emotion regulation: meditation (or some form of mindfulness), exercise, good sleep, and stress reduction. [7]
+
+ 
+
+Thanks to the 2015-16 Leadership Fellows I worked with at Stanford this year. They asked me to reflect on my contributions to their effectiveness as a group, and one item on that list was "Paying attention to first things," a concept that helped inspire this post.
+
+Footnotes
+
+[1] The cost of making a good impression instead of an accurate one escalates as we grow more senior. For more, see It's Time to Stop Interviewing.
+
+[2] How Many Seconds to a First Impression? (Eric Wargo, Association for Psychological Science, 2006)
+
+[3] The "ladder of inference" is a model first developed by Chris Argyris, building on the work of S.I. Hayakawa and Alford Korzybski, and articulated further by William Isaacs and Rick Ross. For more, see Racing Up the Ladder of Inference.
+
+[4] The Importance of Slowing Down
+
+[5] Seeing What's Not There (The Importance of Missing Data)
+
+[6] "Notice everything and pay attention to things that puzzle. Pay attention to things that demand your attention and then refuse your understanding. Pay attention to the failure of attention." (Grant McCracken, Account Planners and Fearless Noticing, 2007)
+
+[7] In The Art of Self-Coaching I devised the (admittedly cheesy!) acronym MESSy to highlight the importance of mindfulness, exercise, sleep and reducing chronic stress. For more on these topics:
+
+Mindfulness
+
+- Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+- Arriving at Your Own Door: 108 Lessons in Mindfulness (Jon Kabat-Zinn, 2007)
+
+- Meditation Techniques for People Who Hate Meditation (Stephanie Vozza, Fast Company, 2014)
+
+- 26 Scientifically Proven Superhuman Benefits of Meditation (Jon Brooks, ComfortPit, 2014)
+
+- This is what eight weeks of mindfulness training does to your brain (Christian Jarrett, BPS Research Digest, 2016)
+
+Exercise
+
+- Get Moving! (Exercise for Busy People)
+
+- Walking lifts your mood, even when you don't expect it to (Christian Jarrett, BPS Research Digest, 2016)
+
+- The First 20 Minutes: Surprising Science Reveals How We Can Exercise Better, Train Smarter, Live Longer (Gretchen Reynolds)
+
+- Need A Self-Control Boost? Get Outside (Jessica Stillman, Inc., 2014)
+
+Sleep
+
+- Great Leaders Sleep Well--Why Rest Is Critical for Success (Ronnie Hendel-Giller, 2018)
+
+- There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm, Harvard Business Review, 2016)
+
+- You Can't Do Your Job if You Don't Sleep (Tony Schwartz, Harvard Business Review, 2012)
+
+- Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes, Harvard Business Review, 2016)
+
+- Senior Leaders Get More Sleep Than Anyone Else (Rasmus Hougaard & Jacqueline Carter, Harvard Business Review, 2018)
+
+- The Science of Sleep: Dreaming, Depression and How REM Sleep Regulates Negative Emotions (Maria Popova, The Marginalian, 2012)
+
+Stress
+
+- Trauma Stewardship: An Everyday Guide to Caring for Self While Caring for Others (Laura van Dernoot Lipsky with Connie Burk, 2009)
+
+- Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+- Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success (Brad Stulberg and Steve Magness, 2017)
+
+- Embracing Stress Is More Important Than Reducing Stress (Clifton Parker, 2015, discussing recent work by Stanford psychologist Kelly McGonigal)
+
+- How to Make Stress Your Friend [14-minute video] (Kelly McGonigal, 2013)
+

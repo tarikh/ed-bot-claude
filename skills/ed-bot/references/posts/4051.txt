@@ -1,0 +1,169 @@
+---
+title: Aggression, Panic, Paralysis, Denial
+url: https://edbatista.com/2020/09/aggression-panic-paralysis-denial.html
+slug: aggression-panic-paralysis-denial
+published: 2020-09-09T10:40:43
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+As I talk to leaders about the impact of the current environment on their own lives and those of their employees, friends and families, a common theme is the pervasiveness of a set of counterproductive emotional states: aggression, panic, paralysis, denial.
+
+Some people are moving assertively to win competitions or bolster their status, treating every issue as a zero-sum battle. Some people are overwhelmed by fear, struggling to calm themselves and put anxieties in perspective. Some people are unable to take necessary action, postponing decisions and avoiding hard conversations. Some people are acting as though everything will be "back to normal" soon. And still others who were coping well are now falling into one of these states as the weeks turn into months.
+
+We can view these states as manifestations of a threat response, more commonly described as a "fight, flight or freeze response." When we encounter a situation that we perceive as a threat, consciously or unconsciously, we employ one of these strategies: We mobilize to fight for survival or compete for scarce resources, we flee in search of safety, or we essentially "play dead," hoping that the danger will pass us by unobserved. (Psychologist Peter Levine notes that prey animals routinely survive being hunted by "freezing," and post-traumatic stress disorder in humans may result from our limited capacity to employ this strategy effectively. [1] This may be why my clients are seeing it manifest as paralysis or denial.)
+
+So when we observe these states in ourselves and in others, what will help?
+
+1. Awareness
+
+One of our emotions' most significant features is the ability to interrupt conscious thought and capture our attention--this is what enables them to alert us to potential threats and opportunities so quickly and effectively. But a consequence of this dynamic is that our emotions can be profoundly immersive--we can be swallowed up by a feeling, we can become the feeling, rather than maintaining a separate identity as someone having a feeling.
+
+Further, although neuroscientists such as Antonio Damasio have demonstrated that emotions are essential inputs into the process of logical reasoning, feelings are not always accurate guides to effective action. [2] As Damasio himself acknowledges, "uncontrolled or misdirected emotion can be a major source of irrational behavior." [3]
+
+So in the current environment it's vitally important to maintain a degree of awareness about our emotional state--to recognize feelings of aggressiveness, panic, paralysis or denial and be mindful of their influence on our choices. And when confronted with others' seemingly irrational behavior, we need to expand the frame and ask: What are they feeling? What emotions are underlying their choices? We may be able to help them recognize and manage these feelings more effectively.
+
+If you're a leader you can heighten awareness in your organization by legitimizing employees' emotional experience: Ask how people are feeling, listen attentively, and actively empathize. [4] And note that empathy is not agreement--you need not agree with someone's point of view or believe that the resulting feelings are justified in order to empathize with them. [5]
+
+At the root of these emotional states is a sense of threat, a perception that our survival is at stake or that we're in jeopardy of losing something meaningful. We each have a signature threat response, and we all respond differently to various stimuli, so part of the task here is expanding our understanding of our own response and the responses of those around us. Bringing this awareness to situations in which we might conceivably feel threatened can allow us to sense our response sooner and regulate our feelings more effectively. [6]
+
+2. Action
+
+Conscious awareness thus allows us to act more intentionally to counter any sense of threat we might be experiencing. As I've noted before, "We often assume that our attitude drives our behavior, and that we act as we do because of underlying thoughts and feelings...[but] rather than being a one-way causal relationship, it's a two-way street: While our attitude obviously informs and influences our behavior, our behavior also informs and influences our thoughts and feelings in a dynamic and cyclical process." [7]
+
+Psychologists and neuroscientists have yet to fully understand the mechanisms by which this process occurs, but we can still experiment to determine what specific behaviors might help us down-regulate our threat response. At times simply slowing down our breathing and our speech can be helpful. These prompts may also serve to remind us that any sense of urgency may be unwarranted, in which case the useful action is to pause and return to the issue at hand at a later time.
+
+As I recently noted, we can also respond to a sense of threat in the larger world by seeking to create "pockets of agency," smaller settings in our lives in which we experience ourselves as an intentional actor, rather than the subject who is acted upon. [8] The goal isn't to ignore the large-scale challenges we face, but to provide a respite from them in which we remind ourselves of our ability to act with intention.
+
+Further, we can take action over time to increase our capacity for emotion regulation. I use the acronym MESS to remind me of the importance of the following: mindfulness practices such as meditation; regular physical exercise; a consistent good night's sleep; and identifying unnecessary sources of chronic stress. An ample body of research has shown that investing in these practices can have a meaningful impact on our ability to down-regulate negative emotions and allow us to feel safer in the face of a threat response. [9]
+
+If you're a leader, pay close attention to ways in which you might inadvertently inhibit employees' ability to act independently or resist your influence--people may want to move more quickly or more slowly than you'd like on a given issue, or they may want to focus on a different set of priorities. I'm not suggesting that you should reflexively defer to these preferences, but before you rely on positional authority to overrule them, consider whether they might be efforts to manage a threat response. And note that your own commitments to mindfulness, exercise, sleep and stress reduction aren't indulgences--they're investments in your capacity to down-regulate negative emotions. [10]
+
+3. Acceptance
+
+A sense of safety is necessary for psychological well-being--in its absence we can feel overwhelmed by our vulnerability in an unpredictable and chaotic world. But we often pursue safety by seeking to exert control, making our surroundings more predictable and orderly, and the current environment has rendered many of the tools we employ for these purposes less accessible or even useless. While taking action as described above can help, such tactics are even more effective when employed within a larger stance of acceptance. Even as we strive to exert greater control in our lives, we can choose to recognize, as psychotherapist Sheldon Kopp asserted over 40 years ago, that control is an illusion. [11] This may sound paradoxical, but the ability to live with paradox is a necessary skill in the current environment.
+
+I've seen a version of this many times in my practice--in my experience as a coach a hallmark of effective startup CEOs is the capacity to tolerate cognitive dissonance, the profoundly uncomfortable position of holding in mind two realities that "are not psychologically consistent with each other," in the words of pioneering psychologist Leon Festinger. [12] As I've written before, these leaders "must be exuberant optimists, portraying a compelling vision of a successful future...[and] must also be keenly aware of the nearly endless list of risk factors and things that could go wrong, sometimes to the point of inducing anxiety." [13] The CEO who seeks to act with integrity and remain open to new data must accept this paradox and hold both realities in mind.
+
+I'm also reminded of Admiral James Stockdale's reflections on his experience as a prisoner of war. When Stockdale was asked by business author Jim Collins who among his fellow POWs were least likely to survive, he replied,
+
+Oh, it’s easy. I can tell you who didn’t make it out. It was the optimists... They were the ones who always said, "We’re going to be out by Christmas." Christmas would come and it would go. And there would be another Christmas. And they died of a broken heart... This is what I learned from those years in the prison camp, where all those constraints just were oppressive. You must never ever ever confuse, on the one hand, the need for absolute, unwavering faith that you can prevail despite those constraints with, on the other hand, the need for the discipline to begin by confronting the brutal facts, whatever they are. We’re not getting out of here by Christmas. [14]
+
+Startup CEOs face a metaphorical existential threat--if they fail, the company dies--while Stockdale and his fellow POWs faced a literal one. The current environment poses a wide range of metaphorical and literal threats to each of us--depending on our circumstances, both our livelihoods and our lives may be at risk. But whatever challenges we face, cultivating our tolerance for cognitive dissonance and increasing our ability to live with paradox will serve us well. This is what will allow us to maintain an "unwavering faith" that we will prevail, while simultaneously "confronting the brutal facts, whatever they are."
+
+That same capacity is also necessary if we are to feel sufficiently safe to go about our lives while accepting that control is an illusion and our efforts to exert control are inevitably inadequate responses to a chaotic, unpredictable world. This has always been the true state of affairs, yet many of us have papered it over or looked away, requiring the comfort of an illusion in order to function. A potentially useful aspect of the current environment is that we're being invited to see reality more clearly, which presents us with an opportunity to be less dependent on our illusions and, further, to acknowledge our mortality, which is the underlying source of the aggression, panic, paralysis and denial we see around us. As I've written before,
+
+While a fear of death is necessary to sustain life, we must maintain it just outside of consciousness in order to live--and this tenuous balance ultimately breaks down. The ability to effectively repress our awareness of mortality becomes increasingly difficult in midlife, not only as we experience it literally (the loss of a parent or other loved ones, a significant birthday, the evidence of our own aging), but also as we encounter the milestones...which highlight the passage of time. [15]
+
+This is the source of the current environment's power and its ability to evoke these emotional states. We usually experience reminders of mortality in smaller, more intimate configurations--in families, in relationships, as individuals--or later in life, when past experiences have enabled us to feel more prepared. Today we're being reminded of our mortality collectively, all at once, in multiple domains of life, and at every stage of life, whether we're prepared for it or not.
+
+So when we're confronted by aggression, panic, paralysis or denial--and when we experience these states ourselves--we can choose to meet them with resistance and frustration, or we can choose to meet them with empathy. We can recognize them as efforts to exert control, to feel safe, to transcend mortality. Such efforts are futile, of course, but they're also understandable--all life is characterized by a fierce will to live. Rather than fight to suppress these feelings in ourselves and others, we can accept them, see them for what they are, and let them go.
+
+ 
+
+This post is the second in a series on coping in the current environment:
+
+- Part 1: Pockets of Agency
+
+- Part 2: Aggression, Panic, Paralysis, Denial
+
+- Part 3: Tumbling Down Maslow's Hierarchy
+
+- Part 4: Wounded Creatures
+
+- Part 5: The Legitimacy of Loss
+
+- Part 6: Risk Calculus and Social Norms
+
+Footnotes
+
+[1] Waking the Tiger: Healing Trauma, Chapters 1 and 7 (Peter Levine, 1997)
+
+[2] Antonio Damasio on Emotion and Reason
+
+[3] Descartes' Error: Emotion, Reason, and the Human Brain, page 52 (Antonio Damasio, 2005)
+
+[4] How Great Coaches Ask, Listen and Empathize
+
+[5] The Art of Self-Coaching (Public Course), CLASS 4: EMOTION
+
+[6] Accountability and Empathy (Are Not Mutually Exclusive)
+
+[7] Attitude and Behavior
+
+[8] Pockets of Agency
+
+[9] For more on these topics:
+
+Mindfulness
+
+- Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+- Arriving at Your Own Door: 108 Lessons in Mindfulness (Jon Kabat-Zinn, 2007)
+
+- Meditation Techniques for People Who Hate Meditation (Stephanie Vozza, Fast Company, 2014)
+
+- 26 Scientifically Proven Superhuman Benefits of Meditation (Jon Brooks, ComfortPit, 2014)
+
+- This is what eight weeks of mindfulness training does to your brain (Christian Jarrett, BPS Research Digest, 2016)
+
+- Eight weeks to a better brain (Sue McGreevy, The Harvard Gazette, 2011)
+
+- Changing Our Brains, Changing Ourselves (an interview with Richard Davidson)
+
+Exercise
+
+- Get Moving! (Exercise for Busy People)
+
+- Walking lifts your mood, even when you don't expect it to (Christian Jarrett, BPS Research Digest, 2016)
+
+- The First 20 Minutes: Surprising Science Reveals How We Can Exercise Better, Train Smarter, Live Longer (Gretchen Reynolds)
+
+- Need A Self-Control Boost? Get Outside (Jessica Stillman, Inc., 2014)
+
+Sleep
+
+- Great Leaders Sleep Well--Why Rest Is Critical for Success (Ronnie Hendel-Giller, 2018)
+
+- There's a Proven Link Between Effective Leadership and Getting Enough Sleep (Nick van Dam and Els van der Helm, Harvard Business Review, 2016)
+
+- You Can't Do Your Job if You Don't Sleep (Tony Schwartz, Harvard Business Review, 2012)
+
+- Sleep-Deprived Leaders are Less Inspiring (Christopher Barnes, Harvard Business Review, 2016)
+
+- Senior Leaders Get More Sleep Than Anyone Else (Rasmus Hougaard & Jacqueline Carter, Harvard Business Review, 2018)
+
+- The Science of Sleep: Dreaming, Depression and How REM Sleep Regulates Negative Emotions (Maria Popova, Brain Pickings, 2012)
+
+Stress
+
+- Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success (Brad Stulberg and Steve Magness, 2017)
+
+- Embracing Stress Is More Important Than Reducing Stress (Clifton Parker, 2015, discussing recent work by Stanford psychologist Kelly McGonigal)
+
+- How to Make Stress Your Friend [14-minute video] (Kelly McGonigal, 2013)
+
+- Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+[10] Investments, Not Indulgences
+
+[11] What Took You So Long? (Sheldon Kopp, 1979)
+
+[12] "Cognitive Dissonance" (Leon Festinger, Scientific American, October 1962, pages 93-94)
+
+[13] The Cognitive Dissonance of the CEO
+
+[14] The Stockdale Paradox (Jim Collins, 2017)
+
+[15] Not Every End Is a Goal (On Midlife Malaise)
+
+ 
+
+For Further Reading
+
+Feeling Safe in an Unsafe World
+
+ 
+
+Image: Four Horsemen of the Apocalypse by Viktor Vasnetsov, 1887.
+

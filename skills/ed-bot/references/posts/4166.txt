@@ -1,0 +1,117 @@
+---
+title: Minding Our Mindset
+url: https://edbatista.com/2022/09/minding-our-mindset.html
+slug: minding-our-mindset
+published: 2022-09-17T09:21:46
+updated: 2025-09-24T11:58:02
+source_body: wordpress-html
+---
+
+What we think--and particularly what we think about ourselves--influences how we perceive the world around us and how we experience that world. Our thoughts and perceptions--and the resulting emotions--shape our reality. A perfect example of this is the placebo effect: Research has shown that "A particular mind-set or belief about one's body or health may lead to improvements in disease symptoms as well as changes in appetite, brain chemicals and even vision." [1]
+
+I'm not suggesting that a positive self-image is all that's needed to make improvements in our lives, but a fuller understanding of the attitudes and beliefs we hold about ourselves is certainly useful data in the process. Work by psychologist Carol Dweck suggests that in these efforts we may be able to take advantage of the distinction between a "fixed mindset" and a "growth mindset," which she describes as follows:
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success--without effort. They're wrong.
+
+In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work--brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment. [2]
+
+Author Maria Popova provides additional context to help us understand the implications of Dweck's ideas and how we might put them into practice:
+
+One of the most basic beliefs we carry about ourselves, Dweck found in her research, has to do with how we view and inhabit what we consider to be our personality. A "fixed mindset" assumes that our character, intelligence, and creative ability are static givens which we can’t change in any meaningful way, and success is the affirmation of that inherent intelligence, an assessment of how those givens measure up against an equally fixed standard; striving for success and avoiding failure at all costs become a way of maintaining the sense of being smart or skilled. A "growth mindset," on the other hand, thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities. Out of these two mindsets, which we manifest from a very early age, springs a great deal of our behavior, our relationship with success and failure in both professional and personal contexts, and ultimately our capacity for happiness. [3]
+
+Although Dweck's initial research on mindset dates back to the 1980s, her ideas gained prominence in the 2000s, driven in part by their relevance for parenting and early childhood education. [4] But in recent years Dweck's claims for the effects of a growth mindset have been challenged. For example, in 2020 several psychology professors essentially rejected the concept outright:
+
+We empirically tested six key premises of [Dweck's] mind-set theory. We found that the strength of the claims appears to outweigh the strength of the evidence, at least for university students. That is, in all cases, mind-set's effects were significantly weaker than the average effect size found in social-psychological research. [5]
+
+And yet carefully-designed studies conducted by Dweck and her colleague David Yeager, among others, seem to demonstrate the impact of mindset-related interventions:
+
+The National Study of Learning Mindsets showed that a low-cost [growth mindset intervention], delivered in less than an hour, attained a substantial proportion of the effects on grades of the most effective rigorously evaluated adolescent interventions of any cost or duration in the literature... The finding that the growth mindset intervention could redirect critical academic outcomes to such an extent--with no training of teachers; in an effectiveness trial conducted in a population-generalizable sample; with data collected by an independent research company using repeatable procedures; with data processed by a second independent research company; and while adhering to a comprehensive pre-registered analysis plan--is a major advance. [6]
+
+Science writer Lydia Denworth has explored the controversy, including the results of both papers cited above, ultimately concluding that Dweck's ideas have validity but their impact has been overstated and expectations should be tempered:
+
+A few methodological questions about Dweck's work have emerged (as have questions about the replications and failed interventions), but the loudest criticism makes the claim that mindset research overpromised and underdelivered... Dweck and Yeager’s recent Nature findings underscore the realization that successful mindset interventions appear to require finesse. "The national study showed us how much more there is to learn," Yeager says. They spent years fine-tuning the materials they used and are confident in their appropriateness for ninth graders but cannot be sure about other populations or about the materials used in other interventions... The new motto for mindset science, then, seems to be this: tone down the hype and hone the details. [7]
+
+Denworth's perspective strikes me as sound, particularly given other critiques of Dweck's work. [8] I remain convinced of the value of a growth mindset for self-development efforts, in part because of prior research--consistent with my empirical experience with clients and students--showing that people with a growth mindset pay closer attention to mistakes and are more likely to improve their performance as a result. [9]
+
+With Denworth's cautionary guidance in mind, how might we make use of the concept of mindset? While Dweck has developed a simple instrument to test whether someone tends toward a fixed or growth mindset, its purpose is to sort students participating in research studies, and I don't find it useful in my work as a practitioner. [10]
+
+Instead, I believe that merely understanding the difference between a fixed and growth mindset is sufficient for adult learners pursuing self-development efforts, and our general tendency toward one or the other is less important than our specific tendencies in different endeavors and domains of life. For example, it's been valuable for me to cultivate a growth mindset regarding my abilities as a coach and writer, but I have no problem with remaining in a fixed mindset when it comes to my musical talent or hand-eye coordination.
+
+The key is the willingness to step back and examine yourself with a heightened degree of candor and self-awareness. This work can take place in any number of settings--on a reflective walk, in a written journal [11], in a conversation with a trusted friend or colleague. [12] But it won't happen when you're too busy or distracted--you'll need sufficient peace and space to explore the following questions:
+
+- In a particular context, what data do I have about my capabilities and potential?
+
+- What additional data may be missing from this analysis?
+
+- How am I interpreting this data? What do I think it means?
+
+- What other interpretations and meanings are possible?
+
+- How do my current interpretations inform my actions?
+
+- If I were to suspend my current interpretations, what might I do differently? [13]
+
+The goal is to surface your governing beliefs about yourself and to temporarily hold them in abeyance while you run some experiments that will test those beliefs' current accuracy or relevance. As I've written before,
+
+We believe to be true an enormous number of assumptions and mental models that exert a powerful influence on our self-image, on our sense of our own capabilities, on our perceived range of options, and ultimately on the lives we lead. In some cases these beliefs are well-founded, but in others they're not. Or they were once accurate but are now long outdated and in need of revision. And what neuroscientists and social psychologists are discovering about the power of mindset even calls into question what we mean by "well-founded" and "accurate." What we believe to be true shapes our reality. [14]
+
+And as the great poet Virgil noted in The Aeneid, "They can, because they think they can." [15]
+
+Footnotes
+
+[1] The Meaning of Mindset. The quote on the placebo effect is from Why Placebos Work Wonders (Shirley Wang, The Wall Street Journal, January 10, 2012), which cites a number of contemporary studies.
+
+[2] What Is Mindset? (Carol Dweck, 2012)
+
+[3] Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives (Maria Popova, The Marginalian, 2014). Popova's concise and thoughtful essay remains the best discussion of Dweck's work that I've encountered--even better than Dweck's own commentary--but Popova was writing before the recent critiques of mindset theory were published and doesn't take them into account.
+
+[4] Following the publication of Dweck's Mindset: The New Psychology of Success (2006), the impact of her work was amplified further by author Po Bronson, who discussed it in an influential article (How Not to Talk to Your Kids, New York, 2007) and book (Nurture Shock: New Thinking About Children, 2009, co-authored by Ashley Merryman).
+
+[5] How Firm Are the Foundations of Mind-Set Theory? The Claims Appear Stronger Than the Evidence (Alexander Burgoyne, David Hambrick and Brooke Macnamara, Psychological Science, 2020).
+
+[6] A national experiment reveals where a growth mindset improves achievement (Carol Dweck, David Yeager, et al, Nature, 2019)
+
+[7] Debate Arises over Teaching "Growth Mindsets" to Motivate Students (Lydia Denworth, Scientific American, 2019)
+
+[8] For further criticism of Dweck's work, see the following:
+
+- Happy talk, meet the Edlin factor (Andrew Gelman, Statistical Modeling, Causal Inference, and Social Science, 2016)
+
+- No Clarity Around Growth Mindset (Scott Alexander Siskind, Slate Star Codex, 2015)
+
+- I Will Never Have the Ability to Clearly Explain My Beliefs About Growth Mindset (Scott Alexander Siskind, Slate Star Codex, 2015)
+
+- Growth Mindset 3: A Pox on Growth Your Houses (Scott Alexander Siskind, Slate Star Codex, 2015)
+
+- Growth Mindset 4: Growth of Office (Scott Alexander Siskind, Slate Star Codex, 2015)
+
+- Siskind's four-part series above begins with a sharp critique of Dweck's work, but concludes with a defense of the mindset research by one of her colleagues, which Siskind explores thoroughly. It's a lively read.
+
+- A Mindset "Revolution" Sweeping Britain's Classrooms May Be Based On Shaky Science (Tom Chivers, BuzzFeed News, 2017)
+
+[9] Mind Your Errors: Evidence for a Neural Mechanism Linking Growth Mind-Set to Adaptive Posterior Adjustments (Jason Moser et al, Psychological Science, 2011). This research appears to be contradicted by the findings of Burgoyne et al noted above, but its findings are consistent with my experience as a practitioner, so I continue to reference it while noting the discrepancy in results.
+
+[10] Examples of Dweck's mindset instrument are available via the Open Science Framework and Stanford's SparqTools.
+
+[11] The Value of Journal Writing
+
+[12] Self-Coaching is SOCIAL
+
+[13] Derived from Chris Argyris' ladder of inference.
+
+[14] Suspension of Belief
+
+[15] The Aeneid (Virgil, translated by Joseph Trapp, 1718). A version of this line is often mistakenly attributed to the American industrialist Henry Ford. I haven't read Trapp's 18th century edition of The Aeneid, but I have read Robert Fagles' contemporary version, which I highly recommend.
+
+For Further Reading
+
+Learning How to Learn
+
+The Meaning of Mindset
+
+Meredith Whipple Callahan on Mindsets
+
+Perception, Understanding and Self-Awareness
+
+Photo by R/DV/RS.
+

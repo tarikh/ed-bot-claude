@@ -1,0 +1,31 @@
+---
+title: Audioscrobbler
+url: https://edbatista.com/2005/05/audioscrobbler.html
+slug: audioscrobbler
+published: 2005-05-23T17:05:19
+updated: 2005-05-23T17:05:19
+source_body: wordpress-html
+---
+
+In their own words, Audioscrobbler...
+
+...builds a profile of your musical taste using a plugin for your media player (Winamp, iTunes, XMMS etc..). Plugins send the name of every song you play to the Audioscrobbler server, which updates your musical profile with the new song. Every person with a plugin has their own page on this site which shows their listening statistics. The system automatically matches you to people with a similar music taste, and generates personalised recommendations.
+
+I just started using it, so my profile's pretty skimpy at the moment--but I'm just going to let iTunes shuffle my 2,226 song "Alt, Punk, Pop & Rock" playlist for a few days on end and see what happens.  Check out my Audioscrobbler page to watch my profile evolve.  Once I get over 100 songs in my profile, Audioscrobble promises to find users with similar tastes and put them in my "neighborhood," so I can look over their profiles
+
+Also cool--and requiring no registration--is their Explore Music feature.  Type in the name of a band to see a list of associated bands (determined by the frequency with which Audioscrobbler users listen to both.)  For example, here are the top 25 bands on today's list for Interpol (based on results from 60,107 people):
+
+Audioscrobbler doesn't make this explicit, but I'm interpreting the chart as saying that 100% of the people who listen to Wilco and the White Stripes also listen to Wilco, 74% of the people who listen to the Fiery Furnaces also listen to Interpol, etc.  In contrast to this data, when I go to Interpol's page on Amazon right now, the list of "similar artists" is:
+
+- The Cure
+
+- Franz Ferdinand
+
+- The Postal Service
+
+- Air
+
+- Death Cab for Cutie
+
+None of which are in the Audioscrobbler list above, or even in the complete list of 100 bands Audioscrobbler associates with Interpol. Hmmm.  We'll see if anything useful or interesting comes out of this, but it's sure seems kewl.
+

@@ -1,0 +1,25 @@
+---
+title: Bad Leader! Stifling Dissent
+url: https://edbatista.com/2009/08/stifling-dissent.html
+slug: stifling-dissent
+published: 2009-08-10T12:45:30
+updated: 2025-09-24T11:59:40
+source_body: wordpress-html
+---
+
+In short order Bret Simmons of the University of Nevada, Reno, has become one of my favorite thinkers on management; he's in Bob Sutton's class as an academic who clearly gets the web, and his blog is a lively and informative read.
+
+Today Bret has a great post on how bad leaders stifle dissent:
+
+1) Your people never see you say no.  You never disagree or challenge the people you work for, so your people never learn from you how to do this with purpose.  You send the very clear message that “no” is not acceptable around here.
+
+2) People that have told you no are gone.  You have systematically removed from your inner circle everyone that disagreed or challenged your policies and decisions.  But that’s ok, because everyone knows they were not team players, or were disloyal or disrespectful.  This is the rhetoric of conformity and exclusion.
+
+I'd add a third behavior to this list: Failing to accept differences of opinion and pushing beyond a reasonable point to obtain uniform public agreement.  Your people don't feel free to voice disagreement because you hound them until they change their mind (or at least that's what they appear to be doing.)
+
+There will always be times when leaders need to override their team members--and making that decision wisely is a key element of effective leadership.  When a leader makes that choice, it's usually advisable to devote some time to discussion to see if common ground can be found and/or to persuade the team.
+
+But if common ground can't be found, and persuasion's not effective, and the leader still believes that overriding the team is the right way to go, they need to accept their team's right to disagree and trust that the team can still deliver on their mandate.  Pushing further to extract (superficial) agreement demonstrates a lack of trust (in them and in your own authority), leads to intractable arguments and/or hypocrisy, and insures that you'll hear fewer honest opinions in the future.
+
+(And if you don't recognize Humprey Bogart as Captain Queeg, get The Caine Mutiny on your Netflix queue ASAP.)
+

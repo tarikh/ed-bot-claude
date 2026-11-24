@@ -1,0 +1,37 @@
+---
+title: Are We Rowing or Rafting?
+url: https://edbatista.com/2016/03/startup-leadership-are-we-rowing-or-rafting.html
+slug: startup-leadership-are-we-rowing-or-rafting
+published: 2016-03-16T05:00:00
+updated: 2025-10-10T14:14:00
+source_body: wordpress-html
+---
+
+Last year I proposed that startup leaders assess the composition of their team and the emerging organizational culture by asking "Are we video-gaming or ditch-digging?" This post poses a related question aimed at helping leaders adapt their management style to the task at hand and match people with suitable roles and projects: Are we rowing crew or whitewater rafting?
+
+When powered by a team of skilled rowers, racing shells makes rapid progress toward the finish line. They move quickly and efficiently, although to be truly effective they require calm conditions and a clearly defined goal, and they have to be pointed in the right direction at the start, because they can't navigate sharp turns. (Don't even think about trying to reverse course.)
+
+Although river rafts are also a form of water transport, they couldn't be more different from racing shells. Rafts can handle the most turbulent whitewater, and they're much less effective in calm conditions where they're harder to propel. As a result they're easy to turn and can even reverse course when necessary, but are generally better suited to exploring than racing.
+
+Early-stage startups can alternate rapidly between rowing and rafting, and early-stage leaders need to sense what mode is required in a given moment in order to manage the team accordingly. Sometimes it's a rowing race, and the team needs to find the shortest path to the finish line, with everyone pulling together in unison. And sometimes it's whitewater rafting, and the team needs to creatively explore the best ways to survive the surrounding turmoil and chaos.
+
+As the company grows, different roles and functions begin to take on different identities, typically related to their operational responsibilities. Some individuals and sub-groups spend more time rowing, while others spend more time rafting. These distinctions aren't definitive, however; even hard-core ops teams need to do some exploring on a raft now and then, and even blue-sky strategists need to drive toward a finish line once in a while.
+
+The key for later-stage leaders is knowing what mode a team will typically operate in, hiring execs with the appropriate mindset and skills, and then stepping back or getting hands-on, depending on the situation. A team of rowers may need to be managed closely at the outset, to ensure that they're headed in the right direction, and then they may need to be left alone to make meaningful progress. A team of rafters may need some time and space at the outset to explore various possibilities, and they may need closer guidance later on to ensure that the exploring doesn't continue indefinitely.
+
+Alternately, a team of rowers may need help making progress through rougher waters, and a team of rafters may need some propulsive energy if they're entering a calm stretch, particularly if their immediate managers lack those skills personally.
+
+A challenge startup leaders often face is the exec whose skillset was the right fit for the role when they were hired, but who's now failing to evolve with the company's needs. They're a talented whitewater rafter, but what's needed today is focus and efficiency. Or they're great in a racing shell, but what's needed today is creative thinking in a chaotic environment. There's no simple solution, but the best startup leaders are able to coach their executives and help them grow along with the company, while also being prepared to fire team members when necessary in a way that's minimally disruptive and traumatic.
+
+For Further Reading
+
+Startup Leadership: A Greater Us
+
+Startup Leadership: Are We Video-Gaming or Ditch-Digging?
+
+Startups as Human Systems
+
+Startup Leadership (A compilation of related posts.)
+
+Photos: Rowers by Christopher Schmidt. Rafters by ariel wants a chip.
+

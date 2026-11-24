@@ -1,0 +1,21 @@
+---
+title: I'm Telling You for the Last Time
+url: https://edbatista.com/2006/01/im_telling_you_.html
+slug: im_telling_you_
+published: 2006-01-07T23:44:28
+updated: 2006-01-07T23:44:28
+source_body: wordpress-html
+---
+
+Having said some nice things about Last.fm lately, I've been disappointed to find their system down at least twice in the past few days--as I write this, it's been down all evening.  Given that all they do is keep track of the songs I play on iTunes, I'm a lot more disappointed than you'd expect.  I'm pretty pissed, actually.  What gives?
+
+There's an interesting dynamic at work here.  When we begin to capture our attention data, like my iTunes playlist, we unlock its potential value.  Not monetary value--I'm not getting a dime from Last--but the inherent value in seeing for ourselves and showing others what we're paying attention to.  And the great thing about an attention service like Last is that value is created while we're busy going about our ordinary activities, like listening to music.  But when the service goes down, and we realize that our attention data is no longer being captured, we feel the absence of the value that's no longer being created.  Even though the actual experience is unchanged--I'm listening to Dirty Three right now--the meta-experience is gone.
+
+And when it's a dynamic stream of attention data that can change dramatically in a short period of time--like the music I listen to--then uptime becomes very important, because you never know when a unique burst of attention data is going to come down the pipe.  I spent a recent evening listening to a lot of old Naked Raygun.  The next morning I realized that Last had been down the previous night, and I was annoyed because data that I assumed was being captured was gone; a meta-experience that I thought I was having didn't actually occur.
+
+Two lessons here: First, if you're an attention service like Last, get your act together.  Once users begin to think of your service as something more than a science project (to quote Steve Gillmor), they're going to have a very low tolerance for downtime.
+
+And second, if you're a user who really values your attention, you're probably going to want to roll your own attention service at some point.  In an RSS world, Last isn't doing anything that I shouldn't be able to do for myself, and sooner or later some geek is going to show non-techies like me how to turn my iTunes playlist into a feed that I control, without relying on a third party.
+
+tags: Last.fm attention attentiontrust
+

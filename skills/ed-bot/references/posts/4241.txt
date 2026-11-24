@@ -1,0 +1,101 @@
+---
+title: Why Your Bonus Plan Isn't Working
+url: https://edbatista.com/2024/08/why-your-bonus-plan-isnt-working.html
+slug: why-your-bonus-plan-isnt-working
+published: 2024-08-04T15:28:55
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+A major theme in my practice is executive compensation. Like all other professionals, my clients are seeking to obtain a fair return in exchange for their services, and they're also leaders who must offer competitive compensation to attract and retain top talent. In some conversations, we'll focus on a client's own financial requirements, and in others we'll address the needs of one or more employees, or the company's overall approach to compensation
+
+I don't provide comparable datasets or detailed guidelines for compensation plans, although I can refer my clients to people who do. [1] Instead, when working with clients on their individual compensation I'm generally helping them think about their overarching goals as well as their immediate negotiation strategy. [2] And when working with clients on employee compensation, my role is to help them consider the organizational implications of any particular choices they might make.
+
+In the latter case, we often wrestle with the issue of bonuses. Economic sociologist Viviana Zelizer describes the various forms bonuses can take:
+
+Advance inducements to make some major commitments (e.g. enlistment in the army), after-the-fact lump-sum rewards (e.g. veteran's bonuses, retirement bonuses), discretionary rewards by employers (e.g. Christmas bonuses), payments tied to extraordinary individual achievements (e.g. overfulfilling sales quotas, landing a big account, inventions that become company property), payments tied to collective performance (e.g. shares of company profits, group productivity rewards), and more. [3]
+
+Typically my clients hope to use a bonus to motivate and reward behavior that will lead to "extraordinary individual achievement" or yield improved "collective performance," although for a bonus to achieve these goals a set of conditions must be met. And a problem I often see in my practice is a bonus that's offered in the absence of one or more of these conditions, which renders it far less effective as a motivator and yields frustration on the part of employees, management, or both. Why does this happen, and if you're a leader in this situation, what can you do about it?
+
+A Lack of Clarity or Control
+
+The desired behavior must be sufficiently distinct from ordinary activity, and employees must have a degree of control over the intended outcome. The desired behavior need not be novel or innovative--it may simply entail "do more of what's already working." It's also not necessarily the case that management must provide explicit guidelines or instructions--that's rarely feasible with highly-skilled knowledge workers. But employees must grasp that something different is being asked of them, even if it's up to them to determine how to proceed.
+
+Should employees accept that challenge, they must also feel a sense of agency in the process. There has to be a connection between their expenditure of effort and the achievement of the goal. This doesn't mean that employees need to have total control over the outcome or that exogenous factors can't ever get in the way. But the more control they enjoy, the more effective the bonus as a source of motivation. And below a certain level of control, any bonus plan will likely be viewed as unfair and demotivating.
+
+The Wrong Risk Profile
+
+Employees must be comfortable with the concept of variable compensation, and optimally they prefer this to a fixed salary. Everyone's comfort level with risk varies, and this risk profile can play a significant role in our career choices. People with a relatively high tolerance for risk gravitate toward fields that offer variable payouts, largely because they're attracted by the potential upside, but in some cases because they find the uncertainty itself stimulating. They're gamblers, in a sense, and they like to bet on themselves.
+
+This risk profile is common among the entrepreneurs and investors who comprise the majority of my clients, but it can be found in most market-facing fields, particularly sales. (And most of my clients must sell in one way or another, from closing deals to raising funds.) But many people are uncomfortable with risk, and their caution may be heightened when it comes to financial matters. They're less interested in upside potential and more intent on downside protection.
+
+A bonus is of interest to this latter group to the extent that it's merely additive on top of already sufficient compensation--so it may not really serve leadership's goals at all. This isn't to say that bonuses never work outside of sales or similar roles. But the overall organizational culture must foster an appetite for risk, even in conventionally risk-averse functions.
+
+Hedonic Adaptation and Loss Aversion
+
+The bonus must be viewed as a quid pro quo for the desired behavior, not an expected function of employment. But a challenge is that we readily adapt to improved conditions and soon come to take them for granted, a process known as "hedonic adaptation." [4] Even if the above conditions are satisfied, when a bonus is paid out repeatedly it may well come to be expected by employees.
+
+It can help to maintain a clear delineation between base and variable compensation, although even then it's likely that at least some employees will come to view the bonus as a given. When that occurs, the absence of a bonus in the future will cause even greater unhappiness, the result of "loss aversion," our propensity to weight perceived losses more heavily than equal gains. [5]
+
+There isn't really a "solution" to these states, which are deeply rooted in human psychology. But it's important to be aware that they generate continuous upward pressure on ambitious employees' financial expectations, and leaders who fail to prepare for this eventuality are engaged in magical thinking. [6]
+
+On Currencies
+
+Even as I work with clients to help them optimize their compensation plans, I believe it's essential to bear in mind the work of the great 20th century psychologist Frederick Herzberg, who provided a sharp critique of conventional approaches to motivating employees, which he referred to as "kicks in the ass" or KITA. These kicks aren't only negative, in the form of criticism or threats--they can also be positive, in the form of desirable rewards:
+
+Let us consider motivation. If I say to you, "Do this for me or the company, and in return I will give you a reward, an incentive, more status, a promotion, all the quid pro quos that exist in the industrial organization," am I motivating you? The overwhelming opinion I receive from management people is, "Yes, this is motivation." I have a year-old schnauzer. When it was a small puppy and I wanted it to move, I kicked it in the rear and it moved. Now that I have finished its obedience training, I hold up a dog biscuit when I want the schnauzer to move. In this instance, who is motivated--I or the dog? The dog wants the biscuit, but it is I who want it to move. Again, I am the one who is motivated, and the dog is the one who moves. In this instance all I did was apply KITA frontally; I exerted a pull instead of a push. When industry wishes to use such positive KITAs, it has available an incredible number and variety of dog biscuits (jelly beans for humans) to wave in front of employees to get them to jump. [7]
+
+As I've written before,
+
+Herzberg is exaggerating for comic effect here--I don't think he ever kicked his dog. But his larger point holds: rewards like dog biscuits and jelly beans may result in movement, but that's not the same thing as motivation. This doesn't mean rewards are irrelevant as incentives, but a key in deploying them effectively is understanding that there are two different types of motivation, intrinsic (deriving from the work itself) and extrinsic (deriving from by-products of the work or aspects of the environment in which work occurs). [8]
+
+Bonuses and other forms of compensation are extrinsic motivators, which Herzberg called "hygiene factors." His research indicates that inadequate compensation causes tremendous job dissatisfaction, but above a certain amount (which varies for everyone), additional compensation doesn't yield greater satisfaction. I'm not suggesting that bonuses never work--that's obviously not the case. But should you find that your bonus plan is failing to deliver the desired results even in the presence of the conditions described above, it may be worth considering what other "currencies" your employees value that you may be failing to provide. [9]
+
+Footnotes
+
+[1] For more detailed guidance, I recommend these experts on executive compensation:
+
+- Jody Thelander, J. Thelander Consulting and LinkedIn
+
+- Lanelle Santimauro, Compensation Consultant
+
+- Rob James, Pearl Meyer and LinkedIn
+
+[2] Culture, Compensation and Negotiation
+
+[3] A Humbler Bonus (Viviana Zelizer, The Huffington Post, 2009)
+
+[4] For more on hedonic adaptation:
+
+-
+The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does (Sonja Lyubomirsky, 2014): "Human beings have the remarkable capacity to grow habituated or inured to most life changes... What is particularly fascinating about this phenomenon, however, is that it is most pronounced with respect to positive experiences. Indeed, it turns out that we are prone to take for granted pretty much everything positive that happens to us." [pages 18-19]
+
+-
+The Laws of Emotion, pages 353-354 (Nico Frijda, American Psychologist, 1988): "One must, I think, posit a law of hedonic asymmetry, the law of asymmetrical adaptation to pleasure or pain: Pleasure is always contingent upon change and disappears with continuous satisfaction. Pain may persist under persisting adverse conditions."
+
+-
+We Won't Be Happy WHEN. We Could Be Happy NOW.
+
+-
+Pain, Suffering and Hedonic Adaptation
+
+- Stop Trying to Be "Good Enough" by "Getting Better"
+
+[5] For more on loss aversion:
+
+- Thinking, Fast and Slow, Chapter 26: "Prospect Theory" (Daniel Kahneman, 2011)
+
+- Loss aversion (Behavioral Economics)
+
+- Questions about the validity of loss aversion have emerged in the course of social psychology's replication crisis. For example, see Kahneman and Tversky’s "debatable" loss aversion assumption (Jason Collins, 2019). While acknowledging this controversy, I still find the concept a reasonable explanation for otherwise curious behavior.
+
+[6] The Traps We Set for Ourselves
+
+[7] One More Time: How Do You Motivate Employees? (Frederick Herzberg, Harvard Business Review, originally published 1968, republished 2003)
+
+[8] Currencies (On Motivating Different People)
+
+[9] Ibid.
+
+Photo by pictures-of-money.
+

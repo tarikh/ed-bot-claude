@@ -1,0 +1,131 @@
+---
+title: Geert Hofstede on the Dimensions of Cultural Difference
+url: https://edbatista.com/2008/02/hofstede.html
+slug: hofstede
+published: 2008-02-18T18:01:02
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+How do cultures differ, and how do we measure these differences? How might these differences affect who we are and how we see the world? And how should we make use of these concepts?
+
+One of the leading thinkers on these topics is Geert Hofstede, a Dutch social psychologist who joined IBM in 1965 as a trainer in the international Executive Development Department. [1] His work over the next 15 years formed the basis for 1980's Culture's Consequences, which introduced a multi-dimensional model for assessing cultural differences. [2] Hofstede initially identified four primary dimensions of cultural difference, subsequently added a fifth as a result of research conducted by social psychologist Michael Bond, and still later added a sixth dimension:
+
+- Power Distance
+The degree of inequality among people which the population of a country considers as normal: from relatively equal (that is, small power distance) to extremely unequal (large power distance). The extent to which the less-powerful members of organizations and institutions (like the family) accept and expect that power is distributed unequally. This represents inequality (more versus less), but defined from below, not from above.It suggests that a society's level of inequality is endorsed by the followers as much as by the leaders.
+
+- Individualism
+The degree to which people in a country prefer to act as individuals rather than as members of groups. On the individualist side we find societies in which the ties between individuals are loose: everyone is expected to look after him/herself and his/her immediate family. On the collectivist side, we find societies in which people from birth onwards are integrated into strong, cohesive in-groups, often extended families (with uncles, aunts and grandparents) which continue protecting them in exchange for unquestioning loyalty. The word 'collectivism' in this sense has no political meaning: it refers to the group, not to the state.
+
+- Masculinity
+The degree to which tough values like assertiveness, performance, success and competition, which in nearly all societies are associated with the role of men, prevail over tender values like the quality of life, maintaining warm personal relationships, service, care for the weak, and solidarity, which in nearly all societies are more associated with women's roles. Women's roles differ from men's roles in all countries; but in tough societies, the differences are larger than in tender ones.
+
+- Uncertainty Avoidance
+The degree to which people in a country prefer structured over unstructured situations. Structured situations are those in which there are clear rules as to how one should behave. These rules can be written down, but they can also be unwritten and imposed by tradition. In countries that score high on uncertainty avoidance, people tend to show more nervous energy, while in countries that score low, people are more easy-going. A (national) society with strong uncertainty avoidance can be called rigid; one with weak uncertainty avoidance, flexible. In countries where uncertainty avoidance is strong a feeling prevails of "what is different, is dangerous." In weak uncertainty avoidance societies, the feeling would rather be "what is different, is curious."
+
+- Long-Term Orientation
+Values associated with Long Term Orientation are thrift and perseverance; values associated with Short Term Orientation are respect for tradition, fulfilling social obligations, and protecting one's 'face'. Both the positively and the negatively rated values of this dimension are found in the teachings of Confucius, the most influential Chinese philosopher who lived around 500 B.C.; however, the dimension also applies to countries without a Confucian heritage.
+
+- Indulgence
+Indulgence is about the good things in life. In an indulgent culture it is good to be free. Doing what your impulses want you to do, is good. Friends are important and life makes sense. In a restrained culture, the feeling is that life is hard, and duty, not freedom, is the normal state of being. [3]
+
+A seventh dimension of cultural difference discussed in the coaching and management literature bears a relationship to Hofstede's work:
+
+- High vs. Low Context
+The influence of context involves the degree to which protocol and tradition dictate how communication should proceed. In high-context cultures, greater emphasis is placed on protocol, and communication tends to move from the general to the specific. In low-context cultures, communication tends to be more to the point, an approach that can come across to individuals from high-context cultures as rude. [4]
+Some cultures, mostly Western, are low-context cultures that practice explicitness and directness in their communication style. They depend on the people in the immediate communication situation to convey meaning and create a unique context. The purpose and outcome of the communication--the transaction--take precedence over the interpersonal relationships involved... High-context cultures, on the other hand, prize subtlety and indirectness... They depend on a shared cultural context to carry meaning. Instead of getting down to business, high-context cultures tend to rely first on existing relationships outside the business arena so that shared understandings make explicitness unnecessary. Or they take time to build relationships if the participants are strangers--often maddening amounts of time to a transactionally minded, low-context person. To a low-context culture, this style of communication can look undisciplined, evasive, untrustworthy, uninformed (dare we say "stupid"?), or just plain lazy and a waste of precious time. To a high-context culture, the explicitness of low-context communication can look boorish, pushy, patronizing, indelicate, distrustful, unnecessarily detailed ("stupid"?), and insensitive. [5]
+
+Finally, management author Terry Bacon discusses two additional dimensions of cultural difference, although these don't appear to be as widely accepted:
+
+- Achievement vs. Ascription
+In ascription-oriented societies, factors such as age, gender, social connections and social class, family background, and religious or spiritual position define status... These societies define status based on who the person is. On the other hand, achievement-oriented societies tend to define status based on what the person has achieved: educational credentials, both in terms of degrees earned and where they came from; stature in the business hierarchy; amount of experience. In actuality, these two distinctions can be tightly intertwined... Some "ascriptions" are harder to cross than others... Likewise, even the most achievement-oriented culture still looks for certain markers of ascription: the right references, the right schools, the right dress, even the right physique. There is a tendency to think of ascription-oriented cultures as traditional and achievement-oriented cultures as more modern and progressive, but it is more useful to see how sources of ascribed value change and continue to influence all societies. [6]
+
+- Objective vs. Subjective
+Western culture conceives of itself as having a rational, empirical, objective relationship with the world... For someone bound up in objectivist ways of knowing and interacting, emotions simply cloud the issue and waste time... For a person for whom a subjective emotional response is a gauge of something worth attending to, something worth putting your heart in, detached objectivity signals disengagement or unimportance, coldness, and distance. [7]
+
+Hofstede's Model and the United States
+
+These definitions provide a useful frame of reference when considering the ways in which cultural differences could be involved in any given interaction. And they can usefully illuminate not only other cultures, but also our own--in my case, that of the United States. From Hofstede's research on the U.S.:
+
+There are only seven countries...that have Individualism (IDV) as their highest Dimension: USA (91), Australia (90), United Kingdom (89), Netherlands and Canada (80), and Italy (76). (The world average is 43.) The high Individualism (IDV) ranking for the United States indicates a society with a more individualistic attitude and relatively loose bonds with others. The populace is more self-reliant and looks out for themselves and their close family members. [8]
+
+I've always held individual autonomy and freedom of choice to be among the most important values. Much of my work as a coach involves helping others be more fulfilled and effective by realizing their individual identities more fully. And while I'm certainly aware that these perspectives are culturally conditioned, it's striking to realize that I live in the most individualistic society on the planet. This knowledge doesn't necessarily alter my values, but it puts them in a useful context.
+
+The next highest Hofstede Dimension [in the United States] is Masculinity (MAS) with a ranking of 62, compared with a world average of 50. This indicates the country experiences a higher degree of gender differentiation of roles. The male dominates a significant portion of the society and power structure. This situation generates a female population that becomes more assertive and competitive, with women shifting toward the male role model and away from their female role. [9]
+
+Again, although I'm well-aware that my attitudes about gender roles are culturally conditioned, it's thought-provoking to realize that the U.S. is substantially more male-dominated than the rest of the world.
+
+The United States was included in the group of countries that had the Long Term Orientation (LTO) Dimension added. The LTO is the lowest Dimension for the US at 29, compared to the world average of 45. This low LTO ranking is indicative of the societies' belief in meeting its obligations and tends to reflect an appreciation for cultural traditions. [10]
+
+I find this data confusing. It's hard to believe that the U.S. is much more appreciative of cultural traditions than the rest of the world, particularly when our Uncertainty Avoidance ranking--see below--is so low, suggesting a high level of comfort with change and ambiguity. Perhaps I'm simply misunderstanding the concept of Long-Term Orientation and its implications for tradition.
+
+The next lowest ranking Dimension for the United States is Power Distance (PDI) at 40, compared to the world average of 55. This is indicative of a greater equality between societal levels, including government, organizations, and even within families. This orientation reinforces a cooperative interaction across power levels and creates a more stable cultural environment.
+
+The last Geert Hofstede Dimension for the US is Uncertainty Avoidance (UAI), with a ranking of 46, compared to the world average of 64. A low ranking in the Uncertainty Avoidance Dimension is indicative of a society that has fewer rules and does not attempt to control all outcomes and results. It also has a greater level of tolerance for a variety of ideas, thoughts, and beliefs. [11]
+
+As with Individuality, Hofstede's research on these final two dimensions resonate deeply with me. I share my culture's low Power Distance and Uncertainty Avoidance and as a result have a clearer understanding of just why I feel at home in the United States. At the same time, having this objective view of my culture allows me to see it from a new perspective--it's suddenly visible to me in a way that it wasn't before, and I have a better understanding of myself as a product of that culture. Knowing more about U.S. culture and its impact on me, I feel better prepared to engage in a discussion with someone from another culture about our mutual differences and their collective impact on our ability to understand each other and work together.
+
+An Important Caveat
+
+As useful as these concepts can be, when observing cultural tendencies at the national level we need to be cautious about how apply these findings. International trade consultants and management educators Paul Brewer and Sunil Venaik offer a cautionary note on Hofstede's model:
+
+To assume that these national-level dimensions exist at the levels of individuals or organizations in a society is invalid and represents a form of "ecological fallacy..."  The "ecological fallacy" is the error of assuming that statistical relationships at a group level also hold for individuals in the group. It is the error of inferring individual-level relationships from group aggregated data. [12]
+
+Brewer and Venaik go on to quote Hofstede himself:
+
+Cultures are not king-size individuals: They are wholes and their internal logic cannot be understood in the terms used for the personality dynamics of individuals... [The cross-cultural dimensions] are meant to be a test of national culture, not of individual personality; they distinguish cultural groups or populations, not individuals. [13]
+
+They conclude by emphasizing the limitations on the utility of national-level data at the level of organizations and individuals:
+
+Our analysis of the implications of the ecological fallacy makes meaningful interpretation of the national culture scores highly problematic, if not impossible... While there is not and probably never will be a consensus on the "right" approach to understanding the mix of social culture and organizations, we should at least recognize the complexity of the interplay of the two... [14]
+
+Broad, general characterizations of societies on national culture dimensions offer limited insights to managers about the characteristics of individuals, which is the level at which managers need and seek information about a country or society. Unfortunately, absence of such research by scholars has forced practitioners to take the easy, albeit wrong, path of simply using the national culture dimensions to characterize individuals, thus committing an [ecological fallacy]. [15]
+
+So when making use of any data derived from national-level tendencies at the organizational and individual level, we need to proceed with caution. Attributing organizational or individual characteristics to national-level tendencies may be no different than any other form of stereotyping. Such attributions provide a reductive and insufficient explanation for our observations and minimize or ignore differences among organizations and individuals within a given national culture.
+
+But it's worth noting that Hofstede was already aware of these potential problems and was extremely thoughtful in how he framed his model and the concepts it represents:
+
+Culture is a construct, that means that it is "not directly accessible to observation but inferable from verbal statements and other behaviors and useful in predicting still other observable and measurable verbal and nonverbal behavior." It should not be reified; it is an auxiliary concept that should be used as long as it proves useful and bypassed where we can predict behaviors without it. The same applies to the dimensions I introduced. They are constructs too that should not be reified. They do not "exist"; they are tools for analysis which may or may not clarify a situation...
+
+Culture can be compared to a forest, while individuals are trees. A forest is not just a bunch of trees: it is a symbiosis of different trees, bushes, plants, insects, animals and micro-organisms, and we miss the essence of the forest if we only describe its most typical trees. In the same way, a culture cannot be satisfactorily described in terms of the characteristics of a typical individual. There is a tendency in the U.S. management literature to overlook the forest for the trees and to ascribe cultural differences to interactions among individuals. [16]
+
+ 
+
+Footnotes
+
+[1] Geert Hofstede
+
+[2] Culture's Consequences: International Differences in Work-Related Values, 1980, republished in 2003 as Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations across Nations
+
+[3] Descriptions of Power Distance, Individualism, Masculinity, Uncertainty Avoidance, and Long-Term Orientation are derived from Cultural Constraints in Management Theories (Geert Hofstede, Academy of Management's The Executive, 1993) and a prior version of Hofstede's website. The description of Indulgence is from The 6D model of national culture on Hofstede's current website.
+
+[4] The Coaching Manager: Developing Top Talent in Business, pages 166-67 (James Hunt and Joseph Weintraub, 1st edition, 2002)
+
+[5] Adaptive Coaching: The Art and Practice of a Client-Centered Approach to Performance Improvement (Terry Bacon and Karen Spear, 1st edition, 2003)
+
+[6] Ibid.
+
+[7] Ibid.
+
+[8] From a prior version of Hofstede's website.
+
+[9] Ibid.
+
+[10] Ibid.
+
+[11] Ibid.
+
+[12] The Ecological Fallacy in National Culture Research, page 1064 (Paul Brewer and Sunail Venaik, Organization Studies, 2014)
+
+[13] Ibid, page 1069.
+
+[14] Ibid, page 1078.
+
+[15] Ibid, page 1080.
+
+[16] Cultural Constraints in Management Theories (Geert Hofstede, Academy of Management's The Executive, 1993)
+
+Updated January 2022.
+
+World map by Nicolas Raymond. Illustration of U.S. data from a prior version of Hofstede's website.
+

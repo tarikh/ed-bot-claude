@@ -1,0 +1,61 @@
+---
+title: Creating a Feedback-Rich Culture
+url: https://edbatista.com/2013/08/creating-a-feedback-rich-culture.html
+slug: creating-a-feedback-rich-culture
+published: 2013-08-20T05:00:00
+updated: 2025-10-10T14:58:42
+source_body: wordpress-html
+---
+
+Feedback can be a valuable tool in a leader's efforts to sustain strong performance and address shortcomings. But feedback doesn't occur spontaneously--it's a practice that is supported (or suppressed) by the surrounding culture. And not all feedback is equally effective--some cultures do a better job than others in fostering feedback that's likely to influence behavior. So bear in mind four principles when seeking to create a feedback-rich culture:
+
+1. Safety
+
+We all need to feel a sense of safety, trust and intimacy before we're ready to give and receive truly candid feedback. [1] As leaders we need to foster the development of these qualities at every step of the way in the process of promoting fuller communication. This does not mean avoiding confrontation or only offering support and comfort. It does mean being highly attuned to people's readiness for a challenge and their emotional state in a given interaction. Only keen attention and deep empathy will allow us to know when sufficient safety exists, and then we can take some risks to support learning and growth. [2]
+
+One key to safety is developing the ability to step back from the task at hand in order to assess everyone's emotional state, including our own: How safe is this relationship or group? If it feels sufficiently safe, how might I leverage that resource? What appropriate steps could I take that would encourage us to get out of our comfort zone? If it doesn't feel sufficiently safe, what would make me and others feel safer? How might I turn down the heat or slow things down?
+
+2. Balance
+
+ We often think that "better feedback" just means "honest criticism," but that's just half the story. The other half is providing truly meaningful positive feedback, which is all too often absent in most organizations. And yet so many obstacles prevent us from offering and accepting positive feedback. We worry it will sound insincere. We worry it is insincere. We worry it will will make us look like suckups. We worry it will make us seem weak. And since we don't do it very often, we're not very good at it. But as psychologist John Gottman has noted in his study of long-term relationships, in the most successful ones the ratio of positive to negative interactions in the midst of a conflict is 5:1. When we're well-connected with someone in a thriving relationship, even in the midst of a conflict there's a preponderance of positive interactions. So perhaps we should get more practice. [3]
+
+Think of balance not only as a ratio of positive to negative feedback, but also as the integration of challenge and support. When we challenge someone, they need to know that it's rooted in our desire to support their success and effectiveness. When we provide support, they also need to know that we're willing and able to challenge them as needed. When we achieve this balance in a relationship or group, the level of safety increases dramatically, enabling much more meaningful work.
+
+3. Normalcy
+
+Trainings and workshops can create space for people to be open to new ideas and experiment with new ways of communicating, but the next day everyone goes back to the real world. You have to integrate the behaviors you want into your team's daily routines in order to normalize those behaviors within the organization's culture. [4] If feedback is something out-of-the-ordinary that only happens at unusual times (such as a performance review, or when something's gone wrong), it'll never really be an organic part of the organizational culture. It has to show up in everyday life--on a walk down the hallway, at the end of a meeting, over a cup of coffee.
+
+4. Personal Accountability
+
+As leaders who want to promote a feedback-rich culture, we have to walk the talk every day. Our teams will take their cues from us as to what's acceptable, and if we don't take some risks in this area, they never will. Why should they? This doesn't mean we're going to get it right all the time--if we're taking some meaningful risks, then by definition we'll make some mistakes. The key is to "fail forward" and view those mistakes as essential learning opportunities. [5] Let those around us know that we trying to get better at this, too, and ask for their input on how we're doing.
+
+Footnotes
+
+[1] Safety, Trust, Intimacy
+
+[2] Safety, Risk, Learning and Growth
+
+[3] For more on John Gottman's research and the "5:1 ratio," see the following:
+
+- Marriage Math (Hara Estroff Marano, Psychology Today, 2004)
+
+- The Magic Relationship Ratio, According to Science (Kyle Benson, The Gottman Institute, 2017)
+
+[4] Make Feedback Normal, Not a Performance Review
+
+[5] Failing Forward (Learning from Mistakes)
+
+For Further Reading
+
+Coaching and Feedback Tools for Leaders
+
+Feedback Is Not a Gift
+
+How to Deliver Critical Feedback
+
+Give It To Me Straight (Effective Feedback)
+
+Risk Management (The Importance of Speaking Up)
+
+Photo by Ana Karenina.
+

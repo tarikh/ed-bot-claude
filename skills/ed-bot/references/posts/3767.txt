@@ -1,0 +1,59 @@
+---
+title: Babies, Bathwater and Goal-Setting
+url: https://edbatista.com/2012/12/babies-bathwater-and-goal-setting.html
+slug: babies-bathwater-and-goal-setting
+published: 2012-12-18T05:00:00
+updated: 2026-01-06T14:27:01
+source_body: wordpress-html
+---
+
+When do goals support our growth and development? When do they get in the way? And how can we tell the difference?
+
+In a recent post on goal-setting, I noted that "goals encourage us to work harder and longer, and when they're difficult to achieve they push us even more"--a proposition supported by decades of research, much of it by Edwin Locke of the University of Maryland and Gary Latham of the University of Toronto. [1,2] But goals aren't always a good thing. As Locke and Latham acknowledge, when learning is more important than performance goals can be counter-productive, and goals actually contribute to lower performance when they're so daunting that we perceive them as threats rather than challenges. [3]
+
+Subsequent research on goals continues to highlight their complex impact on behavior. Discussing work by Ayelet Fishbach of the Booth School of Business and Jinhee Choi of the Korea University Business School [4], psychology journalist Christian Jarrett urges us to be mindful of the unintended consequences of goal-setting:
+
+Focusing on goals fires up your intentions to engage in the activities that will help you achieve those goals. But there's a major downside. Stay focused on your goals and you spoil your experience of the activities you'll need to pursue. In turn, that makes it far more likely that you'll drop out early and fail to achieve the very goals that you're so focused on...
+
+[T]he lessons from this research seem clear. By all means visualize your goals to help get yourself started in the first place, but once you're underway, try to let your long-term mission fade a little into the background. Revel in the process and you're more likely to make it to the finish line. [5]
+
+The New York Times' Alina Tugend recently asked a number of researchers to reflect on the benefits and disadvantages of goals. [6] One of Tugend's sources, University of Arizona professor Lisa Ordóñez, has co-authored a paper that highlights the potency of goals' influence as well as their undesirable side effects:
+
+The beneficial effects of goal setting have been overstated and...systematic harm caused by goal setting has been largely ignored. We identify specific side effects associated with goal setting, including...distorted risk preferences, a rise in unethical behavior, inhibited learning, corrosion of organizational culture, and reduced intrinsic motivation. Rather than dispensing goal setting as a benign, over-the-counter treatment for motivation, managers and scholars need to conceptualize goal setting as a prescription-strength medication that requires careful dosing, consideration of harmful side effects, and close supervision. [7]
+
+It's clear that we need to integrate these findings into our understanding of goals and modify their use accordingly. But this research is causing some to "throw the baby out with the bathwater" and abandon goals entirely. A few years ago productivity writer Leo Babauta proclaimed that "the best goal is no goal" [8], and more recently he took the "pro" position in a debate with author and investor Tim Ferriss "on whether goals suck." [9] In the Harvard Business Review leadership consultant Peter Bregman has urged readers to "consider not setting goals," and he cites the work by Ordóñez and her co-authors as well as Tugend's New York Times article to support this stance. [10]
+
+Jarrett, Babauta and Bregman make excellent points about the complexity of goals and their unintended consequences, but the headlines and tweets summarizing their positions over-simplify the research. In Tugend's article, Ordóñez stresses the importance of being thoughtful about how we use goals: "It's not that goals are bad...We’re just saying be careful." And Latham makes a nearly-identical point: "It’s not that goals are bad, [Latham] said, but that problems arise when the values that underlie them and the process to achieve them are skewed." [11]
+
+I've found this research on goals' undesirable side effects compelling, and I've changed how I use them in my coaching practice and my personal life. I continue to find goals a helpful source of motivation when getting started, while watching carefully for signs of their counter-productivity. I've come to think of a goal as a powerful tow rope--it can give me a boost and jump-start a stalled effort, but it can also drag me off course or even out of control. So it's essential to hold on to it lightly and let go of it readily.
+
+Footnotes
+
+[1] Aim High...Enough (Self-Coaching and Goal-Setting)
+
+[2] Goal setting and task performance: 1969-1980 (Edwin Locke, et al, Psychological Bulletin, 1981)
+
+[3] New Directions in Goal-Setting Theory (Edwin Locke and Gary Lathan, Current Directions in Psychological Science, 2006)
+
+[4] When thinking about goals undermines goal pursuit (Ayelet Fishbach and Jinhee Choi, Organizational Behavior and Human Decision Processes, 2012)
+
+[5] How Goals and Good Intentions Can Hold Us Back (Christian Jarrett, 99u, 2012)
+
+[6] Experts' Advice to the Goal-Oriented: Don't Overdo It (Alina Tugend, The New York Times, 2012)
+
+[7] Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting (Lisa D. Ordóñez, Maurice E. Schweitzer, Adam D. Galinsky and Max H. Bazerman, Academy of Management Perspectives, 2009)
+
+[8] The Best Goal Is No Goal (Leo Babauta, 2010)
+
+[9] Tim Ferriss vs. Leo Babauta Showdown: On Whether Goals Suck (Leo Babauta, 2012)
+
+[10] Consider Not Setting Goals in 2013 (Peter Bregman, Harvard Business Review, 2012)
+
+[11] Experts' Advice to the Goal-Oriented: Don't Overdo It (Alina Tugend, The New York Times, 2012)
+
+Revised March 2019.
+
+Thanks to my colleague Collins Dobbs for the pointer to Bregman's post.
+
+Photo by Gail Foss.
+

@@ -1,0 +1,15 @@
+---
+title: Broken...And How To Fix It
+url: https://edbatista.com/2005/02/broken.html
+slug: broken
+published: 2005-02-14T09:10:00
+updated: 2005-02-14T09:10:00
+source_body: wordpress-html
+---
+
+Just to ward off any accusations of kissing up to Microsoft (see below), here's a shot from their campus.  If you can figure out how to get to Buildings 8-11 or 40-43, you're doing better than I am.
+
+This example of a bad user experience comes courtesy of Mark Hurst, founder of the user experience consulting firm Creative Good, and publisher of both Good Experience and This Is Broken.  The former is a thought-provoking newsletter on a range of user experience issues, while the latter is a fascinating blog documenting bad user experiences, ranging from that Microsoft campus sign to lousy keyboards to horrible customer service.  (Submit your own!)
+
+Apparently "This Is Broken" was inspired by Seth Godin, Hurst's former employer.  Good Lord, that man is everywhere!
+

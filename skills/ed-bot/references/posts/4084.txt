@@ -1,0 +1,101 @@
+---
+title: Daniel Kahneman on Conducting Better Interviews
+url: https://edbatista.com/2021/02/daniel-kahneman-on-conducting-better-interviews.html
+slug: daniel-kahneman-on-conducting-better-interviews
+published: 2021-02-05T12:43:18
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+Ample research documents the shortcomings of interviews in predicting performance. [1] The core problem is that interviewers are subject to cognitive biases that allow subjective preferences to overshadow objective assessments, which means that less qualified candidates can be hired on the basis of "good" interviews, while more qualified candidates are rejected on the basis of "bad" ones.
+
+Some candidates benefit from random data points that they share with their interviewers: hometowns, schools, hobbies and personal interests. Some candidates benefit from their gender, race, or other aspects of their social identity. And still others benefit simply because they're "good" at interviews--which may mean nothing more than being able to rapidly establish a personal connection with their interviewer. And yet these factors may have little or no bearing on actual performance.
+
+But the same subjective preferences that are informed by these factors can still play a significant role in organizational life. Our likes and dislikes, our affinities and alienations shape our relationships with colleagues, and the sum total of these relationships defines the sense of community within the organization. This is certainly one reason why interviews remain at the heart of the hiring process despite the research attesting to their insufficiency. When hiring, organizations are seeking outstanding individual performers, and they're also seeking to establish and maintain a coherent community.
+
+For all of the interview's flaws with regard to the former, it allows the organization to solve for the latter--although this is precisely where cognitive biases cause interviewers to make suboptimal choices. In their efforts to select people who will be a good "fit" within the existing organizational culture, interviewers may overemphasize the factors noted above and overlook other qualifications, resulting in systematic biases.
+
+But it's clear that organizations will not be abandoning the practice, so a theme in my work with leaders is helping them improve their hiring process by conducting more effective and less biased interviews, and in this effort I'm guided by the work of the Nobel prize winning psychologist Daniel Kahneman.
+
+Early in his career Kahneman served in the Israeli military, and he was given the responsibility of improving the interview process by which recruits were assessed for combat-readiness and assigned to various units. The current process consisted largely of unstructured interviews, Kahneman recalled in Thinking, Fast and Slow, and "was almost useless for predicting the future success of recruits." [2]
+
+Kahneman drew on the work of psychologist Paul Meehl, who pioneered research into the advantages of statistical algorithms, to apply the following guidelines in overhauling the interview process: 1) Create a structured set of questions to prevent the interviewer from simply pursuing the questions that they find most interesting, 2) Use the limited time available to obtain as much information as possible about the interviewee's life in their normal environment, 3) Do not make decisions solely on the basis of interviewers' global evaluations, and 4) Rely upon statistical summaries of separately evaluated attributes.
+
+Kahneman identified six attributes that he deemed relevant to combat performance and then composed a series of factual questions about the recruit's life related to each attribute. The interviewers were instructed to complete the set of questions for a given attribute and score the recruit on a five-point scale before moving on to the next attribute, as a precaution against the halo effect, in which first impressions influence subsequent judgments.
+
+But the interviewers rebelled against Kahneman's new process, which asked them merely to record recruits' responses to standardized questions and made no allowance for their intuitive judgment. Kahneman relented: "'Carry out the interview exactly as instructed,' I told them, 'and when you are done, have your wish: close your eyes, try to imagine the recruit as a soldier, and assign him a score of 1 to 5.'" [3]
+
+The new process proved successful: "The sum of our six [attribute] ratings predicted soldiers' performance much more accurately than the global evaluations of the previous interviewing method." But it also contained a surprise:
+
+The intuitive judgment that the interviewers summoned up in the 'close your eyes' exercise also did very well, indeed just as well as the sum of the six specific ratings. I learned from this finding a lesson that I have never forgotten: intuition adds value even in the justly derided selection interview, but only after a disciplined collection of objective information and disciplined scoring of separate traits. I set a formula that gave the "close your eyes" evaluation the same weight as the sum of the six trait ratings. A more general lesson that I learned from this episode was do not simply trust intuitive judgment--your own or that of others--but do not dismiss it either. [4]
+
+Kahneman concludes with some specific guidance for an individual leader seeking to apply these principles when hiring:
+
+First, select a few traits that are prerequisites for success in this position... Don't overdo it--six dimensions is a good number. The traits you choose should be as independent as possible from each other, and you should feel that you can assess them reliably by asking a few factual questions. Next, make a list of those questions for each trait, and think about how you will score it, say on a 1-5 scale. You should have an idea of what you will call "very weak" or "very strong."
+
+To avoid halo effects, you must collect the information on one trait at a time, scoring each before you move on to the next one. Do not skip around. To evaluate each candidate, add up the six scores. Because you are in charge of the final decision, you should not do a "close your eyes." Firmly resolve that you will hire the candidate whose final score is the highest, even if there is another one whom you like better... A vast amount of research offers a promise: you are much more likely to find the best candidate if you use this procedure than if you do what people normally do in such situations, which is to go into the interview unprepared and to make choices by an overall intuitive judgment... [5]
+
+It's worth noting Kahneman's approach is consistent with Google's experience regarding the benefits of structured interviews:
+
+Structured interviews are better at indicating who will do well on the job: Results show that structured interviews are more predictive of job performance than unstructured interviews when comparing interview scores to the performance scores of those hires across functions and levels.
+
+Interviewers are happier and saving time: Using pre-made, high-quality questions, guides, and rubrics saves on average 40 minutes per interview. Googlers conducting structured interviews reported that they felt more prepared when interviewing the candidate.
+
+Structured interviews make candidates happier: The team has seen an uptick in candidate satisfaction in feedback scores for structured interview candidates. Interestingly, scores indicated an especially big difference in candidate satisfaction rates when comparing rejected candidates. Rejected candidates who had a structured interview were 35% happier than those who did not have a structured interview. [6]
+
+Despite the benefits of structured interviews, there are several difficulties that must be overcome. It can be extremely challenging to identify the "traits that are prerequisites for success," craft a set of questions that reliably elicit evidence of those traits, and then calibrate scores across responses. And yet even undertaking the effort can help an organization better understand their approach to interviewing, uncover sources of bias, and devise a more objective process.
+
+Further, in many circumstances--and particularly when hiring for more senior roles--interviewers are seeking not only to select the best candidate, but also to sell that candidate on the opportunity to join the organization. [7] At times it's possible to distinguish between selection conversations and selling conversations, but often the two must be woven together, and here it can be useful simply for the interviewer to be more deliberate in adopting the appropriate mindset in a given stage of the conversation, rather than defaulting to what feels more comfortable.
+
+Interviews aren't going away--and they don't have to. When organizations correct for the likelihood of cognitive biases, they can take steps to avoid assembling a team of harmonious, homogeneous under-performers. By substituting a more structured process, they increase the odds that interviews select for talent while also maintaining a sense of shared community.
+
+ 
+
+Footnotes
+
+[1] For more on the shortcomings of interviews:
+
+- Stubborn Reliance on Intuition and Subjectivity in Employee Selection (Scott Highhouse, Industrial and Organizational Psychology, 2008)
+
+- Belief in the unstructured interview: The persistence of an illusion (Jason Dana, Robyn Dawes and Nathanial Peterson, Judgment and Decision Making, 2013)
+
+- Overconfidence in personnel selection: When and why unstructured interview information can hurt hiring decisions (Edgar Kausel, Satoris Culbertson and Hector Madrid, Organizational Behavior and Human Decision Processes, 2016)
+
+- The Utter Uselessness of Job Interviews (Jason Dana, The New York Times, 2017)
+
+[2] Thinking, Fast and Slow, page 230 (Daniel Kahneman, 2013)
+
+[3] Ibid. page 231
+
+[4] Ibid. pages 231-2
+
+[5] Ibid. pages 233-3
+
+[6] Google re:Work Guides > Hiring > Use Structured Interviewing > Read Google's Internal Research (Archived version accessed June 6, 2023.)
+
+[7] It's Time to Stop Interviewing
+
+ 
+
+For Further Reading
+
+Interviewing for Values Alignment (Itamar Goldminz, 2020)
+
+Hiring Isn't Rocket Science: Why the Most Boring Strategy Is Best (Laszlo Bock, Behavioral Scientist, 2019)
+
+How to Take the Bias Out of Interviews (Iris Bohnet, Harvard Business Review, 2016)
+
+Hiring as Cultural Matching (Lauren Rivera, American Sociological Review, 2012)
+
+Look Beyond "Culture Fit" When Hiring (Dylan Walsh, discussing work by Amir Goldberg and colleagues, 2018)
+
+How to Improve the Accuracy and Reduce the Cost of Personnel Selection (Don Moore, California Management Review, 2017)
+
+What's going on here, with this human? (Graham Duncan)
+
+How to conduct interviews so good, candidates will thank you for rejecting them (Jennifer Kim, Safe for Work, 2023)
+
+ 
+
+Photo by Jernei Furman.
+

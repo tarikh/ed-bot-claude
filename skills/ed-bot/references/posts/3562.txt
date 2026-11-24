@@ -1,0 +1,73 @@
+---
+title: The Value of Journal Writing
+url: https://edbatista.com/2008/03/journal.html
+slug: journal
+published: 2008-03-26T11:01:12
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+As a coach I generally encourage the people I work with to keep a journal. With my MBA students at Stanford, of course, this is a formal requirement of my class. [1] But even if a journal is simply a series of informal, private notes, the common purpose is to insure that the learning continues after the end of the coaching session or the class experience.
+
+Each year I read nearly 1,000 of my students' journal entries, I write the equivalent of a journal entry after every coaching session with my clients, and I've kept a personal journal for decades (off and on, in many different notebooks). The sum of this experience has convinced me of the value of the practice, and it's entirely consistent with what I know about experiential learning. [2] But why does it actually work? What are the underlying processes that make journal writing a meaningful activity?
+
+The work of neuroscientist Joseph Ledoux suggests some answers. Ledoux's work has focused on memory, emotions and cognition, and he talked about memory with The Edge:
+
+Like many scientists in the field of memory, I used to think that a memory is something stored in the brain and then accessed when used. Then, in 2000, a researcher in my lab, Karim Nader, did an experiment that convinced me, and many others, that our usual way of thinking was wrong. In a nutshell, what Karim showed was that each time a memory is used, it has to be restored as a new memory in order to be accessible later. The old memory is either not there or is inaccessible. In short, your memory about something is only as good as your last memory about it. [3]
+
+So journaling 1) compels us to access our memories of an experience, 2) creates another, more recent memory of that experience, and 3) creates a physical record of those memories to which we can return in the future.
+
+Ledoux's work on emotion and cognition suggests an even more powerful reason for the value of journaling. A key theme for Ledoux is the distinction between emotional memories, which he defined in an interview with John Brockman as "implicit, or procedural memories that are in the brain's systems, but not reflected in consciousness" and cognitive, or explicit, memories, which he defined as "the kind of memory we usually have in mind when we use the word memory in everyday speech." [4]
+
+Some coaching sessions and experiential learning activities evoke intense emotions in the participants, but as Ledoux told Brockman,
+
+[T]he brain can produce emotional responses in us that have very little to do with what we think we're dealing with or talking about or thinking about at the time. In other words, emotional reactions can be elicited independent of our conscious thought processes. For example, we've found pathways that take information into the amygdala [a region of the brain associated with processing emotion] without first going through the neocortex, which is where you need to process it in order to figure out exactly what it is and be conscious of it. So emotions can be and, in fact, probably are mostly processed at an unconscious level. We become conscious and aware of all this after the fact. [5]
+
+So journaling after emotional experiences allows us to process them when we can understand them cognitively and (in some cases) consciously for the first time.
+
+But, of course, many otherwise valuable coaching sessions and experiential learning activities don't evoke strong emotions--is it helpful to journal in these cases as well?  Again, Ledoux's work suggests that it is. From another interview with Ledoux by Brenda Patoine of the Dana Foundation, which supports brain research:
+
+There is both an upside and a downside to the fact that emotional states make memories stronger. The upside is that we remember our emotional experiences to a greater extent than non-emotional ones. The downside is that we remember our emotional experiences to a greater extent than non-emotional ones. [6]
+
+So journaling after non-emotional experiences bolsters our memories of these experiences and helps to insure that they're not lost among our more powerful and long-lasting emotional memories.
+
+One final thought--Ledoux also discussed with Brockman the potent and even destructive power of emotional memories:
+
+Many people have problems with their emotional memories; psychologists' offices are filled with people who are basically trying to take care of and alter emotional memories, get rid of them, hold them in check. [7]
+
+Journal-writing is clearly no substitute for psychological treatment, but the experience of cognitively processing emotional memories in a journal entry can have some transformative power, allowing us not only to better understand those memories but also to better manage and make use of them.
+
+While many digital options are available, I'm a fan of journaling with pen and paper. It has its downsides--not searchable, not archivable, and the stuff does tend to pile up. But the upside is that it's a lot less tempting to edit and re-write, and I just get my thoughts out and move on. (One sentence today is worth a page tomorrow.) I'm not picky about pens, although I prefer blue ballpoints, but I truly love Moleskine notebooks.
+
+ 
+
+Footnotes
+
+[1] The Art of Self-Coaching
+
+[2] Experiential Learning Revisited
+
+[3] What Have You Changed Your Mind About? Why? (Joseph LeDoux, The Edge, 2008)
+
+[4,5] Parallel Memories: Putting Emotions Back Into the Brain (Joseph LeDoux interviewed by John Brockman, The Edge, 1997)
+
+[6,7] Sorting Out Memories and Emotion (Joseph LeDoux interviewed by Brenda Patoine, The Dana Foundation, 2007, originally published here)
+
+For Further Reading
+
+- Reflecting on Work Improves Job Performance (Carmen Nobel, Harvard Business School Working Knowledge, 2014)
+
+- Why You Should Make Time for Self-Reflection (Even If You Hate Doing It) (Jennifer Porter, Harvard Business Review, 2017)
+
+- Does Journaling Boost Your Well-Being? (Pelin Kesebir, Center for Healthy Minds, University of Wisconsin, 2017)
+
+- The 30 second habit with a lifelong impact (Robyn Scott, 2016)
+
+- 30 second habit app (Lori Hill)
+
+Revised July 2018.
+
+Thanks to Mark Oehlert for refererring me to the work of Joseph Ledoux.
+
+Photos by Rory MacLeod and culture.culte.
+

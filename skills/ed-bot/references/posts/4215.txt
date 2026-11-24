@@ -1,0 +1,218 @@
+---
+title: We Won't Be Happy WHEN. We Could Be Happy NOW.
+url: https://edbatista.com/2024/06/we-wont-be-happy-when.html
+slug: we-wont-be-happy-when
+published: 2024-06-01T07:24:02
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+The truly awful thing about success is that it's held up all those years as the thing that would make everything all right. And the only thing that makes things even slightly bearable is a friend who knows what you're talking about.
+
+~Eve Babitz [1]
+
+A theme in my work with senior leaders is the expectation that some future event will result in a profound surge in positive emotions and a sustained state of well-being, a process often described as "I'll be happy when..."
+
+- I launch the company / sell the company / go public.
+
+- I get the job / quit the job / don't need a job.
+
+- I'm earning [$] / have saved [$$] / am worth [$$$].
+
+- I buy the house / sell the house / pay off the mortgage.
+
+- I write the book / host the podcast / teach the class.
+
+You probably have your own versions of these scenarios--I certainly have mine--and I'd like you to consider the possibility that your happiness need not be contingent on some external event that may or may not occur. I'm not saying that these events are irrelevant, but I am suggesting, first, that happiness derived from external events is inevitably unsustainable, and, further, that we have a degree of agency and choice in determining our sense of well-being whether or not we achieve our aspirations.
+
+Happiness Isn't Just "Happiness"
+
+Much of what we know about the science of well-being derives from the positive psychology movement, a widespread effort beginning in the 1980s by researchers, clinicians, and educators in a range of fields to understand and promote mental wellness, in contrast to psychology and psychiatry's prior focus on mental illness. [1] Positive psychology has sometimes been dismissed as mere "happiness studies," but in part that's a function of the limitations of language. In English we use "happiness" to describe a broad range of emotional states, including superficial and fleeting pleasures.
+
+But positive psychology is really about the study of what the ancient Greeks called eudaimonia, which is more accurately translated as "flourishing" or "fulfillment" and differs from mere pleasure. A foundational text in positive psychology is Aristotle's Nicomachean Ethics, one of the first Western guides to good living, which makes this distinction clear: "Happiness does not lie in amusement...but in virtuous activities." [2]
+
+But I use the term happiness here rather than eudaimonia or flourishing or fulfillment for several reasons. Happiness lends itself to misinterpretation because it is so familiar and accessible, but those qualities also have their advantages. There's also a useful connection with unhappiness, another often-misunderstood word that serves as shorthand for a range of valuable emotional states. [3] Finally, I'm inspired to defend happiness from those who view it with suspicion.
+
+Happiness is not the exclusive province of the naive, the childish, or the willfully ignorant. Pursuing happiness need not entail minimizing or discounting our pain and suffering, or viewing reality through rose-colored glasses. If anything, sustainable happiness requires us to let go of our illusions, starting with the idea that happiness is a function of external events.
+
+What We Think Will Make Us Happy Won't (For Long)
+
+I'm not suggesting that achieving our goals has no impact at all on happiness. It's clear that greater happiness is associated with a host of positive life outcomes--see below. But a reliable feature of human psychology is that our achievements rarely make us as happy as we think they will, and the happiness they generate never lasts as long as we want it to, a process known as "hedonic adaptation." Psychologist Sonja Lyubomirsky explains this dynamic by noting that emotionally significant events change our expectations by shifting our reference point, and that we habitually adapt to our new circumstances, thus diminishing their impact over time:
+
+Human beings have the remarkable capacity to grow habituated or inured to most life changes... What is particularly fascinating about this phenomenon, however, is that it is most pronounced with respect to positive experiences. Indeed, it turns out that we are prone to take for granted pretty much everything positive that happens to us... We obtain an immediate boost of happiness from the improved situation, but the thrill only lasts a short time. Over the coming days, weeks, and months, we find our expectations ramping upward and we begin taking our new improved circumstances for granted. [4]
+
+Like many confounding aspects of the human mind, hedonic adaptation is a feature for the species that as individuals we often experience as a bug. It's essential to remember that evolution has solved for the ability to pass on our genes by adapting to a changing environment, not for individual happiness. In this context, the late Dutch psychologist Nico Frijda described the unbalanced nature of hedonic adaptation as one of the "laws of emotion":
+
+One must, I think, posit a law of hedonic asymmetry, the law of asymmetrical adaptation to pleasure or pain: Pleasure is always contingent upon change and disappears with continuous satisfaction. Pain may persist under persisting adverse conditions... The law of hedonic asymmetry is a stern and bitter law. It seems almost a necessary one, considering its roots, which, theoretically, are so obvious. Emotions exist for the sake of signaling states of the world that have to be responded to or that no longer need response and action. Once the "no more action needed" signal has sounded, the signaling system can be switched off; there is no further need for it. That the net quality of life, by consequence, tends to be negative is an unfortunate result. It shows the human mind to have been made not for happiness, but for instantiating the blind biological laws of survival. [5]
+
+So our distant ancestors who took their accomplishments in stride and continued to exert themselves were more likely to adapt and survive relative to their contemporaries who felt a greater sense of fulfillment and took it easy in response. Multiply this over 200,000 years and some 10,000 human generations, and we arrive at the present, where I talk with leaders on a daily basis who are surprised when the happiness they expected to feel after a long-awaited accomplishment is neither as strong nor as sustainable as they'd hoped. As one client who toasted just such an achievement with a colleague noted, "The feeling was over before I'd even finished my glass of Champagne."
+
+Yet Happiness Still Matters
+
+Accepting the inevitability of hedonic adaptation doesn't mean that happiness isn't worth pursuing. As noted above, a host of positive life outcomes are associated with greater levels of happiness. For example, happier people earn more, and people who earn more are happier. [6] And happier people live longer, and people who live longer are happier. [7] The list goes on, as discussed by psychologists Shigehiro Oishi, Ed Diener and Richard Lucas:
+
+Researchers have begun to systematically examine the consequences of happiness beyond simply feeling good. Lyubomirsky, King, and Diener (2005) conducted a meta-analysis of 225 papers on diverse life outcomes in the domains of work, love, and health and found that, in all three domains, happy people did better on average than did unhappy people. For instance, happy people receive higher job performance assessments from their supervisors (Cropanzano & Wright, 1999) and have more prestigious jobs (Roberts, Caspi,& Moffitt, 2003). In addition, happy people earn higher incomes than do unhappy people, even many years after the initial assessment (Diener, Nickerson, Lucas, & Sandvik, 2002). Happy people are more likely to get married than are their unhappy counterparts (Lucas, Clark, Georgellis, & Diener, 2003), and they are also more satisfied with their marriages (Ruvolo, 1998). [8]
+
+Of course, the arrow of causality isn't clear. We know that there's an association between happiness and these positive life outcomes, but we don't know if people who attain these outcomes become happier as a result, or if happier people are more likely to attain these outcomes. I'm disinclined to wait until researchers can provide us with a definitive answer, largely because I don't believe they ever will. So even as we acknowledge the impact of hedonic adaptation and the complexity of the relationship between life outcomes and our sense of well-being, I believe the pursuit of happiness remains a laudable goal.
+
+But Can Happiness Be Pursued?
+
+For the late Viktor Frankl, an Austrian psychiatrist who can also be viewed as one of our greatest philosophers, the answer to this question was clearly "No":
+
+Success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. [9]
+
+Frankl's work has had a profound influence on my approach to coaching and my own life [10], and while I don't entirely agree with his perspective here, I believe he makes an essential point. I don't think it's necessary to "not care" about happiness, or that it must be an "unintended side-effect" derived from adjacent pursuits. But Frankl's fundamental premise is consistent with positive psychology research, not in conflict with it.
+
+One of the most important findings from positive psychology is also the most widely misunderstood: Our level of happiness appears to derive from a combination of life circumstances, a genetic set point, and intentional activities. This finding is often represented by a "pie chart" that is the cause of most of the misunderstanding, and for that reason I'm choosing not to reproduce it here, although I've discussed it at length elsewhere. [11] What's the nature of this confusion, and how might we better understand the implications of this research?
+
+Life circumstances matter, but perhaps less than we think.
+
+Our conventional narratives around happiness view it as primarily a function of life circumstances, such as income level, professional accomplishments, or relationship status. The research shows that such factors do play a meaningful role, but differences in life circumstances explain less of the variation in happiness across a population than we might expect, given these narratives. This is often misinterpreted as "life circumstances are irrelevant," or that they contribute to some predetermined percentage of an individual's happiness. But the research can't tell us anything about the impact of a particular life circumstance on any given individual.
+
+This is where Frankl's guidance and positive psychology are in agreement: It's not possible to guarantee happiness by pursuing it through the achievement of a particular set of life circumstances. This is both because the extent to which any such circumstances contribute to happiness varies widely across individuals, and because hedonic adaptation ensures that the positive impact of these achievements will diminish over time.
+
+Genes aren't destiny.
+
+Genetic differences appear to explain a relatively large amount of the variation in happiness across a population, but, again, this doesn't mean that genes account for a certain amount of any given individual's happiness. The research does not--and cannot--provide such insights at the individual level. And while our genes are obviously fixed, our individual "set point" for happiness is not, due to the impact of formative experiences and our environment on which genes are expressed and how. [12]
+
+Consider the role of genetics in height and weight. Our genes influence both aspects of our physiology, and across the population at large height is understood to be more heritable than weight, which is more heavily affected by environmental factors and individual behavior. Our set point for happiness also appears to be a heritable trait, albeit even less so than weight. [13] Genes influence but don't determine our weight, and the same appears to be true for our sense of well-being. We have agency.
+
+Intentional activities matter, and perhaps more than we think.
+
+Having agency doesn't mean that we can simply will ourselves into a state of well-being. While that may sound like a wonderful way to live, it would actually be quite disastrous, as the late social psychologist Daniel Wegner has noted:
+
+It is clear that emotion should not be very susceptible to willful control. If we could turn off all our emotions, feel no pain, never laugh, not be gripped by fear or despair, stop being excited, and so on, we could easily end up dead... The priority of emotions over will is important for our survival because it allows our plans to be interrupted by the immediate pressures of reality. [14]
+
+Here, too, Frankl's guidance is aligned with positive psychology research. We can't pursue happiness like a like a prize to be won in a contest. But we can intentionally engage in a set of activities that research shows are associated with increased well-being. And unlike large-scale life circumstances, which can be difficult to engineer and may take years to achieve, these intentional activities can be conducted on a daily basis, in many cases with ease. Again, the research can't tell us the extent to which any of these activities will affect the happiness of a given individual. But they explain more of the variance across individuals in a population than our conventional narratives about happiness would lead us to expect, suggesting that we have more agency and choice than we realize.
+
+Creating the Conditions for Happiness
+
+Frankl counsels us to "let happiness happen" through dedication to a cause or a deep connection with another person, and while I certainly agree that these are potential paths to well-being, there are others. Lyubomirsky's research identifies a set of intentional activities associated with increased happiness. These are by no means surefire strategies that will be equally effective for everyone, but by identifying the ones most likely to work for each of us as an individual, we may well create the conditions in which "happiness happens":
+
+- Counting your blessings
+
+- Cultivating optimism
+
+- Avoiding overthinking and social comparison
+
+- Practicing acts of kindness
+
+- Nurturing relationships
+
+- Doing more activities that truly engage you
+
+- Replaying and savoring life’s joys
+
+- Committing to your goals
+
+- Developing strategies for coping
+
+- Learning to forgive
+
+- Practicing religion and spirituality
+
+- Taking care of your body
+
+Lybomirsky's work indicates that our responses to each of these activities will be contingent on a set of personalized factors. Activities that feel natural to us, are intrinsically enjoyable, and are aligned with our values and identities will have a greater impact on our happiness. Activities that we might pursue out of a sense of guilt or obligation will be less effective. (Lyubomirsky has developed a simple diagnostic tool, which I link to below, to help people choose the activities that will likely be the best fit. [15] She also defines each of these activities in greater detail in her first book. [16])
+
+We Won't Be Happy WHEN. We Could Be Happy NOW.
+
+I close by returning to the wisdom of the late writer Eve Babitz: "The truly awful thing about success is that it's held up all those years as the thing that would make everything all right. And the only thing that makes things even slightly bearable is a friend who knows what you're talking about." I see this in the lives of my clients on a regular basis, and I experience versions of it myself. We absorb the conventional narratives starting at an early age, and we come to believe that happiness will be a function of a set of objective, external accomplishments. I'll be happy when...
+
+If we're sufficiently smart, dedicated, hard-working, and lucky, we begin to accomplish those goals and experience success. And while winning is better than losing in any number of ways, we ultimately learn that success does not, in fact, "make everything all right." As my client once said, "The feeling was over before I'd even finished my glass of Champagne." And even if the happiness we derive from any particular accomplishment lasts longer than that, our sense of well-being will inevitably fade as we come to take its benefits for granted. The hedonic treadmill never stops.
+
+To be clear, I'm not suggesting that we should stop striving toward these goals. Winning beats losing, and there are many benefits to be derived from objective, external accomplishments. But we should not allow our happiness, our sense of well-being, our sense of self-worth, to hinge upon whether or not we attain these goals. I won't be happy WHEN.
+
+And yet even as we continue our striving, we can exert a degree of agency and choice. We can't simply will ourselves to be happy, nor would we want that capability. But we can create the conditions in which we're more likely to experience eudaimonia. We can choose to focus on what we lack, or on what we have. In recent years I've become much more grateful for things I always took for granted--life, a relatively pain-free body, a clear-thinking mind--in large part because I know my time in this existence is finite. [17] I take seriously these tongue-in-cheek lines from outdoor writer Tom Stienstra:
+
+The odds of being born, according to one legend, are the same as if you were to throw a life ring on the open ocean, and at that exact moment, a blind sea tortoise poked its head through the ring. The odds of dying, on the other hand, are 100 percent. [18]
+
+This isn't a recipe for permanent bliss, and I'm as subject as anyone else to fears and anxieties, fits of pique and frustration. But I can also slow down, be present, and feel a sense of gratitude for this existence, and all that I possess as a function of simply being alive. That feeling won't last indefinitely, nor would I want it to--my yearnings and dissatisfactions not only keep me driving forward, they also make me human. But from time to time I remember: I can be happy NOW.
+
+ 
+
+Footnotes
+
+[1] Slow Days, Fast Company (Eve Babitz, 1974)
+
+[2] The most comprehensive volume on positive psychology I can recommend is Character Strengths and Virtues: A Handbook and Classification (Christopher Peterson and Martin Seligman, 2004), which the authors have called a "manual of the sanities," a counterpart to the Diagnostic and Statistical Manual which categorizes the various forms of mental illness. (This book and the research it represents forms the basis for the VIA Survey of Character Strengths.) Here are some other texts that I've found particularly useful in exploring positive psychology and related developments from fields such as neuroscience, in order of the date of publication:
+
+- The Emotional Brain: The Mysterious Underpinnings of Emotional Life (Joseph LeDoux, 1998)
+
+- Why We Feel: The Science of Human Emotions (Victor Johnston, 2000)
+
+- Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment (Martin Seligman, 2004)
+
+- Descartes' Error: Emotion, Reason and the Human Brain (Antonio Damasio, 2005)
+
+- The How of Happiness: A New Approach to Getting the Life You Want (Sonja Lyubomirsky, 2007)
+
+- Lyubomirsky's work is easily misinterpreted, and here's my attempt to clear up those misunderstandings: Understanding "The Pie Chart" in The How of Happiness
+
+- Flow: The Psychology of Optimal Experience (Mihaly Csikszentmihalyi, 2008)
+
+- Coaching with the Brain in Mind: Foundations for Practice (David Rock and Linda Page, 2009)
+
+- Mindsight: The New Science of Personal Transformation (Daniel Siegel, 2010)
+
+- The Antidote: Happiness for People Who Can't Stand Positive Thinking (Oliver Burkeman, 2012)
+
+- The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+- Pursuing the Good Life: 100 Reflections on Positive Psychology (Christopher Peterson, 2013)
+
+- Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being (Linda Graham, 2013)
+
+- Social: Why Our Brains Are Wired to Connect (Matthew Lieberman, 2014)
+
+- The Myths of Happiness: What Should Make You Happy, But Doesn't, What Shouldn't Make You Happy, But Does (Sonja Lyubomirsky, 2014)
+
+- The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It (Kelly McGonigal, 2015)
+
+- Good Reasons for Bad Feelings: Insights from the Frontier of Evolutionary Psychiatry (Randolph Nesse, 2019)
+
+[2] Nicomachean Ethics, Book X, Chapter 6 (Aristotle, circa 335-322 BC)
+
+[3] For more on unhappiness, see The Art of Self-Coaching, Class 7: UNHAPPINESS
+
+[4] The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 18-19 (Sonja Lyubomirsky, 2014)
+
+[5] The Laws of Emotion, pages 353-354 (Nico Frijda, American Psychologist, 1988)
+
+[6] For more on the relationship between wealth and happiness, see Experienced well-being rises with income, even above $75,000 per year (Matthew Killingsworth, Proceedings of the National Academy of Sciences [PNAS], 2021) and Myths in the Science of Happiness and Directions for Future Research (Ed Diener, Chapter 24, pages 493-507 in The Science of Subjective Well-Being, Michael Eid and Randy Larson, editors, 2008).
+
+[7] For more on the relationship between lifespan and happiness, see Subjective Well-being and Longevity: A Cotwin Control Study (Michael Sadler, Christopher Miller, Kaare Christensen and Matt McGue, National Institutes of Health, 2011).
+
+[8] The Optimum Level of Well-Being: Can People Be Too Happy?, page 347 (Shigehiro Oishi, Ed Diener and Richard Lucas, Perspectives on Psychological Science, 2007)
+
+[9] Man's Search for Meaning, pages xiv-xv, from the Preface to the 1992 edition (Viktor Frankl)
+
+[10] Viktor Frankl on the Meaning of Suffering
+
+[11] Understanding "The Pie Chart" in The How of Happiness
+
+[12] Revisiting the Sustainable Happiness Model and Pie Chart: Can Happiness Be Successfully Pursued? (Kennon Sheldon and Sonja Lyubomirsky, The Journal of Positive Psychology, 2019)
+
+[13] Genetics scholar and journalist Razib Khan provides a helpful explanation of heritability and genetic effects:
+
+When someone tells you that height is 80% heritable, does that mean:
+
+a) 80% of the reason you are the height you are is due to genes
+b) 80% of the variation within the population on the trait of height is due to variation of the genes
+
+The answer is of course b. Unfortunately in the 5 years I’ve been blogging the conception of heritability has been rather difficult to get across, and I regularly have to browbeat readers who conflate the term with a. That is, they assume that if I say that a trait is mostly heritable I mean that its development is mostly a function of genes. In reality not only is that false, it’s incoherent. Heritability is addressing the population level correlation between phenotypic variation and genotypic variation. In other words, how well can genetic variation work as a proxy for phenotypic variation? What proportion of the phenotypic variation can be accounted for by genotypic variation? (Genetic vs. heritable trait, Discover, 2007)
+
+[14] White Bears and Other Unwanted Thoughts: Suppression, Obsession, and the Psychology of Mental Control, page 123 (Daniel Wegner, 2nd edition, 1994)
+
+[15] Lyubomirsky Person-Fit Activity Diagnostic
+
+[16] The How of Happiness: A New Approach to Getting the Life You Want (Sonja Lyubomirsky, 2007). While I value Lyubomirsky's work immensely, note that this book is the primary source of the "pie chart" that has been the cause of so much misunderstanding, which I seek to clear up here: Understanding "The Pie Chart" in The How of Happiness.
+
+[17] Gratitude Checklist
+
+[18] Cliff collapse shows it’s best to heed nature’s warnings (Tom Stienstra, SFGate, 2015)
+
+ 
+
+Photo by Andrew E. Larsen.
+

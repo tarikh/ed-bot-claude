@@ -1,0 +1,65 @@
+---
+title: Favicon Mania
+url: https://edbatista.com/2005/01/favicon_mania.html
+slug: favicon_mania
+published: 2005-01-24T10:30:26
+updated: 2005-01-24T10:30:26
+source_body: wordpress-html
+---
+
+A nice touch to add to your site is a favicon, a small graphic (typically 16 x 16 pixels) that will uniquely identify the site in visitors' browser address bars, on their list of favorites, next to RSS feed listings, etc.  Here's mine, which is also on my new business cards:  
+
+There are basically three steps: 1) Create the graphic and save it as a favicon.ico file, 2) Upload it to the root directory of your site, and 3) If necessary, associate it with your site by adding some code.
+
+1) Create the graphic.
+
+The easiest way to do this is to have a image you'd like to convert to a favicon already accessible on your computer and then go to an online favicon generator, like this excellent one run by the folks at Chami.com, and then save the resulting favicon image.  (They also run a "buddy icon" generator to create new images for your instant messaging clients and offer a number of other resources for web developers.)  You can use a basic graphics or photo editor like Microsoft Paint or Picture Manager to create the original image, but those programs can't create .ico files.  If you don't have a program that can, then it's easiest to use an online generator.  The final image should be 16 x 16 pixels--another nice thing about the generators is that they'll automatically resize your original image (which should be square to start with, of course.)
+
+(To further complicate things, it's my understanding that favicons should usually be 16 x 16 pixels, but I've also read that some browsers will accept 32 x 32 pixels, and that instead of having a single .ico file, you can create different sized favicons and save them in a favicon directory.  Then the browser will identify the appropriate file it needs.  That's more than I want to deal with here, so I'm only going to talk about having a single favicon file.)
+
+2) Upload the file to your site.
+
+If you're using TypePad, like I am, this couldn't be easier.  Just go to your account's Control Panel > Files and upload the favicon.ico file to your blog's root directory.  If you have multiple blogs, you'll have to upload the favicon to the root directory for each blog, not just the "Home" directory for your account.  (It may be possible to use different favicons for different blogs, but I haven't tried it.  Other people have said it wouldn't work, but since the files are all in different directories, I don't see why not.)
+
+If you're not using TypePad, then you have to upload the favicon.ico file to the root directory of your site, i.e. where your index page is located.  I'm no expert on hosting and file directory issues, so I can't offer any more specific advice.
+
+3) Associate the favicon with your site.
+
+If you're using TypePad, you're already done.  With your favicon uploaded to each blog's primary directory, there's nothing else you need to do.  (If for some reason you're using TypePad but you'd still like to access your blog's code, see # 5 below.)
+
+But it you're not using TypePad, you'll need to access your site's code somehow--I'm going to assume you know how to do that. 
+
+In the <HEAD> tag, below the <META> tags and above the <LINK> tags, insert this code:
+
+<link rel="shortcut icon" href="https://myrootdirectory/favicon.ico" type="image/ico" />
+
+Obviously, substitute the address for your own root directory for the "myrootdirectory" above.  You may have to play around with this a little.  I noticed that on other peoples' sites they didn't have to include the entire directory address, e.g. "https://...", but just the directory name itself.  YMMV.
+
+4) Special note on RSS feeds.
+
+If you want your favicon (or another image, for that matter--it doesn't have to be your favicon) to be associated with your RSS feed, you'll need to edit the feed itself.  In summary, you have to insert the <IMAGE> sub-element under the <CHANNEL> element.  The folks at Harvard Law's Berkman Center have the details.
+
+You can do this in TypePad but only if you're using an advanced template--see below.
+
+5) Special note on TypePad code.
+
+Accessing your blog's code in TypePad is a little tricky, and it's not necessary for favicons--although it is necessary to associate an image with your RSS feed.  First, create an advanced template and assign it to your blog.  Keep in mind that this will prevent you from using TypePad's WYSIWYG template builder, so you'll have to be at least somewhat comfortable with HTML and prepared to maintain and update the advanced template by working on the code directly, without TypePad's drag-and-drop tools.  Once you've created the advanced template, you can open it up, and access the code for each of the template components, as well as the CSS.
+
+To access the relevant code to associate a favicon with your site, open up the "Main Index Template" of your advanced template and follow the instructions in # 3 above.  (Again, this is not necessary in TypePad.)
+
+To access the relevant code to associate a favicon (or other image) with your RSS feed, open up the "RSS Template" of your advanced template and follow the instructions in # 4 above.
+
+Finis.
+
+Hat tips to some helpful resources:
+
+Favicon.com
+
+MS Developers Network: How to Add a Shortcut Icon to a Web Page
+
+Post & Comments at Extra Strength Surfing Fingers
+
+Favicon primer by Ross Shannon at HTML Source
+
+Finally, thanks to Good Grief, whose well-done site inspired me to look into favicons and some of TypePad's more advanced features.
+

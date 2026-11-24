@@ -1,0 +1,85 @@
+---
+title: Defensiveness Is in the Eye of the Beholder
+url: https://edbatista.com/2023/09/defensiveness-is-in-the-eye-of-the-beholder.html
+slug: defensiveness-is-in-the-eye-of-the-beholder
+published: 2023-09-17T14:06:22
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+A theme in my practice is defensiveness, which I define as an unwillingness to accept responsibility for setbacks, characterized by a disproportionately hostile, anxious or evasive response to critical feedback. When it arises as a topic I'm usually working with a client who's figuring out how to deal with a defensive employee or colleague, but occasionally I have a client who's been accused of defensiveness and is wondering what to do in response.
+
+The key word in the definition above is "disproportionate." When someone is slightly hostile, anxious or evasive in response to critical feedback, we don't think of them as "defensive." Critical feedback is stressful under the best of circumstances. [1] So when someone responds with curiosity and calm we view that as a sign of maturity and professionalism, but a moderately negative response is normal and expected.
+
+And yet we also expect this negative response to be temperate and short-lived. It's only when the other person's hostility, anxiety or evasion seem excessively emotional or unduly persistent that we label them as "defensive." This is highly contextual, determined by the surrounding cultural norms, our relationship with the other person, and our individual standards. What qualifies as defensiveness is truly in the eye of the beholder. So what are the implications of all this, and what can we do about it?
+
+When You're Dealing with a Defensive Person
+
+Don't call them "defensive."
+
+Don't even use the word, as it will only make the situation worse. Bear in mind that they don't think of themselves as "defensive"--no one ever does--so being labeled as such will feel to them like an unjustified accusation and amplify the negative emotions they're already having difficulty managing. You may be perfectly justified in thinking of them as defensive, but keep it to yourself, at least for the moment.
+
+In the present moment, de-escalate.
+
+Defensiveness emerges in response to unexpected bad news, and you and your counterpart may be facing an immediate crisis. In this moment your task is to help them de-escalate their threat response and regain the ability to regulate their emotions. [2] Slow down--choose your words thoughtfully, make decisions judiciously, be mindful of how you might be contributing to their sense of threat. [3] In some circumstances, encouraging the other person to discuss what they're feeling can help them down-regulate those feelings. [4]
+
+As soon as possible, make it a learning opportunity.
+
+When the sense of urgency has abated--but before so much time has passed that the details have grown hazy--make use of this situation as a learning opportunity for the other person. At this point it may be useful to acknowledge that you perceived their response as defensive, but don't stop there. Offer behaviorally-specific feedback that allows the other person to gain a new perspective on their response and understand why you experienced it as counter-productive. [5]
+
+In the meantime, clarify your own lessons.
+
+There's undoubtedly ample learning here for you as well. Why did this bad news come as such a surprise to the other person? How did you share it with them? If you hired them, why did you fail to identify their defensiveness in the process? [6] How successful were you at de-escalating their defensiveness? Did you inadvertently make it worse, and if so, how? And if you're repeatedly encountering defensiveness over time, that merits a look in the mirror. Just because defensiveness is in the eye of the beholder doesn't mean it's always a fair or reasonable perception.
+
+When You've Been Accused of Defensiveness
+
+Don't make it worse by rejecting the label.
+
+You almost certainly don't feel defensive, nor is that how you would describe your behavior, and it's unfortunate that the other person has chosen to label you this way. But reflexively responding, "I'm NOT defensive!" will only be perceived as further evidence of your defensiveness. Remember that defensiveness is in the eye of the beholder, and the fact that you feel unfairly maligned has no bearing on the other person's belief in the validity of their perspective.
+
+If you haven't heard this very often, it's a learning opportunity.
+
+It's likely that the behaviors being perceived as "defensive" are the result of your surprise and disappointment at encountering an unexpected setback. If you've enjoyed sustained success in your career, this may be the first time that you've experienced a meaningful failure. And if you've rarely (or never) been called defensive before, you're learning that your responses to setbacks are perceived as problematic by this person at this moment. As challenging as it may seem, this presents you not only with an opportunity to transform setbacks into fruitful experiences [7], but also to accelerate your overall growth and development. [8]
+
+If you've heard this repeatedly, take it very seriously.
+
+Learning opportunities sometimes come at a cost, and being called defensive can be career-limiting if the label sticks. When I'm working with a client who's hiring to fill a role, I encourage them to test for defensiveness in the interview process because defensive people can have such a corrosive effect on company culture, and it's difficult if not impossible to get them to change. [9] If this person has perceived you as defensive multiple times, it's a signal to invest in your working relationship. [10] And if you've been called defensive at multiple points in your career, consider whether a failure to take responsibility is holding you back professionally. [11]
+
+No matter what, it's feedback, and feedback is data.
+
+Being called defensive is a form of feedback, and like much feedback, it can be stressful, confusing and unwelcome. As I've noted before, feedback isn't a "gift" that we should automatically express appreciation for, but it is potentially valuable data that merits investigation to assess its utility. [12] You're not obligated to agree with this feedback, nor are you required to take any particular action in response, but consider the extent to which you trust this person's judgment and value their opinion of you. Should you conclude that they're trustworthy and acting in good faith, thank them for taking the risk to speak up, and ask them to tell you more. [13]
+
+Footnotes
+
+[1] For more on feedback and stress, see the following:
+
+- Make Getting Feedback Less Stressful
+
+- Why Some Feedback Hurts (and What to Do About It)
+
+[2] The Tyranny of Feelings
+
+[3] How Leaders Create Safety (and Danger)
+
+[4] Talking About Feelings
+
+[5] How to Deliver Critical Feedback
+
+[6] Surfacing Defensiveness (Three Questions for Candidates)
+
+[7] The Ruling Out of Possibilities (On Failure)
+
+[8] Learning How to Learn
+
+[9] Surfacing Defensiveness (Three Questions for Candidates)
+
+[10] Better Working Relationships
+
+[11] The Trium Group on Responsibility
+
+[12] Feedback Is Not a Gift
+
+[13] Risk Management (The Importance of Speaking Up)
+
+Photo by West Point.
+

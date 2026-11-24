@@ -1,0 +1,39 @@
+---
+title: Inbox Zero, Day One
+url: https://edbatista.com/2006/04/inbox_zero_day_.html
+slug: inbox_zero_day_
+published: 2006-04-05T00:22:05
+updated: 2006-04-05T00:22:05
+source_body: wordpress-html
+---
+
+I spent today putting the principles of Merlin Mann's Inbox Zero into practice, and it's already yielded pretty substantial results.  Here's where I got the biggest bang for the buck:
+
+- Stop Filing: No more folder structure (almost.)  Two big folders, "Archive - Work" and "Archive - Personal", and old messages disappear, to be retrieved by Google Desktop if they're ever needed again.  I cheated a little, with a sub-directory for some work I'm doing that needs to be kept separate from everything else.  But I still went from dozens of folders to three and have saved a ton of time already.
+
+- Stop Checking: Unless there's a crisis, messages are now retrieved hourly, rather than every five minutes.  This has really allowed me to avoid distractions and, perhaps even more importantly, start to map out a schedule for dealing with email on my own terms, rather than reacting to it:
+
+- New email check + scanning + super-fast responses: 5 minutes every hour
+
+- Non-critical responses: 10 minutes every other hour
+
+- Processing "the pile": 30 minutes at mid-day + at the end of the day, if needed
+
+- Metawork: as needed now, but probably 30 minutes weekly eventually
+
+- Further culling, responding, and clearing "the pile": Through the day, as available, in 5-10 minute dashes
+
+I'm not quite there yet, but this seems like a schedule that'll allow me to manage my email without letting it rule my day.
+
+- Stop Composing: For better and for worse, I was essentially trained as a writer.  Because email involves a keyboard, it's always seemed like writing to me.  But when I get in "writing mode," I waste a lot of time composing what I'm working on.  But email's not writing--it's typing, like IM.  Now I'm trying to make every message as brief as possible, to the point of rudeness.  I don't always succeed, but it's a liberating goal to shoot for.  And not surprisingly, becoming an IM user over the past two years has been helpful training.
+
+- Stop Feeling Guilty: This involves a number of steps:  I won't respond to your message immediately, because I only check email hourly--that's OK.  My response is likely to be a terse, one-line bullet--that's OK.  I may not respond at all, because my attention is hella valuable, and I'm quick to reach for the delete key--that's OK.  And the beauty is that all these steps = less time wasted & more accomplished = even less guilt.  Nice.
+
+- DON'T Stop Any of This: Fresh starts are easy.  The real challenge comes tomorrow, and the day after that, and the day after that, and the day after that.  And in my case an additional challenge will be resisting the challenge to try to perfect a system that's yielding reasonable results AND is easy to manage.  I always want to tinker with things to improve them, but it's  easy to make them too complicated in the process.
+
+What's left to try?  I've set up some "Search Folders," Outlook's closest equivalent to a Smart Folder, but we'll see if they really do anything useful.  I could definitely use some Templates, but I have no idea if Outlook's equipped to  do that effectively.  I'm signed up for plenty of email newsletters, and I probably read four of them--time to unsubscribe.  Longer term, I might move to Thunderbird, although 1) I'm not sure if the return in productivity justifies the investment in switching,  and 2) that could just be counter-productive tinkering (see above.)  And more generally, I'm in the process of implementing David Allen's GTD, and I expect that to affect my email habits in a number of ways.
+
+The bottom line is that I spent perhaps half my day today reading Merlin's posts, excerpting the sections that seemed most relevant to me, putting those principles into practice, and reflecting on what I'd learned.  In the process, I completely revamped my approach to email, almost emptied my Inbox (not quite, but I made real progress), and feel like I have a very solid plan with which to approach the future.  Not a bad deal.
+
+tags: 43folders merlin mann inbox zero david allen gtd productivity
+

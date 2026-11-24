@@ -1,0 +1,37 @@
+---
+title: Last.fm: One of Us, One of Us
+url: https://edbatista.com/2006/01/lastfm_one_of_u.html
+slug: lastfm_one_of_u
+published: 2006-01-31T18:48:59
+updated: 2006-01-31T18:48:59
+source_body: wordpress-html
+---
+
+Thanks to a great suggestion from friend and colleague Ruby Sinreich, I've started an AttentionTrust group over at Last.fm.  Here's my hastily-scribbled raison d'etre:
+
+This is a group for Last.fm users who are interested in making more effective use of their "attention data" (including, but not limited to, all the data we're sharing with Last). We're big fans of Last, and we love their service, but we'd also love to know what Last is planning to do with this data. We hope this group will prompt some interesting discussions between Last and its users.
+
+I really do love Last, and I hope the folks running it realize that eager, engaged, heavy-duty users like us make the best evangelists.
+
+I also anted up and subscribed, figuring that $3 a month was a very cheap way to show my support for the best working attention service out there (and that's what they are, whether they realize it or not.)
+
+I'm obviously a fan, but a few nagging questions remain: What's happening to all of that attention data?  Can I get a copy?  Can I manage it in any way?  Who else has access to it?  What will happen to it if Last tanks?  I have no idea--and that bothers me.  I'd love to see Last join AttentionTrust and give users the ability to exert more control over our data.  What about it, Last?
+
+If you're not a Last user, here's the bullet: 1) It's a plugin that allows you to record your iTunes metadata (which songs you play and when, favorite songs and artists, etc.)  2) It's a web service that allows you to analyze your own metadata as well as others', matches you up with "neighbors" who share your musical tastes, and recommends music you'd like.  3) It's an online community that allows you to create groups with common interests, communicate with fellow members, and keep music-related journals.  You can use the basic service for free, and if you get addicted like me, you can opt for the paid service and get a few extra goodies.
+
+And if you are a Last user, join the AttentionTrust group and become...one of us, one us.
+
+UPDATE: Answering some of my own questions above...
+
+- What's happening to all of that attention data?  Almost all of Last's data is available via the Audioscrobbler Web Services API.  (Audioscrobbler was the original name for the Last plugin.  The two entities merged under the Last name a while back, and the Audioscrobbler site now serves to support the Last development community.)  The data is available under Creative Commons' Attribution - Non-Commercial - Share-Alike License.  The data is also available for commercial purposes, but you have to contact rj@last.fm to obtain a separate license.  (There's no info available on the site about commercial licensing terms, or who's obtained them.)
+
+- Can I get a copy?  Kinda sorta.  You and anyone else adhering to the terms of the CC license can grab a range of feeds in .txt, .xml and .xspf formats.  Some feeds are related to a specific user profile, and others are related to specific songs, artists, etc.  But you can't grab all of your user data--for example, you can only get the top 50 artists, albums and tracks from a user profile, not the full lists.
+
+- Can I manage it in any way?  By this I meant, "Can I delete any shitty music I don't like anymore, so that it doesn't screw up my recommendations?"  The answer appears to be no.
+
+- Who else has access to it?  Anyone who adheres to the CC license, and (I'm assuming) anyone who successfully negotiates a commercial license with Last.  I want to emphasize that for me at least, this is really about transparency, not privacy.  I assume that everything I do online is being tracked, recorded, analyzed and monetized by someone, and that's the price I pay to insure that my actions, my preferences, my interests are attributed to me.  It's a way of expressing myself, really.  Anonymity has its uses, and like everyone I have personal data that I want to keep private, but I'm not worried about keeping my Last data private.  But I would like to know more about who else has access, and under what terms, so that I can make an informed decision about using Last.
+
+- What will happen to it if Last tanks?  Still no idea.  And this is a big concern of mine.  I've invested a lot of time and energy amassing attention data in Last's system, and it's become a valuable resource to me.  I'd feel a lot better if I were capturing and storing my data on my own (in an open, portable format, of course), and then opting to share it with Last.
+
+tags: last.fm attention attentiontrust
+

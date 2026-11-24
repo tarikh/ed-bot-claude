@@ -1,0 +1,33 @@
+---
+title: Coaching Your Employees (HBR Webinar Video and Summary)
+url: https://edbatista.com/2014/04/coaching-your-employees-hbr-webinar-video-and-summary.html
+slug: coaching-your-employees-hbr-webinar-video-and-summary
+published: 2014-04-06T14:05:45
+updated: 2025-09-24T11:59:31
+source_body: wordpress-html
+---
+
+A few weeks ago I conducted a 1-hour webinar for HBR on Coaching Your Employees, and an archived video of my talk is now available. HBR has also produced a well-written 7-page summary of my comments [PDF, 480KB], and you can view my slides separately.
+
+Thanks again to Angelia Herrin for inviting me to participate, to Lisa McMullen for her tremendous help and support, and to all their colleagues at HBR and Citrix/GoToWebinar who made it happen.
+
+Two further notes of appreciation: First, my slides conclude with a section on Resources, linking to the authors I mentioned in my talk; if you're interested in the topics noted below, these works are a great place to start:
+
+- Post-heroic leadership: Power Up by David Bradford and Allan Cohen
+
+- Leadership roles: Scrum Master as Team Coach by Pierluigi Pugliese
+
+- Fixed and growth mindsets: Mindset by Carol Dweck
+
+- A coaching mindset: The Coaching Manager by James Hunt and Joseph Weintraub
+
+- Inquiry and coaching traps: Helping by Edgar Schein
+
+- More on inquiry: Humble Inquiry by Edgar Schein
+
+- The role of emotion: Descartes' Error by Antonio Damasio
+
+- Emotion in organizations: Building the Emotional Intelligence of Groups by Vanessa Druskatt and Steven Wolff
+
+I'd also like to thank Mary Ann Huckabay, Carole Robin, and my colleagues on the Stanford GSB coaching staff, with whom I've worked closely since 2007 in the school's Leadership Fellows program and the former Leadership Coaching course. All of these people have had an immense impact on my approach to coaching, and I'm deeply grateful for their influence.
+

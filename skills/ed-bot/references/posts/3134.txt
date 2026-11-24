@@ -1,0 +1,27 @@
+---
+title: Twenty-Six BILLION Dollars!
+url: https://edbatista.com/2005/02/twentysix_billi.html
+slug: twentysix_billi
+published: 2005-02-01T21:33:54
+updated: 2005-02-01T21:33:54
+source_body: wordpress-html
+---
+
+That's my back-of-the-envelope estimate of the amount U.S. nonprofits spent on technology in 2004. It took some "heroic assumptions" to get there, as my old finance prof would say, so if you can pick apart some of the flaws in this analyis, go for it--but I think I'm in the ballpark.  Here's how I got there:
+
+1) 2004 U.S. GDP = $11.7 trillion (U.S. Dept. of Commerce)
+
+2) Nonprofit sector expenditures as a percentage of GDP (1995) = 7.5% (PDF) (Johns Hopkins Univ.)
+
+3) Assumption that the 7.5% figure has remained constant.  (The JHU study is the best data I found, but other accounts suggest this is reasonable and possibly conservative.)
+
+4) Extrapolated 2004 nonprofit sector expenditures = $11.7 trillion x 7.5% = $877.5 billion
+
+5) Technology spending as a percentage of GDP = Between 2% and 4%; let's say 3% (Rough guess based on U.S. Dept. of Commerce figures)
+
+6) Assumption that nonprofits' overall technology spending is consistent with the rest of the U.S. economy.  (This is the heroic leap.)
+
+7) Extrapolated 2004 nonprofit sector technology spending = $877.5 billion x 3% = $26 billion
+
+OK--so what?  Well, at the very least I think it's sufficient to justify the attention being paid to last year's IPOs by Blackbaud and Kintera, currently valued at $572 million and $224 million, respectively.  (Today, anyway--check back tomorrow.)
+

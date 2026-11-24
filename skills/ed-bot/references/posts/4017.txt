@@ -1,0 +1,63 @@
+---
+title: Intent vs. Impact (When Communication Goes Awry)
+url: https://edbatista.com/2019/05/intent-vs-impact-when-communication-goes-awry.html
+slug: intent-vs-impact-when-communication-goes-awry
+published: 2019-05-27T19:20:28
+updated: 2026-02-06T09:14:09
+source_body: wordpress-html
+---
+
+It is gratuitous to assume not only that the other has the same amount of information as oneself, but that the other must draw the same conclusions from this information.
+
+~Paul Watzlawick, et al. [1]
+
+When our efforts to communicate go awry, one of the most common causes is a failure to distinguish between intent and impact. When delivering a message we typically imagine that these two concepts are aligned--it may not even occur to us to view them as distinct. Our intent is transparent to us, so we assume that it's equally clear to others and that our message is being received in that same spirit.
+
+And when we're on the receiving end of an exchange, the same error leads us to assume that the impact of the other person's message on us was what they intended--without pausing to determine whether or not that's actually true. The underlying challenge here is that we automatically craft explanatory narratives to make sense of situations, and in the absence of sufficient information we'll invent a story without pausing to consider what data we're missing. [2]
+
+So what can we do? What should we bear in mind when navigating a potentially fraught exchange?
+
+When delivering a message:
+
+- The intent behind our message is unknown to the other person unless we make it explicit and verify that it's understood.
+
+- When speaking in person, the content of our message includes not only what we say, but also the entirety of our behavior throughout the exchange--facial expressions, body language, tone of voice, speech patterns, eye contact, etc.--and all of these factors will contribute to our impact on the other person.
+
+- When communicating through any other channel--whether synchronously via phone or text, or asynchronously via email--the absence of this additional data will also contribute to our impact on the other person.
+
+- If the exchange goes awry, explaining our positive intentions after the fact will not undo the negative impact on the other person. At that point, stop explaining and start empathizing.
+
+When receiving a message:
+
+- The intent behind the message is unknown unless it has been made explicit--and until then we will automatically make up an explanation, and it's likely to be self-protective.
+
+- When speaking in person, we will examine the other person's behavior for clues to help us better understand the full meaning of their words--and again, we will automatically make up explanations for their behavior that are likely to be self-protective.
+
+- When communicating through any other channel, synchronously or asynchronously, we will actively invent behaviors that do not exist to make our explanations more coherent. For example, we read emails or texts in a "tone of voice," or we envision the facial expressions of the other party on a phone call.
+
+- If the exchange goes awry, remind ourselves that this was not the other person's intent.
+
+Footnotes
+
+[1] Pragmatics of Human Communication: A Study of Interactional Patterns, Pathologies and Paradoxes, page 95 (Paul Watzlawick, Janet Beavin Bavelas, and Don Jackson, 1967)
+
+[2] Seeing What's Not There (The Importance of Missing Data)
+
+For Further Reading
+
+Three Conversations (On Better Communication)
+
+Better Working Relationships
+
+The Communication Funnel
+
+Resolving a Protracted Conflict
+
+Learning to Yield (Navigating Tough Conversations)
+
+Racing Up the Ladder of Inference
+
+Cognitive bias cheat sheet (Buster Benson, Medium, 2016)
+
+Photo by Rhys Asplundh.
+

@@ -1,0 +1,117 @@
+---
+title: Risky Business (When Commerce and Compliance Clash)
+url: https://edbatista.com/2024/07/risky-business.html
+slug: risky-business
+published: 2024-07-06T12:27:21
+updated: 2025-09-24T11:57:58
+source_body: wordpress-html
+---
+
+My clients are senior leaders whose businesses invariably face a wide range of risks. Some of them must deal with literal threats to life and limb in medicine, pharmaceuticals, construction, manufacturing, or other industries. All of them have to consider the risk of financial losses, technical failures, legal action, or damage to their reputation should things go wrong.
+
+Risks are mitigated by various forms of compliance. Companies in the industries listed above must comply with various methods and procedures to ensure the safe provision of their goods and services. And businesses in every sector protect themselves against unacceptable risk not only by complying with legal and regulatory obligations but also by following recommended best practices.
+
+We take on risk for the promise of a reward, and even as these businesses seek to maintain compliance they do so in pursuit of commerce. I often work with leaders whose companies are taking a novel approach in their field, which usually means that the commercial potential is large but is by no means guaranteed, while the risks they run are uncertain and hard to predict.
+
+In these businesses there's often a tension between the recommended or required compliance and the prospective commercial opportunity. There isn't necessarily a zero-sum relationship between the two, but in any given situation there may be competing priorities, and so a balance must be found. If a company can't provide its goods and services safely and profitably, it won't be around for long.
+
+Many roles in a company are either compliance-oriented or commerce-oriented. This doesn't imply that the people primarily responsible for compliance don't care about profits, or that the people primarily responsible for commerce don't care about safety or quality. But many professionals are educated and trained in disciplines that emphasize one side or the other, and at scale companies are typically organized along functional lines that foster sub-cultures which do the same.
+
+In good times this state of affairs offers an important advantage. Individual employees and their respective functions have distinct incentives that are aligned but not identical, creating a system of checks and balances. This ensures that the demands of compliance and commerce are met with neither side predominating.
+
+But such harmony can be difficult to maintain, particularly in the face of competition, financial pressures, customer churn, outside scrutiny, or legal threats, among many other factors. In these circumstances executives who've previously operated as allies may find themselves at odds, advocating for more stringent compliance or a more vigorous approach to commerce.
+
+And even in good times some leaders must understand and advocate for both sides rather than championing one over the other. This is particularly true for the CEOs who make up the majority of my practice, but a leader at any level of an organization may be called upon to do the same. So if you're a leader who's caught up in such a dispute or who feels stuck in the middle of one, what can you do?
+
+Question Assumptions and Labels
+
+When the commerce vs. compliance divide turns rancorous, among the first casualties are charitable interpretations of the other side's behavior. People leap to conclusions about what's happening and why, and in the process often label their counterparts in ways that reinforce the schism. David Bradford, one of my mentors at Stanford, has noted that professional conflicts tend to escalate in stages:
+
+1. Annoyance at having to adjust our style to accommodate the other person's.
+
+2. Feeling alienated from the other person as our annoyance builds over time.
+
+3. Making unfounded assumptions about the underlying cause of the difference.
+
+4. Viewing the other person as "the problem" (or worse) that's preventing us from working effectively. [1]
+
+David was making an observation about differences in what he called "work style," but this framework is equally applicable to conflicts that result from goals and incentives. The key is recognizing when we've begun to label our counterparts as "the problem" and working backwards to understand what assumptions we've made about their motives and intentions.
+
+Typically we have only a partial understanding of their perspective. Sometimes this is a function of limited access to information or insufficient time to explore the data that is available. But as the great psychologist and communication theorist Paul Watzlawick has noted, "It is gratuitous to assume not only that the other has the same amount of information as oneself, but that the other must draw the same conclusions from this information." [2]
+
+So while improved information-sharing can help, there's often a more fundamental gap in worldviews with regard to risk. People in commercial and compliance roles are trained, acculturated, and incentivized to view risk differently. It's necessary to recognize that all parties are not only acting in accordance with their respective incentives and goals, but also see the situation through a very different lens.
+
+Bridge the Emotional Gap
+
+Once we've stopped labeling our counterparts as "the problem" and begun questioning the assumptions we've made about their motives and intentions, we may still find ourselves viewing them from across a divide. We know more about what they're thinking and why, but we find their conclusions unreasonable.
+
+Such a gap between people in commerce and compliance roles is often heightened by the emotions that are readily evoked in stressful circumstances: Anxiety and fear that we won't achieve our goals. Frustration and anger directed toward any perceived obstacles. Such feelings, while unpleasant, can be useful: negative emotions serve an essential function by warning us of potential threats or the loss of potential opportunities. But emotions are very noisy signals, in part because we're predisposed to overreact to our concerns. This is a reliable feature of human psychology described by physician and evolutionary psychiatrist Randolph Nesse as "the smoke detector principle":
+
+Most of the responses that cause human suffering are unnecessary in the individual instance but still perfectly normal because they have low costs but protect against huge possible losses. They are like false alarms from smoke detectors. The occasional wail when you burn the toast is worth it to ensure that you are warned early about every real fire. [3]
+
+Yet in a commerce vs. compliance dispute it's likely that both sides believe that their perception of risk is accurate and the negative emotions they feel as a result are justified. And as many of us have learned the hard way, it's unhelpful to tell someone who's upset that they "shouldn't" be upset. The key here is empathy, and as I've noted before empathy isn't agreement:
+
+We act as though empathizing with someone entails endorsing their perspective and their feelings, but this need not be the case. Understanding someone’s perspective and their emotions while suspending our judgments about both does not necessarily imply that we agree with that perspective or believe that the resulting emotions are justified. It simply means that we comprehend their perspective and emotions, and we are able to envision ourselves experiencing that perspective and those emotions under similar circumstances. Just as we can empathize with someone without sympathizing [i.e. feeling sorry for them], we can empathize with someone while disagreeing with them and considering their perspective inaccurate and their emotions unwarranted. [4]
+
+In practice this means withholding our judgments about the other person's thoughts and feelings, and actively expressing our understanding in a way that registers with them. The idea isn't to feign agreement, but to lower the emotional temperature and help everyone be more dispassionate in assessing risk--because ultimately a decision must be made about how to proceed.
+
+Decide How to Decide
+
+A common problem in professional disputes is that people jump immediately into advocating for their point of view on an issue without first agreeing on a decision-making process. Management thinker Jurgen Appelo has identified "7 Levels of Delegation" to help groups determine how a given decision will be made:
+
+1. TELL: Leader decides, no discussion.
+
+2. SELL: Leader decides and convinces.
+
+3. CONSULT: Leader seeks input and decides.
+
+4. AGREE: Leader and group decide together.
+
+5. ADVISE: Leader suggests and others decide.
+
+6. INQUIRE: Others decide and inform leader.
+
+7. DELEGATE: Others decide with no further discussion. [5]
+
+(Here's an illustration.)
+
+There are several factors to consider in a commerce vs. compliance dispute: Who has information about the nature of the risks involved? What role should they play in the decision-making process? How will we ensure that this information is explored thoroughly and efficiently? And perhaps most importantly, what are the sources of power and authority in this situation?
+
+I emphasize that last point because in many settings the person with the ability to unilaterally make a decision is in a commerce role or a compliance role, or their training and experience derives from one side rather than the other. In such cases it's essential that they correct for potential biases and are perceived as even-handed, without allowing the process to become bogged down.
+
+Invest in Cross-Cultural Relationships
+
+Once a given dispute has been resolved, continued work over time will help ensure that subsequent disagreements are less heated and resolved more easily. A key in this effort is ensuring that people in commerce and compliance roles don't merely retreat to their respective sub-cultures, but actively maintain cross-cultural relationships with their counterparts.
+
+This need not entail de-emphasizing these sub-cultures or pretending they don't exist. It's a natural human tendency to form cultural sub-groups within a larger population, and this can have beneficial effects, as former Kaiser Permanente CEO George Halvorson has written:
+
+Humans are social creatures; we fall readily into group loyalties. We instinctively divide the world into "us" and "them" and treat others very differently according to which category they’re in... In the 1970s the social psychologist Henri Tajfel gave us the concept of social identity--the understanding that an individual’s identity is powerfully shaped by group allegiances... Researchers since have shown that when people in a work setting have a strong sense of being an us, morale and productivity rise...
+
+Many workplaces default to a version of kinship based on function. A group’s shared identity reflects a common characteristic of its members--everyone’s an engineer, or everyone’s a radiologist. Doing similar work under the same conditions is enough to make an "us." But it doesn’t provide much impetus for the group to align its energies and take bold action. [6]
+
+Commerce and compliance sub-cultures within an organization typically form an "us," what Halvorson calls "a version of kinship based on function." But there also needs to be what I've called "a greater us," a larger organizational identity that encompasses both of these sub-cultures (and any others as well). [7] This can take on symbolic forms in logos and corporate swag, but it also occurs via interpersonal experiences.
+
+So whether you're in a commerce role or a compliance role--but especially if you're a senior leader tasked with overseeing both functions--look for opportunities to bring members of these tribes together so they will recognize each other as fellow inhabitants of the same village. The goal isn't simply to establish connections, but in so doing to amass a store of social capital that will contribute to greater empathy and trust the next time there's a disagreement over risk.
+
+ 
+
+Footnotes
+
+[1] Work Style Differences
+
+[2] Pragmatics of Human Communication: A Study of Interactional Patterns, Pathologies and Paradoxes, page 95 (Paul Watzlawick, Janet Beavin Bavelas, and Don Jackson, 1967)
+
+[3] Good Reasons for Bad Feelings: Insights from the Frontier of Evolutionary Psychiatry, pages 40-41 (Randolph Nesse, 2020). For more on this concept, see The Smoke Detector Principle (Why We Overreact).
+
+[4] The Difficulty of Empathizing Up
+
+[5] The 7 Levels of Delegation (Jurgen Appelo, 2015). For more on this concept, see Leadership, Decision-Making and Emotion Management.
+
+[6] Getting to "Us" (George Halvorson, Harvard Business Review, 2014). For more on social identity theory: Experiments in Intergroup Discrimination (Henri Tajfel, Scientific American, 1970) and Social Identity Theory (Gazi Islam, Encyclopedia of Critical Psychology, 2014)
+
+[7] Startup Leadership: A Greater Us
+
+ 
+
+Photo by Rhys Asplundh.
+

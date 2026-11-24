@@ -1,0 +1,81 @@
+---
+title: Getting Coaching for Your Team
+url: https://edbatista.com/2022/01/getting-coaching-for-your-team.html
+slug: getting-coaching-for-your-team
+published: 2022-01-06T13:59:01
+updated: 2026-11-03T19:02:39
+source_body: wordpress-html
+---
+
+It's common for a leader I'm working with to consider professional coaching for one or more of their employees, and I've explored this topic with clients many times over the years. (In my practice this typically involves a CEO and their executive team, but the issues discussed here are relevant for leaders at all levels of an organization.) In some cases this is simply because my client has found our work together valuable, and they believe that their employees could benefit from a similar relationship. In others they envision coaching as a means by which a specific employee could make the most of their potential or overcome a particular challenge.
+
+While I believe that leaders should be able to coach as part of their repertoire [1], there are limits on the efficacy of coaching as a managerial tool. As I've noted before, "We invest in people, and being invested in someone means we care about them and want them to succeed... But if we invest in people, we're attached to outcomes. We want something specific to happen." [2] Good leaders find the right balance between investment and attachment, and as a result their employees feel like valued partners, not means to an end. But even when leaders strike that balance, there are inevitably gaps between the organization's goals and individual employees' interests and aspirations. This is where a professional coach can play a particularly helpful role as a third party, because in most circumstances the coach is unattached to any particular outcomes for the organization or the individual.
+
+If you're thinking about recommending coaching for your employees, here are a number of issues to consider that can affect the extent to which they embrace coaching as a source of support:
+
+What Coaching Is (and Isn't)
+
+In an increasing number of industries and geographies coaching is viewed as a source of support routinely utilized by conscientious professionals, or even as a special benefit for high performers. But in some organizations and places coaching still carries a stigma, which often derives from outdated models or fundamental misunderstandings. In years past it wasn't unusual for coaching to focus on corrective measures for poor performers, but these days those types of engagements are less common. A formative text in my own development as a coach was Co-Active Coaching, written by the founders of the Coaches Training Institute (now the Co-Active Training Institute). As they note in the Second Edition, "From the...coach's point of view, nothing is wrong or broken, and there is no need to fix the client." [3]
+
+This doesn't mean that coaching avoids difficult or even painful issues--in my practice it's not unusual for a client to initiate coaching after encountering a setback or receiving some critical feedback. But even in those cases that's usually just one of several factors that led them to consider coaching in the first place. And while coaching can and should result in a range of improvements from the client's perspective in areas related to their professional performance, I don't believe coaching is particularly effective as part of a formal "performance improvement plan." Many PIPs are merely preliminaries to a foregone conclusion, and in those circumstances it's difficult for coach and client to develop a trusting relationship. (And I've never taken on a client in which coaching was viewed by the organization as a last-ditch effort before termination.)
+
+Coaching can also be confused with therapy, which reflects a misunderstanding of both disciplines. [4] The distinction is often less about the topics being addressed and more about the degree of severity. For example, I regularly talk with clients about anxiety, a common experience for leaders facing daunting responsibilities. [5] Everyone is subject to anxiety at times, and coaching can be helpful in managing it at moderate levels. But severe anxiety (e.g. lasting for an extended period of time, pervasive across many domains of life, impeding normal functioning, accompanied by other physical or cognitive symptoms) requires treatment by a trained mental health professional, not a coach.
+
+The key is ensuring that your employees view coaching as a desirable source of support and not as a threat to their status, security or sense of esteem. Skillful coaches will take great care to address this from the start of every engagement. As longtime MIT professor Edgar Schein notes in Helping, another of my primary texts, "The focus of the earliest interactions between the client and the helper must be managed by the helper toward building up the client's status and identifying appropriate roles." [6] But this process begins the moment you first mention coaching to an employee--and optimally you're able to share with them your own experiences with coaching, past or present.
+
+Agency and Choice
+
+It's essential that employees feel sufficient agency and choice in this process. While in some circumstances it may feel tempting to make coaching mandatory, such an approach will likely undermine the process and may doom it to failure. An employee who feels required to work with a coach will be slow to develop a sense of trust and may never be willing to speak candidly. That said, it's entirely appropriate for you to indicate that there are problems with the status quo that coaching could address.
+
+My initial exposure to coaching came as a client in my first leadership role after business school. At the time I was entangled in a series of conflicts with my Board of Directors. A member of the Board who became a mentor took me aside and said, "You're a talented guy, but you have some rough edges, and you're turning potential allies into adversaries. I advise you to invest in yourself and get a coach." This recommendation wasn't made in a threatening way, but it was made clear that my current trajectory could have negative consequences, that I was facing an important opportunity to become a better leader, and that I was being invited to step up to the challenge. (I did, and this decision to seek coaching ultimately led me to begin coaching others in 2005 and launch a full-time practice the following year.)
+
+Similarly, it's preferable to allow employees to choose their own coach, although there are some caveats. In some cases you may want a single coach to work with an entire group of employees, either one-on-one or in a team coaching capacity. (See below.) Your organization may already have a relationship with a coaching firm or a group of coaches (although even then the coaching providers will typically have individual employees choose from among several potential coaches.) Your employees should have a sense of ownership and responsibility so that coaching is not something "happening to them," but, rather, a process in which they're active participants.
+
+The Leader's Agenda
+
+As noted above, in some cases you may want an employee to address a specific set of issues in coaching. But even when you simply view coaching as a source of support that will benefit an  employee in a generalized way, you likely have a variety of hopes and aspirations for the process. Your agenda shouldn't predominate, and you may need to rein in your directive impulses, but it's neither realistic nor helpful to pretend that you have no agenda at all. Instead, you, your employee and the coach need to collaborate to ensure that your interest in coaching is understood by both employee and coach, and, where possible, integrated into the coaching process without preventing the employee from focusing on other issues that are meaningful to them.
+
+There are a number of ways to accomplish these goals. It's imperative to respect the confidentiality of the coaching relationship, but that doesn't mean you have no access to the coach. You will need to accept limits on what the coach will share with you, and the coach may want to limit the information that you share with them. [7] But you can meet with the coach at the beginning of the engagement in order to convey your agenda and at various times throughout the engagement to assess progress. You may want to include your employee in these meetings, and at times you may want to meet separately with the coach--although if the employee isn't present they should be aware that the meeting is taking place.
+
+You can also discuss coaching with your employee in your regular one-on-ones, although I'm in agreement with the late Intel CEO Andy Grove: "A key point about a one-on-one. It should be regarded as the subordinate's meeting, with its agenda and tone set by [the employee]." [8] If you try to compel transparency, your employee may actually feel less willing to be open with you. But coaching need not be a black box, and you can express your interest in hearing more about the process and extend an invitation to be more candid by being more candid yourself. Once again, it's optimal to be able to talk about your own experience with coaching, which normalizes the idea of having a coach and makes it a safer conversation for your employee.
+
+Think Systemically
+
+It's not necessary for all members of a team to have a coach, and coaching shouldn't be made mandatory. But if coaching is perceived as a perk rather than a punishment, once a member of the team has a positive experience with a coach it's likely that others will want the same access. So consider the implications for your team as a system--including the possibility that everyone might want to participate--and what model for the program will best meet your team's needs. Here are four potential options:
+
+1. In the most basic model each member of the team who wants coaching has their own coach with whom they meet individually, and the coaches have no other exposure to each other or to the group as a whole. This maximizes confidentiality and makes it easier for employees to decide when to begin or conclude coaching, but it requires your organization to maintain relationships with multiple coaches. In a variation of this model coaches may work with multiple employees in separate, parallel individual engagements--this allows you to work with fewer coaches, but it heightens the need for trust among those team members who share a coach. (In these situations it's preferable that employees know who each coach is working with, as that may influence their choice of coach.)
+
+2. In another model the leader and each employee works individually with a coach (and coaches may or may not work with multiple individuals), but in addition the coaches meet separately to share information on the team's overall progress. Such engagements typically focus on group dynamics and interpersonal issues and are often relatively short, lasting just several months. Further, this arrangement is usually only feasible with a group of coaches from a single firm--it's difficult to organize this sort of collaboration when the coaches are independent providers.
+
+3. In a third model each employee has their own coach, but there's also a coach who works with the group as a whole--this coach may also work individually with the leader, but not necessarily. The "team coach" can facilitate offsites and other special events, conduct 360s or other assessments [9], or shadow the group during regular meetings and offer guidance based on their observations.
+
+4. And in yet another model a single coach works with members of the team individually and with the group as a whole. This requires not only a coach who's equally skilled in these disciplines, but also a high degree of trust among the team. When friction among team members is one of the motivations to initiate these activities, it's vital to initially establish a requisite degree of trust, psychological safety and emotional intimacy to serve as the foundation for subsequent work. [10]
+
+Each of these models has its benefits and its disadvantages--there's no one right way to provide coaching for a team, and there are certainly additional models beyond these four. Think about your needs as a system, as well as the capabilities of the coaches available to you. Coaching is an idiosyncratic profession, and every provider has their own approach to the process, whether they're a consolidated firm, a platform that aggregates independent coaches, or a sole practitioner like myself. You should expect providers to have clarity on their approach and to be able to identify their strengths and weaknesses relative to your needs. It's not helpful when you ask a coach, "What do you do?" and their first response is, "What do you need?"
+
+This is a companion piece to How to Find (and Choose) a Coach.
+
+Footnotes
+
+[1] How Great Coaches Ask, Listen and Empathize
+
+[2] Investment vs. Attachment
+
+[3] Co-Active Coaching: New Skills for Coaching People Toward Success, page 4 (Laura Whitworth, Karen Kimsey-House, Henry Kimsey-House and Phillip Sandahl, 2007)
+
+[4] Therapy Referrals
+
+[5] Attention Surplus Disorder (Anxiety and Distraction)
+
+[6] Helping: How to Offer, Give and Receive Help, page 46 (Edgar Schein, 2011)
+
+[7] The corollary to confidentiality is a duty to disclose, which I define in my practice as follows: "My primary obligation is to each individual client, and I have a duty to disclose to each client any information that I believe they would view as material. This includes any information shared with me by a client's employees, employers, colleagues, board members, investors, friends, or family.  As a consequence, I cannot maintain confidentiality with any other party if doing so would prevent me from sharing material information with a client."
+
+[8] High Output Management, page 75 (Andy Grove, 1983 / 1995)
+
+[9] For more on 360s, see The Problem with Anonymous Feedback.
+
+[10] For more on these qualities in organizational life, see Safety, Trust, Intimacy and Safety Is a Resource, Not a Destination.
+
+Photo by Angelo Juan Ramos.
+

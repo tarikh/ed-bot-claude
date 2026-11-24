@@ -1,0 +1,132 @@
+---
+title: Force Isn't Power
+url: https://edbatista.com/2021/03/force-isnt-power.html
+slug: force-isnt-power
+published: 2021-03-06T17:49:14
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+A theme in my practice is helping leaders understand the difference between force and power and make use of that distinction in achieving their goals. Let's define force as "strength or energy as an attribute of action" and power as "the ability to produce an effect." At times the two are indistinguishable, or at least closely related--we need force to produce power. In professional life, this is often true early in our careers. Lacking power--or believing we lack power--we feel that we must act forcefully in order to have the desired effect. But later in our careers and at more senior levels, when we likely possess much more power than before, continuing to act forcefully can be unnecessary and even counterproductive. What does this look like in practice?
+
+Forceful Behavior
+Powerful Behavior
+
+- Speaking loudly
+
+- Speaking rapidly
+
+- Interrupting
+
+- Giving an order
+
+- Harsh language
+
+- Staring
+
+- Emotional expressiveness
+
+- Speaking softly
+
+- Speaking slowly
+
+- Remaining silent
+
+- Asking a question
+
+- Nuanced language
+
+- Looking away
+
+- Emotion regulation
+
+Here's an example of the distinction from the opening scene of Francis Ford Coppola's film The Godfather. A wealthy tradesman wants Marlon Brando's Don Corleone--the powerful head of a Mafia family--to exact vengeance on a pair of men who assaulted his daughter and escaped justice:
+
+A pivotal moment occurs just over a minute into the clip above, at the 4:39 mark. Having been rebuffed in his effort to have the two men murdered, the tradesman implores that "they suffer, as she suffers," and then asks, "How much shall I pay you?" Given the necessary subtlety in this context, such a question is a profound insult, and Corleone's response is telling. He pauses, gently places the cat he's been petting on his desk, stands up, and walks away. He stares out the window for a moment, and then replies, "What have I ever done to make you treat me so disrespectfully?" The merchant realizes the gravity of his misstep and adopts a deferential posture, calling Corleone by his title and kissing his ring. Brando's performance (which won an Oscar that he declined to accept) is a sublime demonstration of how to display power without using any force at all. [1]
+
+I'm not saying that force is irrelevant, but as we grow more senior it should be applied more and more judiciously. A client whose company works with elite military units once invited me to talk with two Navy SEALs. I've worked with leaders who were frustrated by their team's resistance and wished they could just "give orders," so I asked the senior SEAL officer how often he had given an order overriding a subordinate's dissent. "Twice," he said, "in thirteen years." Now that is the judicious use of force--and it told me that he had great confidence in his ability to exert power via other means.
+
+I'm also not saying that forceful, expressive behavior is always unhelpful. As I've noted before [2], some research suggests that people with angry facial expressions are perceived as "threatening, competent, powerful, and dominant" [3], and another study indicates that angry people may perform better in confrontational tasks. [4] But this research applies specifically to overtly and explicitly hostile situations--in other words, anger is useful when we're in a fight.
+
+And in my experience very, very few scenarios in organizational life can truly be classified as "fights." Plenty of professional confrontations feel like fights--but they're not really fights. [5] Far more common are what I call "power struggles among nice people," and executives who show up in such contests acting like they're in a fight almost always lose. They misread the situation and make a host of tactical errors because force isn't power--and when we confuse the two we can actually give away power and put ourselves at a disadvantage. 
+
+Why does this matter so much? In part because of two key findings on effective management from the work of David McClelland, one of the most eminent psychologists of the 20th century. First, good managers have a high need for power and a low need to be liked:
+
+Most of the managers...were high in power motivation compared with the average person. This finding confirms that power motivation is important for management. (Remember that, as we use the term, power motivation refers not to dictatorial behavior but to a desire to have impact, to be strong and influential.) The better managers, judged by the morale of those working for them, tended to score even higher in power motivation. But the most important determining factor of high morale turned out to be not how their power motivation compared with their need to achieve but whether it was higher than their need to be liked. [6]
+
+But just as important, in good managers a high need for power is not expressed through forceful behavior:
+
+The best managers possess two characteristics that act as regulators--a greater emotional maturity, where there is little egotism, and a democratic coaching managerial style. If an institutional power motivation is checked by maturity, it does not lead to an aggressive, egotistic expansiveness. That means managers can control their subordinates and influence others around them without having to resort to coercion or to an authoritarian management style. [7]
+
+In other words, effective management is an ongoing exercise in exerting power without being forceful:
+
+What we are saying is that managers must be interested in playing the influence game in a controlled way. That does not necessarily mean that they are or should be authoritarian in action. On the contrary, it appears that power-motivated managers make their subordinates feel strong rather than weak. [8]
+
+Finally, let's consider the conclusions of Stanford's Jeff Pfeffer,  whose research has focused on power in organizational life, and who's studied thousands of leaders in hundreds of companies over the course of his career. In his book Power: Why Some People Have It--and Others Don't, he discusses seven qualities associated with personal power. [9] The first five are often associated with forcefulness as well:
+
+- Ambition: "Organizational life can be irritating and frustrating and can divert people's effort and attention. Ambition--a focus on achieving influence--can help people overcome the temptation to give up or to give in to the irritations."
+
+- Energy: "Energy, like many emotional states such as anger or happiness, is contagious. Therefore energy inspires more effort on the part of others."
+
+- Focus: "Depth of understanding and a more substantial web of focused relationships... Concentration on a limited set of activities or functional skills... [and] concentrat[ing] on those activities within your particular job or position that are the most critical."
+
+- Self-Knowledge: "There is no learning and personal development without reflection."
+
+- Confidence: "Because power is likely to cause people to behave in a more confident fashion, observers will associate confident behavior with actually having power."
+
+But the final two qualities Pfeffer cites have very little to do with force--and yet have everything to do with power:
+
+- Empathy: "Far from diverting you from accomplishing your objectives, putting yourself in the other's place is one of the best ways to advance your agenda."
+
+- Capacity to Tolerate Conflict: "Because most people are conflict-averse, they avoid difficult situations and difficult people, frequently acceding to requests or changing their positions rather than paying the emotional price of standing up for themselves and their views."
+
+When we act forcefully, we're typically focused on our needs and our perspective. The other party's needs and perspective seem like irrelevant obstacles to be overcome. We're neither capable of empathy nor will we be perceived as empathetic--and thus we miss opportunities to be more powerful.
+
+And a vivid illustration of the capacity to tolerate conflict can be found in Bouncing Back, a masterful book by therapist Linda Graham, who relates the following story from Buddhist tradition:
+
+A master monk is meditating in a temple with other monks. Suddenly a fierce bandit storms into the temple, threatening to kill everybody. The other monks flee, but the master monk remains, calmly meditating. Enraged, the bandit shouts, "Don't you understand? I could run you through with my sword and not bat an eye!" The monk calmly replies, "Don't you understand? I could be run through by your sword and not bat an eye." [10]
+
+The bandit is forceful. But the monk is powerful.
+
+ 
+
+Inspired by my friends and colleagues Michael Chang Wenderoth and Inbal Demri Shaham, and dedicated to Jeff Pfeffer, who has taught us all so very much.
+
+Footnotes
+
+[1] The Godfather (directed and produced by Francis Ford Coppola, screenplay by Mario Puzo and Francis Ford Coppola, Paramount Pictures, 1972)
+
+[2] The Value of a Good Fight
+
+[3] Portrait of The Angry Decision Maker: How Appraisal Tendencies Shape Anger’s Influence on Cognition (Jennifer Lerner and Larissa Tiedens, Journal of Behavioral Decision Making, 2006)
+
+[4] Hedonic and instrumental motives in anger regulation (Maya Tamir, Christopher Mitchell and James Gross, Psychological Science, 2008)
+
+[5] The Tyranny of Feelings
+
+[6] Power Is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, originally written 1976, revised 1995, republished 2003. Passages cited here are from various versions.)
+
+[7] Ibid.
+
+[8] Ibid.
+
+[9] Power: Why Some People Have It and Others Don't, pages 42-54 (Jeffrey Pfeffer, 2010)
+
+- Also see Power Play (Jeffrey Pfeffer, Harvard Business Review, 2010)
+
+[10] Bouncing Back: Rewiring Your Brain for Maximum Resilience and Well-Being, page 229 (Linda Graham, 2013)
+
+ 
+
+For Further Reading
+
+Competence Isn't Power
+
+Weather Systems (Power, Charisma and Leadership)
+
+Three Definitions of Power
+
+ 
+
+Photos: Hammer by Ryan Adams. Vise by Cindy Shebley.
+

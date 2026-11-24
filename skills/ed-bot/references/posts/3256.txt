@@ -1,0 +1,30 @@
+---
+title: What's Important Isn't Necessarily Urgent
+url: https://edbatista.com/2005/08/whats_important.html
+slug: whats_important
+published: 2005-08-05T14:58:15
+updated: 2005-08-05T14:58:15
+source_body: wordpress-html
+---
+
+Today Stowe Boyd critiqued a recent post by David Coleman on continuous partial attention, a post I commented on as well.  Stowe feels that David's emphasis on increasing our efficiency as a response to increasing demands on our attention is misguided:
+
+I am not concerned with the 'overwhelm' of information and attention like David and the Sunday supplement pundits he names seem to be. I have adopted continuous partial attention as a meaningful strategy for remaining connected in a much larger social scene that would be suggested by my tiny, tiny office. I switch from task to task, from IM to telephone, from this interrupt to that, and slowly get back to the list of things I am plugging away on. Yes, things slip from today to tomorrow, but an equal number of things slip from tomorrow, or never, into today. And that slippage is not waste, it is not loss of productivity, it is exactly the interaction with others that makes all this worth doing in the first place.
+
+Gandhi said "we have to be the change we want in the world." It you want the world to be filled with hyper-efficient robots, obsessively focused on getting their own tasks done at the expense of others' progress, never veering off to look at a friend's new project, or to answer a colleague's question, then by all means, please be that sort of person. I promise I won't add you to my buddy list. However, if you'd like the world to be a warm, engaging place, where you are surrounded and connected to hundreds of people who believe that your presence matters, and who actively seek your advice and input on issues that are important, then you can switch over to living a connected life. Forget the information overload hyperbole, or the new terror tactic: attention overload.
+
+I agree with Stowe's vision and values, but I think he's misinterpreting David's post.  I came away from it thinking less about hyper-efficiency and more about the fact that 1) certain kinds of creative thought require a certain amount of uninterrupted peace, and 2) it's become much harder to block out space for that kind of thinking, both because we're living within much denser networks and because there's an expectation that you will respond to demands on your attention rapidly, if not immediately.
+
+I agree that being part of a denser network makes my life much richer, and I'm certainly willing to sacrifice some peace in order to be a functional participant in that network--to give my time, energy and attention to others, in the expectation that my own requests will be met in the future. 
+And I agree that we have to accept a certain amount--and sometimes a great deal--of "slippage," recognizing that within such a dense network, there will always be too many things to do, too many people to connect with, to ever truly keep up.
+
+But plenty of people don't agree with that perspective.  Their response to an ever denser network and ever more demands on their attention is to respond ever more quickly and to minimize the time spent on each transaction, hoping to prevent "slippage" at all costs--which results in the hyperventilating pace that so many people seem caught up in today.
+
+I think David's response focused on efficiency not simply to increase throughput, but as a coping mechanism.  I suggested in response that whether our solutions are technical or cultural, we have to start "putting a higher value on our attention, and raising the threshold of urgency for anything or anyone that's seeking to claim a share of it."
+
+In hindsight, I regret that choice of words--the emphasis shouldn't be on "urgency," which suggests  a ruthlessly businesslike approach to time management.  The emphasis should simply be on importance--the things that truly matter to us--and there are certainly many things that are not urgent but are important.  Stowe highlights how important it is to respond to people in our network, in order to maintain social ties and to increase the richness of our personal environment.  I want to highlight the importance of quiet, reflective thought in the creative process--taking the time to mull things over and come up with new ideas.
+
+But making time for these activities means other things go undone.  I read David's post not as a paean to efficiency for its own sake, but as an exploration of the possible solutions that will allow us to make time for the people and things that truly matter, while continuing to get other, less important but still urgent things accomplished.
+
+attention
+

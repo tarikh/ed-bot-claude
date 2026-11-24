@@ -1,0 +1,11 @@
+---
+title: Apocalypse Right Now
+url: https://edbatista.com/2006/04/apocalypse_righ.html
+slug: apocalypse_righ
+published: 2006-04-27T23:23:04
+updated: 2006-04-27T23:23:04
+source_body: wordpress-html
+---
+
+Some days you feel like Brando, some days you feel like Martin Sheen.
+

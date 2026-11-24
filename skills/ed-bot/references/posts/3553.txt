@@ -1,0 +1,35 @@
+---
+title: Double-Loop Learning
+url: https://edbatista.com/2008/05/double-loop.html
+slug: double-loop
+published: 2008-05-11T11:05:22
+updated: 2025-10-04T15:28:15
+source_body: wordpress-html
+---
+
+Most learning can be described as "single-loop." We start with a set of goals, values and strategies that yield results. We assess the results, refine our techniques, and try again. One loop.
+
+But our goals, values and strategies rest on a set of underlying assumptions that are implicit and unchallenged. Single-loop learning can help us pursue a goal more effectively by altering our methods, but it doesn't help us determine whether the goal is worth pursuing in the first place.
+
+As I wrote in 2006,
+
+In most circumstances, the learning we undertake is aimed at improving our performance relative to a set of goals and other factors that are taken for granted. Feedback from our performance (or "learning from our mistakes") typically cycles immediately back into our analysis of the strategies, tactics or techniques that led to our performance. This is important work, but it's inherently limited by those initial factors that are taken for granted at the outset and that remain unchallenged by an assessment of the performance results.
+
+Double-loop learning occurs when we expand the analytical frame to explicitly identify and then challenge any underlying assumptions that support our stated goals, values and strategies.
+
+Rather than only ask, "How can we achieve our goals more effectively?", we look deeper and also ask...
+
+- What assumptions support our goals, values and strategies?
+
+- How can we test these assumptions?
+
+- Having tested these assumptions, should we change our goals, values or strategies?
+
+Again, as I wrote in 2006,
+
+In contrast, if we can pull back and expand the frame of our analysis, we begin to call into question some of the factors that we usually take for granted. Our performance results aren't simply used to assess the strategies that have been derived from those factors--they question the factors themselves.
+
+For more specific examples, see my earlier posts that discuss double-loop learning in the context of meta-work, executive coaching and feedback. I've also found Mark Smith's essay on double-loop learning at Informal Education extremely valuable.
+
+Many thanks to Chris Argyris, who first developed the concept of double-loop learning, and whose thoughts on theories of action and organizational learning inform my own work on a regular basis. And here's a 2-slide PowerPoint file of the images above.
+

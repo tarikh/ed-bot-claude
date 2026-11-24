@@ -1,0 +1,49 @@
+---
+title: The Trium Group on Responsibility
+url: https://edbatista.com/2008/08/trium.html
+slug: trium
+published: 2008-08-13T04:00:00
+updated: 2025-11-14T18:51:04
+source_body: wordpress-html
+---
+
+Responsibility is a buzzword in management literature, but what does it really mean? How do we act when we feel responsible? How do we act when we don't? And what are the implications for our colleagues and our organizations?
+
+I've written before about lessons I've learned from people at the Trium Group, a consulting firm with a keen understanding of the interpersonal factors that contribute to high performance. [1] In keeping with their perspective on the relationship between individual behavior and organizational strategy, Trium offers a compelling definition of responsibility. I was first introduced to their thinking on the topic last year by my Stanford colleague Sharon Richmond, who had a version of the graphic above pinned to her office door. [2] Trium's original version adds the following commentary on the two mindsets:
+
+Responsible Mindset
+
+I view myself as an integral factor in all situations. Every situation occurs and unfolds as it does in some measure as a direct outcome of my actions, non-actions and interpretations. I believe there is always something I can do to affect the situation.
+
+Victim Mindset
+
+I view myself as separate and disconnected from situations as they occur. Circumstances and events happen to me. I believe there is nothing I can do to affect the situation.
+
+Further research on the topic of responsibility led me to Stanford professor Jeff Pfeffer's recent work on the subject, which includes an extensive discussion of Trium's approach:
+
+Some colleagues at...The Trium Group...have been reasonably successful at helping companies make mind-set transitions, thus enhancing the companies' effectiveness. Although their work focuses on several mental models, one important focus is on what they call the "responsibility" mind-set, which they contrast with the "victim" perspective.
+
+An important introductory comment: Responsibility is not the same as accountability. Responsibility is probably a good thing for companies and their cultures, but accountability is actually somewhat more problematic. Accountability is, of course, an idea very much in vogue these days. People in companies and even schoolchildren are supposed to be held accountable for their decisions and actions—what they do has consequences, and they must feel those consequences, be they positive or negative. There is a lot of evidence, however, that the growing emphasis on individual accountability—something, by the way, that is completely inconsistent with the lessons of the quality movement—hinders learning and even discovering mistakes...
+
+Responsibility implies something different. Responsibility entails feeling efficacious and believing one has some obligation to make the world, including the organizational world, in which one lives a better place. Building a responsibility mind-set or, for that matter, changing mind-sets in general, is a process that requires two things: (1) getting people to acknowledge and accept that how they think about situations is under their volitional control—choice is possible; and (2) having them both emotionally experience and think about the pros and cons of alternative ways of thinking about situations.
+
+What Trium does is have people pair up with someone attending the same workshop or meeting. One person in the pair is then told to tell the other a story that has the following characteristics: (1) the incident is real, (2) it is work-related, and (3) the person telling the story felt like a victim—not in control, things were happening to the person, there was little or nothing they could do about what was occurring, and they were unhappy with what occurred. They are told to tell the story in as convincing a way as possible, so their partner actually believes the story and feels their emotions. Then the roles are reversed, and the partner tells his or her "victim" story to the other person. The questions posed are: What does it feel like to be a victim? and What are the advantages and disadvantages of the victim role? One advantage of being in a victim role is that one gets sympathy, and, in fact, we often see people in subunits who bemoan their shared and unfortunate fate with each other, thereby building social solidarity...
+
+The next step in the mind-set change process is to have each partner tell the same stories they just told each other, but now trying to imagine what it would be like to be more in control or more responsible for what transpired. Being in control does not mean things would have necessarily turned out perfectly—organizations are interdependent systems, and almost no one gets to have their way all the time. But the responsibility mindset is simply seeing oneself as an actor affecting, or trying to affect, what goes on rather than being in a more passive role of having things happen to oneself.
+
+The debriefing then continues by having people think about the emotions they experienced with this responsibility mind-set and, again, discussing the advantages and disadvantages of adopting a responsibility mental model. Not everything is great about being responsible; it is, for instance, hard work and can feel burdensome. Feeling responsible also has many positive emotions and advantages associated with it, including feeling more powerful and more connected. The point of the exercise is not to have people necessarily come to believe one way of thinking is better than another. The objective is to have people recognize that each of us has a choice—or actually a series of choices—we make each day about how we approach the world and the problems and opportunities it presents to us.
+
+We can be victimized or responsible. In a similar fashion, we can choose how we view opponents and rivals and we can choose what assumptions we make and hold about people and organizations and their capabilities and potential... Each choice has consequences—for how we feel and, more important, for what we do, the decisions we make, and how we act in the situations we confront in seeking to make our organizations more effective and successful. [3]
+
+In my work as a coach I emphasize the importance of choice and agency with my clients. It's too easy--and even encouraged, in some organizational cultures--to focus on our lack of choice, our frustration, our powerlessness in the face of forces beyond our control. But as Trium and Pfeffer make clear, we always have the power to choose how we interpret a given situation and the mindset we adopt in response.
+
+This isn't to suggest that we should always make the best of bad situations--there are times in life when we truly are victims of circumstance, and trying to hold ourselves responsible is counterproductive. But in almost all professional situations we can choose to adopt a responsible mindset or a victim mindset--and that choice will have a significant effect on our ability to contribute to a desirable outcome.
+
+Footnotes
+
+[1] Clinton Moloney on Trust and Agreement vs. Alignment
+
+[2] Here's a one-slide PowerPoint of my version of the complete graphic.
+
+[3] Changing Mental Models: HR's Most Important Task (Jeff Pfeffer, Chapter 19 in The Future of Human Resource Management, 2005)
+

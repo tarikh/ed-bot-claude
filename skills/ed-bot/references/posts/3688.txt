@@ -1,0 +1,55 @@
+---
+title: William James on Habit
+url: https://edbatista.com/2011/07/william-james-on-habit.html
+slug: william-james-on-habit
+published: 2011-07-12T23:56:59
+updated: 2025-09-24T11:59:38
+source_body: wordpress-html
+---
+
+The hell to be endured hereafter, of which theology tells, is no worse than the hell we make for ourselves in this world by habitually fashioning our characters in the wrong way. Could the young but realize how soon they will become mere walking bundles of habits, they would give more heed to their conduct while in the plastic state. We are spinning our own fates, good or evil, and never to be undone. Every smallest stroke of virtue or of vice leaves its never so little scar.
+
+William James, Psychology: Briefer Course, Chapter X
+
+I recently finished James' deeply thought-provoking 1892 masterpiece, and one of the highlights is his chapter on Habit. While I read James' literal comments on brain function with some caution--after all, he was born 149 years before the first successful fMRI study--I still find him a great source of wisdom on matters both psychological and philosophical. And even if aspects of James' analysis have been superseded by a century of advances in neuroscience, his 19th-century perspective helps me understand today's research more fully. (Having been introduced to James through such secondary sources as Robert Richardson's outstanding intellectual biography and Alain de Botton's Status Anxiety, I decided to read the "Briefer Course" in its entirety as a sort of historical foundation for a collection of neuroscience and cognitive psychology books I'm planning to read later this summer.)
+
+Chapter X opens with a concise neurological definition of habit:
+
+An acquired habit, from the physiological point of view, is nothing but a new pathway of discharge formed in the brain, by which certain incoming currents ever after tend to escape. [Emphasis original]
+
+James continues with a discussion of the "physical basis" of habits, namely "pathways through the nerve-centres":
+
+Plasticity, then, in the wide sense of the word, means the possession of a structure weak enough to yield to an influence, but strong enough not to yield all at once. Each relatively stable phase of equilibrium in a structure is marked by what we may call a new set of habits. Organic matter, especially nervous tissue, seems endowed with a very extraordinary degree of plasticity of this sort...
+
+[Neurological] currents, once in [the brain], must find a way out. In getting out they leave their traces in the paths which they take. The only thing they can do, in short, is to deepen old paths or to make new ones; and the whole plasticity of the brain sums itself up in two words when we call it an organ in which currents pouring in from the sense-organs make with extreme facility paths which do not easily disappear.
+
+James then moves on to the "practical effects of habit"--it "simplifies our movements, makes them accurate, and diminishes fatigue," and also "diminishes the conscious attention with which our acts are performed." In addition, James notes, habits "depend on sensations not attended to...sensations to which we are usually inattentive; but that they are more than unconscious nerve-currents seems certain, for they catch our attention if they go wrong."
+
+Having concluded his physiological analysis, James turns his attention to the "ethical and pedagogical importance" of habit, and here's where James' genius makes him as relevant as ever more than a century later. Even if we view James' comments on brain and neural function as mere metaphor, they provide a meaningful foundation for a compelling argument on how best to cultivate useful habits (and why such a concept even matters):
+
+The great thing, then, in all education, is to make our nervous system our ally instead of our enemy. It is to fund and capitalize our acquisitions, and live at ease upon the interest of the fund. For this we must make automatic and habitual, as early as possible, as many useful actions as we can, and guard against the growing into ways that are likely to be disadvantageous to us, as we should guard against the plague...
+
+In Professor [Alexander] Bain's chapter on "Moral Habits" [from The Emotions and the Will, 1875]...two great maxims emerge from his treatment. The first is that in the acquisition of a new habit, or the leaving off of an old one, we must take care to launch ourselves with as strong and decided an initiative as possible. Accumulate all the possible circumstances which shall re-enforce the right motives; put yourself assiduously in conditions that encourage the new way; make engagements incompatible with the old; take a public pledge, if the case allows; in short, envelop your resolutions with every aid you know...
+
+The second maxim is: Never suffer an exception to occur till the new habit is securely rooted in your life... Continuity of training is the great means of making the nervous system act infallibly right...
+
+A third maxim may be added to the preceding pair: Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain. It is not in the moment of their forming, but in the moment of their producing motor effects, that resolves and aspirations communicate the new 'set' to the brain...
+
+No matter how full a reservoir of maxims one may possess, and no matter how good one's sentiments may be, if one have not taken advantage of every concrete opportunity to act, one's character may remain entirely unaffected for the better. With mere good intentions, hell is proverbially paved...
+
+A tendency to act only becomes effectively ingrained in us in proportion to the uninterrupted frequency with which the actions actually occur, and the brain 'grows' to their use...
+
+[I]t is not simply particular lines of discharge, but also general forms of discharge, that seem to be grooved out by habit in the brain. Just as, if we let our emotions evaporate, they get into a way of evaporating; so there is reason to suppose that if we often flinch from making an effort, before we know it the effort-making capacity will be gone; and that, if we suffer the wandering of our attention, presently it will wander all the time. Attention and effort are, as we shall see later, but two names for the same psychic fact. To what brain-processes they correspond we do not know. The strongest reason for believing that they do depend on brain-processes at all, and are not pure acts of the spirit, is just this fact, that they seem in some degree subject to the law of habit, which is a material law. As a final practical maxim, relative to these habits of the will, we may, then, offer something like this: Keep the faculty of effort alive in you by a little gratuitous exercise every day. That is, be systematically ascetic or heroic in little unnecessary points, do every day or two something for no other reason than that you would rather not do it, so that when the hour of dire need draws nigh, it may find you not unnerved and untrained to stand the test. [All emphasis original]
+
+That last passage in particular makes my heart beat just a little quicker--I'm motivated to rise to James' challenge, and I'd like to think that I do in such small, healthy habits as going to the gym or meditating when I don't really feel like it, or getting up earlier than usual to do some heavy reading. Of course, I'm all too aware of how often I fall short, and how easily I can fall prey to unhealthy habits--not getting enough sleep, wasting time online, even avoiding a difficult conversation I need to have. But my increasing awareness in recent years of the power of any habitual behavior--of the many ways in which both healthy and unhealthy habits reinforce and perpetuate themselves--is what sparks my interest in James' perspective in the first place.
+
+I'm reminded of Don't Break the Chain, one of most effective--and simplest--motivational tools I've ever found. I first began using DBTC to track my workouts in March 2008, a process that's helped me make regular exercise one of my most deeply rooted habits. Here's my "Exercise" calendar for the last three months (as of July 12)--each red block represents a day I worked out:
+
+Earlier this year I began to using this same tool to track other habits I was trying to cultivate (or break). For example, here's my "Sleep" calendar for the same time period--each blue block represents what I'd call a good night's sleep, preferably a solid 7 hours:
+
+As you can see, the habit of a healthy sleep pattern hasn't yet taken root in my life. But if awareness alone is insufficient to motivate change and inculcate new habits, it's a necessary first step, and at least now I have some data at my disposal to nudge me down that path. (It's also striking how motivated I am to do the right thing in order to earn the reward of "checking off" a day on my calendars--another manifestation of the power of habit.)
+
+And while clearly a number of complex, interlocking factors are at work here, I do find James' perspective on habit a compelling explanation for my various successes and failures at sustaining healthy habits and breaking unhealthy ones.
+
+(As I mentioned above, I read the "Briefer Course" as a precursor to a set of contemporary books on neuroscience and cognitive psychology, and I hope to refer again to James as I work through them, particularly on the topics of attention, emotion and volition. But hopefully this discussion has shed some light on why I find James such a superb intellectual companion, and why I look to him for guidance and encouragement.)
+

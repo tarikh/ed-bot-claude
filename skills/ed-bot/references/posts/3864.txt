@@ -1,0 +1,63 @@
+---
+title: Building a Feedback-Rich Culture from the Middle
+url: https://edbatista.com/2015/04/building-a-feedback-rich-culture-from-the-middle.html
+slug: building-a-feedback-rich-culture-from-the-middle
+published: 2015-04-07T09:00:00
+updated: 2025-09-24T11:59:29
+source_body: wordpress-html
+---
+
+I recently heard from a Stanford MBA who wants to encourage her company to be more open to feedback. She has access to senior leadership and is in a position to influence their thinking, but lacks the authority to directly implement culture change on her own. Our exchange led me to think further about the challenge faced by employees who want to build a feedback-rich culture from within their organizations, and the factors that will be useful (or even necessary) in this process:
+
+Active Leadership Support
+
+The starting point is determining what your senior leadership team thinks about developing a feedback-rich culture. Are they active supporters? Tolerant but unenthusiastic? Skeptical and resistant? Meaningful and sustainable change will need to be led by senior leaders, actively and publicly. If they're involved, then something like a feedback training session at an all-hands retreat can be a useful way to kick off this process. But something on that scale may not even be necessary, because it may be sufficient to work with the leadership to help them further develop their skills and get comfortable with the process, which they can then model with the rest of the staff.
+
+If the leadership team is not directly involved in championing an effort like this, it's likely to be unsuccessful. If you were to hold a training session at a retreat under these circumstances, the rest of the staff would likely cooperate (some eagerly, some grumbling), but the behaviors won't stick, because the leaders aren't modeling them back at the office. In the best-case scenario, a training session is an interesting experience but fails to result in lasting change. And in the worst-case scenario, people become alienated and cynical because the session feels phony and superficial.
+
+Perhaps you've already engaged your senior leadership, and they're on board--if so, great. Now you’re at the point where more wide-ranging initiatives with the rest of the company have a chance of success. If not, you’ll have to look for or create opportunities to senior leaders about this, both individually and as a group, to gauge their interest and identify potential champions.
+
+Better Business Results
+
+Efforts to develop a feedback-rich culture will be more successful the more the organization sees feedback as directly connected to business results, not merely something that's nice to have. I’m not aware of hard data that ties feedback to financial performance, but there are several ways to determine how a feedback-rich culture could contribute to the company’s overall effectiveness.
+
+Consider other aspects of the culture that your leadership believes support business results, but which companies in other industries (or other eras) would view as luxurious perks. This might include a fully stocked kitchen, or flexible work schedules, or unlimited vacation, or onsite massages--the specifics will vary from company to company. But whatever they are, your company is implicitly saying, "We invest in these aspects of our culture because they yield better business results." If you can make those investments more visible and explicit, you can start to build the case as to why a feedback-rich culture is also something that can contribute to business results.
+
+Now think about why you personally believe more (and better) feedback could contribute to those business results and just how this would be accomplished in your company. My own experience has highlighted three typical benefits:
+
+- More efficient communication, because people speak more candidly in meetings and one-on-one conversations.
+
+- More effective organizational learning, because people are more open to discussing setbacks and mistakes.
+
+- A positive impact on hiring and retention, because employees cite a feedback-rich culture as a reason to work there.
+
+One company where I did quarterly feedback trainings for several years has a 4.7 rating (out of 5) on Glassdoor, and several comments reference the impact of the culture. For example, “Completely open culture where everyone is encouraged to give their coworkers regular feedback, so you don't have that fear and uncertainty about how you're doing." That's not quite the same as hard data, but it's certainly possible to draw a connection between comments like that and better overall performance.
+
+Relevance to Millennials
+
+Recent research has highlighted the importance of providing feedback to Millennial employees. [1,2,3] According to Amy Lynch, who researches and speaks on generational differences, Millennials comprised 34% of the workforce in 2014, and will comprise 46% in 2020, and in my experience these figures are substantially higher in technology startups and growing companies. [4]
+
+If your company has a substantial number of Millennial employees, this fact alone may help to sway senior leaders--often Gen Xers or Boomers--who came of age when feedback was less common. Note that older leaders who have less experience in a feedback-rich culture may find the experience threatening, so it's essential to make feedback less stressful for receivers and givers.
+
+Personal Initiative
+
+Finally, as you’re laying this groundwork and getting senior leaders on board, you can also begin by taking the initiative to provide and ask for feedback yourself. I'm not suggesting you jump into the deep end, but rather, wade in gradually by sharing more positive feedback and building a foundation for more candid conversations. Some people will be more receptive than others, so start with them. The more you can walk the talk yourself, the more you can demonstrate that it works.
+
+ 
+
+This is a companion piece to Building a Feedback-Rich Culture.
+
+Footnotes
+
+[1] Mentoring Millenials (Jeanne C. Meister and Karie Willyerd, Harvard Business Review, 2010)
+
+[2] You're Probably Wrong About Milennials  (Dan Schawbel, Harvard Business Review, 2013)
+
+[3] What Milennials Want from Work, Charted Across the World (Henrik Bresman, Harvard Business Review, 2015)
+
+[4] ROI on Generation Y (Amy Lynch, 2011)
+
+Edited February 2022.
+
+Photo by John.
+

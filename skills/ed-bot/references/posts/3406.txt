@@ -1,0 +1,15 @@
+---
+title: Update on Pfeffer and Sutton's "Hard Facts"
+url: https://edbatista.com/2006/05/update_on_pfeff.html
+slug: update_on_pfeff
+published: 2006-05-25T16:18:43
+updated: 2006-05-25T16:18:43
+source_body: wordpress-html
+---
+
+Bob Sutton, co-author with Jeffrey Pfeffer of Hard Facts, Dangerous Half-Truths and Total Nonsense: Profiting from Evidence-Based Management, has just put out a Change This manifesto on Management Advice: Which 90% Is Crap?, and an excerpt bears particular relevance to Hard Facts' perspective on leadership:
+
+It turns out that facing the hard facts is something that human beings are remarkably bad at doing. We "shoot the messengers" who bring us bad news; we seek, remember, and act on bad evidence that supports our dearly held beliefs; we avoid, forget, and fail to act on evidence that clashes with our ingrained if flawed ideologies. The best leaders have the courage to act on what they know right now and the humility to change their actions when they encounter new evidence. That is why, although Hard Facts contains much research and many nuances, the main idea is that the best leaders and companies have "the attitude of wisdom": They have the courage to act on what they know right now and the humility to change their actions when they encounter new evidence. They also know how to argue as if they are right, and listen as if they are wrong—so they can develop and think about their ideas without becoming narrow-minded slaves to bad or incomplete ideas. As former Intel CEO, Andy Grove, put it, "I think it is very important for you to do two things: act on your temporary conviction as if it was a real conviction; and when you realize that you are wrong, correct course very quickly." Amen.
+
+My emphasis, and if that isn't good advice for life in general, I don't know what is.
+

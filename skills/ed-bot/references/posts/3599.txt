@@ -1,0 +1,35 @@
+---
+title: On Decision-Making
+url: https://edbatista.com/2009/03/decisions.html
+slug: decisions
+published: 2009-03-26T13:54:14
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+Here's a simple framework to help guide any decision-making process (and here's a one-slide PowerPoint of the graphic above [58 KB]):
+
+1) Initiate the process in divergent thinking mode, generating as many options as possible.  Be deliberate about keeping all options on the table in this stage, and stay there as long as necessary and no longer.  (Spending too much time in this stage can be just as counterproductive as spending too little.)
+
+2) At the end of this stage, mark a clear transition in the process.  Take a break or simply note that you're shifting gears.  If it's a group process, be certain that everyone involved is ready to move on, and get everyone's affirmative commitment before doing so.  (Trying to move on before everyone's ready can seriously undermine the group's investment in the final outcome.)  And be aware that the next stage will require a different mindset (and different ways of interacting in a group); use the transition period to make any necessary changes.
+
+3) Begin to move toward closure by entering convergent thinking mode, eliminating options using whatever criteria you've chosen.  You may realize after entering this stage that you (or another member of the group) are still focused on generating options and aren't ready to begin eliminating them.  If so, either return to the previous stage or let go of the need to continue generating options.  (It may feel inefficient take a step back in the process, but it's even less efficient to try to reach closure when you're still generating options.)
+
+Update: See Grant McCracken on Brainstorming as Intellectual Improv, particularly the comments, for further discussion of the divergent/convergent model.
+
+I first encountered this framework in Sam Kaner's Facilitator's Guide to Participatory Decision-Making (thanks to my colleague Andrea Corney), which I highly recommend.  And I was reminded of it recently when helping someone think about his career path.  His first inclination was to put himself through an extensive round of aptitude tests and other assessments.  But in the 2008 edition of What Color Is Your Parachute?,* Richard Bolles notes that testing can be a poor way to begin a career planning process, using a framework similar to Kaner's to make his point:
+
+Most computerized tests embody the idea of starting with a wide range of options, and narrowing them down.  So each time you answer a question, you narrow down the number of options...
+
+Good career-choice or career planning postpones the "narrowing down" until it has first broadened your horizons and expanded the number of options you are thinking about... You first expand your mental horizons, to see all the possibilities, and only then do you start to narrow them down to the particular two of three that interest you most.
+
+So what's a good test?  All together now: a test that shows you more possibilities for your life.
+
+And what's a bad test?  Again, together: a test that narrows the possibilities for your life.
+
+(I'd modify those last two statements by noting that a good test shows you more possibilities when you're generating options--and a test that narrows possibilities can serve a useful purpose when you're eliminating options.  But I fully agree with Bolles' larger points that tests usually narrow our options, and we usually jump into convergent thinking mode too early in any decision-making process.)
+
+None of this is rocket science, by any means, but I'm struck by how often our decision-making (particularly in group settings) could be improved by a more conscious application of this simple framework.
+
+* In a recent review in the Wall Street Journal of Martha Finney's Rebound: A Proven Plan for Starting Over After Job Loss, Eric Felten suggests that Bolles' perennial best-seller "could stand to be retired... [W]ith its clumsy charts and checklists, its hokey visualization devices and hollow platitudes...it feels less like a book than the rummage of a community-college guidance counselor. And dusty rummage at that."  Felten makes a valid point--the ancient cartoons and hodge-podge graphics make "Parachute" feel woefully out-of-date, and there are some sections that should be revised or scrapped.  I think the book's continued dominance of the career-planning category is based more on its reputation than its current value, but all that said, there's still wisdom to be found there, particularly in Bolles' emphasis on self-awareness and understanding.
+

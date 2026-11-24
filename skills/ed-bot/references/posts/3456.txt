@@ -1,0 +1,27 @@
+---
+title: David Bradford on Real Options
+url: https://edbatista.com/2006/09/david_bradford_-2.html
+slug: david_bradford_-2
+published: 2006-09-29T20:21:10
+updated: 2025-09-24T11:59:46
+source_body: wordpress-html
+---
+
+Theories about leadership can help guide our actions, but when we're facing an immediate challenge what are our real options? In David Bradford's High Performance Leadership class at Stanford (where I'm currently his teaching assistant) he drew the following graph on the board:
+
+The class discussion focused on a case involving a manager who had to decide whether to fire or counsel a key subordinate. When surveyed, half the class thought she should fire the subordinate, and the other half thought she should counsel her.
+
+David revealed that the subordinate was ultimately fired, but as he did he asked the class, What was the manager's conceptual model of leadership? What was her personal style? What were her key skills? And it became apparent that although half of us wanted counseling to be a feasible option, firing was the only realistic outcome for this particular manager, given her leadership model, her personal style and her key skills.
+
+The larger point David was making is that our options as leaders are bounded by our concepts and capabilities in these three areas. I'd add that our Potential Options have to conform to two out of three.
+
+In any given situation, we can probably stretch beyond our current limits in one area at best--we can revise our conceptual framework, we can develop new skills, or we can modify our personal style.
+
+More realistically, the Likely Option we choose in a given situation is going to be the one that conforms to our current concepts and capabilities in all three areas. This isn't just a matter of expediency, although that's a factor to consider--we're more likely to stay within our comfort zones when we have to make decisions in a hurry or under pressure.
+
+But options that don't conform to our concepts and capabilities won't be sustainable over time. Had the manager in today's case opted for counseling over firing, she probably would have made an earnest, good faith effort--at first. But it's unlikely that she would have been able to stick with a plan that pushed her so far beyond her limits.
+
+So if we can push beyond our current limits in any of these areas--our model of leadership, our skills, our personal style--we expand the range of options available to us in a managerial situation. At the same time, we need to be mindful of our unique blend of concepts and capabilities. Theories are useful when we're trying to expand the range of options, but at the moment a decision has to be made, we have to work with the materials at hand.
+
+(Here's a three-page PowerPoint of the graphs above.)
+

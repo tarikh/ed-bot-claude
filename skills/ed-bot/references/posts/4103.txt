@@ -1,0 +1,63 @@
+---
+title: When Executives Clash
+url: https://edbatista.com/2021/05/when-executives-clash.html
+slug: when-executives-clash
+published: 2021-05-19T16:18:27
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+A situation that often comes up in my coaching practice is the CEO with two executives who are at odds with each other. Entrepreneur and investor Ben Horowitz offers some advice to leaders facing this challenge that I've found extremely useful [1]:
+
+Once your organization grows to a certain size, members of your team will from time to time complain about each other. Sometimes this criticism will be extremely aggressive. Be careful about how you listen and the message that it sends. Simply by hearing them out without defending the employee in question, you will send the message that you agree. If people in the company think that you agree that one of your executives is less than stellar, than information will spread quickly and without qualification. As a result, people will stop listening to the executive in question and the executive will soon become ineffective.
+
+There are two distinct types of complaints that you will receive:
+
+- Complaints about an executive's behavior.
+
+- Complaints about an executive's competency or performance.
+
+Generally, the best way to handle the first type of complaint is to get the complaining executive and the targeted executive in the room together and have them explain themselves. Usually, simply having this meeting will resolve the conflict and correct the behavior and improve the relationship (if it was actually broken.) Do not attempt to address behavioral issues without both executives in the room. Doing so will invite manipulation and politics.
+
+Complaints of the second type are both more rare and more complex. If one of your executives summons the courage to complain about the competency of one of their peers, then there is a good chance that either the complainer or the targeted executive has a major problem. If you receive this type of complaint, you will generally have one of two reactions: they will be telling you something that you already know, or they'll be telling you shocking news.
+
+If there are telling you something that you already know, then the big news is that you have let the situation go too far. Whatever your reasons for attempting to rehabilitate the wayward executive, you have taken too long, and now your organization has turned on them. You must resolve the situation quickly. Almost always, this means firing the [targeted] executive. While I've seen executives improve their performance and skill sets, I've never seen one lose the support of the organization and then regain it.
+
+On the other hand, if the complaint is new news, then you must immediately stop the conversation and make clear to the complaining executive that you in no way agree with their assessment. You do not want to cripple the other executive before you reevaluate his performance. You do not want the complaint to become a self-fulfilling prophecy. Once you've shut down the conversation, you must quickly reassess the employee in question. If you find he is doing an excellent job, you must figure out the complaining executive's motivations and resolve them. Do not let an accusation of this magnitude fester. If you find that the employee is doing a poor job, there will be time to go back and get the complaining employee's input, but you should be on a track to remove the poor performer at that point. [1]
+
+So if you're a leader in this position, and you find Horowitz's advice as compelling as I do, now what? How might you put any of this into practice?
+
+Addressing Behavior
+
+- Facilitate a conversation to improve the working relationship.
+
+- Identify potential work style differences.
+
+- Offer guidance on how to deliver critical feedback.
+
+- Clarify the distinction between intent and impact.
+
+- Note the importance of vulnerability in resolving conflict.
+
+Addressing Competence and Performance
+
+- Don't wait.
+
+- Consider the impact of role clarity.
+
+- Consider the impact of organizational structure.
+
+- If necessary, be prepared to level them.
+
+- Further, be prepared to fire them, while considering what you owe them and what you don't.
+
+ 
+
+Footnote
+
+[1] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, pages 152-154 (Ben Horowitz, 2014)
+
+ 
+
+Photo by Sharon Mollerus.
+

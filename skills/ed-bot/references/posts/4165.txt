@@ -1,0 +1,153 @@
+---
+title: Why Some Feedback Hurts (and What To Do About It)
+url: https://edbatista.com/2022/09/why-some-feedback-hurts-and-what-to-do-about-it.html
+slug: why-some-feedback-hurts-and-what-to-do-about-it
+published: 2022-09-20T21:09:39
+updated: 2025-09-24T11:58:02
+source_body: wordpress-html
+---
+
+1. Feedback is Data
+
+"Feedback is a gift," or so we're told, and yet sometimes that "gift" is quite painful to receive. This is a theme in my work with leaders, who routinely find themselves the subject of sharp criticism in company surveys, 360 reports, Glassdoor reviews, and social media, among other places. My clients aren't looking for pity--as leaders they understand that negative feedback comes with the territory. But they still need to figure out how to digest this feedback and what, if anything, they should do in response.
+
+A starting point in this process, as I've noted before, is recognizing that feedback is not a gift--it's data. [1] Calling feedback a "gift" derives from the understandable idea that it's better to have this data at our disposal than to go without it, and we should be grateful to anyone who makes the effort to provide it. But this ignores the reality that receiving feedback is often stressful, even hurtful, which can leave the recipient profoundly confused: What does it mean to receive such an unpleasant "gift"? Why am I supposed to be thankful for it? If I find feedback hurtful, am I the problem?
+
+And as with all data, feedback is comprised of both signal and noise. Even the most hurtful feedback usually incorporates some signal--valuable information that presents you with an opportunity to learn and grow, challenging though it may be. But there is almost certainly plenty of noise--unhelpful or irrelevant information that should be ignored. The key with any painful feedback is ensuring that you don't miss the signal while filtering out the noise.
+
+2. Why Some Feedback Hurts
+
+The next step in this process is understanding just why some feedback hurts, and two useful frameworks are David Rock's SCARF model [2] and Douglas Stone and Sheila Heen's concept of "feedback triggers." [3] Rock, an executive coach and founder of the NeuroLeadership Institute, has identified five interpersonal dynamics--represented by the acronym SCARF--that are likely to evoke a "social threat," a form of threat response.
+
+We evolved this constellation of physiological, emotional, and cognitive reactions, often called a "fight, flight, or freeze response," to help us defend against literal threats to our physical safety. The problem is that we often perceive interpersonal situations as threatening, and, as I've discussed previously, all of the factors represented in the SCARF model can be present in a typical feedback conversation:
+
+Status: Feedback often comes from leaders and others who occupy a position of higher status in the relationship, but even when feedback comes from peers or subordinates, it can feel as through they're adopting a higher status role.
+
+Certainty: You may feel uncertain about the outcome of a feedback exchange, or you may know little about its content, particularly in an organization or a relationship where feedback is rarely provided.
+
+Autonomy: You may feel obligated to receive feedback whenever someone wants to provide it, diminishing your sense of agency or choice.
+
+Relatedness: When someone is providing feedback you may perceive them as more socially distant, resulting in a diminished sense of personal connection.
+
+Fairness: You may view feedback as unfair, particularly if the giver has made inaccurate assumptions about the intentions or motives underlying your actions. [4]
+
+All of these dynamics can trigger a social threat. When we perceive people as higher status, when we experience uncertainty, when we feel less autonomy, when we feel less connected to those around us, and when we believe that something is unfair we are more likely to experience a threat response. It's no wonder that some feedback hurts.
+
+Stone and Heen are colleagues at the Harvard Negotiation Project with extensive expertise in the challenges of interpersonal communication. One of their main premises of their work is that there are essentially three reasons--three "triggers"--that cause us to respond negatively to feedback, and they clearly correlate with elements of the SCARF model:
+
+Truth Triggers are set off by the substance of the feedback itself--it's somehow off, unhelpful, or simply untrue. In response, we feel indignant, wronged, and exasperated...
+
+Relationship Triggers are tripped by the particular person who is giving us this gift of feedback. All feedback is colored by the relationship between giver and receiver, and we can have reactions based on what we believe about the giver...or how we feel treated by the giver...
+
+By contrast, Identity Triggers focus neither on the feedback nor on the person offering it. Identity triggers are all about us. Whether the feedback is right or wrong, wise or witless, something about it has caused our identity--our sense of who we are--to come undone. We feel overwhelmed, threatened, ashamed, or off-balance. [5]
+
+When you're distressed or even hurt by critical feedback, take some comfort in knowing that such feelings are a normal and predictable response to one or more of these elements. But the fact that your response is normal doesn't mean that it's helpful, as Stone and Heen make clear:
+
+Is there anything wrong with any of the reactions above? If the feedback is genuinely off target or the person giving it has proven untrustworthy, or we feel threatened and off balance, aren't these responses pretty reasonable? They are.
+
+Our triggered reactions are not obstacles because they are unreasonable. Our triggers are obstacles because they keep us from engaging skillfully in the conversation. Receiving feedback well is a process of sorting and filtering--of learning how the other person sees things; of trying on ideas that at first seem a poor fit; of experimenting. And of shelving or discarding the parts of the feedback that in the end seem off or not what you need right now. [6]
+
+3. Making Feedback Hurt Less
+
+So when you find yourself in this situation, what can you do? How might you "engage skillfully in the conversation," whether you're holding a face-to-face dialogue or reviewing feedback that's been provided via some other means? Here are three steps to help make feedback hurt less: [7]
+
+Reframe the experience: Use Rock's SCARF model and Stone and Heen's three triggers to understand what’s happening, regulate your distress, and diminish your sense of social threat. This is a version of a technique derived from cognitive-behavioral therapy known as cognitive reappraisal or, more simply, reframing. Research shows that reframing can reduce stress levels and increase our abilities to manage negative emotions. [8] When receiving or reviewing feedback, remind yourself of the following:
+
+- Your perception that feedback is threatening is rooted in well-understood neurological and psychological dynamics. The feeling of being threatened doesn’t mean that you're facing a literal threat to your safety.
+
+- When you believe that feedback is untruthful or unfair, both you and the provider may be making inaccurate assumptions about each other's motives and intentions. Specifically, you may be misinterpreting their rationale for providing feedback in the first place. (They may simply want to help.)
+
+- Your relationship with the feedback provider has a substantial effect on your response distinct from the content of the feedback itself. A feedback provider isn’t necessarily assuming a position of higher status or lording their status over you, nor are they intending to create a sense of interpersonal distance between you.
+
+- Because feedback is data, and data includes both signal and noise, any feedback that challenges aspects of your identity may have something to teach you--and it may not. Disconfirming data is always worth exploring--and it isn't always accurate.
+
+- Even when you feel obligated to receive or review this feedback, you are making the choice to respond to that pressure, and you do have agency in the process.
+
+Build the relationship: This isn't always applicable or feasible, of course--you may not want to invest in a relationship with a former employee who left you a scathing Glassdoor review, and you probably can't meet one-on-one with everyone who shared critical feedback in a company survey. But in ongoing relationships where future feedback exchanges are likely, you should seek to develop a stronger sense of connection and a deeper feeling of trust over time. This helps not only with the "relationship trigger" but also with many of the factors in the SCARF model. [9]
+
+Develop a feedback-rich culture: While there’s much we can do individually and in our working relationships to improve the experience, the process of giving and receiving feedback will always be heavily influenced by the surrounding organizational culture. We should strive to create a culture in which feedback conversations are less stressful for all members of the organization. Among other steps, this involves giving and receiving feedback more frequently so that it becomes a normal aspect of organizational life, making it OK to both postpone feedback conversations until a better time, and ensuring that leaders walk the talk by providing and soliciting direct feedback on a regular basis. [10]
+
+4. How to Respond to Feedback That Hurts
+
+Even as you manage the emotions evoked by hurtful feedback, it will be necessary to respond to it by indicating what will happen--and what will not happen--as a result. [11] Because feedback is data you don't need to agree with hurtful feedback or treat it like a set of commandments. That's a sure path to overwhelm and resentment. But it's essential to avoid responding defensively or rejecting it out of hand. Not only might that lead you to discount some important data while blocking out the noise, but it also sets a poor example for the rest of the organization. Instead, recognize that every piece of hurtful feedback contains a request for change and that all change carries a cost. With that as a guideline, you can distinguish among the following:
+
+Easy changes you're happy to make: Hurtful feedback undoubtedly includes criticism of certain behaviors or aspects of your management style that you're not attached to and can modify without undue effort. Remind your feedback providers that we all have blind spots, and they don't need to wait for a special occasion to give you similar feedback in the future.
+
+Hard changes you're willing to attempt: Hurtful feedback probably also includes criticism of behaviors or aspects of your style that feel more deeply rooted or will be more difficult to change. Invite your feedback providers to partner with you in this process, by offering help, support and understanding, and possibly by taking some responsibility for their contributions to the issue.
+
+Changes that will be too difficult or costly to undertake: By no means should you feel compelled to accede to all of the hurtful feedback you receive. Some of the changes people are asking for will either impose an intolerable burden on you or will prevent you from accomplishing your goals as a leader. But bear in mind that they're requesting these changes because these behaviors or aspects of your style are imposing a cost on them. You need not grant their request or agree with their point of view, but you can empathize with it. [12]
+
+ 
+
+Footnotes
+
+[1] Feedback Is Not a Gift
+
+[2] Neuroscience, Leadership and David Rock's SCARF Model
+
+[3] See Chapter 1, Thanks for the Feedback: The Science and Art of Receiving Feedback Well (Douglas Stone and Sheila Heen, 2015). I think so highly of this model that I included it on my syllabus when I taught Interpersonal Dynamics (aka "Touchy Feely") at Stanford. In addition to collaborating on Thanks for the Feedback, Stone and Heen co-authored (with Bruce Patton) another classic work on communication that I highly recommend, Difficult Conversations: How to Discuss What Matters Most.
+
+[4] Adapted from Make Getting Feedback Less Stressful. For more on how I discuss feedback with clients, see the following:
+
+- Making Feedback Less Stressful (Harvard Business Review Webinar)
+
+- HBR webinar (1-hour video)
+
+- HBR's summary of my remarks (8-page PDF)
+
+- Webinar slide deck
+
+- The Problem with Anonymous Feedback
+
+- Your 360 Report Is Ready
+
+[5] Thanks for the Feedback: The Science and Art of Receiving Feedback Well, pages 16-17 (Douglas Stone and Sheila Heen, 2015)
+
+[6] Ibid, page 17.
+
+[7] Adapted from Make Getting Feedback Less Stressful.
+
+[8] For more on cognitive reframing and stress reduction, see the following:
+
+- Emotion regulation: Affective, cognitive and social consequences (James Gross, Psychophysiology, 2003)
+
+- Individual differences in trait rumination and the neural systems supporting cognitive reappraisal (Rebecca Ray, et al, Cognitive, Affective and Behavioral Neuroscience, 2005)
+
+- Cognitive Emotion Regulation: Insights From Social Cognitive and Affective Neuroscience (Kevin Ochsner and James Gross, Current Directions in Psychological Science, 2008)
+
+[9] For more on building better relationships, see the following:
+
+- Better Working Relationships
+
+- Two Sides of Trust
+
+- The Toyota Production System for Relationships
+
+- Five Levels of Communication
+
+- I also highly recommend the work of John Gottman, an eminent psychologist at the University of Washington.
+
+[10] For more on feedback and organizational culture, see the following:
+
+- Building a Feedback-Rich Culture
+
+- Make Feedback Normal. Not a Performance Review.
+
+- Building a Feedback-Rich Culture from the Middle
+
+[11] Adapted from Your 360 Report Is Ready.
+
+[12] Accountability and Empathy (Are Not Mutually Exclusive)
+
+ 
+
+For Further Reading
+
+The Tyranny of Feelings
+
+The Difficulty of Empathizing Up
+
+ 
+
+Photo by Eric Kilby.
+

@@ -1,0 +1,45 @@
+---
+title: Conflict Modes and Managerial Styles
+url: https://edbatista.com/2007/01/conflict_modes_.html
+slug: conflict_modes_
+published: 2007-01-21T09:50:11
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+How do you deal with conflict? Most of us have a preferred conflict resolution style that corresponds with one of the five modes identified in the 1970s by psychologists Kenneth Thomas and Ralph Kilmann [1]:
+
+(Here's a larger version of the graphic above.)
+
+When our natural style becomes a default option in all circumstances, we can find it difficult to resolve certain conflicts, because some styles are poorly suited to certain situations. All of the Thomas-Kilmann modes can be used effectively in the right context, and it's important to develop the ability to choose the mode that best fits the situation and to increase our level of comfort with alternative styles. This framework forms the basis of a popular assessment known as the Thomas-Kilmann Conflict Mode Instrument, commonly referred to as the TKI.
+
+The TKI is available through Kilmann's firm, Kilmann Diagnostics, and from The Myers-Briggs Company, formerly known as Consulting Psychologists Press or CPP. [2] The latter firm renamed itself after its primary product, the Myers-Briggs Type Indicator or MBTI, which has been roundly criticized for its lack of validity and reliability. [3] I fundamentally agree with this critique of the MBTI, although I acknowledge that it can play a useful role in a conversation about individual differences when we view its results with critical distance and feel free to challenge its conclusions. But all too often MBTI results are instead used to label people and sort them into boxes rather than to promote self-reflection and a richer understanding of ourselves.
+
+In this context its worth asking whether the TKI is similarly flawed, but I haven't yet found any such criticism. Kilmann asserts that the TKI's development was actually rooted in a desire to create an assessment free from social desirability bias, or "people’s tendencies to present the most socially acceptable image of themselves, rather than present themselves as they really are." [4] That said, mediator Ron Kraybill developed an alternative to the TKI, known as the Kraybill Conflict Styles Inventory, in order to provide more nuanced results that account for the amount of stress in the environment as well as differences between cultures. [5]
+
+It's also worth noting that both the TKI and Kraybill's version are built on the Managerial Style Grid, developed by Jane Mouton and Robert Blake in the 1960's, a concept that I view as one of the most important frameworks in the history of organizational management. [6] (Here's a larger version of the graph below.)
+
+Revised June 2020.
+
+Here's a 3-slide PowerPoint file of the graphs above, along with a similar one describing the Kraybill Conflict Styles Inventory.
+
+Thanks to Andrea Corney for her thorough explanation of the TKI when I first encountered it as her colleague at Stanford in 2007.
+
+Footnotes
+
+[1] "Developing a Forced-Choice Measure of Conflict-Handling Behavior: The 'Mode' Instrument" (Ralph Kilmann and Kenneth Thomas, Education and Psychological Measurement, 1977, 37, pages 309-325) For a thorough summary, see "Conflict Management: the Five Conflict Styles," by Bonnie Burrell at MIT's Collaboration Toolbox (2001).
+
+[2] Thomas-Kilmann Instrument:
+
+- Kilmann Diagnostics
+
+- The Myers-Briggs Company
+
+[3] Goodbye to MBTI, the Fad That Won't Die. (Adam Grant, Psychology Today, 2013)
+
+[4] A Brief History of the Thomas-Kilmann Conflict Mode Instrument (Ralph Kilmann)
+
+[5] The Kraybill Conflict Styles Inventory is available from Riverhouse Press. Kraybill's version uses a Likert scale rather than the forced-choice questions employed in the TKI, and it provides answers for what Kraybill calls "calm" and "storm" conditions, noting that our styles may change under stress. Kraybill also offers a version that distinguishes between "individualistic" and "collectivistic" cultures.
+
+[6] Mouton and Blake's work is carried on by Grid International, which provides leadership development and organizational culture consulting services, and their Managerial Style Grid has had a big impact on my own work related to organizational culture: Accountability and Empathy (Are Not Mutually Exclusive)
+

@@ -1,0 +1,129 @@
+---
+title: Work Style Differences
+url: https://edbatista.com/2019/05/work-style-differences.html
+slug: work-style-differences
+published: 2019-05-06T05:40:15
+updated: 2025-11-01T21:12:28
+source_body: wordpress-html
+---
+
+We all have our preferred ways of working, and sometimes when we're locked in a conflict with a colleague it's the result of incompatible work styles. When we work with people who share our work style it may feel more comfortable, but homogeneous teams can have blind spots and be prone to groupthink. Teams whose members have a diverse range of styles can be more effective if they develop the ability to manage conflict successfully.
+
+Conflicts over work styles tend to escalate in stages:
+
+1. Annoyance at having to adjust our style to accommodate the other person's.
+
+2. Feeling alienated from the other person as our annoyance builds over time.
+
+3. Making unfounded assumptions about the underlying cause of the difference.
+
+4. Viewing the other person as "the problem" (or worse) that's preventing us from working effectively.
+
+It's important to avoid escalation by identifying differences early and having candid conversations about their impact. A helpful step in this process is clarifying just what we mean by "work style" and understanding how we differ from our colleagues. A host of assessments and instruments are available for this purpose, but the table below can be an effective starting point.
+
+The different styles shown below aren't binary, but serve as endpoints on a spectrum. Nor do the options below represent general types--there are no associations or correlations across the various rows. And no style is necessarily better or worse than another--the key is whether a team is bringing the right mix of styles to bear on the challenges they face.
+
+- Consider your style on each dimension and locate yourself along each spectrum.
+
+- Consider your perception of your colleague's work style on each dimension and locate them along the spectrum, without consulting them or getting input from others.
+
+- Discuss your respective styles and your perceptions of the other person. Where are your styles similar? Where are they different? Where are your perceptions aligned? Where are they not?
+
+Here's a two-page print version of the table below, and here's a completed sample response.
+
+WORK STYLE DIFFERENCES
+
+•         •         •         •         •         •
+
+Problem-Oriented: Focuses on obstacles and what hasn’t been accomplished.
+
+Progress-Oriented: Focuses on successes and accomplishments.
+
+•         •         •         •         •         •
+
+Divergent Thinker: Explores new options; expands possibilities.
+
+Convergent Thinker: Narrows range of options; clarifies possibilities.
+
+•         •         •         •         •         •
+
+Structured: Prefers routines and predictability; dislikes surprises.
+
+Improvisational: Prefers novelty and ambiguity; resists restrictions.
+
+•         •         •         •         •         •
+
+Analytical: Studies as much data as possible before acting.
+
+Action-Oriented: Acts quickly and gathers data in the process.
+
+•         •         •         •         •         •
+
+Big-Picture: Thinks top-down; emphasizes long-term vision.
+
+Detailed: Thinks bottom-up; emphasizes tactical issues.
+
+•         •         •         •         •         •
+
+Data-Driven: Relies upon external information more than intuition.
+
+Intuitive: Relies upon intuition more than external information.
+
+•         •         •         •         •         •
+
+Risk-Seeking: Eager to take chances; open to new approaches.
+
+Risk-Averse: Cautious; prefers time-tested methods.
+
+•         •         •         •         •         •
+
+Respectful: Supportive of established order; accepts authority.
+
+Rebellious: Questions established order; resists authority.
+
+•         •         •         •         •         •
+
+Relationship-Oriented: Compromises on tasks to succeed interpersonally.
+
+Task-Oriented: Compromises on relationships to succeed at tasks.
+
+•         •         •         •         •         •
+
+Conflict-Friendly: Believes open disagreements help the team.
+
+Conflict-Averse: Believes open disagreements hurt the team.
+
+•         •         •         •         •         •
+
+Competitive: Prefers zero-sum contests with clear winners and losers.
+
+Collaborative: Prefers arrangements where all parties get some needs met.
+
+•         •         •         •         •         •
+
+Self-Oriented: Focuses on own needs; assumes others are self-sufficient.
+
+Other-Oriented: Focuses on others’ needs; assumes they need support.
+
+•         •         •         •         •         •
+
+Controlling: Prefers to set direction and to be the decision-maker.
+
+Uncontrolling: Open to others’ direction; doesn’t need to decide.
+
+•         •         •         •         •         •
+
+Optimistic: Emphasizes positive data and possibility of success.
+
+Pessimistic: Emphasizes negative data and possibility of failure.
+
+•         •         •         •         •         •
+
+Solo: Takes on tasks individually before engaging others.
+
+Communal: Takes on tasks with others as joint partners.
+
+I was introduced to the concept of work style differences in 2006 when I served as teaching assistant to David Bradford in his High-Performance Leadership course at Stanford, and the framework above is his creation. I've modified it and present it here with his permission.
+
+Photo by Craig Howell.
+

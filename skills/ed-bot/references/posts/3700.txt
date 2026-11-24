@@ -1,0 +1,53 @@
+---
+title: The Meaning of Mindset
+url: https://edbatista.com/2012/01/the-meaning-of-mindset.html
+slug: the-meaning-of-mindset
+published: 2012-01-11T18:18:20
+updated: 2025-10-02T23:08:52
+source_body: wordpress-html
+---
+
+Recent work on setbacks and mindset [1] as well mental models [2] triggered some further reflection on just what we mean by mindset. The definitions below aren't mutually exclusive--each one simply provides another way of looking at and making effective use of the central concept:
+
+1. Thoughts and Perceptions
+
+First, mindset refers to the overarching idea that what we think--and particularly what we think about ourselves--influences how we perceive the world around us and how we experience that world. Our thoughts and perceptions--and the resulting emotions--shape our reality.  A perfect example of this is the placebo effect: Research has shown that "A particular mind-set or belief about one's body or health may lead to improvements in disease symptoms as well as changes in appetite, brain chemicals and even vision." [3]
+
+2. Cognitive Biases
+
+A second definition of mindset is the process of understanding cognitive biases and principles of neuroscience in order to leverage them and turn them to our advantage, rather than be buffeted about by them. For example, awareness of the cognitive bias known as the "fundamental attribution error"--ascribing causality to personal characteristics when causality actually lies with the situation--and its impact on our mindset can allow us to cope more effectively with setbacks. A host of other heuristics can also lead us astray, such as availability bias--"the tendency to judge the likelihood of an event by the ease with which relevant examples come to mind"--and affective errors--"the tendency to make decisions based on what we wish were true." [4]  Recent research on neuroscience and brain function provides additional insights into why we act the way we do, and one of the best examples is David Rock's SCARF model, which "captures the common factors that can activate a reward or threat response in social situations." [5]
+
+3. Mental Models
+
+On a more personal level, another definition of mindset is an awareness of our existing mental models, beliefs and assumptions, many of which are the result of past learning experiences and which may not have been re-examined or updated in the interim. Such awareness allows us to see how these concepts influence our actions and, if we choose, to update them to reflect our current circumstances and subsequent learning. In turn, this process allows us to make different choices based on more recent information and better suited to current circumstances. In recent months I've revisited the impact of my self-image as a public speaker: "I had trapped myself in my own mental model: believing I was a poor speaker led me to avoid speaking opportunities, which prevented me from ever improving. Today I still get nervous before a speech or presentation, but I view that response simply as a manifestation of my desire to do well, not as damning evidence of my ineffectiveness." [6]
+
+4. Growth vs. Fixed
+
+Finally, a very specific and highly useful definition of mindset is the idea at the heart of the work of Stanford psychologist Carol Dweck, who sees a pivotal distinction between a "growth" mindset and a "fixed" mindset. As Dweck has noted,
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort. They're wrong.
+
+In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment. [7]
+
+Again, these definitions obviously overlap--my goal here isn't to distinguish them as separate concepts but rather to get sufficient clarity on the threads and themes woven into the concept of mindset in order to make use of all of them more effectively.
+
+Footnotes
+
+[1] Setbacks, Mindset, and the Fundamental Attribution Error
+
+[2] Corn Mazes and Mental Models
+
+[3] Why Placebos Work Wonders (Shirley Wang, The Wall Street Journal, January 10, 2012)
+
+[4] When Heuristics Go Bad
+
+[5] Neuroscience, Leadership, and David Rock's SCARF Model
+
+[6] Stagefright and Public Speaking
+
+[7] What Is Mindset (Carol Dweck, 2012)
+
+Updated March 2021.
+
+Photo by Alessandro Valli.
+

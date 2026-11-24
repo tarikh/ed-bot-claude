@@ -1,0 +1,61 @@
+---
+title: CEOs and Celebrations
+url: https://edbatista.com/2021/04/ceos-and-celebrations.html
+slug: ceos-and-celebrations
+published: 2021-04-17T18:42:25
+updated: 2025-09-24T11:58:05
+source_body: wordpress-html
+---
+
+Most of my clients are founder/CEOs, and a theme that shows up in my work with them is what I would characterize as a reluctance to celebrate. This can take many forms: The leader who checks the box when a milestone is reached and moves on to the next task on their to-do list. The leader who worries that celebrations cause people to lose motivation. The leader who believes that time and energy devoted to celebrating are better spent on problem-solving.
+
+There's an underlying logic here. Existential threats abound for early-stage ventures, and their leaders appropriately feel a heightened sense of urgency to do all they can to ensure survival. [1] Careers and dreams and large amounts of money are at stake, and the risk of losing everything is very, very real. It's understandable that a leader would want to keep their team tightly focused on the work that will be necessary to succeed. But when this results in a failure to celebrate, it's not only a missed opportunity, it can also be actively counter-productive.
+
+Celebrations in organizational life are sometimes derided as "feel-good" activities--but those good feelings are vitally important in the process of forging a group dynamic in which individuals come to identify with a larger collective. In Group Psychology and the Analysis of the Ego, Freud theorized that the experience of being caught up in a group dynamic is ultimately a form of Eros, referring not to sexual relationships, but to "love for parents and children, friendship and love for humanity in general." He goes on to suggest that the "individual [who] gives up his distinctiveness in a group and lets its other members influence him by suggestion...does it because he feels the need of being in harmony with them rather than in opposition to them--so that perhaps after all he does it "ihnen zu Liebe" (i.e. "for their sake," but literally "for love of them.") [2]
+
+What this looks like in practice varies widely, but there's a common thread of interpersonal connection in all effective groups, ranging from high-commitment teams in which members are willing to make tremendous sacrifices for each other to more loosely-knit communities in which members may simply be willing to prioritize the needs of others over their personal preferences. Whatever the nature of the surrounding culture, the leader who fails to celebrate is missing opportunities to make it more cohesive and influential by inducing positive feelings about the group through shared experience.
+
+This becomes increasingly problematic as the organization scales because of the changing nature of employees' needs. The reluctance to celebrate that I'm describing here is by no means universal among founders, but I've observed it frequently in my practice over the years. And a company's first employees are more likely to share this perspective, not only because they're keenly attuned to the risks involved, but also because they often come from the founders' personal networks and may have similar outlooks and attitudes.
+
+But the people who join later after the company has achieved a degree of success tend to differ in a number of ways, including having a greater interest in celebrating accomplishments. This is sometimes interpreted to mean that later-stage employees are less robust, and that's certainly true in some organizations. But I believe it's more typical that in early-stage ventures the work itself is more likely to be intrinsically meaningful, while in larger enterprises a sense of purpose can become so diffuse that it's apparent only when concentrated in deliberate rituals and practices--like celebrations.
+
+The founder/CEO who fails to attend to this transition risks creating a culture in which ever-greater extrinsic rewards--compensation, title, status--are necessary to ensure that employees feel fulfilled. Celebrations aren't a substitute for such rewards, of course, but they can augment them by helping to create and sustain the fulfillment to be derived from group experience.
+
+If this describes you--if you're a leader who's reluctant to celebrate--what can you do? I'm not suggesting that you paste on a phony smile and offer transparently insincere congratulations. But as I've noted before, leadership is a performance:
+
+A performer adopts the appropriate persona necessary to fulfill the requirements of the performance. Actors, athletes, and musicians all step into a persona they’ve crafted to fit the needs of their particular venue, and they’re well aware that their individual identity transcends that persona... Similarly, a leader must be able to adopt the (multiple and various) personas that are necessary to allow them to successfully deliver the (multiple and various) performances that are required of them. [3]
+
+Should you choose to step into the persona that's necessary to facilitate a celebration, you will almost certainly feel some discomfort--it may even be excruciating. This may be simply because you lack experience and require practice before it becomes less effortful. [4] Or, more significantly, it may be because you feel that this persona is inauthentic. In that case I invite you to reconsider your definition of the term:
+
+When we subscribe to the idea that the authentic self is inborn and must be discovered, and when we associate authenticity with comfort and ease, we allow this "rigid authenticity" to hold us back. But when we entertain the possibility that the authentic self is created, and when we accept discomfort as the inevitable cost of growth, we open up new ranges of possibility and potential. [5]
+
+But the most challenging feelings you'll experience in this process will likely be some form of vulnerability. [6] It is profoundly vulnerable for a leader to facilitate a celebration, particularly in front of a large group of employees. You will always have cynics in the back of the room, or lurking with their video off, resisting your invitation to participate. You will always have people unhappy about something--possibly you--and unable to set their feelings aside. You may even have like-minded colleagues, looking at their watches and wondering when they can get back to work. Their presence will invariably make you feel vulnerable, and I empathize--I've been there countless times as a leader myself and as a consultant and teacher.
+
+You can't suppress these feelings of vulnerability--that's an act of make-believe that may even make them worse. But you can certainly regulate them, starting with the step of acknowledging them to yourself. [7,8] And I hope you won't let them stand in the way between you and a more meaningful, fulfilling, celebratory group experience.
+
+ 
+
+Footnotes
+
+[1] Early-Stage Survival and Later-Stage Success
+
+[2] Group Psychology and the Analysis of the Ego, pages 29-31 (Sigmund Freud, 1921)
+
+- For more on this theme, see Freud on Startups (Conditions for Group Effectiveness).
+
+[3] Leadership as a Performing Art
+
+[4] Conscious Competence in Practice
+
+[5] Leadership and Authenticity
+
+[6] Brené Brown, Vulnerability, Empathy and Leadership
+
+[7] The Tyranny of Feelings
+
+[8] Attitude and Behavior
+
+ 
+
+Photo by Royal Navy Media Archive.
+

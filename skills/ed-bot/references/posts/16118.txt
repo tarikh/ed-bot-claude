@@ -1,0 +1,125 @@
+---
+title: How to Facilitate a Conflict on Your Team
+url: https://edbatista.com/2026/01/how-to-facilitate-a-conflict-on-your-team.html
+slug: how-to-facilitate-a-conflict-on-your-team
+published: 2026-01-28T17:53:45
+updated: 2026-01-30T11:26:08
+source_body: wordpress-html
+---
+
+A common theme in my practice is the leader who has two or more team members embroiled in a conflict. I'm typically working with CEOs leading executives, but the concepts I discuss here can be applied at any level in an organization. My comments assume that you have managerial authority over the individuals involved, so you'll need to modify your approach when dealing with peers or dotted-line reports.
+
+Why Conflict Is Good
+
+Conflict is a daily occurrence in organizational life, and when it takes place within acceptable limits it's healthy and even desirable. I'm leery of teams that pride themselves on an absence of conflict; in my experience that's a potential sign of dysfunction. Teams that don't regularly engage in conflict are often fearful that any interpersonal friction will escalate beyond acceptable limits, and consequently they don't develop the communication skills and emotional maturity that are necessary to sustain conflict within these boundaries.
+
+Conflict serves to surface a wide range of ideas, to convey varying degrees of conviction, and to portray divergent visions of how to proceed. When a team is unable to engage in conflict successfully, much of this information remains hidden and inaccessible. And in the absence of conflict, the team must rely on decision-making methods that may be impractical or may not yield the best results: Hierarchy rests on your judgment as leader. (Do you always know best?) Voting assumes the ability to apportion authority fairly and logically. And consensus often requires a great deal of time and space. Engaging in conflict doesn't preclude the use of these methods, nor is it always preferable, but it can augment their effectiveness. [1]
+
+When to Intervene
+
+That said, healthy conflict occurs within acceptable limits: It's not too heated. It's not personal. It doesn't last for too long. But definitions of "acceptable" are subjective, contingent, and dynamic. What's acceptable to me may be unacceptable to you. What's acceptable from someone we've known for years may be unacceptable from someone we've just met. What's acceptable in a crisis may be unacceptable in calm conditions (and vice versa.) Every team must arrive at a shared understanding of their "acceptable limits," which can only occur by engaging in conflict.
+
+While conflict can be a sign of group health, and the absence of conflict can be cause for concern, teams can obviously engage in unhealthy conflicts. They get too heated, too personal, last too long, cause undue distress and rancor, or in other ways prevent people from doing their best work. Your decision to intervene to resolve a conflict will inevitably be an intuitive one, a sense that things are "going too far." In the process, you should assess your own comfort level with conflict and the extent to which it aligns with group health. I've known leaders who jumped in at the first sign of conflict and prevented their teams from growing. I've also known leaders who were too hands-off and later regretted that they didn't act sooner.
+
+Facilitate, Don't (Always) Arbitrate
+
+As a leader there's an easy way to conclude any conflict on your team: simply decide who's right. And there are times when you must arbitrate disputes. But leaders sometimes adopt this approach reflexively, in part because it offers certain rewards: It's efficient. It feels good to be viewed as an authority. And team members may prefer that you take responsibility, rather than do the work themselves.
+
+But concluding a conflict isn't the same as resolving a conflict. The end of open hostility doesn't mean that anyone has changed their opinion, and a willingness to comply with your decision doesn't mean that everyone is fully committed to that outcome. [2] While on occasion it's necessary to arbitrate, when possible it's preferable to facilitate.
+
+Process vs. Content
+
+Arbitration is focused on content: the issues in question, relevant facts and opinions, different parties' respective positions and desired outcomes. The process by which arbitration is conducted is straightforward: The involved parties make their arguments, and you hand down a decision. Very efficient, very tidy.
+
+Facilitation inverts this equation by putting the emphasis on the process rather than the content. This isn't to say that the content is irrelevant, but when you're acting as a facilitator you don't need to be a subject matter expert, nor do you even need to have an opinion on "who's right." But you do take ownership for the process and conduct the dialogue in such a way that yields a thorough exchange of views, minimizes defensiveness, and increases the likelihood of mutual understanding and true resolution.
+
+You remain a source of authority, but you're acting more like a traffic cop than a judge. You're not dictating the destination, but you are enforcing rules of the road and calling out violations to ensure that everyone arrives safely.
+
+Preparation
+
+Having made the decision to intervene, it's important to prepare people for what's about to happen. We rarely do our best work when we're surprised, so don't expect to spring a facilitated discussion on your team and have them respond perfectly. In some cases it's worth taking the time to meet in advance with each individual to let them know what's coming, while in others you can meet with people as a group or even provide written guidance. But don't squander a chance at success by skipping this step to save time.
+
+Help people understand the difference between arbitration and facilitation, and clarify the role you'll play in the process. You don't have to permanently revoke your right to arbitrate, but emphasize that your primary objective will be to foster a productive dialogue, not to determine the outcome. Another aspect of your role will be ensuring that everyone feels supported in the effort to have a candid discussion. (This is much easier when you're not taking sides as an arbitrator.)
+
+Give advance notice of any ground rules for the discussion. (See below.) People may want to air their grievances with you ahead of time, to be certain that you understand their point of view. That's fine within limits, but when you hear language that would evoke defensiveness in the other parties if they were present, use that as an opportunity to offer feedback on how to be more persuasive during the facilitated discussion.
+
+The Right Setting
+
+Paying attention to logistical factors will make the discussion far more effective. If you're meeting in person, choose a space where everyone will feel at ease. The space should be perceived as neutral and not as anyone's turf. Everyone should have a comfortable seat and should be able to see everyone else's face. (Long tables make this difficult.) The space should be free from distractions and interruptions. Avoid the use of slides and presentations; the focus should be on the other people, not on a screen.
+
+If you're meeting virtually, ensure that everyone will take responsibility for optimizing their own space. It has to be a level playing field–everyone needs solid connectivity and all cameras should be on. Everyone should be in a space where they will be free from distractions and interruptions. To ensure that the discussion remains confidential, everyone should be in a private space or be using headphones. Multi-tasking is not permitted, and all notifications are turned off. [3]
+
+Pick a time when it's likely that everyone will be in the right frame of mind, including you. Allot sufficient time to have a meaningful discussion, while being mindful that this may be a taxing experience, and it may be sufficient to make some progress and "call time." (See below.) Somewhere between 30 and 90 minutes is generally optimal. You have to arrive early, but don't be surprised if someone's late. (They'll have a legitimate excuse, but there's probably some resistance to the process, and that's normal.)
+
+In the Room (or On the Call)
+
+People will look to you to kick things off, and bear in mind your role as facilitator, not arbitrator. In that capacity you want to foster a spirit of inquiry rather than advocacy. In an arbitration, each party simply states their case, advocating for their point of view and their desired outcome. The arbitrator asks clarifying questions, but the respective parties rarely make inquiries of each other, and ultimately one side wins and the other loses. In a facilitated discussion, you want to change every aspect of this dynamic.
+
+All parties will make their case eventually, but you want to encourage them to be curious about other parties' point of view, not narrowly focused on asserting their own. The goal is mutual understanding, not "winning." And you won't be rendering an ultimate decision unless absolutely necessary, but a facilitator is by no means a passive figure. Be an active presence throughout the discussion until you observe that the dialogue is flowing freely without your intervention. Traffic cops are assertive when there's a problem, but they don't barge into the street when it's not needed. Here are some ground rules and tactics to consider:
+
+- If there's any tension, start with some small talk or even a joke to break the ice.
+
+- Reiterate your role as traffic cop, not judge, and note that you'll interrupt, re-direct, pose questions, and police language as needed.
+
+- Emphasize that you're open to feedback in the moment. If anyone perceives you as being too intrusive or unhelpful, they should speak up. You don't necessarily have to agree with this feedback or change your behavior in response, but better for it to be voiced than stifled.
+
+- Observe communication patterns: Who's speaking? To whom? For how long? Who's not speaking? Who's interrupting? Who's being interrupted?
+
+- In some cases these patterns will strike you as counter-productive, but don't act on that impulse immediately. Groups are often semi-consciously aware of such patterns and course-correct on their own.
+
+- And yet don't wait too long to intervene. In some cases, do so without referencing the counter-productive pattern, as that can be disruptive. But at times the disruption is the point: you want to deliberately make them aware of behaviors that are making it harder to resolve the conflict.
+
+- When people appeal to you (as judge), redirect them back toward the other parties (as traffic cop.)
+
+Facilitation requires a keen sense of intuition and the ability to step in and out of the discussion firmly but gracefully. Leaders often have extensive training as arbitrators but very little as facilitators. Don't expect to be a master your first time out, but strive to learn as much as possible by reflecting on every experience and eliciting feedback if it hasn't been offered.
+
+Repeating Back
+
+Here's a tactic that's worth exploring in detail. When a conflict becomes heated, the people participating are experiencing what's known as a threat response, or a "fight, flight or freeze" response. This cascading constellation of physiological and emotional reactions serves an essential purpose by readying us to overcome perceived threats, but this can be counter-productive when those threats are social and symbolic rather than literal dangers to physical safety.
+
+People in this state are primed to take strong, decisive action rather than pause and reflect, so they're less effective at processing information. They miss visual cues, they don't hear as clearly, and they garble some of what they do hear. As a result there will likely be a series of misunderstandings that are evident to you as the facilitator but invisible to the participants. Here's how to turn these moments into opportunities for learning:
+
+- Person A has spoken, and you sense that Person B has misunderstood these remarks, and is about to respond on that basis.
+
+- Jump in and pause Person B, and have them repeat back to Person A what they think they heard.
+
+- If Person A agrees with Person B's interpretation of their remarks, let the discussion proceed (and perhaps be a little slower to intervene next time.)
+
+- Often, however, Person A will disagree with Person B's interpretation for a variety of reasons.
+
+- Person B may have misheard Person A. Or they may have heard Person A correctly but misunderstood Person A's intentions. Or they heard and interpreted Person A correctly, but upon reflection Person A would like to modify their remarks. Or some combination of the above.
+
+The key for you as facilitator is providing clarity without making anyone feel wrong, and helping people recognize that it's possible to catch and correct misunderstandings themselves.
+
+The Vulnerable Moment
+
+Once a team develops a sense of comfort and efficacy with the process of conflict resolution, your role as facilitator becomes less figural. You may always play a necessary function as convener, but you will likely add more value by being less active over time. And a truly high-performing team will gracefully tell you to back off when your interventions are getting in the way of their independence. But as facilitator you will often retain the ability to perform a special function even in a highly-experienced team: You will sense and protect the vulnerable moment.
+
+This is a critical step in most conflict-resolution processes: it's the moment when a person who's refused to acknowledge their contributions to the problem lowers their defenses and takes responsibility, and in so doing, makes themselves vulnerable. For a number of reasons, groups often miss this moment. Up to this point the person in question has probably been difficult, even combative, and what feels vulnerable to them may not look or sound vulnerable to others.
+
+But as the facilitator you're more likely to see this person clearly and to recognize their vulnerability when others can't. At that moment it's your job to slow things down and help everyone see what you see. This doesn't mean you have to spell it out; sometimes it's enough to simply give the person a little time and space. Why does this matter so much? Because expressions of vulnerability are a reliable way to evoke empathy, and empathy is what truly resolves conflict. [4]
+
+Success
+
+It's entirely possible for a team to conclusively resolve a conflict in a single discussion, and with experience this need not be time-consuming. But when a team is new to the process (or when it's a new team), temper your expectations. It may be more realistic to achieve meaningful progress and "call time" before people begin to feel fatigued. While these discussions aren't merely exercises, every one is an opportunity to learn and become more adept at the process. If possible, leave 5 to 10 minutes at the end to debrief what went well and what you'd do differently. [5] One definition of success is that the team ends the discussion eager (or at least willing) to do it again.
+
+Facilitation is usually more time-consuming in the short run, and it's never as tidy as arbitration (and occasionally it's downright messy.) But the payoff occurs over time, because when teams develop the capability to both sustain and resolve conflict, they become much more productive. People can share ideas freely and passionately without censoring themselves or walking on eggshells. Far less energy is consumed by efforts to avoid conflict, because the team has clarified its "acceptable limits" and trusts members to honor them. And on the inevitable occasions when those limits are exceeded, the team knows what to do--and they may not even need you to facilitate.
+
+Footnotes
+
+[1] Power Struggles Among Nice People
+
+[2] Compliance vs. Commitment (On Behavior Change)
+
+[3] For more on virtual discussions:
+
+- Guidelines for Better Virtual Events
+
+- Better Conditions for Working Remotely
+
+[4] Resolving a Protracted Conflict
+
+[5] Successful Debriefing: Ask, Don't Tell
+
+Image generated via Google Gemini.
+

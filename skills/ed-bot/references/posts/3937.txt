@@ -1,0 +1,67 @@
+---
+title: Taking the Leap (Dealing with Risk and Uncertainty)
+url: https://edbatista.com/2017/02/taking-the-leap-dealing-with-risk-and-uncertainty.html
+slug: taking-the-leap-dealing-with-risk-and-uncertainty
+published: 2017-02-20T05:00:00
+updated: 2026-03-03T08:02:24
+source_body: wordpress-html
+---
+
+My coaching clients and MBA students deal with risk and uncertainty constantly. Most of my clients are senior leaders who must make consequential decisions with imperfect information, from adopting a potential strategy to hiring a candidate for a critical role. The majority of my clients are technology company CEOs whose entire businesses are highly risky ventures. And all of my students at Stanford have to select a post-graduation career path from among the many different options available to them, and they often feel intense pressure to optimize this choice.
+
+Most of us have a reflexive aversion to risk and a preference for certainty. This is understandable--risk entails the possibility of loss, and loss aversion causes us to weight potential losses more heavily than potential gains. Unpredictability unnerves us and makes us uneasy. The more we know about the outcome of a situation, the safer and more comfortable we feel. As a result we typically work hard to minimize risk and uncertainty, because these qualities trigger unpleasant emotions we’d rather avoid.
+
+Emotions are essential inputs in our reasoning process, and in most cases we appropriately move away from situations and experiences that generate negative emotions. But emotions aren’t always accurate guides to the right course of action—they’re “quick and dirty signals,” in the words of neuroscientist Joseph Ledoux. The speed and power of emotions allows them to play a useful role in decision-making by helping us process massive amounts of data more efficiently than we could through logic alone. But these same characteristics also allow emotions to easily overtake our relatively slow and resource-intensive logical reasoning process, and potentially guide us inaccurately.
+
+This often happens when it comes to situations involving risk and uncertainty. These qualities trigger strong feelings that cause us to feel unsafe, so we avoid the experiences that trigger them—but this comes at a significant price. Lower risk and greater certainty always carry opportunity costs. This is readily apparent in the financial world—the safest investments offer the lowest returns, and the biggest opportunities are also the riskiest.
+
+We balance risk and opportunity cost as investors by diversifying our portfolio, but this is more difficult in other domains of life. Many of our other choices are starker and don’t lend themselves to diversification. We can choose one strategy, hire one candidate, accept one job offer at a time. We may change course, or revisit an option we previously abandoned, but we won’t get back the time and effort spent previously. And all of these choices are rife with uncertainty. Will the strategy succeed? Will the candidate be the right fit? Will the job lead to a fulfilling career? We don’t know, and the massive information asymmetry between us and the future is daunting.
+
+And yet the tension between risk and opportunity is equally present in these other domains. The unproven strategy may fail entirely, but it may also be the key to the company’s success. The time-tested strategy won’t get anyone fired (immediately), but it will probably yield minimal competitive advantage. The unconventional candidate may wash out, but they may also be a tremendously high-potential talent. The traditional candidate will get the job done, but they’re also less likely to outperform expectations. The risky, uncertain job may be the first step toward a dead end (and yet another search), or it may be a door into a world of opportunity. The safe, steady job will be just that—and those very qualities may ultimately lead to a less fulfilling long-term career.
+
+So what can we do? Rather than minimizing risk and avoiding uncertainty (and incurring the inevitable opportunity costs), we’re better served by more effectively managing the emotions that these qualities trigger. To be clear, managing emotions doesn’t mean suppressing them. Efforts to ignore our feelings or pretend that they don’t exist aren’t sustainable over time (and may even exacerbate the very emotions that are causing us difficulty). Managing our emotions is an entirely different process.
+
+Awareness
+
+First, we can enhance our ability to sense the emotions that are triggered by risk and uncertainty. This starts with slowing down, both figuratively and literally. Practices such as meditation, regular exercise and sufficient sleep can help us be more attuned to emotions, in part by increasing our sensitivity to physiological sensations. (Emotions are physiological events before they register in consciousness.) When we’re better able to manage our attention, in close touch with our bodies, and feeling well-rested, it’s easier to perceive and identify our emotional state. The goal here is to heighten our awareness of the early signs of anxiety and other emotions that we feel in the presence of risk and uncertainty. This involves observing not only our inner responses (cognitive, emotional, physiological), but also our external behavior (facial expressions and tone of voice, gestures and body language, how we occupy and move through space).
+
+Comprehension
+
+As we’re better able to sense the emotions triggered by risk and uncertainty, we need to be able to label them clearly and accurately. This often requires expanding our emotional vocabulary. I distribute an actual vocabulary to my students in Interpersonal Dynamics at Stanford, and many of them find it immensely helpful. In some cases we exaggerate low-level feelings while in others we ignore them because we lack language that’s sufficiently nuanced to capture the essence of the experience. Clearly comprehending our emotions may not be sufficient to allow us to manage them effectively, but it’s an essential step along the way.
+
+Reframing
+
+Our cognitive interpretation of a situation has a significant impact on our emotional experience. By slowing down in order to sense and comprehend our feelings more clearly, we make it easier to consciously reassess a given situation and shift our emotional response in a more productive direction. In situations involving risk and uncertainty this includes emphasizing the potential gains to be won--Doug Sundheim, who has influenced my thinking on this topic, encourages people to "find something worth fighting for" in order to understand "why risk taking is important to you in the first place." It’s also helpful to recognize that our view of the situation may be inaccurate—as Daniel Kahneman has noted, our brains are "radically insensitive to both the quality and the quantity of the information that gives rise to impressions and intuitions." As a consequence, our calculations of risk and uncertainty are often unreliable--while the negativity bias that we’ve evolved as a species has helped to insure our survival, it also causes us to see dangers lurking where there may be none. We can also choose to redefine our response to such situations. For example, I was once terrified of public speaking, and I viewed the anxiety I felt before facing a crowd as evidence of my ineptitude. But in the process of getting over this fear I decided to reinterpret my anxiety as evidence of my conscientiousness—I had high standards for myself and wanted the audience to have a good experience.
+
+Expression
+
+Finally, we can manage our emotions most effectively by finding healthy ways to express them. This begins with reflection but inevitably involves taking action—writing about our feelings and talking about them with others. These simple steps allow us to process and work through emotions more efficiently than reflection alone. Note that there’s a potential virtuous cycle here: Sensing, clarifying and understanding our feelings allows us to reflect upon them, to write about them, and to enter into a dialogue with others about them. Reflecting on emotions, journaling about them, and—most importantly--discussing them aloud helps us gain some perspective on our emotional experience and feel more control over it. And these activities expand our fluency with the language of emotion, allowing us to comprehend our feelings more clearly.
+
+Managing emotions takes a lot of work, and we may conclude that while it’s a laudable effort we just don’t have the time or energy for it. But in my experience as a coach, the no-risk, 100% certain paths that we choose when we’re unable to manage the emotions triggered by risk and uncertainty often end in regrets. The time-tested strategy yields no real advantage, the conventional candidate is just a B-player, and the safe, steady job turns into a dull, unrewarding career. These outcomes will result in a whole new set of difficult emotions that must be dealt with eventually. Pay now or pay later.
+
+For Further Reading
+
+The Importance of Slowing Down
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+Get Moving! (Exercise for Busy People)
+
+Vocabulary of Emotions
+
+Doug Sundheim on Taking Smart Risks
+
+Seeing What's Not There (The Importance of Missing Data)
+
+The Value of Journal Writing
+
+Phil Stutz on Taking Risks
+
+Taking the Plunge (Safety, Risk, Learning and Growth)
+
+Risk Management (The Importance of Speaking Up)
+
+The Danger of Playing it Safe
+
+Photo by DVISDHUB.
+

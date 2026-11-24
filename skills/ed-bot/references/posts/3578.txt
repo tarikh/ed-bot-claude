@@ -1,0 +1,73 @@
+---
+title: Gestalt Coaching
+url: https://edbatista.com/2009/01/gestalt-coaching.html
+slug: gestalt-coaching
+published: 2009-01-15T21:18:54
+updated: 2025-10-10T21:42:42
+source_body: wordpress-html
+---
+
+Executive coaching isn't therapy, and good coaches are aware of the distinction. [1] This doesn't mean there's always a bright line distinguishing the two. My work as a coach focuses on my clients' professional effectiveness and fulfillment, but the dynamic interplay between our professional and personal lives means that clients often make connections between what's happening at work and what's happening elsewhere in their lives.
+
+So despite the importance of the distinction, there's also a clear parallel between the two disciplines. Coaches and therapists primarily act as questioners rather than as experts or authority figures (although therapists have specialized expertise, and their roles are invested with an authority that most coaches don't have--or want.) Clients in both settings are seeking their own internal answers, not external directions, and they typically set the agenda and take responsibility for outcomes.
+
+In particular, coaching has strong ties to Gestalt therapy, an extension of the principles of Gestalt psychology that was developed by Fritz Perls, Laura Perls, Paul Goodman and Ralph Hefferline in the 1940s. Gestalt therapy was most influential in the 1970s and its efficacy as a therapeutic model has since been challenged by other approaches such as cognitive-behavioral therapy, but a number of key concepts from Gestalt therapy can be seen at work in contemporary approaches to executive coaching.
+
+In The Neurotic Behavior of Organizations Uri Merry and George Brown apply the principles of Gestalt therapy to the practice of assessing organizational effectiveness. [2] Most of the book focuses on specific aspects of organizational dysfunction, but the final chapter, "Using Gestalt in Organizations," provides an overview of their methodology:
+
+It appears to be possible to develop organizational change approaches and technologies by creating organizational-level analogies from Gestalt therapy... From a Gestalt therapy approach, there are the following reservations about the usual diagnostic process: (1) overemphasis on the past and cause-effect relationships in contrast to what is happening in the here and now; (2) overemphasis on a rational analytic model that restricts awareness; (3) overemphasis on intellectual understanding before moving into action; (4) too little use of participant observation and unobtrusive measures in collecting data; (5) a focus on illness rather than health.
+
+The Gestalt therapy approach differs from the usual diagnostic mode in a number of ways: (1) Diagnosis and intervention are intertwined. Diagnosis is not seen as a separate step prior to intervention. (2) There is an emphasis on gaining the client's trust more than on collecting a substantial amount of information. (3) The consultant's sensations, feelings and internal states are seen as important data. (4) The responsibility for the diagnosis is not taken from the client...
+
+A Gestalt therapy approach to management development has been explicated and empirically tried out in a number of organizations... This approach to authentic management differs from the usual human relations approach on these features: (1) a focus on recognition and mobilization of the individual's strength and powers; (2) a sharpened awareness of what the individual does and how; (3) an intensification of dramatization of "problem behavior" until a change of relationship takes place; (4) consideration of aggressiveness and conflict as valued vitalizing forces; (5) en emphasis on the individual's own feedback; (6) an emphasis on strengthening the person's competence and autonomy; (7) acknowledgment of the importance of increasing awareness of present behavior and completing it; (8) keeping values up front even when this means less disclosure; (9) an emphasis on increasing the individual's competence; (10) involvement of the consultant as a participant, a director, and an activist...
+
+When we speak of using Gestalt therapy with organizations or at the organization level, the fact remains that we ultimately are going to be using this approach with individuals or groups of individuals. [3, emphasis mine]
+
+I see a number of concepts referenced by Merry and Brown at work in the coaching process:
+
+An Emphasis On the Client's Health and Strengths
+
+One of my fundamental assumptions as a coach is that each client is "creative, resourceful and whole," in the words of Whitworth et al's Co-Active Coaching. They go on to note, "From the...coach's perspective, nothing is wrong or broken, and there is no need to fix the client." [4] The challenge here is that people often seek coaching precisely because they or their managers believe that something IS "wrong" or "broken" and something needs "fixing." It's essential for the coach to present an alternative perspective that focuses on the client's health and wellness, because their capabilities--their creativity, their resourcefulness--are the qualities that will generate any lasting change.
+
+And the more coaching I do, the more convinced I am that people are better served by seeking to build on their strengths than by seeking to overcome their weaknesses. As Peter Drucker wrote Managing Oneself, "One should waste as little effort as possible on improving areas of low competence. It takes far more energy and work to improve from incompetence to mediocrity than it takes to improve from first-rate performance to excellence." [5] I'm not suggesting that we should avoid identifying and addressing areas for development, but we tend to fixate on minimizing problems, and I believe that a greater emphasis on amplifying successes is more efficient, more effective, and more fulfilling.
+
+An Emphasis On the Client's Own Feedback
+
+Much of my current coaching work with MBA students involves putting them in situations where they'll get feedback on their interpersonal effectiveness from others. There's tremendous value in this process, but feedback from others is ultimately an input in a larger process of providing feedback to ourselves. Feedback from another person isn't a mandate to change; it's simply data about our impact on them at a particular point in time. What, if anything, we choose to do with that data depends on our own assessment of its validity and of the costs and benefits of changing in response.
+
+I don't hesitate to provide feedback to a coaching client; as noted below, I'm an active participant in the process, and I believe my responses to a client will be of value to them. But the feedback they provide to themselves is going to be the real driver of any lasting change. And that's why a coach is primarily a questioner and not a source of feedback (as an adviser or a mentor might be.) One of the most important skills I continue to work on as a coach is banishing leading questions from my interactions. If there's an implied answer to my question, it's not really a question--it's disguised feedback--and the client is prevented from generating a personal answer that will allow them to provide feedback to themselves.
+
+The Importance of Emotions
+
+Just as we often discount our successes and fixate on problems, we tend to discount our emotions and gravitate toward intellectual concepts. We crave understanding and clarity, and feelings just muddy the waters. We may not even know what we're feeling, or if we feel something we don't have the right words to express it, or we'd simply rather not express it, out of a sense of shame or confusion or inappropriateness.
+
+But coaching is usually focused on a client's interpersonal issues, and the dilemma in the interpersonal realm is that intellectual concepts only take us so far. They're of use before an interaction, as we devise a plan to help us act more effectively, and afterward, as we seek to make some meaning of what occurred and identify larger patterns of behavior. But in the moment, when we're face-to-face with another person, struggling to get through a difficult exchange, concepts are simply not very helpful in allowing us to express ourselves, build connections or influence others. That's where feelings and emotions are typically much more powerful.
+
+By encouraging a client to identify and express their feelings, the coaching process better prepares them to make use of those feelings--rather than be governed by them--in the middle of a difficult or stressful interaction.
+
+The Coach as an Active Participant
+
+When interacting with a client, a coach makes full use of their responses to the interaction. When I'm coaching, I'm not merely asking questions in an impersonal way and trying to mask my feelings or ignore my intuition. This approach would inevitably fail because, as I've learned from David Bradford, we're never as good at repressing our emotions as we think we are, and others are always better at picking up on our emotions than we think they are. The client would perceive my lack of authenticity, and our ability to communicate with each other would be undermined.
+
+This doesn't imply that the coach simply reacts as a conversational partner might. Rather, they seek to respond in such a way that they provide the client with information from the coach's internal perspective without privileging that perspective at the expense of the client's. If I have an emotional response that leads me to believe a client is shying away from a difficult issue, I might say, "I have a hunch that there's something important here.  Can you tell me more about X?" I'm not trying to impose a direction on the client or lead them to a particular conclusion, nor am I wedded to any particular interpretation of my response. But I am using my personal responses to help drive my active participation in the interaction.
+
+The Client's Ownership and Responsibility
+
+Perhaps the most important factor that defines the coach's role is the commitment to the client's ownership of the agenda and responsibility for any outcomes. Even--and especially--in situations where a client has been encouraged to seek coaching, the client must set their own goals and determine their desired outcomes. The coach's job, as Co-Active Coaching states simply, "is to make sure the agenda doesn't get lost." This doesn't imply a passive stance on the coach's part, and in the course of "holding the client's agenda," the coach may challenge the client in any number of ways, particularly if the client's actions suggest that their commitment to their agenda is inauthentic.
+
+It's essential that the client feel ownership of the agenda because they're ultimately responsible for the results of the coaching engagement. Outcomes that feel imposed from outside last only as long as the coercive forces that are generating those feeling of imposition. Sustainable change comes from within.
+
+Footnotes
+
+[1] Therapy Referrals. This page discusses the distinction between coaching and therapy as well as the relationship between the two disciplines, and concludes with a list of therapists I recommend.
+
+[2] Merry and Brown were not only Gestalt therapists but also graduate-level educators and organizational consultants.
+
+[3] The Neurotic Behavior of Organizations, pages 254-56 (Uri Merry and George Brown, 1987)
+
+[4] Co-Active Coaching (Laura Whitworth, Karen Kimsey-House, Henry Kimsey-House, and Phillip Sandahl, 2nd edition, 2007)
+
+[5] Peter Drucker's Managing Oneself is available as a reprint from Harvard Business Review (originally published 1999) or as the closing chapter in Drucker's Management Challenges for the 21st Century (2001).
+
+Photo by Per Ola Wiberg.
+

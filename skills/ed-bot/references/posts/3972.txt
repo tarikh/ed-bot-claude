@@ -1,0 +1,87 @@
+---
+title: The Cognitive Dissonance of the CEO
+url: https://edbatista.com/2018/07/the-cognitive-dissonance-of-the-ceo.html
+slug: the-cognitive-dissonance-of-the-ceo
+published: 2018-07-16T05:00:00
+updated: 2026-06-28T20:47:42
+source_body: wordpress-html
+---
+
+Most of my coaching clients are CEOs of growing companies, and a theme that shows up in my work with many of them is the stress that results from simultaneously maintaining two very different views of the world. Because my clients are constantly raising money from investors, or recruiting senior employees, or closing deals with major customers, they must be exuberant optimists, portraying a compelling vision of a successful future. And because the possibility of failure remains quite real--and those investors, employees, and customers will ask tough questions before signing up--my clients must also be keenly aware of the nearly endless list of risk factors and things that could go wrong, sometimes to the point of inducing anxiety.
+
+One of my clients once jokingly called this state of mind "CEO schizophrenia," but to be precise it's a form of cognitive dissonance. The pioneering work on this concept was done by Leon Festinger in the late 1950s, and he described it concisely in an article in Scientific American:
+
+If a person knows various things that are not psychologically consistent with one another, he will, in a variety of ways, try to make them more consistent. Two items of information that psychologically do not fit together are said to be in a dissonant relation to each other. The items of information may be about behavior, feelings, opinions, things in the environment and so on...
+
+Such items can of course be changed. A person can change his opinion; he can change his behavior, thereby changing the information he has about it; he can even distort his perception and his information about the world around him. Changes in items of information that produce or restore consistency are referred to as dissonance-reducing changes.
+
+Cognitive dissonance is a motivating state of affairs. Just as hunger impels a person to eat, so does dissonance impel a person to change his opinions or his behavior. The world, however, is much more effectively arranged for hunger reduction than it is for dissonance reduction. It is almost always possible to find something to eat. It is not always easy to reduce dissonance. Sometimes it may be very difficult or even impossible to change behavior or opinions that are involved in dissonant relations. Consequently there are circumstances in which appreciable dissonance may persist for long periods. [1]
+
+When meaningful dissonance does persist, we typically experience it as a source of pressure and stress, as Festinger noted in his primary book on the subject:
+
+The presence of dissonance gives rise to pressures to reduce or eliminate the dissonance. The strength of the pressures to reduce the dissonance is a function of the magnitude of the dissonance. In other words, dissonance acts in the same way as a state of drive or need or tension. The presence of dissonance leads to action to reduce it just as, for example, the presence of hunger leads to action to reduce the hunger. Also, similar to the action of a drive, the greater the dissonance, the greater will be the intensity of the action to reduce the dissonance and the greater the avoidance of the situations that would increase the dissonance. [2]
+
+More recent research suggests that cognitive dissonance evokes discomfort specifically in situations where action is required, and a conflict between competing perspectives poses a barrier to taking action effectively. Eddie Harmon-Jones has conducted much of this research, which he and several colleagues summarized in 2015:
+
+Most situations that cause dissonance involve difficult decisions and a commitment to action. According to the action-based model, once individuals commit to a course of action, they are primed to act. That is, they are motivated to translate their intended behavior into effective action, and this approach motivation is revealed in changes in attitudes that support the commitment. These attitudinal changes help us to follow through, to effectively enact the behaviors that follow from the decision. [3]
+
+The relevance to a CEO who's seeking not only to take action themselves, but also to influence the actions of prospective investors, employees, and customers, is obvious. And this is why it's so difficult to fully inhabit the two mindsets described above for any sustained period of time. In these circumstances most people would feel compelled to take steps to reduce the dissonance in order to move in one direction or another. They might remain committed to the entrepreneurial vision, but to do so they would discount the risks involved--and then they would likely be caught by surprise when problems arise--as they inevitably do in any new venture. Or their awareness of the risks would overwhelm their faith in the vision, and they'd opt for a safer, more secure path--which is one reason why relatively few people become entrepreneurs in the first place.
+
+Note that I'm not referring to situations in which leaders use deception or misrepresent the truth. I suspect that these leaders don't experience cognitive dissonance, either because they readily "distort their perceptions" to find a self-serving justification for their actions, or their lack of conscientiousness borders on the sociopathic. In contrast, my clients who experience cognitive dissonance struggle with it not because their vision of success is fraudulent and they're pretending it's real, but because the possibility of success and the risk of failure are both real. As the eminent psychologist Elliot Aronson--a PhD student under Festinger--later noted, "The inconsistency that produces dissonance, although it can be logical inconsistency, is not necessarily logical. Rather, it is psychological inconsistency." [4]
+
+In other words, my clients' faith in the potential success of the venture enables them to portray a compelling vision of that reality when pitching prospective investors, employees, and customers. But they also know that failure, in some sense, is still possible, and this requires them to thoroughly explore and understand all of the venture's internal weaknesses and external threats. These two perspectives aren't logically incompatible, but they can evoke a profound sense of psychological inconsistency--thus the cognitive dissonance of the CEO.
+
+The ability to tolerate this dissonance while maintaining one's integrity is a prerequisite of the job--but what can CEOs and other entrepreneurial leaders do to become more effective in this regard?
+
+Expect It
+
+The unpleasant feelings that result from cognitive dissonance are predictable consequences of an entrepreneurial leadership role, so leaders shouldn't be caught by surprise when these feelings occur. A common theme in my work with clients is the importance of a consistent commitment to the practices that help them manage stress and anxiety, avoid distractions, and focus on their most important tasks. This typically includes self-care practices, such as mindfulness, sleep and exercise, but it also includes ample blocks of unscheduled time to allow for strategic thinking and reflection. And note that these activities don't happen by accident--they're always important and never urgent, so if the leader doesn't put them on their calendar and protect them from competing obligations, they won't happen.
+
+Get Comfortable with It
+
+Stress and anxiety are undeniably uncomfortable feelings, and they can't simply be turned off. While our inability to fully control our emotions poses many challenges, it's usually beneficial--emotions are attention magnets that alert us to potential rewards and threats in our environment, so it's essential that they have the capacity to interrupt conscious thought. But we can't be unduly distracted by these feelings while performing other tasks, and this requires entrepreneurial leaders to expand their comfort with discomfort. Again, this often involves a commitment to self-care practices--mindfulness, sleep, and exercise--that allow us to heighten our awareness of uncomfortable feelings without feeling driven to take some sort of action to minimize the discomfort.
+
+Talk About It
+
+Finally, we know from experience that talking about difficult emotions makes them easier to manage, and recent neuroscience research has helped us better understand the processes in the brain that contribute to this result. But it can be a challenge for CEOs and other entrepreneurial leaders to find relationships in which they can productively discuss the issues referenced here. In some cases investors and senior employees are appropriate discussion partners, but the hierarchical nature of these relationships can make them less useful for this purpose, particularly for CEOs. Friends and family members can play a helpful role, but at times it can be distressing or confusing for them to hear about the challenges a leader is facing.
+
+So it's essential for CEOs and other leaders to establish and maintain relationships with people who are appropriate partners for these conversations. One solution is working with a professional coach, although it's always important to choose a coach who's a good fit. But I also encourage my clients to engage a peer group, either on their own or through a formal program like YPO. As I've noted before, the key is insuring that these partners are "A) successful enough to avoid feeling threatened by or jealous of the leader's status, B) sophisticated enough to understand and empathize with the leader's challenges, C) invested in the leader as an individual and NOT invested in the leader's company, and D) completely trustworthy."
+
+Footnotes
+
+[1] "Cognitive Dissonance" (Leon Festinger, Scientific American, October 1962, pages 93-94)
+
+[2] A Theory of Cognitive Dissonance, page 18 (Leon Festinger, 1957)
+
+[3] An Action-Based Model of Cognitive Dissonance Processes, page 185 (Eddie Harmon-Jones et al, Current Directions in Psychological Science, 2015)
+
+[4] The Theory of Cognitive Dissonance: A Current Perspective, page 5 (Elliot Aronson, Advances in Experimental Social Psychology, 1969)
+
+For Further Reading
+
+Don't Just Do Something, Sit There! (Mindfulness for Busy People) (2017)
+
+Open Space, Deep Work and Self-Care (2017)
+
+How to Think (More on Open Space and Deep Work (2017)
+
+Importance vs. Urgency (2016)
+
+To Stay Focused, Manage Your Emotions (2015)
+
+Comfort with Discomfort (2015)
+
+Talking About Feelings (2018)
+
+How to Find (and Choose) a Coach) (2013)
+
+The Friendship of Wolves (2018)
+
+More on cognitive dissonance:
+
+Cognitive Dissonance: Progress on a Pivotal Theory in Social Psychology, Chapter 1: An Introduction to Cognitive Dissonance Theory and an Overview of Current Perspectives on the Theory (Eddie Harmon-Jones and Judson Mills, 1999). Mills was a PhD student under Festinger at Stanford.
+
+Cognitive Dissonance Theory After 50 Years of Development (Eddie Harmon-Jones and Cindy Harmon-Jones, Zeitschrift für Sozialpsychologie, 2007)
+
+Photo by Amy Elyse.
+

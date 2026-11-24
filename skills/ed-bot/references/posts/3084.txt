@@ -1,0 +1,17 @@
+---
+title: Plus Ca Change...
+url: https://edbatista.com/2005/01/jakob_nielsen_s.html
+slug: jakob_nielsen_s
+published: 2005-01-21T16:37:09
+updated: 2025-10-26T21:15:23
+source_body: wordpress-html
+---
+
+Jakob Nielsen sampled the 944 usability guidelines compiled by the U.S. Air Force in 1986 and concluded that 70% are still both correct and relevant.  Why such persistance?
+
+"Usability guidelines endure because they depend on human behavior, which changes very slowly, if at all. What was difficult for users twenty years ago continues to be difficult today. People can only remember so many things, and we don't get any smarter."
+
+Nielsen's always worth reading, but he's not infallible.  Last year he was roasted (in a loving way) by the folks at Design by Fire in Design Eye for the Usability Guy, one of the best documents I've seen on how functional usability should be complemented by stylish design.
+
+Didier Hilhorst, Keith Robinson, Cameron Moll, Greg Storey and DxF's own Andrei Herasimchuk each revamp an aspect of UseIt.com and kick off a firestorm of 100+ comments (well worth reading.)
+

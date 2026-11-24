@@ -1,0 +1,173 @@
+---
+title: The Balcony and the Dance Floor
+url: https://edbatista.com/2022/10/the-balcony-and-the-dance-floor.html
+slug: the-balcony-and-the-dance-floor
+published: 2022-10-26T12:34:12
+updated: 2026-03-03T09:44:06
+source_body: wordpress-html
+---
+
+In 2002 Harvard Kennedy School professors Ron Heifetz and Marty Linsky introduced a profoundly useful metaphor to the management literature:
+
+Any military officer knows the importance of maintaining the capacity for reflection, especially in the "fog of war." Great athletes must simultaneously play the game and observe it as a whole. We call this skill "getting off the dance floor and going to the balcony," an image that captures the mental activity of stepping back from the action and asking, "What's really going on here?"
+
+Leadership is an improvisational art. You may be guided by an overarching vision, clear values, and a strategic plan, but what you actually do from moment to moment cannot be scripted. You must respond as events unfold. To use our metaphor, you have to move back and forth from the balcony to the dance floor, over and over again throughout the days, weeks, months, and years. While today's plan may make sense now, tomorrow you’ll discover the unanticipated effects of today’s actions and have to adjust accordingly. [1]
+
+Heifetz and Linsky were addressing the need to assess organizational responses to a leader's efforts to initiate change over time and the importance of creating space in that process for regular reflection. While that is a theme in my practice [2], I also talk with leaders on a daily basis about a wide range of scenarios in which they must move between the balcony and the dance floor in the moment:
+
+- An executive team meeting
+
+- A pitch to a prospect or investor
+
+- A talk at an all-hands or a conference
+
+- A feedback conversation with a direct report
+
+- A Q&A session with employees or media members
+
+In all of these settings--and countless others--a leader must simultaneously be an active participant on the dance floor while also observing the proceedings from the balcony. The ability to act in the moment is essential--it's rarely possible to hit "Pause" in a contentious meeting or a hostile Q&A session and take time to reflect on why things are going badly. All this is easy to grasp conceptually, but it can be difficult to put into practice. If you're a leader striving to occupy both spots at once, what helps? From the balcony, you gather data from others as well as data from within, and then use that information to guide your steps on the dance floor.
+
+The Balcony, Part 1: Data from Others (aka Social Intuition)
+
+Neuroscientist Richard Davidson has developed a framework for understanding the relationship among specific patterns of neural activity in the brain, our internal emotional response, and our subsequent interpersonal behavior. [3] Davidson calls this model the "dimensions of emotional style," one of which is "social intuition":
+
+People differ dramatically in how attuned they are to nonverbal social cues. Extreme insensitivity to these signals is characteristic of people on the autism spectrum, who struggle to read facial expressions and other social cues, but people who fall well short of a clinical diagnosis can also be socially deaf and blind, with devastating consequences for personal and professional relationships. Conversely, acute sensitivity to the emotional state of others is central to both empathy and compassion, since being able to decode and understand social signals means we can response to them. [4]
+
+We all tend toward a given point on the social intuition scale on the basis of our inborn capabilities and formative experiences, but if you find yourself insufficiently attuned to others' thoughts and feelings you can increase your sensitivity. This is the result of what's known as "neuroplasticity"--your brain retains the potential for growth and change throughout your life. [5] A starting point in that process is simply heightening your awareness of the potential data at your disposal.
+
+The idea that precisely "93% of communication is non-verbal" is a myth that has been refuted by Albert Mehrabian, the UCLA psychologist whose research was the basis for that figure. [6] That said, a great deal of communication obviously occurs via facial expressions, body language, tone of voice, and vocables (which are sounds that aren't actual words but nonetheless convey meaning, such as "Mmmm," which generally indicates "Yes, continue.")
+
+It can be harder to gather and interpret such data while working virtually, but that doesn't mean it's impossible. Investing in the right equipment can help immensely, not only in reading the social cues of others but also in conveying your intended messages with greater accuracy and fidelity. [7]
+
+You can also improve your ability to focus on the various forms of non-verbal communication available to you in any given moment. This involves directing your attention, and the most effective tool for improved "attention management" is mindfulness meditation. As I've written before,
+
+Mindfulness...[is] merely the process of noticing what's happening around us, observing where our attention is going as a result, and sensing our cognitive, emotional and physical responses. A heightened sense of mindfulness allows us to direct our attention toward an intended object of focus and away from undesirable distractions... We can cultivate this ability through a number of practices, most notably meditation. A key is viewing meditation as a workout in attention management rather than as a break from the stress of daily life. [8]
+
+While I've addressed the needs of people seeking to increase their sensitivity to the thoughts and feelings of others because that's more common in my practice, it's also possible to be hyper-sensitive to such social cues, and in extreme cases they can become a source of distraction or cause crippling self-consciousness. Here, too, mindfulness meditation can help, and in this context there's a parallel with the work of Jon Kabat-Zinn, who has championed meditation as a means of managing the distracting and even overwhelming effects of chronic pain. [9]
+
+The Balcony, Part 2: Data from Within (aka Self-Awareness)
+
+As we gather data from others' non-verbal cues, we also need to gather data from within, which takes several different forms. "Self-awareness" is another dimension in Davidson's model, although he employs the term in a very specific sense, referring to the ability to perceive the physiological manifestations of emotion:
+
+Some people have a very hard time 'feeling' their feelings: It may take them days to recognize that they're angry, sad, jealous or afraid. At this extreme of the Self-Awareness dimension are people who are Self-Opaque. At the other end are Self-Aware people, who are acutely conscious of their thoughts and feelings and attuned to the messages their body sends them... This heightened sensitivity can be beneficial in several ways. It appears to play a crucial role in empathy, the ability to feel what others are feeling, and by allowing you to understand your own emotional state it can help you avoid misunderstandings... [10]
+
+Note that emotions are physiological events well before they register in consciousness. We take in a situation, interpret it in some way, and the meaning we ascribe to it yields a pre-conscious emotional response. As a consequence neurotransmitters are released, triggering a flurry of bodily activity--an elevated heart rate, or more rapid breathing, or "butterflies" in the stomach--and only then are we aware that we're "having a feeling." People who Davidson describe as "self-opaque" take longer to access this internal data and to associate it with an emotional state.
+
+But as with social intuition we can also be hyper-sensitive to our internal data, which at extreme levels can cause panic attacks or hypochondria. [11] Hyper-sensitivity on this dimension is more common in my practice, although it typically takes the form of anxiety or obsessive rumination. [12] In both cases, whether you're trying to increase or decrease your sensitivity to these physiological cues, Davidson again recommends mindfulness meditation:
+
+How can the same practice both increase and decrease Self-Awareness?... Mindfulness meditation...has a regulating effect on the mind. If you lack Self-Awareness, it can help make internal sensations more salient and vivid. If you are hyper-aware, feeling and hearing your internal signals all too vividly and loudly, it can bring about a kind of equanimity so you are not as bothered by this internal noise. That equanimity eventually helps the noise itself die down. [13]
+
+Self-awareness also involves other forms of internal data, such as intuition. While Davidson's concept of social intuition involves being attuned to the perceptions of others, we must also attend to our own. And we need not view intuition as some form of mysticism. Economist and psychologist Herbert Simon offers a straightforward definition: "The situation has provided a cue; this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition." [14]
+
+Note Simon's emphasis on expertise--psychologists Gary Klein and Daniel Kahneman have determined that intuition is more reliable in circumstances that are more predictable and which provide us with feedback on our decisions, so that we learn over time. [15] This is why experience in the settings described above, from team meetings to media sessions, is so useful--even if we can't consciously predict what will happen in any given moment, when we have a broad base of experience to draw upon we're more effective at sub-conscious pattern recognition.
+
+While we're well-served by acknowledging our intuition, we also need to be cautious before leaping to any specific conclusions on that basis. Years ago my colleague Bonnie Wentworth taught me to distinguish between A) an intuitive sense that something is happening and worth paying attention to, and B) my cognitive interpretation of just what is happening. Even when the latter isn't quite accurate, the former is usually worth exploring further.
+
+The Dance Floor (aka Self-Monitoring)
+
+Having gathered all this data, you now have to put it to use in your interactions with others--and in so doing move fluidly from the balcony to the dance floor and back again. But what does this mean in practice? One useful model is derived from a concept known as "self-monitoring." Psychologists Richard Lennox and Raymond Wolfe, building on earlier work by Mark Snyder, developed a 13-question instrument to measure this quality. [16] Their framework incorporates both aspects of the data-gathering process above, self-awareness and social intuition, and the first seven items in the instrument refer to one's "ability to modify self-presentation":
+
+1. In social situations, I have the ability to alter my behavior if I feel that something else is called for.
+
+2. I have the ability to control the way I come across to people, depending on the impression I wish to give them.
+
+3. When I feel that the image I am portraying isn't working, I can readily change it to something that does.
+
+4. I have trouble changing my behavior to suit different people and different situations.
+
+5. I have found that I can adjust my behavior to meet the requirements of any situation I find myself in.
+
+6. Even when it might be to my advantage, I have difficulty putting up a good front.
+
+7. Once I know what the situation calls for, it's easy for me to regulate my actions accordingly.
+
+The final six items in the instrument refer to one's "sensitivity to expressive behaviors of others":
+
+8. I am often able to read people's true emotions correctly through their eyes.
+
+9. In conversations, I am sensitive to even the slightest change in the facial expression of the person I'm conversing with.
+
+10. My powers of intuition are quite good when it comes to understanding others' emotions and motives.
+
+11. I can usually tell when others consider a joke to be in bad taste, even though they may laugh convincingly.
+
+12. I can usually tell when I've said something inappropriate by reading it in the listener's eyes.
+
+13. If someone is lying to me, I usually know it at once from that person's manner of expression.
+
+It's not necessary to formally complete the instrument to make use of the conceptual framework. [17] Simply review these items and consider the extent to which they already feel accurate for you, as well as where you might benefit from being more deliberate. (Items 4 and 6 are "reverse-scored," meaning that affirmative answers imply lesser capabilities.)
+
+Such heightened awareness won't automatically result in behavior change, but it's the necessary first step. That said, making the effort to track all this additional data and translate it into more effective interactions is likely to be fatiguing, at least at first. For a decade I helped train MBA students at Stanford in coaching principles and practices, which requires a increased degree of self-monitoring, and they inevitably experienced their first coaching sessions as exhausting. [18] But as I've noted before, persistence in any discipline tends to yield a degree of ease and increased stamina:
+
+With repetition we eventually relax, and the process becomes more automatic and require less deliberation.This doesn't mean that we lose all awareness of our abilities, but when engaged in an activity we don't need to focus intensely on our goal to hit the mark. [19]
+
+A final point on self-monitoring and authenticity, topics that psychologist Adam Grant and author and researcher Brené Brown explored in an online debate in 2016. Grant initially took a position that could be paraphrased as "authenticity is overrated," citing a set of studies showing that people who are high self-monitors generally experience better outcomes in professional life. [20] But Brown rejected Grant's premise that authenticity and self-monitoring are inversely related:
+
+In my research I found that the core of authenticity is the courage to be imperfect, vulnerable, and to set boundaries. ...I would argue that authenticity requires almost constant vigilance and awareness about the connections between our thoughts, emotions, and behaviors. It also means staying mindful about our intentions. Real authenticity actually requires major self-monitoring and isn't, as Grant proposes, the lack of self-monitoring. In fact, setting boundaries is, by definition, self-monitoring. [21]
+
+Being more deliberate about your behavior with the intention of guiding an interaction to a better outcome may feel novel or uncomfortable, but that certainly doesn't mean you're being "inauthentic." As I've written before, we may feel that way when we view our authentic self as something we discover, but I think it's more accurate (and more productive) to view our authentic self as something we create:
+
+When we're tackling new tasks or trying out new behaviors that cause discomfort or require fatiguing conscious thought, rather than interpret those feelings as signs of "inauthenticity" we can view them merely as evidence of inexperience. Note that this approach doesn't require us to persist indefinitely with everything that feels like a struggle--we may conclude that certain tasks or behaviors simply can't be added to our repertoire, or that the effort required is too great or the reward too meager. But we shouldn't be dissuaded from the attempt by fears that we're acting "inauthentically." [22]
+
+Footnotes
+
+[1] A Survival Guide for Leaders (Ron Heifetz and Marty Linsky, Harvard Business Review, 2002)
+
+[2] For more on creating space for reflection, see the following:
+
+- Open Space, Deep Work and Self-Care
+
+- How to Think (More on Open Space and Deep Work)
+
+[3] The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live—and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+[4] Ibid, page 51.
+
+[5] What is brain plasticity, and why is it so important? (Duncan Banks, The Conversation, 2016)
+
+[6] For more on Mehrabian and non-verbal communication, see the following:
+
+- Mehrabian and nonverbal communication (Olivia Mitchell)
+
+- "Silent Messages": A Wealth of Information About Nonverbal Communication (Albert Mehrabian)
+
+[7] Better Conditions for Working Remotely
+
+[8] Don't Just Do Something, Sit There! (Mindfulness for Busy People)
+
+[9] For more on Jon Kabat-Zinn's work, see the following:
+
+- Arriving at Your Own Door: 108 Lessons in Mindfulness (Jon Kabat-Zinn, 2007)
+
+- Mindfulness Meditation for Pain Relief (Jon Kabat-Zinn, 2010)
+
+- Full Catastrophe Living (Jon Kabat-Zinn, 2013)
+
+[10] Davidson and Begley, pages 54-55.
+
+[11] Ibid, page 234.
+
+[12] Why You Can't Stop Thinking About Something
+
+[13] Davidson and Begley, page 237.
+
+[14] What is an "Explanation" of Behavior? (Herbert Simon, Psychological Science, 1992)
+
+[15] Strategic decisions: When can you trust your gut? (Olivier Sibony and Dan Lovallo interviewing Daniel Kahneman and Gary Klein, McKinsey Quarterly, 2010)
+
+[16] Revision of the Self-Monitoring Scale (Richard Lennox and Raymond Wolfe, Journal of Personality and Social Psychology, 1984). For a comparison between Lennox and Wolfe's scale and Synder's original work, see Snyder's Self-Monitoring Scale and Lennox and Wolfe's Revised Self-Monitoring Scale (John Roob, University of Nebraska-Lincoln, 1994).
+
+[17] Should you want to complete the instrument, while I'm unable to find a version of Lennox and Wolfe's revised scale that can be scored (or even a data set of results for comparison), you can complete Snyder's original Self-Monitoring Scale. Snyder's version has 25 true/false questions, while Lennox and Wolfe's 13 items are scored on a six-point Likert scale (0 = always false to 5 = always true). But as with any psychometric instrument, bear in mind that the map is not the territory.
+
+[18] Three Conversations (On Better Communication)
+
+[19] Conscious Competence in Practice
+
+[20] Unless You're Oprah, "Be Yourself" Is Terrible Advice (Adam Grant, The New York Times, June 4, 2016). I discuss the Grant-Brown debate further in Cautionary Tales (Authenticity at Work).
+
+[21] My response to Adam Grant’s New York Times Op/Ed (Brené Brown, LinkedIn, June 5, 2016)
+
+[22] Leadership and Authenticity
+
+Photo by Quinn Dombroski.
+

@@ -1,0 +1,109 @@
+---
+title: Talking About Feelings
+url: https://edbatista.com/2018/07/talking-about-feelings.html
+slug: talking-about-feelings
+published: 2018-07-01T18:13:06
+updated: 2025-10-08T21:39:26
+source_body: wordpress-html
+---
+
+My work as a coach often involves encouraging clients and students to talk about their feelings--a process known to psychologists as affect labeling--in order to manage difficult emotions more effectively. Experience tells us that this is a useful practice, but why? How does talking about feelings make them easier to manage?
+
+Recent neuroscience research, including a substantial body of work by Matthew Lieberman of UCLA [1], has helped us to better understand the processes in the brain that contribute to this effect. [2] Some of the earliest research on this topic was conducted by Lieberman, Naomi Eisenberger, and several other colleagues [3]:
+
+Putting feelings into words has long been thought to be one of the best ways to manage negative emotional experiences. Talk therapies have been formally practiced for more than a century and, although varying in structure and content, are commonly based on the assumption that talking about one's feelings and problems is an effective method for minimizing the impact of negative emotional events on current experience. More recently, psychologists have discovered that merely putting pen to paper to express one’s emotional ailments has benefits for mental and physical health. Although conventional wisdom and scientific evidence indicate that putting one’s feelings into words can attenuate negative emotional experiences, the mechanisms by which these benefits arise remain largely unknown.
+
+Recent neuroimaging research has begun to offer insight into a possible neurocognitive mechanism by which putting feelings into words may alleviate negative emotional responses. A number of studies of affect labeling have demonstrated that linguistic processing of the emotional aspects of an emotional image produces less amygdala activity than perceptual processing of the emotional aspects of the same image. [The amygdala is a region of the brain associated with emotion processing that plays a role in helping us interpret and respond to perceived threats, among other tasks.] Additionally, these studies have demonstrated greater activity during linguistic processing than during non-linguistic processing of emotion in [the] right ventrolateral prefrontal cortex (RVLPFC), a region associated with the symbolic processing of emotional information and with top-down inhibitory processes. Finally, the magnitude of RVLPFC activity during affect labeling has been inversely correlated with the magnitude of amygdala activity during affect labeling in these studies. Together, these results suggest that putting feelings into words may activate RVLPFC, which in turn may dampen the response of the amygdala, thus helping to alleviate emotional distress... [page 421]
+
+The results of this study provide the first clear demonstration that affect labeling disrupts the affective responses in the limbic system that would otherwise occur in the presence of negative emotional images...
+
+These data thus suggest that one route by which putting feelings into words may regulate negative affect is by increasing activity in RVLPFC, which in turn dampens activity in the amygdala by way of intermediate connections through [the medial prefrontal cortex]... [page 426]
+
+In summary, this study provides the first unambiguous evidence that affect labeling, compared with other ways of encoding, produces diminished responses to negative emotional images in the amygdala and other limbic regions...
+
+These findings begin to shed light on how putting negative feelings into words can help regulate negative experience, a process that may ultimately contribute to better mental and physical health. [page 427]
+
+While the specific neural mechanisms involved remain unclear, it's noteworthy that this research highlights the connection between the prefrontal cortex, the region of the brain most closely associated with logical reasoning, and regions of the brain involved in processing emotion. Although this may seem counterintuitive, given our popular conception of reason and emotion as opposing influences on our behavior, it's entirely consistent with decades of research by neuroscientists such as Antonio Damasio [4] and Richard Davidson [5], whose work emphasizes the complex and intertwined relationship between these modes of mental processing.
+
+Lieberman also explored these neural mechanisms in work that he conducted independently [6]:
+
+[T]here is a great deal of evidence to suggest that the process of sharing one's worry, of putting bad feelings into words, can diminish one's emotional distress at least under certain circumstances. This chapter examines the neurocognitive mechanisms of disruption effects, the process by which putting feelings into words can disrupt the feelings being verbalized... [page 188]
+
+RVLPFC activity is associated with reduced activity in limbic regions, such as the amygdala and [dorsal anterior cingulate cortex], and [symbolic processing of affect] is associated both with increased RVLPFC activity and decreased limbic activity. [page 199]
+
+Given that [symbolic processing of affect] appears to regulate limbic responses...this would provide a mechanism by which putting feelings into words would have benefits for regulating emotional distress and for mental health more generally. [page 200]
+
+Numerous philosophers and psychologists have noted over the years that thinking about affect has the capacity to alter and even dampen the affect that is being thought about. This has been used to good effect in various forms of therapy, from formal psychotherapies to informal social support networks in which people talk about their feelings with friends. The reason that putting feelings into words helps has remained elusive and somewhat mystical. The work presented here describes a neurocognitive process focused on RVLPFC that provides the beginnings of an answer. Putting feelings into words activates a region of the brain that is capable of inhibiting various aspects of immediate experience, including affective distress. [page 203]
+
+Lieberman later summarized this research in his insightful book Social: Why Our Brains Are Wired to Connect [7]:
+
+It turns out that putting our feelings into words or simply being able to label them can regulate our emotions and promote our mental and physical well-being...
+
+Preschoolers who can describe their feelings have fewer emotional outbursts, get better grades, and are more popular with their peers. High school students who write about their math anxiety right before taking a math test actually do better on the test. In my lab we ask adults to perform a simple task, called affect labeling, during which people choose a word to best describe the emotional aspect of a picture. For instance, a picture of an angry face might be shown, and the participant would have to choose whether the word angry or scared describes the target's emotion. We have found that labeling the affective aspect of a disturbing image reduces the distress a person feels while looking at the image...
+
+When people label an emotional picture or their own emotional response to a picture, it activates the RVLPFC and reduces activity in the amygdala... It is still unclear what exactly the RVLPFC does to stimulate self-control. The debate typically focuses on whether this and similar regions are directly inhibiting responses in other brain regions, like the amygdala, or are helping to strengthen the nonimpulsive alternative so it can compete effectively with the impulsive response. [pages 219-221]
+
+So while we can't explain the underlying mechanisms with absolute certainty, a highly plausible theory has emerged over the past decade that allows us to explain why talking about distressing feelings mitigates the counterproductive impact of those emotions. How can we make more effective use of these ideas?
+
+Practice
+
+Many of us lack experience talking about our feelings, particularly in a professional setting, and just thinking about it can trigger a sense of anxiety and unease. This response is understandable--being called "emotional" is typically a criticism in business, and yet it can be unclear what would cause that label to be applied to us. But in our efforts to avoid this outcome, we may over-correct and never disclose our feelings at work--which prevents us from leveraging the neural processes discussed above, making our negative emotions even more difficult to manage.
+
+Psychologist Daniel Wegner quoted educator John Dewey on the importance of routinizing desired behaviors: "Habits must intervene between wish and execution in the case of bodily acts, [but] we still cherish the illusion that they can be dispensed with in the case of mental and moral acts." [8, emphasis added] The key here is recognizing that talking about emotions is a bodily act, not just a mental one. By definition emotions aren't purely cognitive processes--we often become aware of our emotions when we suddenly feel our heart pounding or a pit in our stomach. And just like any other embodied experience that involves multiple physiological systems, like driving a car or public speaking, we must make it a habit in order to grow accustomed to the challenge. But the good news is that practice inevitably increases our comfort with discomfort and reduces our self-consciousness as we grow more competent.
+
+Expand Our Vocabularies
+
+A consequence of our inexperience with discussing emotions--and a contributing factor that holds us back--is a limited emotional language. Even when we're ready to talk more fully about our feelings, if we lack the precise word to convey our emotion to another person in such a way that it has the intended impact, we're likely to struggle. A simple solution is to expand our emotional vocabulary.
+
+This one-page document lists eight primary emotional states--angry, averse, caring, embarrassed, excited, fearful, happy, inadequate, and sad--and 52 synonyms. Psychologists differ on the nature and number of primary emotions--Paul Ekman defined the six basic emotions as anger, disgust, fear, happiness, sadness, and surprise, while the late Sylvan Tompkins believed there are eight: anguish, disgust, fear, joy, interest, rage, shame, and surprise. [9] I've adapted this list from one originally developed by David Bradford, Mary Ann Huckabay and Carole Robin at Stanford, and I find that it works well for my clients and students.
+
+Create a Supportive Culture
+
+As Lieberman's work indicates, and as ample empirical evidence makes clear, merely reflecting on our feelings also allows us to regulate them over time. But the process of internal reflection appears to work less efficiently than openly discussing our feelings, and in many circumstances it's simply not possible to pause the interaction in order for us to take time to reflect. If we want to manage difficult feelings as effectively as possible, we need to talk about them with others--including those people who may be the cause of our emotions.
+
+And yet even if we're willing to have this conversation with a rich vocabulary at the ready, our ability to do so will be significantly influenced by the surrounding culture. Note that every relationship and group has its own culture--a set of norms, often tacit and unspoken, that determine what behaviors or statements are acceptable and what will result in embarrassment or threat.
+
+If we want to make full use of the neural processes described above, we have to create a safe, trusting and intimate culture in which talking about feelings is accepted as normal. I fully recognize that this may involve taking some risks in order to move the culture in the desired direction, and I'm not suggesting that we do so heedlessly. But what gives me hope is that the bold act of talking about our feelings is what tends to create a safer, more trusting, and more emotionally intimate culture in the first place.
+
+Footnotes
+
+[1] Matthew Lieberman's faculty page at UCLA
+
+[2] Twitter Study Confirms the Power of "Affect Labeling" (Christian Jarrett, BPS Research Digest, 2019)
+
+[3] "Putting Feelings Into Words" (Matthew Lieberman, Naomi Eisenberger, Molly Crockett, Sabrina Tom, Jennifer Pfeifer, and Baldwin Way, Psychological Science, 2007)
+
+[4] Antonio Damasio on Emotion and Reason
+
+[5] The Emotional Life of Your Brain (Richard Davidson and Sharon Begley, 2012)
+
+[6] "Why Symbolic Processing of Affect Can Disrupt Negative Affect: Social Cognitive and Affective Neuroscience Investigations," Chapter 13 in Social Neuroscience: Toward Understanding the Underpinnings of the Social Mind (Alexander Todorov, Susan Fiske, and Deborah Prentice, editors, 2011)
+
+[7] Social: Why Our Brains Are Wired to Connect (Matthew Lieberman, 2013) I highly recommend Social as a lucid and thought-provoking guide to recent neuroscience research on a wide range of issues beyond the topic of this post. When I taught Interpersonal Dynamics (aka Touchy Feely) at Stanford, I included chapters from Social on my syllabus for the first and last classes in the course.
+
+[8] White Bears and Other Unwanted Thoughts, page 14 (Daniel Wegner, 1989)
+
+[9] For more on primary emotions, see The Emotional Brain, Chapter 5 (Joseph LeDoux, 1998)
+
+For Further Reading
+
+Comfort with Discomfort
+
+Conscious Competence in Practice
+
+Vocabulary of Emotions
+
+Self-Coaching Is SOCIAL
+
+Risk Management (The Importance of Speaking Up)
+
+Safety, Trust, Intimacy
+
+Taking the Leap (Dealing with Risk and Uncertainty
+
+ 
+
+Thank you to Stephanie West Allen for helping me grasp the implications of current neuroscience research for my work as a coach, and for referring me to the work of Matthew Lieberman, Naomi Eisenberger, and their colleagues at UCLA.
+
+Photo by Gideon.
+

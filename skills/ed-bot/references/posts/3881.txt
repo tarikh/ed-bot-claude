@@ -1,0 +1,47 @@
+---
+title: Pain, Suffering, and Hedonic Adaptation
+url: https://edbatista.com/2015/10/pain-suffering-and-hedonic-adaptation.html
+slug: pain-suffering-and-hedonic-adaptation
+published: 2015-10-15T12:20:40
+updated: 2025-09-24T11:59:28
+source_body: wordpress-html
+---
+
+The man pictured above is Bob Timberg, whose face was extensively burned when a vehicle in which he was riding hit a land mine. This occurred in February 1967, when Timberg was a 26-year old U.S. Marine Corps officer just 13 days from finishing a year-long tour of duty in Vietnam.
+
+Timberg spent months recovering in military hospitals, enduring more than 30 reconstructive surgeries on his face, including several that were conducted, by necessity, without anaesthesia. He eventually became a successful journalist and author, including serving as the White House correspondent for the Baltimore Sun, but his life has been filled with difficulties, ranging from children recoiling at the sight of his disfigured face to the dissolution of his marriage, which he describes as the result of his poor treatment of his ex-wife.
+
+After publishing his memoir in 2014 Timberg was interviewed by NPR's Dave Davies, and I was deeply struck by this exchange near the end of the conversation [1]:
+
+DAVIES: When you're talking about why you finally decided to write your memoir, you describe this moment when you look in the mirror and look at your face and really focus on it and say, "Enough already. I've been this way since 1967--forty years, and it's time for this crap to end. The joke is over. It's not funny anymore." You say it's time to return to normal--for your face to heal. I mean, obviously, physically you couldn't do that. But I'm wondering, has telling the story in this book changed your feeling about that at all? Do you look at your face and feel differently?
+
+TIMBERG: I probably do. I mean, I know nothing's going to change, and what I do know is that I've made whatever peace I'm ever going to make with it. And I don't walk around thinking people are staring at me. If I suddenly notice little kids staring at me, I just wave to them and smile which, in a way, means I've come a long way as opposed to, you know, screaming at their parents. And often--more often than not--a little kid will smile and wave back... I think that in some bizarre way, whatever life had in store for me, I pretty much have lived it. I mean there were some bumps along the way but, you know, it's OK. [2]
+
+There were some bumps along the way, but it's OK.
+
+I read that and think about Timberg and feel a surge of emotions. Empathy for him and his struggles. Sadness at the thought of so many others whose lives have been similarly affected. Gratitude for my current state of health and well-being. And a sense of hope and optimism, because Timberg is a tremendously powerful example of the process of hedonic adaptation. I first encountered this concept in the work of Sonja Lyubomirsky, a professor of psychology at UC Riverside [3], although it dates back to research from the 1970s by Philip Brickman of Northwestern, among others. [4] As Lyubomirsky writes in The How of Happiness:
+
+Why do life changes account for so little [of the difference in individuals' levels of happiness]?  Because of a very powerful force that psychologists call hedonic adaptation...
+
+Human beings are remarkably adept at becoming rapidly accustomed to sensory or physiologic changes. When you walk in from the bitter cold, the warmth of the crackling fire feels heavenly at first, but you quickly get used to it and may even become overheated... This experience is labeled physiological or sensory adaptation. The same phenomenon, however, occurs with hedonic shifts--that is, relocation, marriages, job changes--that make you happier for a time, but only a short time...
+
+Although we may achieve temporary boosts in well-being by moving to new parts of the country, securing raises, or changing our appearances, such boosts are unlikely to be long-lasting. The primary reason...is that people readily and rapidly adapt to positive circumstantial changes...
+
+So the bad news about hedonic adaptation is that it ultimately dampens your happiness and satisfaction after any positive event or uplift. But there is good news, too. I would argue that human beings are actually lucky to have the ability to adapt quickly to changing circumstances, as it's extremely useful when bad things happen. Some studies of hedonic adaptation show, for example, that we have a phenomenal ability to recover much of our happiness after a debilitating illness or accident. [5]
+
+Case in point, Bob Timberg. To be sure, it took 40 years for him to reach a point where he could look back at his life and say, "There were some bumps along the way, but it's OK." But if he can do it, even after all the physical and psychological trauma he's experienced, I suspect that the rest of us are likely to adapt to the pain and suffering that life inevitably has in store for us.
+
+ 
+
+Footnotes
+
+[1] Blue-Eyed Boy: A Memoir (Bob Timberg, 2014)
+
+[2] Bob Timberg interviewed by Dave Davies for NPR's Fresh Air (2014)
+
+[3] Understanding "The Pie Chart" in The How of Happiness
+
+[4] "Lottery Winners and Accident Victims: Is Happiness Relative?" (Philip Brickman, Dan Coates and Ronnie Janoff-Bulman, Journal of Personality and Social Psychology, 1978)
+
+[5] The How of Happiness, pages 48-51 (Sonja Lyubomirsky, 2007)
+

@@ -1,0 +1,137 @@
+---
+title: Joel Peterson's Last Lecture, 15 Years Later
+url: https://edbatista.com/2015/03/joel-petersons-last-lecture-15-years-later.html
+slug: joel-petersons-last-lecture-15-years-later
+published: 2015-03-03T05:00:00
+updated: 2025-10-12T13:44:16
+source_body: wordpress-html
+---
+
+Fifteen years ago, in the Spring Quarter of my second year at the Stanford Graduate School of Business, I took a course on real estate from Joel Peterson, who'd previously been CEO of Trammell Crow, one of the largest developers in the United States and who today runs his own private equity firm and sits on numerous boards while continuing to teach at the GSB. I was interested in the topic in part because my grandfather had been a developer, but I had no plans to pursue a career in the field. I took the course primarily because I'd heard Peterson was a thoughtful and informative teacher, which turned out to be a tremendous understatement.
+
+Peterson had a big impact on me, and I've written before about lessons I learned from him in that course, such as knowing the difference between importance and urgency, and understanding why we work. I've continued to follow him over the years and have written more recently about his perspective on the importance of organizational culture and the emotional dimension of trust.
+
+A few weeks ago Peterson's post "If I Could Start Over, Here's What I'd Do Differently" reminded me of the notes I took during his last lecture in that real estate course, and I'm struck by how useful I still find them 15 years later. The numbered comments below are the notes I originally took in Peterson's classroom, followed by my current reflections on each topic.
+
+1. Have a life plan.
+
+I'm not a planner. I've quit jobs 4 times in my life without knowing what was going to happen next. Each time I had a sense of direction, but I felt the need to move before every detail was worked out. You could say that I'm a searcher, with a preference for flexibility and responsiveness. But at age 47 I find that I'm more fulfilled, more effective and happier than ever--not every moment of every day, but on balance. And this sense of well-being has clearly resulted from my decision in 2006 to become an executive coach and from my daily commitment to this work over the past decade. Have I become a planner? No--but I do have a plan for my life that gives me a deeper sense of meaning and purpose.
+
+2. Don't skip steps.
+
+And don't take shortcuts. Recognize when temptations to save time or effort will be counterproductive in the long run, either by undermining our ethical standards or by lowering the quality of our work below an important threshold. This isn't to say that we should allow ourselves to be hobbled by perfectionism, but understand the difference between A) moving fast and getting things done and B) moving too fast and making mistakes.
+
+3. Beware false peaks.
+
+What seems like the top may just be a local maximum, so while we should enjoy our successes, we should also step back and look at the larger picture. The jobs that I mention leaving above all had much to offer, but had I stayed longer at any one of them I very possibly wouldn't be an executive coach today, and I might have missed out on this tremendously gratifying career. Another aspect of this concept is the importance of not getting too excited when things are going well, because that's a necessary skill if we are also to avoid getting too upset when things are going badly. We build resilience not only by managing our distress, but also by tempering our excitement.
+
+4. Organizational interconnecting ("Belaying").
+
+Belaying is a technique that allows rock climbers and mountaineers to take bigger leaps at lower risk because they're connected to others who are providing them with support. The analogy in the professional world is making connections throughout our organization. Look beyond our role, our immediate colleagues, and our function to build these relationships. More specifically, I've always looked for opportunities to connect with IT and administrative staff, and investing authentically in those relationships has been an important source of support at some critical moments.
+
+5. Reward negative feedback.
+
+People are keenly aware of the risks of speaking up in organizational life, and the most effective leaders build a culture and establish working relationships in which critical feedback is invited rather than squelched, appreciated rather than punished. Unpleasant truths are precious gifts, and should be treated accordingly. This doesn't make the process fun--I can still find negative feedback hard to hear, even after years of dedicating myself to the process. But I value the lessons it brings more than I resent its sting, in part because I try to be open to it without allowing it to undermine my sense of self-validation.
+
+6. Learn to work with people.
+
+Recognize that as leaders we succeed or fail not on the basis of our personal accomplishments, but on our ability to attract, retain, motivate and manage others. I've worked with many clients and students whose initial success result from their effectiveness as individual contributors and who struggled in more senior roles until they learned to do less and lead more.
+
+7. Finance (2 years), Marketing/Operations (5-7 years), People (10+ years).
+
+This is Peterson's advice for a post-MBA career path, and it's not necessarily relevant to everyone. But his larger point is that the first stages of a career are focused on mastering technical skills, and the later stages are all about managing and motivating people. Our technical expertise may help us rise to leadership positions, but once there we need to lean on (and possibly develop) an entirely different set of skills.
+
+8. Align yourself with other peoples' interests; learn what they want and help them get it.
+
+Peterson isn't suggesting that we subjugate our goals to those of others, but rather that we bear in mind the principles of David Bradford and Allan Cohen's reciprocal influence model. We're all motivated by different "currencies," from material compensation to public acclaim, from autonomy and independence to a sense of teamwork. We need to recognize that others' currencies may differ from our own, and we need to understand the specific currencies of those around us--peers, superiors and subordinates.
+
+9. Don't be made bitter by disappointments.
+
+Because they're inevitable. We will be disappointed in our professional lives, over and over again, and if we allow ourselves to become embittered by those experiences we will waste precious time and energy ruminating over them. This isn't to say that we should pretend we don't feel disappointment, sadness and loss when things go wrong; we must embrace those emotions in order to work through them. But having done so, we must let them go. Ultimately it's not our circumstances that matter, it's how we respond to them.
+
+10. People must be capable, high-character and empowered.
+
+Seek out people who not only have the requisite skills, but who also possess a clear moral compass and a sense of personal agency. And two-out-of-three isn't enough; we have to get it right in all three categories. Note that as leaders we have a significant influence on #3, and once we have talented, ethical, self-motivated people in place we need to get of their way.
+
+11. People need recognition, to learn, grow, and be loved--not just money.
+
+As a leader it's critical to bear in mind the distinction between extrinsic and intrinsic motivation, and to be keenly aware of the limits of the former. Not only are there constraints on how much compensation we can offer someone, but there are also diminishing returns to material rewards because of the inevitable process of hedonic adaptation. By becoming skilled in providing people with recognition, learning, growth and even love, leaders can evoke and enhance their intrinsic motivation, a tremendous source of power.
+
+12. People are smart and will figure things out over time.
+
+So trust them, and look for opportunities to build their trust in you. This requires a growth mindset and will certainly entail a willingness to tolerate mistakes in order to learn from them as people grow into new roles and responsibilities. In my work with MBAs at Stanford, I help to prepare our second-year Leadership Fellows to guide groups of first-years through our Leadership Labs course and to coach individual students one-on-one. I've learned that when I trust my students' capabilities and  encourage them to push their limits, they accomplish much more than when I emphasize avoiding mistakes.
+
+13. In human relations, slow is fast and fast is slow.
+
+Relationships matter, and they take time to develop. Moving too quickly may push people beyond their comfort zone or raise fears about our motives and intentions, causing them to pull back. It's important to invite people in, so that they maintain a sense of agency and choice in the relationship. This inevitably takes more time at first, but it pays off over the long term. (I'm also reminded of Tom Peters' wisdom: "Hard is soft, soft is hard. The readily-manipulable numbers are the true 'soft stuff.' The relationships/leadership/'culture'...are the true 'hard stuff.'")
+
+14. Not every important issue falls into your Inbox.
+
+Earlier in our careers we're told what to do. The many people around and above us decide what's important and point us in that direction. But the more senior we become, the less guidance we get, and eventually it's up to us to decide what's important. If we fail to notice this transition--which doesn't always correspond with a new job or formal responsibilities--we wind up waiting for instructions that never arrive. Further, if we allow our Inbox to set our priorities, we let other people to chart our path indefinitely. Ultimately we need to develop the ability to manage our attention, to focus on some things and actively ignore others.
+
+15. We do well on Important/Urgent and on Not Important/Urgent, but we fall short on  Important/Not Urgent.
+
+Tasks are urgent when there's a deadline attached and someone else cares about them. But there are many tasks that will never be urgent and yet are extremely important: Regular exercise. A good night's sleep. Meaningful time with our loved ones. It's essential to make time for these activities, to set boundaries that help us keep these commitments, and not to allow others' sense of urgency to dictate our priorities. (I discussed this at greater length in 2006.)
+
+16. Do whatever needs to be done.
+
+Sometimes we need to roll up our sleeves, grab a bucket, and start bailing, so to speak. Saying "That's not my job" is profoundly unhelpful at these moments, and people will remember whether you helped out or watched them struggle. That said, once the crisis is past, we need to figure out what was leaking in the first place and why the waters were allowed to rise so high. And if those responsible resist making the changes necessary to prevent future crises, we can't keep rescuing them indefinitely.
+
+17. Be responsive to the market.
+
+Don't get stuck on a fixed definition of who you are as a professional and what services you offer. We can't change with the tides, nor should we lose sight of those deeper values that define us as individuals. But we need to be attuned to the ways in which we create value for customers, users, clients and colleagues, and we need to evolve as professionals in order to maintain those relationships. Sometimes this requires a big jump--developing a new set of skills, or obtaining a new credential--but more often it's a subtle shift over time, and we're well-served by paying attention to signs that the markets in which we operate are changing.
+
+18. Move to where the needs are.
+
+It's important not only to sense external opportunities, but also to understand the internal markets within our own organizations. The ability to sense these internal needs and respond to them, in some cases by seeking out a new position, but more often simply by offering to help, can play a significant role in our success.
+
+19. Don't bury the lead.
+
+When speaking or presenting, make our most important points up front, and bear in mind that what matters to us may not matter as much to our audience. Learn to sense what others are most interested in, and tailor our approach to meet their needs. Don't stick rigidly to a script or a chronological recitation of facts, but be prepared to improvise and flex along the way.
+
+20. Start with the conclusion.
+
+Before embarking on a new project--or a new career--clarify our goals and have a sense of where we want to end up. Goals aren't an unalloyed good thing--if we're too fixated on them they can diminish our sense of satisfaction and cause us to abandon our efforts prematurely. But they're important in helping us choose a direction and initiate action.
+
+21. Hire for brains and heart; you can give them experience.
+
+When hiring we too often look to minimize the downside risk by prioritizing past experience--we want someone who's done it before, because that gives us confidence that they can do it again. But a consequence of this approach is that we also limit the upside opportunity, and we may overlook those people who are rich in potential but lack experience. When we find worthy candidates with short resumes, trust not only in their capabilities but also in our leadership.
+
+22.Fire expediently.
+
+I've worked with many leaders who've wrestled with this decision, and a common theme is that they wish they'd done it sooner.
+
+23. Be the scribe whenever possible.
+
+The victors write the history books, but those who write history are also likely winners. Offering to take notes in a meeting not only guarantees that our views will be accurately represented, but also builds goodwill as a form of service to the team. The key is developing the ability to participate actively while scribing, and ensuring that we don't become side-tracked into a support role while others take the lead.
+
+24. Run your own PR campaign.
+
+Peterson didn't use the phrase Brand You, but that's what he was talking about. We need to take responsibility for promoting ourselves, which involves both developing a personal brand and getting the word out through a variety of channels. This does not mean putting style over substance, or misrepresenting ourselves, or being inauthentic in order to attract attention, but, rather, finding ways to tell our stories in a credible and personal voice to people who might be interested. This is why I started blogging in 2004 and tweeting in 2007, and these two channels have been the primary means through which I've connected with the world of people who care about coaching.
+
+25. Preparation is essential.
+
+The more I work with senior leaders, the more I know this to be true--and the more I understand that "preparation" means something much different at higher levels of leadership. Earlier in our career being prepared means "knowing our stuff," being able to readily answer questions and solve problems. But that form of preparation often comes at the expense of other activities, such as sleep, exercise or reflective time. For senior leaders being prepared means "being in the right frame of mind" in order to handle stressful and complex interactions. And that form of preparation requires an ongoing commitment to activities such as sleep, exercise and reflective time--what were once luxuries are now job requirements.
+
+26. They can't take away the stuff that's really important.
+
+Like most successful people Peterson has also suffered some big career setbacks, and he was candid about that in our class. He emphasized that those losses are trivial when weighed against what really matters in life: our health, the love of those around us, a sense of meaning and purpose. And he added that those who control our professional fates, whether superiors or board members or investors or customers, do not control our health, our loved ones, our reasons for being.
+
+27. It's your job to be your kids' cheerleader.
+
+Peterson isn't suggesting that this is a parent's only job, but as he wrote recently, if he were to live his life over again he'd "be a cheerleader, not a policeman" at home. I'm not a parent, nor do I think of my MBA students at Stanford as my kids, but in my work with them over the past 8 years I've certainly come to prioritize cheerleading over policing. My experience has been that when people feel truly supported, they tend to rise to the occasion--far more often than when they feel policed. This isn't to say that I don't hold my students accountable--I do. But I've come to believe that being a good cheerleader makes it easier, not harder, to be both supportive and challenging.
+
+28. Give where you have no expectation of return.
+
+Recent research notes the positive psychological effects of volunteering and other forms of charitable giving, and there may even be a biological basis for our generous impulses. But another dynamic I've noticed in my own life is the need to "pay it forward." I've been helped by many people whose generosity I can never repay, most notably among the GSB's alumni community. So today when I'm contacted by current student and recent graduates I gladly offer whatever help I can, knowing that I'm replenishing a general pool of goodwill from which I benefited in the past.
+
+29. Seek out blame and accept it.
+
+I made a big mistake this year, and it would have been easy to avoid taking responsibility or to shift the blame onto someone else. It was embarrassing, but I stepped forward and made it clear that I and no one else was at fault. I got this email in response: "Thanks for the clarification, Ed. I appreciate your sense of accountability and honesty. You are a true gentleman." It's not easy to live up to this ideal, but I'm inspired to do my best to try.
+
+30. Go to a funeral every year.
+
+It's important to be reminded of the shortness of life, to reflect on the things that truly matter, and to ask whether we're living our lives accordingly. Attending a funeral accomplishes all three at once, and we should embrace these opportunities, not shrink from them. Painful losses have taught me much, and while the learning doesn't justify the suffering, it does give it meaning.
+
+Photo courtesy of the Stanford Graduate School of Business.
+

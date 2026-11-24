@@ -1,0 +1,119 @@
+---
+title: How I Read Stoicism
+url: https://edbatista.com/2018/06/how-i-read-stoicism.html
+slug: how-i-read-stoicism
+published: 2018-06-16T15:30:22
+updated: 2025-10-08T21:43:16
+source_body: wordpress-html
+---
+
+One of the most rewarding aspects of teaching The Art of Self-Coaching at Stanford is introducing some of my MBA students to Stoicism in our class on Unhappiness. To be sure, some of my students are well-versed in the classics, but for others it's a new discovery. Given that this same session also explores Buddhist thought via the work of Pema Chödrön as well as Viktor Frankl's philosophy of Logotherapy, I cover Stoicism through "What Would Seneca Do?," a chapter from Oliver Burkeman's outstanding book, The Antidote: Happiness for People Who Can't Stand Positive Thinking. [1]
+
+Burkeman provides a lucid and concise discussion of Stoicism's basic ideas, and in addition to Seneca he references Zeno, Epictetus, and Marcus Aurelius. My students who find Stoicism appealing often go on to read Seneca's letters or the Meditations of Aurelius, which have both consoled and challenged me many times over the years. But these works can pose some difficulties for the contemporary reader, and I find it helpful to bear a few guidelines in mind.
+
+1. Stoicism isn't "stoicism."
+
+A challenge we face today is the risk of conflating Stoicism, the philosophical school of thought, with "stoicism," our present-day interpretation of the term. The latter can connote a passive approach to the world, indifference to outcomes, and a lack of ambition, qualities which my students understandably find alien and unappealing. But the lives of the Stoics weren't characterized by these attitudes, and it's useful to know something about their personal histories.
+
+Zeno, a wealthy merchant, was honored with a pillar in his native Cyprus for his efforts to rebuild public baths, and he was commemorated with a tomb in Athens that acknowledged the influence of his teachings. Aurelius spent several decades devoting himself to imperial administrative and financial affairs, and in his final years led military expeditions against Germanic tribes, dying in camp in present-day Vienna. After being exiled by Claudius, Seneca carefully engineered his return to Rome, where he amassed a vast fortune while advising Nero. These were dynamic men whose dedication to Stoic principles in no way dampened their desire to have a meaningful impact on the world around them.
+
+2. Emotion regulation isn't suppression.
+
+One of the most powerful themes in Stoicism is the importance of keeping our emotions in check:
+
+Our inner thoughts are open to the gods' eyes: they should see a man not disposed to any complaint and free of self-pity. [Aurelius, Meditations, XI.13]
+
+When you are high in indignation and perhaps losing patience, remember that human life is a mere fragment of time and shortly we are all in our graves. [Aurelius, Meditations, XI.18]
+
+The man who is not puffed up in good times does not collapse either when they change. His fortitude is already tested, and he maintains a mind unconquered in the face of either condition. [Seneca, Consolation to Helvia]
+
+This emphasis on emotion regulation can easily be misunderstood as emotion suppression, and it's essential to distinguish between the two. Efforts to completely suppress and extinguish an emotional response are typically unsuccessful and can even be counterproductive, exacerbating the undesired feeling and heightening our focus on its causes. Further, a lack of emotional awareness can erode the quality of our thinking. Recent work by neuroscientists such as Antonio Damasio [2] and Richard Davidson [3] has allowed us to more fully understand the positive role that emotions play in the process of logical reasoning and the complex relationships that interconnect the regions of the brain that process emotion and cognition.
+
+But Damasio fully acknowledges "that uncontrolled or misdirected emotion can be a major source of irrational behavior [and] seemingly normal reason can be disturbed by subtle biases rooted in emotion." The key is cultivating the subtle skill of what I'll call emotional effectiveness--we must be able to sense, comprehend, articulate and express our feelings in ways that help us accomplish our goals. This certainly entails the ability to regulate our emotions, but not to such an extent that we're seeking to suppress them--as the passage above from Damasio concludes, "Reduction in emotion may constitute an equally important source of irrational behavior." [4, emphasis original]
+
+3. The Stoics were human beings just like us.
+
+Reading the Stoics can inadvertently create the impression that as individuals they had overcome and mastered the challenges they're writing about. But it's necessary to remember that for all their accomplishments they were ordinary human beings, subject to the same feelings and frailties as the rest of us. For example, this passage in the Meditations could be read as stern guidance from a man who feels no pain himself:
+
+Epictetus used to say that when you kiss your child you should say to yourself, "Tomorrow you may be dead." But these are ominous words! "No," he replies, "nothing is ominous which points to a natural process. Otherwise it would be ominous to speak of the corn being reaped. [XI.34]
+
+But we see it in a new light when we consider that Aurelius was a father who had already lost four children by his early 30s, and, as the Oxford classicist R.B. Rutherford has noted, Aurelius "was writing for himself, and seems to have had no thought of making his reflections available to a wider audience in his own lifetime or thereafter... At the end of the day, the emperor would record a few reflections and admonish himself to observe certain precepts and ethical rules which he might have neglected." [5]. From this perspective, Aurelius isn't a super-human figure who's conquered grief, but an all-too-human one who, decades later, continues to feel sadness and loss and is striving to manage these difficult emotions.
+
+Similarly, there's a school of thought that views Seneca as a duplicitous schemer who preached virtue while practicing vice, enjoying Nero's support and patronage as the emperor grew increasingly murderous and tyrannical. Seneca's life does merit close scrutiny, and it would be naive to assume that his personal conduct perfectly mirrored the noble sentiments expressed in his writing. But it seems equally simplistic to call him, as the critic Robert Hughes did, "a hypocrite almost without equal in the ancient world." [6]
+
+A more sympathetic view of Seneca is suggested by historian James Romm, who finds it likely that Seneca exerted a positive influence on Nero for a number of years before the younger man eventually bristled at and rejected his tutor's guidance. [7] Seneca later made a concerted effort to retire from public life, at one point offering Nero half of his considerable fortune in order to allow him to leave imperial service--the offer was refused, and as Seneca writes in De Beneficiis, "It makes no difference whether you refuse to give to a king, or refuse to accept gifts from him; he takes both, equally, as a rejection." [8] Romm also notes the striking contrast between Seneca's published essays and letters, in which he rarely makes direct references to imperial figures, and his (largely unproduced) plays, which were essentially allegories about the wanton cruelty of the emperor and the corruption of his family.
+
+Seneca is clearly a complex figure, but rather than brand him a hypocrite and reject the counsel of his writings, I find myself taking a more nuanced view. I don't absolve Seneca of his complicity in Nero's reign, but, knowing that he felt trapped in the service of an emperor who would ultimately order his suicide, I see his work, like the Meditations, as a series of uncertain efforts to reassure and convince himself, rather than as confident assertions from a man who's claimed the moral high ground.
+
+Stoicism as a whole challenges us to rise above our frustrations and fears in order to become better versions of ourselves. The awesome difficulty of this task can be demoralizing if we assume that the Stoics themselves accomplished it with ease and are preaching at us from on high (or, worse, failed in the attempt and are lying to us.) Instead, I choose to read the work of the Stoics as testimonials from fellow sufferers who are sharing their struggles, not recounting their triumphs.
+
+Do not give up in disgust or impatience if you do not find action on the right principles consolidated into a habit in all that you do. No: if you have taken a fall, come back again." [Aurelius, Meditations, V.9]
+
+These are the words of a man who knows disgust, who knows impatience, who has fallen.
+
+Your mind will take on the character of your most frequent thoughts: souls are dyed by thoughts... For example: where life can be lived, so can a good life; but life can be lived in a palace, therefore a good life can be lived in a palace." [Aurelius, Meditations, V.16]
+
+These are the concerns of a man wrestling with his own worthiness, wondering if he can surmount his (literal) palace or if its luxury will prevent him from achieving the good life.
+
+It is not that we have a short space of time, but that we waste much of it. Life is long enough, and it has been given in sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested. But when it is squandered in luxury and carelessness, when it is devoted to no good end, forced at last by the ultimate necessity we perceive that it has passed away before we were aware that it was passing. [Seneca, On the Shortness of Life]
+
+These are not the boasts of a man who's certain that he's lived his life well, but the anxious musings of a 53-year-old who's worried that he has not, and who's hoping that he'll be granted sufficient time and freedom to change course.
+
+We all face these dilemmas, and the Stoics aren't telling us to follow in their footsteps--they're walking alongside us.
+
+Footnotes
+
+[1] The Antidote: Happiness for People Who Can't Stand Positive Thinking (Oliver Burkeman, 2013)
+
+[2] Antonio Damasio on Emotion and Reason
+
+[3] The Emotional Life of Your Brain (Richard Davidson and Sharon Begley, 2012)
+
+[4] Descartes' Error: Emotion, Reason and the Human Brain, pp 52-53 (Antonio Damasio, 2005)
+
+[5] The Meditations of Marcus Aurelius, pages ix-x (1998)
+
+[6] An Idea as Much as a City, (Michiko Kakutani, The New York Times, 2011 [reviewing Rome: A Cultural, Visual, and Personal History, Robert Hughes, 2011])
+
+[7] Dying Every Day: Seneca at the Court of Nero (James Romm, 2014)
+
+[8] Dying Every Day: Seneca at the Court of Nero, page 128
+
+For Further Reading
+
+Meditations, Marcus Aurelius
+
+It's important to find a translation that feels right for you--I like these three:
+
+Oxford University Press (1998)
+
+This reissue of A.S.L. Farquharson's 1944 translation includes an outstanding introduction by R.B. Rutherford.
+
+Penguin Classics (2006)
+
+This recent translation by Martin Hammond has a more contemporary feel and is extensively annotated.
+
+Dover Thrift (1997)
+
+This classic 1862 translation by George Long lacks any extras, but it's a slender, inexpensive volume that's also freely available online.
+
+Dialogues and Letters, Seneca
+
+Letters from a Stoic, Seneca
+
+These two volumes overlap extensively, but there's sufficient distinction that they're both worth having.
+
+Dying Every Day: Seneca at the Court of Nero, James Romm
+
+Enchiridion, Epictetus
+
+Discourses and Selected Writings, Epictetus
+
+On the Shortness of Life
+
+Seneca on the Importance of Rest and Relaxation
+
+Marcus Aurelius, 3,000 Years, and the Present Moment
+
+Photo by Bradley Weber.
+

@@ -1,0 +1,21 @@
+---
+title: Clinton Moloney On Trust
+url: https://edbatista.com/2006/10/clinton_moloney.html
+slug: clinton_moloney
+published: 2006-10-12T22:19:00
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+I had an interesting conversation with Clinton Moloney of the Trium Group yesterday, discussing their relatively unusual blend of consulting services that span strategy, leadership development, and organizational culture. Something that stood out was Clinton's definition of trust:
+
+Trust = Motive + Reliability + Competence
+
+In other words, before we can trust someone, we must be assured of their motive, their reliability and their competence. (Clinton vividly illustrated this concept by considering whether he would trust his mother to do his taxes. He felt quite confident about her good intentions and her dependability, but the fact that she knows nothing about accounting was an insurmountable barrier to trust in this instance.)
+
+The crucial dilemma is that we often have very good data about others' reliability and competence, but we lack data about their motive, which is the most important component of trust. Even if we lack direct experience with people, there are any number of signals regarding their reliability and competence, from resumes to performance reports. But the only way to understand another person's motive is to have a direct and candid conversation with them, and this requires superior communication skills, a keen sense of interpersonal awareness, and a willingness to take risks--all rare qualities. And in the absence of knowledge about others' motives, we often fail to establish trust when it's needed most.
+
+A relevant example: A friend recently described to me how a colleague continued to undermine him by sharing information indiscreetly. My friend previously felt that his colleague simply lacked good judgment, but now he wondered whether these indiscretions could be intentional. If my friend's colleague is lacking in judgment, that's an issue of competence that could be addressed through coaching. At the very worst, my friend would simply know not to share confidential information with his colleague. But if my friend's colleague is actually trying to undermine him, no amount of coaching will change his motive, and the relationship will be damaged beyond repair. How can my friend determine whether his colleague is trustworthy? The only course is to have a direct conversation, raise the sensitive issue of trust, and gauge the honesty of the responses.
+
+This highlights for me the vital importance of developing the communication skills, interpersonal awareness and courage required to have such a conversation. By developing these qualities within ourselves, we dramatically expand our ability to establish trust--and to understand where mistrust is warranted.
+

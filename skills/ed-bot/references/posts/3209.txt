@@ -1,0 +1,17 @@
+---
+title: Opening the Kimono
+url: https://edbatista.com/2005/05/opening_the_kim.html
+slug: opening_the_kim
+published: 2005-05-19T12:54:50
+updated: 2005-05-19T12:54:50
+source_body: wordpress-html
+---
+
+A former colleague of mine loved to use the phrase "opening the kimono" as a vivid metaphor for organizational openness and transparency, sharing internal processes with the outside world.  Michael Gilbert's kimono is flapping in the breeze as he shares the well-documented workflow that makes his prolific online publishing possible.
+
+As always, he has interesting thing to say about the software he uses, but the real value for me was in these complex but elegant flow charts describing his content preparation and content distribution processes.
+
+I've worked closely with Michael in years past, and let's just say the man rarely lacks confidence in his abilities.  But like some old ballplayer said, "It ain't braggin' if you can do it."
+
+UPDATE: Inspired by Michael Gilbert's flow charts, Beth Kanter maps out her own workflow for a blog she maintains.  Because web-publishing and content management tools are getting more user-friendly all the time, this increased focus on workflow seems right on.  Those of us helping nonprofits and other organizations deploy these tools need to pay as much attention to their workflow as we do to application training.
+

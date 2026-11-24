@@ -1,0 +1,73 @@
+---
+title: Grant McCracken on the Elements of Reinvention
+url: https://edbatista.com/2008/03/grant-mccracken-2.html
+slug: grant-mccracken-2
+published: 2008-03-18T11:11:43
+updated: 2025-09-24T11:59:43
+source_body: wordpress-html
+---
+
+When we sit down to make change happen, when we seek to reinvent our organizations (and ourselves), what dynamics characterize that process?
+
+Grant McCracken has come up with a short list based on his recent work on a "reinvention exercise" with "a large American corporation."  I intend to refer back to this regularly in my own work, so I'm pulling out the key phrases that caught my attention, but you really should read the whole thing:
+
+1. Furiously Framing and Reframing
+
+...a really liquid kind of problem solving.  We are are framing and reframing and reframing yet again...until the wisdom of this little crowd becomes apparent.
+
+2. Tagging
+
+Vivid pictures and phrases get the job done...  Good ideas have no hope of surviving to maturity and adoption unless (or until) they are well tagged.
+
+3. Pattern Migration
+
+There are wonderful moments when someone will say, "look, here's something we know about this context.  I wonder if we could transfer this to another problem set."
+
+4. Scaling Up, Scaling Down
+
+At one moment, we were dealing with the biggest possible problem sets in the broadest possible ways.  The next, we have zeroed down to a very particular problem.
+
+5. Messier Models
+
+We saw people insisting on messier models in order to honor some of the messiness in the world in the model.  The bigger point to make here is that as the world gets messier, more multiple, more various and changeable, discourse about change is beginning to take on these structural properties.
+
+6. Acknowledging Fear
+
+For the first time, I saw people building models of process that acknowledge the emotional difficulties inherent in the change making process.  Everyone always feels the pain of entertaining new ideas and having to give up old verities, but this used to be a very private condition.  Now people are openly acknowledging it.
+
+7. New Language like "Chunking"
+
+When problem sets are really messy and heard to read, "chunking" is useful.  It's a way of saying let's call this [thing] a something. Because we are chunking we are not obliged to say or to know what it means.  We are just saying "there's something here we need to look at."
+
+8. Porousness
+
+People are now prepared to acknowledge that the corporation is no longer a free standing, discrete entity.  It is customary to hear people dealing with the fact that the corporation has loose boundaries.
+
+Grant's conclusion after coming up with this list?
+
+All of these new intellectual inclinations and practices suggest I think that the corporation is learning to live with dynamism by learning how to practice dynamism.
+
+Three of these dynamics jump out at me and seem closely intertwined: tagging, messier models, and acknowledging fear.  Grant's reference to the importance of tagging ideas reminds me of Howard Gardner's emphasis on "representational redescriptions" in the influence process:
+
+A change of mind becomes convincing to the extent that it lends itself to representation in a number of different forms, with these forms reinforcing each other...
+
+"Messy models" reminds me of Pema Chödrön's embrace of imperfection:
+
+[T]rying to tie up all the loose ends and get it together is death, because it involves rejecting a lot of your basic experience.  There is something aggressive about that approach to life, trying to flatten out all the rough spots and imperfections into a nice smooth ride... Death is wanting to hold on to what you have and to have every experience confirm you and congratulate you and make you feel completely together.
+
+And I'm particularly struck by Grant's inclusion of fear as a key factor to be addressed (or at least acknowledged) in any reinvention or change management process.  (He goes a step further and references any "emotional difficulty" in the text, but I agree that "fear" made for a better headline.)  Our inability to sense, legitimize and express our emotions in the workplace creates a huge gap between our collective and our individual experiences. For example, I'm scared or angered by your proposal, but I can't effectively communicate those feelings at work, so you never truly understand my position--and we're left wondering why we make so little progress!
+
+A link I see among these three dynamics is an acceptance of the fact that our brains work in ways that are often described as "irrational" (or at the very least run counter to many notions of rationality):
+
+Ideas stick when they're made vivid and colorful--and even the best ideas will die if not made sticky.
+
+The world is messy and complicated--and models that incorporate the mess are actually more useful to us than reductive, straightforward ones.
+
+And we're scared and angry--a lot!--and pretending those feelings aren't there doesn't make them go away.
+
+Much of my work as a coach and group facilitator involves helping people better understand and express feelings that typically get ignored in a professional setting, and Grant's observations suggest to me that this is precisely what we need to do more of when we're involved in any change-making process.
+
+Logrolling: I encourage you to pre-order Grant's new book, which is due out in May, but be warned that I consider him a friend and an inspiration.
+
+Photo by Pop!Tech 2004. © All rights reserved.
+

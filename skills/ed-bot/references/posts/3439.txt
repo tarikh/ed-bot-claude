@@ -1,0 +1,27 @@
+---
+title: On Metadata: What You Can't See CAN Hurt You
+url: https://edbatista.com/2006/08/on_metadata_wha.html
+slug: on_metadata_wha
+published: 2006-08-31T14:21:22
+updated: 2025-09-24T11:59:46
+source_body: wordpress-html
+---
+
+I had a vivid reminder this morning that we're represented online not only by the data we can see--from blog posts to search results--but also (and increasingly) by metadata that we often can't see.  (And I also learned just how good customer service can be.)
+
+One of my favorite tools is Feedster, which describes itself as "the largest and richest archive of indexed feeds on the web."  (What's a feed?)  I use Feedster, Technorati and Ask.com's blogsearch service on a daily basis to keep up news from feeds on a variety of topics--including myself.
+
+Searching feeds for my name or for links to my site allows me to see who's commenting on or linking to my posts and to jump into the discussion if I want.  I can also just confirm that my posts are being picked up and indexed by these services so that other people can find them.
+
+Although I do like Feedster, I'd gotten a little lazy and hadn't run a vanity search on their service for a while.  So it was a little surprising to run one this morning and get the following:
+
+If you look carefully, you'll notice that at the bottom of each search result is a link to my feed, which has been given a somewhat lengthier and, ah, more colorful title than plain old "Ed Batista."  To each his own, of course, but that's not really how I want my feed to be described.
+
+I use FeedBurner to add a bunch of features to my feed, so I immediately took a look at my FeedBurner configurations.  Nothing there suggested that my feed should be titled anything but "Ed Batista."  I searched their forums for advice but didn't find anything applicable, so I used their contact form to ask for help directly--and just 34 minutes later I heard from Paul at FeedBurner.  Paul couldn't solve my problem, but he confirmed that it didn't appear to be on FeedBurner's end and suggested that I contact Feedster.
+
+After double-checking that my feed wasn't mistitled on any other feed search services, I went to Feedster's site and used their contact form to ask for help--and 19 minutes later I heard from Jeff at Feedster.  Success!  Apparently "certain fields were corrupted" at Feedster (whether inadvertantly or by someone with too much time on his hands, I don't know), resulting in the "inappropriate title" for my feed.  Feedster solved the problem, but they're still in the process of checking the millions of feeds they index to be sure that the metadata associated with each feed is correct.
+
+And happily, a search for "ed batista" on Feedster is now a little less...adventurous.
+
+Lessons learned?  Even free services like FeedBurner and Feedster can do customer service right, so there's really no reason to settle for anything less.  Kudos and thanks to both of them.  And I'm sure as hell going to run those vanity searches a little more often.
+

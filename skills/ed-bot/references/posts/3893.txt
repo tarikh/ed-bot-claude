@@ -1,0 +1,81 @@
+---
+title: Stop Trying to Be "Good Enough" by "Getting Better"
+url: https://edbatista.com/2016/12/stop-trying-to-be-good-enough-by-getting-better.html
+slug: stop-trying-to-be-good-enough-by-getting-better
+published: 2016-12-11T16:07:57
+updated: 2025-10-12T13:36:17
+source_body: wordpress-html
+---
+
+Some time ago I was talking with Erik Bengtsson, a former coaching client who I first met as an MBA student at Stanford in 2008, and he said something that stopped me short: Trying to be 'good enough' by 'getting better' just doesn't work.
+
+This strikes me as a powerful truth. When we feel that we're not "good enough"--not successful enough, not accomplished enough, not rich enough, not attractive enough, simply not enough--our efforts to break out of that state of mind by "getting better" are doomed to fail. Why? Three reasons: Hedonic Adaptation, Goal Pursuit, and Social Comparison.
+
+Hedonic Adaptation
+
+This is the psychological process by which we readily adapt to improved conditions--and promptly take those improvements for granted. As UC Riverside professor of psychology Sonja Lyubomirsky has written, "The more we attain, the happier we become. But, at the same time, the more we attain, the more we want, which negates the increased happiness." [1] To be sure, this process has its advantages--we also adapt surprisingly well to worsened conditions. But the challenge is that improvements in our circumstances--a better job, a promotion, a raise, a new home--shift our reference points, the standards by which we assess ourselves, our performance, and our experience of life. This isn't to say that we get no enjoyment or satisfaction from such improvements, but those feelings don't last as long as we think they will, and they're less fulfilling than we expect them to be.
+
+Goal Pursuit
+
+Goals can be powerful motivators, but their very power means that they can have unexpected consequences, including the ability to render an experience less fulfilling--which can ultimately serve as a powerful demotivator. [2] Building on research by Ayelet Fishbach and Jinhee Choi, Christian Jarrett warns, "Stay focused on your goals and you spoil your experience of the activities you'll need to pursue. In turn, that makes it far more likely that you'll drop out early and fail to achieve the very goals that you're so focused on." [3] And as Lyubomirsky notes, "The empirical evidence reveals that the critical factor in whether goal pursuit makes us happy lies in enjoying the journey and not in realizing the end-goal." [4] The problem in this context is that we generally view "getting better" as "not there yet"--so we fixate on the goal and our distance from it, rather than on the process and the most recent step we've taken.
+
+Social Comparison
+
+Human beings are deeply social creatures. As UCLA neuroscientist Matthew Lieberman has observed, we've evolved a reflexive predisposition to think about other people. [5] This impulse is so deeply rooted that neuroscientists speculate that thinking about others is our brains' default activity, the cognitive task we engage in most naturally when we're not otherwise occupied. As we habitually look around us to understand what others are doing--and how they're doing--we inevitably use this data to assess ourselves. Lyubomirsky adds that, "social comparisons arise naturally, automatically, and effortlessly [and have] a profound effect not only on our evaluations of ourselves, but [also] on our moods and our emotional well-being." [6] The issue, she continues, is that "comparisons to other people...are primarily responsible for our feelings of inadequacy and discontent." [7] So if we're comparing ourselves to a high-achieving cohort--a particular problem for my clients and my students at Stanford--focusing on "getting better" is a surefire way to never be "good enough," because there will always be someone who's accomplished more than we have.
+
+So what can we do? Manage our aspirations. This may sound like "settle for less," but that's not what I mean. Rather, there are some specific steps we can take to actively resist the psychological dynamics above:
+
+Cultivate Gratitude
+
+- We can reflect on the shortness of life and how lucky we are to be alive in the first place.
+
+- We can consider how much worse things could be and how good we have it.
+
+- We can focus on the present moment and resist regret (which pulls us into the past) and anxiety (which pulls us into the future).
+
+Set Goals Wisely
+
+- We can focus on micro-goals and celebrate small victories along the way.
+
+- We can adopt a growth mindset and learn from our inevitable failures.
+
+- We can recognize our incompetence as a temporary condition, and prioritize learning and growth, which are often non-linear processes.
+
+Live Our Values
+
+- We can manage our calendars (which show what we truly value) and our attention (our most precious resource) more effectively.
+
+- We can better understand our values, and, in turn, allow them to inform our vision for ourselves.
+
+- And we can heed the late author David Foster Wallace, who once said:
+
+If you worship money and things...then you will never have enough. Worship your own body and beauty and sexual allure and you will always feel ugly, and when time and age start showing, you will die a million deaths before they finally plant you. Worship power, you will end up feeling weak and afraid, and you will need ever more power over others to numb you to your own fear. Worship your intellect, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out...
+
+Our own present culture has harnessed these forces in ways that have yielded extraordinary wealth and comfort and personal freedom. This kind of freedom has much to recommend it. But of course there are all different kinds of freedom, and the kind that is most precious you will not hear much talked about in the great outside world of wanting and achieving and displaying. The really important kind of freedom involves attention, and awareness, and discipline, and effort, and being able truly to care about other people and to sacrifice for them, over and over, in myriad petty little unsexy ways, every day. That is real freedom. [8]
+
+This, I suggest, is how we ultimately come to be "good enough," even as we're continually striving to improve, and let go of the need to "get better."
+
+For more on these topics, see The Art of Self-Coaching, Class 8: Success.
+
+Thanks to Erik Bengtsson for the brilliant quote and the friendship.
+
+Footnotes
+
+[1] The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, page 120 (Sonja Lyubomirsky, 2014)
+
+[2] Babies, Bathwater and Goal-Setting
+
+[3] How Goals and Good Intentions Can Hold Us Back (Christian Jarrett, 99u, 2012)
+
+[4] The Myths of Happiness, page 136
+
+[5] Social: Why Our Brains Are Wired to Connect (Matthew Lieberman, 2013)
+
+[6] The Myths of Happiness, page 132
+
+[7] The Myths of Happiness, page 132
+
+[8] This Is Water (David Foster Wallace, 2005)
+
+Photo by Mason Masteka.
+

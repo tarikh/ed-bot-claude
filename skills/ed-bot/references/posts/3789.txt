@@ -1,0 +1,41 @@
+---
+title: Make More Skateboards
+url: https://edbatista.com/2014/03/make-more-skateboards.html
+slug: make-more-skateboards
+published: 2014-03-27T06:00:00
+updated: 2025-10-07T22:46:52
+source_body: wordpress-html
+---
+
+Founder, developer and Agile coach Henrik Kniberg created the image below to convey the optimal path to a Minimum Viable Product--or, as Kniberg prefers to call it, the Earliest Testable Product. [1] Kniberg apparently devised this framework during his time coaching and mentoring teams at Spotify. [2] The essence of Kniberg's approach is that we shouldn't seek to painstakingly craft the perfect product that must be fully assembled to function. Instead, we should iterate in stages, developing a functional but rudimentary product at first and improving it at each step along the way:
+
+As a result, Kniberg warns us: Don't set out to build a car. That process starts with a wheel, adds a chassis, then a body, and only then adds a windshield and controls that allow users to start traveling. Instead, he advises: Provide transport. That begins with a humble skateboard, and then progresses through a sequence of steps from a scooter to a bicycle to a motorcycle and then, finally, delivers a complete car.
+
+The point is that users don't have to wait until the car is perfected to begin their journey--they can jump on the skateboard and get going now. Just as important, developers don't have to wait until the process is over to get feedback from users on how they like the car--they can ask them how they like the skateboard now. Users won't necessarily appreciate this alternative approach, Kniberg cautions, but that shouldn't scare us off:
+
+The customer is unlikely to be happy with this. This is nowhere near the car he ordered. But that’s OK! Here’s the kicker: We’re not trying to make the customer happy at this point. We might make a few early adopters happy...but our main goal at this point is just to learn... You don’t need to test the product on all users, and you don’t need to build a product to test something. Testing a prototype on even a single user will teach you more than nothing...
+
+The top scenario (delivering a front tire) sucks because we keep delivering stuff that the customer can’t use at all. If you know what you’re doing--your product has very little complexity and risk, perhaps you’ve built that type of thing hundreds of times before--then go ahead and just do big bang. Build the thing and deliver it when done. However, most product development efforts I’ve seen are much too complex and risky for that, and the big bang approach all too often leads to huge expensive failures. So the key question is: What’s your skateboard?
+
+In product development, one of the first things you should do (after describing what problem you are trying to solve for whom) is to identify your skateboard-equivalent. Think of the skateboard as a metaphor for the smallest thing you can put in the hands of real users, and get real feedback. [3, emphasis original]
+
+I'm not a software developer (although I coach quite a few), but I think this concept is relevant to all of us no matter what we do. Whatever our actual goals, let's imagine that we're in the transportation business, like the figures in Kniberg's image. We can try to build the perfect vehicle from the outset--but it's going to take a long time to create value for anyone. Or we can create some type of MVP--or Earliest Testable Product--and share it with the world today. Stop building cars. Make more skateboards.
+
+Footnotes
+
+[1] Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable (Henrik Kniberg, 2016)
+
+[2] I first encountered this framework in a photo from a (since deleted) tweet by Fernando Blat, which may have been taken during a presentation by Kniberg in 2014:
+
+[3] Kniberg, 2016
+
+For Further Reading
+
+Don't Build a Castle, Put Up 1,000 Tents
+
+Coaching and The Cult of Done
+
+ 
+
+Photo by Michael Coghlan.
+

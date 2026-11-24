@@ -1,0 +1,67 @@
+---
+title: Karl Weick on Renewal
+url: https://edbatista.com/2018/03/karl-weick-on-renewal.html
+slug: karl-weick-on-renewal
+published: 2018-03-29T20:05:47
+updated: 2025-10-08T22:02:53
+source_body: wordpress-html
+---
+
+In my practice I typically see clients every few weeks over a period of years as they navigate a series of large-scale, long-term challenges. This inevitably entails accompanying them through periods of difficulty when their efforts have "stalled, turned sour, or become meaningless," to use a vivid phrase from Karl Weick's "How Projects Lose Meaning: The Dynamics of Renewal" [1]:
+
+Stated informally, the story of renewal starts when projects being to lose earlier sources of energy and meaning. The attendant feelings of ennui, melancholy, and concern may signify a need for reattachment to those earlier sources of energy... Stated more compactly and more formally, the story of renewal seems to be this. As earlier projects unravel and turn sour, there is the perception that activities are becoming less sensible... The feeling of disorder is reflected both in questions (for example, what's the story, why are we doing this, what's wrong) and in assertions (for example, I have no idea where I am, who I am, or what I am doing.) To reduce this disorder, people need to act in ways that reconstruct context, strengthen sensemaking, and restore attention. [2]
+
+Weick employs the term "project" in the broadest possible sense, up to and including professional roles and even lifelong career aspirations, and he notes that they lose meaning in three primary ways:
+
+1. An overarching vision that binds disparate elements together becomes fragmented, rendering the project less coherent or compelling.
+
+2. A loss of resources, such as social validation or a sense of personal identity, means that the project no longer makes sense in the way it once did. Weick writes, "The senseless story is not a compromised whole, but rather a byproduct of flawed sensemaking processes. The story will continue to be a puzzle until resources improve." [3]
+
+3. We come to view a project as a false dichotomy, as a success or a failure. As a consequence we become preoccupied with our perceptions of personal success or failure, turning our attention away from the reality of external events and losing touch with the richness and complexity of our lived experience, which inevitably involves both success and failure.
+
+The solution, Weick proposes, is to pursue renewal through reading, writing, goal-setting, and dialogue:
+
+Renewal Through Reading
+
+To pick up a book at the moment when a project is dying may seem like the ultimate act of escape and denial. It could be that. But it could be something more. When a project shudders, the temptation is to wade in and fiddle with some parts and tweak other ones. This temptation to meddle is antithetical to being still and listening and recapturing wholes. Reading forestalls direct meddling, quiets the chatter of logic, and redirects meddling into imagined worlds. Reading tends to stir up intuitive understanding, tacit knowing, and wisdom. It is hands-on renewal done vicariously through someone else's hands. [4]
+
+Renewal Through Writing
+
+Whenever my projects stall, I also write. I write free-associationally to see what related to what and what those relationships might mean. I write voluminously in the hope that I might generate some variation that will prove to be a more attractive whole, a more sensible starting point, or a more compelling outcropping for a languishing project. I write allegorically to capture small moments that may embody more vivid summaries of ongoing projects. I write continually to find better words and clearer ways to join them that improve the wisdom, sense, and relevance of projects. I write indiscriminately in order to stumble onto themes that would not normally show up given my frames of reference. I write respectfully to get hints of the tacit knowledge that might form part of the infrastructure of events. And I write passionately to discover the "voice" that I may bring to an issue, and what the resonance in that issue might be for me. [5]
+
+Renewal Through Goal-Setting
+
+The tactic here is straightforward, but it involves a reversal that may not be obvious. Normally we think of present activities as a means to attain some future goal... The whole notion of a project is permeated with the means-ends language of intentions, activities, and outcomes... One tactic to create renewal is to reverse the way you think about means and ends... [Fritz] Roethlisberger [a counselor at Harvard Business School in the 1960s] argues that people who are preoccupied with success ask the wrong question. They ask, "What is the secret of success?" when they should be asking, "What prevents me from learning here and now?" To be overly preoccupied with the future is to be inattentive toward the present where learning and growth takes place. To walk around asking, "Am I a success or a failure?" is a silly question in the sense that the closest you can come to an answer is to say that everyone is both a success and a failure.
+
+One way to renew an obsessive preoccupation with success is to alter the idea that the present is a means and the future is an end. The problem with this way of thinking is that, when the future comes, then it too becomes just another present that is yet another means to yet another future. To act as if the present is nothing until we achieve success is to take all meaning and significance out of the present... To avoid this fate one can treat the future as a means and the present as an end. Future goals are selected for their capability to create a meaningful and significant present, one in which growth, learning, zest, and a sense of adventure are commonplace...
+
+The present is not the means to a meaningful future. Instead, the future is the means to a meaningful present. That reversal is a tactic that slows unraveling and hastens re-raveling. [6]
+
+Renewal Through Dialogue
+
+Human relating is ground zero in renewal... Projects unravel for lots of reasons including ignorance, self-absorption, hubris, complacence, blind conformity, and distractions. It takes a partner, with a different set of lenses, to spot these lapses, to correct blind spots, and to make things new again.
+
+I can think of no more basic source of renewal than dialogue. [7]
+
+I'm reminded of how often I've employed these same tactics in my own efforts to deepen and restore a sense of meaning and purpose in my work. One of the joys of coaching is that there's always more to read. I began blogging regularly when I left my last role in management and--more than 1,000 posts later--it's clear that writing has been instrumental in my professional growth since then. My exploration of positive psychology and Stoicism has reinforced the importance of appreciating the present moment. And ongoing dialogues with my own coach and a host of treasured colleagues are indeed essential sources of renewal.
+
+Thanks to Bob Sutton for introducing me to "How Projects Lose Meaning."
+
+Footnotes
+
+[1] "How Projects Lose Meaning: The Dynamics of Renewal" (Karl Weick, Chapter 8 in Renewing Research Practice, edited by Ralph Stablein and Peter Frost, 2004)
+
+[2] Ibid, pages 185-186
+
+[3] Ibid. page 193
+
+[4] Ibid, pages 197-198
+
+[5] Ibid, page 198
+
+[6] Ibid, pages 199-202
+
+[7] Ibid, pages 202-203
+
+Photo by Olgierd Rudak.
+

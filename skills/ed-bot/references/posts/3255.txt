@@ -1,0 +1,23 @@
+---
+title: It's the Culture, Stupid
+url: https://edbatista.com/2005/08/its_the_culture.html
+slug: its_the_culture
+published: 2005-08-08T08:15:53
+updated: 2005-08-08T08:15:53
+source_body: wordpress-html
+---
+
+That's my reading of R. Todd Stephens recent post on the (in)effective implementation of collaborative applications such as corporate blogs:
+
+Failure [of these collaborative applications] will be related to the infrastructure. More specifically, the capacity and performance of the application will dictate the failure. Assuming the system selected has the basic business functions required, failure will occur when the system destroys the trust by not excelling in the operations and infrastructure areas. However, successful applications built over a solid infrastructure does not guarantee success. In fact, a solid infrastructure is only important when the need is not fulfilled.
+
+Success is much more related to the client support and the business community acceptance of the technology. Therefore success in collaboration is related to the training, engagement processes, branding, best practices, user manuals, communities of practice, communications, and providing customer service.
+
+So where does the vast majority of funding in this area go toward? You guessed it, the software, hardware, vendor relationships, capacity, etc. More importantly try to find a best practice document, vendor user guide, or a research firm review of the implementation of collaborative applications, you will find a rather large vacuum. Our community is obviously more concerned with collaborative failure than collaborative success.
+
+I see two overlapping failures that contribute to this massive vacuum Todd so rightly recognizes.  First, there's a general bias in favor of the tangible and the visible over the abstract.  People will devote much more time and energy weighing the pros and cons of various software packages than they will considering the organizational culture that will ultimately determine whether said software succeeds or fails.  Considering that an organization's culture is the full expression of its history, its leadership, and every dollar spent on personnel, and that even the most expensive technology is a trifling toy in comparison, this failure says a lot about our shortsightedness.
+
+Second, speaking specifically about blogging tools, these applications are so easy to implement and use that it's hard not to take a "Shoot first, ask questions later" approach.  The temptation to just get a blog up and running is understandable--everybody else is doing it, and management is breathing down our neck wondering why we're not, so let's just get going.  As a result, our understanding of these tools and their impact on an organization's culture lags far behind their actual use.  Todd's looking for a set of engagement processes, best practices, user manuals and communities of practice related to these tools.  I see some great resources growing organically, and I see some absolute garbage being hyped by get-rich-quick blogging "experts," but I don't really see what Todd's looking for, because I don't think it exists yet.  Now that gives me some ideas...
+
+organizational culture
+

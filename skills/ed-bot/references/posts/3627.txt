@@ -1,0 +1,83 @@
+---
+title: Leading is Lonely and Other Thoughts
+url: https://edbatista.com/2009/06/lonely.html
+slug: lonely
+published: 2009-06-19T23:39:00
+updated: 2025-09-24T11:59:41
+source_body: wordpress-html
+---
+
+I recently rediscovered these lines in a notebook from 2007: Leading is lonely. Information-gathering is not decision-making. Position power is not influence. When I wrote them I had just begun working with a number of prospective leaders among my students at Stanford, and I was reflecting on my own leadership experiences, particularly the period after graduation from business school. At that time I went from reporting to an organization's leader in my last job before school to being a leader on my own, reporting directly to a Board of Directors, and these three lessons stand out among the many I learned the hard way:
+
+Leading is Lonely
+
+Jan Masaoka, one of my founding Board members, warned me about the loneliness of leadership long before I actually felt it. If you're a leader at the head of an organization, by definition you don't have internal peers who share your perspective. Your Board of Directors isn't going to provide you with the developmental support you've enjoyed from previous mentors and managers--they're there to challenge you, not to nurture you. And your family is going to get tired of hearing about the challenges you face long before you get tired of talking about them. It's lonely. So establish and maintain a support network that'll be there for you when things get tough. Reach out to other leaders. Create a personal Board of Directors. [1] And do what I did and hire a coach.
+
+Information-Gathering is Not Decision-Making
+
+In my last job before business school one of my primary tasks was to gather information, analyze it and make recommendations to the organization's leader. When I became a leader myself I continued this practice without fully understanding that it was no longer sufficient to allow me to move the organization forward. The right answers to the questions I faced weren't going to emerge from the data, because there were no "right" answers. The important questions I faced as a leader were sufficiently complex that no amount of data would ever be enough--I needed to rely on A) my judgment and B) my ability to execute. But before I came to this realization I spent a lot of wasted time and effort amassing more and more data hoping that the "right" answer would emerge. Rather than getting trapped in an information-gathering sinkhole, test your ability to get just enough data to allow you to exercise your judgment, and then execute to insure that the decision you made was the right one. [2]
+
+Position Power is Not Influence
+
+The authority that comes with any leadership position always looks more substantial from the outside. Once in the role, you realize how little you can accomplish by relying on position power, and how dependent you are on your ability to influence key stakeholders. If I knew then what I know now about power and influence, no doubt I would have been a more effective leader. [3] But today I'd go even further and note that there's a wide range of influence strategies and the ones I tend to prefer aren't always the most effective in a given situation (and the ones I tend to avoid may be just what's called for.)
+
+ 
+
+Updated June 2024.
+
+Footnotes
+
+[1] A Board of Advisers--for Your Life (Marci Alboher interviewing Michael Melcher, The New York Times, March 5, 2008)
+
+[2] Stop Worrying About Making the Right Decision
+
+[3] I've learned much about power from my former Stanford colleague Jeff Pfeffer:
+
+- Power Play (Jeffrey Pfeffer, Harvard Business Review, 2007)
+
+- Power: Why Some People Have It and Others Don't (Jeffrey Pfeffer, 2010)
+
+Here's some of my work that incorporates Jeff's perspective:
+
+- Force Isn't Power
+
+- Cautionary Tales (Authenticity at Work)
+
+Psychologist David McClelland's "motivational needs theory" is also relevant in this context:
+
+- Power is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, 2003)
+
+Here are two posts of mine on the same topic:
+
+- Power Struggles Among Nice People
+
+- McClelland and Burnham on Power and Management
+
+Physician and organizational consultant Patricia Day Williams offers another useful perspective:
+
+- Self-Awareness, Empowerment and Choice [PDF] (Patricia Day Williams, Chapter 7.10 in NTL's Reading Book for Human Relations Training, 1999)
+
+And here's a post of mine that discusses Day Williams' work:
+
+- Interpersonal Power
+
+I continue to find the framework first developed in the 1970s by Arizona State psychologist Robert Cialdini the most compelling and useful way of thinking about influence:
+
+- Principles of Persuasion (Robert Cialdini)
+
+- Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+- Influence: The Psychology of Persuasion (Robert Cialdini, 2021, 3rd ed. / 1984, 1st ed.)
+
+- The Language of Persuasion (Robert Cialdini, Harvard Business Review, 2008)
+
+- The Uses (and Abuses) of Influence (Robert Cialdini, Harvard Business Review, 2013)
+
+Here Jerry Useem, the longtime Senior Editor-at-Large of Fortune and previously a Research Associate at HBS, draws on research by Pfeffer, Wharton's Adam Grant, and others--ignore the silly headline, which is just clickbait and doesn't accurately represent Useem's point of view:
+
+- Why It Pays to Be a Jerk (Jerry Useem, The Atlantic, 2015)
+
+ 
+
+Photo by different2une.
+

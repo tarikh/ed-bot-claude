@@ -1,0 +1,11 @@
+---
+title: Bay Bridge
+url: https://edbatista.com/2006/01/bay_bridge.html
+slug: bay_bridge
+published: 2006-01-28T18:44:51
+updated: 2006-01-28T18:44:51
+source_body: wordpress-html
+---
+
+Cold, rainy, dark, perfect.
+

@@ -1,0 +1,59 @@
+---
+title: Planting a Flag (Thoughts on Teaching Leadership at Stanford)
+url: https://edbatista.com/2014/07/planting-a-flag-thoughts-on-teaching-leadership-at-stanford.html
+slug: planting-a-flag-thoughts-on-teaching-leadership-at-stanford
+published: 2014-07-24T06:00:00
+updated: 2025-09-24T11:59:31
+source_body: wordpress-html
+---
+
+A recent conversation with my GSB colleague Collins Dobbs helped clarify my thoughts on how we teach leadership at Stanford and why, and it motivated me to lay out that philosophy more explicitly--to plant a flag, so to speak. I'm not speaking for the school, just for myself, and as an executive coach rather than a an academic researcher I have a distinct (and biased) perspective on management education. But I've been an Instructor and Leadership Coach at the GSB since January 2007, and my work with hundreds of MBAs in that time has both immersed me in the school's approach and convinced me that we're doing something right.
+
+1. Leadership can't be taught, but it can be learned.
+
+In 2007 Charlie Rose interviewed Bill George, the former CEO of Medtronic who's taught at Harvard Business School since 2004:
+
+Charlie Rose: [Leadership] can be taught and learned?
+
+Bill George: Learned. I teach now, and I don't think you can teach leadership, I think you can learn about it. I think you can learn about yourself. It comes from within, from who are you inside and what makes you tick, and what are those tapes playing in your head about what you want to be and what your limitations are.
+
+We don't come right out and say this anywhere at the GSB, but it's fundamentally embedded in our approach. We deliberately don't offer students a "guide to good leadership" or a set of "top tips from great leaders." Several years ago we did provide a "road map" in our Leadership Labs course but decided to scrap it because it threatened to turn into a document like this.
+
+This isn't to say that we don't have a point of view on leadership or that we don't teach specific skills that leaders use. We believe leadership can make a difference (although avoiding bad leaders may be more important than finding great ones.) And we do teach skills such as giving and receiving feedback.
+
+But for the most part we put our students in challenging situations, from role plays to exercises to team projects, and allow them to use these experiences to better understand themselves and their unique leadership abilities, strengths and weaknesses. Our students then decide for themselves why they want to lead, what kind of leader they want to be, how to maximize their current abilities, and what they can do to be more effective.
+
+2. Influence > positional power.
+
+Some of these challenging situations involve students assuming a differentiated authority role, but most don't. In part this is simply a matter of logistics--designating a "leader" means everyone else is a "follower," and with nearly 400 students in each MBA class it takes a lot of time and effort to give everyone a turn.
+
+But this also reflects a belief that everyone in an organization will be called upon to lead at various times, not just the people at the top of the org chart, as well as a recognition that much leadership in today's flatter orgs and more dynamic teams takes the form of leading one's superiors and peers, in addition to direct reports and subordinates.
+
+This isn't to say that we don't expect our students to take on formal leadership positions in which they will wield substantial amounts of positional power--of course we do. But even in those positions many, if not most, of our students will be operating in an environment in which simply giving orders will be counter-cultural, counter-productive and, quite possibly, career-limiting.
+
+As a result we put a great deal of emphasis on the process of influence, which involves critical reasoning as well as the less cognitive, more emotional processes of dealing with one's own feelings about power, building relationships, making people feel heard and understood, advocating a point of view and earning others' trust and commitment.
+
+An aspect of this dynamic is the use of coaching as a form of leadership. The GSB's Leadership Fellows, a select cohort of 68 second-year students who guide groups of first-years through the Leadership Labs course, are trained in coaching tools and techniques in order to ensure that their students feel both well-supported and free to make decisions for themselves without being directed by their Fellow. I work closely with the Fellows and am confident that this intensive program helps them become better leaders, but my hope is that this exposure to coaching as a methodology helps all of our alumni feel better prepared to coach their employees and lead through influence rather than simply relying on positional power.
+
+3. Leadership starts with self-awareness.
+
+So many factors undermine a leader's self-awareness: subordinates' reluctance to provide candid feedback, the disinhibition of power [PDF], even a distorted sense of time. The power and status that accompany leadership create a reality-distortion field that make it tempting for even the most self-effacing leader to believe that they really are as brilliant and gifted as everyone around them seems to think.
+
+Given these dynamics, our leadership development courses at the GSB put a premium on developing a sense of self-awareness. This comes through regular doses of candid interpersonal feedback, as well as a commitment to the practice of regular reflection. The feedback starts in our Leadership Labs course and continues in numerous other classes and programs, most notably Interpersonal Dynamics, aka Touchy Feely. Initially much of this feedback takes the form of well-intentioned but ineffective advice. Some of that advice sticks, much of it doesn't, but over time students learn through trial and error how to give feedback more likely to positively affect others' behavior. And even the poorly-delivered feedback provides a mirror in which students can see themselves through the eyes of their classmates, an experience that inevitably contains both welcome and unwelcome surprises.
+
+The practice of reflection is cultivated primarily by compelling students to write extensively about their lived experience. Almost all of the written work in the courses in which I'm involved takes the form of a "reflection journal" of some sort, in which students step back from their daily lives, surface and articulate their  thoughts and feelings, sift through the feedback they've received, apply various concepts and frameworks from lectures and readings, and integrate these components into a personal set of generalizable principles.
+
+I'm not suggesting that all students avail themselves fully of this opportunity to reflect--many do not, and I've read plenty of mediocre papers over the last eight years. But in my experience most students take this work seriously enough to get some value out of it--no surprise, in light of the research on journaling.
+
+I don't expect people to be as actively engaged in these processes after leaving business school and returning to the real world. But I know a number of alumni who've continued to journal in one form or another and who have regular (and very real) feedback conversations with classmates and colleagues. And in my ongoing discussions with alumni and in my private coaching practice with senior leaders, it's readily apparent that the ability to step outside ourselves--to assess, appreciate and eventually understand ourselves more fully--is a critical leadership capability.
+
+What's next?
+
+While we're doing good work at the GSB, we can always do more. My personal area of focus at the moment has grown out of my work with senior leaders, which has convinced me of the importance of what we might call self-coaching. I use this broad term to encompass such topics as managing our emotions and finding healthy ways to relieve stress; directing our focused attention most productively; motivating ourselves; caring for ourselves physically, emotionally and mentally; and ultimately, feeling compassion toward ourselves and accepting ourselves, even as we're striving to improve.
+
+I don't know anyone who's mastered all these skills, but the most effective leaders I've worked with recognize their importance and devote meaningful amounts of effort and energy to getting better at them. And while I certainly don't have the answers, I'll have an opportunity to teach a new course next year called The Art of Self-Coaching, in which I hope to ask some useful questions.
+
+Many thanks to my GSB colleagues Andrea Corney, Carole Robin, Collins Dobbs, Gary Dexter, Hugh Keelan, John Cronkite, Lara Tiedens, Paul Mattish, Richard Francisco, Ricki Frankel, Scott Bristol, Shannon Birk Jibaja and Yifat Sharabi-Levine, who put in countless hours throughout the year making everything I describe above possible.
+
+Photo by David. Yay Flickr and Creative Commons.
+

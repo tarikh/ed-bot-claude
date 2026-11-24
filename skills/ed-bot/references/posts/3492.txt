@@ -1,0 +1,35 @@
+---
+title: David Bradford on Teams, Families and Privacy
+url: https://edbatista.com/2006/10/david_bradford_.html
+slug: david_bradford_
+published: 2006-10-07T09:55:02
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+What does it mean to be a member of a team? And what does "privacy" mean in that context?
+
+Yesterday in High Performance Leadership at Stanford the class was discussing a role-playing video in which a manager inadvertently humiliated a subordinate in a team meeting. [1] Several class members felt that the manager should have had a separate, "private" meeting with the subordinate to address their differences before the "public" meeting with the rest of the team.
+
+David asked, "But what does 'private' mean?" before initiating a discussion about teams and the nature of privacy. I don't remember it verbatim, but I'll do my best to paraphrase him:
+
+We're often told that managers should "Praise in public and punish in private." That's well and good. But think about this: When you did something wrong as a child while your siblings were present, and your parents needed to discuss it with you or discipline you, did they send your siblings out of the room? Probably not.  What about when your friends were present? Did your parents wait until your friends were gone to talk to you or discipline you? Most likely, yes.
+
+That illustrates one of the definitions of family--many, if not most, discussions can be held with everyone present while retaining a sense of "privacy." I'd suggest that high-functioning teams need to have a similar definition of membership--everyone's in the family, so to speak, and difficult discussions can be held with everyone present.
+
+David wasn't suggesting that there's never a time for a team leader to have a one-on-one discussion with a fellow team member. He's also well aware that it's hard to build a team so cohesive that "public" meetings feel "private," and that it requires highly developed communication skills (and a commitment to use them) to actually have difficult discussions involving every team member. [2]
+
+Footnotes
+
+[1] High Performance Leadership at Stanford Business School
+
+[2] Further resources on team dynamics and feedback:
+
+- Building a Feedback-Rich Culture
+
+- Make Getting Feedback Less Stressful
+
+- How Leaders Create Safety and Danger
+
+Edited January 2020.
+

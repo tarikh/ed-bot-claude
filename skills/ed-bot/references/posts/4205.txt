@@ -1,0 +1,105 @@
+---
+title: Fear of the Empty Chair, Part 1 (On Terminations)
+url: https://edbatista.com/2023/08/fear-of-the-empty-chair.html
+slug: fear-of-the-empty-chair
+published: 2023-08-23T15:41:51
+updated: 2026-08-14T16:42:19
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader who's been delaying a hard decision. [1] This can be particularly challenging when it involves terminating an employee. Sometimes this reluctance is well-founded, but my clients often look back on these scenarios and wish they'd been more decisive and less hesitant. [2] Instead, they were held back by a set of concerns that in hindsight don't seem to justify their prior inaction. What's behind this "fear of the empty chair"? And if you're a leader in similar circumstances, what can you do about it?
+
+Self-Doubt
+
+Some of my clients are relatively new to leadership roles, and they don't fully trust their intuition. Termination decisions should not be made purely (or even primarily) on an intuitive basis, nor is our intuition is always accurate. [3] But few difficult decisions are made on the basis of objective data alone--when the data is that clear, the decision is easy. In termination decisions there's always some data--the missed quarter, the botched project, the critical feedback--and it's the leader's responsibility to interpret that data and determine its significance.
+
+This involves a degree of intuition, but it's not some sort of mystical process. Economist and psychologist Herbert Simon offers a straightforward definition: "The situation has provided a cue; this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition." [4] If you're wrestling with self-doubt, the first step is creating an environment that's free from distractions, so you can tune into your intuition more accurately. [5] The key over time will be tracking your decisions to assess when your intuition pays off and when it's subject to cognitive biases that lead you astray. [6]
+
+Guilt
+
+Alternatively, a leader may be clear that termination is the right decision, but they're held back by feelings of guilt. They may have hired the employee, and even offered inducements to convince them to accept the role. The employee may be a friend, family member, or classmate, and termination may damage or end the personal relationship. Or the leader may feel that they've let the employee down by failing to provide appropriate resources or guidance.
+
+Guilt is a powerful motivator of prosocial behavior, in large part because we go to great lengths to avoid the actions that induce this unpleasant feeling. [7] But we may also fail to take necessary actions to prevent the feeling from arising in the first place. If guilt is holding you back from following through on what you believe to be the right course of action, the key is emotion regulation. This doesn't mean suppressing those feelings, as I've noted before:
+
+Suppression is essentially an act of make-believe--we pretend we're not feeling what we're feeling and hope to distract ourselves until the feeling passes... In contrast, emotion regulation involves improving our ability to sense, comprehend, articulate and express what we're feeling, and we develop those skills by getting closer to our emotions, not by distancing ourselves from them. [8]
+
+Once you've determined how to prevent guilt from serving as an obstacle, there's still a valuable learning opportunity here for you: If you hired this person, what red flags did you miss or discount? If you have (or had) a relationship with them outside of work, how will you balance your personal and professional relationships in the future? If you failed to provide necessary resources or guidance, how will you alter your approach to management?
+
+Obstinacy
+
+Leaders are often persistent, and that's generally an admirable quality--but at some point a capacity to endure difficulties becomes irrational obstinacy. One way to prevent this is to recognize and write off sunk costs. An under-performing employee usually represents a substantial sum of time, effort and money. Meaningful amounts of these resources were expended to source a pool of candidates, identify the best prospects, select and close one, and onboard them. And the longer they've been in the role, the more resources that have been directed toward their training and management.
+
+Tallying up these resources often fuels a hope that they can be recovered through improved performance and long-term retention. But it's essential to view such expended resources not as investments that may yield a return, but as sunk costs, a concept explored by professors of management Jeffery McMullen and Alexander Kier in their research on why entrepreneurs persist in striving toward goals when the rational choice is to quit:
+
+An uncompleted goal prevents production costs from being treated as sunk because they are mentally categorized as investments rather than expenses until evidence overwhelmingly disconfirms the likelihood that they will produce the expected return... Sunk costs and time invested are costs of abandonment that grow from delay, further increasing the desirability of outcome attainment for decision makers who do not want to appear wasteful. [9]
+
+If you find yourself resisting an otherwise rational decision to terminate an employee, consider the extent to which you remain hopeful that the resources expended over the course of their employment might somehow be recovered. Now write down the value of those resources to zero, and take a fresh look at the situation. Rather than asking yourself how those resources could be recovered, ask yourself whether you should continue trying.
+
+Optics
+
+Perceptions matter, particularly for a growing company that may be facing a great deal of uncertainty. In this context leaders must attend closely to the narratives that surround the company and actively shape them through storytelling, as I've written before:
+
+Why is [storytelling] such an important aspect of leadership? Because reality is socially constructed, and the vehicle for that process is narrative. There are few ground truths in social structures, organizational life, or interpersonal experience. Once we get beyond the realm of physics, the "truth" is what we believe to be true, and when enough people, or the right people, profess their belief in a given narrative its influence is as irresistible as gravity. The converse also holds, of course: when enough people, or the right people, withdraw their belief in a given narrative, it has no influence at all. [10]
+
+The departure of an employee contributes to a company's narrative and may well be perceived negatively, particularly if they're a senior executive or have strong relationships with other employees or external stakeholders. This is one reason why terminations should be handled in a way that affords the affected employee as much grace and dignity as possible, maximizing the possibility that the leader and employee can agree on a shared public narrative that explains their departure. This narrative will undoubtedly be simplified--public discourse doesn't afford much room for nuance or complexity. But this isn't always possible, even when both parties make a good-faith effort.
+
+In such cases leaders often overemphasize the risk of bad publicity resulting from a termination and resist taking needed action. But in my experience people are increasingly skeptical about such claims, recognizing that adverse publicity about a company in the media or on review websites represents the subjective viewpoint of the claimant, not objective truth. Further, leaders often discount the possibility that the narrative attached to an unwilling departure may be a net positive for the company, signalling a commitment to high performance or accountability for professional behavior.
+
+If you're a leader who's reluctant to pursue a necessary termination because of concerns over optics, first consider how you might reach agreement with the employee on a shared public narrative. This shouldn't be false or misleading, but it will leave out certain details and focus on others in order to serve both parties' interests. This is why departing executives so often profess a desire to "spend more time with the family"--this is never the whole truth, but it is almost always true.
+
+If agreement on a shared public narrative proves impossible, consider how you might judiciously communicate with your stakeholders. To be clear, in almost all cases you should not make public details regarding the employee's performance or behavior in order to justify your decision. This will generally be perceived as a violation of privacy and undermine trust in you and the company. But in some cases you can comment on general standards of performance or behavior, without sharing any details related to this particular situation. Or you may have an opportunity to simultaneously announce other, happier departures with a degree of fanfare, while electing not to comment on the termination. Silence is also a form of communication. [11]
+
+Short-Term Pain vs. Long-Term Pain
+
+An element in all of these rationales is the belief that the short-term pain will be greater than the long-term pain. Sometimes the leader doesn't even acknowledge the possibility of long-term pain--they imagine that an under-performing employee can be retained indefinitely without causing irreparable damage. More typically, the leader is aware that allowing an under-performing employee to continue in their role will cause long-term pain, but they resist taking action because the short-term pain of a termination seems so much more evident and troublesome.
+
+Moving forward with a termination will compel the leader to overcome any lingering self-doubt and trust their intuition. It will require a confrontation with any feelings of guilt and taking responsibility for their contributions to the situation. It will entail admitting the futility of recovering all resources expended on the employee's behalf and writing them off as sunk costs. It will be necessary to struggle to craft a shared public narrative, or to run the risk of adverse publicity if this proves impossible. All of this work will be painful.
+
+In many cases leaders are also concerned about a gap in continuity, which will generate even more short-term pain. The terminated employee's duties will have to be delegated, and it may fall to the leader to take them on. Or this may simply not be possible, causing pain for customers or other stakeholders. Shortening or eliminating the gap in continuity will require an expedited search for a replacement, which is often arduous work under the best of circumstances. There will be no shortage of pain.
+
+But what gets left out of this equation is the possibility that the long-term pain might outweigh the short-term pain, and perhaps by a substantial margin. An under-performing employee can take a toll on everyone around them, not just their manager, and left unchecked this can cause very painful problems. The employee's poor performance or unprofessional behavior is rarely evident only to the leader, and the leader's inaction will be noted and raise questions. The best employees may choose to leave, while others may lower their own standards of performance. And as education experts Steve Greunert and Todd Whitaker have noted, "The culture of any organization is shaped by the worst behavior the leader is willing to tolerate." [12]
+
+In encouraging you to weigh the risk of long-term pain more carefully and perhaps overcome your reluctance to move forward, please note I'm not suggesting you act rashly or terminate an employee over a trivial offense or a single setback. Very few mistakes are truly fatal, and the ability to grow and learn from failure is a vitally important quality to cultivate in organizational life. [13] But it's also worth considering that your under-performing employee is also suffering, and allowing them to remain in the role is not merciful, but cruel. As the great management thinker Peter Drucker once wrote, "I have never seen anyone in a job for which he was inadequate who was not slowly being destroyed by the pressure and the strains, and who did not secretly pray for deliverance." [14]
+
+This is a companion piece to the following:
+
+Merciful Exits (On Under-Performing Executives)
+
+On Firing a Senior Team Member
+
+Fear of the Empty Chair, Part 2 (On Hiring)
+
+Fear of the Empty Chair, Part 3 (On Attrition)
+
+Footnotes
+
+[1] Kicking the Can Down the Road (On Hard Decisions)
+
+[2] Don't Wait
+
+[3] For more on intuition, see Strategic decisions: When can you trust your gut? (Interview with Daniel Kahneman and Gary Klein, McKinsey Quarterly, 2010)
+
+[4] What is an "Explanation" of Behavior? (Herbert Simon, Psychological Science, 1992)
+
+[5] How to Think (More on Open Space and Deep Work)
+
+[6] For more on decision tracking, see Creating a Decision Journal (Shane Parrish, Farnam Street, 2014) and Decision Journal (Shane Parrish). For more on cognitive biases, see When Heuristics Go Bad (On Cognitive Biases).
+
+[7] For more on the value of guilt, see Guilt and Helping (Christian Miller, 2010) and Avoiding and Alleviating Guilt Through Prosocial Behavior (Mica Estrada-Hollenbeck and Todd Heatherton, Chapter 20 in Guilt and Children, 1998).
+
+[8] The Tyranny of Feelings
+
+[9] Trapped by the Entrepreneurial Mindset: Opportunity Seeking and the Escalation of Commitment in the Mount Everest Disaster, page 679 (Jeffery McMullen and Alexander Kier, Journal of Business Venturing, 2016)
+
+[10] The Importance of Shared Narrative
+
+[11] "No matter how one may try, one cannot not communicate. Activity or inactivity, words or silence all have message value... The mere absence of talking or of taking notice of each other is no exception to what has just been asserted." (Paul Watzlawick et al, Pragmatics of Human Communication, page 49, 1967)
+
+[12] School Culture Rewired: How to Define, Assess, and Transform It, page 36 (Steve Gruenert and Todd Whitaker, 2015)
+
+[13] The Ruling Out of Possibilities (On Failure)
+
+[14] The Effective Executive, page 89 (Peter Drucker, 1966)
+
+Photo by Votchitsev Viacheslav.
+

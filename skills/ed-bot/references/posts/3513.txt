@@ -1,0 +1,45 @@
+---
+title: When Heuristics Go Bad (On Cognitive Biases)
+url: https://edbatista.com/2007/02/when_heuristics.html
+slug: when_heuristics
+published: 2007-02-04T22:33:05
+updated: 2025-09-24T11:59:45
+source_body: wordpress-html
+---
+
+Cognitive Bias Codex by Buster Benson, designed by John Manoogian III.
+
+Much of our problem-solving behavior relies on heuristics, conceptual rules of thumb that allow us to sift through information quickly and find a likely answer to a question more efficiently. We couldn't function without heuristics, but they're prone to biases which regularly lead us astray. Writing in The New Yorker, Jerome Groopman discusses heuristics and related biases that affect physicians--and which clearly affect the rest of us as well:
+
+Representativeness Bias. Groopman writes, "Doctors make [representative] errors when their thinking is overly influenced by what is typically true; they fail to consider possibilities that contradict their mental templates of a disease, and thus attribute symptoms to the wrong cause." Pat Croskerry, a physician who's written "Achieving Quality in Clinical Decision Making" as well as "The Theory and Practice of Clinical Decision Making," told Groopman, "You have to be prepared in your mind for the atypical."
+
+Availability Bias, which Groopman defines as "the tendency to judge the likelihood of an event by the ease with which relevant examples come to mind." He continues, "[A] businessman may estimate the likelihood that a given venture could fail by recalling difficulties that his associates had encountered in the marketplace, rather than by relying on all the data available to him about the venture; the experiences most familiar to him can bias his assessment of the chances for success... (Psychologists call this kind of cognitive cherry-picking 'confirmation bias': confirming what you expect to find by selectively accepting or ignoring information.)"
+
+Affective Errors. Groopman relates how he once failed to thoroughly examine a patient whom he felt warmly toward in order to minimize the patient's discomfort and possibly because, "I hoped unconsciously that the cause of his fever was trivial and that I would not find evidence of an infection on his body." Groopman continues, "This tendency to make decisions based on what we wish were true is what Croskerry calls an 'affective error.'"
+
+Groopman concludes,
+
+As...cognitive psychologists have shown, when people are confronted with uncertainty...they are susceptible to unconscious emotions and personal biases, and are more likely to make cognitive errors. Croskerry believes that the first step toward incorporating an awareness of heuristics and their liabilities into medical practice is to recognize that how doctors think can affect their success as much as how much they know, or how much experience they have. "Currently, in medical training, we fail to recognize the importance of critical thinking and critical reasoning," Croskerry told me. "The implicit assumption in medicine is that we know how to think. But we don’t."
+
+Groopman's article focuses on the role played by heuristics in medicine, but his thesis is applicable in any field of endeavor; Croskerry could have said, "The implicit assumption in life is that we know how to think. But we don't." We could all stand to "incorporate an awareness of heuristics and their liabilities into our practice," no matter what business we're in.
+
+For Further Reading
+
+Pat Croskerry on Successful Decision-Making
+
+Cognitive Bias Cheat Sheet (Buster Benson)
+
+Cognitive Bias Codex (Designed by John Manoogian III using Benson's framework)
+
+- Large format paper version (Design Hacks)
+
+Wikipedia's list of psychological heuristics
+
+Strategic decisions: When can you trust your gut? (Interview with Daniel Kahneman and Gary Klein)
+
+Conditions for Intuitive Expertise (Daniel Kahneman and Gary Klein)
+
+Thanks to Roberto Fernandez, whose outstanding class on Organizational Behavior at the Stanford Graduate School of Business first introduced me to heuristics and who impressed upon me the importance of recognizing that our minds play tricks on us in sadly predictable ways.
+
+Updated July 2018.
+

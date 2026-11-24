@@ -1,0 +1,103 @@
+---
+title: Fear of the Empty Chair, Part 3 (On Attrition)
+url: https://edbatista.com/2023/10/fear-of-the-empty-chair-part-3-on-attrition.html
+slug: fear-of-the-empty-chair-part-3-on-attrition
+published: 2023-10-08T19:37:17
+updated: 2025-09-24T11:58:00
+source_body: wordpress-html
+---
+
+In Fear of the Empty Chair, Part 1, I discuss the factors that cause leaders to mistakenly delay a necessary termination. In Part 2 I explore why leaders rush to fill an empty role when they should actually slow down. Here I address a third, related situation in which a leader's misplaced concerns can contribute to suboptimal outcomes: the unwanted departure of a valued employee, which I'll call attrition.
+
+Leaders strive to avoid attrition for understandable reasons. Valued employees represent a substantial investment of time and effort, ranging from recruiting and hiring to onboarding, training, and management. They possess hard-earned institutional knowledge. And they've demonstrated their trustworthiness and sound judgment.
+
+So a theme in my practice is how a leader can retain valued employees in order to ensure that the organization will continue to benefit from these qualities. But such retention efforts can go awry when a leader is so concerned about a potential departure that they make choices they later regret. What issues tend to arise in these circumstances, and if you're in a similar situation, what can you do about them?
+
+Fighting Inflation
+
+When a leader learns that a valued employee is thinking about leaving, they may feel that they're in a negotiation that they must win, and their response is to offer more: a bigger compensation package, a higher-status title, a broader scope of responsibilities.
+
+In many cases these negotiations conclude successfully, and leader and employee resume their productive partnership, albeit on modified terms. But sometimes that "must-win" attitude causes a leader to offer too much. They retain the employee, but on inflated terms: a compensation package dramatically higher than the employee could command elsewhere, a title that outstrips their real level of expertise or authority, responsibilities that they're unable to truly fulfill.
+
+If you're a leader in this position, what can you do? How can you fight inflation? The first step is assessing your attitude toward the negotiation. Roger Fisher and William Ury, founders of the Harvard Program on Negotiation, suggest an approach to ensure that you don't "win" a negotiation on inflated terms:
+
+The reason you negotiate is to produce something better than the results you can obtain without negotiating. What are those results? What is your BATNA--your Best Alternative to a Negotiated Agreement? That is the standard against which any proposed agreement should be measured. This is the only standard which can protect you both from accepting terms that are too unfavorable and from rejecting terms it would be in your interest to accept... If you have not thought carefully about what you will do if you fail to reach an agreement, you are negotiating with your eyes closed. [1]
+
+When you take a "must-win" approach, you assume that you have no BATNA, increasing the likelihood that you'll retain your employee on inflated terms. You'll "win" today but may well lose in the long run. I'm not suggesting that you make no effort to retain a valued employee, but, rather, that you reassess your options and calibrate the terms on offer accordingly. You may well find that what your employee really wants are other "currencies" that are less subject to inflation. [2]
+
+Short-Term Pain vs. Long-Term Pain
+
+As was the case in Part 1 and Part 2 of this series, a challenge leaders face when they learn that a valued employee is considering a transition is the assumption that the short-term pain will be greater than the long-term pain. This belief is at the root of a leader's assumption that they have no BATNA and must avoid attrition at all costs, so it's necessary to challenge its accuracy.
+
+Seeing a valued employee leave will undoubtedly cause short-term pain in a variety of ways: the loss of their individual capabilities, a potentially expensive and time-consuming search, the prospect of a gap in continuity, and important work going undone. But leaders sometimes fail to appreciate that their efforts to avoid short-term pain may make the long-term pain even worse.
+
+Retaining an employee on inflated terms can have far-reaching effects. Compensation packages don't always remain confidential, and when significant discrepancies come to light other employees will be rightfully upset. Titles are by definition visible, and raising one person's status can make others feel that they've been demoted, triggering a cascade of discontent. [3] And employees who are "over-scoped" tend to under-perform, making it necessary to level them [4] or manage them out. [5]
+
+If you're a leader facing the departure of a valued employee, balance the value of their retention against the costs of the means required to do so. And some of these costs may not be evident for a length of time, requiring you to project into the future and think well beyond this specific individual.
+
+Irreplaceable?
+
+The anxiety leaders experience in the face of attrition is exacerbated when they imagine that the employee is "irreplaceable" in some way, and on occasion this fear has merit. I've worked with many leaders whose valued employees included co-founders, personal friends, or family members. Those unique individuals couldn't be replaced, nor could the unique relationships the leader enjoyed with them. Leaders may also view an employee as truly mission-critical, fearing that their departure would permanently impair company performance or even, in extreme cases, cause it to fail.
+
+If you're a leader facing the departure of someone you're close with, I appreciate your desire to avoid the loss of that person and your working relationship with them. And yet in my experience it's vital that a leader grow more comfortable with the inevitability of such departures. You can't replace unique individuals, but accepting that colleagues will come and go over time allows both you and the organization to be more adaptable in the face of change.
+
+More generally, if you're concerned about company performance I'm not in a position to tell you that your anxiety is misplaced. It's conceivable that a particular employee is so essential to your business that you'll struggle to succeed without them, especially if you're at a very early stage of development. Should they depart, there will be some short-term pain, to be sure. But I launched my coaching practice in 2006, and I've never seen a company fail because of the departure of any one individual. I've concluded that organizations are often far more resilient than leaders think they are.
+
+Optics
+
+Even when leaders recognize that a valued employee isn't irreplaceable, they may be concerned about how a departure will be perceived by fellow employees, customers, investors, and other stakeholders. Leaders are right to pay close attention to the potential optics, as I wrote in Part 1 of this series, on terminations:
+
+Perceptions matter, particularly for a growing company that may be facing a great deal of uncertainty. In this context leaders must attend closely to the narratives that surround the company and actively shape them through storytelling... The departure of an employee contributes to a company's narrative and may well be perceived negatively, particularly if they're a senior executive or have strong relationships with other employees or external stakeholders.
+
+This is even more pertinent with attrition, and an unwanted departure may well raise questions about the company's future prospects and your capabilities as a leader. But the solution may not be to induce the person to stay--again, the costs may outweigh the benefits. As with terminations, the key is agreeing upon a shared public narrative that helps others make sense of this potentially troubling development, and this is generally easier to accomplish in the case of attrition.
+
+The narrative shouldn't be false or misleading, but it will focus on certain reasons for the employee's departure at the expense of others. This allows the narrative to serve both parties' purposes, but it's also a function of the fact that all public discourse has a limited capacity for nuance and complexity. A shared public narrative must be true, but it need not encompass the whole truth.
+
+The Risk of Changing Minds
+
+Optimally a leader has some awareness that a valued employee is considering a transition, enabling them to intervene before any decisive commitments have been made. But sometimes a leader is completely surprised by an employee's sudden resignation or announcement of a new position. This may prompt a frantic effort to undo what's been done.
+
+Not only is this likely to yield inflated terms, but there's also an inherent risk in trying to change someone's mind here. The employee was reluctant to be candid with the leader, or the leader was oblivious to the employee's discontent, or both. Reversing course won't necessarily change the circumstances that led to this outcome. I'm not suggesting that you should never try to talk someone out of leaving if they've tendered their resignation or accepted another role, but you should be circumspect about the possibility that it might happen again.
+
+When a departure is unavoidable, the leader may seek to negotiate a lengthy transition. This can offer some benefits, but it will also come at a cost. Even a well-meaning employee will find it difficult to give best effort beyond a reasonable length of time, and people underestimate how quickly and dramatically motivation and power dynamics can change once an impeding departure has been made public. If you're a leader in this situation take care not to pressure a departing employee to agree to a transition period that's too long.
+
+An Ounce of Prevention...
+
+...is worth a pound of cure, as an astute letter-writer observed in one of Benjamin Franklin's newspapers. [6] Similarly, while efforts to "cure" unwanted departures can be quite expensive and even counter-productive, efforts to prevent them in the first place are generally much more economical. What does this look like in practice?
+
+At the individual level, as a leader you should know the extent to which each of your direct reports are satisfied with their responsibilities, their compensation, and all other aspects of their role. Barring a sudden, unexpected change in an employee's life that may impact their feelings about work, if you're surprised to learn that a direct report is "loose in the socket," that's a managerial failure.
+
+This is one reason not to have too many reports--while some employees will openly express dissatisfaction, many will not, and the leader needs to create the conditions for a more candid dialogue and actively inquire about an employee's fulfillment (or lack thereof.) The best means to accomplish this is holding regular one-on-ones that go beyond a tactical agenda and make sufficient room for an employee's concerns. [7]
+
+At the team level, you should have a contingency plan for the potential departure of any given member. This involves maintaining a network of potential candidates, relationships with search firms, and an up-to-date assessment of skip-levels' capacity to replace their manager on an interim or permanent basis. And at the organizational level, a more strategic approach to People leadership can help a company increase retention, raise awareness of impending departures, and be better prepared to replace outgoing employees. [8] You should certainly strive to retain valued employees, but you need not live in fear of the empty chair.
+
+ 
+
+This is a companion piece to the following:
+
+Fear of the Empty Chair, Part 1 (On Terminations)
+
+Fear of the Empty Chair, Part 2 (On Hiring)
+
+Footnotes
+
+[1] Getting to Yes: Negotiating Agreement Without Giving In, page 100 (Roger Fisher and William Ury, 1992)
+
+[2] Currencies (On Motivating Different People)
+
+[3] Very Cheap, Then Very Expensive (On Job Titles)
+
+[4] The Fine Art of Levelling
+
+[5] Merciful Exits (On Under-Performing Executives)
+
+[6] On Protection of Towns from Fire (The Pennsylvania Gazette, published by Benjamin Franklin, 1735)
+
+[7] How to Have Better One-on-Ones
+
+[8] The Truly Strategic People Leader
+
+ 
+
+Photo by Votchitsev Viacheslav.
+

@@ -1,0 +1,65 @@
+---
+title: The Six Layers of Knowledge and Better Conversations
+url: https://edbatista.com/2016/05/the-six-layers-of-knowledge-and-better-conversations.html
+slug: the-six-layers-of-knowledge-and-better-conversations
+published: 2016-05-09T09:08:34
+updated: 2025-10-12T14:34:21
+source_body: wordpress-html
+---
+
+When we're leading and coaching, how can we help others surface more useful information? How can we make those conversations more effective?
+
+Grant McCracken is an anthropologist who works at the intersection of culture and commerce, and I've found inspiration in his work many times before. [1] In a recent article Grant discusses the "six layers of knowledge" that can be uncovered in an ethnographic interview, a framework that can be applied to any conversation in which a questioner (such as a leader or coach) is seeking to help another person (such as an employee or client) identify and clarify what they know [2]:
+
+The Six Layers of Knowledge
+
+- What the other person knows and can offer easily.
+
+- What the other person knows and can report with prompting.
+
+- What the other person does not know they know but can reveal with prompting.
+
+- What the other person does not know, cannot report, and cannot reveal, but the questioner can gather from one conversation.
+
+- What the other person does not know, cannot report, and cannot reveal, but the questioner can gather from multiple conversations.
+
+- What the other person does not know, cannot report, and cannot reveal, and the questioner cannot gather without recourse to data and understanding from beyond the relationship.
+
+McCracken notes, "The ethnographer is a spelunker [a cave explorer], and it is especially on levels 4, 5, and 6 that...value will be revealed." So as leaders and coaches, how might we leverage this framework to access those deeper layers of knowledge?
+
+First, is the other person "offering easily" what they know? If not, they may not feel sufficiently comfortable to share, so we need to deepen the relationship by building trust [3] and establishing safety. [4] This can be done very economically--a few minutes of small talk at the outset of a conversation can allow us to get to deeper levels of communication much more rapidly. [5]
+
+Do our questions and prompts yield increasingly useful information? Do they yield information that was not readily apparent to the other person? If not, we need to ask better questions, which starts with avoiding simple Yes/No queries that tend not to advance the dialogue, and train ourselves to ask more open-ended questions instead. [6] I began my career after undergrad as a journalist, and I quickly learned that complex questions designed to show off how much I knew yielded very little in the way of useful information--it was far more valuable to ask simple, naive questions that encouraged the other person to show off how much they knew. So bear in mind that a "better question" isn't necessarily a "smart question."
+
+Similarly, it's important to be slow to introduce information from our perspective. As longtime MIT professor Edgar Schein has noted, efforts to be helpful are most effective when we start with "pure inquiry" before asking presumptive questions that focus the other person's attention on specific aspects of their responses or challenge their narrative with alternative interpretations of events. [7] We need not withhold this information indefinitely, but slowing down our impulse to direct the conversation and add our perspective leaves more room for the other person to think creatively.
+
+Next, what data are we gathering from each conversation? The essential point here is insuring that we don't prioritize data-gathering over being fully present with the other person--excessive note-taking can easily become a distraction to both parties. In my practice I typically take minimal notes during a coaching session (or, many times, no notes at all), but I'm careful to allot time afterward to reflect on the conversation and extract key conclusions. I often conduct an initial version of this meaning-making process with the other person, asking them what they're taking away from the conversation, to insure that they begin and then repeat the process again, making some further notes on my own.
+
+This process requires a commitment to leave time for reflection--with the other person at the conclusion of the conversation, in between events on our calendar, or at the end of the day. This need not be extensive--sometimes five minutes is sufficient, and even 30 seconds can make a difference--but when we rush from one event and plunge headlong into the next without any time for reflection in between, we miss out on immense amounts of learning. [8]
+
+And how are we making use of this data over time? How are we tracking learning and progress across multiple conversations? Here again, it's important to maintain a balance. By providing some continuity for the other person from one conversation to the next, we can build upon past lessons and strengthen the relationship by insuring that the other person feels more fully known. But if we over-emphasize the continuity from our perspective, we fail to recognize that the other person may have traveled a great distance between conversations with us, and it may be unhelpful to try to pick up where we left off. I typically prepare for a coaching conversation by reviewing past notes so that I'm reminded of ongoing themes, but I'm careful to allow the other person to choose our starting point.
+
+Finally, what data and understanding are we making use of from sources beyond this particular relationship? An obvious place to start is pattern recognition, using lessons learned from other relationships and experiences to make sense of this one. But this is a potential trap--as researcher Simon Wardley has noted, a little expertise doesn't make us experts, but, rather, hazards who think we know much more than we actually do. [9] And one of the most important lessons I've learned from many years of coaching is that I'm better able to access my wisdom when I remain keenly aware of my ignorance.
+
+Footnotes
+
+[1] Grant McCracken's biography
+
+[2] Dark Value: How to find hidden value in the digital economy (Grant McCracken, Kindle edition, 2016)
+
+[3] Two Sides of Trust
+
+[4] How Leaders Create Safety (and Danger)
+
+[5] Five Levels of Communication
+
+[6] Scott Ginsberg on Asking (Better) Questions
+
+[7] How Great Coaches Ask, Listen and Empathize
+
+[8] The 30 second habit with a lifelong impact (Robyn Scott, Medium, 2014)
+
+[9] The three stages of expertise (Simon Wardley, 2008)
+
+Photo by Thomas Shahan.
+

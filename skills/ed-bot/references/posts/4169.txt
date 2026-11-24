@@ -1,0 +1,79 @@
+---
+title: Surfacing Defensiveness (Three Questions for Candidates)
+url: https://edbatista.com/2023/08/surfacing-defensiveness.html
+slug: surfacing-defensiveness
+published: 2023-08-14T11:12:13
+updated: 2025-10-05T16:26:16
+source_body: wordpress-html
+---
+
+One of the greatest barriers to learning, growth and improved performance is defensiveness, which I define as an unwillingness to accept responsibility for setbacks, characterized by a disproportionately hostile, anxious or evasive response to critical feedback.
+
+Talented professionals typically experience an upward trajectory in their career, with past successes enabling them to take on bigger challenges in pursuit of greater rewards. Most people are interrupted on this journey, reaching a point where their capabilities are insufficient to meet the challenge at hand. Optimally they view this as a learning opportunity and adapt in response, enabling continued progress, albeit sometimes in new directions.
+
+But some people feel threatened by the idea that a setback may be a consequence of their own limitations, and they search frantically for other explanations, other figures to blame. And some unlucky people don't experience a meaningful setback until relatively late in life--as the Rev. William Swing once noted, "Some people don't conspicuously fail until they are 45 years old, and it devastates them." [1]
+
+Whatever the cause, it's not uncommon for previously successful professionals to experience difficulties and respond with defensiveness. A theme in my practice is the leader who's struggling to manage a senior employee who's under-performing and is unwilling to acknowledge and accept critical feedback, let alone learn from it. [2]
+
+In some of these cases it's certainly possible for the leader to intervene and help the person make progress toward overcoming their defensiveness. But this requires a willingness to change [3], a degree of psychological safety in the environment [4], and sufficient time and resources to address the issue--and all of these factors are likely to be in short supply when performance is suffering.
+
+So in many cases it's not possible for the leader to help a senior employee overcome defensiveness, and the all-too-typical result is a messy termination. The key to minimizing these situations is surfacing defensiveness in the hiring process, well before it becomes a problem. This enables the leader to assess the potential cost of dealing with the person's defensiveness and weigh it against their likely contributions.
+
+I'm not suggesting that employers automatically rule out candidates who manifest any sign of defensiveness. As the great management thinker Peter Drucker once wrote, "The idea that there are 'well-rounded' people, people who have only strengths and no weaknesses...is a prescription for mediocrity if not for incompetence. Strong people always have strong weaknesses, too. Where there are peaks, there are valleys." [5]
+
+And it's a fact of life that we make exceptions for particularly talented people and tolerate their shortcomings, including defensiveness. That said, a defensive senior employee will impose a high cost on their leader, their colleagues and the organization as a whole. And on balance my clients who've had to deal with such people wish they hadn't made the hire in the first place or moved more quickly to terminate them. [6]
+
+So what does this look like in practice? Here are three questions to ask candidates during the interview process, and in this order (although not all three may be necessary):
+
+1. Tell me about a time when things went wrong.
+
+If the candidate can't answer this question thoughtfully, that's an initial red flag, suggesting that they're unwilling to be forthright about their setbacks or unable to observe and interpret such situations without experiencing distress. But some candidates will provide an adequate answer while leaving themselves out of the story, blaming the setback on the failings of others or inescapable misfortune. In these cases, proceed to the next question:
+
+2. Tell me about a time when you made a mistake.
+
+The wording here is deliberate, providing the candidate with an opportunity to take responsibility for a setback without using unduly fraught language. We all "make mistakes," and only the most defensive among us will refuse to admit it. Still, some candidates will respond with an example in which the consequences of their mistake were relatively trivial, providing little data on their capacity to acknowledge and learn from serious missteps. In these cases, proceed to the final question:
+
+3. Tell me about a time when you failed.
+
+The wording here is also deliberate, inviting the candidate to identify a situation in which they bore personal responsibility for a meaningful setback. Some candidates who were less forthcoming in response to the first two questions will finally avail themselves of this opportunity--and others will not, providing examples of inconsequential "failures," or evading the idea that they failed, finding others to take the blame.
+
+If a candidate's unable to provide a satisfactory response to any of these questions, consider that a likely sign of defensiveness, and assess your capacity to take on the additional burden of dealing with it in the event that they suffer a setback in the role. To be clear, we're all prone to defensiveness under certain circumstances, and you may well determine that the candidate's strengths outweigh this particular weakness. But don't be caught by surprise--should you hire them, be prepared to improve your ability to provide effective critical feedback. [7]
+
+Footnotes
+
+[1] Rev. William Swing on Failures and Daydreams
+
+[2] Why Executives Derail and What You Can Do About It
+
+[3] Why Change Is Hard
+
+[4] Safety Is a Resource, Not a Destination
+
+[5] The Effective Executive: The Definitive Guide to Getting the Right Things Done, page 72 (Peter Drucker, 1966 / 2006)
+
+[6] Merciful Exits (On Under-Performing Executives)
+
+[7] How to Deliver Critical Feedback
+
+For Further Reading
+
+Daniel Kahneman on Conducting Better Interviews
+
+Interviewing for Values Alignment (Itamar Goldminz, 2020)
+
+Hiring Isn't Rocket Science: Why the Most Boring Strategy Is Best (Laszlo Bock, Behavioral Scientist, 2019)
+
+How to Take the Bias Out of Interviews (Iris Bohnet, Harvard Business Review, 2016)
+
+Hiring as Cultural Matching (Lauren Rivera, American Sociological Review, 2012)
+
+Look Beyond "Culture Fit" When Hiring (Dylan Walsh, discussing work by Amir Goldberg and colleagues, 2018)
+
+How to Improve the Accuracy and Reduce the Cost of Personnel Selection (Don Moore, California Management Review, 2017)
+
+What's going on here, with this human? (Graham Duncan)
+
+How to conduct interviews so good, candidates will thank you for rejecting them (Jennifer Kim, Safe for Work, 2023)
+
+Photo by West Point.
+

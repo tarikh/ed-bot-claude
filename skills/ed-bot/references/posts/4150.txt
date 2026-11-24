@@ -1,0 +1,57 @@
+---
+title: Questions for a New Leader
+url: https://edbatista.com/2022/11/questions-for-a-new-leader.html
+slug: questions-for-a-new-leader
+published: 2022-11-11T11:26:51
+updated: 2025-10-05T16:38:38
+source_body: wordpress-html
+---
+
+In late 1998 U.S. Navy Captain David Marquet was about to take command of a nuclear submarine, an assignment for which he'd spent months preparing. At the last minute, his superiors decided to put him in charge of a different boat, the Santa Fe, which was not only the worst-performing sub in the fleet, but also an entirely different type of craft, rendering much of the technical knowledge he'd absorbed irrelevant. This unexpected development caused him to approach his first interactions with his new sailors differently:
+
+Walking the ship, I would ask the crew questions about their equipment and what they were working on. They were skeptical about these questions initially. That's because normally I would have been "questioning," not curious. I would have been asking questions to make sure they knew the equipment. Now I was asking questions to make sure I knew the equipment.
+
+My unfamiliarity with the sub's technical details was having an interesting side effect: since I couldn't get involved with the specifics of the gear, I opened up space to focus on the people and their interactions instead, and to rely more on the crew than I normally would. [1]
+
+Marquet developed a set of questions to guide these initial conversations, and (with a few minor changes) they're relevant for a new leader in any situation:
+
+- What are the things you are hoping I don't change?
+
+- What are the things you secretly hope I do change?
+
+- What are the good things about this organization we should build on?
+
+- If you were me, what would you do first?
+
+- Why isn't the organization doing better?
+
+- What are your personal goals for your time here?
+
+- What impediments do you have to doing your job?
+
+- What will be our biggest challenge?
+
+- What are your biggest frustrations about how the organization is currently run?
+
+- What is the best thing I can do for you?
+
+Footnotes
+
+[1] Turn the Ship Around!, pages 23-24 (L. David Marquet, 2012)
+
+[2] Ibid, page 24.
+
+For Further Reading
+
+Conform to the Culture Just Enough
+
+Building a Feedback-Rich Culture
+
+The Six Layers of Knowledge and Better Conversations
+
+How Leaders Create Safety (and Danger)
+
+Andy Grove on the Right Kind of Fear
+
+Photo by Emily Rose.
+

@@ -1,0 +1,79 @@
+---
+title: Negotiating with Your Own Side
+url: https://edbatista.com/2020/08/negotiating-with-your-own-side.html
+slug: negotiating-with-your-own-side
+published: 2020-08-21T19:25:55
+updated: 2025-10-13T09:20:24
+source_body: wordpress-html
+---
+
+Most of my clients are CEOs, and most of the rest are C-level officers or other executives reporting to a CEO, and a common theme in my practice is the difficulty of the occasional (but inevitable) negotiations that take place among members of the same management team. There's a particular set of challenges that arise at the outset of these relationships during the hiring process: extensive information asymmetry, the heightened emotions that can accompany professional transitions, and sometimes radically different approaches to negotiation.
+
+But there's an additional dilemma that occurs at subsequent stages of the relationship, after all parties have gotten to know each other and have worked together successfully for a period of time: They're used to sitting on the same side of the negotiating table, and it can feel strange or even unnerving to be facing each other instead.
+
+This is often less problematic in certain fields (such as investing) and functions (such as sales). These cultures explicitly acknowledge (or tacitly accept) that colleagues' interests aren't always aligned, and members of these cultures are comfortable adopting adversarial stances when necessary and resuming more collegial relationships when a deal has been reached. It's not personal, it's strictly business. [1]
+
+Yet in many settings executives can be profoundly uncomfortable when compelled to negotiate with their colleagues, and while this is sometimes a function of an individual's reluctance to assert themselves, there are often contextual factors related to the organization or the relationship. In operating environments (as opposed to some investment or professional services firms) the executive team's performance is highly interdependent--no individual leader can succeed unless everyone succeeds, and if anyone fails then everyone pays a price. The resulting esprit de corps can create a strong set of social norms that encourage leaders to put the good of the company before their personal interests.
+
+The relationships among an organization's leaders can also create an environment in which negotiations feel more difficult. Startup founders often draw upon personal networks when hiring early leaders, so management teams can include friends, family members and romantic partners. Some industries and firms have cultures that involve a extensive amount of socialization among members of the leadership team, resulting in close personal bonds. Again, these factors can create a set of social norms that discourage efforts by individual leaders to benefit themselves at the expense of the collective good.
+
+These situations often involve C-level officers or VPs dealing with a CEO, but CEOs are not immune. Founders in particular must often conduct negotiations with board members and other stakeholders, and they may feel pressure to take a lower salary and preserve as much of their equity as possible (rather than selling shares in a secondary transaction) in order to signal confidence in the business to employees, customers, and other capital providers.
+
+These dynamics can work to the advantage of the organization as a whole, and when value is distributed equitably, a more successful organization benefits all of its members. But the definition of "equitable" is a matter of perception, and so at times almost all individual leaders must engage in zero-sum contests with their organization in order to claim a share of the value being generated that feels proportionate to their contributions. And yet this process can be profoundly uncomfortable--so what can be done? Here are five steps to take:
+
+1. Normalize It
+
+Fraught negotiations of this type may occur relatively rarely over the course of a leader's career, which can heighten the sense of strangeness and discomfort when they do occur. But from my vantage point as a coach I see this pattern repeatedly in my practice, so a benefit I provide to my clients is simply reassuring them that what they're going through is normal and predictable. Bearing this in mind can make it easier to manage the difficult emotions evoked by the experience.
+
+This can be particularly important for a CEO negotiating with investors. While CEOs need to be effective negotiators, it's often an activity that they engage in for a period of time, and even CEOs who are skilled negotiators often feel a sense of relief when the process is over. In contrast, investors typically need to be outstanding negotiators, and it's a mindset through which they view the world that shapes their every interaction. In this context the CEO who's uncomfortable with the process can be at a profound disadvantage, and the key is to normalize the experience and become "comfortable with discomfort." [2]
+
+2. Consider the Culture
+
+We often fail to appreciate the impact of our social environment on our behavior, and in these circumstances it's particularly important to understand the role that culture can play. As I note above, in some fields and functions the culture accepts negotiations among colleagues, while other cultures expect individual members to subordinate their needs to maintain cohesion and harmony. Further, as I've written before, there are two fundamentally different approaches to negotiation that we can think of as distinct "cultures":
+
+In a list-price culture, there's a high degree of transparency and very little flexibility. An opening offer may not be take-it-or-leave it, but there's relatively little gamesmanship in the process. There may be some room for negotiation on the margins, but the basic requirements necessary to close a deal are clear and straightforward, and it's reasonably obvious when the two parties are sufficiently close to reach agreement and when they're not.
+
+In a haggling culture, the opposite is true. There's very little transparency and a great deal of flexibility. Opening offers are never take-it-or-leave-it, and gamesmanship abounds. Everything is up for negotiation, and the basic requirements necessary to close a deal are uncertain and highly dynamic. It's rarely apparent whether the two parties are sufficiently close to reach agreement, because their currently stated positions may bear little relation to their actual willingness to reach a deal. [3]
+
+The key is recognizing cross-cultural boundaries, which can be harder to spot when colleagues have worked together for a period of time and make unfounded assumptions about shared beliefs and values. Some of these differences are conveniently hidden by the need to collaborate on a day-to-day basis, and negotiations can illuminate unexpected cultural gaps. Highlighting these gaps may not be sufficient to bridge them, but when they remain unacknowledged they can readily lead to misunderstandings, making already difficult negotiations even harder.
+
+3. Seek Role Clarity
+
+In our professional relationships we occupy a set of roles, which aren't merely "titles" but interdependent identities that allow us to answer the question, "Who are we to each other?" and act accordingly. Role clarity allows a given relationship to function more effectively, and yet a degree of role confusion is expected in these circumstances simply because the working relationship is being modified in order to fulfill the goals of the negotiation. Further, as I note above, in some settings the professional relationship co-exists with a personal relationship or is characterized by a high degree of personal closeness.
+
+Also, the CEO who must negotiate with both executives and investors should make a careful distinction between these relationships and the inherent roles. CEOs and their executives are teammates in an operating environment, and no one wins unless everyone wins, which is why negotiations among those parties can't be allowed to become too rancorous or drag on too long. But CEOs and their investors are contingent partners whose interests are often aligned, but not always. Further, investors may approach every issue as a negotiation, in which case the process never really ends--this would be intolerable among teammates, but it can be perfectly normal among contingent partners.
+
+Given these factors, it may not be possible to obtain perfect role clarity, but, as with any cultural gaps, failing to acknowledge the degree of role confusion will only make the process more challenging. And at times simply naming the various roles encompassed by the relationship can enable the parties to deliberately inhabit the role that's most appropriate to the negotiation while holding other roles temporarily in abeyance.
+
+4. Look Inside
+
+While interpersonal factors such as cultural differences and role confusion invariably influence these negotiations, we also bring some individual baggage to the process derived from formative experiences in our professional and personal lives. There are often status distinctions in these situations, and we may be inclined to defer to those we perceive as higher status, or we may expect deference from those we perceive as lower status, and either tendency can make negotiations feel more uncomfortable. We may have been trained to be rewarded on the basis of our performance, rather than explicitly ask for what we want--or we may have been trained to advocate for ourselves aggressively and let other parties fend for themselves.
+
+It's particularly important to understand our strengths and weaknesses as a negotiator in this context not only because we're going to have to live with the results, but also because we may be back in the same negotiation with the same counterparts at some point in the near future. So real success entails that all parties feel sufficiently satisfied with the terms of the agreement and the process by which those terms were agreed upon. If we feel compelled to accept terms that aren't truly satisfactory, we may well begin planning to end the relationship prematurely--and if we extract terms that aren't truly satisfactory to the other party, they may well begin to do the same. By better understanding our tendencies as a negotiator, we can adjust our approach accordingly and obtain a better outcome for the long-term.
+
+5. When Necessary, Get Help
+
+In some cases the challenges posed by cultural gaps, role confusion, and personal characteristics are simply too great for two parties to overcome on their own. Specifically in negotiations between a CEO and one of their executives, the organization's People leader may be in a position to help. This is one reason why I encourage CEOs to invest in this function early, because this role can't be filled quickly under duress. [4]
+
+I'm not a cynic, but I am a pragmatic realist, so I think it's essential to acknowledge: We don't get what we deserve. We get what we negotiate. Allowing the discomfort that can accompany such negotiations to undermine our effectiveness in the process can be severely career-limiting--and increasing our "comfort with discomfort" can be a powerful engine for growth. [5]
+
+Footnotes
+
+[1] Scene from The Godfather (Directed by Francis Ford Coppola, produced by Albert Ruddy, screenplay by Mario Puzo and Francis Ford Coppola, Paramount Pictures, 1972)
+
+[2] Comfort with Discomfort
+
+[3] Culture, Compensation and Negotiation
+
+[4] The Truly Strategic People Leader
+
+[5] Comfort with Discomfort
+
+For Further Reading
+
+Conscious Competence in Practice
+
+Attitude and Behavior
+
+Photo by bedzine.
+

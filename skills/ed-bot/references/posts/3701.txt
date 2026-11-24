@@ -1,0 +1,49 @@
+---
+title: Setbacks, Mindset, and the Fundamental Attribution Error
+url: https://edbatista.com/2012/01/setbacks-mindset-attribution-error.html
+slug: setbacks-mindset-attribution-error
+published: 2012-01-10T16:14:28
+updated: 2025-10-08T20:36:29
+source_body: wordpress-html
+---
+
+Thinking about some recent personal and professional setbacks--those of clients and students as well as some of my own--has led me to reflect on the intersection of two topics that often come up in my practice: mindset and the fundamental attribution error.
+
+By "mindset" I'm referring to the power exerted by our beliefs, assumptions and mental models. [1] What we think--and particularly what we think about ourselves--has a tremendous influence on our lived experience. Fer example, recent research on the placebo effect has shown that "a particular mind-set or belief about one's body or health may lead to improvements in disease symptoms as well as changes in appetite, brain chemicals and even vision." Of particular importance is the ability of positive expectations and conditioning to create an openness to change. [2]
+
+The concept of a "fixed mindset" and a "growth mindset" is at the heart of the work of Stanford psychologist Carol Dweck:
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success--without effort. They're wrong.
+
+In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work--brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment. [3]
+
+Having a fixed mindset rather than a growth mindset can have a profound impact on how we cope with setbacks and mistakes. People with a fixed mindset see setbacks and mistakes as the result of personal failings, character flaws, and an inherent lack of talent. People with a growth mindset see the same experiences as learning opportunities and challenges that will stimulate growth.
+
+But while I believe firmly in this research and can attest to the power of mindset both in my own life and in the lives of my clients and students, I'm not suggesting that the biggest challenges we face can be resolved merely by adopting a "positive attitude," or that our mindsets are at fault when we struggle.
+
+This is where the second concept I've been reflecting on comes in: the "fundamental attribution error" is a common cognitive bias originally named by Stanford psychologist Lee Ross. It was taught to me in business school by the outstanding Roberto Fernandez as "ascribing causality to personal characteristics when causality actually lies with the situation."
+
+As I've written before, "We see it at work most clearly with high-profile, archetypal leaders--presidents, CEOs, coaches, quarterbacks--who are hailed as geniuses when their organizations accomplish their goals and derided as bums when their organizations stumble." [4] But it appears in daily life as well. While we bear at least some responsibility for most of our failures, it's inaccurate to put the blame solely on our shoulders while ignoring the context in which a given failure occurs.
+
+The intersection of mindset and the fundamental attribution error is critical when it comes to how we deal with setbacks. The same cognitive bias that leads us to ignore our good fortune and take more credit than we should when we succeed also leads us to ignore those situational factors that contribute to our failures. Our ignorance of the fundamental attribution error (or our reluctance to apply it to our own lives) can cause us to see setbacks as solely our responsibility, feeding into a negative mindset and making it more difficult to recover.
+
+There is a slippery slope here that could be exploited by the unscrupulous or irresponsible, and by no means am I suggesting that we avoid holding ourselves accountable. But research by psychologist Jason Moser on learning from mistakes suggests that those who learn best from mistakes spend a substantially higher amount of time and energy focusing on and reviewing what they did wrong in order to learn from it. [5] They don't shirk responsibility--just the opposite.
+
+The judicious application of the fundamental attribution error can give us a fuller, more accurate perspective on our setbacks, which can have a meaningful impact on our mindset. If we can clearly distinguish between those factors that are truly our responsibility and within our control to change, and any situational factors--or even just bad luck--that we have no control over, we'll be able to focus our energies where they'll be most useful and to maintain a mindset that will support recovery, learning and growth.
+
+Footnotes
+
+[1] Corn Mazes and Mental Models
+
+[2] Why Placebos Work Wonders (Shirley Wang, The Wall Street Journal, January 10, 2012)
+
+[3] What Is Mindset (Carol Dweck, 2012)
+
+[4] The Fundamental Attribution Error & the No Asshole Rule
+
+[5] Mind Your Errors: Evidence for a Neural Mechanism Linking Growth Mind-Set to Adaptive Posterror Adjustments (Jason Moser, et al, Psychological Science, 2011)
+
+ 
+
+Photo by dfinnecy.
+

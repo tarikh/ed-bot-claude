@@ -1,0 +1,144 @@
+---
+title: Harvard Business Review on Executive Coaching
+url: https://edbatista.com/2009/02/hbr.html
+slug: hbr
+published: 2009-02-16T23:01:48
+updated: 2025-11-04T19:52:17
+source_body: wordpress-html
+---
+
+Harvard Business Review's Diane Coutu and Carol Kauffman surveyed 140 executive coaches (including Rebecca Zucker, who gave me some great advice when I made my own transition into coaching), and they've generated a set of resources from the data that both coaches and clients will find useful:
+
+- A  32-page report on the current state of executive coaching.
+
+- An overview article at HBR.org (which is included in the report noted above.)
+
+- And a short summary on Coutu's HBR blog. (The HBR.org article and the blog post both include links to podcasts by Coutu and Kauffmann.)
+
+A few highlights from the full report that jumped out at me [with headings added in block quotes for clarity]:
+
+The Future [of Executive Coaching]
+
+Coaching exists to help executives find solutions, yet the field of coaching must solve a few problems itself. Most of [the coaches surveyed] told us that coaching as a process is highly effective but that the field feels as if it is in "adolescence." Many of [the coaches surveyed] were concerned that a lack of entry barriers leaves the profession vulnerable to being discredited by charlatans. Many also felt that action was needed to winnow out bad or ineffective coaches. Some of [the coaches surveyed] suggested that an emphasis on more rigor in practice and more research on effectiveness is needed...
+
+I couldn't agree more.
+
+[Assistance Provided to Coachees]
+
+[M]ost of the time, coaches are facilitating transitions either into a firm or upwards within the same organization, or developing capabilities of high-potentials, or are working to enhance interactions of a team. A full 87% reported that they address derailing behaviors, and 81% act as a sounding board on strategic matters...
+
+Coaches reported that 48% of the time they are hired to develop high potentials or to facilitate transitions; 26% to act as a sounding board; and 12% to address a derailing behavior. Only about 3% of coaches said they were hired to address issues in a coachee's non-work life. These results suggest that the field is shifting its focus from remedial work with problem individuals who exhibit unacceptable behaviors to the facilitation of higher performance with top-functioning executives.
+
+This shift in the field at large is also reflected in my role as a Leadership Coach at Stanford's Graduate School of Business, where I work with students individually and in small groups to help them further develop their leadership and interpersonal skills.  By definition, every one of the students I work with is likely to be regarded by future employers as "high potential," and although in a few instances we identify and address possible derailing behaviors, in the vast majority of cases I'm helping students "facilitate [even] higher performance."
+
+[Duration of Coaching Engagements]
+
+Respondents reported a great range in the typical duration of their coaching engagements, from as little as one month to more than three years. By far the most popular timeframe, selected by 45%, was the 7- to 12‑month range.
+
+[Percent of Coaches Rating the Following Tools "Extremely Important"]
+
+Coaching Tool
+Coaches Rating
+
+"Extremely Important"
+
+Interviewing
+86%
+
+360-degree feedback collection
+77%
+
+Shadowing
+46%
+
+Peer support groups
+46%
+
+Cultural assessment
+42%
+
+Psychometrics
+39%
+
+Communications evaluation (such as videotaping)
+25%
+
+Intelligence tests
+3%
+
+I'm intrigued by a few points in the table above.  For example, who are the 14% of coaches who don't think interviewing is extremely important?  And what, exactly, is a "cultural assessment"?  That said, I see my practice accurately reflected here, with an emphasis on direct interviews and 360-degree feedback.  I don't shadow clients, nor I do require participation in peer support groups (although I encourage clients to make use of them when they can.)  I find certain psychometric tools valuable as a starting point for discussion, but I've seen them mis-used as often as I've seen them used effectively.  And although I believe video-recording can be helpful when working on public speaking and other tactical communication skills, I don't find it as useful when working on in-depth personal development.  Finally, I value IQ as much as I do EQ, but my assumption is that every client is smart enough to do their job well.
+
+[What Makes Someone Coachable?]
+
+Change readiness and being actively engaged in the process were the most frequently cited factors that contribute to making a person coachable...[cited by 32% and 28%, respectively, of the coaches surveyed.]  Many coaches felt that the rest of the qualities emerged from the coaching process; they were not prerequisites for coaching.  [These other qualities included clear goals, emotional intelligence, courage, sense of psychological safety, humility, ambition, commitment to the organization, and communication skills.  None were cited by more than 10% of the coaches surveyed as a factor in making someone coachable.]
+
+Again, I agree--a client who's ready to change and is fully engaged in the coaching process is likely to succeed, no matter what other qualities they lack.  And no amount of EQ, courage or ambition will compensate for an unwillingness to change or a sense of disengagement with the coaching process.
+
+How much importance should buyers of coaching services attach to each of the following in their selections of coaches?
+
+Criteria
+Coaches Rating "Important"
+
+or "Extremely Important"
+
+Experience coaching in similar setting
+65%
+
+Clear methodology
+61%
+
+Quality of client list
+50%
+
+Experience as a coachee
+36%
+
+Background in organizational development
+35%
+
+Ability to measure return on investment
+32%
+
+Certification in a proven coaching method
+29%
+
+Experience working in a similar setting
+27%
+
+Status as a thought leader in the field
+25%
+
+Experience as a psychological therapist
+13%
+
+Background in executive search
+2%
+
+I find the data in this table fascinating.  I'd love to talk further with the coaches who apparently believe they can accurately measure their clients' return on investment in a coaching engagement, particularly given that the latest research that I'm familiar with on the topic cites the absence of meaningful ROI metrics as a key problem facing the profession.  I'm skeptical of anyone who claims to have this data at their disposal.
+
+I'm also surprised to see that 27% of the coaches surveyed believe that similar work experience is so important.  I believe that a fundamental tenet of coaching is that an over-reliance on the coach's own work experience transforms the relationship from a coaching engagement into a consulting engagement or a form of mentorship.  As a coach, I don't believe that I have the answers for a client--instead, I have the ability to ask the right questions that will allow each client to find the answers that are right for them, and that skill has grown not out of my prior work experience but in my ongoing work as a coach.
+
+Finally, I'm struck by Coutu and Kauffman's thoughtful comparison of coaching to consulting (on the one hand) and therapy (on the other), which is of particular interest given my recent reflections on Gestalt therapy concepts that I see at work in the coaching process. Here's an excerpt from a table in the HBR.org article:
+
+Coaching
+Coaching & Therapy
+Therapy
+
+Focuses on the future
+Paid to ask the right questions
+Focuses on the past
+
+Fosters individual performance in a business context
+Tackles difficult issues at work and home
+Diagnoses and treats dysfunctionality
+
+Helps executives discover their own path
+Focuses on individual behavioral change
+Based on medical ethics
+
+As I noted in my post, "there's a clear parallel between [coaching and therapy]," but "good coaches are aware of the distinction." I think Coutu and Kauffman's work highlights this distinction while reinforcing my point that "there's [not] always a bright line distinguishing the two [disciplines]."
+
+Many thanks to Diane Coutu, Carol Kauffman, and the 140 coaches they surveyed for these resources.
+
+Illustration by Joshua Gorchov © Harvard Business Review.
+

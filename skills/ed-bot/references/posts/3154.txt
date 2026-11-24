@@ -1,0 +1,16 @@
+---
+title: Usability Rules of Thumb
+url: https://edbatista.com/2005/02/usability_rules.html
+slug: usability_rules
+published: 2005-02-16T16:04:30
+updated: 2005-02-16T16:04:30
+source_body: wordpress-html
+---
+
+Jakob Nielsen's Ten Usability Heuristics are a valuable counter to the Dilbert Defense.  Developed in 1990 and revised in 1994, they're still perhaps the most concise description of how systems should conform to people's needs, rather than the other way around.  My favorite:
+
+Match between system and the real world
+The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
+
+(Thanks to Merlin at 43 Folders.)
+

@@ -1,0 +1,49 @@
+---
+title: It's Time to Stop Interviewing
+url: https://edbatista.com/2020/01/its-time-to-stop-interviewing.html
+slug: its-time-to-stop-interviewing
+published: 2020-01-05T15:07:20
+updated: 2025-10-06T11:31:24
+source_body: wordpress-html
+---
+
+While there's ample data on job interviews' poor ability to predict a candidate's success [1], the practice isn't going away any time soon. [2] But for most of my coaching clients--and for some of my MBA students--the era of interviewing in their lives is coming to an end. I don't mean that they'll stop participating in the process, but, rather, that they should begin to approach it from an entirely different perspective.
+
+Up to a certain point in our careers, a job interview is often an exercise in fitting ourselves into a box, the size and shape of which is defined by the employer. We have a general understanding of the size and shape of the box--that's why we're interested in the job--but the precise details remain something of a mystery. And so the interview process consists largely of us gleaning additional clues about the size and shape of the box, while simultaneously proclaiming our ability to fit comfortably within it, no matter what we learn.
+
+Later on, if we've landed the job and accepted the offer, we're not surprised that the employer wasn't entirely accurate about the size and shape of the box, in part because we weren't entirely accurate about our ability to fit into it comfortably. These inaccuracies need not be the result of deceit or dishonesty--it's simply that the information asymmetry inherent in the process means that neither party truly knows if it's going to be a good fit.
+
+But when we contort ourselves to fit an employer's expectations of a candidate (or our imagined perceptions of those expectations), we perpetuate and even heighten that information asymmetry. By representing ourselves in this way, we increase the likelihood of false positives, in which one or both parties believe it will be a good fit, only to ultimately be proven wrong. As inefficient as this may be, there's an underlying logic here that makes sense early in our careers. At that stage of our professional lives, the cost of failing to win an offer for a compelling opportunity may seem quite high--and potentially much higher than the cost of finding ourselves in a job that's not a good fit.
+
+And yet beyond a certain point, this calculus changes dramatically. The cost of taking a job that's not really a good fit becomes much higher than failing to obtain the offer in the first place. We may "win" the offer by successfully contorting ourselves to fit into the box (or at least convincing ourselves and our interviewers that it's a possibility), but in the process we've actually lost: We've lost time and attention we'll never regain. We've lost a chance to learn something useful about ourselves and the organization. And if we stick with this approach long enough, we lose the opportunity to understand who we really are and discover the work we're meant to do.
+
+Most of my coaching clients are CEOs who expect to remain in their current position for the foreseeable future, but I do work with a number of clients through professional transitions. When this occurs, it often becomes apparent to my clients that they're past the point in their careers when there's any value to "winning" an offer by contorting themselves to fit into somebody else's box. At this stage my clients know that everyone involved in the process will gain the most if they simply show up as themselves, reduce the information asymmetry as soon as possible, and absolutely eliminate any chance of a false positive. This also shifts the power dynamic from one in which the company is interviewing the candidate to one in which both parties are interviewing each other.
+
+To be clear, I'm not suggesting that we should show up at interviews with an obnoxious, take-it-or-leave-it attitude, or that we should be rigid and unyielding in what we require of prospective employers. Nor do I believe that there's one "perfect" job out there for us, and we should spurn anything that falls short. But in my experience the training we receive early in our careers to fit ourselves into other people's boxes far outlives its utility, and most of us wait far too long before realizing that it's time to stop interviewing this way.
+
+The dilemma, of course, is that there's no single point in time when it's obvious that we should modify our approach to the process. You might object that this latter approach works for senior leaders who are sufficiently well-established and financially secure to walk away, and you don't feel like you're there yet. Fair enough--but when will you be? It's highly unlikely that any given professional milestone or accomplishment will automatically endow you with this attitude, and no one's going to tell you, "You're ready now--it's time." The only person who can make that call is you.
+
+Footnotes
+
+[1] For more on the limitations of job interviews:
+
+- The Utter Uselessness of Job Interviews (Jason Dana, The New York Times, 2017)
+
+- Belief in the unstructured interview: The persistence of an illusion (Jason Dana, Robyn Dawes and Nathanial Peterson, Judgment and Decision Making, 2013)
+
+- How to Take the Bias Out of Interviews (Iris Bohnet, Harvard Business Review, 2016)
+
+- Stubborn Reliance on Intuition and Subjectivity in Employee Selection (Scott Highhouse, Industrial and Organizational Psychology, 2008)
+
+[2] Daniel Kahneman on Conducting Better Interviews
+
+For Further Reading
+
+Leadership and Authenticity
+
+Cautionary Tales (Authenticity at Work)
+
+Conform to the Culture Just Enough
+
+Photo by Tim Evanson.
+

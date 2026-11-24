@@ -1,0 +1,85 @@
+---
+title: Talking About Promotions (with Very Ambitious People)
+url: https://edbatista.com/2022/10/talking-about-promotions-with-very-ambitious-people.html
+slug: talking-about-promotions-with-very-ambitious-people
+published: 2022-10-18T07:10:42
+updated: 2026-10-28T15:39:39
+source_body: wordpress-html
+---
+
+A theme in my practice is the leader with an ambitious employee who's anxious to be promoted, sometimes to the point of urgency. Most of these people share a set of common characteristics: very high expectations for their professional accomplishments, a nagging sense that they're "behind" in some way, and an idealized vision of the happiness (or relief) they'll experience when they achieve their goal.
+
+But their talents and capabilities can differ substantially, of course. Some of them are already operating at an elite level, and their ambition is entirely justified. Others are just as obviously not at an elite level, and their ambition is sadly misguided. But most of them fall somewhere in the middle--they show substantial potential, but they haven't yet clearly demonstrated that they merit a bigger role, a new title, or increased compensation.
+
+In my work with leaders facing this challenge, I encourage them to bear those common characteristics in mind while tailoring their approach to suit the employee's current and potential contributions. If you're in a similar situation, what might this look like?
+
+Managing Expectations, Part 1
+
+With an obvious elite performer, the leader's task is to manage their expectations--but not in the way you might think. Conventional expectation management entails counseling patience, but that's not what I mean here. If you have an elite performer who feels an urgent need for their talents to be recognized, then if you don't find a way to meet that need you'll soon be relieved of this problem, because they'll take their talents elsewhere.
+
+And yet no matter what role, title or comp they're able to command--from you or from another employer--their sense of urgency and the feeling that they're "behind" will almost certainly diminish only for a brief period before it returns in full force. This is the predictable result of two powerful psychological forces: Hedonic adaptation ensures that we readily adapt to changes in our circumstances, which means that even our greatest aspirations, once fulfilled, are soon taken for granted. [1] And social comparison means that we have a deeply rooted predisposition to assess our progress in life by considering our status relative to others who we consider salient figures--and we tend to focus on those who we perceive as "ahead" in some way. [2]
+
+You can't "turn off" these drives in your ambitious elite performer, nor would you want to--they serve a useful role for the species, even as they cause anguish for most of us as individuals at various times in our lives. But if you hope to retain them as a long-term colleague, you'll both be well served if you can help them understand these dynamics and how to deal with them. That doesn't mean encouraging your elite performer to settle for something less than they believe they deserve, but it does involve addressing and coming to terms with the anxiety and other emotions that underlie their ambitions. This requires you act as a mentor, not just a manager, and you can't simply impose that relationship on someone--you have to be invited in.
+
+- The Trap of Competition
+
+- Stop Trying to Be "Good Enough" By "Getting Better"
+
+- Understanding the "Pie Chart" in The How of Happiness
+
+Managing Expectations, Part 2
+
+With an ambitious employee who's an adequate performer but obviously not elite, it's also necessary to manage their expectations, but with different goals in mind. Not only is this person not going to be promoted anytime soon, it's likely that they're going to be levelled or managed out. I make the assumption that there's an unbridgeable gap between your employee's ambitions and their current capabilities, but they're not a chronic under-performer who's failing to add value. (If that's the case, then you should be managing them out now.)
+
+But if you'd prefer to retain them--and yet have no intention of promoting them--then you need to determine whether it will be possible to level them successfully when it becomes necessary. This is always a challenging managerial task, but here the difficulty will be compounded by your employee's unrealistic self-assessment. In this process both of you will need to make a contribution.
+
+You'll have to provide data demonstrating a performance gap, an opportunity to learn from the incoming manager, clarity on your employee's new role, and--perhaps most importantly--sufficient grace to ensure that your employee feels respected throughout the process. Your employee will have to respond with non-defensiveness--which will be easier for them if you fulfill the responsibilities above. And both of you will need to trust each other, which requires investing in the relationship over time.
+
+This will obviously take time and effort, and in any given case you may conclude that it's not worth the trouble. But note that the ability to successfully level an adequate employee who's not an elite performer is a tremendous managerial asset, and you won't learn how to do it if you never try.
+
+- The Fine Art of Levelling
+
+- Merciful Exits (On Under-Performing Executives)
+
+From Potential to Excellence
+
+Most of your ambitious employees will fall somewhere in between these two extremes--they haven't yet demonstrated consistent elite performance, but they show substantial potential, and the question is whether or not that potential will be fully realized. And one of the best tools at your disposal to influence that outcome is clear, direct feedback on the nature of their performance. One simple framework involves providing feedback in three distinct "buckets":
+
+1. Here's where you're already delivering excellence.
+
+This should be an easy bucket to fill, but many managers fail to make effective use of it. They worry that positive feedback will cause an ambitious employee to feel entitled to a promotion, so they withhold it--which only increases the employee's anxiety and agitation. Or the manager learned in some terrible training session that they should always offer "positive feedback" before delivering the real message--which only trains people to ignore their positive feedback. As a consequence many managers are simply ineffective at delivering meaningful positive feedback that truly has an impact. But it isn't rocket science--it just takes diligent effort and practice. [3]
+
+2. Here's where you're making progress.
+
+This is the bucket that most managers over-utilize. But true excellence (above) and clear under-performance (below) shouldn't be lumped together with other areas of responsibility where your employee is making progress but not there yet. This bucket is an opportunity to have a nuanced conversation with an ambitious employee and let them know that you can discern not only the effort they're making to improve, but also their still-insufficient results, and you want both halves of that message to register.
+
+3. Here's where you're falling short.
+
+This should also be an easy bucket to fill--your ambitious employee has clearly fallen short in some key areas, or you wouldn't be wondering whether or not to promote them. But here again many managers fail to offer meaningful critical feedback. They worry that direct feedback will be demotivating, or that their employee will respond defensively. While it's your responsibility to learn how to deliver critical feedback in a way that's less likely to evoke a defensive response, this is also a valuable opportunity to assess your employee's ability to hear criticism and take responsibility for setbacks, which is a significant indicator of future success.
+
+- How to Deliver Critical Feedback
+
+- Make Feedback Normal. Not a Performance Review.
+
+- Why Some Executives Derail (and What You Can Do About it)
+
+Finally, note that the timing of these conversations matter--your employee is likely to want to hold them more frequently, and as noted in the post linked above, I don't think leaders should wait for formal review cycles to provide developmental feedback. That said, in some cases it makes sense to defer discussions about promotions until there's enough data to justify further consideration. I once had a CEO client whose sales leader tried to renegotiate his comp every single quarter. This proved untenable.
+
+Footnotes
+
+[1] For more on hedonic adaptation, see the following:
+
+- Lottery Winners and Accident Victims: Is Happiness Relative? (Philip Brickman, Dan Coates and Ronnie Janoff-Bulman, Journal of Personality and Social Psychology, 1978)
+
+- The How of Happiness, pages 48-51 (Sonja Lyubomirsky, 2007)
+
+[2] For more on social comparison, see the following:
+
+- Social: Why Our Brains Are Wired to Connect, pages 33-34 (Matthew Lieberman, 2013)
+
+- The Myths of Happiness: What Should Make You Happy, but Doesn't, What Shouldn't Make You Happy, but Does, pages 131-132 (Sonja Lyubomirsky, 2014)
+
+[3] Conscious Competence in Practice
+
+Photo by Sam Beebe.
+

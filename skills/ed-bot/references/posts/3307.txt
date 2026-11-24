@@ -1,0 +1,17 @@
+---
+title: Brazil and the World of Ends
+url: https://edbatista.com/2005/11/harry_tuttle_as.html
+slug: harry_tuttle_as
+published: 2005-11-21T08:38:47
+updated: 2005-11-21T08:38:47
+source_body: wordpress-html
+---
+
+I caught the first half of Terry Gilliam's Brazil (an old favorite) last night and was struck by what a great metaphor this film is for Doc Searls' recent piece on Saving the Net (which I excerpted a few days ago, if you're pressed for time.)
+
+Gilliam's dystopic vision makes a powerful argument in favor of the dumb, decentralized (and therefore innovative and user-centric) Internet as described by Searls and David Weinberger in World of Ends, and against the "smart," centralized networks beloved by telcos, bureaucrats, and governments everywhere.
+
+From a "Central Services" view of the world, user-driven innovation is sabotage, and the Harry Tuttles of the world (read: entrepreneurs who can't take the paperwork) are terrorists.  The company (or agency or ministry or bureau, ad infinitum) knows best.  They know what you need, they even know what you want...and they're never wrong.
+
+It's time to pick a side, and who do you think's on your side: Harry Tuttle...or Spoor?
+

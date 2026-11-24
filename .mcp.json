@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "archive": {
+      "type": "http",
+      "url": "https://edbot-public-retrieval-2026-11-23.tarikhkorula.chatgpt.site/api/mcp"
+    }
+  }
+}

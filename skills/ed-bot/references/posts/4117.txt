@@ -1,0 +1,205 @@
+---
+title: Resources for Managing Up
+url: https://edbatista.com/2022/02/resources-for-managing-up.html
+slug: resources-for-managing-up
+published: 2022-02-02T18:34:59
+updated: 2025-09-24T11:58:04
+source_body: wordpress-html
+---
+
+Although my clients are typically senior leaders, over the years I've worked with many people at earlier stages of their careers who had to "manage up" effectively--and even the leaders I work with face similar challenges in some of their relationships with their boards, investors and other stakeholders. I was recently asked to recommend some resources in this area--the list below is by no means comprehensive, but I think it's a useful starting point.
+
+What we call "managing up" usually involves better understanding and being more effective at dealing with power dynamics, influence, culture and emotion regulation. (Note that by "regulation" I don't mean "suppression"--I mean being deliberate and thoughtful about how we express emotion in order to better accomplish our goals.)
+
+1. Power Dynamics
+
+I've learned much about power from my Stanford colleague Jeff Pfeffer:
+
+- Power Play (Jeffrey Pfeffer, Harvard Business Review, 2007)
+
+- Power: Why Some People Have It and Others Don't (Jeffrey Pfeffer, 2010)
+
+Here's some of my work that incorporates Jeff's perspective:
+
+- Force Isn't Power
+
+- Cautionary Tales (Authenticity at Work)
+
+Psychologist David McClelland's "motivational needs theory" is very illuminating in this context:
+
+- Power is the Great Motivator (David McClelland and David Burnham, Harvard Business Review, 2003)
+
+Here are two posts of mine on the same topic:
+
+- Power Struggles Among Nice People
+
+- McClelland and Burnham on Power and Management
+
+Physician and organizational consultant Patricia Day Williams offers another useful perspective:
+
+- Self-Awareness, Empowerment and Choice [PDF] (Patricia Day Williams, Chapter 7.10 in NTL's Reading Book for Human Relations Training, 1999)
+
+And here's a post of mine that discusses Day Williams' work:
+
+- Interpersonal Power
+
+Other related posts of mine:
+
+- Weather Systems (Power, Charisma and Leadership)
+
+- Competence Isn't Power
+
+- Three Definitions of Power
+
+ 
+
+2. Influence
+
+I continue to find the framework first developed in the 1970s by Arizona State psychologist Robert Cialdini the most compelling and useful way of thinking about influence:
+
+- Principles of Persuasion (Robert Cialdini)
+
+- Harnessing the Science of Persuasion (Robert Cialdini, Harvard Business Review, 2001)
+
+- Influence: The Psychology of Persuasion (Robert Cialdini, 2021, 3rd ed. / 1984, 1st ed.)
+
+- The Language of Persuasion (Robert Cialdini, Harvard Business Review, 2008)
+
+- The Uses (and Abuses) of Influence (Robert Cialdini, Harvard Business Review, 2013)
+
+Here Jerry Useem, the longtime Senior Editor-at-Large of Fortune and previously a Research Associate at Harvard Business School, draws on research by Pfeffer, Wharton's Adam Grant, and others--ignore the silly headline, which is just clickbait and doesn't accurately represent Useem's point of view:
+
+- Why It Pays to Be a Jerk (Jerry Useem, The Atlantic, 2015)
+
+It's vitally important to exert influence effectively in a negotiation. As I've noted to clients countless times, we don't get what we deserve, we get what we negotiate:
+
+- Culture, Compensation and Negotiation
+
+- Negotiating with Your Own Side
+
+We begin to wield influence--or fail to--at the moment we first express interest in the role, well before our first day on the job:
+
+- It's Time to Stop Interviewing
+
+ 
+
+3. Culture
+
+First, what do we mean by culture? Author and management educator Michael Watkins offers a useful definition:
+
+- Consistent, observable patterns of behavior.
+
+- A process of "sense-making."
+
+- A carrier of meaning.
+
+- A social control system.
+
+- A form of protection evolved from situational pressures.
+
+Watkins' article and a related piece by management thinker Jon Katzenbach and colleagues are useful primers on the concept:
+
+- What Is Organizational Culture? (And Why Should We Care?) (Michael Watkins, Harvard Business Review, 2013)
+
+- 10 Principles of Organizational Culture (Jon Katzenbach, Carolin Oelschlegel and James Thomas, strategy + business, 2016)
+
+It's essential to distinguish between an organization's explicit rules and its often implicit cultural norms:
+
+- Rules Aren't Norms (On Company Values)
+
+Our efforts to manage up take place within a specific culture, which contains a set of expectations--often implicit and unstated--about how to be effective and influential. We hold ourselves back when allow such expectations to dictate our behavior, and yet we're likely to have the greatest impact when we're perceived as a member of the culture and not an outsider:
+
+- Conform to the Culture Just Enough
+
+IBM researcher Geert Hofstede pioneered the study of how national cultures differ, and although we need to apply his insights with caution to avoid reductive stereotyping, his model can be immensely useful. INSEAD professor Erin Meyer has built upon Hofstede's work to address its implications for cross-cultural communication:
+
+- Geert Hofstede on the Dimensions of Cultural Difference
+
+- Erin Meyer on Culture and Communication
+
+Some cultures are particularly challenging, and we need to learn how to take care of ourselves without their support:
+
+- Surviving in a Toxic (or Merely Dysfunctional) Culture
+
+- How to Feed a Monster (Leading in Elite Organizations)
+
+Managing up often involves encouraging senior leadership to be more open to feedback:
+
+- Building a Feedback-Rich Culture
+
+- Building a Feedback-Rich Culture from the Middle
+
+ 
+
+4. Emotion Regulation
+
+This starts with understanding emotions' function, and I find the work of neuroscientists Antonio Damasio and Richard Davidson tremendously useful here:
+
+- Antonio Damasio on Emotion and Reason
+
+- The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live—and How You Can Change Them (Richard Davidson and Sharon Begley, 2012)
+
+Managing up means interacting with people in more senior hierarchical roles--sometimes challenging them, sometimes appeasing them--typically in circumstances when we feel a lack of authority or control and a degree of vulnerability. These situations often trigger strong emotions, and the goal of emotion regulation isn't simply to diminish what we're feeling and dampen our expressiveness, but to be deliberate and intentional in leveraging our emotions to help us accomplish our goals more effectively, both by managing ourselves and by having the desired impact on others:
+
+- The Tyranny of Feelings
+
+- Talking About Feelings
+
+- Attitude and Behavior
+
+- The Value of a Good Fight
+
+- Neuroscience, Leadership and David Rock's SCARF Model
+
+- Relating to Our Inner Critics
+
+- Risk Management (The Importance of Speaking Up)
+
+- On Speaking Up and Shutting Up
+
+- Leadership as a Performing Art
+
+More specifically, effective managing up also entails "empathizing up," recognizing that senior leaders are human beings like everyone else:
+
+- The Difficulty of Empathizing Up
+
+ 
+
+5. Coaching
+
+Finally, consider working with a coach. Executive coaching isn't exclusively for senior executives. There are many outstanding coaches who offer a sliding scale or a range of services that make them affordable to early- and mid-career professionals. Here are some questions to ask yourself and a prospective coach:
+
+- How to Find (and Choose) a Coach
+
+And here are some coaches I recommend for early- and mid-career professionals:
+
+- Agnes Le, Executive Coaching
+
+- Angelos Georgakis, Personal and Executive Coaching
+
+- Celine Teoh, Executive Coaching
+
+- Cristina Celis, Executive and Leadership Coaching
+
+- Dana Bilsky Asher, Executive Coach and Facilitator
+
+- Elena Chen, Executive Coaching
+
+- Glenn Terrell, Shinji Consulting & Coaching
+
+- Gwen Mellor Romans, Circle Hill Advisory
+
+- Jennifer Ouyang Altman, Inner Radio Leadership Coaching
+
+- Natalie Guillen, Advant Coaching
+
+- Nikki Turner, C3 Impact
+
+- Rodrigo Lopez, Rodrigo Lopez Coaching
+
+- Stephanie Stevens, Authentic Leadership Coaching
+
+ 
+
+Photo by Diane Cordell.
+

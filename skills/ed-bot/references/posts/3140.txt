@@ -1,0 +1,35 @@
+---
+title: Really Simple Skepticism
+url: https://edbatista.com/2005/02/really_simple_s.html
+slug: really_simple_s
+published: 2005-02-20T13:19:07
+updated: 2005-02-20T13:19:07
+source_body: wordpress-html
+---
+
+You might expect Rick Bruner at Business Blog Consulting to be an RSS booster, but he's refreshingly skeptical:
+
+I'm so tired of this idea that blogs and/or RSS are ever going to replace email (as I've said before). Why do journalists always think that a new medium means the death of an old one? Radio is still doing very well, thank you, despite TV having come along some 60 years ago now. Blogs are good. Email is also good. Spam is bad, but spam is not the end of email. Let's not throw the baby out with the bathwater. As for RSS, I still don't use it. Still haven't found a platform I really like.
+
+I particularly agree with Rick's complaint about RSS aggregators--a topic I've griped about myself.  I've come to like Bloglines as 1) an easy way to let people know what I'm reading (via my public subscriptions) and 2) a tool to quickly catch up on that reading when I've fallen behind, but I don't use it daily.  I prefer to just segment my blogrolls (see "Heavy Rotation," "Regular Spins," and "Occasional Listens" in the right-hand sidebar), and use this site as a jumping off point.  Bloglines is more efficient in some cases, but RSS doesn't provide a very rich user experience, and at least for the sites I read most frequently, it's more enjoyable and not significantly less efficient to just visit "in person."
+
+And of course Rick's right about spam not being the end of email--better filters and more prudent user behavior are helping immensely.  But RSS, spam and just the ever-increasing flow of legitimate messages are changing the nature of email as a medium.  For example, it's less effective as a de facto knowledge management or project management system--although search interfaces a la Gmail and MSN Desktop Search help out by replacing complex directory structures and time-consuming message management.
+
+But I'm optimistic about our ability to develop new behavioral protocols for email.  I'm not talking about tactics to increase our email productivity (although Merlin Mann has some great ideas on that front--hat tip to Jeffrey Veen), but rather an evolving, commonly-held understanding of how email should (and shouldn't) be used--something David Gelernter proposed in 2003:
+
+1. THE ACKNOWLEDGMENT RULE: Acknowledge in haste, respond at leisure. When you receive an email, acknowledge it within 24 hours if you can; take a week if you must, but more than that is (ordinarily) too long. An acknowledgment is not an answer. It's a one-liner, something like "thanks for your note; I'll be in touch soon." It tells the sender that his message has got through and that you plan to answer it some day. Once you've acknowledged a message, you should answer within (say) two weeks of sending the acknowledgment.
+
+2. THE RESEND RULE: If an acknowledgment or (later) an answer doesn't arrive in good time, resend your message verbatim. The receiver's time limits dictate the sender's. If your message hasn't been acknowledged a week later, resend it. If the acknowledgment arrives but no answer has materialized two weeks after that, resend. So you get (at the outside) two chances to restart a sputtering conversation--and that's it. (When you resend a message, a discreet "2" or "3" in the subject line should be enough to let the receiver know what's going on.)
+
+...
+
+Consider how my rules work in a few common situations.
+
+You overlook an email entirely. Especially common in the spam age, but happens regularly for other reasons too. Under my protocol, the sender waits a week; having got no acknowledgment, he then resends--without worrying whether he's waited long enough, whether you want to ignore him and he is intruding on your splendid isolation, etc. The conversation gets a second chance.
+
+You see an email, plan to respond but forget. Especially likely when the email is long or complicated. By sending a quick acknowledgment, you give the sender permission to nudge you (in a reasonable way, after a fair interval). The conversation is less likely to flicker out by accident.
+
+You finally remember to respond, but you've forgotten the details. It suddenly hits you that you intended to answer a message from somebody about some piece you once published--but a message from whom about what? A conscientious correspondent will shoulder his virtual shovel and dig the thing out. In practice, the exchange is probably going nowhere unless the sender decides to try again.
+
+You ignore an email on purpose. In this case you are better off without the protocol. Under the protocol, you will be forced to ignore not only the original but the duplicate. Reform is rarely cost-free.
+

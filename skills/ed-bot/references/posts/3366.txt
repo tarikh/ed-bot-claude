@@ -1,0 +1,54 @@
+---
+title: (Gmail + SnapperMail) x Treo = Happiness
+url: https://edbatista.com/2006/02/gmail_snapperma.html
+slug: gmail_snapperma
+published: 2006-02-25T13:32:37
+updated: 2006-02-25T13:32:37
+source_body: wordpress-html
+---
+
+Gmail, SnapperMail and the Treo 600 are all perfectly fine things, but I'd never been able to get them to work in harmony until this morning.  Using SnapperMail to access your Gmail account on a Treo is much better than using Blazer (or, presumably, any other mobile browser on the Treo.)  The message editing and mailbox features in SnapperMail are just so much better than anything Gmail can offer via a mobile interface.  SnapperMail also makes it possible to review and compose messages offline if you're in a dead zone (I'm talking to you, Verizon!), which you obviously can't do if you're reliant on a browser.  Finally, SnapperMail can retrieve your Gmail messages and push them to your Treo whenever you want--Gmail via a browser is pull-only, of course.
+
+Here are the Gmail configuration instructions from SnapperMail's list of ISPs and mail services:
+
+- These instructions require that you have the Premier or Enterprise edition of SnapperMail. GMail are rolling out their POP3 access in stages, so be aware that not all accounts will support this setup initially.
+
+- Log into your Gmail account, go into Settings, select the "Forwarding and Pop" link, and under POP3 Download, enable the type of POP3 access you want.
+
+- In your SnapperMail server account settings (Menu | Options | Edit Accounts | (choose account) | Server), enter the following:
+
+POP3 Server: pop.gmail.com
+Username: your full GMail email address
+Password: your GMail password
+
+SMTP Server: smtp.gmail.com
+Username: your full GMail email address
+Password: your GMail password
+
+IMPORTANT: Tap the "More" button at the bottom of the screen.
+For POP3 Settings:
+- Set the "Use SSL" dropdown to "Always Secure (wrapped port)"
+- Use Port 995 (this port number should automatically be set when you select the SSL option listed on the line above)
+- Activate the "Always trust server" checkbox.
+- Leave the other checkboxes unchecked.
+
+For SMTP settings, you can use either "Set" of settings below. There is no mention to the word "Set" anywhere in the SnapperMail interface. These are merely two different ways that you can configure SnapperMail to send Email using GMail's server. Simply choose the set below that you want to use, but do not mix the settings together between both sets.
+
+SMTP SETTINGS "More..." Set #1:
+- Set the "Use SSL" dropdown to "Always Secure (STARTTLS)"
+- Use port 587 (you will have to manually set this port number)
+- Activate the "Always trust server" checkbox.
+- Leave the other checkboxes unchecked.
+
+SMTP SETTINGS "More..." Set #2:
+- Set the "Use SSL" dropdown to "Always Secure (wrapped port)"
+- Use port 465 (this port number should automatically be set when you select the SSL option listed on the line above)
+- Activate the "Always trust server" checkbox.
+- Leave the other checkboxes unchecked.
+
+NOTE: Some people have reported that SnapperMail suddenly stops downloading messages from GMail, or it downloads erratically. This is usually a problem with GMail's POP3 server, not with SnapperMail. You should login to your GMail account using a web browser. Go to the Settings (or Options) page, shut off the POP3 option and accept the change. Then go back into the Settings page again, turn the POP3 option back on and accept the change. People have reported back to us that this usually works to get GMail's POP3 server working properly for them again.
+
+Piece o' cake.  Thanks to the helpful TreoCentral discussion board.
+
+tags: snappermail gmail
+

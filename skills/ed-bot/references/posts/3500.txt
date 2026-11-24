@@ -1,0 +1,77 @@
+---
+title: T-Groups, Feedback and Double-Loop Learning
+url: https://edbatista.com/2007/03/tgroups.html
+slug: tgroups
+published: 2007-03-20T00:54:36
+updated: 2025-09-24T11:59:44
+source_body: wordpress-html
+---
+
+How effective are your interactions with others?  What behaviors enhance your effectiveness, and what behaviors undermine your effectiveness?  How do people perceive you?  What behaviors positively affect the way you're perceived, and what behaviors make a negative impression on others?
+
+Getting answers to these questions is one reason why people participate in T-groups (the T is for "training"), an interpersonal development methodology developed by social psychologist Kurt Lewin.  I recently participated in a T-group as a facilitator, and the experience led me to think further about the underlying mechanisms at work.
+
+Using my post on Double-Loop Learning and Executive Coaching as a starting point, I've employed the same framework to take a look at the feedback process that occurs in T-groups.  (Click on each image below for a larger version.  And all of the graphics can be downloaded in a 5-slide PowerPoint file, 66 KB.)
+
+The first graphic below (here's a larger version) reflects what happens in most of our personal interactions, which can be described as single-loop experiences.  We carry with us a set of underlying assumptions about how we interact with others--for example, we believe that certain behaviors are effective and other behaviors are ineffective--and these assumptions form an implicit strategy that governs the behavioral choices we make in our interactions.  We may observe the success or failure of an interaction, learn from the results, and modify our behavior in some way, but we rarely challenge our most fundamental assumptions.
+
+In contrast, T-groups are an example of double-loop learning in action.  One of the primary activities in a T-group is giving and receiving candid feedback on the effectiveness (and ineffectiveness) of our behaviors.  Because of the trust that develops among T-group participants and the high value placed on candor, this feedback can be disconfirming and even difficult to hear.  It's so much more direct than the feedback we get from other sources that it changes our frame of reference when analyzing our interpersonal effectiveness.
+
+Rather than simply asking what we might have done differently to improve the outcome of an interaction, we begin to see that all our assumptions about what's effective and what's not limit the range of choices available to us and circumscribe how we interact with others.
+
+We start asking questions that challenge these assumptions--some of them turn out to be right, but others turn out to be wrong--and making that distinction allows us to expand our behavioral repertoire and select more effective strategies.  This additional step of identifying and challenging the implicit assumptions that predetermine our interpersonal style is what makes T-groups a "double-loop" experience.  (Here's a larger version of the graphic below.)
+
+To get more specific, let's look at my recent experience in a T-group.  As I note in the graphic below, feedback should be regarded as
+
+information that clarifies the costs and benefits of different
+
+behaviors, and we should change our behavior only if we decide that
+
+it's in our interest to do so, not simply in response to the feedback.
+
+But understanding the impact of our behaviors on others (and the
+
+resulting costs and benefits to us) can create a powerful motivation to
+
+look more closely at the assumptions that frame our behavioral choices.
+
+The feedback I received allowed me to identify a number of assumptions I was making that affect how I interact with others, including...
+
+- I communicate my emotions effectively.
+
+- Others appreciate my goal orientation and firm commitment.
+
+- I speak concisely and at appropriate intervals.
+
+I didn't assess these factors before interacting with others--I simply took them for granted, and as a consequence they were outside my frame of reference when it came to analyzing whether a certain interaction was effective (or not) and why.  (Here's a larger version of the graphic below.)
+
+The next step after identifying our assumptions is to ask questions that challenge them.  In my case, I began asking...
+
+- Am I holding back an emotion that should be expressed?
+
+- Am I putting a task ahead of someone's concerns or feelings?
+
+- Am I diluting my impact by using too many words or speaking too often?
+
+In each case, based on the feedback I was receiving, my answer was "Yes."  These conclusions allowed me to develop some alternative strategies that will expand my range of options when interacting with others.  (See the graphic below--here's a larger version.)  Because these strategies are based on more accurate assumptions about how my behavior impacts others, they're likely to lead to better results (and I'll have a clearer understanding of why a given interaction was effective or not.)
+
+Acknowledgements
+
+T-groups were first developed by Kurt Lewin, and my involvement with them has been through the Interpersonal Dynamics class at the Stanford Graduate School of Business.  For more information...
+
+- T-Groups, Trust, Leadership and Management
+
+- Kurt Lewin: Groups, Experiential Learning and Action Research
+
+My comments on feedback are based on the work of David Bradford and Allan Cohen.  For more information...
+
+- David Bradford and Allan Cohen on Supportive Confrontation
+
+- Bradford and Cohen's PowerUp
+
+The concept of double-loop learning was developed by Chris Argyris, and I’m indebted to Mark Smith’s explication at Informal Education.  For more information...
+
+- Chris Argyris, Double-Loop Learning and Meta-Work
+
+- Double-Loop Learning and Executive Coaching
+

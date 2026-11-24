@@ -1,0 +1,99 @@
+---
+title: Leadership in Crisis (FDR and the Rubber Band Effect)
+url: https://edbatista.com/2020/04/leadership-in-crisis-fdr-and-the-rubber-band-effect.html
+slug: leadership-in-crisis-fdr-and-the-rubber-band-effect
+published: 2020-04-01T19:10:15
+updated: 2025-10-06T17:56:13
+source_body: wordpress-html
+---
+
+To discuss a theme I'm seeing in my work with leaders on a daily basis I need to go back 80 years into the past. Why? Because from a certain angle, the year 2020 looks a lot like 1940...
+
+A Little History: America's Entry Into World War II
+
+As the Great Depression entered its second decade in the late 1930s, the world was lurching toward armed conflict, and President Franklin Delano Roosevelt was faced with a profound dilemma: How to prepare the United States for the possibility of war when the American people were reluctant to join the fight?
+
+From our vantage point today, we may be under the impression that Americans of that era were eager to counter Axis aggression, but a series of Gallup poll questions from this era tell a different story. [1]
+
+September 1, 1939: Nazi Germany invades Poland, and two days later Great Britain and France declare war on Germany.
+
+If it looks within the next few months as if England and France might be defeated, should the United States declare war on Germany and send our troops abroad?
+
+NO: 48%    YES: 42%:     NO OPINION: 10%
+
+October 6, 1939: Poland is defeated and divided up by Germany and the Soviet Union.
+
+If it appears that Germany is defeating England and France, should the United States declare war on Germany and send our army and navy to Europe to fight?
+
+NO: 71%    YES: 29%
+
+May 10, 1940: Germany invades the Netherlands, Belgium and France.
+
+Do you think the United States should declare war on Germany and send our army and navy abroad to fight?
+
+NO: 93%    YES: 7%
+
+June 22, 1940: France falls to Germany, leaving Great Britain as the only major power fighting the Axis.
+
+Which of these two things do you think is the more important for the United States to try to do-–to keep out of war ourselves or to help England win, even at the risk of getting into the war?
+
+HELP: 35%    KEEP OUT: 61%    NO OPINION: 4%
+
+But things changed that summer, including the imposition in September of the first peacetime draft in U.S. history. When Gallup posed the same question above three months later, the response was very different:
+
+Which of these two things do you think is the more important for the United States to try to do-–to keep out of war ourselves or to help England win, even at the risk of getting into the war?
+
+HELP: 52%    KEEP OUT: 44%    NO OPINION: 3%
+
+FDR won re-election to an unprecedented third term in November 1940, and the tide continued to turn.
+
+Which of these two things do you think is the more important for the United States to try to do--to keep out of war ourselves or to help England win, even at the risk of getting into the war?
+
+HELP: 60%    KEEP OUT: 40%
+
+In late 1940 and early 1941 FDR encouraged support for Great Britain, culminating in the "Lend-Lease" program, which authorized the provision of logistical and financial aid for the British war effort while nominally maintaining U.S. neutrality. [2]
+
+Which of these two things do you think is the more important for the United States to try to do–-to keep out of war ourselves or to help England win, even at the risk of getting into the war?
+
+HELP: 67%    KEEP OUT: 33%
+
+The proportion of Americans who wanted to join Britain in the fight against Nazi Germany wavered with the events of 1941, including Germany's attack on the Soviet Union and increasing tensions with Japan, but it remained above 60%.
+
+Then, on December 7, 1941, Japan attacked Pearl Harbor, and shortly thereafter FDR declared war on Japan, and Germany declared war on the U.S. What's notable is how many Americans were ready to fight Germany, not just Japan:
+
+Should President Roosevelt have declared war on Germany, as well as on Japan?
+
+YES: 91%    NO: 7%    NO OPINION: 3%
+
+In retrospect it seems clear that FDR knew that the United States would not be able to avoid involvement in the war, but as a consummate politician he was also keenly aware that he couldn't push the American people too far, too fast. (The story that FDR had advance notice of the attack on Pearl Harbor and allowed it to happen persists but is unsupported by any evidence. [3])
+
+So what's my point? How are these event of 80 years ago relevant to the situation leaders face today?
+
+The Rubber Band Effect
+
+One of a leader's foremost responsibilities is to predict the likelihood of future events and plan accordingly. A leader's effectiveness at this task may derive from any number of sources: the time and space for strategic thinking, access to critical data, a knack for pattern-recognition--or the ability to hire others with the requisite skills and make use of their recommendations.
+
+As a result, good leaders spend a material portion of their time envisioning the future--weeks, months, and even years ahead of the people around them. They peer over the horizon and get a sense of what it might be like to live there. This capability can be a tremendous asset--but only when it's coupled with the ability to influence others to adopt and act upon that same vision. In the absence of this capability, even the most far-seeing leader will suffer the fate of Cassandra in Greek myth: Blessed with the gift of prophecy, doomed to never be believed.
+
+Imagine there's a rubber band connecting the leader with the people around them. When the leader travels forward in time to envision the future, the rubber band stretches. This produces a useful and necessary tension between the leader's vision and everyone else's current reality, which, under the right circumstances, can move people to adopt this vision of the future and begin to act accordingly. But if the leader runs too far ahead or pulls too hard in an effort to bring people along, the rubber band breaks. There's a rupture between the leader's vision of the future and everyone else's current reality, and the leader loses influence as a result.
+
+If good leaders spend time living in the future, great leaders perfect the skill of inducing others to join them there. Sometimes this entails active efforts to shape and influence others' views--but it also requires the ability to abstain from taking action when necessary. Because the foresighted leader not only assesses the likelihood of future events, but also pays close attention to current trends and the extent to which they are sweeping other people along in their wake, with or without further action by the leader.
+
+The great leader steps into the future just far enough to encourage the people around them to consider the possibility of this alternative reality, but not so far ahead that their vision is dismissed or ignored. The great leader allows the combined force of their vision of the future and the movement of current trends to bring people along without unnecessary force by the leader or undue stress on others. The rubber band stretches, but it does not break.
+
+Is this always possible? No, of course not. Events rarely align so neatly. But it's something to strive for, and we can look to FDR in 1940 and '41 as an exemplar. He saw into the future, and he knew war was coming. He also knew that the process of influencing the American people would be a long and arduous one. If he yanked on the rubber band, it would snap--but he kept the tension up by looking for every opportunity to convey his vision of the future and encourage its adoption, alternating between active efforts to shape public opinion and sitting back and allowing events to take their course.
+
+And here's how this process shows up every day in my coaching practice: Every leader I work with is now tasked with looking into a volatile and uncertain future and placing high-stakes bets on what they believe to be the likely outcomes. They will inevitably be compelled to make decisions with imperfect and incomplete data. And they must do this while leading teams that include a number of people who are in varying states of panic, paralysis, and denial.
+
+The rubber bands that bind the leaders in my practice to the people around them are fraying under the strain. They must not break. My clients must maintain sufficient tension to help move their organizations and their employees forward, without putting so much pressure on people and systems that the bands rupture. It is a delicate balance.
+
+Footnotes
+
+[1] Public opinion figures from How did Public Opinion About Entering World War II Change Between 1939 and 1941?, from "Americans and the Holocaust" by the U.S. Holocaust Memorial Museum.
+
+[2] The Lend-Lease Program (Mark Seidl, Franklin D. Roosevelt Presidential Library and Museum)
+
+[3] Pearl Harbor: Did FDR Know? (David Culver, Bridgewater Review, 1982)
+
+Photos: FDR by the FDR Presidential Library. Rubber band by laogooli.
+

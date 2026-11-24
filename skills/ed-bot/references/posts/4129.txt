@@ -1,0 +1,69 @@
+---
+title: Negotiations and Symbolic Disputes
+url: https://edbatista.com/2022/09/negotiations-and-symbolic-disputes.html
+slug: negotiations-and-symbolic-disputes
+published: 2022-09-09T16:14:55
+updated: 2025-09-24T11:58:02
+source_body: wordpress-html
+---
+
+A occasional theme in my practice is a client who's perplexed by the obstinacy of their counterpart in a negotiation (which I use in the broadest possible sense, from formal talks to informal efforts to influence). Just when a deal seems imminent, the other party repeatedly introduces new terms or re-opens previously settled ones. Or a deal never seems imminent, with the prospect of a negotiated agreement constantly retreating before them, eventually disappearing over the horizon.
+
+I'm not talking about haggling--my clients typically expect that in negotiations. [1] What I'm referring to here is an almost inexplicable refusal to reach agreement. But I emphasize the "almost," because what sometimes explains an impasse in such an exchange is that it's not merely a negotiation but a symbolic dispute.
+
+What I mean by this is that the issues being negotiated aren't the factors that matter most in the situation. It's not that these issues are meaningless--although that's a possibility--but, rather, they symbolize something else that's more important to the other party. In some cases the other party is aware of this and acting in bad faith or playing games. But in my experience it's more likely that this dynamic is semi- or subconscious.
+
+To be clear, negotiations always have a symbolic dimension because humans are symbolic creatures. As the anthropologist and philosopher Ernest Becker noted, "The essence of man is really his paradoxical nature, the fact that he is half animal and half symbolic... Man has a symbolic identity that brings him sharply out of nature. He is a symbolic self." [2] In truth, we can't take any aspect of human experience at face value alone. Everything always stands for something else, at least to a degree, but in a symbolic dispute the representative relationship is predominant.
+
+What does this look like in practice? The possibilities are infinite, but there are certainly a number of terms with a significant symbolic dimension that we see repeatedly in negotiations: Money, titles, guarantees and assurances, deadlines and timeframes, physical space, geographic location. There's no universal code to understand what these terms might represent to a given individual, as everyone's symbolic meanings are different.
+
+But if you find yourself in this scenario it's essential to consider just what these terms might mean to your counterpart: Power, status, respect? Community, belonging, safety? Self-worth? Identity? If you continue to act as though the terms themselves matter when the other party is operating on a symbolic level, it will be difficult if not impossible to reach agreement. In part this is because our symbolic appetites are essentially limitless. Our needs for power or safety are only ever temporarily satisfied before they reassert themselves--this is one reason why your counterpart is continually retreating from (or blowing up) a negotiated agreement.
+
+Depending on the nature of the relationship, you may be able to set the terms aside for the moment, and have a deeper conversation about what's really at stake. Note that this will entail understanding your own symbolic attachment to various terms and being sufficiently candid with your counterpart to invite them to respond in kind. If it's not possible to do this directly, you may still be able to make progress by utilizing a concept from negotiation experts Roger Fisher and William Ury:
+
+The basic problem in a negotiation lies not in conflicting positions, but in the conflict between each side's needs, desires, concerns, and fears... Desires and concerns are interests. Interests motivate people; they are the silent movers behind the hubbub of positions. Your position is something you have decided upon. Your interests are what caused you to so decide. [3]
+
+Your respective positions are the terms at issue in the negotiation, but they merely symbolize a deeper set of underlying interests--your respective needs, desires, concerns, fears. The key, as Fisher and Ury note, is surfacing this symbolic connection:
+
+Behind opposed positions lie shared and compatible interests, as well as conflicting ones. We tend to assume that because the other side's positions are opposed to ours, their interests must also be opposed. In many negotiations, however, a close examination of the underlying interests will reveal the existence of many more interests that are shared or compatible than ones that are opposed...
+
+The most powerful interests are basic human needs. In searching for the basic interests behind a declared position, look particularly for those bedrock concerns which motivate all people. If you can take care of such basic needs, you increase the chance both of reaching agreement and, if an agreement is reached, of the other side's keeping to it. Basic human needs include:
+
+- security
+
+- economic well-being
+
+- a sense of belonging
+
+- recognition
+
+- control over one's life [4]
+
+All of this is much easier in a relationship with a degree of mutual trust, and that may well be lacking (or may have eroded over time). [5] Even then, you'll benefit by bearing in mind--to paraphrase René Magritte's wry caption above--that "This is not a negotiation." It's a symbolic dispute.
+
+ 
+
+Footnotes
+
+[1] Culture, Compensation and Negotiation
+
+[2] The Denial of Death, page 26 (Ernest Becker, 1973)
+
+[3] Getting to Yes: Negotiating Agreement Without Giving In, page 24 (Roger Fisher and William Ury, with Bruce Patton for the revised editions, 1981/2011)
+
+[4] Ibid, pages 25-27.
+
+[5] Two Sides of Trust
+
+ 
+
+For Further Reading
+
+Negotiating with Your Own Side
+
+Leader as Avatar
+
+ 
+
+Image: The Treachery of Images, by René Magritte, 1929.
+

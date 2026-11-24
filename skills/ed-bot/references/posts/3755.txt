@@ -1,0 +1,77 @@
+---
+title: A Challenge To Leaders: Help Others Self-Coach
+url: https://edbatista.com/2013/02/a-challenge-to-leaders-help-others-self-coach.html
+slug: a-challenge-to-leaders-help-others-self-coach
+published: 2013-02-05T05:00:00
+updated: 2025-09-24T11:59:33
+source_body: wordpress-html
+---
+
+The Leadership Case for Self-Coaching
+
+Helping people learn to self-coach is central to my approach to coaching. This isn't a noble ideal; it's a result of the fact that I see my clients and students for just 1% of their working hours--the remaining 99% of the time they're coaching themselves through every decision and interaction, and my effectiveness as a coach is reflected in their effectiveness at self-coaching.
+
+A similar dynamic exists in almost all organizations today, especially in fields comprised of knowledge workers, in Peter Drucker's phrase. Knowledge workers rarely, if ever, perform a task under the direct supervision of a leader or manager; time spent together by superiors and subordinates is almost always dedicated to reviews of work already completed or planning for work yet to be done. This reflects the impact of knowledge work on traditional org chart relationships and workplace hierarchies. As Drucker writes in Management Challenges of the 21st Century,
+
+[K]nowledge workers are not subordinates; they are "associates." For, once beyond the apprentice stage, knowledge workers must know more about their job than their boss does--or else they are no good at all. In fact, that they know more about their job than anybody else in the organization is part of the definition of knowledge workers...
+
+To be sure, these associates are "subordinates" in that they depend on the "boss" when it comes to being hired or fired, promoted, appraised and so on. But in his or her own job the superior can perform only if these so-called subordinates take responsibility for educating him or her...  In turn, these "subordinates" depend on the superior for direction. They depend on the superior to tell them what the "score" is. [pp 18, 20]
+
+Because knowledge workers require (and desire) little or no direct supervision and typically know more about the work to be done than their leaders and managers, effective leadership has come to look a lot like coaching--which is one of the primary reasons that the new business school curriculum we've rolled out at Stanford over the past decade puts so much emphasis on coaching, interpersonal skills and experiential learning.
+
+And just as my effectiveness as a coach is expanded dramatically by my ability to help others self-coach, leaders can enhance their effectiveness by helping people learn to coach themselves. "Coaching" doesn't need to be a formal activity that occurs between a superior and a subordinate in specially designated conversations, but rather can be a means by which knowledge workers guide themselves through day-to-day activities and over the span of their careers.
+
+Self-coaching can't replace the experience of working directly with a personal coach like myself or being actively coached by a manager, but those opportunities are time- and resource-intensive experiences that are constrained by an organization's budget for coaching and a leader's availability. Effective self-coaching can augment an organization's investment in coaching by outside professionals and internal leaders alike. Further, helping people self-coach is a natural fit with knowledge work's emphasis on self-management and flat hierarchies.
+
+So what does this look like in practice? Here are three principles to bear in mind:
+
+1. Meta-Work (Meta-What?)
+
+Helping someone learn to self-coach primarily means coaching them in a transparent way, so they're aware of the steps being taken and can replicate them later, both on their own and with others--a process I refer to as "meta-work." As I wrote in 2006, meta-work is any effort we undertake in order to work more effectively. Meta-work occurs whenever we step back from a task to ask ourselves "Why do we do this task this way?" or even "Why do we do this task at all?"
+
+In a self-coaching context, meta-work involves leaving time at the end of a conversation to debrief the conversation itself and understand why it was helpful (or why it wasn't), and identifying specific aspects of the leader's coaching approach (both in any given conversation and over the arc of the relationship) so that the other person can apply those techniques on their own. Note that this isn't extra work added to the leader's plate--it's work to be done by the other person with the leader. Our responsibility as a leader is to manage the agenda so that the immediate issues under discussion don't consume all the available time.
+
+2. More Questions, Less Advice
+
+Our first helping impulse is typically to offer advice, and this is particularly true when we're in a leadership role because our mental models of leadership often involve "knowing the answers." And at times effective coaching requires providing some direct advice or feedback. But it's much more useful in a coaching context to ask questions, especially at the outset. As longtime MIT professor Edgar Schein writes in Helping,
+
+The first intervention must always be what I am calling humble inquiry, even if the inquiry is merely careful observation and listening in the first few minutes of the encounter. The critical point is not to stereotype the situation even if it looks like something familiar. [pp 66-7]
+
+Schein notes that the first trap for a "helper" in any helping relationship is dispensing wisdom prematurely; it's essential to defer offering advice or answering questions and shift the responsibility for providing answers back to the person seeking help.
+
+The rationale here is threefold: First, we're more likely to follow up on ideas that we generate ourselves; even when we're accept advice we believe to be sound, we're less likely to act on it. Second, by definition knowledge workers have more information at their disposal than their leaders, and questions will help surface that information more effectively than advice. And finally, while providing answers may make us feel useful in the short run, over time it inhibits the other person's ability to find answers for themselves; asking questions is a much more effective way to help others learn to self-coach.
+
+3. Empathy, Empathy, Empathy
+
+Grant McCracken, an anthropologist who consults to corporate clients, makes the strategic case for empathy in Chief Culture Officer:
+
+In the twentieth century, the corporation was so large it created its own weather system. General Motors, IBM and Coca-Cola could shape the world to their will. And in this world it was enough to be really analytically smart. Now we have to know the world outside the corporation. We have to know worlds alien to our own. We have to know worlds that proceed according to other assumptions.  Without empathy, these worlds are opaque to us. [p 128]
+
+This is even more important at the interpersonal level; without empathy--the ability not only to understand another person's thoughts but also to vicariously experience their emotions--their world remains alien and opaque to us. Empathy makes coaching possible.
+
+Another key to the importance of empathy can be found in the work of Brené Brown, a research professor at the University of Houston and best-selling author who's spent years studying the topics of vulnerability, courage, worthiness and shame. Brown defines shame as "the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging." Empathy, in turn, is "the antidote to shame."
+
+The relevance for leaders in a coaching context is that almost everyone seeking help is experiencing some form of shame, even if it's just mild embarrassment--and the more serious the problem, the deeper the shame. Feeling and expressing empathy is critical to helping the other person defuse their shame or embarrassment and begin thinking creatively about solutions.
+
+But note that our habitual expressions of empathy can sometimes be counterproductive. Michael Sahota, a coach in Toronto who works with groups of software developers and product managers, offers a concise synopsis of Brown's work on the traps we fall into when trying to express empathy: "My problem's bigger," "Look on the bright side," and leaping to problem-solving while ignoring the emotions generated by the problem.
+
+The solution is to recognize these responses as traps, catch ourselves before we fall into them and instead truly empathize: Start with inquiry--see above, work to understand the other person's situation and--even more importantly--experience their feelings. We may not identify with their particular situation, and it may not evoke the same feelings in us, but we've surely had those feelings at some point. Tap into them and find a useful way to share them. All this is easy to write about and hard to do, but it's worth noting that recent research indicates empathy can be learned.
+
+The ultimate value from a self-coaching perspective is that people who are met with empathy begin to feel empathy for themselves, a critical step in the process of effectively analyzing and learning from our mistakes.
+
+More on Self-Coaching:
+
+Engaging Ourselves: Consistent self-coaching starts with self-engagement, which is both a fundamental attitude toward ourselves and an ongoing dialogue.
+
+Goal-Setting: The goals we set for ourselves have a significant influence on our performance; that said, goals can support our growth and development, and they can also get in the way.
+
+Self-Awareness: I define self-awareness as both a heightened in-the-moment perception of our physiological and emotional responses and a growing understanding of who we are as individuals based on those responses.
+
+Taking Action: The changes that occur in a self-coaching process take the form of a series of moments when we intervene and act--or choose not to act.
+
+Values and Vision: Self-coaching occurs in a context defined by our personal values and our vision for ourselves. (And when someone's values or vision diverge from that of the leader or their organization, it's critical to
+
+Accepting Ourselves: Most high-achieving knowledge workers are their own worst critics, and a key coaching role leaders can play is helping people feel a sense of self-compassion.
+
+Photo by crabchick. Yay Flickr and Creative Commons.
+

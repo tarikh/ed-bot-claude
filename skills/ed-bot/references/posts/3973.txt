@@ -1,0 +1,97 @@
+---
+title: Startup Leadership: A Greater Us
+url: https://edbatista.com/2018/07/startup-leadership-a-greater-us.html
+slug: startup-leadership-a-greater-us
+published: 2018-07-09T05:00:00
+updated: 2025-10-08T21:37:46
+source_body: wordpress-html
+---
+
+The great danger that comes with growth is losing the proper balance between technology and business. At the best companies, suits and nerds alike see themselves as part of a greater 'us.'
+
+~Robert Cringely [1]
+
+Most of my coaching clients are CEOs of rapidly growing technology companies, and the challenge described above is one of the most important problems they face. Robert Cringely--the pen name of journalist Mark Stephens--wrote Notes from the Field for InfoWorld from 1987 to 1995, and his "industrial gossip column" (as he called it) gave him a unique perspective on a host of companies that rose and fell (and, sometimes, rose again) during that pivotal era. [2] Here's an excerpt from "Economics of Scale," a chapter in Cringely's 1992 book (republished in 1996):
+
+For computer companies, the cost of growth is usually innocence. Many company founders, who have no trouble managing 25 highly motivated techies, fail miserably when their work force has grown to 500 and includes all types of workers. And why shouldn't they fail? They aren't trained as managers. They haven't been working their way up the management ladder at a big company like IBM. More likely, they are 30 years old and suddenly responsible for $30 million in sales, 500 families, and a customer base that keeps asking for service and support. Sometimes the leader, who never really imagined getting stuck in this particular rut, is up to the job and learns how to cope. And sometimes he or she is not up to the job, and either destroys the company or is replaced with another plague--professional management.
+
+There comes a day when the founders start to disappear, and the suits appear, with the MBAs and their ideas about price points, market penetration, and strategic positioning. And because these new people don't usually understand the inner workings of the computer or the software that is the stuff actually made by the company they work for, the nerds tend to ignore them, thinking that the suits are only a phase the company is going through on its way to regaining balance and remembering that engineers are the appropriate center of the organization.
+
+The nerds look on their nontechnical co-workers--the marketing and financial types--as a necessary evil. They have to be kept around in order to make money, thought the nerds are damned if they understand what these suits actually do...
+
+But the coming of the suits is more than just a phase; it's what makes these companies bigger, sometimes it's what kills them on the way to being bigger, but either way it changes the character of each company and its leaders forever.
+
+The great danger that comes with growth is losing the proper balance between technology and business. At the best companies, suits and nerds alike see themselves as part of a greater 'us.' [3]
+
+It's striking how little has changed over the last quarter-century (other than the gradual disappearance of the term "nerds"), and this passage touches on a number of issues that I see regularly in my practice today:
+
+From Family to Tribe to Village
+
+In "Blitzscaling," Tim Sullivan's insightful Harvard Business Review interview with Reid Hoffman, the LinkedIn founder discusses the various stages a technology company progresses through as it scales:
+
+We see scale as a series of stages, based on orders of magnitude: A family-scale business can measure its employees in single digits; a tribe in tens; a village in hundreds; a city in thousands. A nation has more than 10,000 employees. These are estimates, not precise guides; a company often remains a family until around 15 employees, a tribe until around 150, and so on. At each level, the way you run various functions--financing the company, hiring and onboarding employees, marketing the product, and so on--changes significantly. [4]
+
+Cringely's remarks above highlight the initial leaps technology company leaders must navigate--first from the founding family to a small tribe, and then to a mid-sized village--and I begin working with many of my clients in the midst of one of these transitions. In part this is because at this stage the company now has sufficient resources to pay for coaching, but the more fundamental driver is that these transitions typically result in a set of changes that pose difficulties for leaders:
+
+- The leader must focus only on the most important problems, while more and more people are clamoring for their attention.
+
+- Some of the leader's co-founders and initial executives are having difficulty scaling up, and the leader must stretch, level, or fire them.
+
+- The informal and implicit norms that were sufficient to create a productive culture in a small, tight-knit homogeneous group are inadequate in a larger, more heterogenous group.
+
+Growing into Leadership
+
+While some of my clients have extensive professional backgrounds, it's not uncommon for others to find themselves in precisely the situation described by Cringely: lacking leadership experience or training, but suddenly responsible for an organization that's generating millions of dollars in revenue, supporting hundreds of employees and their families, and serving thousands of customers.
+
+For some leaders, this can trigger an intense period of doubt and uncertainty: Now that the job has changed, do I have what it takes to keep it? And if so, do I still want it? And if so, for how long? In these circumstances there's no stasis--leaders either grow into the role or move on with their lives (or struggle until they're asked to move on involuntarily.) For those who elect to stay and challenge themselves, that growth can take many forms, but I see several common themes among my clients:
+
+- A recognition that growing companies need leaders who do less (and lead more), which typically requires a fundamental shift in understanding how they add value.
+
+- The ability to let go of personal accomplishments, focus instead on motivating others, and grow comfortable with power without becoming self-aggrandizing.
+
+- A commitment to leadership as a practice, which generally entails a new approach to personal habits and self-care practices, specifically mindfulness, exercise, and sleep.
+
+Getting to "Us"
+
+When I taught Interpersonal Dynamics (aka Touchy Feely) at Stanford, one of the first readings on my syllabus [5] was "Getting to 'Us,'" by George Halvorson, the former CEO of Kaiser Permanente, who drew on a body of research known as social identity theory [6] to discuss the implications of group distinctions in organizational life:
+
+Humans are social creatures; we fall readily into group loyalties. We instinctively divide the world into "us" and "them" and treat others very differently according to which category they’re in. Activating us-versus-them energy is the oldest leadership tool in the box. In business settings, the effects can be wonderful. But they can also be terrible, giving rise to warring factions internally and cutting off collaborative possibilities externally. It’s surprising how many business managers are not very thoughtful about wielding this tool...
+
+In the 1970s the social psychologist Henri Tajfel gave us the concept of social identity--the understanding that an individual’s identity is powerfully shaped by group allegiances... Researchers since have shown that when people in a work setting have a strong sense of being an us, morale and productivity rise...
+
+Many workplaces default to a version of kinship based on function. A group’s shared identity reflects a common characteristic of its members—everyone’s an engineer, or everyone’s a radiologist. Doing similar work under the same conditions is enough to make an us. But it doesn’t provide much impetus for the group to align its energies and take bold action. [7]
+
+This highlights the key dilemma noted by Cringely above--as a technology company grows, it's inevitable that the organization will subdivide into distinct identity-based cultures. Cringely's "nerds vs. suits" paradigm is far more stark than the dynamics I typically see in my practice; my clients who are highly technical still care about the company's financial success, and those who lack in-depth technical expertise aren't simply in it for the money. And yet some version of this divide persists in almost every one of my clients' companies.
+
+As Halvorson makes clear, this isn't necessarily a bad thing. Group identities based on functional domain can create a sense of esprit de corps and create opportunities for fruitful competition. But these benefits can easily be outweighed by the risk that people will identify more with their sub-group than with the organization as a whole, or the possibility of internal competition becoming a distraction from the company's larger goals. There's no simple solution to this issue, but the leaders I work with who do achieve "a greater us" pay close attention to these factors:
+
+- The establishment and maintenance of a sense of cohesiveness among senior executives that transcends functional rivalries.
+
+- A balance between accountability and empathy throughout the organization, starting with their management of their direct reports.
+
+- The importance of clarity regarding decision-making and a shared understanding of the process being applied in any given situation.
+
+Footnotes
+
+[1] Accidental Empires, page 250 (Robert Cringely, 1996, 2nd edition)
+
+[2] Who Is Robert X. Cringely?
+
+[3] Accidental Empires, pages 249-250 (Robert Cringely, 1996, 2nd edition)
+
+[4] Blitzscaling (Reid Hoffman interviewed by Tim Sullivan, Harvard Business Review, 2016)
+
+[5] Interpersonal Dynamics
+
+[6] For more on social identity theory: Experiments in Intergroup Discrimination (Henri Tajfel, Scientific American, 1970) and Social Identity Theory (Gazi Islam, Encyclopedia of Critical Psychology, 2014)
+
+[7] Getting to "Us" (George Halvorson, Harvard Business Review, 2014)
+
+For Further Reading
+
+Startup Leadership: Are We Video-Gaming or Ditch-Digging?
+
+Startup Leadership: Are We Rowing or Rafting?
+
+Photo by Hien Nguyen.
+

@@ -1,0 +1,135 @@
+---
+title: Cautionary Tales (Authenticity at Work)
+url: https://edbatista.com/2019/06/cautionary-tales-authenticity-at-work.html
+slug: cautionary-tales-authenticity-at-work
+published: 2019-06-26T07:45:15
+updated: 2025-09-24T11:58:09
+source_body: wordpress-html
+---
+
+Photo by Alan Levine
+
+A Cautionary Tale
+
+I've learned much from Jeff Pfeffer's essential work on power [1], and in his book Leadership BS he tells a story about one of his former Stanford MBA students:
+
+A woman...has been promoted to head her own marketing analytics team... A peer has gone to their mutual boss and suggested that her unit be moved under him--a smart way for him to not only expand his domain but also get more talent working in his unit so the unit’s performance will appear better in the future.
+
+"What was your response to all of this?" I ask. Her reply: to use her learning and ideas from a leadership course on interpersonal dynamics, colloquially referred to as "touchy-feely," to attempt to repair the relationship with her peer. "Why did you do that?" I inquire. "Because," she responds, "I have been taught to build relationships of authenticity and trust at work." When I ask how her efforts went, she comments that of course they didn’t work at all, because her peer was not interested in "repairing a relationship" or behaving with trust and authenticity; he was interested in taking over her team for his own advantage--a not uncommon situation.
+
+When she went to her boss and later to the head of HR...their response was to do nothing except to sensibly remind her that she needed to become able to effectively look after herself. Today that woman works for another organization in a different part of the country. [2]
+
+When I taught Interpersonal Dynamics at Stanford--the course commonly referred to as "Touchy Feely"--one of the assigned readings on my syllabus was an excerpt from Leadership BS that included this story, and I emphasized its importance by reading this passage aloud at the beginning of my class on "Self-Disclosure and Authenticity." [3] After recounting this anecdote to my students, I told them that if they allowed something like this to happen in their careers because of what they learned in my class, then I would have failed them as a teacher, because they would have missed the point I was trying to make.
+
+A simplistic caricature of Touchy Feely, reflected in its affectionate nickname, is that it supposedly teaches students to be trusting, open and candid--i.e., "authentic"--under all circumstances, and this approach is perceived to be at odds with the supposed ethos of Pfeffer's Paths to Power course, which itself can be caricatured as promoting a distrustful, ruthless, mercenary approach to achieving professional success. Neither caricature accurately reflects these different but complementary courses, and the danger posed by such caricatures isn't confined to classrooms at Stanford, as demonstrated by the experience of Pfeffer's former student.
+
+I believe firmly in the value of authenticity at work, and at the same time I'm under no illusions about the risks that exist when people fail to understand precisely what it means and how it should be employed in their professional lives.
+
+What Is Authenticity?
+
+As I've written before, the topic of authenticity often comes up in my coaching practice with leaders, who can struggle to "be authentic," given the many competing (and even conflicting) demands they face. [4] One key to resolving this challenge is to understand the nature of the "authentic self"--the topic of my earlier piece--and another lies in clarifying just what we mean by "authenticity." Wharton professor Adam Grant has offered one such definition:
+
+We are in the Age of Authenticity, where "be yourself" is the defining advice in life, love and career. Authenticity means erasing the gap between what you firmly believe inside and what you reveal to the outside world. As Brené Brown, a research professor at the University of Houston, defines it, authenticity is "the choice to let our true selves be seen..."
+
+But for most people, "Be yourself" is actually terrible advice. If I can be authentic for a moment: Nobody wants to see your true self. We all have thoughts and feelings that we believe are fundamental to our lives, but that are better left unspoken. [5]
+
+Grant goes on to make a connection between authenticity and the concept of "self-monitoring," which refers to our ability to modify our interpersonal behavior and to sense the expressive behaviors of others. In the 1980s psychologists Richard Lennox and Raymond Wolfe designed a still widely-used instrument to determine whether people are "high" or "low" self-monitors. [6] High self-monitors readily pick up on social cues from others and adjust their behavior in response, while low self-monitors are either less attuned to such cues or less interested in conforming to others' expectations (or both). Grant continues, linking to relevant research to bolster his points:
+
+Low self-monitors criticize high self-monitors as chameleons and phonies. They’re right that there’s a time and place for authenticity. Some preliminary research suggests that low self-monitors tend to have happier marriages and lower odds of divorce. With your romantic partner, being authentic might lead to a more genuine connection...
+
+But in the rest of our lives, we pay a price for being too authentic. High self-monitors advance faster and earn higher status, in part because they’re more concerned about their reputations. And while that would seem to reward self-promoting frauds, these high self-monitors spend more time finding out what others need and helping them. In a comprehensive analysis of 136 studies of more than 23,000 employees, high self-monitors received significantly higher evaluations and were more likely to be promoted into leadership positions. [7]
+
+Further cautionary tales. Apparently when we're "authentic" we put our professional prospects at risk--that is, if our definition of authenticity entails a lack of self-monitoring. But Grant's piece led to a direct response from Brown, who took issue with his characterization of her position:
+
+I question...the reductionist nature of Grant’s conclusions on authenticity and the misrepresentation of my work...
+
+The definition of authenticity that I use in my work (The Gifts of Imperfection and Daring Greatly) is long and nuanced. Grant pulled nine words out of context. Why? Because using the central part of my definition of authenticity would have bankrupted his entire argument that authenticity is the mindless spewing of whatever you’re thinking regardless of how your words affect other people.
+
+In my research I found that the core of authenticity is the courage to be imperfect, vulnerable, and to set boundaries.
+
+For all of us who try to put this definition into practice on a daily basis, I would argue that authenticity requires almost constant vigilance and awareness about the connections between our thoughts, emotions, and behaviors. It also means staying mindful about our intentions. Real authenticity actually requires major self-monitoring and isn’t, as Grant proposes, the lack of self-monitoring. In fact, setting boundaries is, by definition, self-monitoring--it’s thinking about what you’re sharing, why you’re sharing it, and with whom you should be sharing it. [8, emphasis original]
+
+You Can't Trust a Predator
+
+Photo by Yin
+
+In my class on "Self-Disclosure and Authenticity" I showed the image above after reading the story about Jeff Pfeffer's unfortunate student. Some people gasped with concern until they realized that the lion was safely behind glass, and the child wasn't at risk. My point was that we can't trust predators--while there's certainly value in being more trusting, open and candid, i.e. "authentic," there are many circumstances under which we need to be cautious and thoughtful about what we disclose, and there are some people with whom we shouldn't share any information that could be used to our disadvantage. As Brown makes clear, authenticity involves setting boundaries, and sometimes this is absolutely necessary to keep ourselves safe.
+
+Brown's response seems to have prompted Grant to reconsider, and in a follow-up post he qualified his initial comments, with additional links to relevant research:
+
+I'm not a fan of being inauthentic. Authenticity is a virtue. But just as you can have too little authenticity, you can also have too much... Virtues have a Goldilocks flavor: they can be too hot or too cold. The goal is to develop just the right amount of each one. That’s true for authenticity. Have too little, and you’ll be seen as a faker, a liar, or a jerk. It’s bad for your career—not to mention your chances of achieving morality or even decency. The big question is: what are the costs of being too authentic? So far, social scientists have pointed to at least three possibilities.
+
+(1) Failing to grow. INSEAD professor Herminia Ibarra finds that if you’re deeply concerned with being true to yourself, you’re at risk for sticking rigidly to that self instead of evolving and changing.
+
+(2) Over-sharing. In her inspiring book Daring Greatly, Brené Brown has written thoughtfully about how vulnerability is not the same as oversharing. But evidence suggests that oversharing is more likely when authenticity is important to you. In two studies, psychologist Gwendolyn Seidman found that people who are motivated to express their true selves post more personally revealing and emotional content on Facebook. Other researchers have suggested that people who want to be seen authentically are more likely to share information that jeopardizes their professional relationships. Aiming to be highly authentic leads us to filter less.
+
+(3) Feeling inferior. Studies in companies and controlled experiments show that people are less creative and less helpful when they work for highly authentic leaders who have a strong sense of their values. I’ve watched this happen with highly authentic Fortune 500 CEOs and military generals: their junior colleagues don’t feel courageous or vulnerable enough. They stay silent, even though that’s the exact opposite of what authentic leadership is supposed to promote. [9]
+
+Still more cautionary tales, all worthy of our attention (and I've previously cited Ibarra's work to highlight the importance of tolerating discomfort in order to grow.) [10] But Grant's emphasis on the risks of individual self-expression reminds me of Rob Goffee and Gareth Jones' perspective:
+
+No leader can look into a mirror and say, "I am authentic." A person cannot be authentic on his or her own. Authenticity is largely defined by what other people see in you. [11]
+
+What Brown, Goffee and Jones highlight is that authenticity isn't an individual characteristic; it's an interpersonal experience that occurs in the context of a relationship. We are not--we cannot be--authentic in a vacuum or at a remove from others. To "be authentic" in isolation is meaningless. To "be yourself" without taking the context into account isn't authenticity--it's narcissism. While authenticity certainly entails some degree of self-disclosure, and while we may choose "to let our true selves be seen" in some way, for these actions to have value we must do so in a way that's mindful of the impact on others (and ourselves.)
+
+So what does this entail? What allows us to be authentic at work while mitigating the risks? The key is raising our self-awareness. As Bill George and his co-authors have written, "First and most important, [authentic leaders]...see themselves not as passive observers of their lives but rather as individuals who can develop self-awareness from their experiences." [12] Such self-awareness isn't an accidental by-product of experience, but the result of deliberate efforts to test hypotheses and assess the outcomes. As Brown notes above, "real authenticity actually requires major self-monitoring," and this can derive from a number of sources:
+
+- Journaling about our experiences helps us process our memories and identify mental models more effectively (and this need not be time-consuming--just 30 seconds is sufficient.)
+
+- Building relationships with colleagues who can observe us at work, offer candid feedback, and serve as self-coaching partners.
+
+- Paying attention to the warning signs that are encouraging us to slow down and proceed more deliberately.
+
+- Observing the norms of the surrounding organizational culture, particularly when we're in a new role, and conforming just enough.
+
+- And while I obviously have a vested interest, I highly recommend working with a coach. (I've worked with mine for the better part of the past 20 years.)
+
+ 
+
+This is a companion piece to Leadership and Authenticity.
+
+Thank you to Adam Grant, Brené Brown and Jeff Pfeffer.
+
+Footnotes
+
+[1] Power: Why Some People Have It and Others Don't (Jeff Pfeffer, 2010)
+
+[2] Leadership BS: Fixing Workplaces and Careers One Truth at a Time, pages 42-43 (Jeff Pfeffer, 2015)
+
+[3] Interpersonal Dynamics, Class 3: Self-Disclosure and Authenticity
+
+[4] Leadership and Authenticity
+
+[5] Unless You're Oprah, "Be Yourself" Is Terrible Advice (Adam Grant, The New York Times, June 4, 2016)
+
+[6] Revision of the Self-Monitoring Scale (Richard Lennox and Raymond Wolfe, Journal of Personality and Social Psychology, 1984, and discussed further in Self-Monitoring and Self-Monitoring and Authenticity)
+
+[7] Unless You're Oprah, "Be Yourself" Is Terrible Advice (Adam Grant, The New York Times, June 4, 2016)
+
+[8] My response to Adam Grant’s New York Times Op/Ed (Brené Brown, LinkedIn, June 5, 2016)
+
+[9] The Dangers of Being Authentic (Adam Grant, LinkedIn, June 5, 2016)
+
+[10] Leadership and Authenticity
+
+[11] Managing Authenticity (Rob Goffee and Gareth Jones, Harvard Business Review, 2005)
+
+[12] Discovering Your Authentic Leadership (Bill George, Peter Sims, Andrew McLean and Diana Mayer, Harvard Business Review, 2007)
+
+For Further Reading
+
+The Value of Journal Writing
+
+Corn Mazes and Mental Models
+
+The 30 second habit with a lifelong impact (Robyn Scott, The Startup, 2014)
+
+Self-Coaching Is SOCIAL
+
+The Importance of Yellow Lights
+
+The Importance of Slowing Down
+
+Conform to the Culture Just Enough
+
+How to Find (and Choose) a Coach
+

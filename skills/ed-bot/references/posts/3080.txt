@@ -1,0 +1,17 @@
+---
+title: Custom Cars
+url: https://edbatista.com/2005/01/custom_cars.html
+slug: custom_cars
+published: 2005-01-22T11:34:03
+updated: 2005-01-22T11:34:03
+source_body: wordpress-html
+---
+
+The new Ford Mustang is much more attractive than the sorry models I remember from the '80s. But what grabbed my attention was this detail:
+
+"The font on the gauges reeks of old-school style, yet in an interestingly modern twist, the new car is available with an optional "My Color" package that allows the driver to customize the dash lighting with more than 125 different color backgrounds."
+
+This is still a fairly superficial aspect of design, but it's striking that Ford is giving customers the ability to personalize something that had previously been uniform in every other model of the past (as far as I'm aware).
+
+Seems like one more bit of evidence supporting Virgina Postrel.
+

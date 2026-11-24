@@ -1,0 +1,141 @@
+---
+title: Abilene: Loneliness and Belonging in Organizational Life
+url: https://edbatista.com/2021/02/abilene-loneliness-and-belonging-in-organizational-life.html
+slug: abilene-loneliness-and-belonging-in-organizational-life
+published: 2021-02-15T13:39:17
+updated: 2025-09-24T11:58:06
+source_body: wordpress-html
+---
+
+We frequently fail to take action in an organizational setting because we fear that the actions we take may result in our separation from others, or...we are afraid of being tabbed as "disloyal" or are afraid of being ostracized as "non-team players." But therein lies a paradox within a paradox, because our very unwillingness to take such risks virtually ensures the separation and aloneness we so fear.
+
+~Jerry Harvey, 1974 [1]
+
+"The Abilene Paradox: The Management of Agreement," by the late Jerry Harvey of George Washington University, is one of the classics of management literature. The title refers to the city of Abilene, located in the center of Texas, and is derived from an experience Harvey had with his family.
+
+One summer he and his wife visit her parents, who live in a small town some distance from Abilene. It's brutally hot, dusty and windy, and clearly the best thing to do is stay at home--but somehow they find themselves driving to the city, where they proceed to have a predictably terrible time. After returning home, tired and unhappy, they get into an argument and realize that no one had wanted to go in the first place:
+
+After the outburst of recrimination we all sat back in silence. Here we were, four reasonably sensible people who, of our own volition, had just taken a 106-mile trip across a godforsaken desert in a furnace-like temperature through a cloud-like dust storm to eat unpalatable food at a hole-in-the-wall cafeteria in Abilene, when none of us had really wanted to go. In fact, to be more accurate, we'd done just the opposite of what we wanted to do. The whole situation simply didn't make sense.
+
+At least it didn't make sense at the time. But since that day in Coleman, I have observed, consulted with, and been a part of more than one organization that has been caught in the same situation. As a result, they have either taken a side-trip, or, occasionally, a terminal journey to Abilene, when Dallas or Houston or Tokyo was where they really wanted to go. And for most of those organizations, the negative consequences of such trips, measured in terms of both human misery and economic loss, have been much greater than for our little Abilene group.
+
+This article is concerned with that paradox—the Abilene Paradox. Stated simply, it is as follows: Organizations frequently take actions in contradiction to what they really want to do and therefore defeat the very purposes they are trying to achieve. [2]
+
+Here Harvey's subtitle is significant: "The Management of Agreement." While he fully acknowledges the importance of managing conflict in organizations, he contends that managing agreement can actually be a more pressing problem, if only because it happens so often and yet is so poorly understood. So how do we wind up in Abilene, when what we really want to do is stay home? How do our organizations wind up pursuing initiatives that contradict our intentions? Harvey offers a concise diagnosis of how we lead ourselves astray:
+
+- More often than we realize, we agree privately on an understanding of the situation or problem and the steps required to cope with it.
+
+- But lack of candor in public discourse means we fail to communicate our perspective clearly and accurately, and we unintentionally mislead each other.
+
+- We then make decisions on the basis of unclear, inaccurate information, which leads to counterproductive outcomes.
+
+- These counterproductive outcomes result in frustration and unhappiness with the organization.
+
+- We express these feelings only in subgroups with trusted colleagues, typically blaming other subgroups or authority figures.
+
+But what underlies these dynamics? And why do we so often find ourselves repeating this dysfunctional pattern? Here we arrive at the heart of "The Abilene Paradox"--not the colorful story above, but Harvey's fundamental analysis of organizational life:
+
+The core of the paradox lies in the individual's fear of the unknown. Actually, we do not fear what is unknown, but we are afraid of things we do know about. What do we know about that frightens us into such apparently inexplicable organizational behavior?
+
+Separation, alienation, and loneliness are things we do know about—and fear. Both research and experience indicate that ostracism is one of the most powerful punishments that can be devised. Solitary confinement does not draw its coercive strength from physical deprivation. The evidence is overwhelming that we have a fundamental need to be connected, engaged, and related and a reciprocal need not to be separated or alone. Everyone of us, though, has experienced aloneness. From the time the umbilical cord was cut, we have experienced the real anguish of separation—broken friendships, divorces, deaths, and exclusions. C. P. Snow vividly described the tragic interplay between loneliness and connection:
+
+Each of us is alone; sometimes we escape from our solitariness, through love and affection or perhaps creative moments, but these triumphs of life are pools of light we make for ourselves while the edge of the road is black. Each of us dies alone.
+
+That fear of taking risks that may result in our separation from others is at the core of the paradox. It finds expression in ways of which we may be unaware, and it is ultimately the cause of the self-defeating, collective deception that leads to self-destructive decisions within organizations...
+
+We frequently fail to take action in an organizational setting because we fear that the actions we take may result in our separation from others, or...we are afraid of being tabbed as "disloyal" or are afraid of being ostracized as "non-team players." But therein lies a paradox within a paradox, because our very unwillingness to take such risks virtually ensures the separation and aloneness we so fear. [3]
+
+So what can we do? Harvey outlines a set of what we might call refusals--negations of our conventional responses to difficulties in organizational life.
+
+- Refuse to cast ourselves as victims and others as our victimizers. "This assignment of roles is both irrelevant and dysfunctional, because once a business...arrives in Abilene, all its members are victims. Thus, arguments and accusations that identify victims and victimizers at best become symptoms of the paradox, and, at worst, drain energy from the problem-solving efforts required to redirect the organization along the route it really wants to take."
+
+- Refuse to assign blame to others, and take responsibility for our contributions to the problem. "Each person, in his own collusive manner, shares responsibility for the trip, so searching for a locus of blame outside oneself serves no useful purpose for either the organization or the individual."
+
+- Refuse to expect authority figures to save us from ourselves. "The power to destroy the paradox’s pernicious influence comes from confronting and speaking to the underlying reality of the situation, and not from one’s hierarchical position within the organization. Therefore, any organization member who chooses to risk confronting that reality possesses the necessary leverage to release the organization from the paradox’s grip." [4]
+
+The difficulty, of course, is that to fully free ourselves from the paradox, we must make these refusals together, as a group, which requires candor in public discourse--the absence of which led us into the paradox in the first place. We must be willing to share our private perspectives without knowing whether they are shared by others. We must be willing to speak up--and in so doing run the risk of separating ourselves from the group. And here we must come to grips with the daunting challenge embedded in Harvey's reference to C.P. Snow [5], which I interpret as follows:
+
+- We are fundamentally alone, and we escape our solitude through love and affection.
+
+- All of our associations--including organizational life--can be seen as efforts to experience love and affection, and thereby alleviate our solitude, if only partially and temporarily. [6]
+
+- This is true even--and perhaps especially--in organizations that are not superficially loving or affectionate.
+
+- Thus the reluctance to speak up and confront these paradoxes in organizational life is a natural and expected response.
+
+- We willingly travel to Abilene, over and over again, because the risk of losing our associations and being condemned to loneliness is a far worse fate.
+
+The solution to this dilemma depends upon establishing a sense of belonging in the organization that is sufficient to enable its members to speak up without fear of ostracism and isolation. This starts with a sense of psychological safety, a topic that's been studied extensively by Harvard Business School professor Amy Edmondson. In a psychologically safe organization, Edmondson notes:
+
+Individuals feel they can speak up, express their concerns, and be heard. This is not to say that people are "nice." A psychologically safe workplace is one where people are not full of fear, and not trying to cover their tracks to avoid being embarrassed or punished. [7]
+
+But safety is merely a necessary precursor in an effort to establish belonging. To go further we must counter the fundamental loneliness of existence through the active expression of love and affection. And just as psychological safety doesn't mean that people are "nice," the expression of love and affection in organizational life doesn't mean that we should seek to replicate their expression in other settings. As I've written before,
+
+Love is a big word and a frightening one, and we often hesitate to use it in the professional realm, at least in any meaningful way. I suspect that the problem lies with our narrow definition of the term--we hear "love" and automatically think of romantic love, or familial love, and it seems embarrassing or even inappropriate to apply the term to our professional relationships. But in the best of those relationships it's love we feel--not romantic love or familial love, but love nonetheless, and as leaders our ability to summon and express that love can be a powerful force. [8]
+
+Harvey notes that larger cultural factors exacerbate this challenge, citing the work of futurist Alvin Toffler and sociologist Philip Slater, which I find both disheartening and encouraging:
+
+Our cultural emphasis on technology, competition, individualism, temporariness, and mobility has resulted in a population that has frequently experienced the terror of loneliness and seldom the satisfaction of engagement. Consequently, though we have learned of the reality of separation, we have not had the opportunity to learn the reciprocal skills of connection, with the result that, like the ancient dinosaurs, we are breeding organizations with self-destructive decision-making proclivities. [9]
+
+I'm disheartened because Harvey was writing in 1974, and many trends over the past half-century have only heightened "our cultural emphasis on technology, competition, individualism, temporariness and mobility." Our efforts to foster a sense of belonging in organizational life must swim against the prevailing tides.
+
+But I'm simultaneously encouraged, because our starting point need not be anything grandiose. We must simply seek out opportunities to provide ourselves and others "the satisfaction of engagement," and to cultivate "the reciprocal skills of connection." These are available to us every day, in every relationship, in every interaction. We can choose to engage more fully. We can choose to connect more deeply. We can find ways to express love and affection that are appropriate to our organizational cultures [10], making them less lonely places in which we can be more direct and candid while also maintaining a sense of belonging.
+
+Or we can go to Abilene.
+
+ 
+
+Footnotes
+
+[1] The Abilene Paradox: The Management of Agreement (Jerry Harvey, Organizational Dynamics, Summer 1974). Also see The Abilene Paradox and Other Meditations on Management (Jerry Harvey, 1988)
+
+- This touching memorial by Bruce Peters conveys Harvey's impact beyond his writing and research.
+
+[2] Ibid, page 2.
+
+[3] Ibid, page 6.
+
+[4] Ibid, pages 7-8.
+
+[5] The quotation in Harvey is from The Two Cultures, a lecture delivered by the British scientist and writer C.P. Snow in 1959.
+
+[6] Freud believed that a form of love is at the center of all group experience:
+
+If an individual gives up his distinctiveness in a group and lets its other members influence him by suggestion, it gives one the impression that he does it because he feels the need of being in harmony with them rather than in opposition to them--so that perhaps after all he does it "ihnen zu Liebe" (i.e. "for their sake," but literally "for love of them.") Group Psychology and the Analysis of the Ego, page 31 (Sigmund Freud, 1921)
+
+[7] Make Your Employees Feel Psychologically Safe (Martha Lagace interviewing Amy Edmondson, Harvard Business School Working Knowledge, 2018). For more on Edmondson's work on psychological safety:
+
+-
+How Fearless Organizations Succeed (strategy+business, 2018; excerpted from Edmondson's book below)
+
+-
+The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation and Growth (2018)
+
+-
+Building a psychologically safe workplace [11:26 video] (TEDxHGSE, 2014)
+
+-
+Managing the risk of learning: Psychological safety in work teams (2002)
+
+[8] Leading Is an Act of Love
+
+[9] Harvey, page 7.
+
+[10] Conform to the Culture, Just Enough
+
+ 
+
+For Further Reading
+
+Risk Management (The Importance of Speaking Up)
+
+How Leaders Create Safety and Danger
+
+Hammering Eggs (Leadership and Problem-Solving)
+
+Taking the Leap (Dealing with Risk and Uncertainty)
+
+ 
+
+Photo by RawPixel Ltd.
+

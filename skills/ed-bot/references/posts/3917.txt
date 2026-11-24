@@ -1,0 +1,67 @@
+---
+title: Three More Horsemen (How We Self-Sabotage)
+url: https://edbatista.com/2016/12/three-more-horsemen-how-we-self-sabotage.html
+slug: three-more-horsemen-how-we-self-sabotage
+published: 2016-12-27T05:00:00
+updated: 2025-10-11T17:49:52
+source_body: wordpress-html
+---
+
+University of Washington social psychologist John Gottman has described a set of behaviors as "the Four Horsemen," referring to a symbol of the apocalypse in the Book of Revelation. These four interpersonal dynamics have a predictable and powerful negative impact on a relationship and are often indicators of worse problems to come:
+
+- Criticism: Presenting a problem as though it were the result of the other person's defective personality.
+
+- Contempt: The suggestion that you're superior in some way to the other person.
+
+- Stonewalling: A refusal to engage and provide feedback.
+
+- Defensiveness: Denial of responsibility for any part of a problem. [1,2]
+
+Gottman notes that although these dynamics are counter-productive over the long term, we tend to fall back upon them during stressful experiences because we find them soothing. They often lower the heart rate, particularly in men, but this doesn't make them effective conflict-management strategies--the key is finding better ways to soothe ourselves when under stress.
+
+In my work as a coach and teacher I see these dynamics not only in interpersonal relationships with others, but also in our relationship with ourselves, where they show up as three forms of self-sabotage:
+
+Self-Criticism: Viewing a problem as the result of our defective personality.
+
+This is a version of the "fixed mindset" in Stanford psychologist Carol Dweck's framework, which Maria Popova describes as the belief that "our character, intelligence, and creative ability are static givens which we can’t change in any meaningful way." [3] When we make a mistake or suffer a setback, we see it as an inevitable function of the limitations of our intellectual or emotional capabilities.
+
+The key here is adopting the alternative view in Dweck's model, a "growth mindset," which, Popova continues, "sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities." Dweck's research indicates that simply being aware of these two perspectives can help us begin to move from a fixed mindset to a growth mindset. This doesn't mean that we blithely ignore our failures or that we fail to hold ourselves accountable. But we can take a different approach and be less self-critical by recognizing that our brains are malleable and capable of change throughout our lives, by focusing on what can be learned from any mistake or setback, and by emphasizing the importance of persistence and grit in the process.
+
+Self-Contempt: The belief that we're inferior in some way to others.
+
+This is a deeper, more profound form of self-criticism. Rather than simply viewing ourselves as inept or incapable in some way, we feel that we're less deserving of support, happiness, fulfillment or love. In this state we're alienated from ourselves, and when others express appreciation or affection toward us, we feel uncomfortable and may go to great lengths to avoid hearing them or prevent others from sharing them with us.
+
+The key here is accepting ourselves [4] and feeling compassion for ourselves. [5] One starting point is addressing the often ineffective means by which we're pursuing fulfillment and meaning in our lives. As I've written before, "When we feel that we're not 'good enough'--not successful enough, not accomplished enough, not rich enough, not attractive enough, simply not enough--our efforts to break out of that state of mind by 'getting better' are doomed to fail." [6] A psychological dynamic known as hedonic adaptation insures that we quickly take for granted almost all significant improvements or accomplishments; ambitious goals can spur us to action, but they can also leave us demotivated and overwhelmed; and we naturally compare ourselves to others to assess our progress, which can often cause us to feel worse about ourselves. While large-scale life changes may be necessary, small-scale habitual activities may have an even bigger impact on our sense of well-being. [7,8]
+
+Denial: A refusal to engage ourselves and take responsibility.
+
+The interpersonal version of stonewalling and defensiveness involves a refusal to discuss difficult issues or to take responsibility for our contribution to the problem. Behaviorally this can range from slippery evasiveness to a full-blown, door-slamming, angry retreat. The intrapersonal version of these dynamics is denial--we refuse to acknowledge a difficult issue to ourselves, and we avoid thinking about it or dealing with it, which insures that we need not face up to our responsibility for it. This begins with mild procrastination and harmless diversions, but it can escalate to much more serious levels of unhealthy behavior.
+
+The key here is coming to terms with the underlying emotions that we're in flight from. Typically there's some embarrassment, guilt, or shame triggering our denial, which is really an attempt to avoid having to confront those unpleasant feelings. This is an understandable but futile response--denial rarely succeeds indefinitely, and it usually makes things worse when a reckoning becomes unavoidable. A starting point is engaging ourselves in various forms of dialogue--reflecting, journaling, talking with people we trust [9]--which will help us better manage those unpleasant feelings and begin to take responsibility for the situation. [10]
+
+Thanks to Scott Bristol, who first introduced me to Gottman's research at Stanford in his sections of Interpersonal Dynamics, aka Touchy Feely, many years ago.
+
+Footnotes
+
+[1] The Seven Principles for Making Marriage Work, Chapter 2: How I Predict Divorce (John Gottman and Nan Silver, 2000)
+
+[2] The Four Horsemen: Criticism, Contempt, Defensiveness, and Stonewalling, The Gottman Institute (Ellie Lisitsa, 2013)
+
+[3] Fixed vs. Growth: The Two Basic Mindsets That Shape Our LIves (Maria Popova, 2014)
+
+[4] I Love Myself (Self-Coaching and Acceptance)
+
+[5] Self-Compassion, the work of University of Texas psychologist Kristin Neff.
+
+[6] Stop Trying to Be "Good Enough" By "Getting Better"
+
+[7] Lyubomirsky's Person-Activity Fit Diagnostic
+
+[8] Understanding the "Pie Chart" in The How of Happiness
+
+[9] Conversations with Ourselves (Self-Coaching and Self-Engagement)
+
+[10] The Trium Group on Responsibility
+
+Photo by Paulo Brandão.
+
